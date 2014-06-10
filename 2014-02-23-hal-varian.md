@@ -16,6 +16,10 @@ meta-description: Hal Varian spoke to a room full of data geeks at the Universit
 Last week I had the privilege of listening to [Hal Varian](http://www.gv.com/team/hal-varian) talk about [machine learning and econometrics](http://data.uw.edu/seminar/2014/varian/). It was a great talk.
 
 
+
+https://www.youtube.com/watch?v=EraG-2p9VuE
+
+
 ### Specialties, Specialties Everywhere
 
 First, some context. 
