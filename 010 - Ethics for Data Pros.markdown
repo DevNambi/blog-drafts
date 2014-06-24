@@ -2,6 +2,7 @@
 
 * Ethics for Data Professionals
 * Ethics for Professionals
+* Ethics for Technical Professionals
 * Professional Ethics: (SECTION)
 
 
