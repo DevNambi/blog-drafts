@@ -34,6 +34,8 @@ The HDFS file system is still immensely popular, even with companies that are wo
 1. It does a great job of maintaining file integrity using inexpensive disks without sacrificing performance.
 2. Filesystems are hard to create.
 
+http://www.slideshare.net/julienledem/th-210pledem
+
 #### MapReduce
 
 MapReduce, on the other hand, hasn't aged as well. It works well for some problems, but it turns out to be very limiting for a lot of . In particular, its batch-oriented processing paradigm makes it useless for low-lateny (interactive) queries. 
