@@ -1,31 +1,13 @@
-* Given that we're tribal, what would a representative group of friends/network look like?
-* http://www.businessweek.com/articles/2014-07-03/hospitals-are-mining-patients-credit-card-data-to-predict-who-will-get-sick
-* http://www.business-standard.com/article/companies/make-essential-drugs-affordable-for-all-cipla-114050400290_1.html
-* Privilege as a native english speaker
-* http://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/
-* Venn diagram: good intentions, being effective, unintended consequences
-* http://www.theguardian.com/commentisfree/2014/may/30/daniel-ellsberg-snowden-fair-trial-kerry-espionage-act
-* http://idlewords.com/bt14.htm
-* http://www.nakedcapitalism.com/2014/04/texas-family-awarded-3-million-americas-first-fracking-trial.html
-* http://seattletimes.com/html/businesstechnology/2023462623_apxwhitehousebigdata.html
-* http://www.infoworld.com/d/application-development/12-ethical-dilemmas-gnawing-developers-today-240574
 * http://www.theatlantic.com/health/archive/2014/04/how-meaningful-activities-protect-the-teen-brain-from-depression/360988/
 * http://fivethirtyeight.com/features/the-biggest-predictor-of-how-long-youll-be-unemployed-is-when-you-lose-your-job/
-* http://www.iflscience.com/technology/using-3d-printers-generate-villages-houses
-* http://www.washingtonpost.com/blogs/the-switch/wp/2014/04/24/a-survey-of-911-dispatchers-reveals-the-horrible-human-cost-of-bad-technology/
 * http://conservativetribune.com/nsa-official-says-we-are-a-police-state/
-* http://aattp.org/special-ed-student-who-recorded-bullies-tormenting-him-accused-of-felony-wiretapping/
-* http://www.extremetech.com/extreme/178389-spacex-prepares-to-take-the-biggest-step-towards-affordable-space-travel-soft-landing-the-falcon-9-rocket
-* http://www.reddit.com/r/AskReddit/comments/23lgxz/what_about_your_job_would_shock_the_everyday/
 * http://www.nytimes.com/2014/04/18/opinion/capitalism-and-the-dalai-lama.html
-* http://www.washingtontimes.com/news/2014/apr/20/twitter-blocks-accounts-critical-turkish-governmen/
 * http://www.nakedcapitalism.com/2014/04/general-mills-retreats-inch-mandatory-arbitration-overreach.html
-* http://america.aljazeera.com/opinions/2014/4/water-managementprivatizationworldbankgroupifc.html
 * http://www.nybooks.com/articles/archives/2014/apr/24/innovation-government-was-crucial-after-all/?insrc=hpss
-* We mirror behavior of others. This is ethical.
-   * 'Being clever' by companies counts against them
 * http://www.nakedcapitalism.com/2014/03/invasion-of-the-data-snatchers-big-data-and-the-internet-of-things-means-the-surveillance-of-everything.html
-* http://www.wired.co.uk/news/archive/2014-04/11/ebola-open-street-map
+
+
+
 Advantage goes to organizations that:
 	Have data talent
 	Have the data
@@ -83,7 +65,6 @@ Data engineers are desperately needed for:
 
 
 * Ethics = the sum of our actions, for good and worse. Also the sum of what we take from the world.
-* http://www.salon.com/2014/07/03/behind_facebooks_manipulation_its_data_science_team_works_with_few_boundaries/
 * http://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014.html#ixzz35l2kFodV
 * http://www.infoworld.com/d/consumerization-of-it/silicon-valley-has-become-wall-streets-evil-twin-244583
 * http://arstechnica.com/tech-policy/2014/06/should-tech-workers-settle-no-poach-case-for-324m-judge-has-real-doubts/
@@ -93,7 +74,6 @@ Data engineers are desperately needed for:
 * "The most perfidious way of harming a cause consists of defending it deliberately with faulty arguments."
 * http://aworkinglibrary.com/writing/legalese/
 * http://www.infoworld.com/d/consumerization-of-it/too-big-trust-googles-growing-credibility-gap-239815
-* http://www.buzzfeed.com/regajha/how-privileged-are-you
 * http://www.businessweek.com/articles/2014-04-10/deaths-at-samsung-alter-south-koreas-corporate-is-king-mindset
 * http://recode.net/2014/04/10/the-rise-of-the-data-natives/
 * http://mattstoller.tumblr.com/post/82233202309/ubers-algorithmic-monopoly-we-are-not-setting-the

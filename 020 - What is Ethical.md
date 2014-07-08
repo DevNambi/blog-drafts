@@ -1,5 +1,6 @@
 ## Title
 
+* Ethics for Engineers
 * Ethics for Data Professionals
 * Ethics for Professionals
 * Professional Ethics: (SECTION)
@@ -10,27 +11,112 @@
 1. What is Ethical?
 2. Why Ethics? (Is my job ethical?, Why Should I Care?)
 3. Looking for Ethics in All The Right Places (What industries are ethical?)
-4. Disrupting unethical industries.
+4. Ethics for Data Professionals
 
 
 ## What is Ethical?
 
 (VENN DIAGRAM OF ETHICS, MORALITY, CONSCIENCE, INTENTION, ACTION)
 
-Let's start from the Golden Rule: "Do unto others as you would have them do unto you" (LINK, Matt 7:12). It's something we learn as children. It makes sense. Chances are you're not offending anybody if you treat them the way you want to be treated. It is also a core part of **all** the world's major religions (LINKS FOR Christianity, Juddaism, Hinduism, Buddhism, Islam, Atheism) *and* famous secular texts (LINKS TO Declaration of Independence, I have a dream speech, etc).
+Let's start with the Golden Rule: "Do unto others as you would have them do unto you" (LINK, Matt 7:12). It's a maxim we learn as children, and makes sense. Chances are you're not offending anybody if you treat them the way you want to be treated. It is also a core part of **all** the world's major religions (LINKS FOR Christianity, Juddaism, Hinduism, Buddhism, Islam, Atheism) *and* famous speeches texts (LINKS TO Declaration of Independence, I have a dream speech, etc).
 
 The Golden Rule works **most** of the time. Its weakness is that people aren't all alike; what I want isn't always what you want. The [Platinum Rule](LINK) is better, "Do unto others, wherever reasonable, as they want to be done by" (LINK, REFINE). 
 
-Also, people aren't 100% accurate, so let's add a margin for error:
+People aren't perfectly self-aware, so let's add a margin for error:
 
 *"Do unto others, wherever reasonable, as they want to be done by, plus 15% for subjective error".*
 
-Great. Now we have a definition of ethics when we're interacting with a single person. When we are working we interact with groups of people, and we're not the only person contributing.
-
-The implications, however, are immense:
+This definition works both for individuals and groups. The implications, however, are immense:
 
 1. Equality: you are an equal with everyone you interact with.
 2. Reciprocity: you affect others and they affect you.
+3. Humanity: we are each endowed with inalienable, equal self-worth. 
+
+
+### Why Ethics
+
+(IMAGE: Captain Obvious)
+
+The world isn't perfect. 
+
+Some of us start with huge advantages over others. 
+
+
+##### Privilege
+
+* Native English Speaker
+
+http://www.buzzfeed.com/regajha/how-privileged-are-you
+
+Think of the world as a huge system architecture. Where are the bottlenecks in the system?
+
+It's about the goals.
+
+* The world is not perfect. Humanity faces challenges
+* Systems thinking
+   * Income inequality
+   * Climate change
+   * Space travel - we only have one planet, http://www.extremetech.com/extreme/178389-spacex-prepares-to-take-the-biggest-step-towards-affordable-space-travel-soft-landing-the-falcon-9-rocket
+   * Poverty
+   * Violence
+   * Financialization
+   * Principal-agent problem
+   * Spin > Reality
+   * Overpopulation.
+
+If everybody ignores these problems, then the problem just gets worse. Having met many of the people working at NGOs, I can tell you that they could use the help. They're dedicated, smart, and technically over their head. 
+
+
+### Human Nature
+
+We treat other people as they treat us. It's inescapable. This is *the* reason that companies who 'rightsize' their staff to give executives golden parachutes do poorly. People have a good intuitive sense of when they're being taken advantage of. 
+
+We mirror the behavior of others. 
+
+
+## What Do People Want?
+
+People are complicated, unpredictable, muddled creatures. We often don't know what we want, and rarely have the self-awareness to articulate it. We also respond in a very subjective fashion, placing immediate concerns disproportionately higher than larger, longer-term concerns. (This is why credit cards exist).
+
+There's a famous framework that describes what human beings need, a **Hierarchy of Needs**.
+
+(INSERT IMAGE OF MASLOW'S PYRAMID)
+
+
+* What do people want most? - Maslow's hierarchy of needs
+What are fundamental human rights?
+   * Air
+   * Water
+   * Shelter?
+   * Clothing?
+   * Food?
+   * Medicine?
+   * Internet?
+   * Vacations?
+   * Netflix?
+
+
+Now, let's create the opposite, Dev's ??? of ????:
+
+1. Polluted air, polluted water, unsafe/unstable housing, inadequate clothing.
+2. Not enough food, non-nutritious food, untested food. Lack of access to medicine and medical care.
+3. ...CONTINUE
+(INCLUDE IMAGES).
+
+How important are each of these? They're not equal; that's a pyramid for a reason. I'd argue that it's not a power-law distribution; lack of housing isn't 10X worse than lack of food. Let's use a log-5 scale (CHECK): each tier is five times as important as the tier above it. 
+
+"First: There are no sacred truths; all assumptions must be critically examined; arguments from authority are worthless"
+"Second: whatever is inconsistent with facts must be discarded or revised..."
+
+
+### For Better or Worse is Usually Worse
+
+Humans are risk-averse. It's a fact of life. We also focus on the negative more than the positive.
+
+(INCLUDE RISK AVERSION RATIO, NEGATIVITY RATIO).
+
+This is important because we should account for it. If I'm a doctor that treats a patient's broken leg and bills them into bankruptcy, what do you think that person will remember most? Their healed leg, or the life in poverty?
+
 
 ### Aggregate Impact
 
@@ -55,6 +141,8 @@ There's an explicit ROI here. What is our impact (return) vs. our cost (investme
 We are rarely in total control of everything. Software engineering and IT ops are team skills. There are also tons of other groups (PMs, management, customer service, etc) involved, and they all contribute in their own way.
 
 So what's our impact? I like to assume everyone contributes equally, at least to start with. It's not true, but it's a simplying assumption that makes a lot of the math simpler. (If anyone knows a way of scientifically measuring individual contribution, *please* let me know).
+
+http://www.reddit.com/r/AskReddit/comments/23lgxz/what_about_your_job_would_shock_the_everyday/
 
 Total Team Contribution = SUM(Each Person's Contribution)
 
