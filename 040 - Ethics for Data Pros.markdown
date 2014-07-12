@@ -104,5 +104,18 @@ We can use this to measure something else: the effect of building tools. Let's s
 | Social Networking | Helping People Communicate, No Matter What, http://www.washingtontimes.com/news/2014/apr/20/twitter-blocks-accounts-critical-turkish-governmen/ | | 
 | Water | ?? | Help people get access to clean water | Make everyone pay for water, even if they could never afford it, http://america.aljazeera.com/opinions/2014/4/water-managementprivatizationworldbankgroupifc.html | 
 | GIS Developer | Visualize data on a map | Help fight Ebola, http://www.wired.co.uk/news/archive/2014-04/11/ebola-open-street-map | The latest ad-drive app for tweens |
-| Law | | http://aattp.org/special-ed-student-who-recorded-bullies-tormenting-him-accused-of-felony-wiretapping/ | Dow chemical & Agent Orange | 
+| Law | Help thousands of refugee children in your own state, http://seattletimes.com/html/nationworld/2024016502_apxchildmigrants.html | http://aattp.org/special-ed-student-who-recorded-bullies-tormenting-him-accused-of-felony-wiretapping/ | Dow chemical & Agent Orange | 
 | Building tools for government | ? | ? | Make 911 software so crappy you help kill people, http://www.washingtonpost.com/blogs/the-switch/wp/2014/04/24/a-survey-of-911-dispatchers-reveals-the-horrible-human-cost-of-bad-technology/ | 
+| Security Researcher | Keep data secure | Help journalists inform the public of what their governments are doing, http://www.wired.com/2014/07/morgan-marquis-boire-first-look-media/ | Hide what governments are doing from their citizens |
+| Police officer | Enforce the law | Protect the public | Beat the public http://arstechnica.com/tech-policy/2014/07/police-beating-of-woman-goes-viral-rekindles-images-of-rodney-king/ | 
+| Financial regulator | http://www.nakedcapitalism.com/2014/07/benjamin-lawsky-forcing-regulators-man-charge-big-fines.html | 
+| Technical manager | Screw employees out of salary, http://www.cartoonbrew.com/business/pixars-ed-catmull-emerges-as-central-figure-in-the-wage-fixing-scandal-101362.html | 
+
+http://www.nakedcapitalism.com/2014/07/oligarchy-blues.html
+
+http://www.theatlantic.com/international/archive/2014/07/pope-franciss-radical-rethinking-of-environmentalism/374300/
+
+http://mobile.nytimes.com/2014/07/10/business/race-is-on-to-profit-from-rise-of-urgent-care.html
+
+
+http://www.theguardian.com/commentisfree/2014/jul/11/the-ultimate-goal-of-the-nsa-is-total-population-control
