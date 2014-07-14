@@ -6,6 +6,14 @@
 * http://www.nybooks.com/articles/archives/2014/apr/24/innovation-government-was-crucial-after-all/?insrc=hpss
 * http://www.nakedcapitalism.com/2014/03/invasion-of-the-data-snatchers-big-data-and-the-internet-of-things-means-the-surveillance-of-everything.html
 * http://arstechnica.com/science/2014/07/greenland-melt-may-have-pushed-sea-level-six-meters-higher-in-the-past/
+* http://www.nakedcapitalism.com/2014/07/oligarchy-blues.html
+* http://www.theatlantic.com/international/archive/2014/07/pope-franciss-radical-rethinking-of-environmentalism/374300/
+* http://mobile.nytimes.com/2014/07/10/business/race-is-on-to-profit-from-rise-of-urgent-care.html
+* http://www.theguardian.com/commentisfree/2014/jul/11/the-ultimate-goal-of-the-nsa-is-total-population-control
+* http://www.salon.com/2013/07/07/“why_did_you_shoot_me_i_was_reading_a_book_the_new_warrior_cop_is_out_of_control/
+* http://mobile.nytimes.com/2014/07/12/science/earth/study-of-organic-crops-finds-fewer-pesticides-and-more-antioxidants-.html
+
+
 
 
 

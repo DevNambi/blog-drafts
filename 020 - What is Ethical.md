@@ -18,6 +18,8 @@
 
 (VENN DIAGRAM OF ETHICS, MORALITY, CONSCIENCE, INTENTION, ACTION)
 
+* Use emotional counterexamples to prove the point. Hypocritical actions.
+
 Let's start with the Golden Rule: "Do unto others as you would have them do unto you" (LINK, Matt 7:12). It's a maxim we learn as children, and makes sense. Chances are you're not offending anybody if you treat them the way you want to be treated. It is also a core part of **all** the world's major religions (LINKS FOR Christianity, Juddaism, Hinduism, Buddhism, Islam, Atheism) *and* famous speeches texts (LINKS TO Declaration of Independence, I have a dream speech, etc).
 
 The Golden Rule works **most** of the time. Its weakness is that people aren't all alike; what I want isn't always what you want. The [Platinum Rule](LINK) is better, "Do unto others, wherever reasonable, as they want to be done by" (LINK, REFINE). 

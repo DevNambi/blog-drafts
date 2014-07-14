@@ -111,11 +111,4 @@ We can use this to measure something else: the effect of building tools. Let's s
 | Financial regulator | http://www.nakedcapitalism.com/2014/07/benjamin-lawsky-forcing-regulators-man-charge-big-fines.html | 
 | Technical manager | Screw employees out of salary, http://www.cartoonbrew.com/business/pixars-ed-catmull-emerges-as-central-figure-in-the-wage-fixing-scandal-101362.html | 
 
-http://www.nakedcapitalism.com/2014/07/oligarchy-blues.html
 
-http://www.theatlantic.com/international/archive/2014/07/pope-franciss-radical-rethinking-of-environmentalism/374300/
-
-http://mobile.nytimes.com/2014/07/10/business/race-is-on-to-profit-from-rise-of-urgent-care.html
-
-
-http://www.theguardian.com/commentisfree/2014/jul/11/the-ultimate-goal-of-the-nsa-is-total-population-control
