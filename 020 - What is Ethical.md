@@ -51,10 +51,10 @@ Let's think of some examples:
 
 All of these have a few common elements:
 
-- They put *your desires* ahead of the desires of others. 
-- They are not something you would want to have happen to you, or your loved ones.
+* They put *your desires* ahead of the desires of others. 
+* They are not something you would want to have happen to you.
 
-The worst examples are when you hurt a small number of people very badly (murder) or hurt *many* people a bit. 
+It turns out some people know how to be good. They're just under the age of 10.
 
 #### Children Know How to be Good
 
@@ -62,11 +62,11 @@ We teach our kids how to be good:
 
 **Do unto others as you would have them do unto you**
 
-This is the famous Golden Rule (ADD IMAGE, LINK, Matt 7:12). 
+This is the famous Golden Rule (ADD IMAGE, LINK, Matt 7:12). It makes sense; you're probably not offending or hurting someone if you treat them the way you want to be treated. 
 
-It makes sense. Chances are you're not offending anybody if you treat them the way you want to be treated. It is also a core part of **all** the world's major religions (LINKS FOR Christianity, Juddaism, Hinduism, Buddhism, Islam, Atheism) *and* famous speeches texts (LINKS TO Declaration of Independence, I have a dream speech, etc).
+This is also an idea that's universally understood. It's a core part of **all** the world's major religions (LINKS FOR Christianity, Juddaism, Hinduism, Buddhism, Islam, Atheism), famous speeches (LINKS TO I have a dream speech, etc), and texts (LINKS to Declaration of Independence). 
 
-The Golden Rule works **most** of the time. Its weakness is that people aren't all alike; what I want isn't always what you want. The [Platinum Rule](LINK) is better, "Do unto others, wherever reasonable, as they want to be done by" (LINK, REFINE). 
+The Golden Rule works **most** of the time. Its flaw is that people aren't alike; what I want isn't always what you want. The [Platinum Rule](LINK) is better, "Do unto others, wherever reasonable, as they want to be done by" (LINK, REFINE). 
 
 People aren't perfectly self-aware, so let's add a margin for error:
 
