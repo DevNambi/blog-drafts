@@ -104,6 +104,25 @@ Data engineers are desperately needed for:
 * http://www.theatlantic.com/business/archive/2014/04/greed-is-good-a-300-year-history-of-a-dangerous-idea/360265/
 * http://pando.com/2014/03/22/revealed-apple-and-googles-wage-fixing-cartel-involved-dozens-more-companies-over-one-million-employees/
 * http://www.extremetech.com/computing/185544-anger-mounts-over-facebooks-news-feed-experiment-company-denies-wrongdoing
+* http://www.nakedcapitalism.com/2014/07/will-fossil-fuel-subprime-cycle.html
+* http://www.nakedcapitalism.com/2014/07/tom-engelhardt-exceptional-decline-exceptional-county-empire-basket-case.html
+* http://www.nakedcapitalism.com/2014/07/financial-times-reports-on-private-equity-firm-fee-grifting-investor-discontent.html
+* http://www.desertsun.com/story/news/environment/2014/07/12/nestle-arrowhead-tapping-water/12589267/
+* http://fivethirtyeight.com/datalab/in-the-papers-prison-prostitution-and-unhappy-cities/
+
+
+
+
+
+ RT @hmason: When you use data to study people, ask "who gains power with this info?" If it's not the people whose data you are using, there…
+
+Link to Tweet: https://twitter.com/DevNambi/status/488397169540345856
+
+
+http://en.wikipedia.org/wiki/Not_even_wrong
+
+
+
 - Blog post - ethics & opportunities for data professionals
 	• Necessity is mother of invention
 	• Who
@@ -124,3 +143,5 @@ Data engineers are desperately needed for:
 		○ Efficiency
 		○ Where is the need
 		○ Human impact
+
+

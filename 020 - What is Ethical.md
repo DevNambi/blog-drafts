@@ -3,7 +3,11 @@
 * Ethics for Engineers
 * Ethics for Data Professionals
 * Ethics for Professionals
+* Code Like You Give a Damn
 * Professional Ethics: (SECTION)
+* Ethics for Smart People
+* Be Good and Smart
+* (Some clickbait headline?)
 
 
 ### Sections
@@ -14,13 +18,53 @@
 4. Ethics for Data Professionals
 
 
-## What is Ethical?
+# POST
 
-(VENN DIAGRAM OF ETHICS, MORALITY, CONSCIENCE, INTENTION, ACTION)
+We all want to be good people. Sadly, most of us aren't as good as we think, and not as good as society needs us to be.
 
-* Use emotional counterexamples to prove the point. Hypocritical actions.
+This is fairly simple to prove. Ask yourself a few simple questions:
 
-Let's start with the Golden Rule: "Do unto others as you would have them do unto you" (LINK, Matt 7:12). It's a maxim we learn as children, and makes sense. Chances are you're not offending anybody if you treat them the way you want to be treated. It is also a core part of **all** the world's major religions (LINKS FOR Christianity, Juddaism, Hinduism, Buddhism, Islam, Atheism) *and* famous speeches texts (LINKS TO Declaration of Independence, I have a dream speech, etc).
+1. Is the world fair to everyone? (If you say yes, ADD TRAGIC IMAGE)
+2. What does it mean to be a good person?
+3. Do I do enough for others to be considered a good person?
+4. Given the advantages I have compared to the rest of humanity, is that enough?
+5. If yes, how do I know? What evidence do I have?
+
+
+Chances are you don't have answers to some of those questions. That's pretty normal, actually. Outside of some folks in the clergy, bioethics professors, and a few nonprofits, I haven't heard a coherent answer to these questions.
+
+Let's think about using logic.
+
+## What Does it Mean to be Good?
+
+This is a hard question. Let's think about the opposite problem.
+
+**What Does it Mean to be Bad?**
+
+Let's think of some examples:
+
+* Theft
+* Murder
+* Slavery
+* Kidnapping
+* Bribery and extortion
+
+All of these have a few common elements:
+
+- They put *your desires* ahead of the desires of others. 
+- They are not something you would want to have happen to you, or your loved ones.
+
+The worst examples are when you hurt a small number of people very badly (murder) or hurt *many* people a bit. 
+
+#### Children Know How to be Good
+
+We teach our kids how to be good:
+
+**Do unto others as you would have them do unto you**
+
+This is the famous Golden Rule (ADD IMAGE, LINK, Matt 7:12). 
+
+It makes sense. Chances are you're not offending anybody if you treat them the way you want to be treated. It is also a core part of **all** the world's major religions (LINKS FOR Christianity, Juddaism, Hinduism, Buddhism, Islam, Atheism) *and* famous speeches texts (LINKS TO Declaration of Independence, I have a dream speech, etc).
 
 The Golden Rule works **most** of the time. Its weakness is that people aren't all alike; what I want isn't always what you want. The [Platinum Rule](LINK) is better, "Do unto others, wherever reasonable, as they want to be done by" (LINK, REFINE). 
 
@@ -33,6 +77,10 @@ This definition works both for individuals and groups. The implications, however
 1. Equality: you are an equal with everyone you interact with.
 2. Reciprocity: you affect others and they affect you.
 3. Humanity: we are each endowed with inalienable, equal self-worth. 
+4. Giving: since you are outnumbered by people with equal self-worth, most of your effort should be spend helping others
+
+
+(VENN DIAGRAM OF ETHICS, MORALITY, CONSCIENCE, INTENTION, ACTION)
 
 
 ### Why Ethics
