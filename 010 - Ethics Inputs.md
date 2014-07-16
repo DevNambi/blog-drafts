@@ -12,6 +12,7 @@
 * http://www.theguardian.com/commentisfree/2014/jul/11/the-ultimate-goal-of-the-nsa-is-total-population-control
 * http://www.salon.com/2013/07/07/“why_did_you_shoot_me_i_was_reading_a_book_the_new_warrior_cop_is_out_of_control/
 * http://mobile.nytimes.com/2014/07/12/science/earth/study-of-organic-crops-finds-fewer-pesticides-and-more-antioxidants-.html
+* http://techcrunch.com/2014/07/15/harnessing-big-data-for-social-good-yc-backed-nonprofit-bayes-impact-launches/
 
 
 

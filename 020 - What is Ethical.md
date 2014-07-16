@@ -64,7 +64,7 @@ We teach our kids how to be good:
 
 This is the famous Golden Rule (ADD IMAGE, LINK, Matt 7:12). It makes sense; you're probably not offending or hurting someone if you treat them the way you want to be treated. 
 
-This is also an idea that's universally understood. It's a core part of **all** the world's major religions (LINKS FOR Christianity, Juddaism, Hinduism, Buddhism, Islam, Atheism), famous speeches (LINKS TO I have a dream speech, etc), and texts (LINKS to Declaration of Independence). 
+This is a well-known concept. It's a core part of **all** of the world's major religions (LINKS FOR Christianity, Juddaism, Hinduism, Buddhism, Islam, Atheism), famous speeches (LINKS TO I have a dream speech, etc), and texts (LINKS to Declaration of Independence). 
 
 The Golden Rule works **most** of the time. Its flaw is that people aren't alike; what I want isn't always what you want. The [Platinum Rule](LINK) is better, "Do unto others, wherever reasonable, as they want to be done by" (LINK, REFINE). 
 
@@ -72,37 +72,46 @@ People aren't perfectly self-aware, so let's add a margin for error:
 
 *"Do unto others, wherever reasonable, as they want to be done by, plus 15% for subjective error".*
 
-This definition works both for individuals and groups. The implications, however, are immense:
+This definition works both for individuals and groups. **That's how to be a good person**
 
-1. Equality: you are an equal with everyone you interact with.
-2. Reciprocity: you affect others and they affect you.
-3. Humanity: we are each endowed with inalienable, equal self-worth. 
-4. Giving: since you are outnumbered by people with equal self-worth, most of your effort should be spend helping others
+The implications, though, are immense:
 
+**Lesson 1, Humanity**: we are each endowed with inalienable, equal self-worth. 
+**Lesson 2, Equality**: you are an equal with everyone you interact with.
+**Lesson 3, Reciprocity**: you affect others and they affect you.
 
 (VENN DIAGRAM OF ETHICS, MORALITY, CONSCIENCE, INTENTION, ACTION)
 
 
-### Why Ethics
+### Why Should I Change?
 
-(IMAGE: Captain Obvious)
+People are born and live in different circumstances. Some of us own a house, cars, electronics, *boats*. Others don't have access to clean water or sufficient food. Humanity has *never* been equal, and it certainly isn't now (go back to caveman times, LINKS to evidence).
 
-The world isn't perfect. 
+What does it mean to be a good person in an inequal, often traumatic, world?
 
-Some of us start with huge advantages over others. 
+> All Humans Have Self Worth + Not All Humans Have Equal Treatment = We Must Do Something (format as equation)
+
+
+Chances are you were born in, and grew up in, [better circumstances than most of the world's population](http://www.buzzfeed.com/regajha/how-privileged-are-you).
+
+If we add in the Platinum Role, we end up with:
+
+**Lesson 4, Giving**: since you are outnumbered by people with the same amount of humanity as you, but in worse straits, *most of your work* should be to help others as they want to be helped.
+
+There's a moral imperative here: people who are successful need to share *most* of their success with the less fortunate. It's what we want everybody else to do, after all.
+
+
+
+
 
 
 ##### Privilege
 
-* Native English Speaker
-
-http://www.buzzfeed.com/regajha/how-privileged-are-you
 
 Think of the world as a huge system architecture. Where are the bottlenecks in the system?
 
 It's about the goals.
 
-* The world is not perfect. Humanity faces challenges
 * Systems thinking
    * Income inequality
    * Climate change
