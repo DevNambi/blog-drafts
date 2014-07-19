@@ -20,6 +20,8 @@ Last week I had the privilege of listening to [Hal Varian](http://www.gv.com/tea
 https://www.youtube.com/watch?v=EraG-2p9VuE
 
 
+http://www.vox.com/2014/7/15/5898187/prostitution-rhode-island-decriminalized
+
 ### Specialties, Specialties Everywhere
 
 First, some context. 

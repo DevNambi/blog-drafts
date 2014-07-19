@@ -24,3 +24,5 @@
 Look for wisdom everywhere. Difference between expert and expert beginner is self-reflection, realization and changing behavior. Self-awareness is the key.
 
 http://www.theatlantic.com/health/archive/2013/10/how-to-build-a-happier-brain/280752/
+
+http://www.newrepublic.com/article/118714/interruptions-work-make-you-way-less-productive
