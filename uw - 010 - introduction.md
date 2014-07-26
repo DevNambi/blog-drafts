@@ -51,5 +51,13 @@ There have been endless news articles on this topic, mostly focusing on the prob
 **Where Does the Money Go?**
 **It's About the Money, Stupid**
 
-Am I afraid I will make enemies, or be fired? Honestly? No, not really. I certainly don't want to offend anyone, and I like to think I'm good at my job. 
+
+### Risk Aversion
+
+* 19-1 is a tie
+* Don't do anything without checking to see if anybody's offended or objects
+* Make decisions by consensus. 
+* When in doubt, do what has been done before. That's the 'safe' thing to do.
+* Make something comprehensive, that's complicated & can satisfy everybody. The opposite philosophy of MVP (LINKME)
+* Never get rid of anything. 
 
