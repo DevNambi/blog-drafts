@@ -51,6 +51,8 @@ There have been endless news articles on this topic, mostly focusing on the prob
 **Where Does the Money Go?**
 **It's About the Money, Stupid**
 
+http://www.nakedcapitalism.com/2014/07/financial-predators-move-foreclosure-rescue-enter-student-debt-military-lending-spaces.html
+
 
 ### Risk Aversion
 
