@@ -63,3 +63,4 @@ http://www.nakedcapitalism.com/2014/07/financial-predators-move-foreclosure-resc
 * Make something comprehensive, that's complicated & can satisfy everybody. The opposite philosophy of MVP (LINKME)
 * Never get rid of anything. 
 
+The periodic nature of academia means it's easy to think of doing something in the *next* academic year. The anchoring time references are years, not quarters, months or weeks.

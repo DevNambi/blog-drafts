@@ -54,17 +54,15 @@ All of these have a few common elements:
 * They put *your desires* ahead of the desires of others. 
 * They are not something you would want to have happen to you.
 
-It turns out some people know how to be good. They're just under the age of 10.
+It turns out there's an entire category of people who intuitively know what is good or bad: kids.
 
-#### Children Know How to be Good
-
-We teach our kids how to be good:
+#### We Teach Our Kids to be Good
 
 **Do unto others as you would have them do unto you**
 
-This is the famous Golden Rule (ADD IMAGE, LINK, Matt 7:12). It makes sense; you're probably not offending or hurting someone if you treat them the way you want to be treated. 
+This is the famous Golden Rule (ADD IMAGE, LINK, Matt 7:12), and it's one of the first things taught to kids in school. It makes sense; you're probably not offending or hurting anyone if you treat them the way you want to be treated. 
 
-This is a well-known concept. It's a core part of **all** of the world's major religions (LINKS FOR Christianity, Juddaism, Hinduism, Buddhism, Islam, Atheism), famous speeches (LINKS TO I have a dream speech, etc), and texts (LINKS to Declaration of Independence). 
+This simple idea is also a core part of **all** of the world's major religions (LINKS FOR Christianity, Juddaism, Hinduism, Buddhism, Islam, Atheism), famous speeches (LINKS TO I have a dream speech, etc), and texts (LINKS to Declaration of Independence).
 
 The Golden Rule works **most** of the time. Its flaw is that people aren't alike; what I want isn't always what you want. The [Platinum Rule](LINK) is better, "Do unto others, wherever reasonable, as they want to be done by" (LINK, REFINE). 
 
@@ -96,34 +94,12 @@ Chances are you were born in, and grew up in, [better circumstances than most of
 
 If we add in the Platinum Role, we end up with:
 
-**Lesson 4, Giving**: since you are outnumbered by people with the same amount of humanity as you, but in worse straits, *most of your work* should be to help others as they want to be helped.
+**Lesson 4, Giving**: since you are outnumbered by people with the same amount of humanity as you *and* who are in worse circumstances not of their own making, *most of your work* should be to help others as they want to be helped.
 
-There's a moral imperative here: people who are successful need to share *most* of their success with the less fortunate. It's what we want everybody else to do, after all.
+There's a moral imperative here: people who are successful should share *most* of their success with the less fortunate. It's what we want everybody else to do, after all.
 
+This raises hackles with lots of people. They see themselves as self-made, ignoring the privileges they had to begin with: parental guidance, public education, *running water*, *electricity*, *food*, the rule of law, and so much more. This is especially true nowadays with social mobility on the decline (ADD LINK). Successful people probably had successful (or at least stable) parents. 
 
-
-
-
-
-##### Privilege
-
-
-Think of the world as a huge system architecture. Where are the bottlenecks in the system?
-
-It's about the goals.
-
-* Systems thinking
-   * Income inequality
-   * Climate change
-   * Space travel - we only have one planet, http://www.extremetech.com/extreme/178389-spacex-prepares-to-take-the-biggest-step-towards-affordable-space-travel-soft-landing-the-falcon-9-rocket
-   * Poverty
-   * Violence
-   * Financialization
-   * Principal-agent problem
-   * Spin > Reality
-   * Overpopulation.
-
-If everybody ignores these problems, then the problem just gets worse. Having met many of the people working at NGOs, I can tell you that they could use the help. They're dedicated, smart, and technically over their head. 
 
 
 ### Human Nature
@@ -175,6 +151,39 @@ Humans are risk-averse. It's a fact of life. We also focus on the negative more 
 (INCLUDE RISK AVERSION RATIO, NEGATIVITY RATIO).
 
 This is important because we should account for it. If I'm a doctor that treats a patient's broken leg and bills them into bankruptcy, what do you think that person will remember most? Their healed leg, or the life in poverty?
+
+
+
+
+##### Bottlenecks of the World
+
+Let's think about the world as one huge system architecture. Where are the bottlenecks and unstable points in the system? Where are the assets and spare capacity?
+
+**Bottlenecks**
+
+
+**Spare Capacity**
+
+* Scientific research
+* Smart people
+* Natural resources
+* Opportunity cost spent on consumerism
+
+
+It's about the goals.
+
+* Systems thinking
+   * Income inequality
+   * Climate change
+   * Space travel - we only have one planet, http://www.extremetech.com/extreme/178389-spacex-prepares-to-take-the-biggest-step-towards-affordable-space-travel-soft-landing-the-falcon-9-rocket
+   * Poverty
+   * Violence
+   * Financialization
+   * Principal-agent problem
+   * Spin > Reality
+   * Overpopulation.
+
+If everybody ignores these problems, then the problem just gets worse. Having met many of the people working at NGOs, I can tell you that they could use the help. They're dedicated, smart, and technically over their head. 
 
 
 ### Aggregate Impact
