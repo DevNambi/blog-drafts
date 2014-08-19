@@ -31,5 +31,3 @@ My reason for starting with students is simple: money.
 Tuition is very expensive [compared to entry-level salaries](http://www.zerohedge.com/news/2014-05-18/net-worth-college-grads-student-debt-20-less-high-school-grads-no-debt), and that problem has been getting worse for *[decades](http://measuringup2008.highereducation.org/commentary/callan.php)*. Student debt is now [bigger than credit card debt](http://www.bizjournals.com/stlouis/blog/2013/04/fed-student-loan-debt-surpasses-auto.html), and it's [practically impossible to get rid of](http://www.studentloanborrowerassistance.org/bankruptcy/).
 
 My goal is simple: to find ways to help UW students graduate with the same quality education they have now, but with less debt.
-
-
