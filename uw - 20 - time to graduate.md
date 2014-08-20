@@ -1,21 +1,33 @@
 # UW - Time to Graduate
 
-In my last post (LINK), I introduced myself 
+In my [last post](http://blogs.uw.edu/fractals/introduction/), I introduced myself and gave some background into data science in academia. Let's delve into some details.
 
 
-There are several general themes underway discussing how to help students graduate with less student debt:
+Many, many people have discussed the challenge of student debt and the cost of tuition. There are several broad discussions happening now about what to do:
 
-* Add more money, usually in the form of student loans/grants and state funding. (LINKS)
-* Privatize higher education, making 'the market' solve the problem. Initial results show them to be *worse* for their students, and better for shareholders, than public higher education (ADD LINKS).
-* MOOCs and online learning, which scale far more than in-person education. Funny, though, the results aren't very compelling. It makes me wonder if the in-person, doesn't-scale part of higher education is where a lot of the value is. (ADD LINKS)
+* Add more money, usually in the form of additional state funding. I have yet to see an example of when this made tuition or student debt *decrease*.(LINKS)
+* Privatize higher education, making 'the market' solve the problem. Unfortunately, most results show for-profit colleges to have *far worse* outcomes than public higher education, resulting in fewer career opportunities and higher debt loads for their students. (ADD LINKS).
+* MOOCs and online learning, which scale far better than traditional, in-person education. Funny, though, the results aren't very impressive yet (LINK). I wonder what about the in-person, doesn't-scale part of education that is hard/impossible to duplicate on a computer. (ADD LINKS)
 
-I have no particular preference towards any approach, as long as it works. However, there are already plenty of people working on each of these areas, so I want to try something else:
+There are several other approaches, but these are the big ones. I have no particular preference or aversion to any of them, **if they make the situation better**. However, there are already plenty of people working on each of these areas, so I'm trying something else: efficiency.
+
+https://www.insidehighered.com/news/2014/08/20/consultants-best-case-scenarios-rarely-reality
 
 ### It's About Time
 
-Universities don't have set prices for a degree; they charge tuition per quarter, per semester, or per year. Public universities are often funded in a similar way; they receive a certain amount per student enrolled. 
+Colleges don't have a fixed prices for a degree; they charge tuition per quarter, per semester, or per year. Each year, students have to adjust their finances to handle different sets of loans, grants, and tuition rates. State funding is similar: public institutions are often funded by giving a certain amount per student.
 
-If students can graduate faster without losing the quality of their education, then everybody benefits. Students graduate with less student debt, and additional time in their lives. Universities can admit more students. Federal and state coffers don't have to pay as much.
+If students can graduate faster without sacrificing the quality of their education, then everybody benefits. Students graduate with less student debt. Federal and state coffers don't have to pay as much. Universities can admit more students with their increased capacity.
+
+Let's ask a broad question: **what are the barriers, good and bad, that prevent students from graduating quickly?**
+
+### Hoops and Hurdles
+
+Some barriers to graduation are good, and in fact necessary. Learning is itself a barrier; it takes time to learn a subject, and become adept in its complexity. The endless amounts of homework, papers and projects should inculcate (CHECK USAGE) both skill and the ability to learn in students.
+
+Some barriers are largely unavoidable. The ever-smaller specialities present in a developed economy only increase the amount of training necessary before someone has the necessary skills to contribute professionally.
+
+Some barriers are bad. 
 
 ### The Challenge of Choice
 
@@ -39,9 +51,11 @@ There are several areas where the time-to-graduate can be improved, because the 
 
 **Help transfer students plan transfers**
 
-Transfer efficiency
-Major-specific requirements
-MyPlan for everyone
+* Transfer efficiency
+* Major-specific requirements
+* MyPlan for everyone
+
+https://www.insidehighered.com/news/2014/08/20/moving-community-college-four-year-university-most-likely-yield-succeful-credit
 
 **Make the major-admittance process easier**
 
