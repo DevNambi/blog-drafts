@@ -50,3 +50,16 @@ https://www.linkedin.com/today/post/article/20140528155249-224083-10-signs-a-com
 * http://bostinno.streetwise.co/2014/04/10/patrick-announces-plan-to-abolish-noncompetes-launch-a-global-eir-program-aimed-at-h1-b-visa-program/
 * https://medium.com/p/f134420f0aef
 * http://seattletimes.com/html/businesstechnology/2023383110_boeingbrtxml.html
+
+<li><a href="http://t.co/6EbqhshU" time_added="1357221653" tags="hn">peteskomoroch: Valve's 'Handbook for New Employees' is an interesting read.</a></li>
+
+
+
+
+
+
+
+
+
+
+
