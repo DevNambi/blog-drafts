@@ -36,6 +36,9 @@ The HDFS file system is still immensely popular, even with companies that are wo
 
 http://www.slideshare.net/julienledem/th-210pledem
 
+http://venturebeat.com/2014/05/11/the-state-of-big-data-in-2014-chart/
+http://azure.microsoft.com/en-us/documentation/articles/documentdb-sql-query/
+
 #### MapReduce
 
 MapReduce, on the other hand, hasn't aged as well. It works well for some problems, but it turns out to be very limiting for a lot of . In particular, its batch-oriented processing paradigm makes it useless for low-lateny (interactive) queries. 

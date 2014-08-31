@@ -68,6 +68,23 @@ When you can't choose, pick buckets.
 https://twitter.com/DalaiLama/status/391133766288035840
 
 
+http://www.theguardian.com/technology/2014/jul/20/rise-of-data-death-of-politics-evgeny-morozov-algorithmic-regulation
+https://www.dropbox.com/s/ho3jis36pxiid76/Screenshot%202014-07-19%2019.14.05.png
+
+http://techcrunch.com/2014/08/02/the-rorschach-rashomon/
+
+http://www.theatlantic.com/business/archive/2014/07/how-to-swindle-soldiers/375090/
+http://lifehacker.com/seven-important-lessons-from-world-religions-everyone-s-1613615832
+
+http://chronicle.com/article/Why-Privacy-Matters-Even-if-You-Have-Nothing-to-Hide/127461/
+
+http://www.nakedcapitalism.com/2014/08/treatment-vaccine-ebola-1000-pill-hepatitis-c.html
+
+Clothing website for real people's sizes
+
+http://www.forbes.com/sites/kashmirhill/2014/07/30/cloudflare-protection/
+
+
 ### Measuring Industry Impact
 
 Let's measure each industry, and assign a value to them.

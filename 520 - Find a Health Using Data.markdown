@@ -68,3 +68,5 @@ Look at Bayesian math and conditional probability for this.
 http://www.foodfacts.com/
 
 http://www.bmj.com/press-releases/2013/10/22/observations-saturated-fat-not-major-issue
+
+http://www.nytimes.com/2014/07/07/opinion/the-risks-of-hospital-mergers.html

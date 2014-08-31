@@ -54,3 +54,6 @@ Company:
 Demand: 
 Supply of Spare Resources:
 
+http://siliconhillslawyer.com/2014/03/15/409a-service-cash-cows-get-slaughtered/
+
+http://www.wired.com/2014/04/no-exit/?hn

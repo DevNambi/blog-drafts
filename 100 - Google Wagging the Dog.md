@@ -23,6 +23,20 @@ It's the model that defines the engineering around the entire Internet.
 Data engineering doesn't have an equivalent model. This is my attempt to create one. 
 
 
+* MapReduce
+* HDFS
+* BigQuery (HBase)
+* Dremel and Drill, Parquet. Columnar big data. 
+* F1
+* Wagging the dog
+* omega and mesos
+* no-case servers and open compute 
+* Entire industries around SEO
+Ajax in maps. 
+Large storage in email inboxes. 
+
+http://the-paper-trail.org/blog/the-elephant-was-a-trojan-horse-on-the-death-of-map-reduce-at-google/
+
 ### The Elephant Has Left the Building
 
 Hadoop is almost a decade old. It's established. It's also showing it's age. The original MapReduce paper came out in 1999 (LINK).

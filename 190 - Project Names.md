@@ -172,3 +172,34 @@ I want to know about the signal:noise ratio in a product.
 * Office
 * Office 365
 * '3rd generation i7' (to replace Ivy Bridge)
+
+
+
+
+
+Pig.
+Hadoop
+YARN
+Mahout
+Impala
+Hive
+Linux
+S3
+EC2
+Dremel. Drill
+
+http://www.theatlantic.com/features/archive/2014/04/the-origins-of-office-speak/361135/
+
+vs.
+RAC
+AlwaysOn
+SQL Server
+Windows
+Office
+SSAS
+SSRS
+PowerView
+PowerPivot
+Tableau
+Azure
+BigQuery

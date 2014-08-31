@@ -8,4 +8,12 @@
 * Prototypes are great for this. 
 * Change + Risk = Constant per culture (company, org, relationship).
 * Compatibility is huge.
-* 
+
+
+Risk vs. reward. Risk aversion.
+
+http://www.bloomberg.com/news/2014-04-11/nsa-said-to-have-used-heartbleed-bug-exposing-consumers.html
+
+http://www.wired.com/2014/04/hospital-equipment-vulnerable/
+
+http://www.pqed.org/2014/06/how-should-people-respond-to-open-carry.html

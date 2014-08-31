@@ -79,3 +79,11 @@ Systems engineering. Triage. Bottleneck analysis.
 * Politics
 
 Emphasize what we don't know
+
+
+* http://forecast.io/raw/
+* http://www.nakedcapitalism.com/2014/04/gaius-publius-climate-scientist-michael-mann-dont-stop-now-well-surpass-2c-global-warming.html
+* http://www.wunderground.com/blog/JeffMasters/comment.html?entrynum=2663
+* http://www.nytimes.com/2014/04/20/magazine/its-the-end-of-the-world-as-we-know-it-and-he-feels-fine.html?hp&_r=0
+* http://www.theatlantic.com/politics/archive/2014/04/republicans-framing-climate-change/360911/
+* http://www.nakedcapitalism.com/2014/04/earth-day-can-grow-enough-food-avoid-human-planetary-dieback.html

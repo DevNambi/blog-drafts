@@ -9,3 +9,13 @@ These little, "inconvenient" things can add up, and I promise you that once you 
 The time for laughing it off as a nutter conspiracy theory is over. What happened in Iran can happen here. What happened in East Germany can happen here. What happened in the former USSR can happen here. What happened in Chile can happen here. These were free societies, of different economic policy, that were overtaken by autocracy. The only way to prevent it is to fight it. The only way to fight it is to starve it.
 
 Each of us has a choice, and our choices matter.
+
+
+* http://thomaslarock.com/2014/03/safe-data-theft/
+* http://www.fastcoexist.com/3027665/the-nsa-can-learn-all-your-secrets-from-your-phone-metadata
+* http://billmoyers.com/2014/03/13/tips-for-protecting-your-privacy-online/
+* http://us.macmillan.com/dragnetnation/JuliaAngwin/
+* http://technet.microsoft.com/library/cc722487.aspx
+* http://www.extremetech.com/internet/180485-the-ultimate-guide-to-staying-anonymous-and-protecting-your-privacy-online
+* http://blogs.computerworld.com/security/23805/michaels-finally-confirms-massive-pos-hack-aaron-bros-well
+* http://www.theguardian.com/world/2014/jun/07/stephen-fry-denounces-uk-government-edward-snowden-nsa-revelations
