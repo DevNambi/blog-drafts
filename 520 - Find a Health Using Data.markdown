@@ -1,6 +1,8 @@
 # How to find health using Data
 *This is becoming a blog post series*
 
+http://vikparuchuri.com/blog/exploring-us-healthcare-data/
+
 1. Why is this important. Financial risks. Ruin of your life. Principal-agent problem. 
 2. Causes of bad health. Preventative vs. acute care
 3. Preventative Care - Food
@@ -70,3 +72,16 @@ http://www.foodfacts.com/
 http://www.bmj.com/press-releases/2013/10/22/observations-saturated-fat-not-major-issue
 
 http://www.nytimes.com/2014/07/07/opinion/the-risks-of-hospital-mergers.html
+
+
+### Health-Care IT
+
+http://www.nakedcapitalism.com/2014/06/ugly-truth-electronic-health-records.html
+
+http://mobile.nytimes.com/2014/07/20/us/insurers-face-new-health-law-rules-to-widen-networks-and-prevent-surprise-bills.html
+
+http://mosaicscience.com/story/can-meditation-really-slow-ageing
+
+http://mobile.nytimes.com/2014/07/20/opinion/sunday/bottlenecks-in-training-doctors.html?_r=0
+
+http://opensource.com/health/14/6/can-open-science-help-patients-and-save-pharma

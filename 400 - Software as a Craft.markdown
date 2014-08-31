@@ -9,3 +9,5 @@
       § Same for furniture?
    - Blog post on guild laws
    - Blog post on the craft of software engineering
+
+* Post on office setup

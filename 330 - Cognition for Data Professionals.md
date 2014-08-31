@@ -21,8 +21,26 @@
 * (Articles in the \Health and \Lifehacker sections of Pocket)
 * Curiosity and pride. Humility is helpful.
 
+* know your own skills
+* Know your weaknesses
+* Know your effect on your company, and the company's effects on the world.
+
 Look for wisdom everywhere. Difference between expert and expert beginner is self-reflection, realization and changing behavior. Self-awareness is the key.
 
 http://www.theatlantic.com/health/archive/2013/10/how-to-build-a-happier-brain/280752/
 
 http://www.newrepublic.com/article/118714/interruptions-work-make-you-way-less-productive
+
+http://georgestocker.com/2014/04/15/how-to-destroy-programmer-productivity/
+
+It's not about what you know, but rather your framework for adding more knowledge.
+
+https://medium.com/@maebert/9-things-i-learned-as-a-software-engineer-c2c9f76c9266
+
+http://www.sfu.ca/pamr/media-releases/2014/scientists-discover-brains-anti-distraction-system.html
+
+http://well.blogs.nytimes.com/2014/03/10/do-brain-workouts-work-science-isnt-sure/?src=me&ref=general
+
+http://ayearofproductivity.com/top-lessons-learned-a-year-of-productivity/
+
+http://joshldavis.com/2014/06/13/put-yourself-out-there/

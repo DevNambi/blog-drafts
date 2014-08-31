@@ -2,6 +2,8 @@
 
 We live in a world of constraints, trade-offs, and complex decisions. It is human nature to use heuristics and previous experience to limit our own choices and make rapid decisions (LINK TO BOOK ABOUT THIS, IN MY ROOM).
 
+Data structures in real life. Analogies to help people learn
+
 ### Time X fn_Y(Complexity) X fn_X(People) X fn(Motivation) X fn(Overhead) = constant
 
 When building software, there are some inherent limits. 
@@ -81,6 +83,39 @@ Time series illustrates this well
 - Tension between prototyping (agile, incomplete) and the degradation of trust
 
 Requirements & user expectations is where things break down. Can't be agile & get them in a waterfall fashion
+
+
+
+### Prototypes and Engineering
+
+* Humility
+* Getting it right the first time
+* Private failures and public successes
+* Knowing the goal is important
+- Tension between prototyping (agile, incomplete) and the degradation of trust
+Blog post on adapting to new changes
+   Safely
+   Wisely
+
+Trial periods are good for this
+
+http://blog.hut8labs.com/speeding-up-your-eng-org-part-i.html
+
+### Ideas vs Execution
+
+"No business plan survives contact with reality"
+"No architecture survives contact with hardware"
+- Formality is overrated
+   Adds overhead, process
+   Get enough of the big picture, get the details, and GO
+   Best way to go fast is to go slow, and pare down to the essentials
+   Get better at working not by studying how to work, but by working and using reflective practice
+
+http://ejohn.org/blog/write-code-every-day/
+
+http://scottberkun.com/2014/critique-dont-fuck-up-culture/
+
+http://users.ece.utexas.edu/~adnan/pike.html
 
 
 

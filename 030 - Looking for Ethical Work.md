@@ -48,6 +48,12 @@ Work-Life Balance: List the good and bad things, and why
 • Banks - a bad thing
 
 
+**Engineers and Personal Finance
+* Time
+* Sacrifice
+
+
+
 * Cost vs. benefit
    * Matrix prioritization
    * Are you willing to take a pay cut for a better job? What if it was $1 less? How about $10? How about $100? How about $1000? It's a matter of degree; how important the issue is for you, and what you're willing to give up.

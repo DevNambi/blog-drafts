@@ -24,6 +24,7 @@ This is an information problem. It's also a FUD problem.
    * Functional literacy is disempowering.
    * We know how to use a tool, but not when/why. The 'when all you have is a hammer' syndrome
 * http://firstround.com/article/Heres-Why-Youre-Not-Hiring-the-Best-and-the-Brightest
+* http://www.codecademy.com/blog/142-why-building-a-data-science-team-is-deceptively-hard
 
 ### Ways to troll recruiters
 

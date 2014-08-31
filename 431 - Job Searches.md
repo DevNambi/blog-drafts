@@ -11,7 +11,7 @@
 2. Interview questions
    i. http://www.brentozar.com/archive/2009/06/top-10-developer-interview-questions-about-sql-server/ 
 
-
+* http://scottberkun.com/2014/critique-dont-fuck-up-culture/
 * http://it.toolbox.com/blogs/database-soup/joshs-rules-of-database-contracting-17253
 * http://www.brentozar.com/archive/2009/01/top-10-questions-to-ask-when-taking-an-it-job/
 * Look at OneNote section

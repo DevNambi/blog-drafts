@@ -14,6 +14,7 @@ http://www.hanselman.com/blog/ScottHanselmansCompleteListOfProductivityTips.aspx
 
 https://podio.com/site/creative-routines
 
+http://www.moreintelligentlife.com/content/edward-carr/last-days-polymath
 
 Lessons learned from Genius
 
