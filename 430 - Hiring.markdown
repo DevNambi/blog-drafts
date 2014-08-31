@@ -33,3 +33,5 @@ This is an information problem. It's also a FUD problem.
 http://imgur.com/a/ZpNzE
 
 http://blog.42floors.com/striking-back-recruiter-spam/
+
+http://qz.com/258066/this-is-why-you-dont-hire-good-developers/
