@@ -35,6 +35,7 @@
 <li><a href="http://seattletimes.com/html/localnews/2019920197_flipping17m.html" time_added="1355723170" tags="academia">Washington college instructors are 'flipping' the way they teach | Local Ne</a></li>
 <li><a href="http://qz.com/42233/if-you-cant-get-into-a-top-five-mba-program-dont-even-bother/" time_added="1358310461" tags="academia">If you can’t get into a top-five MBA program, don’t even bother – Quartz</a></li>
 
+http://www.vice.com/read/i-ghostwrote-hundreds-of-chinese-students-ivy-league-admissions-essays-897
 
 
 ## MOOCs / Online Learning

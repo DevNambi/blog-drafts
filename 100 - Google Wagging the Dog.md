@@ -37,6 +37,8 @@ Large storage in email inboxes.
 
 http://the-paper-trail.org/blog/the-elephant-was-a-trojan-horse-on-the-death-of-map-reduce-at-google/
 
+http://www.kdnuggets.com/2014/08/sibyl-google-system-large-scale-machine-learning.html <- Sibyl
+
 ### The Elephant Has Left the Building
 
 Hadoop is almost a decade old. It's established. It's also showing it's age. The original MapReduce paper came out in 1999 (LINK).
