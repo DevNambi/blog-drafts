@@ -44,3 +44,5 @@ http://well.blogs.nytimes.com/2014/03/10/do-brain-workouts-work-science-isnt-sur
 http://ayearofproductivity.com/top-lessons-learned-a-year-of-productivity/
 
 http://joshldavis.com/2014/06/13/put-yourself-out-there/
+
+https://medium.com/@jakek/my-year-with-a-distraction-free-iphone-and-how-to-start-your-own-experiment-6ff74a0e7a50
