@@ -41,6 +41,7 @@ Come up with the cost-effectiveness of different sports & physical exercises.
 * Use the Food Doctor book for this
 * How do I determine detrimental impact of different foods?
 
+http://mobile.nytimes.com/2014/09/02/health/low-carb-vs-low-fat-diet.html
 
 ### Health from Work
 * What's the benefit of a standing desk?
