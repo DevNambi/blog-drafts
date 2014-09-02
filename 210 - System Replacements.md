@@ -8,3 +8,5 @@
 The big way forward I can see is good, flexible design at the beginning. That, and training your existing folks to incrementally build a new system and acquire new skills
 
 * There's a thing about expectations vs. reality when it comes to timing, due dates and deliverables.
+
+http://effectivesoftwaredesign.com/2014/03/17/the-end-of-agile-death-by-over-simplification/
