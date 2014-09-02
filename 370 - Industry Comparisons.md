@@ -41,6 +41,10 @@ http://www.insure.com/articles/interactivetools
 
 ## Sharing Economy
 
+### Government
+
+* Libraries - http://online.wsj.com/news/articles/SB20001424052702303996604580086191560891202?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB20001424052702303996604580086191560891202.html
+
 ### Shared Cars
 
 http://mattstoller.tumblr.com/post/82233202309/ubers-algorithmic-monopoly-we-are-not-setting-the

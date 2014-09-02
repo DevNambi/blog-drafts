@@ -43,6 +43,8 @@ Come up with the cost-effectiveness of different sports & physical exercises.
 
 http://mobile.nytimes.com/2014/09/02/health/low-carb-vs-low-fat-diet.html
 
+http://www.theatlantic.com/health/archive/2014/09/access-to-real-food-as-privilege/379482/
+
 ### Health from Work
 * What's the benefit of a standing desk?
 * What's the benefit to going to a less-stressful working environment?

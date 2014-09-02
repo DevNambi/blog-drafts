@@ -13,6 +13,12 @@ There are several other approaches, but these are the big ones. I have no partic
 
 https://www.insidehighered.com/news/2014/08/20/consultants-best-case-scenarios-rarely-reality
 
+### The Goals of Education
+
+* Civic: Create an informed citizenry
+* Vocational: Preparation for a career (vocational)
+* Personal: Growth and fulfillment.
+
 ### It's About Time
 
 Colleges don't have a fixed prices for a degree; they charge tuition per quarter, per semester, or per year. Each year, students have to adjust their finances to handle different sets of loans, grants, and tuition rates. State funding is similar: public institutions are often funded by giving a certain amount per student.
@@ -68,7 +74,9 @@ https://www.insidehighered.com/news/2014/08/20/moving-community-college-four-yea
 * Predict it.
 * Figure out when to offer courses
 
+**Teach things students need for a career**
 
+http://www.theatlantic.com/business/archive/2014/08/the-thing-employers-look-for-when-hiring-recent-graduates/378693/
 
 
 
@@ -88,4 +96,9 @@ https://www.insidehighered.com/news/2014/08/20/moving-community-college-four-yea
    Research
    Service learning
 
-Becoming a better person
+https://www.insidehighered.com/news/2014/03/27/civitas-brings-completion-oriented-big-data-community-colleges-and-universities
+
+Predict student performance across courses
+   Requires understanding grade inflation, however.
+
+

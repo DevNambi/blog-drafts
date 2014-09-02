@@ -28,6 +28,8 @@ Only use active verbs.
 			□ Strunk and white has impeccable style
 	- "Write until you're absolutely in love with the work"
 
+http://seriouspony.com/blog/2013/10/4/presentation-skills-considered-harmful
+
 Blog meta
 	Who is my audience?
 		DBAs who want to have a better relationship with their developers
