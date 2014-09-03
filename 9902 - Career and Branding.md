@@ -18,6 +18,8 @@
 <li><a href="http://samuelmullen.com/2012/08/the-introverts-networking-survival-guide/" time_added="1348860073" tags="brand">The Introvert's Networking Survival Guide: Large Events - Samuel Mullen</a></li>
 <li><a href="http://t.co/n7VlbGua" time_added="1355320911" tags="brand">denglishbi: Just used Twilk to put my Twitter followers on my Twitter backg</a></li>
 <li><a href="http://www.nerdfitness.com/blog/2010/09/09/5-ways-to-immediately-appear-more-confident/" time_added="1356368651" tags="health,life hacker">5 Ways to Instantly Appear More Confident | Nerd Fitness</a></li>
+<li><a href="http://judg.me/blog/first-impressions-count/" time_added="1348860352" tags="brand">First Impressions Count: How people judge your intelligence and social skil</a></li>
+<li><a href="http://unbounce.com/landing-pages/checklist/" time_added="1355255474" tags="brand">A 50-Point Checklist For Creating The Ultimate Landing Page | Unbounce</a></li>
 
 
 ## Career Planning, Consulting, Freelancing
@@ -32,6 +34,7 @@
 <li><a href="https://news.ycombinator.com/item?id=4585435&utm_source=Brent+Ozar+PLF+List&utm_campaign=3c71c065d9-Weekly_LInks_2012_10_0810_6_2012&utm_medium=email" time_added="1349718930" tags="hn">Ask HN: How does an experienced freelancer get work? | Hacker News</a></li>
 <li><a href="http://lifehacker.com/5939542/careerbliss-measures-how-happy-you-are-in-your-job-finds-you-a-happier-one" time_added="1348859888" tags="life hacker">CareerBliss Measures How Happy You Are in Your Job, Finds You a Happier One</a></li>
 <li><a href="http://blogs.lessthandot.com/index.php/ITProfessionals/consulting/successful-consulting-series-consulting-vs" time_added="1356115487" tags="brand">Less Than Dot - Blog - Successful Consulting Series - Consulting vs. Fullti</a></li>
+<li><a href="http://blogs.hbr.org/cs/2012/12/the_top_five_career_regrets.html" time_added="1355510629" tags="brand,hn,important">The Top Five Career Regrets - Daniel Gulati - Harvard Business Review</a></li>
 
 
 
@@ -43,6 +46,7 @@
 <li><a href="http://www.brentozar.com/archive/2013/01/how-we-write/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+BrentOzar-SqlServerDba+%28Brent+Ozar+Unlimited%29" time_added="1357224344" tags="brand">How We Write | Brent Ozar Unlimited</a></li>
 <li><a href="http://t.co/E25h1lbz" time_added="1354111818" tags="brand">grrl_geek: [Blog] Book Review: On Writing Well http://t.co/E25h1lbz</a></li>
 <li><a href="http://www.problogger.net/archives/2012/12/29/40-cool-things-to-do-with-your-posts-after-you-hit-publish/" time_added="1356718416" tags="brand">40 Cool Things to Do With Your Posts *After* You Hit Publish : @ProBlogger</a></li>
+<li><a href="http://www.useit.com/alertbox/articles-not-blogs.html" time_added="1349462055" tags="hn">Write Articles, Not Blog Postings (Jakob Nielsen's Alertbox)</a></li>
 
 
 ## Technical Setup

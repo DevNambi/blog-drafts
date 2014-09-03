@@ -10,6 +10,10 @@
 <li><a href="http://en.wikipedia.org/wiki/Conway's_law" time_added="1353356827" tags="sql">Conway's law - Wikipedia, the free encyclopedia</a></li>
 <li><a href="http://www.trottercashion.com/2012/08/12/how-to-write-good-log-messages.html?utm_medium=referral&utm_source=pulsenews" time_added="1349321482" tags="hn">How To Write Good Log Messages</a></li>
 <li><a href="https://tech.dropbox.com/2012/10/caching-in-theory-and-practice/" time_added="1350492013" tags="hn">Dropbox tech blog » Blog Archive » Caching in theory and practice</a></li>
+<li><a href="http://mikegrouchy.com/blog/2012/06/write-less-code.html?utm_medium=referral&utm_source=pulsenews" time_added="1349321960" tags="hn">Write Less Code</a></li>
+<li><a href="http://www.johndcook.com/blog/2012/10/01/dialing-back-the-cleverness/" time_added="1349718948" tags="hn">Dialing back the cleverness — The Endeavour</a></li>
+
+
 
 
 ## Learning to Code
@@ -19,12 +23,23 @@
 <li><a href="http://t.co/H2XyDTNY" time_added="1352406022" tags="brand,data science">datachick: What Harvey Mudd Computer Science program has done to support #W</a></li>
 <li><a href="http://ejohn.org/blog/introducing-khan-cs/" time_added="1348860441" tags="hn">John Resig - Redefining the Introduction to Computer Science</a></li>
 <li><a href="http://www.codecademy.com/tracks/python" time_added="1348860729" tags="hn">Python | Codecademy</a></li>
+<li><a href="https://gist.github.com/3444793" time_added="1348859866" tags="hn">River (getriver.com): Keep a programming journal. — Gist</a></li>
+<li><a href="http://www.daemonology.net/blog/2012-10-08-software-development-final-exam-part-1.html" time_added="1349738328" tags="hn">Software development final exam: Part 1</a></li>
+<li><a href="http://www.drdobbs.com/tools/the-git-revolution-is-here/240009161" time_added="1350492017" tags="hn">The Git Revolution Is Here | Dr Dobb's</a></li>
+<li><a href="http://coding.smashingmagazine.com/2012/10/25/why-coding-style-matters/" time_added="1351650367" tags="hn">Why Coding Style Matters | Smashing Coding</a></li>
+
+
 
 
 ## Meta
 
 <li><a href="http://dannorth.net/2011/01/11/programming-is-not-a-craft/" time_added="1355251690" tags="brand,hn">Programming is not a craft « Dan North & Associates</a></li>
 <li><a href="http://redmonk.com/sogrady/2012/11/08/framework-popularity/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+tecosystems+%28tecosystems%29" time_added="1352409479" tags="hn">Examining Programming Language Framework Popularity – tecosystems</a></li>
+<li><a href="http://www.readwriteweb.com/hack/2012/05/mit-brain-who-beat-the-casinos-launches-service-to-quantify-developer-performance.php?utm_source=pulsenews&utm_medium=referral&utm_campaign=Feed%3A+readwriteweb+%28ReadWriteWeb%29" time_added="1349321935" tags="hn">MIT Brain Who Beat the Casinos Launches Service to Quantify Developer Perfo</a></li>
+<li><a href="http://www.starling-software.com/employment/programmer-competency-matrix.html" time_added="1349738332" tags="hn">Programmer Competency Matrix</a></li>
+<li><a href="http://gizmodo.com/5925756/these-are-the-best-programming-skills-to-have-if-you-wanna-be-rich" time_added="1348860162" tags="hn">These Are the Best Programming Skills to Have if You Wanna Be Rich</a></li>
+
+
 
 
 ## Patterns and Practices
@@ -33,6 +48,10 @@
 <li><a href="http://blog.fogus.me/2009/03/11/seven-books/" time_added="1354483215" tags="hn">fogus: (Building) The 7 Books of a Highly Effective Programmer</a></li>
 <li><a href="http://java.dzone.com/articles/jez-humble-why-software?utm_medium=referral&utm_source=pulsenews" time_added="1349321415" tags="hn">Jez Humble: Why Software Development Methodologies Suck | Javalobby</a></li>
 <li><a href="http://gorban.org/post/32873465932/software-architecture-cheat-sheet" time_added="1349378737" tags="hn">Software Architecture cheat sheet</a></li>
+<li><a href="http://craftedsw.blogspot.co.uk/2012/08/the-best-approach-to-software.html" time_added="1348860170" tags="hn">Crafted Software: The best approach to software development</a></li>
+<li><a href="http://rdegges.com/service-oriented-side-effects?utm_medium=referral&utm_source=pulsenews" time_added="1348973528" tags="hn">Service Oriented Side Effects - Randall Degges</a></li>
+<li><a href="http://www.flickr.com/photos/lakequincy/sets/72157629316877860/with/7021453941/" time_added="1354134984" tags="life hacker,sql,viz">Software Craftsmanship Calendar - a set on Flickr</a></li>
+
 
 
 
@@ -40,6 +59,9 @@
 
 <li><a href="http://www.dodgycoder.net/2012/09/q-with-nine-great-programmers.html" time_added="1348860076" tags="hn">Dodgy Coder: Q&A With Nine Great Programmers</a></li>
 <li><a href="http://37signals.com/svn/posts/3375-the-five-programming-books-that-meant-most-to-me" time_added="1356676312" tags="hn">The five programming books that meant most to me by David of 37signals</a></li>
+<li><a href="http://www.economist.com/blogs/babbage/2012/06/super-star-programmers?fsrc=gn_ep&utm_medium=referral&utm_source=pulsenews" time_added="1349321857" tags="hn">Super-star programmers: Difference engine: Wired for speed | The Economist</a></li>
+<li><a href="http://news.ycombinator.com/item?id=4626201" time_added="1349738310" tags="hn">Ask HN: What did the really successful programmers do differently? | Hacker</a></li>
+
 
 
 ## Cloud Computing
@@ -134,6 +156,7 @@ things they believe in will keep </a></li>
 <li><a href="http://www.altdevblogaday.com/2011/05/17/understanding-the-fourier-transform/" time_added="1354482426" tags="ml">#AltDevBlogADay » Understanding the Fourier transform</a></li>
 <li><a href="http://highscalability.com/all-time-favorites/" time_added="1351511960" tags="hn">High Scalability - All Time Favorites</a></li>
 <li><a href="http://arstechnica.com/information-technology/2012/08/ive-inherited-200k-lines-of-spaghetti-codewhat-now/" time_added="1349321423" tags="hn">I’ve inherited 200K lines of spaghetti code—what now? | Ars Technica</a></li>
+<li><a href="http://www.infoworld.com/t/application-development/the-best-way-manage-it-projects-eliminate-them-203706" time_added="1349402989" tags="hn">The best way to manage IT projects is to eliminate them | Application devel</a></li>
 
 
 ## Funny
@@ -142,6 +165,7 @@ things they believe in will keep </a></li>
 <li><a href="http://devopsreactions.tumblr.com/" time_added="1357327205" tags="big data,cloud">DevOps Reactions</a></li>
 <li><a href="http://clippy.in/b/YJLM9W" time_added="1357663272" tags="hn">Clippy Alpha</a></li>
 <li><a href="http://arstechnica.com/gaming/2012/12/the-awesome-webcomics-ars-technica-reads/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" time_added="1356728203" tags="personal">The 12 most incredible webcomics | Ars Technica</a></li>
+<li><a href="http://www.codinghorror.com/blog/2012/05/how-to-stop-sucking-and-be-awesome-instead.html?utm_medium=referral&utm_source=pulsenews" time_added="1349321867" tags="hn">Coding Horror: How to Stop Sucking and Be Awesome Instead</a></li>
 
 
 

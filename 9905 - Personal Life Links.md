@@ -1,6 +1,5 @@
 # Parenting and Relationships
 
-
 ## Misc
 
 <li><a href="http://offbeathome.com/2012/11/modcloth-home-stuffs" time_added="1353088324" tags="domestic">Funky home stuffs on sale from ModCloth | Offbeat Home</a></li>
@@ -17,6 +16,8 @@
 <li><a href="http://bucks.blogs.nytimes.com/2012/11/13/the-cost-in-dollars-of-raising-a-child/" time_added="1352930313" tags="domestic,finance">The Cost, in Dollars, of Raising a Child - NYTimes.com</a></li>
 <li><a href="http://www.roguelynn.com/2012/07/28/our-generations-legos/" time_added="1348860465" tags="hn">Our generation’s Legos | My thoughts, exactly.</a></li>
 <li><a href="http://ireport.cnn.com/docs/DOC-910282?hpt=hp_c3" time_added="1358305628" tags="domestic">Why I Raise My Children Without God - CNN iReport</a></li>
+<li><a href="http://www.huffingtonpost.com/amy-morrison/motherhood_b_2271349.html" time_added="1355505748" tags="domestic">Amy Morrison: Why You're Never Failing as a Mother</a></li>
+
 
 
 ## Local

@@ -30,6 +30,7 @@
 <li><a href="http://t.co/fZzk3Ibe" time_added="1358602797" tags="health">avantgame: Sitting Is the Smoking of Our Generation - @HarvardBiz http://t.</a></li>
 <li><a href="http://www.cnn.com/2012/11/25/opinion/iaconesi-cure-open-source/index.html?hpt=hp_c2" time_added="1353897804" tags="health,hn">My open source cure for brain cancer - CNN.com</a></li>
 <li><a href="http://www.nerdfitness.com/blog/2013/01/14/5-mistakes-that-newbies-make-when-trying-to-get-healthy/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+NerdFitnessBlog+%28Nerd+Fitness+Blog%29" time_added="1358179406" tags="domestic,health">5 Crucial Mistakes Newbies Make Trying to Get Healthy | Nerd Fitness</a></li>
+<li><a href="http://arstechnica.com/information-technology/2012/12/robots-iphones-and-windows-xp-a-personal-journey-through-hospital-it/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" time_added="1355944215" tags="health,hn,life hacker">Robots, iPhones, and Windows XP—a personal journey through hospital IT | Ar</a></li>
 
 
 

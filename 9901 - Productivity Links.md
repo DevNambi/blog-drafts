@@ -18,6 +18,10 @@
 <li><a href="http://www.asianefficiency.com/habits/how-build-new-habits-mind-maps/" time_added="1348860346" tags="life hacker">How to Build New Habits with Mind Maps and Mindmapping</a></li>
 <li><a href="http://lifehacker.com/5944508/break-through-your-ok-plateau-by-studying-yourself-failing" time_added="1348860598" tags="hn">Break Through Your "OK Plateau" By Studying Yourself Failing</a></li>
 <li><a href="http://www.bidsketch.com/blog/save-time/be-more-productive/" time_added="1356045499" tags="life hacker">Self-Employed? Use Science to be WAY More Productive in 2013!</a></li>
+<li><a href="http://lifehacker.com/5936500/the-to-doh-list-limiting-and-learning-from-your-mistakes?utm_medium=referral&utm_source=pulsenews" time_added="1348859871" tags="life hacker">The To D'oh! List: Limiting and Learning from Your Mistakes</a></li>
+<li><a href="http://www.huffingtonpost.com/heidi-grant-halvorson-phd/stress-management_b_2293615.html?utm_hp_ref=tw&buffer_share=c2958&utm_source=buffer" time_added="1355847513" tags="health,life hacker">Heidi Grant Halvorson, Ph.D.: 9 Ways Successful People Defeat Stress</a></li>
+
+
 
 
 ## Communication
@@ -49,12 +53,14 @@
 <li><a href="http://t.co/5HC1Vudd" time_added="1353332282" tags="personal tech">SirSQL: #SQLBlog How To Securely Access Your Windows Home Computer–pt1: Som</a></li>
 <li><a href="http://blogs.cio.com/cloud-computing/17574/dirty-secrets-dropbox-google-drive-and-other-cloud-storage-services?utm_campaign=sflow_tweet" time_added="1353107738" tags="hn,personal tech">Dirty Secrets of Dropbox, Google Drive and Other Cloud Storage Services | C</a></li>
 <li><a href="http://www.wired.com/gadgetlab/2011/01/how-to-strip-drm-from-kindle-e-books-and-others/" time_added="1351008767" tags="personal tech">How To Strip DRM from Kindle E-Books and Others | Gadget Lab | Wired.com</a></li>
+<li><a href="http://t.co/MdfzbOPN" time_added="1355501945" tags="personal tech">JenniferMcCown: Used Cleanup Duplicate Contacts to clean up my iPh*ne conta</a></li>
 
 #### Reliability
 
 <li><a href="http://www.hanselman.com/blog/HowToSetUpCrashPlanCloudBackupHeadlessOnASynologyNASBackupStrategies.aspx" time_added="1353428179" tags="personal tech">shanselman: My current backup strategy, with diagram. (CrashPlan on a Synol</a></li>
 <li><a href="http://t.co/Be4EoH4a" time_added="1353202864" tags="hn">shanselman: My current backup strategy, with diagram. (CrashPlan on a Synol</a></li>
 <li><a href="http://www.jwz.org/blog/2014/01/psa-back-up-your-shit/" time_added="1389673528" tags="">jwz: PSA: Back Up Your Shit.</a></li>
+<li><a href="http://lifehacker.com/341950/belvedere-automates-your-self+cleaning-pc" time_added="1348860370" tags="personal tech">Belvedere Automates Your Self-Cleaning PC</a></li>
 
 
 #### Privacy & Security
@@ -72,6 +78,8 @@
 <li><a href="http://lifehacker.com/5965462/the-best-replacements-for-privacy+invading-services" time_added="1354650464" tags="personal tech">The Best Replacements for Privacy-Invading Services</a></li>
 <li><a href="http://www.macgasm.net/2013/01/18/good-morning-your-mac-keeps-a-log-of-all-your-downloads/" time_added="1358538670" tags="personal tech">Good Morning, Your Mac Keeps A Log Of All Your Downloads | Macgasm</a></li>
 <li><a href="http://erratasec.blogspot.com/2013/01/i-conceal-my-identity-same-way-aaron.html" time_added="1358349879" tags="hn">Errata Security: I conceal my identity the same way Aaron was indicted for</a></li>
+<li><a href="http://www.tecca.com/columns/20-facebook-tips-tricks-tools/" time_added="1348860599" tags="hn">20 Facebook tips and tricks | Tecca</a></li>
+
 
 
 
