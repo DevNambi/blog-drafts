@@ -8,3 +8,6 @@
    • When is correlation enough
 
 IT pros and scientists are similar
+
+
+http://arstechnica.com/science/2014/09/is-there-a-creativity-deficit-in-science/

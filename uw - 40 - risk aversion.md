@@ -12,3 +12,5 @@
 
 The periodic nature of academia means it's easy to think of doing something in the *next* academic year. The anchoring time references are years, not quarters, months or weeks.
 
+
+http://arstechnica.com/science/2014/09/is-there-a-creativity-deficit-in-science/

@@ -8,6 +8,9 @@
 <li><a href="http://fonnesbeck.github.io/ScipySuperpack/" time_added="1389716542" tags="">The Scipy Superpack for OS X 10.9 has been updated, and includes IPython wi</a></li>
 <li><a href="http://continuum.io/blog/blaze" time_added="1355810222" tags="big data">A Python Compiler for Big Data</a></li>
 
+http://jvns.ca/blog/2013/12/22/cooking-with-pandas/
+http://wrobstory.gitbooks.io/python-to-scala/
+
 
 
 ## Experiments & Research

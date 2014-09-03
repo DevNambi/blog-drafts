@@ -45,6 +45,8 @@ http://mobile.nytimes.com/2014/09/02/health/low-carb-vs-low-fat-diet.html
 
 http://www.theatlantic.com/health/archive/2014/09/access-to-real-food-as-privilege/379482/
 
+http://www.nytimes.com/2014/06/18/opinion/mark-bittmanthe-food-industrys-solution-to-obesity.html?src=me&ref=general
+
 ### Health from Work
 * What's the benefit of a standing desk?
 * What's the benefit to going to a less-stressful working environment?
