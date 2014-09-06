@@ -243,6 +243,8 @@ http://apps.startribune.com/news/20130915-ranked-choice-voting/
 
 http://akvo.org/blog/the-ball-of-mud-transition/
 
+http://www.oliverlehmann.com/project-management-sources/Nasa-Hundred-Rules-for-Project-Managers.pdf?utm_content=buffer9f90e&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+
 
 ### The Cost of Software
 

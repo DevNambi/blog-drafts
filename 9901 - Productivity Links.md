@@ -22,6 +22,9 @@
 <li><a href="http://www.huffingtonpost.com/heidi-grant-halvorson-phd/stress-management_b_2293615.html?utm_hp_ref=tw&buffer_share=c2958&utm_source=buffer" time_added="1355847513" tags="health,life hacker">Heidi Grant Halvorson, Ph.D.: 9 Ways Successful People Defeat Stress</a></li>
 
 
+* http://www.newyorker.com/tech/elements/walking-helps-us-think
+* http://www.acuriousmix.com/2014/09/03/designing-a-personal-knowledgebase/
+
 
 
 ## Communication
@@ -79,6 +82,8 @@
 <li><a href="http://www.macgasm.net/2013/01/18/good-morning-your-mac-keeps-a-log-of-all-your-downloads/" time_added="1358538670" tags="personal tech">Good Morning, Your Mac Keeps A Log Of All Your Downloads | Macgasm</a></li>
 <li><a href="http://erratasec.blogspot.com/2013/01/i-conceal-my-identity-same-way-aaron.html" time_added="1358349879" tags="hn">Errata Security: I conceal my identity the same way Aaron was indicted for</a></li>
 <li><a href="http://www.tecca.com/columns/20-facebook-tips-tricks-tools/" time_added="1348860599" tags="hn">20 Facebook tips and tricks | Tecca</a></li>
+
+http://www.theatlantic.com/technology/archive/2014/09/why-privacy-policies-are-so-inscrutable/379615/
 
 
 

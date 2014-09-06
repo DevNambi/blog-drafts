@@ -158,6 +158,10 @@ things they believe in will keep </a></li>
 <li><a href="http://arstechnica.com/information-technology/2012/08/ive-inherited-200k-lines-of-spaghetti-codewhat-now/" time_added="1349321423" tags="hn">I’ve inherited 200K lines of spaghetti code—what now? | Ars Technica</a></li>
 <li><a href="http://www.infoworld.com/t/application-development/the-best-way-manage-it-projects-eliminate-them-203706" time_added="1349402989" tags="hn">The best way to manage IT projects is to eliminate them | Application devel</a></li>
 
+http://www.oliverlehmann.com/project-management-sources/Nasa-Hundred-Rules-for-Project-Managers.pdf?utm_content=buffer9f90e&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+
+
+https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging-in-json/
 
 ## Funny
 

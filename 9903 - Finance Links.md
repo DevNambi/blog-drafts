@@ -48,4 +48,6 @@ http://opinionator.blogs.nytimes.com/2013/11/02/poverty-in-america-is-mainstream
 <li><a href="http://www.nakedcapitalism.com/2014/01/echo-runup-crisis-bond-investors-reaching-yield.html" time_added="1389708387" tags="">In Echo of Runup to Crisis, Bond Investors Reaching for Yield | naked capit</a></li>
 <li><a href="http://www.businessinsider.com/what-japans-lost-decade-meant-for-youth-employment-2012-10" time_added="1350779882" tags="finance,important">What Japan's Lost Decade Meant For Youth Employment - Business Insider</a></li>
 
+## Misc
 
+* http://engineering.zenpayroll.com/how-ach-works-a-developer-perspective-part-4/

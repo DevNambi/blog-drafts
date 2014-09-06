@@ -98,6 +98,7 @@ Emphasize what we don't know
 <li><a href="http://seattletimes.com/html/localnews/2020120911_climatechange13m.html" time_added="1358111905" tags="domestic">Seattle calculates how climate change will redraw its shores | Local News |</a></li>
 <li><a href="http://cliffmass.blogspot.com/2013/01/the-inevitability-of-global-warming-and.html" time_added="1358179404" tags="domestic,finance,health,important">Cliff Mass Weather Blog: The Inevitability of Global Warming and the Need f</a></li>
 
+http://arstechnica.com/science/2014/09/ocean-acidification-xprize-competition-begins/
 
 
 

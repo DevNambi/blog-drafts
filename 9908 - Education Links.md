@@ -16,6 +16,8 @@
 <li><a href="http://t.co/IPhgohl5" time_added="1357835703" tags="academia">johnlegend: Gates foundation has done important work on evaluating teachers</a></li>
 <li><a href="http://t.co/htWFmi9v" time_added="1358181350" tags="life hacker,personal">GOOD: Why is the most popular TED talk of all time about education? http://</a></li>
 
+* http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html
+
 
 ## Higher Education
 
@@ -36,6 +38,10 @@
 <li><a href="http://qz.com/42233/if-you-cant-get-into-a-top-five-mba-program-dont-even-bother/" time_added="1358310461" tags="academia">If you can’t get into a top-five MBA program, don’t even bother – Quartz</a></li>
 
 http://www.vice.com/read/i-ghostwrote-hundreds-of-chinese-students-ivy-league-admissions-essays-897
+
+http://www.newsweek.com/american-horror-ivy-league-edition-263448
+
+http://www.bloomberg.com/news/2014-09-04/secret-network-connects-harvard-money-to-payday-loans.html
 
 
 ## MOOCs / Online Learning

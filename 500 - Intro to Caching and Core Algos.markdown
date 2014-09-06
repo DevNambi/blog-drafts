@@ -27,3 +27,6 @@ Go over core algorithms. Think about Peter Thiel's limitations of current softwa
       § Similar to Thomas Kesjer's 'grade of the steel' blog posts
          § Use Powershell? C#? C++?
    • O(1) and O(log N)
+
+
+http://www.extremetech.com/extreme/188776-how-l1-and-l2-cpu-caches-work-and-why-theyre-an-essential-part-of-modern-chips

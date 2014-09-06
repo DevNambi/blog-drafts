@@ -82,3 +82,5 @@ http://carymillsap.blogspot.com/2014/02/how-did-you-learn-so-much-stuff-about.ht
 What about how they grew up? What were their influences?
 
 http://ayearofproductivity.com/top-lessons-learned-a-year-of-productivity/
+
+http://www.newyorker.com/tech/elements/walking-helps-us-think

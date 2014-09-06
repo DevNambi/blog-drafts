@@ -22,6 +22,8 @@ http://wrobstory.gitbooks.io/python-to-scala/
 <li><a href="http://strata.oreilly.com/2012/07/the-dark-side-of-data.html#more-49588" time_added="1348860826" tags="data science">The dark side of data - Strata</a></li>
 <li><a href="http://bentilly.blogspot.com/2012/10/ab-testing-scale-cheat-sheet.html" time_added="1351534808" tags="big data,data science">Random Observations: A/B testing scale cheat sheet</a></li>
 
+https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging-in-json/
+
 
 ### Open Data
 
