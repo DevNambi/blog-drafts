@@ -20,6 +20,13 @@
 <li><a href="http://www.bidsketch.com/blog/save-time/be-more-productive/" time_added="1356045499" tags="life hacker">Self-Employed? Use Science to be WAY More Productive in 2013!</a></li>
 <li><a href="http://lifehacker.com/5936500/the-to-doh-list-limiting-and-learning-from-your-mistakes?utm_medium=referral&utm_source=pulsenews" time_added="1348859871" tags="life hacker">The To D'oh! List: Limiting and Learning from Your Mistakes</a></li>
 <li><a href="http://www.huffingtonpost.com/heidi-grant-halvorson-phd/stress-management_b_2293615.html?utm_hp_ref=tw&buffer_share=c2958&utm_source=buffer" time_added="1355847513" tags="health,life hacker">Heidi Grant Halvorson, Ph.D.: 9 Ways Successful People Defeat Stress</a></li>
+<li><a href="http://lifehacker.com/5938661/look-at-yourself-objectively" time_added="1348860615" tags="hn">Look At Yourself Objectively</a></li>
+<li><a href="http://lifehacker.com/5937522/be-awesome-at-a-moments-notice-a-guide-to-powering-up-your-brain" time_added="1348860616" tags="life hacker">Be Awesome at a Moment's Notice: A Guide to Powering Up Your Brain</a></li>
+<li><a href="http://www.raptitude.com/2012/07/most-lives-are-lived-by-default/" time_added="1354851930" tags="brand,domestic,finance,health,hn,important,life hacker">Most lives are lived by default</a></li>
+<li><a href="http://www.thepassivevoice.com/12/2012/your-optimal-creativity-time-may-be-the-opposite-of-your-optimal-cognitive-time/?buffer_share=62609" time_added="1355644113" tags="hn,life hacker">Your Optimal Creativity Time May Be the Opposite of Your Optimal Cognitive </a></li>
+<li><a href="http://www.cracked.com/blog/6-harsh-truths-that-will-make-you-better-person/" time_added="1355769951" tags="life hacker">6 Harsh Truths That Will Make You a Better Person | Cracked.com</a></li>
+<li><a href="http://well.blogs.nytimes.com/2013/01/09/to-keep-the-brain-benefits-of-exercise-keep-exercising/" time_added="1357868534" tags="domestic,health">Do the Brain Benefits of Exercise Last? - NYTimes.com</a></li>
+<li><a href="http://www.scientificamerican.com/article.cfm?id=how-to-gain-or-lose-30-minutes-of-life-everyday" time_added="1357243363" tags="health">How to Gain or Lose 30 Minutes of Life Every Day: Scientific American</a></li>
 
 
 * http://www.newyorker.com/tech/elements/walking-helps-us-think
@@ -57,6 +64,22 @@
 <li><a href="http://blogs.cio.com/cloud-computing/17574/dirty-secrets-dropbox-google-drive-and-other-cloud-storage-services?utm_campaign=sflow_tweet" time_added="1353107738" tags="hn,personal tech">Dirty Secrets of Dropbox, Google Drive and Other Cloud Storage Services | C</a></li>
 <li><a href="http://www.wired.com/gadgetlab/2011/01/how-to-strip-drm-from-kindle-e-books-and-others/" time_added="1351008767" tags="personal tech">How To Strip DRM from Kindle E-Books and Others | Gadget Lab | Wired.com</a></li>
 <li><a href="http://t.co/MdfzbOPN" time_added="1355501945" tags="personal tech">JenniferMcCown: Used Cleanup Duplicate Contacts to clean up my iPh*ne conta</a></li>
+<li><a href="http://blog.clarity.fm/best-collaboration-tools-for-working-with-remote-teams/" time_added="1355281919" tags="personal tech">Best Collaboration Tools For Remote Teams | Clarity.fm Blog</a></li>
+<li><a href="http://www.newyorker.com/online/blogs/comment/2012/05/leaving-facebookistan.html" time_added="1356045431" tags="personal tech">Why I'm Leaving Facebook : The New Yorker</a></li>
+<li><a href="http://priceonomics.com/cookware/" time_added="1357847436" tags="personal tech">The Minimum Viable Kitchen</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### Reliability
 
@@ -82,6 +105,7 @@
 <li><a href="http://www.macgasm.net/2013/01/18/good-morning-your-mac-keeps-a-log-of-all-your-downloads/" time_added="1358538670" tags="personal tech">Good Morning, Your Mac Keeps A Log Of All Your Downloads | Macgasm</a></li>
 <li><a href="http://erratasec.blogspot.com/2013/01/i-conceal-my-identity-same-way-aaron.html" time_added="1358349879" tags="hn">Errata Security: I conceal my identity the same way Aaron was indicted for</a></li>
 <li><a href="http://www.tecca.com/columns/20-facebook-tips-tricks-tools/" time_added="1348860599" tags="hn">20 Facebook tips and tricks | Tecca</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2013/01/fbi-to-aclu-nope-we-wont-tell-you-how-when-or-why-we-track-you/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" time_added="1358385106" tags="personal tech">FBI to ACLU: Nope, we won’t tell you how, when, or why we track you | Ars T</a></li>
 
 http://www.theatlantic.com/technology/archive/2014/09/why-privacy-policies-are-so-inscrutable/379615/
 

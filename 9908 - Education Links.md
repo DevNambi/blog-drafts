@@ -15,6 +15,7 @@
 <li><a href="http://www.theatlantic.com/national/archive/2013/01/the-case-for-a-teacher-bar-exam/267030/" time_added="1357885058" tags="academia">The Case for a Teacher Bar Exam - Joel Klein - The Atlantic</a></li>
 <li><a href="http://t.co/IPhgohl5" time_added="1357835703" tags="academia">johnlegend: Gates foundation has done important work on evaluating teachers</a></li>
 <li><a href="http://t.co/htWFmi9v" time_added="1358181350" tags="life hacker,personal">GOOD: Why is the most popular TED talk of all time about education? http://</a></li>
+<li><a href="http://techcrunch.com/2012/09/30/how-technology-is-empowering-teachers-minting-millionaires-and-improving-education/" time_added="1349021937" tags="hn">How Technology Is Empowering Teachers, Minting Millionaires, And Improving </a></li>
 
 * http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html
 
@@ -36,6 +37,12 @@
 <li><a href="http://zackshapiro.com/post/22010015010/9-things-i-wish-someone-had-told-me-about-life-after" time_added="1355644102" tags="health,hn,life hacker">9 things I wish someone had told me about life after college | Zack Shapiro</a></li>
 <li><a href="http://seattletimes.com/html/localnews/2019920197_flipping17m.html" time_added="1355723170" tags="academia">Washington college instructors are 'flipping' the way they teach | Local Ne</a></li>
 <li><a href="http://qz.com/42233/if-you-cant-get-into-a-top-five-mba-program-dont-even-bother/" time_added="1358310461" tags="academia">If you can’t get into a top-five MBA program, don’t even bother – Quartz</a></li>
+<li><a href="http://zacharyernst.blogspot.com/2012/07/universityspeak-glossary.html" time_added="1349321489" tags="academia">Inklings: Universityspeak Glossary</a></li>
+<li><a href="http://wsac.wa.gov/PublicationsLibrary/Funding/Tuition" time_added="1354768832" tags="academia">Tuition and Fee Reports | WSAC</a></li>
+<li><a href="http://simplystatistics.org/2012/12/20/the-nih-peer-review-system-is-still-the-best-at-identifying-innovative-biomedical-investigators/" time_added="1356062759" tags="academia">The NIH peer review system is still the best at identifying innovative biom</a></li>
+<li><a href="http://www.nytimes.com/2012/12/14/business/colleges-debt-falls-on-students-after-construction-binges.html?pagewanted=1&ref=general&src=me" time_added="1355592155" tags="academia">Colleges’ Debt Falls on Students After Construction Binges - NYTimes.com</a></li>
+<li><a href="http://blog.prof.so/2012/12/transparency.html" time_added="1355606817" tags="academia">profserious: On Transparency</a></li>
+
 
 http://www.vice.com/read/i-ghostwrote-hundreds-of-chinese-students-ivy-league-admissions-essays-897
 

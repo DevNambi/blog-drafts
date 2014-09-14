@@ -13,5 +13,6 @@ http://michaelhyatt.com/lousy-leaders.html
 <li><a href="http://blogs.hbr.org/kotter/2013/01/management-is-still-not-leadership.html" time_added="1357980566" tags="academia,hn">Management Is (Still) Not Leadership - John Kotter - Harvard Business Revie</a></li>
 <li><a href="http://management.fortune.cnn.com/2013/01/10/leadership-change-resistance/?iid=HP_LN" time_added="1357848500" tags="academia,brand,hn,important,side biz">How do you lead when no one wants to follow? - Ask Annie -Fortune Managemen</a></li>
 <li><a href="http://techcrunch.com/2012/12/01/the-path-to-a-culture-of-success-is-paved-with-authentic-leadership/" time_added="1354409560" tags="hn">CEOs Don’t Come Pre-Made, Authentic Leadership Has To Be Learned | TechCrun</a></li>
+<li><a href="http://www.inc.com/jeff-haden/what-your-employees-are-really-thinking.html" time_added="1354735709" tags="brand">7 Things Your Employees Will Never Tell You | Inc.com</a></li>
 
 

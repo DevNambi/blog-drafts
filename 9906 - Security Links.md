@@ -12,6 +12,7 @@
 <li><a href="http://sqlmap.org/?utm_medium=referral&utm_source=pulsenews" time_added="1349321626" tags="sql">sqlmap: automatic SQL injection and database takeover tool</a></li>
 <li><a href="http://www.readwriteweb.com/biz/2012/10/sql-injection-hacker-attacks-are-on-the-rise-heres-how-to-defend-your-servers.php" time_added="1350141505" tags="sql">SQL Injection Hacker Attacks Are On The Rise. Here's How To Defend Your Ser</a></li>
 <li><a href="http://arstechnica.com/security/2012/12/25-gpu-cluster-cracks-every-standard-windows-password-in-6-hours/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" time_added="1355115772" tags="hn,important">25-GPU cluster cracks every standard Windows password in </a></li>
+<li><a href="http://www.readwriteweb.com/enterprise/2012/07/why-good-enough-security-really-is-good-enough-for-most-companies.php?utm_medium=referral&utm_source=pulsenews" time_added="1349321771" tags="hn">Why “Good Enough” Security Really Is Good Enough for Most Companies</a></li>
 
 
 

@@ -12,6 +12,9 @@
 <li><a href="https://tech.dropbox.com/2012/10/caching-in-theory-and-practice/" time_added="1350492013" tags="hn">Dropbox tech blog » Blog Archive » Caching in theory and practice</a></li>
 <li><a href="http://mikegrouchy.com/blog/2012/06/write-less-code.html?utm_medium=referral&utm_source=pulsenews" time_added="1349321960" tags="hn">Write Less Code</a></li>
 <li><a href="http://www.johndcook.com/blog/2012/10/01/dialing-back-the-cleverness/" time_added="1349718948" tags="hn">Dialing back the cleverness — The Endeavour</a></li>
+<li><a href="http://www.aosabook.org/en/nginx.html" time_added="1354137902" tags="hn">The Architecture of Open Source Applications (Volume 2): nginx</a></li>
+<li><a href="http://www.infoworld.com/t/application-development/6-tips-break-app-dev-bottlenecks-208304" time_added="1354903387" tags="academia,brand,hn,important">6 tips to break app dev bottlenecks | Application development - InfoWorld</a></li>
+<li><a href="http://datagenetics.com/blog/december32012/index.html" time_added="1355278385" tags="brand,data science,hn,personal tech">Secretary Puzzle</a></li>
 
 
 
@@ -38,7 +41,8 @@
 <li><a href="http://www.readwriteweb.com/hack/2012/05/mit-brain-who-beat-the-casinos-launches-service-to-quantify-developer-performance.php?utm_source=pulsenews&utm_medium=referral&utm_campaign=Feed%3A+readwriteweb+%28ReadWriteWeb%29" time_added="1349321935" tags="hn">MIT Brain Who Beat the Casinos Launches Service to Quantify Developer Perfo</a></li>
 <li><a href="http://www.starling-software.com/employment/programmer-competency-matrix.html" time_added="1349738332" tags="hn">Programmer Competency Matrix</a></li>
 <li><a href="http://gizmodo.com/5925756/these-are-the-best-programming-skills-to-have-if-you-wanna-be-rich" time_added="1348860162" tags="hn">These Are the Best Programming Skills to Have if You Wanna Be Rich</a></li>
-
+<li><a href="http://blog.openviewpartners.com/coding-is-dead-long-live-the-coders/?utm_medium=referral&utm_source=pulsenews" time_added="1349321474" tags="hn">Coding is Dead. Long Live the Coders | OpenView Blog</a></li>
+<li><a href="http://java.dzone.com/programmers-are-bad-estimating?utm_medium=referral&utm_source=pulsenews" time_added="1349321502" tags="hn">Programmer Time Translation Cheatsheet -or- Why Programmers Are Bad at Esti</a></li>
 
 
 
@@ -51,6 +55,24 @@
 <li><a href="http://craftedsw.blogspot.co.uk/2012/08/the-best-approach-to-software.html" time_added="1348860170" tags="hn">Crafted Software: The best approach to software development</a></li>
 <li><a href="http://rdegges.com/service-oriented-side-effects?utm_medium=referral&utm_source=pulsenews" time_added="1348973528" tags="hn">Service Oriented Side Effects - Randall Degges</a></li>
 <li><a href="http://www.flickr.com/photos/lakequincy/sets/72157629316877860/with/7021453941/" time_added="1354134984" tags="life hacker,sql,viz">Software Craftsmanship Calendar - a set on Flickr</a></li>
+<li><a href="http://blog.assembla.com/assemblablog/tabid/12618/bid/88421/Intro-to-Scalable-Agile-Scale-Your-Teams-and-Release-More-Frequently.aspx" time_added="1349321281" tags="hn">Intro to Scalable Agile: Scale Your Teams and Release More Frequently</a></li>
+<li><a href="http://www.switchscribe.com/?p=181" time_added="1349321432" tags="hn">Four Simple Keys to Operational Excellence – It’s not an IT or Data Center </a></li>
+<li><a href="http://blogs.hbr.org/hbr/nayar/2012/06/three-things-that-drive-teams.html" time_added="1349321585" tags="hn">The Key Ingredients of a Successful Team - Vineet Nayar - Harvard Business </a></li>
+
+
+
+
+
+
+
+
+
+
+## Programming Teams and Large Projects
+
+<li><a href="http://www.cio.com/article/721628/Air_Force_scraps_massive_ERP_project_after_racking_up_1_billion_in_costs" time_added="1355285478" tags="hn">Air Force scraps massive ERP project after racking up $1 billion in costs C</a></li>
+<li><a href="http://blog.clarity.fm/best-collaboration-tools-for-working-with-remote-teams/" time_added="1355281919" tags="personal tech">Best Collaboration Tools For Remote Teams | Clarity.fm Blog</a></li>
+
 
 
 
@@ -61,6 +83,9 @@
 <li><a href="http://37signals.com/svn/posts/3375-the-five-programming-books-that-meant-most-to-me" time_added="1356676312" tags="hn">The five programming books that meant most to me by David of 37signals</a></li>
 <li><a href="http://www.economist.com/blogs/babbage/2012/06/super-star-programmers?fsrc=gn_ep&utm_medium=referral&utm_source=pulsenews" time_added="1349321857" tags="hn">Super-star programmers: Difference engine: Wired for speed | The Economist</a></li>
 <li><a href="http://news.ycombinator.com/item?id=4626201" time_added="1349738310" tags="hn">Ask HN: What did the really successful programmers do differently? | Hacker</a></li>
+<li><a href="http://blog.jgc.org/2012/07/some-things-ive-learnt-about.html?utm_medium=referral&utm_source=pulsenews" time_added="1349321604" tags="hn">Some things I've learnt about programming | John Graham-Cumming</a></li>
+
+
 
 
 
@@ -85,6 +110,9 @@
 <li><a href="http://news.ycombinator.com/item?id=4740061" time_added="1352146352" tags="hn">Ask HN: What are some good EC2 tutorials for programmers? | Hacker News</a></li>
 <li><a href="http://aws.typepad.com/aws/2012/10/lots-of-new-features-for-aws-govcloud-us.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AmazonWebServicesBlog+%28Amazon+Web+Services+Blog%29" time_added="1349875005" tags="academia,sql">Amazon Web Services Blog: Lots of New Features for AWS GovCloud (US)</a></li>
 <li><a href="http://escience.washington.edu/blog/cloud-economics-visualizing-aws-prices-over-time" time_added="1357910318" tags="cloud">Cloud Economics: Visualizing AWS Prices over Time | eScience Institute</a></li>
+<li><a href="http://robhirschfeld.com/2013/01/06/cloud-is-infrastructure-with-an-api/" time_added="1357980238" tags="cloud">Don’t complicate my cloud! It’s just infrastructure with an API « Rob Hirsc</a></li>
+<li><a href="http://gigaom.com/2013/01/10/netflix-shows-off-its-hadoop-architecture/" time_added="1357910414" tags="cloud">Netflix shows off how it does Hadoop in the cloud — Tech News and Analysis</a></li>
+<li><a href="http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/" time_added="1358190036" tags="big data,hn">Notes on Distributed Systems for Young Bloods – Something Similar</a></li>
 
 
 
@@ -149,6 +177,15 @@
 things they believe in will keep </a></li>
 <li><a href="http://t.co/U1Nd7xOT" time_added="1356194327" tags="sql">BrentO: This was so awesome. RT @vickyharp: [Blog] Obfuscated T-SQL Holiday</a></li>
 <li><a href="http://www.sqlperformance.com/2013/01/t-sql-queries/generate-a-set-2" time_added="1358430925" tags="sql">AaronBertrand: [Blog] : Part 2 of "generate a set without loops" : http://t</a></li>
+<li><a href="http://www.youtube.com/watch?v=2c33WStd94s&feature=youtu.be&a" time_added="1349321644" tags="sql">A Developer's Guide to Dangerous Queries - YouTube</a></li>
+<li><a href="http://www.developwithpurpose.com/data-modeling/#comment-2711" time_added="1349321754" tags="sql">The Pronoun Approach to Data Modeling | Develop with Purpose</a></li>
+<li><a href="http://dba.stackexchange.com/questions/21065/unit-testing-of-stored-procedures?atw=1" time_added="1349321760" tags="sql">best practices - Unit testing of stored procedures - Database Administrator</a></li>
+<li><a href="http://t.co/xohJVSZu" time_added="1355253767" tags="viz">josephsack: [Blog] Thinking about the inaccurate_cardinality_estimate Event</a></li>
+
+
+
+
+
 
 
 ## Misc
@@ -157,6 +194,8 @@ things they believe in will keep </a></li>
 <li><a href="http://highscalability.com/all-time-favorites/" time_added="1351511960" tags="hn">High Scalability - All Time Favorites</a></li>
 <li><a href="http://arstechnica.com/information-technology/2012/08/ive-inherited-200k-lines-of-spaghetti-codewhat-now/" time_added="1349321423" tags="hn">I’ve inherited 200K lines of spaghetti code—what now? | Ars Technica</a></li>
 <li><a href="http://www.infoworld.com/t/application-development/the-best-way-manage-it-projects-eliminate-them-203706" time_added="1349402989" tags="hn">The best way to manage IT projects is to eliminate them | Application devel</a></li>
+<li><a href="http://damienkatz.net/2013/01/the_unreasonable_effectiveness_of_c.html" time_added="1357834705" tags="hn">Damien Katz: The Unreasonable Effectiveness of C</a></li>
+
 
 http://www.oliverlehmann.com/project-management-sources/Nasa-Hundred-Rules-for-Project-Managers.pdf?utm_content=buffer9f90e&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 
@@ -170,6 +209,8 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 <li><a href="http://clippy.in/b/YJLM9W" time_added="1357663272" tags="hn">Clippy Alpha</a></li>
 <li><a href="http://arstechnica.com/gaming/2012/12/the-awesome-webcomics-ars-technica-reads/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" time_added="1356728203" tags="personal">The 12 most incredible webcomics | Ars Technica</a></li>
 <li><a href="http://www.codinghorror.com/blog/2012/05/how-to-stop-sucking-and-be-awesome-instead.html?utm_medium=referral&utm_source=pulsenews" time_added="1349321867" tags="hn">Coding Horror: How to Stop Sucking and Be Awesome Instead</a></li>
+<li><a href="http://hatepaste.com/hated/" time_added="1355285355" tags="hn">Hated code - HatePaste: A place to share terrible code</a></li>
+<li><a href="http://www.drdobbs.com/jvm/the-rise-and-fall-of-languages-in-2012/240145800" time_added="1357716148" tags="hn">The Rise and Fall of Languages in 2012 | Dr Dobb's</a></li>
 
 
 

@@ -20,6 +20,7 @@
 <li><a href="http://www.nerdfitness.com/blog/2010/09/09/5-ways-to-immediately-appear-more-confident/" time_added="1356368651" tags="health,life hacker">5 Ways to Instantly Appear More Confident | Nerd Fitness</a></li>
 <li><a href="http://judg.me/blog/first-impressions-count/" time_added="1348860352" tags="brand">First Impressions Count: How people judge your intelligence and social skil</a></li>
 <li><a href="http://unbounce.com/landing-pages/checklist/" time_added="1355255474" tags="brand">A 50-Point Checklist For Creating The Ultimate Landing Page | Unbounce</a></li>
+<li><a href="http://judg.me/blog/judgment-day/" time_added="1348860358" tags="brand">What makes one appear smarter and more sociable? | judg.me (blog)</a></li>
 
 
 ## Career Planning, Consulting, Freelancing

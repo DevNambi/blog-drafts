@@ -40,7 +40,7 @@
 <li><a href="http://seattlebubble.com/blog/2012/11/21/pro-tip-rainy-days-are-best-for-home-shopping/" time_added="1353776573" tags="domestic,finance">Seattle Bubble • Pro Tip: Rainy Days are Best for Home Shopping</a></li>
 <li><a href="http://www.readwriteweb.com/archives/reimagining-home-improvement-houzz-vs-better-homes-and-gardens.php" time_added="1348860299" tags="domestic">Reimagining Home Improvement: Houzz vs. Better Homes and Gardens</a></li>
 <li><a href="http://offbeathome.com/2012/10/glowing-driveway" time_added="1349269117" tags="domestic">Great idea: Make your driveway glow like a starry night | Offbeat Home</a></li>
-
+<li><a href="http://offbeathome.com/2013/01/10-life-lessons-learned-from-my-first-apartment" time_added="1358206653" tags="domestic">10 life lessons learned from my first apartment | Offbeat Home</a></li>
 
 
 

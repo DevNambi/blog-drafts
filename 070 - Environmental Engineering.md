@@ -97,6 +97,8 @@ Emphasize what we don't know
 <li><a href="http://grist.org/news/sea-level-rise-could-be-way-way-worse-than-we-already-thought/" time_added="1357713178" tags="domestic">Sea-level rise could be way, way worse than we already thought | Grist</a></li>
 <li><a href="http://seattletimes.com/html/localnews/2020120911_climatechange13m.html" time_added="1358111905" tags="domestic">Seattle calculates how climate change will redraw its shores | Local News |</a></li>
 <li><a href="http://cliffmass.blogspot.com/2013/01/the-inevitability-of-global-warming-and.html" time_added="1358179404" tags="domestic,finance,health,important">Cliff Mass Weather Blog: The Inevitability of Global Warming and the Need f</a></li>
+<li><a href="http://io9.com/5966689/" time_added="1355282340" tags="health,hn,personal">After extensive mathematical modeling, scientist declares "Earth is F**ked"</a></li>
+<li><a href="http://t.co/vGsWXQ0U" time_added="1355321070" tags="finance,health,hn,important">TomRaftery: US intelligence community warns of rising climate security thre</a></li>
 
 http://arstechnica.com/science/2014/09/ocean-acidification-xprize-competition-begins/
 

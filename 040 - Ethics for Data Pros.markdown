@@ -84,6 +84,9 @@ Clothing website for real people's sizes
 
 http://www.forbes.com/sites/kashmirhill/2014/07/30/cloudflare-protection/
 
+<li><a href="http://t.co/6eOnpC9w" time_added="1356155402" tags="data science">hmason: Do good with data. @donorschoose hires a data scientist!  http://t.</a></li>
+<li><a href="http://t.co/Xe8xUibH" time_added="1358602698" tags="data ethics">hmason: Lack of guidelines create ethical dilemmas in social network-based </a></li>
+
 
 ### Measuring Industry Impact
 

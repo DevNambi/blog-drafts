@@ -8,6 +8,8 @@
 ## Bank & Regulatory Corruption
 
 <li><a href="http://www.nytimes.com/2013/01/09/technology/a-financial-service-for-people-fed-up-with-banks.html?ref=technology&_r=0" time_added="1357707384" tags="finance">A Financial Service for People Fed Up With Banks - NYTimes.com</a></li>
+<li><a href="http://www.politicususa.com/betrayal-remedy-hostess-pensions-fund-bankruptcy.html" time_added="1355280952" tags="hn">'Shared Sacrifice': Hostess Used Employee Pensions to Fund Itself</a></li>
+<li><a href="http://www.independent.ie/business/irish/dan-white-the-economic-return-of-iceland-has-proved-that-the-joke-was-on-us-3327164.html" time_added="1356045474" tags="finance,important">Dan White: The economic return of Iceland has proved that the joke was on u</a></li>
 
 
 ### Housing, Foreclosures
@@ -22,6 +24,7 @@ http://opinionator.blogs.nytimes.com/2013/11/02/poverty-in-america-is-mainstream
 
 <li><a href="http://www.nakedcapitalism.com/2014/01/wolf-richter-chart-true-representation-employment-crisis-country.html" time_added="1389327292" tags="">Wolf Richter: “This Chart Is A True Representation Of The Employment Crisis</a></li>
 <li><a href="http://economistsview.typepad.com/economistsview/2012/12/why-next-to-no-political-reaction-to-the-second-gilded-age.html" time_added="1356891135" tags="domestic,finance,hn">Economist's View: Why Next to No Political Reaction to the Second Gilded Ag</a></li>
+<li><a href="http://www.nytimes.com/2013/01/13/sunday-review/americas-productivity-climbs-but-wages-stagnate.html?hp&gwh=9E28F2DEFD56B1AFACC4B1107BF05372" time_added="1358028713" tags="finance,hn">America’s Productivity Climbs, but Wages Stagnate - NYTimes.com</a></li>
 
 
 ## Insurance
@@ -41,6 +44,9 @@ http://opinionator.blogs.nytimes.com/2013/11/02/poverty-in-america-is-mainstream
 <li><a href="http://lifehacker.com/5931856/reduce-your-grocery-budget-with-a-food-waste-diary?utm_medium=referral&utm_source=pulsenews" time_added="1348859897" tags="domestic,finance">Reduce Your Grocery Budget with a Food Waste Diary</a></li>
 <li><a href="http://www.businessinsider.com/ways-your-brain-makes-you-lose-money-2012-10" time_added="1350491742" tags="finance">Ways Your Brain Makes You Lose Money - Business Insider</a></li>
 <li><a href="http://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/" time_added="1358524535" tags="domestic,finance,hn,important">The Shockingly Simple Math Behind Early Retirement | Mr. Money Mustache</a></li>
+<li><a href="http://flightfox.com/rtw" time_added="1348860362" tags="hn">Fly to 6 Continents in Style</a></li>
+<li><a href="http://money.cnn.com/2013/01/15/pf/taxes/home-office-tax-deduction/index.html?iid=HP_LN" time_added="1358302591" tags="finance">Claiming a home office deduction is about to get easier - Jan. 15, 2013</a></li>
+
 
 
 ## Economic Forces
@@ -51,3 +57,5 @@ http://opinionator.blogs.nytimes.com/2013/11/02/poverty-in-america-is-mainstream
 ## Misc
 
 * http://engineering.zenpayroll.com/how-ach-works-a-developer-perspective-part-4/
+
+<li><a href="http://www.ecommercebytes.com/cab/abu/y201/m09/abu0047/s03" time_added="1354918107" tags="domestic,finance">Sniping Tools - Making Sure You Win the Auction</a></li>

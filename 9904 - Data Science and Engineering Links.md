@@ -7,6 +7,8 @@
 <li><a href="http://r4stats.com/2012/05/09/beginning-of-the-end/" time_added="1389663551" tags="">The comments at the end of this analysis of the academic popularity of R, S</a></li>
 <li><a href="http://fonnesbeck.github.io/ScipySuperpack/" time_added="1389716542" tags="">The Scipy Superpack for OS X 10.9 has been updated, and includes IPython wi</a></li>
 <li><a href="http://continuum.io/blog/blaze" time_added="1355810222" tags="big data">A Python Compiler for Big Data</a></li>
+<li><a href="http://t.co/vsW3xsQE" time_added="1355874308" tags="big data">lynnlangit: A programmer’s guide to big data: 12 tools to know http://t.co/</a></li>
+<li><a href="http://www.revolutionanalytics.com/downloads/free-academic.php" time_added="1357790517" tags="big data,data science,ml,stats">Download Revolution R - Free for Academia - Revolution Analytics</a></li>
 
 http://jvns.ca/blog/2013/12/22/cooking-with-pandas/
 http://wrobstory.gitbooks.io/python-to-scala/
@@ -37,6 +39,7 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 <li><a href="http://mewo2.com/kaggle/2012/04/27/the-million-song-dataset-challenge-part-i/" time_added="1352524669" tags="data science">Cold Hard Facts - The Million Song Dataset Challenge: Part I</a></li>
 <li><a href="http://www.census.gov/easystats/" time_added="1355070894" tags="data science">Easy Stats</a></li>
 <li><a href="http://pewinternet.org/Static-Pages/Data-Tools/Download-Data/Data-Sets.aspx" time_added="1353974622" tags="big data,data science">(null): (null)</a></li>
+<li><a href="https://t.co/JGkAz9v5" time_added="1355874291" tags="data sources">bwtaylor: You want data? https://t.co/JGkAz9v5 @hmason thanks for compiling</a></li>
 
 
 ## Data Cleaning/Munging
@@ -69,6 +72,9 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 <li><a href="http://t.co/YachD2X5" time_added="1354035705" tags="data science,viz">albertocairo: While writing a post about radar graphs, I came across this p</a></li>
 <li><a href="https://graphics.stanford.edu/wikis/cs448b-12-fall/" time_added="1355727060" tags="viz">CourseWiki - CS 448B</a></li>
 <li><a href="http://t.co/tMtZxZtR" time_added="1355797131" tags="viz">brainpicker: A visual history of Arabian Nights, some of history's greatest</a></li>
+<li><a href="http://t.co/CuGB2KxI" time_added="1355253781" tags="viz">hmason: I love these ideas for visualizing uncertainty in plots http://t.co</a></li>
+<li><a href="http://t.co/0LM2Im2j" time_added="1356020827" tags="viz">idigdata: Great collection of data visualization libraries and tools http:/</a></li>
+<li><a href="https://t.co/am3wqkCs" time_added="1355594552" tags="viz">noahi: FYI: There’s a visualization jobs list, founded by @arnicas, at http</a></li>
 
 
 
@@ -110,6 +116,13 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 <li><a href="http://blog.andrewhays.net/love-your-terminal" time_added="1354290033" tags="data science,personal tech">Love Your Terminal - Programming and Productivity</a></li>
 
 
+## Hiring/Firing
+
+<li><a href="http://www.forbes.com/sites/gilpress/2012/12/01/big-data-news-of-the-week-beautiful-300000-minds/" time_added="1355414578" tags="big data,data science,finance,hn,important">Big Data News of the Week: Beautiful $300,000 Minds - Forbes</a></li>
+<li><a href="http://www.hilarymason.com/blog/interview-questions-for-data-scientists/" time_added="1357239077" tags="data science">» Interview Questions for Data Scientists hilarymason.com</a></li>
+
+
+
 ## Stats
 
 <li><a href="http://alumni.media.mit.edu/~tpminka/statlearn/glossary/" time_added="1351210052" tags="data science,ml">A Statistical Learning/Pattern Recognition Glossary</a></li>
@@ -126,6 +139,7 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 <li><a href="http://t.co/uFDyatc8" time_added="1354589903" tags="ml">StatFact: Approximate Bayesian Computation (ABC) http://t.co/uFDyatc8</a></li>
 <li><a href="http://t.co/c74eY5ry" time_added="1354739614" tags="data science">StatFact: RT @ProbFact: Huge probability distribution chart http://t.co/c74</a></li>
 <li><a href="http://www.johndcook.com/distribution_chart.html" time_added="1355381704" tags="data science,ml">Chart of distribution relationships</a></li>
+<li><a href="http://t.co/V5Negygt" time_added="1357660351" tags="ml,stats">StatFact: On Chomsky and the Two Cultures of Statistical Learning http://t.</a></li>
 
 
 
@@ -155,7 +169,7 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 <li><a href="http://t.co/I4iX4Xbf" time_added="1349748126" tags="data science,ml,sql">briankmcdonald: Good read: Mike Milligan's Data Mining talk and Links: http</a></li>
 <li><a href="http://t.co/ZsnUlrZ3" time_added="1355428250" tags="ml">SQLRockstar: RT @MarkTabNet: Book: Journeys to Data Mining - Experiences fr</a></li>
 <li><a href="http://www.slate.com/articles/health_and_science/new_scientist/2012/12/kaggle_president_jeremy_howard_amateurs_beat_specialists_in_data_prediction.html" time_added="1355870412" tags="data science">Kaggle President Jeremy Howard: Amateurs beat specialists in data-predictio</a></li>
-
+<li><a href="http://jeremykun.com/2013/01/04/probability-theory-a-primer/" time_added="1357716137" tags="ml,stats">Probability Theory — A Primer | Math ∩ Programming</a></li>
 
 
 
@@ -178,6 +192,7 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 <li><a href="http://www.greenplum.com/datasciencesummit?videos" time_added="1348860835" tags="data science">Data Science Summit | Greenplum</a></li>
 <li><a href="http://www.drewconway.com/zia/?p=2378" time_added="1349411754" tags="data science">The Data Science Venn Diagram « Zero Intelligence Agents</a></li>
 <li><a href="http://t.co/jC6os3GK" time_added="1355962688" tags="brand,data science">rossdawson: The most influential data scientists on Twitter http://t.co/jC6</a></li>
+<li><a href="http://www.p-value.info/2012/11/free-datascience-books.html" time_added="1356677077" tags="data science">p-value.info: Free Datascience books</a></li>
 
 
 
@@ -189,6 +204,7 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 <li><a href="http://t.co/2CMByOG5" time_added="1350520267" tags="data science">CIOonline: Data Scientist Role Is Clear, Even If Job Description Isn't #dat</a></li>
 <li><a href="http://t.co/4r4kg9Se" time_added="1355764588" tags="big data">BigDataClub: Top CEOs Share how Big Data Is Transforming Our Health, Wealth</a></li>
 <li><a href="http://t.co/ZwccJAoT" time_added="1355541207" tags="academia,big data,data science,hn">sqlbelle: Top story: Organizational Imperatives in the Era of Big Data - Ja</a></li>
+<li><a href="http://www.slideshare.net/pskomoroch/developing-data-products" time_added="1358378840" tags="data science">Developing Data Products</a></li>
 
 
 
@@ -211,6 +227,7 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 <li><a href="http://highscalability.com/blog/2012/9/24/google-spanners-most-surprising-revelation-nosql-is-out-and.html" time_added="1348860823" tags="big data,sql">High Scalability - High Scalability - Google Spanner's Most Surprising Reve</a></li>
 <li><a href="http://www.slideshare.net/tkejser1/big-data-vs-data-warehousing" time_added="1349743476" tags="big data,data science,hn,sql">sqlbelle: Big Data vs Data Warehousing http://t.co/4vosepyE</a></li>
 <li><a href="http://www.10flow.com/bigdatamap/" time_added="1352524746" tags="big data,data science">Big Data Platforms</a></li>
+<li><a href="http://www.cattell.net/datastores/index.html" time_added="1357334547" tags="big data,cloud">Scalable Datastores</a></li>
 
 
 
@@ -237,6 +254,7 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 <li><a href="http://blog.kaggle.com/2012/12/19/a-bayesian-approach-to-observing-dark-worlds/" time_added="1355944210" tags="viz">A Bayesian approach to Observing Dark Worlds | no free hunch</a></li>
 <li><a href="http://blog.kaggle.com/2012/12/19/1st-place-observing-dark-worlds/" time_added="1355991561" tags="viz">1st Place: Observing Dark Worlds | no free hunch</a></li>
 <li><a href="http://t.co/4yyDlKHl" time_added="1355605607" tags="big data,data science">drelu: Amex is using Mahout/Hadoop to model customer behavior to prevent fr</a></li>
+<li><a href="http://t.co/7QCCwutj" time_added="1355320956" tags="viz">DGM885: Interesting interview w/ Robert Kosara at Data Stories.  His resear</a></li>
 
 
 
