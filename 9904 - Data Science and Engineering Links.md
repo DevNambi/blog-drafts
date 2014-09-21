@@ -92,6 +92,9 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 <li><a href="http://blog.new-bamboo.co.uk/2013/01/07/the-joy-of-d3-js" time_added="1357586034" tags="viz">New Bamboo - The leading Ruby on Rails developers, London, UK</a></li>
 
 
+http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
+
+
 #### GGPlot2
 
 <li><a href="http://t.co/w8h1JL26" time_added="1354908232" tags="viz">RobbyMeals: new post visualizing #Baltimore with #rstats and #ggplot2: http</a></li>

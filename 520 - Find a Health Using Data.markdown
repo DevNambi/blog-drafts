@@ -47,6 +47,9 @@ http://www.theatlantic.com/health/archive/2014/09/access-to-real-food-as-privile
 
 http://www.nytimes.com/2014/06/18/opinion/mark-bittmanthe-food-industrys-solution-to-obesity.html?src=me&ref=general
 
+
+http://www.wired.com/2014/09/ex-googler-using-big-data-model-creation-new-foods/
+
 ### Health from Work
 * What's the benefit of a standing desk?
 * What's the benefit to going to a less-stressful working environment?
