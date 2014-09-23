@@ -52,6 +52,7 @@ https://www.linkedin.com/today/post/article/20140528155249-224083-10-signs-a-com
 * https://medium.com/p/f134420f0aef
 * http://seattletimes.com/html/businesstechnology/2023383110_boeingbrtxml.html
 * http://fortune.com/2014/09/04/the-global-talent-crunch/
+* http://strategyandanalytics.com/hardship-professions-unhappy-suicidal-alcoholic-job-lists/
 
 <li><a href="http://t.co/6EbqhshU" time_added="1357221653" tags="hn">peteskomoroch: Valve's 'Handbook for New Employees' is an interesting read.</a></li>
 <li><a href="http://www.smattie.com/2012/12/11/preparing-for-interview-loops/" time_added="1355381235" tags="brand">Preparing for interview loops | Scott Mattie's Blog</a></li>

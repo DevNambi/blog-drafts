@@ -213,6 +213,9 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 <li><a href="http://www.drdobbs.com/jvm/the-rise-and-fall-of-languages-in-2012/240145800" time_added="1357716148" tags="hn">The Rise and Fall of Languages in 2012 | Dr Dobb's</a></li>
 
 
+* http://s3.crashworks.org.s3-website-us-east-1.amazonaws.com/if-programming-languages-were-vehicles/
+
+
 
 
 

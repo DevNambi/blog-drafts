@@ -44,11 +44,11 @@
 <li><a href="http://blog.prof.so/2012/12/transparency.html" time_added="1355606817" tags="academia">profserious: On Transparency</a></li>
 
 
-http://www.vice.com/read/i-ghostwrote-hundreds-of-chinese-students-ivy-league-admissions-essays-897
-
-http://www.newsweek.com/american-horror-ivy-league-edition-263448
-
-http://www.bloomberg.com/news/2014-09-04/secret-network-connects-harvard-money-to-payday-loans.html
+* http://www.vice.com/read/i-ghostwrote-hundreds-of-chinese-students-ivy-league-admissions-essays-897
+* http://www.newsweek.com/american-horror-ivy-league-edition-263448
+* http://www.bloomberg.com/news/2014-09-04/secret-network-connects-harvard-money-to-payday-loans.html
+* http://strategyandanalytics.com/hardship-professions-unhappy-suicidal-alcoholic-job-lists/
+* http://www.nakedcapitalism.com/2014/09/profit-colleges-factories-debt.html
 
 
 ## MOOCs / Online Learning

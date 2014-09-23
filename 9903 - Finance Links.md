@@ -34,6 +34,9 @@ http://opinionator.blogs.nytimes.com/2013/11/02/poverty-in-america-is-mainstream
 <li><a href="http://techcrunch.com/2012/12/05/leaky-national-launch-seed-funding/" time_added="1354741085" tags="data science,finance,hn,personal tech">Auto Insurance Comparison Startup Leaky Launches Nationally, Raises $670K |</a></li>
 
 
+http://mobile.nytimes.com/2014/09/21/us/drive-by-doctoring-surprise-medical-bills.html?_r=1
+
+
 ## Personal Finance
 
 <li><a href="http://helloimnadia.com/post/68175306402/how-to-ensure-financial-independence-in-the-long-run" time_added="1389365961" tags="">Nadia Eghbal : How to Ensure Financial Independence in the Long Run</a></li>
