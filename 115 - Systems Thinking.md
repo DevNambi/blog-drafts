@@ -16,3 +16,5 @@ General Principle: the solutions on balance needs to be simpler than the problem
 http://www.vanityfair.com/politics/2013/09/joint-strike-fighter-lockheed-martin.
 
 https://devopsu.com/blog/boring-systems-build-badass-businesses/
+
+http://www.vanityfair.com/business/2014/10/air-france-flight-447-crash
