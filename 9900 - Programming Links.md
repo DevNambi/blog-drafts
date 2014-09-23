@@ -16,6 +16,8 @@
 <li><a href="http://www.infoworld.com/t/application-development/6-tips-break-app-dev-bottlenecks-208304" time_added="1354903387" tags="academia,brand,hn,important">6 tips to break app dev bottlenecks | Application development - InfoWorld</a></li>
 <li><a href="http://datagenetics.com/blog/december32012/index.html" time_added="1355278385" tags="brand,data science,hn,personal tech">Secretary Puzzle</a></li>
 
+* http://erniepark.com/software/2014/08/20/10-practical-software-engineer-tips.html
+
 
 
 
