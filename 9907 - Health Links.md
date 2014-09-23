@@ -41,7 +41,8 @@ http://mobile.nytimes.com/2014/09/21/us/drive-by-doctoring-surprise-medical-bill
 
 
 
-http://well.blogs.nytimes.com/2014/09/08/prediabetes-blood-sugar/?_php=true&_type=blogs&_r=0
+* http://well.blogs.nytimes.com/2014/09/08/prediabetes-blood-sugar/?_php=true&_type=blogs&_r=0
+* http://www.salon.com/2014/09/23/the_real_reason_americans_are_increasingly_overweight_partner/
 
 
 

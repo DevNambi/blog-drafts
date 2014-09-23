@@ -87,6 +87,7 @@ Emphasize what we don't know
 * http://www.nytimes.com/2014/04/20/magazine/its-the-end-of-the-world-as-we-know-it-and-he-feels-fine.html?hp&_r=0
 * http://www.theatlantic.com/politics/archive/2014/04/republicans-framing-climate-change/360911/
 * http://www.nakedcapitalism.com/2014/04/earth-day-can-grow-enough-food-avoid-human-planetary-dieback.html
+* http://blogs.nature.com/news/2014/09/ahead-of-un-summit-chances-dwindle-to-keep-warming-at-bay.html
 
 <li><a href="http://www.sfu.ca/pamr/media-releases/2012/study-predicts-imminent-irreversible-planetary-collapse.html" time_added="1348860350" tags="important">Study predicts imminent irreversible planetary collapse - Public Affairs an</a></li>
 <li><a href="http://www.nytimes.com/2012/12/05/business/energy-environment/to-fight-climate-change-college-students-take-aim-at-the-endowment-portfolio.html?pagewanted=1&hpw&gwh=BCCA257894B7A954E2EDE332401227F6" time_added="1354809635" tags="personal">To Fight Climate Change, College Students Take Aim at the Endowment Portfol</a></li>

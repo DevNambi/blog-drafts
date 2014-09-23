@@ -18,6 +18,7 @@
 <li><a href="http://techcrunch.com/2012/09/30/how-technology-is-empowering-teachers-minting-millionaires-and-improving-education/" time_added="1349021937" tags="hn">How Technology Is Empowering Teachers, Minting Millionaires, And Improving </a></li>
 
 * http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html
+* http://www.salon.com/2014/07/06/comedy_vs_anti_science_10_amazing_videos_that_show_how_humor_can_make_a_difference/
 
 
 ## Higher Education
