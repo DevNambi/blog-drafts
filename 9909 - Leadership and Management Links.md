@@ -3,6 +3,7 @@
 * http://blogs.hbr.org/2014/09/9-habits-that-lead-to-terrible-decisions/
 * http://michaelhyatt.com/lousy-leaders.html
 * http://rustyrazorblade.com/2014/09/21-ways-to-minimize-employee-retention/
+* http://blogs.hbr.org/2013/08/why-do-so-many-incompetent-men/
 
 
 <li><a href="http://lifehacker.com/5936493/want-to-be-a-great-leader-start-reading?utm_medium=referral&utm_source=pulsenews" time_added="1348860619" tags="hn">Want to Be a Great Leader? Start Reading</a></li>

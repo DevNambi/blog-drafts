@@ -146,6 +146,9 @@ http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 
 
 
+* http://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/
+
+
 
 ## ML / AI
 

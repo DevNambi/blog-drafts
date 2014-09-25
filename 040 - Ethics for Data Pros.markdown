@@ -28,6 +28,9 @@ http://mathbabe.org/2013/11/12/there-is-no-market-solution-for-ethics/
 
 http://gigaom.com/2014/02/22/data-privacy-machine-learning-and-the-destruction-of-mysterious-humanity/
 
+http://www.marketsforgood.org/the-lake-washington-declaration/
+
+
 
 Data - depends on what you do with it. Show example and counterexample, per industry. 
 The ethics of the scientific method.
