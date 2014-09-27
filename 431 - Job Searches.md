@@ -39,6 +39,7 @@ https://www.linkedin.com/today/post/article/20140528155249-224083-10-signs-a-com
 * http://blog.ketyov.com/2014/03/the-passion-trap.html
 * http://blogs.reuters.com/felix-salmon/2014/04/21/the-most-expensive-lottery-ticket-in-the-world/
 * http://brianstorms.com/2014/05/googles-so-called-diversity-makes-no-mention-of-age.html
+* http://newoldage.blogs.nytimes.com/2014/09/24/study-links-anxiety-drugs-to-alzheimers-disease/
 * http://www.nytimes.com/2014/04/20/opinion/sunday/friedman-how-to-get-a-job-at-google-part-2.html?_r=0
 * http://www.huffingtonpost.com/susan-p-joyce/job-search-tips_b_4834361.html
 * http://jacobian.org/writing/unlimited-vacation/

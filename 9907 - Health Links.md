@@ -28,7 +28,8 @@
 <li><a href="http://lifehacker.com/5934964/the-healthcare-blue-book-reveals-fair-prices-for-medical-and-dental-treatments" time_added="1348860570" tags="health">The Healthcare Blue Book Tells You How Much Medical and Dental Treatments S</a></li>
 <li><a href="http://arstechnica.com/tech-policy/2012/11/pfizer-caught-gaming-the-system-loses-viagra-patent-in-canada/" time_added="1352517298" tags="hn">Pfizer caught “gaming the system,” loses Viagra patent in Canada | Ars Tech</a></li>
 
-http://mobile.nytimes.com/2014/09/21/us/drive-by-doctoring-surprise-medical-bills.html?_r=1
+* http://mobile.nytimes.com/2014/09/21/us/drive-by-doctoring-surprise-medical-bills.html?_r=1
+* http://newoldage.blogs.nytimes.com/2014/09/24/study-links-anxiety-drugs-to-alzheimers-disease/
 
 
 

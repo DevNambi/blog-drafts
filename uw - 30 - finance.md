@@ -9,6 +9,8 @@ http://blogs.seattletimes.com/educationlab/2014/08/25/is-your-college-financiall
 
 http://blogs.seattletimes.com/educationlab/2014/08/25/best-bang-for-your-college-buck-uw-ranks-6th/
 
+http://www.nakedcapitalism.com/2014/09/obama-administration-sides-abusive-loan-servicers-time-student-loans.html
+
 There have been endless news articles on this topic, mostly focusing on the problem of student debt, the endless rise of tuition, and the slow disinvestment of state governments in higher education. I won't go dive into that; I'd recommend a Google News search and some antacid if you want to know more (LINK).
 
 One of the things I find lacking, though, is that all of this news only focuses on higher education **revenue**, and not **expenses**.

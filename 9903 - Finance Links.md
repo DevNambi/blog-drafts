@@ -11,6 +11,8 @@
 <li><a href="http://www.politicususa.com/betrayal-remedy-hostess-pensions-fund-bankruptcy.html" time_added="1355280952" tags="hn">'Shared Sacrifice': Hostess Used Employee Pensions to Fund Itself</a></li>
 <li><a href="http://www.independent.ie/business/irish/dan-white-the-economic-return-of-iceland-has-proved-that-the-joke-was-on-us-3327164.html" time_added="1356045474" tags="finance,important">Dan White: The economic return of Iceland has proved that the joke was on u</a></li>
 
+* http://www.nakedcapitalism.com/2014/09/sec-coverup-private-equity-worse-tbtf-banks.html
+
 
 ### Housing, Foreclosures
 
@@ -20,7 +22,8 @@
 
 ## Poverty, Class Warfare, 'American Dream'
 
-http://opinionator.blogs.nytimes.com/2013/11/02/poverty-in-america-is-mainstream/
+* http://opinionator.blogs.nytimes.com/2013/11/02/poverty-in-america-is-mainstream/
+* http://seattletimes.com/html/localnews/2024625051_carpaymentsxml.html
 
 <li><a href="http://www.nakedcapitalism.com/2014/01/wolf-richter-chart-true-representation-employment-crisis-country.html" time_added="1389327292" tags="">Wolf Richter: “This Chart Is A True Representation Of The Employment Crisis</a></li>
 <li><a href="http://economistsview.typepad.com/economistsview/2012/12/why-next-to-no-political-reaction-to-the-second-gilded-age.html" time_added="1356891135" tags="domestic,finance,hn">Economist's View: Why Next to No Political Reaction to the Second Gilded Ag</a></li>
