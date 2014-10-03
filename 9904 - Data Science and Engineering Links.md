@@ -5,13 +5,30 @@
 
 <li><a href="http://www.theswarmlab.com/r-vs-python-round-2/" time_added="1389671723" tags="">R vs Python – Round 2 - The Swarm Lab @ NJIT</a></li>
 <li><a href="http://r4stats.com/2012/05/09/beginning-of-the-end/" time_added="1389663551" tags="">The comments at the end of this analysis of the academic popularity of R, S</a></li>
-<li><a href="http://fonnesbeck.github.io/ScipySuperpack/" time_added="1389716542" tags="">The Scipy Superpack for OS X 10.9 has been updated, and includes IPython wi</a></li>
 <li><a href="http://continuum.io/blog/blaze" time_added="1355810222" tags="big data">A Python Compiler for Big Data</a></li>
 <li><a href="http://t.co/vsW3xsQE" time_added="1355874308" tags="big data">lynnlangit: A programmer’s guide to big data: 12 tools to know http://t.co/</a></li>
 <li><a href="http://www.revolutionanalytics.com/downloads/free-academic.php" time_added="1357790517" tags="big data,data science,ml,stats">Download Revolution R - Free for Academia - Revolution Analytics</a></li>
 
-http://jvns.ca/blog/2013/12/22/cooking-with-pandas/
-http://wrobstory.gitbooks.io/python-to-scala/
+
+
+#### Python, IPython
+
+* http://nbviewer.ipython.org/github/gjreda/gregreda.com/blob/master/content/notebooks/intro-to-pandas.ipynb
+* http://jvns.ca/blog/2013/12/22/cooking-with-pandas/
+* http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/
+
+
+* AWS IPython: Start IPYNB on EC2 machine. ssh -L 8889:localhost:8888 user@awsip.com. Go to localhost:8889 in local browser. Super quick IPYNB cloud
+
+<li><a href="http://fonnesbeck.github.io/ScipySuperpack/" time_added="1389716542" tags="">The Scipy Superpack for OS X 10.9 has been updated, and includes IPython wi</a></li>
+
+
+
+#### Scala, Spark
+
+* http://wrobstory.gitbooks.io/python-to-scala/
+
+
 
 
 
