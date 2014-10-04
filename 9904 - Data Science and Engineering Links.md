@@ -11,22 +11,7 @@
 
 
 
-#### Python, IPython
 
-* http://nbviewer.ipython.org/github/gjreda/gregreda.com/blob/master/content/notebooks/intro-to-pandas.ipynb
-* http://jvns.ca/blog/2013/12/22/cooking-with-pandas/
-* http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/
-
-
-* AWS IPython: Start IPYNB on EC2 machine. ssh -L 8889:localhost:8888 user@awsip.com. Go to localhost:8889 in local browser. Super quick IPYNB cloud
-
-<li><a href="http://fonnesbeck.github.io/ScipySuperpack/" time_added="1389716542" tags="">The Scipy Superpack for OS X 10.9 has been updated, and includes IPython wi</a></li>
-
-
-
-#### Scala, Spark
-
-* http://wrobstory.gitbooks.io/python-to-scala/
 
 
 
@@ -40,23 +25,35 @@
 <li><a href="http://kylerush.net/blog/optimization-at-the-obama-campaign-ab-testing/" time_added="1355329802" tags="big data,cloud,data science,hn">Optimization at the Obama campaign: a/b testing</a></li>
 <li><a href="http://strata.oreilly.com/2012/07/the-dark-side-of-data.html#more-49588" time_added="1348860826" tags="data science">The dark side of data - Strata</a></li>
 <li><a href="http://bentilly.blogspot.com/2012/10/ab-testing-scale-cheat-sheet.html" time_added="1351534808" tags="big data,data science">Random Observations: A/B testing scale cheat sheet</a></li>
+<li><a href="http://online.wsj.com/article/SB10001424127887323539804578261780648285770.html" time_added="1359220062" tags="academia,data ethics,data science,hn">Bill Gates on the Importance of Measurement - WSJ.com</a></li>
 
-https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging-in-json/
+https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging-in-json/ 
 
 
 ### Open Data
 
 <li><a href="http://mathbabe.org/2012/12/29/open-data-is-not-a-panacea/" time_added="1356836290" tags="data science,hn,important">Open data is not a panacea « mathbabe</a></li>
 
+
+
+
 ## Data Acquisition, Sources
 
 <li><a href="http://www.datatau.com/item?id=1001" time_added="1389717031" tags="">Web scraping 101 with Python: datatau.com/item?id=1001</a></li>
-<li><a href="http://googleresearch.blogspot.com/2012/10/ngram-viewer-20.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FgJZg+%28Official+Google+Research+Blog%29" time_added="1350571122" tags="data science,viz">Research Blog: Ngram Viewer 2.0</a></li>
+<li><a href="http://googleresearch.blogspot.com/2012/10/ngram-viewer-20.html" time_added="1350571122" tags="data science,viz">Research Blog: Ngram Viewer 2.0</a></li>
 <li><a href="https://httpkit.com/resources/HTTP-from-the-Command-Line/" time_added="1352495517" tags="hn">9 uses for cURL worth knowing | httpkit | Tools for hacking on HTTP</a></li>
 <li><a href="http://mewo2.com/kaggle/2012/04/27/the-million-song-dataset-challenge-part-i/" time_added="1352524669" tags="data science">Cold Hard Facts - The Million Song Dataset Challenge: Part I</a></li>
 <li><a href="http://www.census.gov/easystats/" time_added="1355070894" tags="data science">Easy Stats</a></li>
 <li><a href="http://pewinternet.org/Static-Pages/Data-Tools/Download-Data/Data-Sets.aspx" time_added="1353974622" tags="big data,data science">(null): (null)</a></li>
 <li><a href="https://t.co/JGkAz9v5" time_added="1355874291" tags="data sources">bwtaylor: You want data? https://t.co/JGkAz9v5 @hmason thanks for compiling</a></li>
+<li><a href="http://t.co/1XTU2r8v" time_added="1356387444" tags="data sources">jluismarin: It seems Santa Claus brought us the European Commission #Openda</a></li>
+<li><a href="http://t.co/9y8bOBks" time_added="1355943508" tags="data sources">lynnlangit: Got data? Make a quick list of public data sets to use as you l</a></li>
+<li><a href="http://www.hilarymason.com/blog/bitly-social-data-apis/" time_added="1357679085" tags="data sources">» Bitly Social Data APIs hilarymason.com</a></li>
+<li><a href="http://codecr.am/blog/post/7/" time_added="1362969821" tags="data sources">Let's Scrape the Web with Python 3 - codecr.am</a></li>
+<li><a href="http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/" time_added="1362969640" tags="data sources">Greg Reda | Web Scraping 101 with Python</a></li>
+<li><a href="http://t.co/WFldJbZY7P" time_added="1362406131" tags="data sources">Some friends wanted to learn how to scrape data, so I wrote a very basic in</a></li>
+
+
 
 
 ## Data Cleaning/Munging
@@ -92,6 +89,21 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 <li><a href="http://t.co/CuGB2KxI" time_added="1355253781" tags="viz">hmason: I love these ideas for visualizing uncertainty in plots http://t.co</a></li>
 <li><a href="http://t.co/0LM2Im2j" time_added="1356020827" tags="viz">idigdata: Great collection of data visualization libraries and tools http:/</a></li>
 <li><a href="https://t.co/am3wqkCs" time_added="1355594552" tags="viz">noahi: FYI: There’s a visualization jobs list, founded by @arnicas, at http</a></li>
+<li><a href="http://weatherspark.com/" time_added="1352874051" tags="data science,viz">Beautiful Weather Graphs and Maps - WeatherSpark</a></li>
+<li><a href="http://flowingdata.com/2009/11/12/how-to-make-a-us-county-thematic-map-using-free-tools/" time_added="1352523934" tags="data science,viz">How to Make a US County Thematic Map Using Free Tools</a></li>
+<li><a href="http://flowingdata.com/2010/01/21/how-to-make-a-heatmap-a-quick-and-easy-solution/" time_added="1352523957" tags="data science,viz">How to Make a Heatmap – a Quick and Easy Solution</a></li>
+<li><a href="http://xkcd.com/1138/" time_added="1353651308" tags="viz">xkcd: Heatmap</a></li>
+<li><a href="http://fredbenenson.com/blog/2012/12/05/the-data-behind-my-ideal-bookshelf/" time_added="1355248537" tags="data science,viz">The Data Behind My Ideal Bookshelf | Fred Benenson's Blog</a></li>
+<li><a href="http://www.art-spire.com/en/graphic-design/32-amazing-data-visualization/" time_added="1362968820" tags="viz">Art-Spire, Source d'inspiration artistique / 32 amazing data visualization</a></li>
+<li><a href="http://www.jasondavies.com/wordtree/" time_added="1363100815" tags="viz">Word Tree</a></li>
+<li><a href="http://prsm.tc/yruZT0" time_added="1363150588" tags="viz">Blowing the whistle at bubble charts prsm.tc/yruZT0 via @prismatic</a></li>
+<li><a href="http://flowingdata.com/2013/03/14/feltron-2012-annual-report/" time_added="1363308419" tags="viz">Feltron 2012 Annual Report</a></li>
+<li><a href="http://www.periscopic.com/" time_added="1362805100" tags="data ethics,data science,important,viz">Periscopic: Do good with data</a></li>
+
+
+
+
+
 
 
 
@@ -107,6 +119,12 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 <li><a href="http://d3js.org/" time_added="1348860435" tags="hn">D3.js - Data-Driven Documents</a></li>
 <li><a href="http://vogievetsky.github.com/IntroD3/#1" time_added="1355767608" tags="viz">D3 Intro</a></li>
 <li><a href="http://blog.new-bamboo.co.uk/2013/01/07/the-joy-of-d3-js" time_added="1357586034" tags="viz">New Bamboo - The leading Ruby on Rails developers, London, UK</a></li>
+<li><a href="http://scottcheng.github.com/d3js-101/#/title" time_added="1360000108" tags="viz">D3.js 101</a></li>
+<li><a href="http://ufert.se/user-acquisition/mobile-game-monetization/building-a-lightweight-flexible-d3-js-dashboard-part-1-of-2/" time_added="1360787622" tags="viz">Building a lightweight, flexible D3.js dashboard for analytics</a></li>
+<li><a href="https://docs.google.com/spreadsheet/lv?key=0AqMEGBUNwXeHdHpQNlVuY29SUE5BSXVtS3JueGlNYVE&toomany=true#gid=0" time_added="1361567497" tags="viz">D3.js Gallery Data - temporarily in view mode - Google Docs</a></li>
+<li><a href="http://www.phyzkit.net/docs/d3.d.ts.html" time_added="1363148349" tags="viz">An alternative #d3js documentation phyzkit.net/docs/d3.d.ts.h… by @KDKTN</a></li>
+
+
 
 
 http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
@@ -128,6 +146,11 @@ http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 <li><a href="http://t.co/KWYSiAs9" time_added="1354739534" tags="viz">sqlbelle: 25 amazing Interactive graphics created with tableau | Design New</a></li>
 <li><a href="http://t.co/lhwA79BK" time_added="1349394276" tags="big data,data science">DGM885: Hey data geeks and Tableau vizzers.  This looks both fun and intere</a></li>
 <li><a href="http://www.infoworld.com/t/data-visualization/tableau-ceo-were-the-google-of-data-visualization-209304" time_added="1355777160" tags="brand,data science,hn,important,personal tech,viz">Tableau CEO: We're the Google of data visualization | Data visualization - </a></li>
+<li><a href="http://t.co/lsMlKFOu" time_added="1361205105" tags="viz">More @Tableau data connectors... lnkd.in/6bBMQh</a></li>
+
+
+
+
 
 
 ## Developer Help
@@ -160,6 +183,10 @@ http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 <li><a href="http://t.co/c74eY5ry" time_added="1354739614" tags="data science">StatFact: RT @ProbFact: Huge probability distribution chart http://t.co/c74</a></li>
 <li><a href="http://www.johndcook.com/distribution_chart.html" time_added="1355381704" tags="data science,ml">Chart of distribution relationships</a></li>
 <li><a href="http://t.co/V5Negygt" time_added="1357660351" tags="ml,stats">StatFact: On Chomsky and the Two Cultures of Statistical Learning http://t.</a></li>
+<li><a href="http://t.co/YyZ9IZO8" time_added="1356467701" tags="ml,stats">StatFact: Four assumptions of multiple regression that researchers should a</a></li>
+<li><a href="http://t.co/yCiozhpn" time_added="1355686116" tags="stats">StatFact: New names for statistical methods http://t.co/yCiozhpn</a></li>
+<li><a href="http://t.co/L6AzJuno" time_added="1357199994" tags="data science,stats">sayhitosean: The (near) Future of Data Analysis - A Review http://t.co/L6Az</a></li>
+<li><a href="http://t.co/Z0FROH3Z" time_added="1356721947" tags="hn,stats">CompSciFact: Summary of some of the math used in computer science http://t.</a></li>
 
 
 
@@ -193,6 +220,19 @@ http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 <li><a href="http://t.co/ZsnUlrZ3" time_added="1355428250" tags="ml">SQLRockstar: RT @MarkTabNet: Book: Journeys to Data Mining - Experiences fr</a></li>
 <li><a href="http://www.slate.com/articles/health_and_science/new_scientist/2012/12/kaggle_president_jeremy_howard_amateurs_beat_specialists_in_data_prediction.html" time_added="1355870412" tags="data science">Kaggle President Jeremy Howard: Amateurs beat specialists in data-predictio</a></li>
 <li><a href="http://jeremykun.com/2013/01/04/probability-theory-a-primer/" time_added="1357716137" tags="ml,stats">Probability Theory — A Primer | Math ∩ Programming</a></li>
+<li><a href="http://peekaboo-vision.blogspot.de/2013/01/machine-learning-cheat-sheet-for-scikit.html" time_added="1359214997" tags="ml">Peekaboo: Machine Learning Cheat Sheet (for scikit-learn)</a></li>
+<li><a href="http://conductrics.com/data-science-resources-2" time_added="1359576947" tags="data science,ml">List of Machine Learning and Data Science Resources - Part 2 | Conductrics</a></li>
+<li><a href="http://www.kaggle.com/c/whale-detection-challenge" time_added="1360687349" tags="data science">Description - The Marinexplore and Cornell University Whale Detection Chall</a></li>
+<li><a href="http://www.kaggle.com/c/whale-detection-challenge/data" time_added="1360687183" tags="data science">Data - The Marinexplore and Cornell University Whale Detection Challenge - </a></li>
+
+
+
+
+
+
+#### R
+
+<li><a href="http://t.co/vWTW9con" time_added="1358868193" tags="ml">kaggle: Medley: new R package for blending regression models, developed by </a></li>
 
 
 
@@ -202,6 +242,27 @@ http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 
 <li><a href="http://www.puffinwarellc.com/index.php/news-and-articles/articles/33.html?showall=1&utm_medium=referral&utm_source=pulsenews" time_added="1349095672" tags="data science,ml">Latent Semantic Analysis (LSA) Tutorial</a></li>
 <li><a href="http://www-nlp.stanford.edu/fsnlp/" time_added="1356708592" tags="ml">Foundations of Statistical Natural Language Processing</a></li>
+<li><a href="http://t.co/YxlCR2zI" time_added="1357393998" tags="side biz">peteskomoroch: English Letter Frequency Counts: Mayzner Revisited http://t.</a></li>
+<li><a href="http://blog.newsle.com/2013/02/01/text-classification-and-feature-hashing-sparse-matrix-vector-multiplication-with-cython/" time_added="1359735538" tags="ml">Text Classification and Feature Hashing: Sparse Matrix-Vector Multiplicatio</a></li>
+<li><a href="http://nltk.org/book/ch03.html" time_added="1363099932" tags="data sources">nltk.org/book/ch03.html</a></li>
+<li><a href="http://andybromberg.com/sentiment-analysis-python/" time_added="1363372090" tags="ml">Second Try: Sentiment Analysis in Python : Andy Bromberg</a></li>
+
+
+
+#### Image Processing
+
+<li><a href="http://t.co/i7v6M5eO" time_added="1356487869" tags="ml">hmason: An algorithmic exploration of finding interesting parts of an image</a></li>
+
+
+#### Social Media
+
+<li><a href="http://t.co/ZQOMUrte" time_added="1354389044" tags="data science">iSchoolSU: .@MSFTResearch is Hosting a Workshop on Analyzing Social Media D</a></li>
+
+
+#### Deep Learning
+
+<li><a href="http://moalquraishi.wordpress.com/2013/03/17/what-hintons-google-move-says-about-the-future-of-machine-learning/" time_added="1363562363" tags="ml">What Hinton’s Google Move Says About the Future of Machine Learning « Some </a></li>
+<li><a href="http://oreillynet.com/pub/e/2538" time_added="1363282942" tags="data science,ml">Webcast: Deep Learning - The Biggest Data Science Breakthrough of the Decad</a></li>
 
 
 ## Learning
@@ -216,6 +277,8 @@ http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 <li><a href="http://www.drewconway.com/zia/?p=2378" time_added="1349411754" tags="data science">The Data Science Venn Diagram « Zero Intelligence Agents</a></li>
 <li><a href="http://t.co/jC6os3GK" time_added="1355962688" tags="brand,data science">rossdawson: The most influential data scientists on Twitter http://t.co/jC6</a></li>
 <li><a href="http://www.p-value.info/2012/11/free-datascience-books.html" time_added="1356677077" tags="data science">p-value.info: Free Datascience books</a></li>
+<li><a href="http://www.josephmisiti.com/why-becoming-a-data-scientist-is-not-actually" time_added="1350412108" tags="data science">Why becoming a data scientist is NOT actually easier than you think - josep</a></li>
+<li><a href="http://www.bigdatarepublic.com/author.asp?section_id=2809&doc_id=257527&" time_added="1358794770" tags="data science,important">Free Big Data Education: A Data Science Perspective - Daniel D. Gutierrez |</a></li>
 
 
 
@@ -234,6 +297,7 @@ http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 
 ## Data Stacks, Engineering
 
+<li><a href="http://rarestblog.com/blog/2013/02/15/redshift-postgresql-in-the-cloud/" time_added="1360968719" tags="big data,cloud">Redshift: PostgreSQL-like in the cloud (benchmark) - RarestBlog</a></li>
 <li><a href="http://ow.ly/swSpj" time_added="1389625033" tags="">Impala performance: Now faster on @ParquetFormat than an analytic DBMS on i</a></li>
 <li><a href="http://blog.cloudera.com/blog/2013/01/a-guide-to-python-frameworks-for-hadoop/" time_added="1357665988" tags="big data">A Guide to Python Frameworks for Hadoop | Apache Hadoop for the Enterprise </a></li>
 <li><a href="http://t.co/IfhiI9xE" time_added="1357267042" tags="big data">peteskomoroch: Latest NoSQL LinkedIn Skills Index shows Apache Accumulo has</a></li>
@@ -251,6 +315,12 @@ http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 <li><a href="http://www.slideshare.net/tkejser1/big-data-vs-data-warehousing" time_added="1349743476" tags="big data,data science,hn,sql">sqlbelle: Big Data vs Data Warehousing http://t.co/4vosepyE</a></li>
 <li><a href="http://www.10flow.com/bigdatamap/" time_added="1352524746" tags="big data,data science">Big Data Platforms</a></li>
 <li><a href="http://www.cattell.net/datastores/index.html" time_added="1357334547" tags="big data,cloud">Scalable Datastores</a></li>
+<li><a href="http://t.co/9U4LVDJM" time_added="1359309842" tags="big data,sql">datachick: Microsoft's PolyBase mashes up SQL Server and Hadoop | ZDNet | @</a></li>
+<li><a href="http://hackingdistributed.com/2013/03/07/partition-tolerance-myth/" time_added="1362689122" tags="big data,hn">The NoSQL Partition Tolerance Myth :: Hacking, Distributed</a></li>
+
+
+
+
 
 
 
@@ -259,8 +329,9 @@ http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 ## How-I-Did-It
 
 
+<li><a href="http://t.co/4QHgFG70Ag" time_added="1362377628" tags="data science">How and why LinkedIn is becoming an engineering powerhouse dlvr.it/324Dbg</a></li>
 <li><a href="http://blog.luckyoyster.com/post/33592990831/data-mining-the-web-100-worth-of-priceless" time_added="1350492020" tags="big data,data science">Lucky Oyster - Thought Pearls — Data Mining the Web: $100 Worth of Priceles</a></li>
-
+<li><a href="http://t.co/qtRg4Dp1" time_added="1358946401" tags="ml">ogrisel: How @evernote uses scikit-learn to automatically tell recipes apar</a></li>
 <li><a href="http://danielnouri.org/notes/2014/01/10/using-deep-learning-to-listen-for-whales/" time_added="1389365750" tags="">Using deep learning to listen for whales — Daniel Nouri's Blog</a></li>
 <li><a href="http://redmonk.com/dberkholz/2012/12/05/redmonks-analytical-foundations-part-1-2003-2005/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+thestoryofdata+%28The+Story+of+Data%29" time_added="1354725719" tags="data science">RedMonk’s analytical foundations, part 1: 2003–2005 – The Story of Data</a></li>
 <li><a href="http://t.co/wFaGktpK" time_added="1354717899" tags="data science">Phil_Factor: Setting up a Data Science Laboratory http://t.co/wFaGktpK > (b</a></li>
@@ -289,6 +360,10 @@ http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 <li><a href="http://www.nature.com/encode/threads/machine-learning-approaches-to-genomics" time_added="1352524652" tags="data science,ml,viz">Machine learning approaches to genomics : Nature ENCODE : Nature Publishing</a></li>
 <li><a href="http://pps.sagepub.com/content/7/6/643.full" time_added="1352495538" tags="hn">The Nine Circles of Scientific Hell</a></li>
 <li><a href="http://blog.prof.so/2013/01/collaboration.html" time_added="1358631000" tags="academia">profserious: The Golden Rules of Successful University-Industry Collaborati</a></li>
+<li><a href="http://arstechnica.com/staff/2012/12/why-its-critical-we-cover-so-called-controversial-science/" time_added="1356115487" tags="hn">Why it’s critical we cover so-called “controversial” science | Ars Technica</a></li>
+<li><a href="http://simplystatistics.org/post/32871552079/should-we-stop-publishing-peer-reviewed-papers" time_added="1349360771" tags="hn">Should we stop publishing peer-reviewed papers?</a></li>
+<li><a href="http://www.pbs.org/independentlens/blog/hundreds-of-voucher-schools-teach-creationism-in-science-classes#.UQgtdBOJC10.reddit" time_added="1359591959" tags="academia">Hundreds of Voucher Schools Teach Creationism in Science Classes | Independ</a></li>
+
 
 
 

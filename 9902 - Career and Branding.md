@@ -21,6 +21,9 @@
 <li><a href="http://judg.me/blog/first-impressions-count/" time_added="1348860352" tags="brand">First Impressions Count: How people judge your intelligence and social skil</a></li>
 <li><a href="http://unbounce.com/landing-pages/checklist/" time_added="1355255474" tags="brand">A 50-Point Checklist For Creating The Ultimate Landing Page | Unbounce</a></li>
 <li><a href="http://judg.me/blog/judgment-day/" time_added="1348860358" tags="brand">What makes one appear smarter and more sociable? | judg.me (blog)</a></li>
+<li><a href="http://resume.github.com/?hmason" time_added="1362790103" tags="brand">Ooh, github resumes! Here's mine: resume.github.com/?hmason (via @ginatrapa</a></li>
+<li><a href="http://lifehacker.com/5946783/roll-your-own-perfectly+organized-printable-online-resume-in-five-minutes?utm_medium=referral&utm_source=pulsenews" time_added="1349112990" tags="brand,hiring/firing">Roll Your Own Perfectly-Organized Printable Online Resume in Five Minutes</a></li>
+<li><a href="http://arstechnica.com/information-technology/2012/09/is-a-resume-relevant-in-the-age-of-online-courses-and-open-source-projects/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" time_added="1349739622" tags="brand,hiring/firing">Is a resume relevant in the age of online courses and open source projects?</a></li>
 
 
 ## Career Planning, Consulting, Freelancing
@@ -48,6 +51,10 @@
 <li><a href="http://t.co/E25h1lbz" time_added="1354111818" tags="brand">grrl_geek: [Blog] Book Review: On Writing Well http://t.co/E25h1lbz</a></li>
 <li><a href="http://www.problogger.net/archives/2012/12/29/40-cool-things-to-do-with-your-posts-after-you-hit-publish/" time_added="1356718416" tags="brand">40 Cool Things to Do With Your Posts *After* You Hit Publish : @ProBlogger</a></li>
 <li><a href="http://www.useit.com/alertbox/articles-not-blogs.html" time_added="1349462055" tags="hn">Write Articles, Not Blog Postings (Jakob Nielsen's Alertbox)</a></li>
+<li><a href="http://t.co/17aDb8GF" time_added="1355757978" tags="brand,important">buckwoody: If you write anything to anyone ever, please follow this advice:</a></li>
+<li><a href="http://t.co/meoU7CWa" time_added="1355492864" tags="brand">BrentO: *Every* IT blogger/consultant should read the "Expanding to a produ</a></li>
+<li><a href="http://www.problogger.net/archives/2012/06/06/10-no-nonsense-ways-to-build-backlinks/" time_added="1353946238" tags="brand">10 No-Nonsense Ways to Build Backlinks : @ProBlogger</a></li>
+<li><a href="http://www.hilarymason.com/speaking/why-you-an-introverted-nerd-should-try-public-speaking/" time_added="1361578667" tags="brand,hn,important">» Why YOU (an introverted nerd) Should Try Public Speaking hilarymason.com</a></li>
 
 
 ## Technical Setup
@@ -59,7 +66,11 @@
 <li><a href="http://blog.alexbrowne.info/how-i-made-my-blog-faster/" time_added="1356816804" tags="brand">How I Made my Blog 2.3x Faster - Alex Browne</a></li>
 <li><a href="http://www.mickgardner.com/2012/12/an-introduction-to-static-site.html" time_added="1356143802" tags="brand">mickgardner: An Introduction to Static Site Generators</a></li>
 ortant,personal tech">Kill the Password: Why a String of Characters Can't Protect Us Anymore | Ga</a></li>
-
+<li><a href="http://24ways.org/2012/how-to-make-your-site-look-half-decent/" time_added="1355643251" tags="brand">24 ways: How to Make Your Site Look Half-Decent in Half an Hour</a></li>
+<li><a href="http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/R53Example.html" time_added="1361938395" tags="brand">Getting Started: Creating a Domain that Uses Route 53 - Amazon Route 53</a></li>
+<li><a href="http://aws.typepad.com/aws/2011/02/host-your-static-website-on-amazon-s3.html" time_added="1361938393" tags="brand">Amazon Web Services Blog: Host Your Static Website on Amazon S3</a></li>
+<li><a href="http://thechrisoshow.com/2011/06/05/how-to-host-a-static-website-on-s3/" time_added="1361938348" tags="brand">How to host a static website on S3 - Chris O'Sullivan's blog</a></li>
+<li><a href="http://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html" time_added="1361938676" tags="brand">Example: Setting Up a Static Website Using a Custom Domain - Amazon Simple </a></li>
 
 
 

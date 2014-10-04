@@ -3,6 +3,12 @@
 ## Misc
 
 <li><a href="http://offbeathome.com/2012/11/modcloth-home-stuffs" time_added="1353088324" tags="domestic">Funky home stuffs on sale from ModCloth | Offbeat Home</a></li>
+<li><a href="http://www.thinkgeek.com/product/ef10/" time_added="1355415532" tags="personal,personal tech">ThinkGeek :: AppTag Smartphone Laser Tag</a></li>
+<li><a href="http://lifehacker.com/5937931/diy-room-air-freshener" time_added="1348860364" tags="domestic">DIY Room Air Freshener</a></li>
+<li><a href="http://www.demilked.com/creative-bookshelves-part2/" time_added="1349886060" tags="domestic">buckwoody: Oh, wow. Bookshelf designs - LOVE these. http://t.co/PJKHTdwC</a></li>
+
+
+
 
 ## Parenting
 
@@ -17,12 +23,16 @@
 <li><a href="http://www.roguelynn.com/2012/07/28/our-generations-legos/" time_added="1348860465" tags="hn">Our generation’s Legos | My thoughts, exactly.</a></li>
 <li><a href="http://ireport.cnn.com/docs/DOC-910282?hpt=hp_c3" time_added="1358305628" tags="domestic">Why I Raise My Children Without God - CNN iReport</a></li>
 <li><a href="http://www.huffingtonpost.com/amy-morrison/motherhood_b_2271349.html" time_added="1355505748" tags="domestic">Amy Morrison: Why You're Never Failing as a Mother</a></li>
+<li><a href="http://www.nytimes.com/2013/01/24/technology/personaltech/apps-and-other-digital-tools-lend-a-hand-to-new-mothers.html?src=me&ref=general&gwh=C36E2C7A7A826C134B42130F3379F9E4" time_added="1359219982" tags="domestic">Apps and Other Digital Tools Lend a Hand to New Mothers - NYTimes.com</a></li>
+<li><a href="http://www.nytimes.com/2013/03/09/your-money/financial-tips-for-expectant-parents.html" time_added="1362862088" tags="domestic,finance,important">Your Money - Financial and Legal Advice for Expectant Parents - NYTimes.com</a></li>
+
 
 
 
 ## Local
 
 <li><a href="http://neseattletoollibrary.org/" time_added="1357402943" tags="domestic,personal tech">NE Seattle Tool Library | A project of Sustainable NE Seattle providing fre</a></li>
+<li><a href="http://www.littlefreelibrary.org/" time_added="1348860227" tags="domestic">Little Free Library  - Home</a></li>
 
 ## Relationships
 
@@ -31,6 +41,9 @@
 <li><a href="http://goodmenproject.com/" time_added="1348860602" tags="important">The Good Men Project —</a></li>
 <li><a href="http://offbeathome.com/2012/10/email-and-money" time_added="1350329680" tags="domestic,finance">We stopped fighting over money when we started emailing | Offbeat Home</a></li>
 <li><a href="http://offbeathome.com/2012/12/communicating-under-stress" time_added="1356062764" tags="domestic,health,important,life hacker">Relationship hacks for communicating under stress | Offbeat Home</a></li>
+<li><a href="http://www.theatlantic.com/sexes/archive/2013/03/the-difference-between-a-happy-marriage-and-miserable-one-chores/273615/" time_added="1362263395" tags="domestic,important">The Difference Between a Happy Marriage and Miserable One: Chores - Wendy K</a></li>
+
+
 
 
 ## Housing
@@ -41,6 +54,7 @@
 <li><a href="http://www.readwriteweb.com/archives/reimagining-home-improvement-houzz-vs-better-homes-and-gardens.php" time_added="1348860299" tags="domestic">Reimagining Home Improvement: Houzz vs. Better Homes and Gardens</a></li>
 <li><a href="http://offbeathome.com/2012/10/glowing-driveway" time_added="1349269117" tags="domestic">Great idea: Make your driveway glow like a starry night | Offbeat Home</a></li>
 <li><a href="http://offbeathome.com/2013/01/10-life-lessons-learned-from-my-first-apartment" time_added="1358206653" tags="domestic">10 life lessons learned from my first apartment | Offbeat Home</a></li>
+<li><a href="http://rethinkingchildhood.com/2013/01/22/neighbourhood-america-mother/" time_added="1358876580" tags="domestic">The sorry state of neighbourhood design in America: a mother writes | Rethi</a></li>
 
 
 

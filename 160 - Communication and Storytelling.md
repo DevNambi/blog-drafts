@@ -30,6 +30,9 @@ Only use active verbs.
 
 http://seriouspony.com/blog/2013/10/4/presentation-skills-considered-harmful
 
+
+<li><a href="http://www.hilarymason.com/speaking/speaking-entertain-dont-teach/" time_added="1363582890" tags="brand">» Speaking: Entertain, Don’t Teach hilarymason.com</a></li>
+
 Blog meta
 	Who is my audience?
 		DBAs who want to have a better relationship with their developers

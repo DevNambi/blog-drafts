@@ -101,6 +101,10 @@ Emphasize what we don't know
 <li><a href="http://cliffmass.blogspot.com/2013/01/the-inevitability-of-global-warming-and.html" time_added="1358179404" tags="domestic,finance,health,important">Cliff Mass Weather Blog: The Inevitability of Global Warming and the Need f</a></li>
 <li><a href="http://io9.com/5966689/" time_added="1355282340" tags="health,hn,personal">After extensive mathematical modeling, scientist declares "Earth is F**ked"</a></li>
 <li><a href="http://t.co/vGsWXQ0U" time_added="1355321070" tags="finance,health,hn,important">TomRaftery: US intelligence community warns of rising climate security thre</a></li>
+<li><a href="http://arstechnica.com/science/2012/12/the-grid-of-2030-all-renewable-90-percent-of-the-time/" time_added="1355502810" tags="hn,personal">The grid of 2030: all renewable, 90 percent of the time | Ars Technica</a></li>
+<li><a href="http://t.co/T6aeGjm5" time_added="1356308008" tags="personal">Meest: Go see Chasing Ice. It's very real. RT @HuffingtonPost: West Antarct</a></li>
+
+
 
 http://arstechnica.com/science/2014/09/ocean-acidification-xprize-competition-begins/
 

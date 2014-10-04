@@ -16,6 +16,10 @@
 <li><a href="http://t.co/IPhgohl5" time_added="1357835703" tags="academia">johnlegend: Gates foundation has done important work on evaluating teachers</a></li>
 <li><a href="http://t.co/htWFmi9v" time_added="1358181350" tags="life hacker,personal">GOOD: Why is the most popular TED talk of all time about education? http://</a></li>
 <li><a href="http://techcrunch.com/2012/09/30/how-technology-is-empowering-teachers-minting-millionaires-and-improving-education/" time_added="1349021937" tags="hn">How Technology Is Empowering Teachers, Minting Millionaires, And Improving </a></li>
+<li><a href="http://www.nytimes.com/2012/12/20/opinion/asians-too-smart-for-their-own-good.html" time_added="1356111931" tags="academia,finance,important,personal">Asians - Too Smart for Their Own Good? - NYTimes.com</a></li>
+<li><a href="http://seattletimes.com/html/politics/2020539884_apusschoolmaintenance.html" time_added="1363108934" tags="academia,personal">Report: Half trillion needed to update schools | Education | The Seattle Ti</a></li>
+
+
 
 * http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html
 * http://www.salon.com/2014/07/06/comedy_vs_anti_science_10_amazing_videos_that_show_how_humor_can_make_a_difference/
@@ -44,6 +48,27 @@
 <li><a href="http://simplystatistics.org/2012/12/20/the-nih-peer-review-system-is-still-the-best-at-identifying-innovative-biomedical-investigators/" time_added="1356062759" tags="academia">The NIH peer review system is still the best at identifying innovative biom</a></li>
 <li><a href="http://www.nytimes.com/2012/12/14/business/colleges-debt-falls-on-students-after-construction-binges.html?pagewanted=1&ref=general&src=me" time_added="1355592155" tags="academia">Colleges’ Debt Falls on Students After Construction Binges - NYTimes.com</a></li>
 <li><a href="http://blog.prof.so/2012/12/transparency.html" time_added="1355606817" tags="academia">profserious: On Transparency</a></li>
+<li><a href="http://www.washingtonmonthly.com/college_guide/toc_2012.php" time_added="1349023639" tags="academia,data science">Washington Monthly | College Guide 2012</a></li>
+<li><a href="http://lifehacker.com/5938782/plan-your-free-online-education-at-lifehacker-u-fall-semester-2012" time_added="1348860443" tags="life hacker">Plan Your Free Online Education at Lifehacker U: Fall Semester 2012</a></li>
+<li><a href="http://www.johndcook.com/blog/2013/01/07/disciplina-praesidium-civitatis/" time_added="1357584740" tags="academia">Disciplina praesidium civitatis — The Endeavour</a></li>
+<li><a href="http://seattletimes.com/html/editorials/2020166432_editachievementgapmlkxml.html" time_added="1358795391" tags="domestic,finance">Editorial: College Bound — the civil right of educational opportunity | Edi</a></li>
+<li><a href="http://techcrunch.com/2013/01/15/how-californias-new-online-education-pilot-will-end-college-as-we-know-it/" time_added="1358795872" tags="academia">How California’s Online Education Pilot Will End College As We Know It | Te</a></li>
+<li><a href="http://www.nytimes.com/2013/01/27/opinion/sunday/friedman-revolution-hits-the-universities.html" time_added="1359339647" tags="academia">Revolution Hits the Universities - NYTimes.com</a></li>
+<li><a href="http://bit.ly/Wkm1tF" time_added="1363368442" tags="academia,finance">The @cfpb wants to oversee the largest student loan servicers for both fede</a></li>
+<li><a href="http://blogs.seattletimes.com/opinionnw/2013/03/14/a-plan-to-eliminate-college-debt-eyes-the-university-of-washingtons-2-billion-endowment/" time_added="1363315177" tags="academia">A plan to eliminate college debt eyes the University of Washington’s $2 bil</a></li>
+<li><a href="http://www.linkedin.com/today/post/article/20130313043615-17970806-has-the-mba-become-a-worthless-degree" time_added="1363188981" tags="academia">Has The MBA Become A Worthless Degree? | LinkedIn</a></li>
+<li><a href="http://eepurl.com/wvRBz" time_added="1362770721" tags="academia">Support for Disruption, From Within Higher Ed / High Noon for a Flagship --</a></li>
+<li><a href="http://bit.ly/Wvok98" time_added="1362187417" tags="academia">Views: Lessons for trustees from U.Va.'s governance meltdown: bit.ly/Wvok98</a></li>
+<li><a href="http://www.thecrimson.com/article/2013/2/28/fall-of-harvard-academics/" time_added="1362264579" tags="academia">The Fall of Academics at Harvard | The Harvard Crimson</a></li>
+<li><a href="http://www.insidehighered.com/news/2013/02/25/survey-finds-pay-senior-administrators" time_added="1361896967" tags="academia">Survey finds pay for senior administrators is up | Inside Higher Ed</a></li>
+
+
+
+
+
+
+
+
 
 
 * http://www.vice.com/read/i-ghostwrote-hundreds-of-chinese-students-ivy-league-admissions-essays-897
@@ -59,7 +84,7 @@
 <li><a href="http://www.shirky.com/weblog/2012/11/napster-udacity-and-the-academy/" time_added="1353000451" tags="academia">codinghorror: "our Napster is Udacity, the education startup" http://t.co/E</a></li>
 <li><a href="http://simplystatistics.org/post/35563800852/some-thoughts-on-teaching-r-to-50-000-students" time_added="1352742608" tags="hn">Some Thoughts on Teaching R to 50,000 Students</a></li>
 <li><a href="http://t.co/7s4t0A7Q" time_added="1351946800" tags="academia,hn">lynnlangit: One Man, One Computer, 10 Million Students: How Khan Academy Is</a></li>
-
+<li><a href="http://t.co/IWlxtLnsqO" time_added="1362079490" tags="academia">Carnegie Mellon: The MOOC-Averse Technology U. - insidehighered.com/news/20</a></li>
 
 
 

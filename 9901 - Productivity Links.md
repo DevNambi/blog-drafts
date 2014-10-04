@@ -27,6 +27,14 @@
 <li><a href="http://www.cracked.com/blog/6-harsh-truths-that-will-make-you-better-person/" time_added="1355769951" tags="life hacker">6 Harsh Truths That Will Make You a Better Person | Cracked.com</a></li>
 <li><a href="http://well.blogs.nytimes.com/2013/01/09/to-keep-the-brain-benefits-of-exercise-keep-exercising/" time_added="1357868534" tags="domestic,health">Do the Brain Benefits of Exercise Last? - NYTimes.com</a></li>
 <li><a href="http://www.scientificamerican.com/article.cfm?id=how-to-gain-or-lose-30-minutes-of-life-everyday" time_added="1357243363" tags="health">How to Gain or Lose 30 Minutes of Life Every Day: Scientific American</a></li>
+<li><a href="http://www.newyorker.com/reporting/2012/01/30/120130fa_fact_lehrer" time_added="1353946257" tags="life hacker">Brainstorming Doesn’t Really Work : The New Yorker</a></li>
+<li><a href="http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time-wisdom" time_added="1355085821" tags="hn">More falsehoods programmers believe about time; "wisdom of the crowd" editi</a></li>
+<li><a href="http://lifehacker.com/5955115/find-the-right-routine-to-surf-productivity" time_added="1353083704" tags="hn,important,life hacker">Find the Right Routine to "Surf" Productivity</a></li>
+<li><a href="http://arstechnica.com/science/2013/01/starved-brains-kill-memory-making-to-survive/" time_added="1359399424" tags="hn">Starved brains kill memory-making to survive | Ars Technica</a></li>
+
+
+
+
 
 
 * http://www.newyorker.com/tech/elements/walking-helps-us-think
@@ -53,6 +61,7 @@
 <li><a href="http://lifehacker.com/5841604/the-always-up+to+date-guide-to-building-a-hackintosh" time_added="1348860731" tags="personal tech">The Always Up-to-Date Guide to Building a Hackintosh [OS X 10.8.2]</a></li>
 <li><a href="http://www.stardock.com/products/start8/" time_added="1349103995" tags="hn">Start8 for Windows® 8 - Bringing back the Windows Start menu</a></li>
 <li><a href="http://jsmcallister.blogspot.com/2012/08/syncing-your-gmail-contacts-with-your.html" time_added="1348860572" tags="personal tech">Using GMail to Manage Your iPhone Contacts (and vice versa) | JSMcAllister</a></li>
+<li><a href="http://www.hanselman.com/blog/Top10RaspberryPiMythsAndTruths.aspx" time_added="1363056836" tags="personal tech">Top 10 Raspberry Pi Myths and Truths hanselman.com/blog/Top10Rasp…</a></li>
 <li><a href="http://arstechnica.com/apple/2013/01/ars-readers-recommend-apps-for-your-new-ipad-or-ipad-mini/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" time_added="1357310878" tags="personal tech">Ars readers recommend apps for your new iPad or iPad mini | Ars Technica</a></li>
 <li><a href="http://www.tested.com/tech/pcs/452766-monoprice-announces-27-inch-2560x1440-monitor-390/" time_added="1357885034" tags="personal tech">CES 2013: Monoprice Announces 27-Inch 2560x1440 Monitor for $390 - Tested</a></li>
 <li><a href="http://vanderveer.be/blog/2013/01/02/automating-the-setup-of-my-perfect-developer-environment-on-osx-10-dot-8-mountain-lion/" time_added="1357138871" tags="personal tech">Automating the setup of my perfect developer environment on OSX 10.8 Mounta</a></li>
@@ -67,6 +76,14 @@
 <li><a href="http://blog.clarity.fm/best-collaboration-tools-for-working-with-remote-teams/" time_added="1355281919" tags="personal tech">Best Collaboration Tools For Remote Teams | Clarity.fm Blog</a></li>
 <li><a href="http://www.newyorker.com/online/blogs/comment/2012/05/leaving-facebookistan.html" time_added="1356045431" tags="personal tech">Why I'm Leaving Facebook : The New Yorker</a></li>
 <li><a href="http://priceonomics.com/cookware/" time_added="1357847436" tags="personal tech">The Minimum Viable Kitchen</a></li>
+<li><a href="http://www.nytimes.com/2012/12/16/jobs/home-office-requires-a-businesslike-attitude.html" time_added="1355683796" tags="life hacker,personal tech">Home Office Requires a Businesslike Attitude - NYTimes.com</a></li>
+<li><a href="http://blog.asmartbear.com/happier-30-something.html" time_added="1357496388" tags="health">My simple ways to be a happier, smarter 30-something by @ASmartBear</a></li>
+<li><a href="https://raymii.org/s/software/Nopriv.py.html" time_added="1356879418" tags="hn,personal tech">NoPriv.py - Easy IMAP email backup to HTML archive. - Raymii.org</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2012/10/six-strikes-system-goes-live-this-fall-appeals-to-cost-35/" time_added="1350581601" tags="hn">“Six strikes” system goes live this fall, appeals to cost $35 | Ars Technic</a></li>
+<li><a href="http://tapbots.com/software/tweetbot/mac/" time_added="1350866220" tags="personal tech">Tweetbot for Mac — Tapbots</a></li>
+<li><a href="http://dontbubble.us/" time_added="1357363885" tags="personal tech">Escape your search engine Filter Bubble!</a></li>
+<li><a href="https://thelab.o2.com/2013/03/substituting-google-reader-for-some-ifttt-magic/" time_added="1363272534" tags="personal tech">The Lab powered by O2 » Substituting Google Reader for some IFTTT magic</a></li>
+<li><a href="http://blog.feedly.com/2013/03/14/google-reader/" time_added="1363272531" tags="personal tech">Transitioning from Google Reader to feedly | Building Feedly</a></li>
 
 
 
@@ -100,12 +117,16 @@
 <li><a href="http://www.extremetech.com/computing/139191-staying-safe-online-using-a-password-manager-just-isnt-enough" time_added="1352271173" tags="hn">Staying safe online: Using a password manager just isn’t enough | ExtremeTe</a></li>
 <li><a href="http://arstechnica.com/tech-policy/2012/11/new-data-on-privacy-policies-shows-20-percent-of-sites-may-sell-data/" time_added="1354290097" tags="hn,personal tech">New data on privacy policies shows 20 percent of sites may sell data | Ars </a></li>
 <li><a href="http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?pagewanted=1&_r=2&hp" time_added="1352523993" tags="hn">How Companies Learn Your Secrets - NYTimes.com</a></li>
-<li><a href="http://www.wired.com/gadgetlab/2012/11/ff-mat-honan-password-hacker/" time_added="1353034272" tags="hn,imp
+<li><a href="http://arstechnica.com/tech-policy/2012/10/how-much-do-google-and-facebook-profit-from-your-data/" time_added="1349792728" tags="finance,hn">How much do Google and Facebook profit from your data? | Ars Technica</a></li>
+<li><a href="http://www.wired.com/gadgetlab/2012/11/ff-mat-honan-password-hacker/" time_added="1353034272" tags="hn,imp" /></li>
 <li><a href="http://lifehacker.com/5965462/the-best-replacements-for-privacy+invading-services" time_added="1354650464" tags="personal tech">The Best Replacements for Privacy-Invading Services</a></li>
 <li><a href="http://www.macgasm.net/2013/01/18/good-morning-your-mac-keeps-a-log-of-all-your-downloads/" time_added="1358538670" tags="personal tech">Good Morning, Your Mac Keeps A Log Of All Your Downloads | Macgasm</a></li>
 <li><a href="http://erratasec.blogspot.com/2013/01/i-conceal-my-identity-same-way-aaron.html" time_added="1358349879" tags="hn">Errata Security: I conceal my identity the same way Aaron was indicted for</a></li>
 <li><a href="http://www.tecca.com/columns/20-facebook-tips-tricks-tools/" time_added="1348860599" tags="hn">20 Facebook tips and tricks | Tecca</a></li>
-<li><a href="http://arstechnica.com/tech-policy/2013/01/fbi-to-aclu-nope-we-wont-tell-you-how-when-or-why-we-track-you/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" time_added="1358385106" tags="personal tech">FBI to ACLU: Nope, we won’t tell you how, when, or why we track you | Ars T</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2013/01/fbi-to-aclu-nope-we-wont-tell-you-how-when-or-why-we-track-you/" time_added="1358385106" tags="personal tech">FBI to ACLU: Nope, we won’t tell you how, when, or why we track you | Ars T</a></li>
+<li><a href="http://readwrite.com/2012/10/26/facebook-asked-blogger-who-purchased-user-data-to-keep-quiet" time_added="1351512117" tags="hn">Facebook Tries To Silence Blogger To Cover Up User Data Scandal [Updated]</a></li>
+<li><a href="http://flowingdata.com/2013/03/11/what-data-brokers-know-about-you/" time_added="1363005114" tags="data ethics">What data brokers know about you</a></li>
+
 
 http://www.theatlantic.com/technology/archive/2014/09/why-privacy-policies-are-so-inscrutable/379615/
 

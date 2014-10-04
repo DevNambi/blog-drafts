@@ -58,6 +58,18 @@ https://www.linkedin.com/today/post/article/20140528155249-224083-10-signs-a-com
 <li><a href="http://t.co/6EbqhshU" time_added="1357221653" tags="hn">peteskomoroch: Valve's 'Handbook for New Employees' is an interesting read.</a></li>
 <li><a href="http://www.smattie.com/2012/12/11/preparing-for-interview-loops/" time_added="1355381235" tags="brand">Preparing for interview loops | Scott Mattie's Blog</a></li>
 <li><a href="http://techcrunch.com/2013/01/12/10-reasons-why-2013-will-be-the-year-you-quit-your-job/" time_added="1358052989" tags="brand">10 Reasons Why 2013 Will Be The Year You Quit Your Job | TechCrunch</a></li>
+<li><a href="http://t.co/I0ahHh2Q" time_added="1355241533" tags="brand,hn,important">BrentO: Really, really good list of advice for employees by @msuster: http:</a></li>
+<li><a href="http://www.epi.org/publication/pm195-stem-labor-shortages-microsoft-report-distorts/" time_added="1355415704" tags="big data,finance,hn">STEM labor shortages?: Microsoft report distorts reality about computing oc</a></li>
+<li><a href="http://howtowriteabusinessplan.com/2012/12/engineering-salaries-at-silicon-valley-startups/" time_added="1354482705" tags="brand,hn">Engineering salaries at silicon valley startups | How to Write a Business P</a></li>
+<li><a href="http://moz.com/rand/what-company-culture-is-and-is-not/" time_added="1357833495" tags="brand">What Company Culture IS and IS NOT - Rand's Blog</a></li>
+<li><a href="http://matt.might.net/articles/work-life-balance/" time_added="1361213046" tags="brand">Tips for work-life balance</a></li>
+<li><a href="http://www.articulateventures.com/thoughts-on-being-an-employer/getting_hired/" time_added="1361979914" tags="brand,hiring/firing,hn">The Infuriating Truth About Getting Hired</a></li>
+<li><a href="http://www.articulateventures.com/thoughts-on-being-an-employer/salary-negotatiations-whats-possible-when-there-is-no-more-mone/" time_added="1362675485" tags="brand">Salary Negotiations: Whats possible when there is no more money?</a></li>
+<li><a href="http://dandreamsofcoding.wordpress.com/2012/11/19/why-wont-anyone-talk-to-me-what-recruiters-look-for-in-a-resume/" time_added="1353392519" tags="brand,hiring/firing">Why won’t anyone talk to me? What recruiters look for in a resume « Dan Dre</a></li>
+<li><a href="http://online.wsj.com/article/SB10001424127887324478304578173113703812842.html?mod=googlenews_wsj" time_added="1355348085" tags="brand,hiring/firing">A Job Seeker's Guide to Holiday Small Talk - WSJ.com</a></li>
+<li><a href="http://news.ycombinator.com/item?id=5105882" time_added="1360803131" tags="brand,hiring/firing">Ask HN: Why don't employees negotiate work week hours as often as salary? |</a></li>
+<li><a href="http://lifehacker.com/5934911/write-your-resume-like-a-recruiter-to-boost-your-chances-of-getting-hired" time_added="1348860175" tags="brand,hiring/firing">Write Your Resume Like a Recruiter to Boost Your Chances of Getting Hired</a></li>
+
 
 
 
