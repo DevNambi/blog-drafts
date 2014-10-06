@@ -41,6 +41,9 @@
 <li><a href="http://blogs.hbr.org/cs/2012/12/the_top_five_career_regrets.html" time_added="1355510629" tags="brand,hn,important">The Top Five Career Regrets - Daniel Gulati - Harvard Business Review</a></li>
 
 
+* http://www.stridenyc.com/blog/2014/10/3/im-agile-but-my-contract-isnt-how-to-align-contracts-with-agile-software-development-teams
+
+
 
 ## Blogging / Writing
 

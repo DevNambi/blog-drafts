@@ -20,7 +20,7 @@ One of the more famous engineering diagrams is the OSI network model. It describ
 
 It's the model that defines the engineering around the entire Internet. 
 
-Data engineering doesn't have an equivalent model. This is my attempt to create one. 
+Data engineering doesn't have an equivalent model. It needs one as technology stacks, connectors, and processing models are invented, evolve, and die at a furious pace.
 
 
 ### The Elephant Has Left the Building
@@ -49,31 +49,70 @@ The most popular cutting-edge implementations of interactive big-data engines ar
 
 ## The Layers
 
-Hardware, Infrastructure.
+**Figure Out Where They Fit**
 
-Low-Level Operators
+* Summingbird
+* MemSQL
 
-High-Level Operators, Queries
+#### Hardware, Infrastructure.
 
-Algorithms, Parameters
+* Resource management
+* Process monitoring and restartability
+* ZooKeeper
+* Mesos
+* Cloud computing tools (Chef, Puppet)
 
-Languages
 
+#### Storage, Filesystem, Memory
 
-#### Hardware
-
+* I/O (serialization, etc)
+* Connectors, connectors everywhere
+* Kafka
+* Apache Storm
+* HDFS
+* RDD in Spark
+* Hbase/Cassandra
+* Mongo
 
 #### Low-Level Operators
 
+* Pig
+* Connectors, connectors everywhere!
+* Hadoop operators (map, reduce)
+* Scala operators (map, flatmap, etc)
+* SQL operators (seek, scan, join, aggregate)
 
-#### High-Level Operators
 
+#### High-Level Operators, Queries
+
+* ML
+* SQL (Hive, Shark)
+* Impala
+* Mahout
 
 #### Algorithms, Parameters
 
+* Brains
+* Hyperparameters
+* MLBase
 
 #### Languages
 
+* R
+* Python
+* Scala
+* Cascading
+* Java
+* .NET
+* C++
+* Cascalog
+* Clojure
+
+
 
 ## The Future
+
+* Consolidation
+* Go for simplicity (GraphLab)
+* Interoperability
 

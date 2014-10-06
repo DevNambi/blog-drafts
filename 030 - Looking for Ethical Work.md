@@ -28,6 +28,35 @@ Industries
       § http://oedb.org/open/
       § Email Daniel Strauss when I do
 
+
+**Easy ML, Big Data**
+
+* Social networking
+* Spam filtering
+
+**Easy ML, Small Data**
+
+* Academia
+* Some governmental work
+
+**Hard ML, Big Data**
+
+* Online ads
+* Search
+* Genomics
+* Finance
+* Astrophysics
+* Chemical engineering
+* Genomics
+
+**Hard ML, Small Data**
+
+* Insurance risk
+* Finance
+* Climate Change
+
+
+
 Support creators, and disrupt everything else
 
 * Disrupt telecommunications. They're a tax on the Internet

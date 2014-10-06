@@ -31,6 +31,7 @@
 
 
 * http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0
+* http://aeon.co/magazine/health/would-we-opt-out-of-food-if-given-the-chance/
 
 
 ### Exercise

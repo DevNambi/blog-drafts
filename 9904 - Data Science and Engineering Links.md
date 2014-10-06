@@ -228,6 +228,9 @@ http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 <li><a href="http://www.kaggle.com/c/whale-detection-challenge/data" time_added="1360687183" tags="data science">Data - The Marinexplore and Cornell University Whale Detection Challenge - </a></li>
 
 
+http://punkrockor.wordpress.com/2014/08/12/in-defense-of-model-simplicity/
+
+
 
 
 
@@ -324,6 +327,7 @@ http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 
 
 * http://jeremykun.com/2014/10/05/on-the-computational-complexity-of-mapreduce/
+* http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html
 
 
 
