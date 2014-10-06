@@ -61,6 +61,8 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 <li><a href="http://code.google.com/p/google-refine/" time_added="1349104008" tags="data science">google-refine - Google Refine, a power tool for working with messy data (fo</a></li>
 <li><a href="http://vis.stanford.edu/wrangler/" time_added="1349104004" tags="data science">Data Wrangler</a></li>
 
+* http://radar.oreilly.com/2014/10/challenges-facing-predictive-apis.html
+
 
 ## Data Viz
 
@@ -263,6 +265,8 @@ http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 
 <li><a href="http://moalquraishi.wordpress.com/2013/03/17/what-hintons-google-move-says-about-the-future-of-machine-learning/" time_added="1363562363" tags="ml">What Hinton’s Google Move Says About the Future of Machine Learning « Some </a></li>
 <li><a href="http://oreillynet.com/pub/e/2538" time_added="1363282942" tags="data science,ml">Webcast: Deep Learning - The Biggest Data Science Breakthrough of the Decad</a></li>
+
+* http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
 
 
 ## Learning

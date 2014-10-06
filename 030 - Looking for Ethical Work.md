@@ -39,7 +39,7 @@ Support creators, and disrupt everything else
 * http://www.nakedcapitalism.com/2013/10/ethics-and-complex-systems.html
 * http://www.bbc.co.uk/news/science-environment-24538078
 * http://www.brainpickings.org/2014/02/11/brockman-what-should-we-be-worried-about/
-
+* http://www.pickthebrain.com/blog/8-things-important-job/
 
 Work-Life Balance: List the good and bad things, and why
 • How to make good things easier
