@@ -76,6 +76,7 @@
 * http://www.bloomberg.com/news/2014-09-04/secret-network-connects-harvard-money-to-payday-loans.html
 * http://strategyandanalytics.com/hardship-professions-unhappy-suicidal-alcoholic-job-lists/
 * http://www.nakedcapitalism.com/2014/09/profit-colleges-factories-debt.html
+* http://mobile.nytimes.com/2014/10/05/nyregion/community-college-students-face-a-very-long-road-to-graduation.html
 
 
 ## MOOCs / Online Learning

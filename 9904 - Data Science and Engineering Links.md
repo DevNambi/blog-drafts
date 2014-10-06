@@ -319,7 +319,7 @@ http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 <li><a href="http://hackingdistributed.com/2013/03/07/partition-tolerance-myth/" time_added="1362689122" tags="big data,hn">The NoSQL Partition Tolerance Myth :: Hacking, Distributed</a></li>
 
 
-
+* http://jeremykun.com/2014/10/05/on-the-computational-complexity-of-mapreduce/
 
 
 

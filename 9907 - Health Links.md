@@ -23,6 +23,7 @@
 <li><a href="http://t.co/FQGGGKFrXl" time_added="1362686602" tags="health">happygocrafty: Aha! 350• for 18 minutes: perfect kale chips. Mmm. pic.twitt</a></li>
 <li><a href="http://www.nytimes.com/2013/03/03/health/experts-want-more-studies-of-mediterranean-diets-role-for-the-heart.html?hp" time_added="1362253432" tags="health">Experts Want More Studies of Diet’s Role for the Heart - NYTimes.com</a></li>
 <li><a href="http://www.nwedible.com/2012/08/tragedy-healthy-eater.html" time_added="1361563513" tags="funny,health">The Terrible Tragedy of the Healthy Eater</a></li>
+<li><a href="http://www.salad-in-a-jar.com/family-recipes/how-to-vacuum-pack-salad-in-a-jar-for-less-than-6-plus-a-video" time_added="1361396837" tags="health">How To Vacuum-Pack Salad in a Jar for Less Than $6 (Plus a Video)</a></li>
 
 
 
