@@ -360,6 +360,10 @@ http://punkrockor.wordpress.com/2014/08/12/in-defense-of-model-simplicity/
 
 
 
+* http://www.newyorker.com/magazine/2014/10/13/planning-machine
+
+
+
 
 ## Science
 

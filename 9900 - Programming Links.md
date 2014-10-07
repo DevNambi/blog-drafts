@@ -23,6 +23,7 @@
 
 
 * http://erniepark.com/software/2014/08/20/10-practical-software-engineer-tips.html
+* http://mattgemmell.com/confessions-of-an-ex-developer/
 
 
 
