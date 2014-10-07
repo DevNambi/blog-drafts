@@ -28,6 +28,13 @@
 
 
 
+
+## Police
+
+* http://www.ajc.com/news/news/breaking-news/no-charges-for-officers-in-botched-drug-raid-that-/nhc2N/
+
+
+
 ## Politics
 
 <li><a href="http://www.npr.org/2012/10/03/162103368/how-politicians-get-away-with-dodging-the-question" time_added="1350313283" tags="hn">Debate Pivots: How Politicians Get Away With Dodging The Question : NPR</a></li>

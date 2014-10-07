@@ -71,6 +71,8 @@
 
 * http://mobile.nytimes.com/2014/09/21/us/drive-by-doctoring-surprise-medical-bills.html?_r=1
 * http://newoldage.blogs.nytimes.com/2014/09/24/study-links-anxiety-drugs-to-alzheimers-disease/
+* http://www.abc.net.au/news/2014-10-07/queensland-scientists-discover-cancer-fighting-berry/5796106
+* http://www.nytimes.com/2014/10/07/upshot/the-placebo-effect-doesnt-apply-just-to-pills.html?partner=rss&emc=rss&abt=0002&abg=1&_r=0
 
 
 

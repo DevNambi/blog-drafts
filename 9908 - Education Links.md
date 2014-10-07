@@ -24,6 +24,7 @@
 * http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html
 * http://www.salon.com/2014/07/06/comedy_vs_anti_science_10_amazing_videos_that_show_how_humor_can_make_a_difference/
 * http://www.salon.com/2014/10/02/the_great_charter_school_rip_off_finally_the_truth_catches_up_to_education_reform_phonies/
+* http://news.sciencemag.org/biology/2014/10/genes-dont-just-influence-your-iq-they-determine-how-well-you-do-school
 
 
 ## Higher Education

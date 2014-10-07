@@ -45,6 +45,9 @@
 <li><a href="http://blog.studentrnd.org/post/34556989032/tech-education-doesnt-happen-in-the-classroom" time_added="1351534970" tags="academia">Tech Education Doesn't Happen in the Classroom</a></li>
 
 
+* https://education.github.com/pack
+
+
 
 
 ## Meta
@@ -193,6 +196,7 @@
 ## Scala, Spark
 
 * http://wrobstory.gitbooks.io/python-to-scala/
+* http://www.slideshare.net/Bozho/scala-the-good-the-bad-and-the-very-ugly
 
 
 
