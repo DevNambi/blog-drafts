@@ -171,6 +171,7 @@
 * http://nbviewer.ipython.org/github/gjreda/gregreda.com/blob/master/content/notebooks/intro-to-pandas.ipynb
 * http://jvns.ca/blog/2013/12/22/cooking-with-pandas/
 * http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/
+* http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb
 
 
 * AWS IPython: Start IPYNB on EC2 machine. ssh -L 8889:localhost:8888 user@awsip.com. Go to localhost:8889 in local browser. Super quick IPYNB cloud

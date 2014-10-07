@@ -26,6 +26,9 @@
 <li><a href="http://arstechnica.com/information-technology/2012/09/is-a-resume-relevant-in-the-age-of-online-courses-and-open-source-projects/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" time_added="1349739622" tags="brand,hiring/firing">Is a resume relevant in the age of online courses and open source projects?</a></li>
 
 
+* http://voiceofthedba.wordpress.com/2014/10/06/making-better-presentationspractice/
+
+
 ## Career Planning, Consulting, Freelancing
 
 <li><a href="http://lifehacker.com/5947649/steve-martins-advice-for-building-a-career-you-love?utm_medium=referral&utm_source=pulsenews" time_added="1349112993" tags="brand">Steve Martin's Advice for Building a Career You Love</a></li>

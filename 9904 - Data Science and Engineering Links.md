@@ -328,6 +328,7 @@ http://punkrockor.wordpress.com/2014/08/12/in-defense-of-model-simplicity/
 
 * http://jeremykun.com/2014/10/05/on-the-computational-complexity-of-mapreduce/
 * http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html
+* http://www.slideshare.net/deanwampler/spark-the-next-top-compute-model-39976454
 
 
 

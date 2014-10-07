@@ -41,14 +41,10 @@ Come up with the cost-effectiveness of different sports & physical exercises.
 * Use the Food Doctor book for this
 * How do I determine detrimental impact of different foods?
 
-http://mobile.nytimes.com/2014/09/02/health/low-carb-vs-low-fat-diet.html
-
-http://www.theatlantic.com/health/archive/2014/09/access-to-real-food-as-privilege/379482/
-
-http://www.nytimes.com/2014/06/18/opinion/mark-bittmanthe-food-industrys-solution-to-obesity.html?src=me&ref=general
-
-
-http://www.wired.com/2014/09/ex-googler-using-big-data-model-creation-new-foods/
+* http://mobile.nytimes.com/2014/09/02/health/low-carb-vs-low-fat-diet.html
+* http://www.theatlantic.com/health/archive/2014/09/access-to-real-food-as-privilege/379482/
+* http://www.nytimes.com/2014/06/18/opinion/mark-bittmanthe-food-industrys-solution-to-obesity.html?src=me&ref=general
+* http://www.wired.com/2014/09/ex-googler-using-big-data-model-creation-new-foods/
 
 ### Health from Work
 * What's the benefit of a standing desk?
@@ -75,11 +71,10 @@ Look at Bayesian math and conditional probability for this.
    i. http://archinte.jamanetwork.com/article.aspx?articleid=1351351 
 2. nonprofit companies - http://economix.blogs.nytimes.com/2013/04/12/the-governance-of-nonprofit-hospitals/
 
-http://www.foodfacts.com/
-
-http://www.bmj.com/press-releases/2013/10/22/observations-saturated-fat-not-major-issue
-
-http://www.nytimes.com/2014/07/07/opinion/the-risks-of-hospital-mergers.html
+* http://www.foodfacts.com/
+* http://www.bmj.com/press-releases/2013/10/22/observations-saturated-fat-not-major-issue
+*  http://www.nytimes.com/2014/07/07/opinion/the-risks-of-hospital-mergers.html
+* http://www.nakedcapitalism.com/2014/10/can-commercialized-health-care-system-contain-ebola.html
 
 
 ### Health-Care IT
