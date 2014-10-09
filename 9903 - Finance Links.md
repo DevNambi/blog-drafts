@@ -53,7 +53,8 @@
 <li><a href="http://techcrunch.com/2012/12/05/leaky-national-launch-seed-funding/" time_added="1354741085" tags="data science,finance,hn,personal tech">Auto Insurance Comparison Startup Leaky Launches Nationally, Raises $670K |</a></li>
 
 
-http://mobile.nytimes.com/2014/09/21/us/drive-by-doctoring-surprise-medical-bills.html?_r=1
+* http://mobile.nytimes.com/2014/09/21/us/drive-by-doctoring-surprise-medical-bills.html?_r=1
+* http://www.theatlantic.com/health/archive/2014/10/why-americans-are-drowning-in-medical-debt/381163/
 
 
 ## Personal Finance

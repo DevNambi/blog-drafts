@@ -25,6 +25,7 @@
 * http://www.salon.com/2014/07/06/comedy_vs_anti_science_10_amazing_videos_that_show_how_humor_can_make_a_difference/
 * http://www.salon.com/2014/10/02/the_great_charter_school_rip_off_finally_the_truth_catches_up_to_education_reform_phonies/
 * http://news.sciencemag.org/biology/2014/10/genes-dont-just-influence-your-iq-they-determine-how-well-you-do-school
+* http://www.politico.com/magazine/story/2014/10/the-plot-against-public-education-111630.html#.VDU3c-vn_0w
 
 
 ## Higher Education
@@ -79,6 +80,7 @@
 * http://www.nakedcapitalism.com/2014/09/profit-colleges-factories-debt.html
 * http://mobile.nytimes.com/2014/10/05/nyregion/community-college-students-face-a-very-long-road-to-graduation.html
 * https://www.bostonglobe.com/metro/2014/10/04/glut-postdoc-researchers-stirs-quiet-crisis-science/HWxyErx9RNIW17khv0MWTN/story.html
+* http://blogs.wsj.com/economics/2014/10/07/sat-scores-and-income-inequality-how-wealthier-kids-rank-higher/
 
 
 ## MOOCs / Online Learning

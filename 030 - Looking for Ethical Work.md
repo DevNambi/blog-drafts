@@ -22,6 +22,7 @@ Industries
    • Law
    • Medicine
       § http://www.theatlantic.com/health/archive/2012/10/why-were-still-waiting-on-the-yelpification-of-health-care/263815/
+      http://www.businessinsider.com/super-cheap-genome-sequencing-by-2020-2014-10
    • Realtors
    • Any cottage industries
    • Education
