@@ -81,6 +81,9 @@
 * http://mobile.nytimes.com/2014/10/05/nyregion/community-college-students-face-a-very-long-road-to-graduation.html
 * https://www.bostonglobe.com/metro/2014/10/04/glut-postdoc-researchers-stirs-quiet-crisis-science/HWxyErx9RNIW17khv0MWTN/story.html
 * http://blogs.wsj.com/economics/2014/10/07/sat-scores-and-income-inequality-how-wealthier-kids-rank-higher/
+* http://www.salon.com/2014/10/10/noam_chomsky_corporate_business_models_are_hurting_american_universities_partner/
+* http://www2.ed.gov/offices/OSFAP/defaultmanagement/cdr.html
+* http://www.nbcnews.com/feature/in-plain-sight/highly-educated-unemployed-tumbling-down-ladder-n219451
 
 
 ## MOOCs / Online Learning

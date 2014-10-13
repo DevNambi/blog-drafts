@@ -128,7 +128,8 @@
 <li><a href="http://flowingdata.com/2013/03/11/what-data-brokers-know-about-you/" time_added="1363005114" tags="data ethics">What data brokers know about you</a></li>
 
 
-http://www.theatlantic.com/technology/archive/2014/09/why-privacy-policies-are-so-inscrutable/379615/
+* http://www.theatlantic.com/technology/archive/2014/09/why-privacy-policies-are-so-inscrutable/379615/
+* http://techcrunch.com/2014/10/11/edward-snowden-new-yorker-festival/
 
 
 

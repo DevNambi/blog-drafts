@@ -127,6 +127,8 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 <li><a href="http://www.phyzkit.net/docs/d3.d.ts.html" time_added="1363148349" tags="viz">An alternative #d3js documentation phyzkit.net/docs/d3.d.ts.h… by @KDKTN</a></li>
 
 
+* Use bokeh and Seaborn instead of Vincent, https://github.com/wrobstory/vincent
+
 
 
 http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
@@ -228,8 +230,9 @@ http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 <li><a href="http://www.kaggle.com/c/whale-detection-challenge/data" time_added="1360687183" tags="data science">Data - The Marinexplore and Cornell University Whale Detection Challenge - </a></li>
 
 
-http://punkrockor.wordpress.com/2014/08/12/in-defense-of-model-simplicity/
-
+* http://punkrockor.wordpress.com/2014/08/12/in-defense-of-model-simplicity/
+* http://research.microsoft.com/pubs/192769/tricks-2012.pdf
+* http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 
 
 
@@ -329,6 +332,9 @@ http://punkrockor.wordpress.com/2014/08/12/in-defense-of-model-simplicity/
 * http://jeremykun.com/2014/10/05/on-the-computational-complexity-of-mapreduce/
 * http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html
 * http://www.slideshare.net/deanwampler/spark-the-next-top-compute-model-39976454
+* http://techblog.netflix.com/2014/10/using-presto-in-our-big-data-platform.html
+* http://databricks.com/blog/2014/10/10/spark-breaks-previous-large-scale-sort-record.html
+* http://patshaughnessy.net/2014/10/13/following-a-select-statement-through-postgres-internals
 
 
 

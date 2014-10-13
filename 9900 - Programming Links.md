@@ -322,10 +322,9 @@ things they believe in will keep </a></li>
 <li><a href="http://damienkatz.net/2013/01/the_unreasonable_effectiveness_of_c.html" time_added="1357834705" tags="hn">Damien Katz: The Unreasonable Effectiveness of C</a></li>
 
 
-http://www.oliverlehmann.com/project-management-sources/Nasa-Hundred-Rules-for-Project-Managers.pdf?utm_content=buffer9f90e&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
-
-
-https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging-in-json/
+* http://www.oliverlehmann.com/project-management-sources/Nasa-Hundred-Rules-for-Project-Managers.pdf
+* https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging-in-json/
+* http://anandtech.com/show/8223/an-introduction-to-semiconductor-physics-technology-and-industry
 
 ## Funny
 

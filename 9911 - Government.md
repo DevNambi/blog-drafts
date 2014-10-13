@@ -5,7 +5,7 @@
 
 ## Federal
 
-
+* http://mobile.nytimes.com/2014/10/12/business/no-smoke-no-mirrors-the-dutch-pension-plan.html
 
 
 
@@ -32,6 +32,7 @@
 ## Police
 
 * http://www.ajc.com/news/news/breaking-news/no-charges-for-officers-in-botched-drug-raid-that-/nhc2N/
+* http://www.komonews.com/news/local/State-troopers-caught-ignoring-speeding-cops-278746621.html?mobile=y&clmob=y&c=n
 
 
 
