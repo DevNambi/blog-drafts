@@ -55,6 +55,7 @@ https://www.linkedin.com/today/post/article/20140528155249-224083-10-signs-a-com
 * http://fortune.com/2014/09/04/the-global-talent-crunch/
 * http://strategyandanalytics.com/hardship-professions-unhappy-suicidal-alcoholic-job-lists/
 
+<ul>
 <li><a href="http://t.co/6EbqhshU" time_added="1357221653" tags="hn">peteskomoroch: Valve's 'Handbook for New Employees' is an interesting read.</a></li>
 <li><a href="http://www.smattie.com/2012/12/11/preparing-for-interview-loops/" time_added="1355381235" tags="brand">Preparing for interview loops | Scott Mattie's Blog</a></li>
 <li><a href="http://techcrunch.com/2013/01/12/10-reasons-why-2013-will-be-the-year-you-quit-your-job/" time_added="1358052989" tags="brand">10 Reasons Why 2013 Will Be The Year You Quit Your Job | TechCrunch</a></li>
@@ -69,13 +70,32 @@ https://www.linkedin.com/today/post/article/20140528155249-224083-10-signs-a-com
 <li><a href="http://online.wsj.com/article/SB10001424127887324478304578173113703812842.html?mod=googlenews_wsj" time_added="1355348085" tags="brand,hiring/firing">A Job Seeker's Guide to Holiday Small Talk - WSJ.com</a></li>
 <li><a href="http://news.ycombinator.com/item?id=5105882" time_added="1360803131" tags="brand,hiring/firing">Ask HN: Why don't employees negotiate work week hours as often as salary? |</a></li>
 <li><a href="http://lifehacker.com/5934911/write-your-resume-like-a-recruiter-to-boost-your-chances-of-getting-hired" time_added="1348860175" tags="brand,hiring/firing">Write Your Resume Like a Recruiter to Boost Your Chances of Getting Hired</a></li>
+</ul>
+
+#### My Microsoft Interview Questions
 
 
+**To Managers**
+
+* When building distributed software, how do you get other teams to build features/tools for you?
+* When building distributed software, how do you balance building stuff for other teams vs. for your own?
+* What percentage of time do you reserve for your developers to experiment/learn/innovate (without having to ask for anyone's approval/permission)?
+* How do you battle/deal with [Conway's Law](http://en.wikipedia.org/wiki/Conway's_law) ?
+* When were the last 2-3 times you've changed your opinion about something technical because your developers convinced you?
+* What do you want to learn next?
+* How do you deal with different communications' preferences amongst your developers?
+* What do you do when a PM asks for features at the last minute?
+* How do you learn from your mistakes?
 
 
+**To Potential Coworkers**
 
-
-
+* How often do you work late, or on weekends? How many times in the last month?
+* How often do you get paged late at night? How many times in the last month?
+* How much time do you have to experiment/learn/innovate without getting anybody's approval?
+* How do you test your code? What kinds of testing do you do?
+* How do you learn from your mistakes?
+* How much does stack ranking and annual commitments determine what you do each month? How about this month?
 
 
 
