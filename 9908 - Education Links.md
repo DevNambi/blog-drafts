@@ -26,6 +26,7 @@
 * http://www.salon.com/2014/10/02/the_great_charter_school_rip_off_finally_the_truth_catches_up_to_education_reform_phonies/
 * http://news.sciencemag.org/biology/2014/10/genes-dont-just-influence-your-iq-they-determine-how-well-you-do-school
 * http://www.politico.com/magazine/story/2014/10/the-plot-against-public-education-111630.html#.VDU3c-vn_0w
+* http://www.salon.com/2014/10/12/google_makes_us_all_dumber_the_neuroscience_of_search_engines/
 
 
 ## Higher Education
@@ -84,6 +85,8 @@
 * http://www.salon.com/2014/10/10/noam_chomsky_corporate_business_models_are_hurting_american_universities_partner/
 * http://www2.ed.gov/offices/OSFAP/defaultmanagement/cdr.html
 * http://www.nbcnews.com/feature/in-plain-sight/highly-educated-unemployed-tumbling-down-ladder-n219451
+* https://www.coursereport.com/schools?focus=-1&type=0&cost=0&location=Seattle
+* http://www.nytimes.com/2014/10/14/us/web-era-trade-schools-feeding-a-need-for-code.html?_r=0
 
 
 ## MOOCs / Online Learning

@@ -6,6 +6,8 @@
 ## Federal
 
 * http://mobile.nytimes.com/2014/10/12/business/no-smoke-no-mirrors-the-dutch-pension-plan.html
+* http://www.nytimes.com/2014/10/14/us/for-supreme-court-first-amendment-sometimes-has-a-limit-its-doorstep.html
+* http://arstechnica.com/tech-policy/2014/10/in-a-first-tsa-announces-7-americans-removed-from-no-fly-list/
 
 
 
@@ -33,6 +35,8 @@
 
 * http://www.ajc.com/news/news/breaking-news/no-charges-for-officers-in-botched-drug-raid-that-/nhc2N/
 * http://www.komonews.com/news/local/State-troopers-caught-ignoring-speeding-cops-278746621.html?mobile=y&clmob=y&c=n
+* http://www.washingtonpost.com/sf/investigative/2014/09/06/stop-and-seize/
+* http://arstechnica.com/tech-policy/2014/10/private-donors-supply-spy-gear-to-cops/
 
 
 

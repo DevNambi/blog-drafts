@@ -41,6 +41,7 @@
 ## Misc
 
 * http://www.wired.com/2012/12/mf-tim-oreilly-qa/2/
+* http://www.nytimes.com/2014/10/15/upshot/how-jean-tiroles-work-helps-explain-the-internet-economy.html?abt=0002&abg=1&smid=tw-upshotnyt&_r=0
 
 <li><a href="http://t.co/75CMzDdE" time_added="1361124125" tags="hn">If you work in tech, go watch PBS's Silicon Valley American Experience righ</a></li>
 

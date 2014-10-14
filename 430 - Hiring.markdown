@@ -32,11 +32,10 @@ This is an information problem. It's also a FUD problem.
 
 "Sure, I know just the person to talk to!" <- refer them to another recruiter with a fake resume.
 
-http://imgur.com/a/ZpNzE
-
-http://blog.42floors.com/striking-back-recruiter-spam/
-
-http://qz.com/258066/this-is-why-you-dont-hire-good-developers/
+* http://imgur.com/a/ZpNzE
+* http://blog.42floors.com/striking-back-recruiter-spam/
+* http://qz.com/258066/this-is-why-you-dont-hire-good-developers/
+* http://radar.oreilly.com/2014/10/resume-driven-development.html
 
 <li><a href="http://datagenetics.com/blog/december32012/index.html" time_added="1355278385" tags="brand,data science,hn,personal tech">Secretary Puzzle</a></li>
 <li><a href="http://erniemiller.org/2012/12/15/why-i-love-being-a-programmer-in-louisville-or-why-i-wont-relocate-to-work-for-your-startup/" time_added="1355841735" tags="hn">Why I Love Being A Programmer in Louisville (or, Why I Won’t Relocate to Wo</a></li>

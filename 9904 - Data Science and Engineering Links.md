@@ -9,6 +9,8 @@
 <li><a href="http://t.co/vsW3xsQE" time_added="1355874308" tags="big data">lynnlangit: A programmer’s guide to big data: 12 tools to know http://t.co/</a></li>
 <li><a href="http://www.revolutionanalytics.com/downloads/free-academic.php" time_added="1357790517" tags="big data,data science,ml,stats">Download Revolution R - Free for Academia - Revolution Analytics</a></li>
 
+* http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/
+
 
 
 
@@ -128,10 +130,8 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 
 
 * Use bokeh and Seaborn instead of Vincent, https://github.com/wrobstory/vincent
-
-
-
-http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
+* http://square.github.io/intro-to-d3/
+* http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 
 
 #### GGPlot2
@@ -335,6 +335,7 @@ http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 * http://techblog.netflix.com/2014/10/using-presto-in-our-big-data-platform.html
 * http://databricks.com/blog/2014/10/10/spark-breaks-previous-large-scale-sort-record.html
 * http://patshaughnessy.net/2014/10/13/following-a-select-statement-through-postgres-internals
+* http://tachyon-project.org/
 
 
 
@@ -368,6 +369,7 @@ http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 
 
 * http://www.newyorker.com/magazine/2014/10/13/planning-machine
+* https://speakerdeck.com/jdmaturen/towards-a-data-driven-product-techniques-and-tools-at-github
 
 
 

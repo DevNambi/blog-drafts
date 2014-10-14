@@ -130,6 +130,7 @@
 
 * http://www.theatlantic.com/technology/archive/2014/09/why-privacy-policies-are-so-inscrutable/379615/
 * http://techcrunch.com/2014/10/11/edward-snowden-new-yorker-festival/
+* https://www.kickstarter.com/projects/augustgermar/anonabox-a-tor-hardware-router
 
 
 

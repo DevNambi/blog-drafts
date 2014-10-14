@@ -36,6 +36,8 @@
 
 * http://opinionator.blogs.nytimes.com/2013/11/02/poverty-in-america-is-mainstream/
 * http://seattletimes.com/html/localnews/2024625051_carpaymentsxml.html
+* http://www.theguardian.com/business/2014/oct/14/richest-1percent-half-global-wealth-credit-suisse-report
+* http://www.nytimes.com/2014/10/15/upshot/when-the-guy-making-your-sandwich-has-a-noncompete-clause.html?_r=0&abt=0002&abg=1
 
 <li><a href="http://www.nakedcapitalism.com/2014/01/wolf-richter-chart-true-representation-employment-crisis-country.html" time_added="1389327292" tags="">Wolf Richter: “This Chart Is A True Representation Of The Employment Crisis</a></li>
 <li><a href="http://economistsview.typepad.com/economistsview/2012/12/why-next-to-no-political-reaction-to-the-second-gilded-age.html" time_added="1356891135" tags="domestic,finance,hn">Economist's View: Why Next to No Political Reaction to the Second Gilded Ag</a></li>

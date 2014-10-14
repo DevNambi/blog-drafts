@@ -24,6 +24,7 @@
 
 * http://erniepark.com/software/2014/08/20/10-practical-software-engineer-tips.html
 * http://mattgemmell.com/confessions-of-an-ex-developer/
+* http://www.whoismcafee.com/three-guys-walk-into-a-microwave/
 
 
 
@@ -60,6 +61,10 @@
 <li><a href="http://blog.openviewpartners.com/coding-is-dead-long-live-the-coders/?utm_medium=referral&utm_source=pulsenews" time_added="1349321474" tags="hn">Coding is Dead. Long Live the Coders | OpenView Blog</a></li>
 <li><a href="http://java.dzone.com/programmers-are-bad-estimating?utm_medium=referral&utm_source=pulsenews" time_added="1349321502" tags="hn">Programmer Time Translation Cheatsheet -or- Why Programmers Are Bad at Esti</a></li>
 <li><a href="http://www.infoworld.com/d/application-development/10-steps-becoming-the-developer-everyone-wants-214462" time_added="1363291806" tags="brand,hn,important">10 steps to becoming the developer everyone wants | Application Development</a></li>
+
+
+* https://gigaom.com/2014/10/08/patent-trolling-pays-since-2010-trolls-have-made-3-times-as-much-money-in-court-as-real-companies/
+* http://michaelochurch.wordpress.com/2014/10/13/it-might-be-time-for-software-engineers-especially-in-silicon-valley-to-unionize/
 
 
 
@@ -151,6 +156,9 @@
 <li><a href="http://rapgenius.com/James-somers-herokus-ugly-secret-lyrics" time_added="1360808485" tags="cloud,hn">James Somers – Heroku's Ugly Secret | Rap Genius</a></li>
 
 
+* http://muratbuffalo.blogspot.com/2014/07/distributed-is-not-necessarily-more.html
+* http://swrveengineering.wordpress.com/2014/10/14/how-we-increased-our-ec2-event-throughput-by-50-for-free/
+
 
 
 
@@ -189,6 +197,8 @@
 <li><a href="http://ozkatz.github.com/improving-your-python-productivity.html" time_added="1354482501" tags="data science,languages">Improving Your Python Productivity | Eventual Consistency</a></li>
 <li><a href="http://code.google.com/p/iep/" time_added="1354566178" tags="data science,languages,personal tech">iep - the Interactive Editor for Python - Google Project Hosting</a></li>
 <li><a href="http://python3wos.appspot.com/" time_added="1355279014" tags="data science,languages">Python 3 Wall of Superpowers</a></li>
+
+
 
 
 
