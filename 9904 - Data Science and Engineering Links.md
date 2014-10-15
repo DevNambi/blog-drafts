@@ -195,6 +195,7 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 
 
 * http://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/
+* http://sujitpal.blogspot.com/2014/05/ipython-notebooks-for-statlearning.html
 
 
 

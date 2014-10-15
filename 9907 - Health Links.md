@@ -75,6 +75,7 @@
 * http://www.abc.net.au/news/2014-10-07/queensland-scientists-discover-cancer-fighting-berry/5796106
 * http://www.nytimes.com/2014/10/07/upshot/the-placebo-effect-doesnt-apply-just-to-pills.html?partner=rss&emc=rss&abt=0002&abg=1&_r=0
 * http://www.nytimes.com/2014/09/21/sunday-review/high-tech-health-care-useful-to-a-point.html
+* http://www.wired.com/2014/10/number-needed-to-treat/?mbid=social_fb
 
 
 
