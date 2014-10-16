@@ -33,6 +33,7 @@
 * http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0
 * http://aeon.co/magazine/health/would-we-opt-out-of-food-if-given-the-chance/
 * http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13793.html
+* http://qz.com/271961/the-complete-guide-to-packing-a-thrifty-lunch-thats-better-than-takeout/
 
 
 ### Exercise
@@ -40,6 +41,9 @@
 <li><a href="http://www.nerdfitness.com/blog/2012/11/29/paleo-central-app/" time_added="1354206518" tags="health">Paleo Central: The First Nerd Fitness App is NOW AVAILABLE! | Nerd Fitness</a></li>
 <li><a href="http://www.nerdfitness.com/blog/2012/11/26/konami-code-workout/" time_added="1353945484" tags="health">The Greatest Workout Ever Created | Nerd Fitness</a></li>
 <li><a href="http://www.nerdfitness.com/blog/2013/01/14/5-mistakes-that-newbies-make-when-trying-to-get-healthy/" time_added="1358179406" tags="domestic,health">5 Crucial Mistakes Newbies Make Trying to Get Healthy | Nerd Fitness</a></li>
+
+
+* http://well.blogs.nytimes.com/2014/10/15/whats-your-fitness-age/
 
 
 
@@ -76,6 +80,10 @@
 * http://www.nytimes.com/2014/10/07/upshot/the-placebo-effect-doesnt-apply-just-to-pills.html?partner=rss&emc=rss&abt=0002&abg=1&_r=0
 * http://www.nytimes.com/2014/09/21/sunday-review/high-tech-health-care-useful-to-a-point.html
 * http://www.wired.com/2014/10/number-needed-to-treat/?mbid=social_fb
+
+**Medical Corruption**
+
+http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
 
 
 

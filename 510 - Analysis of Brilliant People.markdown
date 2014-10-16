@@ -10,11 +10,10 @@ What general lessons do they have? What threads are there in common?
 
 The assumption is that they were more than just smart. They also had a process and lessons that helped translate that intelligence into results.
 
-http://www.hanselman.com/blog/ScottHanselmansCompleteListOfProductivityTips.aspx
-
-https://podio.com/site/creative-routines
-
-http://www.moreintelligentlife.com/content/edward-carr/last-days-polymath
+* http://www.hanselman.com/blog/ScottHanselmansCompleteListOfProductivityTips.aspx
+* https://podio.com/site/creative-routines
+* http://www.moreintelligentlife.com/content/edward-carr/last-days-polymath
+* http://nautil.us/issue/18/genius/super_intelligent-humans-are-coming
 
 Lessons learned from Genius
 

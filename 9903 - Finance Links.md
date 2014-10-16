@@ -21,6 +21,7 @@
 
 * http://www.nakedcapitalism.com/2014/09/sec-coverup-private-equity-worse-tbtf-banks.html
 * http://www.nakedcapitalism.com/2014/10/private-equity-at-work-rigorously-debunks-industry-mythology.html
+* http://www.nakedcapitalism.com/2014/10/dealbook-says-citi-afford-run-honest-bank-mexico.html
 
 
 ### Housing, Foreclosures
@@ -31,6 +32,8 @@
 <li><a href="http://www.pbs.org/wgbh/pages/frontline/business-economy-financial-crisis/untouchables/blowing-the-whistle-on-the-mortgage-bubble/" time_added="1359130362" tags="finance">Blowing the Whistle on the Mortgage Bubble | The Untouchables | FRONTLINE |</a></li>
 <li><a href="http://seattlebubble.com/blog/2013/01/23/washington-states-database-of-unprofessional-agents/" time_added="1359037208" tags="domestic,finance">Seattle Bubble  Washington State’s Database of Unprofessional Agents</a></li>
 
+* http://www.nakedcapitalism.com/2014/10/invitation-homes-tenant-abuse-shows-incompetence-well-malfeasance.html
+
 
 ## Poverty, Class Warfare, 'American Dream'
 
@@ -39,6 +42,7 @@
 * http://www.theguardian.com/business/2014/oct/14/richest-1percent-half-global-wealth-credit-suisse-report
 * http://www.nytimes.com/2014/10/15/upshot/when-the-guy-making-your-sandwich-has-a-noncompete-clause.html?_r=0&abt=0002&abg=1
 * http://www.pewtrusts.org/~/media/Assets/2014/10/Payday-Lending-Report/Fraud_and_Abuse_Online_Harmful_Practices_in_Internet_Payday_Lending.pdf
+* http://www.gatesnotes.com/Books/Why-Inequality-Matters-Capital-in-21st-Century-Review?new#
 
 <li><a href="http://www.nakedcapitalism.com/2014/01/wolf-richter-chart-true-representation-employment-crisis-country.html" time_added="1389327292" tags="">Wolf Richter: “This Chart Is A True Representation Of The Employment Crisis</a></li>
 <li><a href="http://economistsview.typepad.com/economistsview/2012/12/why-next-to-no-political-reaction-to-the-second-gilded-age.html" time_added="1356891135" tags="domestic,finance,hn">Economist's View: Why Next to No Political Reaction to the Second Gilded Ag</a></li>
@@ -86,6 +90,7 @@
 ## Misc
 
 * http://engineering.zenpayroll.com/how-ach-works-a-developer-perspective-part-4/
+* https://www.wikileaks.org/tpp-ip2/
 
 <li><a href="http://www.ecommercebytes.com/cab/abu/y201/m09/abu0047/s03" time_added="1354918107" tags="domestic,finance">Sniping Tools - Making Sure You Win the Auction</a></li>
 <li><a href="http://t.co/lDcc9GKh" time_added="1356241834" tags="brand,health,hn,important">justinvincent: Why Workers Are Losing the War Against Machines http://t.co/</a></li>
