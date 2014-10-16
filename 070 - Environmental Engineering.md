@@ -93,6 +93,7 @@ Emphasize what we don't know
 * http://arstechnica.com/science/2014/10/lovely-grub-are-insects-the-future-of-food/1/
 * http://arstechnica.com/science/2014/10/californias-most-productive-fisheries-the-offshore-oil-rigs/
 * http://www.newscientist.com/article/dn26379-pentagon-warns-the-us-military-of-climate-change.html
+* http://www.nytimes.com/2014/10/15/business/economy/the-price-of-water-is-too-low.html?_r=0
 
 
 

@@ -39,6 +39,9 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 
 
 
+
+
+
 ## Data Acquisition, Sources
 
 <li><a href="http://www.datatau.com/item?id=1001" time_added="1389717031" tags="">Web scraping 101 with Python: datatau.com/item?id=1001</a></li>
@@ -54,6 +57,8 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 <li><a href="http://codecr.am/blog/post/7/" time_added="1362969821" tags="data sources">Let's Scrape the Web with Python 3 - codecr.am</a></li>
 <li><a href="http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/" time_added="1362969640" tags="data sources">Greg Reda | Web Scraping 101 with Python</a></li>
 <li><a href="http://t.co/WFldJbZY7P" time_added="1362406131" tags="data sources">Some friends wanted to learn how to scrape data, so I wrote a very basic in</a></li>
+
+https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 
 
 
@@ -196,6 +201,7 @@ https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging
 
 * http://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/
 * http://sujitpal.blogspot.com/2014/05/ipython-notebooks-for-statlearning.html
+* http://www.simonsfoundation.org/quanta/20141015-at-the-far-ends-of-a-new-universal-law/
 
 
 

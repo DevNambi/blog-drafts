@@ -33,6 +33,8 @@
 
 <li><a href="http://www.dangrossman.info/2012/09/24/who-hosts-the-y-combinator-startups/" time_added="1360802853" tags="cloud">Dan Grossman | Who Hosts the Y Combinator Startups?</a></li>
 
+* http://codingvc.com/analyzing-angellist-job-postings-part-1-basic-stats
+
 
 
 
@@ -42,6 +44,8 @@
 
 * http://www.wired.com/2012/12/mf-tim-oreilly-qa/2/
 * http://www.nytimes.com/2014/10/15/upshot/how-jean-tiroles-work-helps-explain-the-internet-economy.html?abt=0002&abg=1&smid=tw-upshotnyt&_r=0
+* http://pando.com/2014/10/14/anti-burn-how-bootstrapped-zoho-survived-two-tech-bubbles-and-became-a-massive-success/
+* http://www.salon.com/2014/10/13/neil_degrasse_tyson_society_has_bigger_problems_than_what_can_be_solved_with_your_next_app/
 
 <li><a href="http://t.co/75CMzDdE" time_added="1361124125" tags="hn">If you work in tech, go watch PBS's Silicon Valley American Experience righ</a></li>
 

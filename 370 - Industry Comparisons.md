@@ -73,7 +73,8 @@ http://seattletimes.com/html/nationworld/2023106759_apxdriverlesscars.html
 
 
 * Advertising: The price we pay for being a broke society
-* http://tiltthewindmill.com/breather-real-estate-and-the-innovators-dilemma/
+	* http://tiltthewindmill.com/breather-real-estate-and-the-innovators-dilemma/
+	* http://money.cnn.com/2014/10/15/technology/security/malvertising/index.html?iid=HP_River
 
 http://www.theatlantic.com/politics/archive/2014/04/city-state-governments-privatization-contracting-backlash/361016/
 
