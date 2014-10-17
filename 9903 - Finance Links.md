@@ -10,6 +10,8 @@
 
 <li><a href="http://www.nytimes.com/2013/03/18/business/global/facing-bailout-tax-cypriots-rush-to-get-their-money-out-of-banks.html?hp&pagewanted=all&_r=0" time_added="1363565145" tags="finance,important">Cypriot Bailout Sends Shivers Throughout the Euro Zone - NYTimes.com</a></li>
 
+* http://www.nytimes.com/2014/10/17/world/europe/bloc-in-europe-starts-to-balk-over-austerity-.html
+
 ## Bank & Regulatory Corruption
 
 <li><a href="http://www.nytimes.com/2013/01/09/technology/a-financial-service-for-people-fed-up-with-banks.html?ref=technology&_r=0" time_added="1357707384" tags="finance">A Financial Service for People Fed Up With Banks - NYTimes.com</a></li>
@@ -43,6 +45,8 @@
 * http://www.nytimes.com/2014/10/15/upshot/when-the-guy-making-your-sandwich-has-a-noncompete-clause.html?_r=0&abt=0002&abg=1
 * http://www.pewtrusts.org/~/media/Assets/2014/10/Payday-Lending-Report/Fraud_and_Abuse_Online_Harmful_Practices_in_Internet_Payday_Lending.pdf
 * http://www.gatesnotes.com/Books/Why-Inequality-Matters-Capital-in-21st-Century-Review?new#
+* http://www.nakedcapitalism.com/2014/10/mixed-international-picture-poverty-inequality.html
+* http://www.npr.org/blogs/money/2014/10/16/356176018/the-most-popular-jobs-for-the-rich-middle-class-and-poor
 
 <li><a href="http://www.nakedcapitalism.com/2014/01/wolf-richter-chart-true-representation-employment-crisis-country.html" time_added="1389327292" tags="">Wolf Richter: “This Chart Is A True Representation Of The Employment Crisis</a></li>
 <li><a href="http://economistsview.typepad.com/economistsview/2012/12/why-next-to-no-political-reaction-to-the-second-gilded-age.html" time_added="1356891135" tags="domestic,finance,hn">Economist's View: Why Next to No Political Reaction to the Second Gilded Ag</a></li>
@@ -86,6 +90,7 @@
 <li><a href="http://www.businessinsider.com/what-japans-lost-decade-meant-for-youth-employment-2012-10" time_added="1350779882" tags="finance,important">What Japan's Lost Decade Meant For Youth Employment - Business Insider</a></li>
 
 * http://www.nakedcapitalism.com/2014/10/markets-panicked-deteriorating-fundamentals.html
+* http://www.nakedcapitalism.com/2014/10/matt-stoller-need-break-amazon.html
 
 ## Misc
 

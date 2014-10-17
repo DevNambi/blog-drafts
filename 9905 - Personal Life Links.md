@@ -26,6 +26,8 @@
 <li><a href="http://www.nytimes.com/2013/01/24/technology/personaltech/apps-and-other-digital-tools-lend-a-hand-to-new-mothers.html?src=me&ref=general&gwh=C36E2C7A7A826C134B42130F3379F9E4" time_added="1359219982" tags="domestic">Apps and Other Digital Tools Lend a Hand to New Mothers - NYTimes.com</a></li>
 <li><a href="http://www.nytimes.com/2013/03/09/your-money/financial-tips-for-expectant-parents.html" time_added="1362862088" tags="domestic,finance,important">Your Money - Financial and Legal Advice for Expectant Parents - NYTimes.com</a></li>
 
+* http://www.nytimes.com/2014/10/17/us/quality-of-words-not-quantity-is-crucial-to-language-skills-study-finds.html
+
 
 
 

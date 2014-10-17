@@ -73,7 +73,7 @@
 
 
 
-
+* http://www.theatlantic.com/magazine/archive/2014/11/doctors-tell-all-and-its-bad/380785/
 * http://mobile.nytimes.com/2014/09/21/us/drive-by-doctoring-surprise-medical-bills.html?_r=1
 * http://newoldage.blogs.nytimes.com/2014/09/24/study-links-anxiety-drugs-to-alzheimers-disease/
 * http://www.abc.net.au/news/2014-10-07/queensland-scientists-discover-cancer-fighting-berry/5796106
@@ -83,8 +83,13 @@
 
 **Medical Corruption**
 
-http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://seattletimes.com/html/nationworld/2024804039_apxmedwhoebolamistakes.html
 
+
+**Learning from the Best**
+
+* http://seattletimes.com/html/nationworld/2024799588_eboladecontaminatexml.html
 
 
 #### Weight
@@ -106,7 +111,8 @@ http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-
 
 #### Sleep
 
-http://www.collective-evolution.com/2014/10/02/your-ancestors-didnt-sleep-like-you-are-were-doing-it-wrong/
+* http://www.collective-evolution.com/2014/10/02/your-ancestors-didnt-sleep-like-you-are-were-doing-it-wrong/
+* http://parenting.blogs.nytimes.com/2014/10/16/want-to-ace-that-test-get-the-right-kind-of-sleep/
 
 
 <li><a href="http://www.bbc.co.uk/news/health-21572686" time_added="1361898585" tags="health,hn,important">BBC News - Bad sleep 'dramatically' alters body</a></li>

@@ -29,7 +29,8 @@
 <li><a href="http://bentilly.blogspot.com/2012/10/ab-testing-scale-cheat-sheet.html" time_added="1351534808" tags="big data,data science">Random Observations: A/B testing scale cheat sheet</a></li>
 <li><a href="http://online.wsj.com/article/SB10001424127887323539804578261780648285770.html" time_added="1359220062" tags="academia,data ethics,data science,hn">Bill Gates on the Importance of Measurement - WSJ.com</a></li>
 
-https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging-in-json/ 
+* https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging-in-json/ 
+* http://arstechnica.com/business/2014/10/googles-product-strategy-make-two-of-everything/
 
 
 ### Open Data
@@ -202,6 +203,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/
 * http://sujitpal.blogspot.com/2014/05/ipython-notebooks-for-statlearning.html
 * http://www.simonsfoundation.org/quanta/20141015-at-the-far-ends-of-a-new-universal-law/
+* http://simplystatistics.org/2014/10/17/bayes-rule-in-a-gif/
 
 
 
@@ -343,6 +345,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://databricks.com/blog/2014/10/10/spark-breaks-previous-large-scale-sort-record.html
 * http://patshaughnessy.net/2014/10/13/following-a-select-statement-through-postgres-internals
 * http://tachyon-project.org/
+* http://www.gallamine.com/2014/10/query-data-from-impala-on-amazon-emr.html
 
 
 

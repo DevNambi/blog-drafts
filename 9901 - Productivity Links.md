@@ -39,6 +39,7 @@
 
 * http://www.newyorker.com/tech/elements/walking-helps-us-think
 * http://www.acuriousmix.com/2014/09/03/designing-a-personal-knowledgebase/
+* http://parenting.blogs.nytimes.com/2014/10/16/want-to-ace-that-test-get-the-right-kind-of-sleep/
 
 
 
@@ -131,6 +132,8 @@
 * http://www.theatlantic.com/technology/archive/2014/09/why-privacy-policies-are-so-inscrutable/379615/
 * http://techcrunch.com/2014/10/11/edward-snowden-new-yorker-festival/
 * https://www.kickstarter.com/projects/augustgermar/anonabox-a-tor-hardware-router
+* http://arstechnica.com/security/2014/10/whisper-cto-says-tracking-anonymous-users-not-a-big-deal-really/
+* http://www.nytimes.com/2014/10/17/opinion/the-dark-market-for-personal-data.html
 
 
 
