@@ -18,6 +18,7 @@
 <li><a href="http://nypost.com/2013/12/22/70-navy-sailors-left-sickened-by-radiation-after-japan-rescue/" time_added="1387765471" tags="corruption,environment,health">Navy sailors have radiation sickness after Japan rescue | New York Post</a></li>
 
 * http://www.nakedcapitalism.com/2014/10/john-helmer-cia-bumbling-now.html
+* http://militaryprofessionalreadinglists.com/
 
 
 

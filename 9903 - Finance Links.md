@@ -7,6 +7,8 @@
 <li><a href="http://www.nakedcapitalism.com/2013/03/chinas-exploding-debt.html" time_added="1363140954" tags="finance">China’s Exploding Debt « naked capitalism</a></li>
 
 * http://arstechnica.com/science/2014/10/why-chinas-economic-growth-hasnt-been-getting-cleaner/
+* http://mobile.nytimes.com/2014/10/19/world/asia/hong-kong-officials-offer-fresh-talks-with-protesters-.html
+* http://seattletimes.com/html/nationworld/2024816652_factoryfirexml.html
 
 ## Europe
 
@@ -49,6 +51,7 @@
 * http://www.gatesnotes.com/Books/Why-Inequality-Matters-Capital-in-21st-Century-Review?new#
 * http://www.nakedcapitalism.com/2014/10/mixed-international-picture-poverty-inequality.html
 * http://www.npr.org/blogs/money/2014/10/16/356176018/the-most-popular-jobs-for-the-rich-middle-class-and-poor
+* http://mobile.nytimes.com/2014/10/19/opinion/sunday/a-rate-cap-for-all-consumer-loans.html
 
 <li><a href="http://www.nakedcapitalism.com/2014/01/wolf-richter-chart-true-representation-employment-crisis-country.html" time_added="1389327292" tags="">Wolf Richter: “This Chart Is A True Representation Of The Employment Crisis</a></li>
 <li><a href="http://economistsview.typepad.com/economistsview/2012/12/why-next-to-no-political-reaction-to-the-second-gilded-age.html" time_added="1356891135" tags="domestic,finance,hn">Economist's View: Why Next to No Political Reaction to the Second Gilded Ag</a></li>
@@ -98,6 +101,7 @@
 
 * http://engineering.zenpayroll.com/how-ach-works-a-developer-perspective-part-4/
 * https://www.wikileaks.org/tpp-ip2/
+* http://www.vice.com/read/organized-crime-pays-0000477-v21n10?curator=MediaREDEF
 
 <li><a href="http://www.ecommercebytes.com/cab/abu/y201/m09/abu0047/s03" time_added="1354918107" tags="domestic,finance">Sniping Tools - Making Sure You Win the Auction</a></li>
 <li><a href="http://t.co/lDcc9GKh" time_added="1356241834" tags="brand,health,hn,important">justinvincent: Why Workers Are Losing the War Against Machines http://t.co/</a></li>

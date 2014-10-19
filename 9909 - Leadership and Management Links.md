@@ -7,6 +7,7 @@
 * http://www.defmacro.org/2014/10/03/engman.html
 * https://gist.github.com/kylebrandt/89dc754c658340e87d97
 * http://www.slideshare.net/ericschmidt76/how-google-works-final-1
+* http://www.dailykos.com/story/2014/07/08/1312523/-These-Two-Studies-Turn-Wall-Street-s-Economic-Argument-On-Its-Head
 
 
 <li><a href="http://lifehacker.com/5936493/want-to-be-a-great-leader-start-reading?utm_medium=referral&utm_source=pulsenews" time_added="1348860619" tags="hn">Want to Be a Great Leader? Start Reading</a></li>

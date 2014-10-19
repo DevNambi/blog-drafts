@@ -82,7 +82,7 @@
 
 
 
-
+* http://www.salon.com/2014/10/18/give_student_loans_the_finger_a_new_solution_to_a_massive_generational_outrage/
 * http://www.vice.com/read/i-ghostwrote-hundreds-of-chinese-students-ivy-league-admissions-essays-897
 * http://www.newsweek.com/american-horror-ivy-league-edition-263448
 * http://www.bloomberg.com/news/2014-09-04/secret-network-connects-harvard-money-to-payday-loans.html
