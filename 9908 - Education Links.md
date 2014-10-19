@@ -19,6 +19,10 @@
 <li><a href="http://www.nytimes.com/2012/12/20/opinion/asians-too-smart-for-their-own-good.html" time_added="1356111931" tags="academia,finance,important,personal">Asians - Too Smart for Their Own Good? - NYTimes.com</a></li>
 <li><a href="http://seattletimes.com/html/politics/2020539884_apusschoolmaintenance.html" time_added="1363108934" tags="academia,personal">Report: Half trillion needed to update schools | Education | The Seattle Ti</a></li>
 <li><a href="http://seattletimes.com/html/education/2023475542_edlabgildoreyxml.html" time_added="1398702422" tags="">High poverty, high test scores: Auburn school is a shouting success | Educa</a></li>
+<li><a href="http://www.nytimes.com/2013/02/02/opinion/more-lessons-about-charter-schools.html?src=me&ref=general&gwh=743D5DE1507C1C205F3C7574D9C667AC" time_added="1359837571" tags="academia,domestic">More Lessons About Charter Schools - NYTimes.com</a></li>
+<li><a href="http://seattletimes.com/html/localnews/2021731344_westneat1xml.html" time_added="1378003481" tags="domestic">Striking news: Seattle schools now booming | Danny Westneat</a></li>
+<li><a href="http://seattletimes.com/html/opinion/2021715558_douglascollinsopedschoolsupplies30xml.html" time_added="1377871699" tags="academia,domestic">Guest: School-supply fees have gotten out of hand</a></li>
+<li><a href="http://seattletimes.com/html/localnews/2021743055_alldaykindergartenxml.html" time_added="1378230314" tags="academia,domestic">Extra state aid for kindergarten a mixed blessing for districts</a></li>
 
 
 
@@ -93,6 +97,60 @@
 * https://www.coursereport.com/schools?focus=-1&type=0&cost=0&location=Seattle
 * http://www.nytimes.com/2014/10/14/us/web-era-trade-schools-feeding-a-need-for-code.html?_r=0
 * https://www.insidehighered.com/news/2013/05/31/data-track-student-health-visits-and-diagnoses
+* http://www.nytimes.com/2014/08/03/education/edlife/how-to-learn-the-law-without-law-school.html?ref=education
+* http://harry-lewis.blogspot.com/2014/07/is-mooc-bubble-bursting.html
+* http://www.salon.com/2014/07/26/why_law_schools_love_affair_with_economics_needs_to_stop/
+* http://www.insidehighered.com/news/2011/01/18/study_finds_large_numbers_of_college_students_don_t_learn_much#sthash.xiIXcfgd.dpbs
+* http://www.imaginek12.com/blog/silicon-valley-and-the-ed-tech-revolution
+* http://arstechnica.com/science/2014/05/universities-cant-fulfil-the-myth-but-they-cant-become-a-vocational-school-either/
+* http://www.nytimes.com/2014/05/25/business/the-ripple-effects-of-rising-student-debt.html
+* http://www.nytimes.com/2014/05/19/education/study-links-growth-in-student-debt-to-pay-for-university-presidents.html
+* http://www.ibm.com/smarterplanet/us/en/education_technology/article/gwinnett-county-schools.html
+* http://www.knewton.com/tech/blog/2013/11/kalman-filter/
+* http://www.nytimes.com/2014/06/21/upshot/a-college-major-matters-even-more-in-a-recession.html
+* http://johncbeck.tumblr.com/post/89890392397/why-im-no-longer-a-professor
+* http://www.nytimes.com/2014/07/29/upshot/building-a-better-college-ranking-system-babson-beats-harvard.html
+* http://www.insidehighered.com/news/2014/07/22/slightly-more-nuanced-bill-gates-offers-vision-higher-education
+* http://mobile.nytimes.com/2014/06/29/upshot/americans-think-we-have-the-worlds-best-colleges-we-dont.html
+* http://www.newyorker.com/science/maria-konnikova/bad-good-choices
+* http://www.salon.com/2014/07/03/behind_facebooks_manipulation_its_data_science_team_works_with_few_boundaries/
+* http://www.nytimes.com/2014/08/03/education/edlife/socrates-takes-a-back-seat-to-business-and-tech.html
+* http://mobile.nytimes.com/2014/07/05/your-money/paying-for-college/chasing-in-state-tuition-as-colleges-tighten-rules.html
+* http://www.salon.com/2014/07/05/ronald_reagan_stuck_it_to_millennials_a_college_debt_history_lesson_no_one_tells/
+* http://vserver1.cscs.lsa.umich.edu/~crshalizi/weblog/926.html
+* http://mobile.nytimes.com/2014/07/15/upshot/city-college-of-san-francisco-survives.html
+* http://mobile.nytimes.com/2014/07/15/upshot/the-quiet-movement-to-make-government-fail-less-often.html
+* http://www.vox.com/2014/7/14/5890403/colleges-are-hoping-predictive-analytics-can-fix-their-graduation-rates\
+* http://www.bloombergview.com/articles/2014-07-14/turning-college-into-a-no-thought-zone
+* http://www.nytimes.com/2014/07/18/upshot/some-universities-crack-code-in-drawing-women-to-computer-science.html
+* http://www.reddit.com/r/AskReddit/comments/2c679a/if_your_college_major_had_a_slogan_what_would_it/
+* http://www.forbes.com/sites/lutzfinger/2014/08/19/3-data-products-you-need-to-know/
+* http://jakevdp.github.io/blog/2014/08/22/hacking-academia/
+* http://www.nytimes.com/2014/08/28/technology/personaltech/bringing-tech-culture-to-the-staid-college-quad.html
+* http://www.nytimes.com/2014/08/28/nyregion/students-inventing-programs-to-streamline-their-colleges-data.html
+* http://blogs.seattletimes.com/educationlab/2014/08/28/washington-loses-more-college-students-than-it-gains/
+* http://www.slate.com/articles/life/inside_higher_ed/2014/08/salem_college_professor_spring_serenity_duvall_banned_students_from_emailing.html
+* http://www.nytimes.com/2014/09/03/education/active-learning-study.html
+* http://seattletimes.com/html/localnews/2023091700_collegetextbooksxml.html
+* http://gowers.wordpress.com/2014/04/24/elsevier-journals-some-facts/
+* http://www.baltimoresun.com/news/maryland/education/bs-md-college-open-source-textbooks-20140322,0,6567208.story
+* http://nautil.us/issue/12/feedback/colleges-want-students-with-character-but-cant-measure-it
+* http://www.nytimes.com/2014/04/27/sports/reporter-digging-into-scandal-hits-a-universitys-raw-nerve.html
+* http://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html
+* http://www.insidehighered.com/news/2013/11/06/researchers-cast-doubt-about-early-warning-systems-effect-retention
+* https://www.academia.edu/1123106/Predicting_Student_Exams_Scores_by_Analyzing_Social_Network_Data
+* https://www.edsurge.com/n/2014-04-19-student-data-moving-past-transparent-to-tangible
+* http://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html?_r=0
+* http://www.payscale.com/index/US/Degree
+* http://www.payscale.com/college-salary-report-2013/majors-that-pay-you-back
+* http://www.nytimes.com/2014/04/13/education/edlife/10-courses-with-a-twist.html
+* http://blogs.seattletimes.com/educationlab/2014/07/07/chart-here-are-the-default-rates-for-every-college-in-the-state/
+* http://www.npr.org/blogs/ed/2014/04/08/300587823/putting-student-data-to-the-test-to-identify-struggling-kids?ft=1
+* https://www.insidehighered.com/news/2014/04/09/research-shows-professors-work-long-hours-and-spend-much-day-meetings
+* http://blogs.hbr.org/2014/04/why-your-analytics-are-failing-you/
+* http://anothersb.blogspot.com/2014/04/dear-academia-i-loved-you-but-im.html?m=1
+* http://www.bloomberg.com/news/2014-04-14/small-u-s-colleges-battle-death-spiral-as-enrollment-drops.html
+* http://online.wsj.com/article/PR-CO-20140612-906571.html
 
 
 ## MOOCs / Online Learning

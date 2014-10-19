@@ -6,6 +6,8 @@
 <li><a href="http://www.washingtonpost.com/business/economy/as-chinas-economy-slows-real-estate-bubble-looms/2012/10/02/8f4b5560-f749-11e1-8b93-c4f4ab1c8d13_story.html" time_added="1349547072" tags="important">As China’s economy slows, real estate bubble looms - The Washington Post</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/03/chinas-exploding-debt.html" time_added="1363140954" tags="finance">China’s Exploding Debt « naked capitalism</a></li>
 
+* http://arstechnica.com/science/2014/10/why-chinas-economic-growth-hasnt-been-getting-cleaner/
+
 ## Europe
 
 <li><a href="http://www.nytimes.com/2013/03/18/business/global/facing-bailout-tax-cypriots-rush-to-get-their-money-out-of-banks.html?hp&pagewanted=all&_r=0" time_added="1363565145" tags="finance,important">Cypriot Bailout Sends Shivers Throughout the Euro Zone - NYTimes.com</a></li>

@@ -109,3 +109,4 @@ Look at Bayesian math and conditional probability for this.
 <li><a href="http://www.ignaciomellado.es/blog/Measuring-heart-rate-with-a-smartphone-camera" time_added="1380036458" tags="data sources,health,hn,important,personal tech">Measuring heart-rate with a smartphone camera.</a></li>
 <li><a href="http://www.wired.co.uk/news/archive/2013-02/11/ibm-watson-medical-doctor" time_added="1382456284" tags="health">IBM's Watson is better at diagnosing cancer than human doctors (Wired UK)</a></li>
 <li><a href="http://twb.io/12m37Er" time_added="1377131960" tags="big data,data ethics,data science,health">Why Physicians Don't Like Big Data twb.io/12m37Er</a></li>
+<li><a href="http://arstechnica.com/business/2014/07/google-xs-baseline-study-applies-big-data-techniques-to-healthcare/" time_added="1406310989" tags="">Google X’s “Baseline Study” applies big data techniques to healthcare | Ars</a></li>

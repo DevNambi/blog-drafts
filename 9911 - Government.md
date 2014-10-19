@@ -27,6 +27,7 @@
 * http://yro.slashdot.org/story/12/10/28/0531250/cash-strapped-states-burdened-by-expensive-data-security-breaches
 
 <li><a href="http://ow.ly/iPacF" time_added="1363121071" tags="domestic,finance">"Transit agencies across the state face a fiscal cliff, some have already g</a></li>
+<li><a href="http://seattletimes.com/html/localnews/2020628849_stateparksxml.html" time_added="1364092812" tags="domestic">At 100, state parks in grim state of disrepair | Local News | The Seattle T</a></li>
 
 
 
@@ -36,6 +37,10 @@
 
 
 ## Police
+
+<li><a href="http://www.theatlantic.com/health/archive/2014/03/life-of-a-police-officer-medically-and-psychologically-ruinous/284324/" time_added="1394824602" tags="">Life of a Police Officer: Medically and Psychologically Ruinous - Erika Hay</a></li>
+<li><a href="http://www.forbes.com/sites/harveysilverglate/2013/01/03/black-whitey-how-the-feds-disable-criminal-defense/" time_added="1357243252" tags="domestic,hn,important">Black and Whitey: How the Feds Disable Criminal Defense - Forbes</a></li>
+
 
 * http://www.ajc.com/news/news/breaking-news/no-charges-for-officers-in-botched-drug-raid-that-/nhc2N/
 * http://www.komonews.com/news/local/State-troopers-caught-ignoring-speeding-cops-278746621.html?mobile=y&clmob=y&c=n

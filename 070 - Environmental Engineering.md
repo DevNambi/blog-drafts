@@ -98,6 +98,7 @@ Emphasize what we don't know
 
 
 
+<li><a href="http://inhabitat.com/19-year-old-student-develops-ocean-cleanup-array-that-could-remove-7250000-tons-of-plastic-from-the-worlds-oceans/" time_added="1364403555" tags="domestic,important">19-Year-Old Student Develops Ocean Cleanup Array That Could Remove 7,250,00</a></li>
 <li><a href="http://www.nytimes.com/2013/11/02/science/earth/science-panel-warns-of-risks-to-food-supply-from-climate-change.html?hp" time_added="1383365254" tags="environment,health">Climate Change Seen Posing Risk to Food Supplies - NYTimes.com</a></li>
 <li><a href="http://greenmonk.net/2013/01/25/pwc-low-carbon-index-report-is-a-call-to-arms-for-decarbonisation/" time_added="1359127260" tags="health">PwC Low Carbon Index Report is a call to arms for decarbonisation</a></li>
 <li><a href="http://www.sfu.ca/pamr/media-releases/2012/study-predicts-imminent-irreversible-planetary-collapse.html" time_added="1348860350" tags="important">Study predicts imminent irreversible planetary collapse - Public Affairs an</a></li>
