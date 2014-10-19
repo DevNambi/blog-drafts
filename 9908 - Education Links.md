@@ -18,6 +18,7 @@
 <li><a href="http://techcrunch.com/2012/09/30/how-technology-is-empowering-teachers-minting-millionaires-and-improving-education/" time_added="1349021937" tags="hn">How Technology Is Empowering Teachers, Minting Millionaires, And Improving </a></li>
 <li><a href="http://www.nytimes.com/2012/12/20/opinion/asians-too-smart-for-their-own-good.html" time_added="1356111931" tags="academia,finance,important,personal">Asians - Too Smart for Their Own Good? - NYTimes.com</a></li>
 <li><a href="http://seattletimes.com/html/politics/2020539884_apusschoolmaintenance.html" time_added="1363108934" tags="academia,personal">Report: Half trillion needed to update schools | Education | The Seattle Ti</a></li>
+<li><a href="http://seattletimes.com/html/education/2023475542_edlabgildoreyxml.html" time_added="1398702422" tags="">High poverty, high test scores: Auburn school is a shouting success | Educa</a></li>
 
 
 
@@ -25,12 +26,16 @@
 * http://www.salon.com/2014/07/06/comedy_vs_anti_science_10_amazing_videos_that_show_how_humor_can_make_a_difference/
 * http://www.salon.com/2014/10/02/the_great_charter_school_rip_off_finally_the_truth_catches_up_to_education_reform_phonies/
 * http://news.sciencemag.org/biology/2014/10/genes-dont-just-influence-your-iq-they-determine-how-well-you-do-school
-* http://www.politico.com/magazine/story/2014/10/the-plot-against-public-education-111630.html#.VDU3c-vn_0w
+* http://www.politico.com/magazine/story/2014/10/the-plot-against-public-education-111630.html
 * http://www.salon.com/2014/10/12/google_makes_us_all_dumber_the_neuroscience_of_search_engines/
+* http://mobile.nytimes.com/2014/10/18/your-money/a-financial-aid-map-for-families-who-have-saved-nothing.html
 
 
 ## Higher Education
 
+
+<li><a href="http://www.nakedcapitalism.com/2014/04/university-southern-maine-facing-organized-opposition-students-faculty-rescinds-proposed-cuts.html" time_added="1397423316" tags="">University of Southern Maine, Facing Organized Opposition from Students and</a></li>
+<li><a href="http://www.theatlantic.com/education/archive/2014/04/what-s-behind-america-s-soaring-college-costs/360462/" time_added="1397494581" tags="">What’s Behind America’s Soaring College Costs? - Ronan Keenan - The Atlanti</a></li>
 <li><a href="http://norvig.com/speech.html" time_added="1357663275" tags="academia,hn,important,personal">My Speech to the Graduates</a></li>
 <li><a href="http://money.cnn.com/2013/01/01/pf/college/college-salary.moneymag/index.html?iid=HP_LN" time_added="1357713454" tags="academia">Will your kid's B.A. pay off? - Jan. 8, 2013</a></li>
 <li><a href="http://www.nytimes.com/2012/12/05/business/energy-environment/to-fight-climate-change-college-students-take-aim-at-the-endowment-portfolio.html?pagewanted=1&hpw&gwh=BCCA257894B7A954E2EDE332401227F6" time_added="1354809635" tags="personal">To Fight Climate Change, College Students Take Aim at the Endowment Portfol</a></li>
@@ -64,9 +69,9 @@
 <li><a href="http://bit.ly/Wvok98" time_added="1362187417" tags="academia">Views: Lessons for trustees from U.Va.'s governance meltdown: bit.ly/Wvok98</a></li>
 <li><a href="http://www.thecrimson.com/article/2013/2/28/fall-of-harvard-academics/" time_added="1362264579" tags="academia">The Fall of Academics at Harvard | The Harvard Crimson</a></li>
 <li><a href="http://www.insidehighered.com/news/2013/02/25/survey-finds-pay-senior-administrators" time_added="1361896967" tags="academia">Survey finds pay for senior administrators is up | Inside Higher Ed</a></li>
-
-
-
+<li><a href="http://www.theatlantic.com/health/archive/2014/04/the-dark-history-of-ei-the-latest-rape-email-frat/361056/" time_added="1398381909" tags="">The Dark History of EI, the Latest Frat Accused of Rapey Emails - Olga Khaz</a></li>
+<li><a href="http://cs.brown.edu/people/alexpap/faculty_dataset.html" time_added="1398369607" tags="">Dataset of all Computer Science Professors in 50 top US Graduate Programs</a></li>
+<li><a href="http://www.nytimes.com/2014/04/27/technology/a-student-data-collector-drops-out.html?hpw&rref=education" time_added="1398607280" tags="">A Student-Data Collector Drops Out - NYTimes.com</a></li>
 
 
 
@@ -87,6 +92,7 @@
 * http://www.nbcnews.com/feature/in-plain-sight/highly-educated-unemployed-tumbling-down-ladder-n219451
 * https://www.coursereport.com/schools?focus=-1&type=0&cost=0&location=Seattle
 * http://www.nytimes.com/2014/10/14/us/web-era-trade-schools-feeding-a-need-for-code.html?_r=0
+* https://www.insidehighered.com/news/2013/05/31/data-track-student-health-visits-and-diagnoses
 
 
 ## MOOCs / Online Learning

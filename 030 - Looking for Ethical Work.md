@@ -21,8 +21,7 @@ Industries
 * Include markup between consumer and original creator.
    • Law
    • Medicine
-      § http://www.theatlantic.com/health/archive/2012/10/why-were-still-waiting-on-the-yelpification-of-health-care/263815/
-      http://www.businessinsider.com/super-cheap-genome-sequencing-by-2020-2014-10
+
    • Realtors
    • Any cottage industries
    • Education
@@ -57,8 +56,16 @@ Industries
 * Climate Change
 
 
+**Medicine**
 
-Support creators, and disrupt everything else
+<li><a href="http://arstechnica.com/science/2013/06/cancer-gene-sequencing-effort-struggles-through-waves-of-false-ids/" time_added="1371563784" tags="health,stats">Cancer gene sequencing effort struggles through waves of false IDs | Ars Te</a></li>
+<li><a href="http://t.co/hAT4j6eODd" time_added="1370046159" tags="big data,data ethics,health">A 49,000-CPU supercomputer may have figured out how to stop HIV. Badass. bi</a></li>
+
+* http://www.theatlantic.com/health/archive/2012/10/why-were-still-waiting-on-the-yelpification-of-health-care/263815/
+* http://www.businessinsider.com/super-cheap-genome-sequencing-by-2020-2014-10
+
+
+### Support creators, and disrupt everything else
 
 * Disrupt telecommunications. They're a tax on the Internet
 ** Wireless instead of wired, to reduce build-out costs

@@ -15,6 +15,9 @@
 ## Military
 
 <li><a href="http://www.theatlantic.com/magazine/archive/2012/11/general-failure/309148/?single_page=true" time_added="1351513641" tags="important">General Failure - Thomas E. Ricks - The Atlantic</a></li>
+<li><a href="http://nypost.com/2013/12/22/70-navy-sailors-left-sickened-by-radiation-after-japan-rescue/" time_added="1387765471" tags="corruption,environment,health">Navy sailors have radiation sickness after Japan rescue | New York Post</a></li>
+
+* http://www.nakedcapitalism.com/2014/10/john-helmer-cia-bumbling-now.html
 
 
 
@@ -38,12 +41,17 @@
 * http://www.komonews.com/news/local/State-troopers-caught-ignoring-speeding-cops-278746621.html?mobile=y&clmob=y&c=n
 * http://www.washingtonpost.com/sf/investigative/2014/09/06/stop-and-seize/
 * http://arstechnica.com/tech-policy/2014/10/private-donors-supply-spy-gear-to-cops/
+* http://www.al.com/news/index.ssf/2014/10/gangrene_and_broken_bones_kill.html
 
 
 
 ## Politics
 
 <li><a href="http://www.npr.org/2012/10/03/162103368/how-politicians-get-away-with-dodging-the-question" time_added="1350313283" tags="hn">Debate Pivots: How Politicians Get Away With Dodging The Question : NPR</a></li>
+<li><a href="http://www.madinamerica.com/2012/02/why-anti-authoritarians-are-diagnosed-as-mentally-ill/" time_added="1368039570" tags="corruption,health">Why Anti-Authoritarians are Diagnosed as Mentally Ill</a></li>
+<li><a href="http://news.firedoglake.com/2013/10/17/president-obama-bashes-bloggers-then-shills-for-monsanto/" time_added="1382102075" tags="corruption,government,health">http://news.firedoglake.com/2013/10/17/president-obama-bashes-bloggers-then</a></li>
+
+* https://medium.com/i-m-h-o/the-world-is-socialist-c8f0a6dfffab
 
 
 ## Taxes

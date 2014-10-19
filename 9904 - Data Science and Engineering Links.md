@@ -158,6 +158,8 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 <li><a href="http://www.infoworld.com/t/data-visualization/tableau-ceo-were-the-google-of-data-visualization-209304" time_added="1355777160" tags="brand,data science,hn,important,personal tech,viz">Tableau CEO: We're the Google of data visualization | Data visualization - </a></li>
 <li><a href="http://t.co/lsMlKFOu" time_added="1361205105" tags="viz">More @Tableau data connectors... lnkd.in/6bBMQh</a></li>
 
+* http://tableaulove.tumblr.com/post/100325738425/which-ec2-instance-type-should-i-run-tableau-server-on
+
 
 
 

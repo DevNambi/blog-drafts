@@ -76,17 +76,36 @@ Look at Bayesian math and conditional probability for this.
 *  http://www.nytimes.com/2014/07/07/opinion/the-risks-of-hospital-mergers.html
 * http://www.nakedcapitalism.com/2014/10/can-commercialized-health-care-system-contain-ebola.html
 
+<li><a href="http://seattletimes.com/html/health/2020628684_hospitalmistakesxml.html" time_added="1364153139" tags="data sources,health">New database reveals thousands of hospital violation reports | Health | The</a></li>
+<li><a href="http://go.cms.gov/16WaMfH" time_added="1368076384" tags="data sources,health">HHS releases unprecedented new hospital charges dataset for public download</a></li>
+<li><a href="http://www.theatlantic.com/health/archive/2013/05/finding-the-right-hospital/276304/" time_added="1369799088" tags="data sources,health">Finding the Right Hospital - Richard Gunderman - The Atlantic</a></li>
+
+
 
 ### Health-Care IT
 
-http://www.nakedcapitalism.com/2014/06/ugly-truth-electronic-health-records.html
+* http://www.nakedcapitalism.com/2014/06/ugly-truth-electronic-health-records.html
+* http://mobile.nytimes.com/2014/07/20/us/insurers-face-new-health-law-rules-to-widen-networks-and-prevent-surprise-bills.html
+* http://mosaicscience.com/story/can-meditation-really-slow-ageing
+* http://mobile.nytimes.com/2014/07/20/opinion/sunday/bottlenecks-in-training-doctors.html?_r=0
+* http://opensource.com/health/14/6/can-open-science-help-patients-and-save-pharma
+* http://www.forbes.com/sites/bruceupbin/2013/02/08/ibms-watson-gets-its-first-piece-of-business-in-healthcare/
 
-http://mobile.nytimes.com/2014/07/20/us/insurers-face-new-health-law-rules-to-widen-networks-and-prevent-surprise-bills.html
-
-http://mosaicscience.com/story/can-meditation-really-slow-ageing
-
-http://mobile.nytimes.com/2014/07/20/opinion/sunday/bottlenecks-in-training-doctors.html?_r=0
-
-http://opensource.com/health/14/6/can-open-science-help-patients-and-save-pharma
-
+<li><a href="http://www.extremetech.com/extreme/171639-ibm-tackles-mrsa-and-other-healthcare-infections-with-rfid-enforced-hand-washing-tech" time_added="1385792410" tags="data ethics,health,hn">IBM tackles MRSA and other healthcare infections with RFID-enforced hand wa</a></li>
+<li><a href="http://erkutlu.blogspot.com/2012/12/eeg-and-arduino-do-it-yourself-eeg-ekg.html" time_added="1384444897" tags="health,personal tech">Do-it-yourself EEG, EKG, and EMG</a></li>
 <li><a href="http://www.healthdata.gov/" time_added="1349411762" tags="data science">HealthData.gov | Health Data Community</a></li>
+<li><a href="http://blog.varonis.com/hipaas-new-rules-reach-far-beyond-healthcare-providers-are-you-impacted/" time_added="1359734430" tags="health,hn">HIPAA’s New Rules Reach Far Beyond Healthcare Providers – Are You Impacted?</a></li>
+<li><a href="http://pandodaily.com/2013/03/20/obamacare-is-a-bonanza-for-startups-but-do-they-know-it/" time_added="1363877792" tags="data ethics,health,hn">Obamacare is a bonanza for startups – but do they know it?</a></li>
+<li><a href="http://ow.ly/jpdJb" time_added="1364299549" tags="health,hn">Why You Should Be Working in Health IT: ow.ly/jpdJb</a></li>
+<li><a href="http://nyti.ms/ZmR7mY" time_added="1369843191" tags="health">Obamacare Other Surprise: the rise of Healthcare Information & Data Mining </a></li>
+<li><a href="http://www.infoworld.com/d/consumerization-of-it/big-brother-tech-might-be-americas-last-hope-health-219611" time_added="1370032838" tags="data ethics,health,hn">Big Brother tech might be America's last hope for health | Consumerization </a></li>
+<li><a href="http://bit.ly/11iMrK8" time_added="1370370831" tags="big data,corruption,data ethics,health">FDA enlists Big Data to find fraud: bit.ly/11iMrK8</a></li>
+<li><a href="http://www.theatlantic.com/technology/archive/2013/06/healthcaregov-code-developed-by-the-people-and-for-the-people-released-back-to-the-people/277295/" time_added="1372869062" tags="data ethics,health,hn,important">Healthcare.gov: Code Developed by the People and for the People, Released B</a></li>
+<li><a href="http://www.bloomberg.com/news/2013-06-25/digital-health-records-risks-emerge-as-deaths-blamed-on-systems.html" time_added="1373125423" tags="data ethics,health,hn">Digital Health Records’ Risks Emerge as Deaths Blamed on Systems - Bloomber</a></li>
+<li><a href="http://www.nypost.com/p/news/local/my_hell_as_operator_HYlg05QYm291rqIakgY24J" time_added="1375382017" tags="corruption,health">NYC’s 911 operators sweat it out when computer system crashes and burns - N</a></li>
+<li><a href="http://www.theatlantic.com/health/archive/2013/06/the-drawbacks-of-data-driven-medicine/276558/" time_added="1370454740" tags="big data,brand,data ethics,data science,health,important">The Drawbacks of Data-Driven Medicine</a></li>
+<li><a href="http://t.co/PmK2atpv" time_added="1357223841" tags="domestic,finance,health,hn,important">MedSnap: #Mobile health is expected increase in 2013. What are the other to</a></li>
+<li><a href="http://www.npr.org/blogs/health/2013/09/19/224052451/a-hospital-tells-police-where-fights-happen-and-crime-drops" time_added="1379642723" tags="data ethics,data science,health">A Hospital Tells Police Where Fights Happen, And Crime Drops : Shots - Heal</a></li>
+<li><a href="http://www.ignaciomellado.es/blog/Measuring-heart-rate-with-a-smartphone-camera" time_added="1380036458" tags="data sources,health,hn,important,personal tech">Measuring heart-rate with a smartphone camera.</a></li>
+<li><a href="http://www.wired.co.uk/news/archive/2013-02/11/ibm-watson-medical-doctor" time_added="1382456284" tags="health">IBM's Watson is better at diagnosing cancer than human doctors (Wired UK)</a></li>
+<li><a href="http://twb.io/12m37Er" time_added="1377131960" tags="big data,data ethics,data science,health">Why Physicians Don't Like Big Data twb.io/12m37Er</a></li>

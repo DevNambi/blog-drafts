@@ -31,8 +31,16 @@
 <li><a href="http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time-wisdom" time_added="1355085821" tags="hn">More falsehoods programmers believe about time; "wisdom of the crowd" editi</a></li>
 <li><a href="http://lifehacker.com/5955115/find-the-right-routine-to-surf-productivity" time_added="1353083704" tags="hn,important,life hacker">Find the Right Routine to "Surf" Productivity</a></li>
 <li><a href="http://arstechnica.com/science/2013/01/starved-brains-kill-memory-making-to-survive/" time_added="1359399424" tags="hn">Starved brains kill memory-making to survive | Ars Technica</a></li>
-
-
+<li><a href="http://t.co/vMZjx9Jg" time_added="1359384813" tags="health,life hacker">ThoughtCatalog: 16 Things You Should Stop Doing To Yourself http://t.co/vMZ</a></li>
+<li><a href="http://blogs.hbr.org/schwartz/2013/01/take-back-your-life-in-ten-ste.html" time_added="1357980569" tags="health,hn,important,life hacker">Take Back Your Life in Ten Steps - Tony Schwartz - Harvard Business Review</a></li>
+<li><a href="http://www.johndcook.com/blog/2013/02/04/four-hours-of-concentration/" time_added="1360116766" tags="health,hn,important,life hacker">Four hours of concentration — The Endeavour</a></li>
+<li><a href="http://www.nytimes.com/2013/02/10/magazine/why-can-some-kids-handle-pressure-while-others-fall-apart.html?pagewanted=all" time_added="1360176852" tags="domestic,health">Why Can Some Kids Handle Pressure While Others Fall Apart? - NYTimes.com</a></li>
+<li><a href="http://artofmanliness.com/2013/02/04/dont-waste-your-twenties-part-1-taking-advantage-of-the-unique-powers-of-the-twentysomething-brain/" time_added="1360167515" tags="domestic,health,hn,life hacker">Don’t Waste Your Twenties — Part 1: Taking Advantage of the Unique Powers o</a></li>
+<li><a href="http://www.mindopenerz.com/21-habits-of-happy-people/" time_added="1360176592" tags="health,life hacker">21 Habits of Happy People - Mind Openerz</a></li>
+<li><a href="http://hackerhmb.tumblr.com/post/42240064528/hackers-guide-to-beginning-meditation" time_added="1359954895" tags="health">Hacker Heart, Mind, & Body — Hacker's Guide to Beginning Meditation</a></li>
+<li><a href="http://www.nytimes.com/2013/02/10/opinion/sunday/relax-youll-be-more-productive.html?_r=0" time_added="1360537146" tags="health,hn,important,life hacker">Relax! You’ll Be More Productive - NYTimes.com</a></li>
+<li><a href="http://www.theatlantic.com/health/archive/2013/05/how-happiness-changes-with-age/276274/" time_added="1369756839" tags="domestic,personal">How Happiness Changes With Age - Heidi Grant Halvorson - The Atlantic</a></li>
+<li><a href="http://www.nytimes.com/2013/08/25/opinion/sunday/im-thinking-please-be-quiet.html?src=me&ref=general" time_added="1377550725" tags="health">I’m Thinking. Please. Be Quiet.</a></li>
 
 
 
@@ -40,6 +48,12 @@
 * http://www.newyorker.com/tech/elements/walking-helps-us-think
 * http://www.acuriousmix.com/2014/09/03/designing-a-personal-knowledgebase/
 * http://parenting.blogs.nytimes.com/2014/10/16/want-to-ace-that-test-get-the-right-kind-of-sleep/
+* http://blogs.hbr.org/2012/09/to-succeed-forget-self-esteem/
+* http://www.hanselman.com/blog/ImAPhonyAreYou.aspx
+* http://teddy.fr/2013/02/10/about-not-owning-shit/
+* http://hollywouldifshecould.net/2012/12/15-small-ideas-to-kickstart-big-change/
+* http://chronicle.com/article/Youre-Distracted-This/138079/
+
 
 
 
@@ -85,7 +99,8 @@
 <li><a href="http://dontbubble.us/" time_added="1357363885" tags="personal tech">Escape your search engine Filter Bubble!</a></li>
 <li><a href="https://thelab.o2.com/2013/03/substituting-google-reader-for-some-ifttt-magic/" time_added="1363272534" tags="personal tech">The Lab powered by O2 » Substituting Google Reader for some IFTTT magic</a></li>
 <li><a href="http://blog.feedly.com/2013/03/14/google-reader/" time_added="1363272531" tags="personal tech">Transitioning from Google Reader to feedly | Building Feedly</a></li>
-
+<li><a href="http://www.pbs.org/newshour/bb/entertainment/jan-june12/information_05-18.html" time_added="1358316839" tags="health,hn">'The Information Diet': Should Americans Exercise More 'Conscious Consumpti</a></li>
+<li><a href="http://blogs.hbr.org/cs/2012/08/the_disciplined_pursuit_of_less.html" time_added="1355755975" tags="domestic,health,hn,important,life hacker">The Disciplined Pursuit of Less - Greg McKeown - Harvard Business Review</a></li>
 
 
 
@@ -134,8 +149,10 @@
 * https://www.kickstarter.com/projects/augustgermar/anonabox-a-tor-hardware-router
 * http://arstechnica.com/security/2014/10/whisper-cto-says-tracking-anonymous-users-not-a-big-deal-really/
 * http://www.nytimes.com/2014/10/17/opinion/the-dark-market-for-personal-data.html
+* http://www.theguardian.com/media/2014/oct/17/-sp-whisper-tracking-location-users-facts-response
+* http://blog.prof.so/2013/06/quantified.html
 
-
+Galperin's Law: "once you build a backdoor, you don't get to decide who walks through it."
 
 
 

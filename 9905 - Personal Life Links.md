@@ -25,8 +25,17 @@
 <li><a href="http://www.huffingtonpost.com/amy-morrison/motherhood_b_2271349.html" time_added="1355505748" tags="domestic">Amy Morrison: Why You're Never Failing as a Mother</a></li>
 <li><a href="http://www.nytimes.com/2013/01/24/technology/personaltech/apps-and-other-digital-tools-lend-a-hand-to-new-mothers.html?src=me&ref=general&gwh=C36E2C7A7A826C134B42130F3379F9E4" time_added="1359219982" tags="domestic">Apps and Other Digital Tools Lend a Hand to New Mothers - NYTimes.com</a></li>
 <li><a href="http://www.nytimes.com/2013/03/09/your-money/financial-tips-for-expectant-parents.html" time_added="1362862088" tags="domestic,finance,important">Your Money - Financial and Legal Advice for Expectant Parents - NYTimes.com</a></li>
+<li><a href="http://t.co/Wrk0V0lT" time_added="1360337186" tags="domestic,health">SQLRockstar: RT @WSUSpokane: New @WSU research shows parents' eating habits</a></li>
+<li><a href="http://www.theatlantic.com/magazine/archive/2013/07/how-long-can-you-wait-to-have-a-baby/309374/" time_added="1371752476" tags="domestic,health">How Long Can You Wait to Have a Baby? The people who say that over 35, your</a></li>
+<li><a href="http://www.theatlantic.com/national/archive/2013/06/addressing-the-achievement-gap-the-earliest-intervention/277141/" time_added="1372338835" tags="domestic,health">Fighting Inequality With the Earliest Intervention Possible</a></li>
+<li><a href="http://www.nytimes.com/2013/11/26/health/the-changing-american-family.html?hp" time_added="1385480126" tags="domestic,parenting">The Great Shakeup of the American Family</a></li>
+<li><a href="http://arstechnica.com/science/2013/05/giant-genome-study-finds-tiny-links-between-genetics-and-schooling/" time_added="1370030168" tags="academia,domestic,health">Giant genome study finds tiny links between genetics and schooling | Ars Te</a></li>
+<li><a href="http://www.bbc.com/news/health-26750786" time_added="1395928477" tags="">BBC News - Autism 'begins long before birth'</a></li>
+<li><a href="http://www.nytimes.com/2014/04/15/science/surge-in-prescriptions-for-opioid-painkillers-for-pregnant-women.html?hp" time_added="1397424737" tags="">Use of Opioid Painkillers During Pregnancy Surges</a></li>
+
 
 * http://www.nytimes.com/2014/10/17/us/quality-of-words-not-quantity-is-crucial-to-language-skills-study-finds.html
+* http://solveforinteresting.com/offspring-edited/
 
 
 
@@ -44,7 +53,11 @@
 <li><a href="http://offbeathome.com/2012/10/email-and-money" time_added="1350329680" tags="domestic,finance">We stopped fighting over money when we started emailing | Offbeat Home</a></li>
 <li><a href="http://offbeathome.com/2012/12/communicating-under-stress" time_added="1356062764" tags="domestic,health,important,life hacker">Relationship hacks for communicating under stress | Offbeat Home</a></li>
 <li><a href="http://www.theatlantic.com/sexes/archive/2013/03/the-difference-between-a-happy-marriage-and-miserable-one-chores/273615/" time_added="1362263395" tags="domestic,important">The Difference Between a Happy Marriage and Miserable One: Chores - Wendy K</a></li>
-
+<li><a href="http://www.psychologytoday.com/articles/201212/12-rude-revelations-about-sex" time_added="1357491459" tags="domestic,important">12 Rude Revelations About Sex | Psychology Today</a></li>
+<li><a href="http://www.nytimes.com/2011/11/20/magazine/teaching-good-sex.html?pagewanted=1&_r=0" time_added="1363705330" tags="domestic,health,important,personal">http://www.nytimes.com/2011/11/20/magazine/teaching-good-sex.html?pagewante</a></li>
+<li><a href="http://www.theatlantic.com/health/archive/2013/05/how-to-not-hate-dating/275687/" time_added="1368126764" tags="personal">How to Not Hate Dating - Chiara Atik - The Atlantic</a></li>
+<li><a href="http://www.theatlantic.com/health/archive/2014/01/how-sex-affects-intelligence-and-vice-versa/282889/" time_added="1389734366" tags="">How Sex Affects Intelligence, and Vice Versa</a></li>
+<li><a href="http://www.theatlantic.com/health/archive/2013/04/relationships-are-more-important-than-ambition/275025/" time_added="1366227845" tags="domestic">Relationships Are More Important Than Ambition - Emily Esfahani Smith - The</a></li>
 
 
 
@@ -57,6 +70,7 @@
 <li><a href="http://offbeathome.com/2012/10/glowing-driveway" time_added="1349269117" tags="domestic">Great idea: Make your driveway glow like a starry night | Offbeat Home</a></li>
 <li><a href="http://offbeathome.com/2013/01/10-life-lessons-learned-from-my-first-apartment" time_added="1358206653" tags="domestic">10 life lessons learned from my first apartment | Offbeat Home</a></li>
 <li><a href="http://rethinkingchildhood.com/2013/01/22/neighbourhood-america-mother/" time_added="1358876580" tags="domestic">The sorry state of neighbourhood design in America: a mother writes | Rethi</a></li>
+<li><a href="http://offbeathome.com/2013/06/vacuum-your-heat-ducts" time_added="1371730587" tags="domestic,health">Vacuum out your heat ducts right now | Offbeat Home</a></li>
 
 
 
