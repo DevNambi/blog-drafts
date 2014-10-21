@@ -116,7 +116,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 <li><a href="http://www.periscopic.com/" time_added="1362805100" tags="data ethics,data science,important,viz">Periscopic: Do good with data</a></li>
 
 
-
+* http://www.reddit.com/r/DataVizRequests/top/?sort=top&t=all
 
 
 
@@ -381,6 +381,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://tachyon-project.org/
 * http://www.gallamine.com/2014/10/query-data-from-impala-on-amazon-emr.html
 * http://techcrunch.com/2014/10/20/crate-lets-developers-set-up-big-data-backends-in-minutes/
+* http://antirez.com/news/80
 
 
 

@@ -56,6 +56,7 @@
 * http://teddy.fr/2013/02/10/about-not-owning-shit/
 * http://hollywouldifshecould.net/2012/12/15-small-ideas-to-kickstart-big-change/
 * http://chronicle.com/article/Youre-Distracted-This/138079/
+* http://arstechnica.com/staff/2014/10/harnessing-depression-one-ars-writers-journey/
 
 
 
