@@ -61,7 +61,7 @@ https://www.linkedin.com/today/post/article/20140528155249-224083-10-signs-a-com
 <li><a href="http://t.co/6EbqhshU" time_added="1357221653" tags="hn">peteskomoroch: Valve's 'Handbook for New Employees' is an interesting read.</a></li>
 <li><a href="http://www.smattie.com/2012/12/11/preparing-for-interview-loops/" time_added="1355381235" tags="brand">Preparing for interview loops | Scott Mattie's Blog</a></li>
 <li><a href="http://techcrunch.com/2013/01/12/10-reasons-why-2013-will-be-the-year-you-quit-your-job/" time_added="1358052989" tags="brand">10 Reasons Why 2013 Will Be The Year You Quit Your Job | TechCrunch</a></li>
-<li><a href="http://t.co/I0ahHh2Q" time_added="1355241533" tags="brand,hn,important">BrentO: Really, really good list of advice for employees by @msuster: http:</a></li>
+<li><a href="http://www.bothsidesofthetable.com/2012/12/10/some-quick-sage-advice-for-young-employees-early-in-their-careers/" time_added="1355241533" tags="brand,hn,important">BrentO: Really, really good list of advice for employees by @msuster: http:</a></li>
 <li><a href="http://www.epi.org/publication/pm195-stem-labor-shortages-microsoft-report-distorts/" time_added="1355415704" tags="big data,finance,hn">STEM labor shortages?: Microsoft report distorts reality about computing oc</a></li>
 <li><a href="http://howtowriteabusinessplan.com/2012/12/engineering-salaries-at-silicon-valley-startups/" time_added="1354482705" tags="brand,hn">Engineering salaries at silicon valley startups | How to Write a Business P</a></li>
 <li><a href="http://moz.com/rand/what-company-culture-is-and-is-not/" time_added="1357833495" tags="brand">What Company Culture IS and IS NOT - Rand's Blog</a></li>

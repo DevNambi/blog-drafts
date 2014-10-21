@@ -12,7 +12,7 @@ This is an information problem. It's also a FUD problem.
 
 * Questions to ask
 * Where to go looking
-* https://zapier.com/blog/remote-office-photos/?utm_content=buffer02a9f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+* https://zapier.com/blog/remote-office-photos/
 * http://www.groovehq.com/blog/being-a-remote-team
 * http://paddy.io/posts/recruiters/
 * http://www.wired.com/2014/02/smart-jerks-old-people-hard-things-company/
@@ -40,7 +40,7 @@ This is an information problem. It's also a FUD problem.
 
 <li><a href="http://datagenetics.com/blog/december32012/index.html" time_added="1355278385" tags="brand,data science,hn,personal tech">Secretary Puzzle</a></li>
 <li><a href="http://erniemiller.org/2012/12/15/why-i-love-being-a-programmer-in-louisville-or-why-i-wont-relocate-to-work-for-your-startup/" time_added="1355841735" tags="hn">Why I Love Being A Programmer in Louisville (or, Why I Won’t Relocate to Wo</a></li>
-<li><a href="http://t.co/AqvK7Y2T" time_added="1358381677" tags="big data">adamlaiacano: "If you're going to hire 30 people, you're going to interview</a></li>
+<li><a href="http://techcrunch.com/2013/01/16/founders-stories-clouderas-jeff-hammerbacher-on-building-big-data-systems/" time_added="1358381677" tags="big data">adamlaiacano: "If you're going to hire 30 people, you're going to interview</a></li>
 <li><a href="http://moz.com/rand/never-have-the-what-would-it-take-to-keep-you-here-conversation/" time_added="1356816736" tags="hn,important">Never Have the "What Would It Take to Keep You Here?" Conversation - Rand's</a></li>
 <li><a href="http://arstechnica.com/information-technology/2012/12/how-should-i-add-a-new-developer-to-the-team/" time_added="1354996580" tags="brand,sql">How should I add a new developer to the team? | Ars Technica</a></li>
 <li><a href="https://refer.ly/blog/most-revealing-interview-question/" time_added="1350313292" tags="brand">Referly BlogThe Most Revealing Interview Question - Referly Blog</a></li>

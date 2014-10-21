@@ -54,7 +54,7 @@
 <li><a href="http://t.co/4H5E1wfP" time_added="1355235586" tags="brand">shanselman: How Long Should a Blog Post Be? http://t.co/4H5E1wfP</a></li>
 <li><a href="http://www.copyblogger.com/exceptional-writer/?utm_medium=twitter&utm_source=Web" time_added="1349095560" tags="brand">How to Become an Exceptional Writer | Copyblogger</a></li>
 <li><a href="http://t.co/ifQUrZnu" time_added="1349480709" tags="brand">Phil_Factor: 20 redundant phrases to eliminate from your writing http://t.c</a></li>
-<li><a href="http://www.brentozar.com/archive/2013/01/how-we-write/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+BrentOzar-SqlServerDba+%28Brent+Ozar+Unlimited%29" time_added="1357224344" tags="brand">How We Write | Brent Ozar Unlimited</a></li>
+<li><a href="http://www.brentozar.com/archive/2013/01/how-we-write/" time_added="1357224344" tags="brand">How We Write | Brent Ozar Unlimited</a></li>
 <li><a href="http://t.co/E25h1lbz" time_added="1354111818" tags="brand">grrl_geek: [Blog] Book Review: On Writing Well http://t.co/E25h1lbz</a></li>
 <li><a href="http://www.problogger.net/archives/2012/12/29/40-cool-things-to-do-with-your-posts-after-you-hit-publish/" time_added="1356718416" tags="brand">40 Cool Things to Do With Your Posts *After* You Hit Publish : @ProBlogger</a></li>
 <li><a href="http://www.useit.com/alertbox/articles-not-blogs.html" time_added="1349462055" tags="hn">Write Articles, Not Blog Postings (Jakob Nielsen's Alertbox)</a></li>
