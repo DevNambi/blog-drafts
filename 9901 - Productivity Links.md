@@ -103,8 +103,7 @@
 <li><a href="http://blogs.hbr.org/cs/2012/08/the_disciplined_pursuit_of_less.html" time_added="1355755975" tags="domestic,health,hn,important,life hacker">The Disciplined Pursuit of Less - Greg McKeown - Harvard Business Review</a></li>
 
 
-
-
+* http://arstechnica.com/business/2014/10/90-time-warner-cable-bill-becomes-190-after-two-years/
 
 
 

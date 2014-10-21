@@ -81,8 +81,7 @@
 <li><a href="http://www.switchscribe.com/?p=181" time_added="1349321432" tags="hn">Four Simple Keys to Operational Excellence – It’s not an IT or Data Center </a></li>
 <li><a href="http://blogs.hbr.org/hbr/nayar/2012/06/three-things-that-drive-teams.html" time_added="1349321585" tags="hn">The Key Ingredients of a Successful Team - Vineet Nayar - Harvard Business </a></li>
 
-
-
+* http://martinfowler.com/bliki/SacrificialArchitecture.html
 
 
 
@@ -335,6 +334,7 @@ things they believe in will keep </a></li>
 * http://www.oliverlehmann.com/project-management-sources/Nasa-Hundred-Rules-for-Project-Managers.pdf
 * https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging-in-json/
 * http://anandtech.com/show/8223/an-introduction-to-semiconductor-physics-technology-and-industry
+* http://elementaryos.org/docs/human-interface-guidelines
 
 ## Funny
 

@@ -244,6 +244,9 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://punkrockor.wordpress.com/2014/08/12/in-defense-of-model-simplicity/
 * http://research.microsoft.com/pubs/192769/tricks-2012.pdf
 * http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+* http://research.microsoft.com/en-us/projects/r2/
+* http://probabilistic-programming.org/wiki/Home
+* https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 
 
 
@@ -348,7 +351,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://patshaughnessy.net/2014/10/13/following-a-select-statement-through-postgres-internals
 * http://tachyon-project.org/
 * http://www.gallamine.com/2014/10/query-data-from-impala-on-amazon-emr.html
-
+* http://techcrunch.com/2014/10/20/crate-lets-developers-set-up-big-data-backends-in-minutes/
 
 
 

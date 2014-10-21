@@ -11,6 +11,9 @@
 <li><a href="http://t.co/ngnb0Cph" time_added="1360264369" tags="domestic">hmason: Donald Oresman’s Renaissance-Style Library http://t.co/ngnb0Cph #li</a></li>
 <li><a href="http://lifehacker.com/5978851/how-to-automate-your-discounts-and-always-get-the-best-price" time_added="1362663611" tags="domestic,finance,important">How to Automate Your Discounts and Always Get the Best Price</a></li>
 
+* http://www.nytimes.com/2014/10/20/opinion/paul-krugman-amazons-monopsony-is-not-ok.html
+* http://www.businessinsider.com/use-a-fake-location-for-cheap-airfare-2014-6
+
 
 ## Parenting
 
@@ -56,6 +59,7 @@
 
 * http://www.nytimes.com/2014/10/17/us/quality-of-words-not-quantity-is-crucial-to-language-skills-study-finds.html
 * http://solveforinteresting.com/offspring-edited/
+* https://medium.com/re-form/simcity-that-i-used-to-know-d5d8c49e3e1d
 
 
 

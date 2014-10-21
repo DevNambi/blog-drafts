@@ -9,6 +9,7 @@
 * http://www.nytimes.com/2014/10/14/us/for-supreme-court-first-amendment-sometimes-has-a-limit-its-doorstep.html
 * http://arstechnica.com/tech-policy/2014/10/in-a-first-tsa-announces-7-americans-removed-from-no-fly-list/
 * http://arstechnica.com/security/2014/10/fbi-director-to-citizens-let-us-spy-on-you/
+* http://www.bostonglobe.com/ideas/2014/10/18/vote-all-you-want-the-secret-government-won-change/jVSkXrENQlu8vNcBfMn9sL/story.html
 
 
 
@@ -19,6 +20,7 @@
 
 * http://www.nakedcapitalism.com/2014/10/john-helmer-cia-bumbling-now.html
 * http://militaryprofessionalreadinglists.com/
+* http://www.computerworld.com/article/2834927/hackers-strike-defense-companies-through-real-time-ad-bidding.html
 
 
 
@@ -26,6 +28,7 @@
 ## State
 
 * http://yro.slashdot.org/story/12/10/28/0531250/cash-strapped-states-burdened-by-expensive-data-security-breaches
+* http://www.theverge.com/2014/10/20/7014705/coding-error-911-fcc-washington
 
 <li><a href="http://ow.ly/iPacF" time_added="1363121071" tags="domestic,finance">"Transit agencies across the state face a fiscal cliff, some have already g</a></li>
 <li><a href="http://seattletimes.com/html/localnews/2020628849_stateparksxml.html" time_added="1364092812" tags="domestic">At 100, state parks in grim state of disrepair | Local News | The Seattle T</a></li>
@@ -48,6 +51,9 @@
 * http://www.washingtonpost.com/sf/investigative/2014/09/06/stop-and-seize/
 * http://arstechnica.com/tech-policy/2014/10/private-donors-supply-spy-gear-to-cops/
 * http://www.al.com/news/index.ssf/2014/10/gangrene_and_broken_bones_kill.html
+* http://www.wired.com/2014/10/virginia-police-secretively-stockpiling-private-phone-records/
+* http://www.washingtonpost.com/news/morning-mix/wp/2014/08/14/tear-gas-is-a-chemical-weapon-banned-in-war-but-ferguson-police-shoot-it-at-protesters/
+* http://www.salon.com/2014/10/20/swat_teams_brutal_murder_how_they_killed_an_innocent_man_on_his_childhood_driveway/
 
 
 

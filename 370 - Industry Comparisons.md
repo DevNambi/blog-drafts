@@ -61,6 +61,8 @@ http://lefsetz.com/wordpress/index.php/archives/2014/07/05/kids-dont-care-cars/
 
 http://bits.blogs.nytimes.com/2014/08/28/uber-and-lyft-have-become-indistinguishable-commodities/
 
+http://www.wired.com/2014/10/volvo-turbo-engine-concept/?mbid=social_fb
+
 
 ## Automation
 
