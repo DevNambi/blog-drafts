@@ -24,6 +24,12 @@
 <li><a href="http://dandreamsofcoding.com/2013/01/22/what-do-technical-managers-do-anyway/" time_added="1358862892" tags="hn">What Do Technical Managers Do, Anyway? « Dan Dreams of Coding</a></li>
 <li><a href="http://blogs.hbr.org/schwartz/2013/03/treat-employees-with-trust.html" time_added="1363237204" tags="brand,hiring/firing,hn">Want Productive Employees? Treat Them Like Adults - Tony Schwartz - Harvard</a></li>
 <li><a href="http://www.alaisterlow.com/employees-leave-managers-not-companies/" time_added="1360167293" tags="brand,hiring/firing,hn">Employees leave managers, not companies | Alaister Low</a></li>
+<li><a href="http://www.geekwire.com/2013/byebye-bosses-zappos-reorganizing-eliminate-bureaucracy/" time_added="1388515147" tags="">Bye-bye, bosses? Zappos is reorganizing to eliminate bureaucracy - GeekWire</a></li>
+<li><a href="http://zite.to/1f3fA3B" time_added="1390752034" tags="">Ten Mad Men-Era HR Practices to Ditch in 2014 zite.to/1f3fA3B</a></li>
+<li><a href="http://bit.ly/1meVv01" time_added="1399901950" tags="">If Management is the Only Way Up, We're All F'd : Rand's Blog bit.ly/1meVv0</a></li>
+<li><a href="http://www.inc.com/geoffrey-james/the-surprising-truth-about-workplace-happiness.html?cid=home1" time_added="1389709340" tags="">The Surprising Truth About Workplace Happiness | Inc.com</a></li>
+<li><a href="http://wp.me/p2kOCK-xs" time_added="1364790340" tags="to_read">Managing Difficult People - Your Pesky Peers (part 2) wp.me/p2kOCK-xs</a></li>
+<li><a href="http://www.npr.org/blogs/money/2014/08/27/343415569/whos-in-the-office-the-american-workday-in-one-graph" time_added="1409205769" tags="">Who's In The Office? The American Workday In One Graph : Planet Money : NPR</a></li>
 
 
 

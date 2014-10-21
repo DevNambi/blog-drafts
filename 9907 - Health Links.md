@@ -5,6 +5,12 @@
 ### Food
 
 
+
+<li><a href="http://offbeathome.com/2014/06/freezing-summers-bounty" time_added="1406322092" tags="">The ultimate guide to freezing summer's bounty</a></li>
+<li><a href="http://offbeathome.com/2012/12/uses-for-sage" time_added="1354643327" tags="">How many different ways can you use sage? | Offbeat Home</a></li>
+<li><a href="http://offbeathome.com/2014/07/salads-for-salad-haters" time_added="1404914436" tags="">Salads for people who think they hate salads</a></li>
+<li><a href="http://offbeathome.com/2013/07/meal-planning" time_added="1406322128" tags="">Meal Planning to save money, time, and break your take-out addiction</a></li>
+<li><a href="http://www.cafepaloma.com/" time_added="1361844643" tags="">Mediterranean Diet Cuts Heart Disease Risk, Study Finds, via @nytimes. Now </a></li>
 <li><a href="http://datadesk.latimes.com/posts/2013/12/natural-language-processing-in-the-kitchen/" time_added="1386781025" tags="health,hn,languages">Natural Language Processing in the kitchen - Data Desk - Los Angeles Times</a></li>
 <li><a href="https://github.com/thebishop/usda_national_nutrients" time_added="1385197442" tags="data sources,health">thebishop/usda_national_nutrients · GitHub</a></li>
 <li><a href="http://www.wisegeek.com/what-does-200-calories-look-like.htm" time_added="1385334680" tags="health,viz">What Does 200 Calories Look Like?</a></li>
@@ -124,6 +130,10 @@
 #### Medical
 
 
+
+
+<li><a href="http://www.theatlantic.com/national/archive/2014/01/the-missing-voices-in-the-contraception-mandate-cases/283452/" time_added="1391151159" tags="">The Missing Voices in the Contraception Mandate Cases - Garrett Epps - The </a></li>
+<li><a href="http://www.withings.com/en/bloodpressuremonitor" time_added="1388678862" tags="">Withings - Blood Pressure Monitor - Introduction</a></li>
 <li><a href="http://www.theatlantic.com/health/archive/2013/12/living-sick-and-dying-young-in-rich-america/282495/" time_added="1387476107" tags="health">Living Sick and Dying Young in Rich America Chronic illness is the new firs</a></li>
 <li><a href="http://www.nytimes.com/2013/11/14/opinion/dont-give-more-patients-statins.html?src=me&ref=general" time_added="1384437671" tags="health">Don’t Give More Patients Statins</a></li>
 <li><a href="http://www.wired.com/wiredscience/2013/11/end-abx/" time_added="1384985149" tags="health,important">When We Lose Antibiotics, Here's Everything Else We'll Lose Too - Wired Sci</a></li>
@@ -182,6 +192,11 @@
 <li><a href="http://opinionator.blogs.nytimes.com/2013/10/02/who-will-heal-the-doctors/?hp" time_added="1380747230" tags="corruption,finance,health">Who Will Heal the Doctors? - NYTimes.com</a></li>
 <li><a href="http://www.nytimes.com/2013/11/20/your-money/how-doctors-die.html?src=me&ref=general" time_added="1384993738" tags="domestic,health,important,parenting">How Doctors Die: Showing Others the Way</a></li>
 <li><a href="http://www.bbc.co.uk/news/health-24524027" time_added="1384976861" tags="health,hn,important">The engineer who fixed his own heart</a></li>
+<li><a href="http://www.thedailybeast.com/articles/2014/03/13/thanks-anti-vaxxers-you-just-brought-back-measles-in-nyc.html" time_added="1394829343" tags="">Thanks, Anti-Vaxxers. You Just Brought Back Measles in NYC. - The Daily Bea</a></li>
+<li><a href="http://www.washingtonsblog.com/2013/04/study-almost-one-third-of-babies-born-after-fukushima-in-alaska-california-hawaii-oregon-and-washington-have-thyroid-problems.html" time_added="1365013518" tags="to_read">Study: 28% Increase In Thyroid Problems In Babies Born After Fukushima in A</a></li>
+<li><a href="http://m.aljazeera.com/story/201438161633539780" time_added="1394334372" tags="">Why are American women dying in childbirth? - Al Jazeera English</a></li>
+<li><a href="http://online.wsj.com/news/articles/SB10001424052702304626304579507843508260408?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702304626304579507843508260408.html" time_added="1397863660" tags="">Deadly viral disease MERS spreads from Middle East to Southeast Asia - WSJ.</a></li>
+<li><a href="http://time.com/the-best-form-of-birth-control-is-the-one-no-one-is-using/" time_added="1404151912" tags="">http://time.com/the-best-form-of-birth-control-is-the-one-no-one-is-using/</a></li>
 
 
 
@@ -206,6 +221,8 @@
 **Medical Corruption**
 
 
+<li><a href="http://www.rand.org/pubs/research_briefs/RB9744.html" time_added="1395001792" tags="">Do Workplace Wellness Programs Save Employers Money? | RAND</a></li>
+<li><a href="http://www.nytimes.com/2013/09/03/opinion/how-a-cabal-keeps-generics-scarce.html?_r=0" time_added="1388678022" tags="">How a Cabal Keeps Generics Scarce - NYTimes.com</a></li>
 <li><a href="http://blogs.seattletimes.com/northwestvoices/2013/12/03/keep-political-corruption-and-bankruptcy-out-of-health-care/" time_added="1386091354" tags="corruption,finance,government,health">Keep political corruption and bankruptcy out of health care | Northwest Voi</a></li>
 <li><a href="http://www.theatlantic.com/magazine/archive/2013/12/the-home-remedy-for-old-age/354680/" time_added="1385916847" tags="finance,health">The Hospital Is No Place for the Elderly - Jonathan Rauch - The Atlantic</a></li>
 <li><a href="http://apps.seattletimes.com/reports/pharma-windfall/2013/nov/9/mining-rare-diseases/" time_added="1384113396" tags="corruption,finance,government,health">The mining of rare diseases | Pharma's Windfall | The Seattle Times</a></li>
@@ -251,6 +268,7 @@
 
 
 
+<li><a href="http://t.co/IG6Jdn4S" time_added="1357788683" tags="">lazowska: NY Times: US is an outlier in relying on the private sector to fu</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/11/another-lurking-obamacare-problem-balance-billing.html" time_added="1384907393" tags="corruption,finance,health,important,to_read">Another Lurking Obamacare Problem: Balance Billing « naked capitalism</a></li>
 <li><a href="http://www.npr.org/blogs/alltechconsidered/2013/11/19/246132770/this-slide-shows-why-healthcare-gov-wouldnt-work-at-launch?ft=3&f=1001" time_added="1384999144" tags="government,health,hn">This Slide Shows Why HealthCare.gov Wouldn't Work At Launch : All Tech Cons</a></li>
 <li><a href="http://digital.vpr.net/post/analysis-can-man-figure-out-how-fund-single-payer" time_added="1384999307" tags="finance,health">Analysis: Can This Man Figure Out How To Fund Single Payer? | Vermont Publi</a></li>
@@ -331,6 +349,7 @@
 <li><a href="http://www.tlnt.com/2013/08/12/see-you-in-a-month-why-americans-need-to-get-serious-about-vacations/" time_added="1376327247" tags="brand,health,hiring/firing">See You in a Month: Why Americans Need to Get Serious About Vacations</a></li>
 <li><a href="http://www.nytimes.com/2013/08/28/dining/bring-your-lunch-to-work.html?src=me&ref=general" time_added="1377782289" tags="health">Bring Your Lunch to Work</a></li>
 <li><a href="http://deanproxy.com/blog/posts/2013/08/13-what-happens-when-you-sit-at-a-desk-for-13-years---and-actually-exercise-.html" time_added="1377717183" tags="health,personal">http://deanproxy.com/blog/posts/2013/08/13-what-happens-when-you-sit-at-a-d</a></li>
+<li><a href="http://randomdrake.com/2014/01/09/never-going-back-a-week-of-not-eating-lunch-at-my-desk/" time_added="1389389057" tags="">Never Going Back – A Week of Not Eating Lunch at My Desk | Random Drake</a></li>
 
 
 * http://joel.is/6-things-i-do-to-be-consistently-happy/

@@ -3,6 +3,9 @@
 
 ## Mental Productivity
 
+
+<li><a href="http://www.bbc.com/future/story/20140514-how-extreme-isolation-warps-minds" time_added="1400181056" tags="">BBC - Future - How extreme isolation warps the mind</a></li>
+<li><a href="http://lifehacker.com/eight-things-you-can-discard-to-downsize-your-life-1522266092" time_added="1392447641" tags="">Eight Things You Can Discard to Downsize Your Life</a></li>
 <li><a href="http://biz30.timedoctor.com/richard-bransons-six-secrets-to-productivity/?utm_medium=referral&utm_source=pulsenews" time_added="1349095675" tags="life hacker">Richard Branson’s Six Secrets to Productivity | Biz 3.0</a></li>
 <li><a href="http://lifehacker.com/5947514/relaux-serves-up-regular-playlists-designed-to-help-you-focus-and-be-productive?utm_medium=referral&utm_source=pulsenews" time_added="1349095678" tags="life hacker">ReLAUx Serves Up Regular Playlists Designed to Help You Focus and Be Produc</a></li>
 <li><a href="http://t.co/3RYCt9jc" time_added="1357137322" tags="life hacker">SQLRockstar: I do 14 of these things --> 13 Things Overachievers Do - Forbe</a></li>
@@ -66,6 +69,7 @@
 ## Personal Technology
 
 
+<li><a href="http://www.bostonglobe.com/business/2014/01/01/apple-says-was-unaware-nsa-iphone-hack-program/btEZFrG9oz38ih9EBHoFbM/story.html" time_added="1388671516" tags="">duh... RT @aral: NSA analysts refer internally to iPhone users as “zombies”</a></li>
 <li><a href="http://www.hanselman.com/blog/AutomaticallyBackupYourGmailAccountOnAScheduleWithGMVaultAndWindowsTaskScheduler.aspx" time_added="1348860082" tags="personal tech">Automatically Backup your Gmail account on a schedule with GMVault and Wind</a></li>
 <li><a href="http://lifehacker.com/5771670/how-to-turn-your-computer-into-an-internet-personal-video-recorder" time_added="1348860221" tags="personal tech">How to Automatically Download TV Shows as Soon as They've Aired (or Turn Yo</a></li>
 <li><a href="http://lifehacker.com/5893526/transform-your-digs-into-a-home-of-the-future-diy+style" time_added="1348860223" tags="personal tech">Transform Your Digs into a Home of the Future, DIY-Style</a></li>
@@ -123,6 +127,12 @@
 
 #### Privacy & Security
 
+
+<li><a href="http://www.technologyreview.com/news/516156/a-popular-ad-blocker-also-helps-the-ad-industry/" time_added="1401305589" tags="">http://www.technologyreview.com/news/516156/a-popular-ad-blocker-also-helps-the-ad-industry/</a></li>
+<li><a href="https://palant.de/2014/07/29/which-is-better-adblock-or-adblock-plus" time_added="1406658195" tags="">Wladimir Palant's notes: Which is better, Adblock or Adblock Plus?</a></li>
+<li><a href="http://bgr.com/2014/07/23/how-to-disable-canvas-fingerprinting/" time_added="1406489830" tags="">How to disable canvas fingerprinting with Adblock Plus | BGR</a></li>
+<li><a href="http://www.businessinsider.com/i-decided-to-delete-all-my-facebook-activity-and-it-was-incredibly-hard-2014-1" time_added="1388609178" tags="">I Decided To Delete All My Facebook Activity, And It Was Incredibly Hard - </a></li>
+<li><a href="https://datacoup.com/" time_added="1389143125" tags="">Your data is being sold already, you might as well be getting paid for it: </a></li>
 <li><a href="http://t.co/RiltRlLF" time_added="1352989799" tags="hn">Phil_Factor: How To Hide Your Email: What Petraeus Did & What He Should Hav</a></li>
 <li><a href="http://blogs.computerworld.com/encryption/21363/easily-encrypt-gmail" time_added="1353446117" tags="personal tech">Easily encrypt Gmail | Computerworld Blogs</a></li>
 <li><a href="http://arstechnica.com/information-technology/2012/08/secure-your-digital-self-auditing-your-cloud-identity/" time_added="1348860565" tags="personal tech">Secure your digital self: auditing your cloud identity | Ars Technica</a></li>

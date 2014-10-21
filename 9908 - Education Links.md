@@ -23,6 +23,8 @@
 <li><a href="http://seattletimes.com/html/localnews/2021731344_westneat1xml.html" time_added="1378003481" tags="domestic">Striking news: Seattle schools now booming | Danny Westneat</a></li>
 <li><a href="http://seattletimes.com/html/opinion/2021715558_douglascollinsopedschoolsupplies30xml.html" time_added="1377871699" tags="academia,domestic">Guest: School-supply fees have gotten out of hand</a></li>
 <li><a href="http://seattletimes.com/html/localnews/2021743055_alldaykindergartenxml.html" time_added="1378230314" tags="academia,domestic">Extra state aid for kindergarten a mixed blessing for districts</a></li>
+<li><a href="http://www.nytimes.com/2014/08/17/opinion/sunday/teaching-is-not-a-business.html" time_added="1408253726" tags="">Teaching Is Not a Business</a></li>
+<li><a href="http://www.pruningshears.us/pruning-shears/2014/2/27/teach-for-americas-unspoken-alliance-with-the-one-percent.html" time_added="1393615030" tags="">http://www.pruningshears.us/pruning-shears/2014/2/27/teach-for-americas-uns</a></li>
 
 
 
@@ -76,8 +78,10 @@
 <li><a href="http://www.theatlantic.com/health/archive/2014/04/the-dark-history-of-ei-the-latest-rape-email-frat/361056/" time_added="1398381909" tags="">The Dark History of EI, the Latest Frat Accused of Rapey Emails - Olga Khaz</a></li>
 <li><a href="http://cs.brown.edu/people/alexpap/faculty_dataset.html" time_added="1398369607" tags="">Dataset of all Computer Science Professors in 50 top US Graduate Programs</a></li>
 <li><a href="http://www.nytimes.com/2014/04/27/technology/a-student-data-collector-drops-out.html?hpw&rref=education" time_added="1398607280" tags="">A Student-Data Collector Drops Out - NYTimes.com</a></li>
-
-
+<li><a href="http://svpow.com/2013/12/20/elseviers-david-tempest-explains-subscription-contract-confidentiality-clauses/" time_added="1388621645" tags="">Elsevier’s David Tempest explains subscription-contract confidentiality cla</a></li>
+<li><a href="http://www.vanityfair.com/culture/2014/03/calarts-animation-1970s-tim-burton" time_added="1392673025" tags="">The CalArts Class Who Created a Great Renaissance of Animation | Vanity Fai</a></li>
+<li><a href="http://www.theatlantic.com/features/archive/2014/03/the-dark-power-of-fraternities/357580/" time_added="1393009177" tags="">The Dark Power of Fraternities - The Atlantic</a></li>
+<li><a href="http://www.newrepublic.com/article/114608/stem-funding-dwarfs-humanities-only-one-crisis" time_added="1391534923" tags="">STEM Funding Dwarfs Humanities, But Only One Is in Crisis | New Republic</a></li>
 
 
 

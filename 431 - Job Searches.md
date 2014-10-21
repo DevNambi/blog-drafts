@@ -73,6 +73,36 @@ https://www.linkedin.com/today/post/article/20140528155249-224083-10-signs-a-com
 <li><a href="http://news.ycombinator.com/item?id=5105882" time_added="1360803131" tags="brand,hiring/firing">Ask HN: Why don't employees negotiate work week hours as often as salary? |</a></li>
 <li><a href="http://lifehacker.com/5934911/write-your-resume-like-a-recruiter-to-boost-your-chances-of-getting-hired" time_added="1348860175" tags="brand,hiring/firing">Write Your Resume Like a Recruiter to Boost Your Chances of Getting Hired</a></li>
 </ul>
+<li><a href="https://medium.com/apple-daily/f5f8c807d868" time_added="1392164309" tags="">I wanted to work at Apple really bad, and now not so much. — Apple Daily  —</a></li>
+<li><a href="http://blog.mongohq.com/making-remote-work-work-an-adventure-in-time-and-space/" time_added="1389818646" tags="">Making Remote Work Work: An Adventure in Time and Space | MongoHQ Blog</a></li>
+<li><a href="http://seattletimes.com/html/nationworld/2024422508_workweekxml.html" time_added="1409416971" tags="">Average full-time workweek clocks in at 47 hours | Nation & World | The Sea</a></li>
+<li><a href="http://jeffarchibald.ca/60-hour-work-week-badge-honour/" time_added="1392502916" tags="">Your 60-Hour Work Week is Not a Badge of Honour | Jeff Archibald</a></li>
+<li><a href="http://freakonomics.com/2014/02/05/the-inefficiency-of-long-hours/?utm_content=buffer0905a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" time_added="1391630201" tags="">Freakonomics » The Inefficiency of Long Hours</a></li>
+<li><a href="http://frugaling.org/destroy-40-hour-workweek/" time_added="1405983050" tags="">Destroy The 40-Hour Workweek | Frugaling</a></li>
+<li><a href="http://www.vice.com/read/who-stole-the-four-hour-workday-0000406-v21n8" time_added="1408564412" tags="">Who Stole the Four-Hour Workday? | VICE United States</a></li>
+<li><a href="https://techblog.livingsocial.com/blog/2014/04/02/working-from-home-heres-an-extra-shot-of-focus/" time_added="1396459454" tags="">Working from home? Here's an extra shot of focus. - LivingSocial's Technolo</a></li>
+<li><a href="http://mattgemmell.com/working-from-home/" time_added="1399386923" tags="">Working from home - Matt Gemmell</a></li>
+<li><a href="http://blogs.hbr.org/2014/04/6-tips-for-reluctant-negotiators/?utm_source=Socialflow&utm_medium=Tweet&utm_campaign=Socialflow" time_added="1398797885" tags="">6 Tips for Reluctant Negotiators - Whitney Johnson - Harvard Business Revie</a></li>
+<li><a href="http://www.salon.com/2014/07/24/5_reasons_its_time_for_a_4_day_work_partner/" time_added="1406230482" tags="">5 reasons it’s time for a 4-day work week - Salon.com</a></li>
+<li><a href="http://www.theatlantic.com/business/archive/2014/03/americas-workers-stressed-out-overwhelmed-totally-exhausted/284615/" time_added="1395795350" tags="">America's Workers: Stressed Out, Overwhelmed, Totally Exhausted - Rebecca J</a></li>
+<li><a href="http://allenc.com/2014/08/privilege-meaningful-work/" time_added="1407780597" tags="">The Privilege of Meaningful Work</a></li>
+<li><a href="http://www.nextnewdeal.net/millennial-pulse/rise-insourcing-gives-internet-companies-new-way-exploit-workers" time_added="1391481578" tags="">The Rise of 'Insourcing' Gives Internet Companies a New Way to Exploit Work</a></li>
+<li><a href="https://source.opennews.org/en-US/learning/making-remote-work-work/" time_added="1392321028" tags="">Making Remote Work Work</a></li>
+<li><a href="http://www.citylab.com/work/2014/08/its-time-for-a-four-day-workweek/378911/" time_added="1408719990" tags="">It's Time for a Four-Day Workweek - CityLab</a></li>
+<li><a href="http://www.fastcoexist.com/1681241/the-future-of-work-quantified-employees-pop-up-workplaces-and-more-telepresence" time_added="1359092128" tags="">The Future of Work: Quantified Employees, Pop-Up Workplaces, And More Telep</a></li>
+<li><a href="http://blogs.hbr.org/cs/2013/02/embrace_work-life_imbalan.html" time_added="1360849142" tags="">Embrace Work-Life Imbalance - Tomas Chamorro-Premuzic - Harvard Business Re</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### My Microsoft Interview Questions
 

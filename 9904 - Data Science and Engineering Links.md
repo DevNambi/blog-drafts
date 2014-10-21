@@ -8,6 +8,9 @@
 <li><a href="http://continuum.io/blog/blaze" time_added="1355810222" tags="big data">A Python Compiler for Big Data</a></li>
 <li><a href="http://t.co/vsW3xsQE" time_added="1355874308" tags="big data">lynnlangit: A programmer’s guide to big data: 12 tools to know http://t.co/</a></li>
 <li><a href="http://www.revolutionanalytics.com/downloads/free-academic.php" time_added="1357790517" tags="big data,data science,ml,stats">Download Revolution R - Free for Academia - Revolution Analytics</a></li>
+<li><a href="http://www.quantumforest.com/2013/12/using-processing-and-r-together/" time_added="1388381715" tags="">Neeeaato RT @golan: Processing R on OSX: quantumforest.com/2013/12/using-… </a></li>
+
+
 
 * http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/
 
@@ -45,6 +48,7 @@
 
 ## Data Acquisition, Sources
 
+<li><a href="http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public?share=1" time_added="1399828602" tags="">Where can I find large datasets open to the public? - Quora</a></li>
 <li><a href="http://www.datatau.com/item?id=1001" time_added="1389717031" tags="">Web scraping 101 with Python: datatau.com/item?id=1001</a></li>
 <li><a href="http://googleresearch.blogspot.com/2012/10/ngram-viewer-20.html" time_added="1350571122" tags="data science,viz">Research Blog: Ngram Viewer 2.0</a></li>
 <li><a href="https://httpkit.com/resources/HTTP-from-the-Command-Line/" time_added="1352495517" tags="hn">9 uses for cURL worth knowing | httpkit | Tools for hacking on HTTP</a></li>
@@ -74,6 +78,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 
 ## Data Viz
 
+<li><a href="http://homes.cs.washington.edu/~jheer/talks/Heer-VIZBI-2014.pdf" time_added="1394032888" tags="">homes.cs.washington.edu/~jheer/talks/Heer-VIZBI-2014.pdf</a></li>
 <li><a href="http://civilstat.com/?p=974" time_added="1354808210" tags="viz">Graph Design for the Eye and Mind, Stephen Kosslyn | Civil Statistician</a></li>
 <li><a href="http://t.co/aoGM7SkH" time_added="1353166541" tags="data science,viz">peschkaj: "The top 20 data visualisation tools" http://t.co/aoGM7SkH - reco</a></li>
 <li><a href="http://t.co/sXE5140j" time_added="1352759579" tags="data science,ml">HlthAnalysis: Explaining Bayesian Problems Using Visualizations ( Video) ht</a></li>
@@ -133,6 +138,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 <li><a href="http://ufert.se/user-acquisition/mobile-game-monetization/building-a-lightweight-flexible-d3-js-dashboard-part-1-of-2/" time_added="1360787622" tags="viz">Building a lightweight, flexible D3.js dashboard for analytics</a></li>
 <li><a href="https://docs.google.com/spreadsheet/lv?key=0AqMEGBUNwXeHdHpQNlVuY29SUE5BSXVtS3JueGlNYVE&toomany=true#gid=0" time_added="1361567497" tags="viz">D3.js Gallery Data - temporarily in view mode - Google Docs</a></li>
 <li><a href="http://www.phyzkit.net/docs/d3.d.ts.html" time_added="1363148349" tags="viz">An alternative #d3js documentation phyzkit.net/docs/d3.d.ts.h… by @KDKTN</a></li>
+<li><a href="http://vallandingham.me/make_a_barchart_with_lyra.html" time_added="1394422394" tags="">Let's Make a Bar Chart with Lyra - Jim Vallandingham</a></li>
 
 
 * Use bokeh and Seaborn instead of Vincent, https://github.com/wrobstory/vincent
@@ -211,6 +217,19 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 
 ## ML / AI
 
+
+<li><a href="http://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/" time_added="1400014328" tags="">The Curse of Dimensionality in Classification</a></li>
+<li><a href="http://www.wired.com/2014/08/deep-learning-yann-lecun/?" time_added="1408053431" tags="">Facebook’s Quest to Build an Artificial Brain Depends on This Guy | Enterpr</a></li>
+<li><a href="https://scottlocklin.wordpress.com/2014/07/22/neglected-machine-learning-ideas/" time_added="1407220696" tags="">https://scottlocklin.wordpress.com/2014/07/22/neglected-machine-learning-ideas/</a></li>
+<li><a href="http://www.reddit.com/r/MachineLearning/comments/1yi95m/what_i_most_wish_id_known_as_an_undergrad_go_to/" time_added="1392960192" tags="">What I most wish I'd known as an undergrad: Go to public talks! : MachineLe</a></li>
+<li><a href="http://nerds.airbnb.com/architecting-machine-learning-system-risk/" time_added="1403017632" tags="">http://nerds.airbnb.com/architecting-machine-learning-system-risk/</a></li>
+<li><a href="http://datacommunitydc.org/blog/2014/05/deep-learning-courses/" time_added="1401633895" tags="">http://datacommunitydc.org/blog/2014/05/deep-learning-courses/</a></li>
+<li><a href="http://ml.posthaven.com/machine-learning-done-wrong" time_added="1401813954" tags="">http://ml.posthaven.com/machine-learning-done-wrong</a></li>
+<li><a href="http://www.reddit.com/r/MachineLearning/comments/25lnbt/ama_yann_lecun/" time_added="1400280361" tags="">AMA: Yann LeCun : MachineLearning</a></li>
+<li><a href="http://burakkanber.com/blog/machine-learning-in-other-languages-introduction/" time_added="1391099558" tags="">http://burakkanber.com/blog/machine-learning-in-other-languages-introductio</a></li>
+<li><a href="http://www.machinedlearnings.com/2014/02/stranger-in-strange-land.html" time_added="1393049267" tags="">"Stranger in a Strange Land" - @PaulMineiro on possible lessons #machine le</a></li>
+<li><a href="https://github.com/BVLC/caffe/commit/76c73d5549c54620e1a9a8654c5dc31d090ac28e" time_added="1390924939" tags="">Terrific! Caffe, Berkeley's super fast #convnet library, just got BSD licen</a></li>
+<li><a href="http://soc.att.com/LTyEcz" time_added="1390405049" tags="">Matrix Factorization Techniques For Recommender Systems | soc.att.com/LTyEc</a></li>
 <li><a href="http://t.co/ZyvxDEk7" time_added="1357632396" tags="ml">peteskomoroch: NYU Large Scale Machine Learning Class http://t.co/ZyvxDEk7 </a></li>
 <li><a href="http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms" time_added="1354852345" tags="ml">List of machine learning algorithms - Wikipedia, the free encyclopedia</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Weka_(machine_learning)" time_added="1354852343" tags="ml">Weka (machine learning) - Wikipedia, the free encyclopedia</a></li>
@@ -255,6 +274,9 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 #### R
 
 <li><a href="http://t.co/vWTW9con" time_added="1358868193" tags="ml">kaggle: Medley: new R package for blending regression models, developed by </a></li>
+<li><a href="http://t.co/xTsyCQ92" time_added="1361257089" tags="">Free SignalR book: campusmvp.net/signalr-ebook/ #mvp13 #mvpbuzz</a></li>
+<li><a href="http://t.co/y9De8Gt1" time_added="1358258443" tags="">eddelbuettel: A first and simple Boost example with Rcpp at the Rcpp Galler</a></li>
+<li><a href="http://www.r-bloggers.com/visualizing-principal-components/" time_added="1356371205" tags="">Visualizing Principal Components | (R news & tutorials)</a></li>
 
 
 
@@ -268,12 +290,15 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 <li><a href="http://blog.newsle.com/2013/02/01/text-classification-and-feature-hashing-sparse-matrix-vector-multiplication-with-cython/" time_added="1359735538" tags="ml">Text Classification and Feature Hashing: Sparse Matrix-Vector Multiplicatio</a></li>
 <li><a href="http://nltk.org/book/ch03.html" time_added="1363099932" tags="data sources">nltk.org/book/ch03.html</a></li>
 <li><a href="http://andybromberg.com/sentiment-analysis-python/" time_added="1363372090" tags="ml">Second Try: Sentiment Analysis in Python : Andy Bromberg</a></li>
+<li><a href="http://blog.mashape.com/post/48946187179/list-of-25-natural-language-processing-apis" time_added="1389191093" tags="">List of 25 Natural Language Processing APIs | Mashape Blog</a></li>
+<li><a href="http://www.johnmyleswhite.com/notebook/2009/02/25/text-processing-in-r/" time_added="1406321391" tags="">Text Processing in R</a></li>
 
 
 
 #### Image Processing
 
 <li><a href="http://t.co/i7v6M5eO" time_added="1356487869" tags="ml">hmason: An algorithmic exploration of finding interesting parts of an image</a></li>
+<li><a href="http://blog.yhathq.com/posts/image-processing-with-scikit-image.html" time_added="1391111958" tags="">Image Processing with scikit-image</a></li>
 
 
 #### Social Media
@@ -321,6 +346,10 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 
 ## Data Stacks, Engineering
 
+
+<li><a href="https://github.com/rickysaltzer/impala-in-action" time_added="1389815401" tags="">rickysaltzer/impala-in-action · GitHub</a></li>
+<li><a href="http://tepid.org/tech/01-aurora-mesos-cluster/" time_added="1390924821" tags="">"Setting up an Apache Aurora/Mesos Cluster with Vagrant" blog post by @Nutt</a></li>
+<li><a href="http://www.michaelnielsen.org/ddi/why-bloom-filters-work-the-way-they-do/" time_added="1391273974" tags="">Why Bloom filters work the way they do | DDI</a></li>
 <li><a href="http://rarestblog.com/blog/2013/02/15/redshift-postgresql-in-the-cloud/" time_added="1360968719" tags="big data,cloud">Redshift: PostgreSQL-like in the cloud (benchmark) - RarestBlog</a></li>
 <li><a href="http://ow.ly/swSpj" time_added="1389625033" tags="">Impala performance: Now faster on @ParquetFormat than an analytic DBMS on i</a></li>
 <li><a href="http://blog.cloudera.com/blog/2013/01/a-guide-to-python-frameworks-for-hadoop/" time_added="1357665988" tags="big data">A Guide to Python Frameworks for Hadoop | Apache Hadoop for the Enterprise </a></li>
@@ -360,6 +389,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 ## How-I-Did-It
 
 
+<li><a href="http://www.brentozar.com/archive/2013/07/on-bobcats-per-100-orders-and-other-spurious-metrics/" time_added="1388673406" tags="">http://www.brentozar.com/archive/2013/07/on-bobcats-per-100-orders-and-othe</a></li>
 <li><a href="http://t.co/4QHgFG70Ag" time_added="1362377628" tags="data science">How and why LinkedIn is becoming an engineering powerhouse dlvr.it/324Dbg</a></li>
 <li><a href="http://blog.luckyoyster.com/post/33592990831/data-mining-the-web-100-worth-of-priceless" time_added="1350492020" tags="big data,data science">Lucky Oyster - Thought Pearls — Data Mining the Web: $100 Worth of Priceles</a></li>
 <li><a href="http://t.co/qtRg4Dp1" time_added="1358946401" tags="ml">ogrisel: How @evernote uses scikit-learn to automatically tell recipes apar</a></li>

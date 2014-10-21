@@ -32,6 +32,7 @@ http://seriouspony.com/blog/2013/10/4/presentation-skills-considered-harmful
 
 
 <li><a href="http://www.hilarymason.com/speaking/speaking-entertain-dont-teach/" time_added="1363582890" tags="brand">» Speaking: Entertain, Don’t Teach hilarymason.com</a></li>
+<li><a href="http://www.inc.com/geoffrey-james/8-conversational-habits-that-kill-credibility.html" time_added="1393009527" tags="">8 Conversational Habits That Kill Credibility | Inc.com</a></li>
 
 Blog meta
 	Who is my audience?

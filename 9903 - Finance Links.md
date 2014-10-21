@@ -23,6 +23,10 @@
 <li><a href="http://www.independent.ie/business/irish/dan-white-the-economic-return-of-iceland-has-proved-that-the-joke-was-on-us-3327164.html" time_added="1356045474" tags="finance,important">Dan White: The economic return of Iceland has proved that the joke was on u</a></li>
 <li><a href="http://www.nytimes.com/2012/12/09/opinion/sunday/those-crazy-indemnity-forms-we-all-sign.html" time_added="1355088662" tags="finance,hn">Those Crazy Indemnity Forms We All Sign - NYTimes.com</a></li>
 <li><a href="http://mathbabe.org/2012/12/20/nate-silver-confuses-cause-and-effect-ends-up-defending-corruption/" time_added="1356045178" tags="data science">Nate Silver confuses cause and effect, ends up defending corruption « mathb</a></li>
+<li><a href="http://www.mpettis.com/2012/12/28/the-imf-on-overinvestment/" time_added="1358174319" tags="">The IMF on overinvestment</a></li>
+<li><a href="http://deadspin.com/nobody-wants-to-host-the-2022-olympics-1582151092" time_added="1401285235" tags="">Nobody Wants To Host The 2022 Olympics</a></li>
+<li><a href="http://www.theatlantic.com/business/archive/2014/04/greed-is-good-a-300-year-history-of-a-dangerous-idea/360265/" time_added="1396897220" tags="">A History of How Greed Became 'Good' The pursuit of commercial self-interes</a></li>
+
 
 
 * http://www.nakedcapitalism.com/2014/09/sec-coverup-private-equity-worse-tbtf-banks.html
@@ -32,6 +36,7 @@
 
 ### Housing, Foreclosures
 
+<li><a href="https://www.jacobinmag.com/2014/02/the-rent-is-too-damn-high-2" time_added="1392927565" tags="">https://www.jacobinmag.com/2014/02/the-rent-is-too-damn-high-2</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/01/another-nightmare-zombie-title-shows-how-servicer-refusal-to-foreclose-hurts-stressed-homeowners-and-communities.html" time_added="1357867946" tags="finance,hn">Another Nightmare, “Zombie Title” Shows How Servicer Refusal to Foreclose H</a></li>
 <li><a href="http://abigailcfield.com/?p=1548" time_added="1354544557" tags="finance">HousingWire Propaganda Not To Be Believed, Part 1: Re-Analyzing the Data « </a></li>
 <li><a href="http://www.nakedcapitalism.com/2012/12/the-grey-lady-voices-some-skepticism-about-coming-ipo-of-single-family-rental-player-silver-lake.html" time_added="1355284115" tags="finance">The Grey Lady Voices Some Skepticism About IPO of Single Family Rental Play</a></li>
@@ -53,12 +58,20 @@
 * http://www.npr.org/blogs/money/2014/10/16/356176018/the-most-popular-jobs-for-the-rich-middle-class-and-poor
 * http://mobile.nytimes.com/2014/10/19/opinion/sunday/a-rate-cap-for-all-consumer-loans.html
 
+
+<li><a href="http://www.theatlantic.com/business/archive/2014/03/my-life-as-a-retail-worker-nasty-brutish-and-cheap/284332/" time_added="1394560947" tags="">My Life as a Retail Worker: Nasty, Brutish, and Cheap - Joseph Williams - T</a></li>
+<li><a href="http://www.cbc.ca/news/business/world-s-85-richest-earn-more-than-3-5-billion-poorest-un-1.2717114" time_added="1406314948" tags="">World's 85 richest earn more than 3.5 billion poorest: UN report</a></li>
 <li><a href="http://www.nakedcapitalism.com/2014/01/wolf-richter-chart-true-representation-employment-crisis-country.html" time_added="1389327292" tags="">Wolf Richter: “This Chart Is A True Representation Of The Employment Crisis</a></li>
 <li><a href="http://economistsview.typepad.com/economistsview/2012/12/why-next-to-no-political-reaction-to-the-second-gilded-age.html" time_added="1356891135" tags="domestic,finance,hn">Economist's View: Why Next to No Political Reaction to the Second Gilded Ag</a></li>
 <li><a href="http://www.nytimes.com/2013/01/13/sunday-review/americas-productivity-climbs-but-wages-stagnate.html?hp&gwh=9E28F2DEFD56B1AFACC4B1107BF05372" time_added="1358028713" tags="finance,hn">America’s Productivity Climbs, but Wages Stagnate - NYTimes.com</a></li>
 <li><a href="http://www.stratfor.com/weekly/crisis-middle-class-and-american-power" time_added="1357707323" tags="domestic,finance,hn,important">The Crisis of the Middle Class and American Power | Stratfor</a></li>
 <li><a href="http://money.cnn.com/2013/02/26/news/economy/over-50-unemployables/index.html?iid=HP_LN" time_added="1361939833" tags="health,hn">Workers over 50 are the new 'unemployables' - Feb. 26, 2013</a></li>
-
+<li><a href="http://www.huffingtonpost.com/kathleen-ann/american-used-to-haves_b_4732434.html" time_added="1391888036" tags="">I'm a Member of the American 'Used-to-Haves' | Kathleen Ann</a></li>
+<li><a href="http://www.nytimes.com/2014/02/18/us/detroit-tries-to-get-a-clear-picture-of-its-blight.html?hp" time_added="1392750309" tags="">A Picture of Detroit Ruin, Street by Forlorn Street</a></li>
+<li><a href="http://www.salon.com/2014/03/16/there_is_no_meritocracy_its_just_the_1_percent_and_the_game_is_rigged/" time_added="1395116893" tags="">There is no meritocracy: It’s just the 1 percent, and the game is rigged - </a></li>
+<li><a href="http://elitedaily.com/life/much-money-making-right-now/" time_added="1393995309" tags="">You Don't Have To Be Rich In Your 20s: How Much Money You Should Actually B</a></li>
+<li><a href="http://www.nytimes.com/2014/02/16/fashion/millennials-internships.html?_r=0" time_added="1392591456" tags="">Millennials Feel Trapped in a Cycle of Internships With Little Pay and No J</a></li>
+<li><a href="http://mag.newsweek.com/2014/02/07/why-thomas-jefferson-favored-profit-sharing.html?piano_t=1" time_added="1394038632" tags="">Why Thomas Jefferson Favored Profit Sharing - Newsweek</a></li>
 
 
 
@@ -86,6 +99,7 @@
 <li><a href="http://flightfox.com/rtw" time_added="1348860362" tags="hn">Fly to 6 Continents in Style</a></li>
 <li><a href="http://money.cnn.com/2013/01/15/pf/taxes/home-office-tax-deduction/index.html?iid=HP_LN" time_added="1358302591" tags="finance">Claiming a home office deduction is about to get easier - Jan. 15, 2013</a></li>
 <li><a href="http://lifehacker.com/5989558/top-10-ways-you-can-waste-money-without-realizing-it" time_added="1363322948" tags="finance">Top 10 Ways You Can Waste Money Without Realizing It</a></li>
+<li><a href="http://systematicinvestor.wordpress.com/" time_added="1394166001" tags="">Systematic Investor | Systematic Investor Blog</a></li>
 
 
 

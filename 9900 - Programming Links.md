@@ -20,6 +20,9 @@
 <li><a href="http://msmvps.com/blogs/jon_skeet/archive/2012/11/24/stack-overflow-question-checklist.aspx" time_added="1353945390" tags="hn">Stack Overflow question checklist - Jon Skeet: Coding Blog</a></li>
 <li><a href="http://t.co/PVU9v18p" time_added="1354324336" tags="hn">mvelic: Goodness: what ever you are doing, stop and read this - How Complex</a></li>
 <li><a href="http://www.alexmedearis.com/software-development-is-bad-for-your-health-and-what-you-can-do-about-it/" time_added="1362675483" tags="health,hn">Software Development Is Bad For Your Health (And What You Can Do About It) </a></li>
+<li><a href="http://www.datatau.com/item?id=934" time_added="1389374460" tags="">Got 15 minutes and want to learn Git?: datatau.com/item?id=934</a></li>
+<li><a href="http://arstechnica.com/information-technology/2014/01/bitrot-and-atomic-cows-inside-next-gen-filesystems/#image-1" time_added="1389806506" tags="">Bitrot and atomic COWs: Inside “next-gen” filesystems | Ars Technica</a></li>
+<li><a href="http://feedproxy.google.com/~r/HighScalability/~3/9cHi9ieSvDQ/peter-norvigs-9-master-steps-to-improving-a-program.html" time_added="1393402417" tags="">Peter Norvig's 9 Master Steps to Improving a Program</a></li>
 
 
 * http://erniepark.com/software/2014/08/20/10-practical-software-engineer-tips.html
@@ -31,6 +34,8 @@
 
 ## Learning to Code
 
+
+<li><a href="http://j.mp/1jSssN8" time_added="1390752030" tags="">Debunking the "10,000 hours rule" myth – the psychology of what it actually</a></li>
 <li><a href="http://googleresearch.blogspot.com/2013/03/scaling-computer-science-education.html" time_added="1363200081" tags="academia,hn">Research Blog: Scaling Computer Science Education</a></li>
 <li><a href="http://cli.learncodethehardway.org/" time_added="1389365859" tags="">Learn Code The Hard Way -- Books And Courses To Learn To Code</a></li>
 <li><a href="http://tech.yipit.com/2012/08/21/how-i-taught-myself-to-code-in-8-weeks/" time_added="1348860447" tags="hn">How I Taught Myself to Code in 8 Weeks - Yipit Django Blog</a></li>
@@ -44,6 +49,7 @@
 <li><a href="http://thecodingbrain.wordpress.com/2012/12/14/evidence-suggesting-that-young-computer-programmers-have-bilingual-brains/" time_added="1355767599" tags="hn,important,life hacker">Evidence suggesting that young computer programmers have “bilingual brains”</a></li>
 <li><a href="http://thenextweb.com/dd/2012/10/21/so-you-want-to-be-a-programmer-huh-heres-25-ways-to-learn-online/" time_added="1350839022" tags="hn">27 Ways to Learn to Program Online</a></li>
 <li><a href="http://blog.studentrnd.org/post/34556989032/tech-education-doesnt-happen-in-the-classroom" time_added="1351534970" tags="academia">Tech Education Doesn't Happen in the Classroom</a></li>
+<li><a href="http://nyeggen.com/blog/2014/06/07/b-trees-are-overrated-try-hashing-instead/" time_added="1402352971" tags="">http://nyeggen.com/blog/2014/06/07/b-trees-are-overrated-try-hashing-instead/?utm_content=buffer42b19&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer</a></li>
 
 
 * https://education.github.com/pack
@@ -91,6 +97,8 @@
 
 ## Programming Teams,  Large Projects, Project Management
 
+
+<li><a href="https://community.uservoice.com/blog/trello-google-docs-product-management/" time_added="1390416673" tags="">How we use Trello & Google Docs to make UserVoice better every day | UserCe</a></li>
 <li><a href="http://www.cio.com/article/721628/Air_Force_scraps_massive_ERP_project_after_racking_up_1_billion_in_costs" time_added="1355285478" tags="hn">Air Force scraps massive ERP project after racking up $1 billion in costs C</a></li>
 <li><a href="http://blog.clarity.fm/best-collaboration-tools-for-working-with-remote-teams/" time_added="1355281919" tags="personal tech">Best Collaboration Tools For Remote Teams | Clarity.fm Blog</a></li>
 <li><a href="http://thecodist.com/article/what_programmers_want_is_less_stupid_and_more_programming" time_added="1352523371" tags="hn">The Codist</a></li>
@@ -121,6 +129,10 @@
 
 ## Cloud Computing
 
+
+<li><a href="http://www.blog.juliaferraioli.com/2014/01/julia-on-google-compute-engine-working.html" time_added="1390673210" tags="">Julia on Google Compute Engine: working with files | never a straight line</a></li>
+<li><a href="http://redmonk.com/sogrady/2013/12/09/updated-iaas-pricing/" time_added="1389471319" tags="">Updated IaaS Pricing Patterns and Trends – tecosystems</a></li>
+<li><a href="https://www.openshift.com/blogs/its-2014-and-paas-is-eating-the-world" time_added="1391461975" tags="">It's 2014 and PaaS is Eating the World | OpenShift by Red Hat</a></li>
 <li><a href="https://ramcloud.stanford.edu/wiki/display/ramcloud/RAMCloud" time_added="1363200529" tags="big data,cloud,hn">RAMCloud - RAMCloud Project - Confluence</a></li>
 <li><a href="http://www.infoworld.com/d/applications/automating-the-cloud-one-website-script-time-212966" time_added="1363202213" tags="academia,life hacker,personal tech">Automating the cloud, one website script at a time | Applications - InfoWor</a></li>
 <li><a href="https://www.dotcloud.com/ebook_download_now.html" time_added="1362595129" tags="cloud">dotCloud - PaaS under the hood - download the book</a></li>
@@ -168,6 +180,7 @@
 ## Languages
 
 <li><a href="http://rubytune.com/cheat" time_added="1357934030" tags="hn">rubytune — rails performance tuning, emergency troubleshooting, server and </a></li>
+<li><a href="http://tech.coursera.org/blog/2014/02/18/why-we-love-scala-at-coursera/" time_added="1392750272" tags="">Why we love Scala at Coursera - Coursera Technology</a></li>
 
 
 
@@ -248,6 +261,14 @@
 ## SQL and Databases
 
 
+
+
+<li><a href="http://t.co/ZA3MOe15" time_added="1357660034" tags="">mrdenny: Reading: http://t.co/ZA3MOe15 Selective XML Index - Secondary Sele</a></li>
+<li><a href="http://t.co/wHxcpOOC" time_added="1356371201" tags="">BrentOzarULTD: New post: sp_BlitzIndex™ Holiday Week Edition http://t.co/wH</a></li>
+<li><a href="http://blog.kejser.org/2014/01/12/clustered-indexes-vs-heaps/" time_added="1391784478" tags="">Clustered Indexes vs. Heaps. By Thomas Kejs</a></li>
+<li><a href="http://blogs.msdn.com/b/queryoptteam/archive/2006/06/01/613516.aspx" time_added="1388504463" tags="">Fun for the day - Automated Auto-Indexing! - Tips, Tricks, and Advice from </a></li>
+<li><a href="http://www.brentozar.com/archive/2013/03/landsofamerica-com-elastic-data-warehouse/">New post: LandsofAmerica.com - Elastic Data Warehouse - A Case Study brento</a></li>
+<li><a href="http://t.co/HgqPpPdA" time_added="1351945053" tags="">carlosbossy: Tenets of a Real-time Data Warehouse http://t.co/HgqPpPdA</a></li>
 <li><a href="http://sqlmd.wordpress.com/2013/02/12/powershell-basic-sql-backup-t-sql-tuesday-39/" time_added="1360687014" tags="sql">Powershell Basic SQL Backup – T-SQL Tuesday #39 « Mike Donnelly, SQLMD</a></li>
 <li><a href="http://t.co/tv7aklkg" time_added="1354983942" tags="sql">josephsack: [Weekend Blog] Exploring Column Correlation and Cardinality Est</a></li>
 <li><a href="http://blogs.msdn.com/b/buckwoody/archive/2013/01/08/microsoft-windows-azure-disaster-recovery-options-for-on-premises-sql-server.aspx" time_added="1357661055" tags="sql">Microsoft Windows Azure Disaster Recovery Options for On-Premises SQL Serve</a></li>

@@ -41,6 +41,9 @@ http://www.insure.com/articles/interactivetools
 
 ## Sharing Economy
 
+<li><a href="http://www.geekwire.com/2014/portland-ridesharing/" time_added="1388764339" tags="">Why Portland is keeping Uber out of the Rose City - GeekWire</a></li>
+<li><a href="http://seattletimes.com/html/localnews/2023047825_rideserviceinsurancexml.html" time_added="1394036197" tags="">Seattle City Council worries about gaps in ride-service insurance | Local N</a></li>
+
 ### Government
 
 * Libraries - http://online.wsj.com/news/articles/SB20001424052702303996604580086191560891202?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB20001424052702303996604580086191560891202.html

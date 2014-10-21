@@ -116,6 +116,11 @@ Emphasize what we don't know
 <li><a href="http://t.co/vGsWXQ0U" time_added="1355321070" tags="finance,health,hn,important">TomRaftery: US intelligence community warns of rising climate security thre</a></li>
 <li><a href="http://arstechnica.com/science/2012/12/the-grid-of-2030-all-renewable-90-percent-of-the-time/" time_added="1355502810" tags="hn,personal">The grid of 2030: all renewable, 90 percent of the time | Ars Technica</a></li>
 <li><a href="http://t.co/T6aeGjm5" time_added="1356308008" tags="personal">Meest: Go see Chasing Ice. It's very real. RT @HuffingtonPost: West Antarct</a></li>
+<li><a href="http://natmonitor.com/2014/01/27/current-drought-is-the-worst-in-californias-history-and-may-get-much-worse/" time_added="1390855564" tags="">Current drought is the worst in California’s history and may get much worse</a></li>
+<li><a href="http://mojo.ly/1aXK33Q" time_added="1390853457" tags="">How power companies rip you off mojo.ly/1aXK33Q pic.twitter.com/yLonqiubBT</a></li>
+<li><a href="http://www.motherjones.com/environment/2014/05/west-antarctic-ice-sheet-collapse" time_added="1400008256" tags="">This Is What a Holy Shit Moment for Global Warming Looks Like | Mother Jone</a></li>
+<li><a href="http://t.co/vkXL2fQI" time_added="1351515856" tags="">DenisGobo: Google Launches Crisis Map for Hurricane Sandy http://t.co/vkXL</a></li>
+<li><a href="http://cliffmass.blogspot.com/2012/10/hurricane-sandys-transformation.html" time_added="1351515859" tags="">Cliff Mass Weather Blog: Hurricane Sandy's Transformation</a></li>
 
 
 

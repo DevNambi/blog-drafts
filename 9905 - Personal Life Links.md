@@ -10,13 +10,24 @@
 <li><a href="http://offbeathome.com/2013/02/thrifting-tips" time_added="1360198488" tags="domestic">I wear your granddad's clothes, I look incredible: Avoiding undergarments a</a></li>
 <li><a href="http://t.co/ngnb0Cph" time_added="1360264369" tags="domestic">hmason: Donald Oresman’s Renaissance-Style Library http://t.co/ngnb0Cph #li</a></li>
 <li><a href="http://lifehacker.com/5978851/how-to-automate-your-discounts-and-always-get-the-best-price" time_added="1362663611" tags="domestic,finance,important">How to Automate Your Discounts and Always Get the Best Price</a></li>
+<li><a href="http://offbeathome.com/2014/03/style-rules" time_added="1394145450" tags="">Dress to impress yourself: the 10 style rules I live by</a></li>
 
-* http://www.nytimes.com/2014/10/20/opinion/paul-krugman-amazons-monopsony-is-not-ok.html
+
+
+
+
+
 * http://www.businessinsider.com/use-a-fake-location-for-cheap-airfare-2014-6
 
 
 ## Parenting
 
+
+<li><a href="http://www.nytimes.com/2014/04/12/opinion/sunday/raising-a-moral-child.html?hp&rref=opinion" time_added="1397424667" tags="">Raising a Moral Child</a></li>
+<li><a href="http://online.wsj.com/articles/the-wrong-way-to-treat-child-geniuses-1401484790" time_added="1401635808" tags="">http://online.wsj.com/articles/the-wrong-way-to-treat-child-geniuses-1401484790</a></li>
+<li><a href="http://t.co/hSz3NlqL" time_added="1354113485" tags="">peschkaj: Artisanal Baby Naming. http://t.co/hSz3NlqL</a></li>
+<li><a href="http://thoughtcatalog.com/brianna-wiest/2014/01/18-things-we-should-have-been-taught-as-teenagers/" time_added="1390702787" tags="">18 Things We Should Have Been Taught As Teenagers | Thought Catalog</a></li>
+<li><a href="http://www.huffingtonpost.com/emily-mendell/the-bubble-list_b_4783336.html?utm_hp_ref=tw" time_added="1392770883" tags="">The Bubble List: 31 Things My Sons Should Be Able to Do Before They Move Ou</a></li>
 <li><a href="http://t.co/PIyZmMu3bY" time_added="1389566979" tags="">Teens aren’t abandoning “social.” They’re just using the word correctly. — </a></li>
 <li><a href="http://www.huffingtonpost.com/janell-burley-hofmann/iphone-contract-from-your-mom_b_2372493.html" time_added="1357326129" tags="domestic">Janell Burley Hofmann: To My 13-Year-Old, An iPhone Contract From Your Mom,</a></li>
 <li><a href="http://offbeathome.com/2012/12/gifts-for-geeks" time_added="1354740750" tags="personal">Gifts for every geeky girl and boy | Offbeat Home</a></li>
@@ -75,6 +86,8 @@
 ## Relationships
 
 
+<li><a href="http://offbeathome.com/2014/07/care-about-myself" time_added="1406048722" tags="">How I learned to care less about my family and more about myself</a></li>
+<li><a href="http://offbeathome.com/2014/04/discussing-deal-breakers" time_added="1396619631" tags="">How do you talk about deal-breaker topics?</a></li>
 <li><a href="http://j.mp/18SdKT6" time_added="1385935945" tags="domestic,important">Scientists explore how the “cuddle hormone” oxytocin may help build lasting</a></li>
 <li><a href="http://arstechnica.com/science/2013/11/dating-still-segregated-but-people-cross-racial-lines-once-contacted/" time_added="1384033688" tags="domestic">http://arstechnica.com/science/2013/11/dating-still-segregated-but-people-c</a></li>
 <li><a href="http://www.nytimes.com/2013/06/23/opinion/sunday/coontz-the-disestablishment-of-marriage.html?pagewanted=2&ref=general&src=me" time_added="1372053071" tags="domestic">The Disestablishment of Marriage - NYTimes.com</a></li>
@@ -108,6 +121,11 @@
 ## Housing
 
 
+<li><a href="http://offbeathome.com/2014/07/coolest-hammocks" time_added="1405605067" tags="">13 awesome hammocks that are just begging for the best nap ever</a></li>
+<li><a href="http://www.nytimes.com/2014/01/23/garden/freedom-in-704-square-feet.html?src=me&ref=general&_r=0" time_added="1390506517" tags="">Freedom in 704 Square Feet - NYTimes.com</a></li>
+<li><a href="http://www.webstaurantstore.com/2701/cast-iron-skillets-and-pots.html" time_added="1389774907" tags="">Cast Iron Skillet | Cast Iron Pot - WEBstaurant Store</a></li>
+<li><a href="http://www.reddit.com/r/LifeProTips/comments/1e55eg/lpt_buy_restaurantgrade_stuff_it_lasts/" time_added="1389774914" tags="">LPT: Buy restaurant-grade stuff. It lasts practically forever, and you can </a></li>
+<li><a href="http://feedproxy.google.com/~r/SeattleBubble/~3/0HhTtZQ9FrY/" time_added="1398706906" tags="">Alternative Brokerages Flourishing Around Seattle</a></li>
 <li><a href="http://www.nytimes.com/2013/02/07/garden/trees-that-make-the-best-neighbors.html?hpw" time_added="1360390695" tags="domestic">Trees That Make the Best Neighbors - NYTimes.com</a></li
 <li><a href="http://shelterkraft.com/residential-housing/gallery/" time_added="1360029798" tags="domestic">ShelterKraft Werks » Gallery</a></li>
 <li><a href="http://seattletimes.com/html/pacificnw/2020198941_pacificpnwl03.html" time_added="1359925675" tags="domestic,finance">Tour the house that Craigslist built | Pacific NW | The Seattle Times</a></li>
@@ -121,6 +139,59 @@
 <li><a href="http://offbeathome.com/2013/06/vacuum-your-heat-ducts" time_added="1371730587" tags="domestic,health">Vacuum out your heat ducts right now | Offbeat Home</a></li>
 <li><a href="http://offbeathome.com/2013/02/no-cost-home-updates" time_added="1360098595" tags="domestic">5 no-cost ways to update and refresh your home right now | Offbeat Home</a></li>
 <li><a href="http://www.nytimes.com/2013/04/28/business/housing-markets-future-has-many-variables.html" time_added="1367378102" tags="domestic,finance,important">Housing Market’s Future Has Many Variables - NYTimes.com</a></li>
+<li><a href="http://lifehacker.com/5802440/add-plenty-of-storage-to-your-ikea-desk-with-this-clever-diy-hack" time_added="1391901721" tags="">Add Extra Storage to Your Drawer-less Desk with this Clever DIY</a></li>
+<li><a href="http://seattletimes.com/html/pacificnw/2023439955_0511nwlhybridcentraldistrictxml.html" time_added="1399666055" tags="">Prefab home is affordable, light, clean and green | Pacific NW | The Seattl</a></li>
+<li><a href="http://www.expatistan.com/cost-of-living/comparison/seattle/vancouver?" time_added="1404160946" tags="">http://www.expatistan.com/cost-of-living/comparison/seattle/vancouver?</a></li>
+<li><a href="http://offbeathome.com/2014/03/offbeat-house-hunters" time_added="1395254584" tags="">Offbeat House Hunters: Our experience home shopping on a budget</a></li>
+<li><a href="http://billmoyers.com/2014/02/24/are-tiny-houses-the-key-to-fighting-homelessness/" time_added="1393303187" tags="">Are Tiny Houses the Key to Fighting Homelessness? | Activism, Blog | BillMo</a></li>
+<li><a href="http://www.nytimes.com/2014/03/09/realestate/high-tech-solutions-for-house-and-apartment.html?hp" time_added="1394336665" tags="">High-Tech Solutions for House and Apartment - NYTimes.com</a></li>
+<li><a href="http://diply.com/diy-home-decor/15-unbelievably-smart-ways-remodel-your-home/38842?lid=n1" time_added="1401195795" tags="">15 Unbelievably Smart Ways to Remodel Your Home! | Diply</a></li>
+<li><a href="http://imgur.com/a/ApX9K" time_added="1399398445" tags="">Shipping Container Homes - Imgur</a></li>
+<li><a href="http://www.contourcrafting.org/" time_added="1390924963" tags="">Printing custom homes. The on-ramp to EXTREMELY inexpensive, high quality,</a></li>
+<li><a href="http://offbeathome.com/2014/01/homesteading-as-revolution" time_added="1391013129" tags="">Come the revolution: Homesteading as an act of radical resistance</a></li>
+
+
+
+
+## Seattle
+
+<li><a href="http://seattleoddity.tumblr.com/" time_added="1389220456" tags="">http://seattleoddity.tumblr.com/</a></li>
+<li><a href="http://fuckyeahseattle.tumblr.com/" time_added="1389220463" tags="">http://fuckyeahseattle.tumblr.com/</a></li>
+<li><a href="http://exploreseattle.tumblr.com/" time_added="1389220464" tags="">http://exploreseattle.tumblr.com/</a></li>
+<li><a href="http://seattlewiki.net/All_Pages" time_added="1389220746" tags="">All Pages</a></li>
+<li><a href="http://seattletimes.com/html/outdoors/2022625892_outdoorsikeparkxml.html" time_added="1389332682" tags="">Discover winter bargains on cozy state-park cabins | Outdoors | The Seattle</a></li>
+<li><a href="http://seattletimes.com/html/localnews/2022721720_spuratehikexml.html" time_added="1390425042" tags="">Seattle utility rates could climb for years</a></li>
+<li><a href="http://cliffmass.blogspot.com/2012/12/does-it-really-rain-all-time-in-seattle.html" time_added="1354627380" tags="">Cliff Mass Weather Blog: Does it REALLY rain all the time in Seattle?</a></li>
+<li><a href="http://seattletimes.com/html/localnews/2023084603_popefrancislocalxml.html" time_added="1394394783" tags="">Washington Catholics reflect on first year of ‘people’s pope’</a></li>
+<li><a href="http://seattletimes.com/html/editorials/2022585995_editseawallxml.html" time_added="1388764082" tags="">Editorial: Disturbing seawall news — a $30 million inflation</a></li>
+<li><a href="http://seattletimes.com/html/localnews/2023475883_berthatutorxml.html" time_added="1398702413" tags="">Tunnel partner known to fight tough with public agencies | Local News | The</a></li>
+<li><a href="http://seattlehacks.com/" time_added="1365708010" tags="to_read">Seattle Hacks - Home</a></li>
+<li><a href="http://www.nytimes.com/2014/04/12/us/bookstores-in-seattle-soar-and-embrace-an-old-nemesis-amazoncom.html?src=me&ref=general&_r=0" time_added="1397332306" tags="">Bookstores in Seattle Soar, and Embrace an Old Nemesis: Amazon.com - NYTime</a></li>
+<li><a href="http://seattletimes.com/html/localnews/2023636175_westneat18xml.html" time_added="1400453443" tags="">One Seattle tax solution: impact fees | Danny Westneat | Local News | The S</a></li>
+<li><a href="http://seattle.started.in/" time_added="1404419659" tags="">http://seattle.started.in/</a></li>
+<li><a href="http://seattletimes.com/html/localnews/2023927693_orcastatusxml.html" time_added="1403736087" tags="">http://seattletimes.com/html/localnews/2023927693_orcastatusxml.html</a></li>
+<li><a href="http://www.buzzfeed.com/adamellis/things-you-miss-after-moving-away-from-portland" time_added="1399273994" tags="">21 Things You Miss After Moving Away From Portland</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

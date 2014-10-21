@@ -11,12 +11,60 @@
 * http://arstechnica.com/security/2014/10/fbi-director-to-citizens-let-us-spy-on-you/
 * http://www.bostonglobe.com/ideas/2014/10/18/vote-all-you-want-the-secret-government-won-change/jVSkXrENQlu8vNcBfMn9sL/story.html
 
+<li><a href="https://firstlook.org/theintercept/2014/02/14/ongoing-abuse-state-secrets-privilege/" time_added="1392591442" tags="">Obama DOJ's New Abuse of State-Secrets Privilege Revealed - The Intercept</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2014/01/report-nsa-bulk-metadata-collection-has-no-discernible-impact/" time_added="1389637719" tags="">Report: NSA bulk metadata collection has “no discernible impact” | Ars Tech</a></li>
+<li><a href="http://arstechnica.com/security/2014/01/nsa-uses-covert-radio-transmissions-to-monitor-100000-bugged-computers/" time_added="1389806558" tags="">NSA uses covert radio transmissions to monitor thousands of bugged computer</a></li>
+<li><a href="https://medium.com/p/76d9913c6011" time_added="1392258435" tags="">What tear gas taught me about Twitter and the NSA Medium</a></li>
+<li><a href="http://www.wired.com/2014/04/nsa-heartbleed/" time_added="1397148005" tags="">Has the NSA Been Using the Heartbleed Bug as an Internet Peephole? | Threat</a></li>
+<li><a href="http://www.nytimes.com/2014/01/08/technology/webcams-see-all-tortoise-watch-your-back.html" time_added="1389151658" tags="">It's not just the NSA. The real boom is private citizens monitoring everyth</a></li>
+<li><a href="http://propub.ca/LeakyApps" time_added="1391013013" tags="">“Top secret” document suggests NSA sees your smartphone as “magical” source</a></li>
+<li><a href="http://www.wired.com/threatlevel/2014/01/how-the-us-almost-killed-the-internet/" time_added="1389110016" tags="">How the #NSA Almost Killed the Internet | Threat Level | Wired.com wired.co</a></li>
+<li><a href="http://t.co/CPUhFNhwwx" time_added="1390847205" tags="">http://www.theguardian.com/world/2014/jan/27/nsa-gchq-smartphone-app-angry-</a></li>
+<li><a href="https://twitter.com/froomkin/status/430729046943875072" time_added="1391529554" tags="">If you needed proof that NSA loyalists like @RepMikeRogers would criminalis</a></li>
+<li><a href="https://firstlook.org/theintercept/article/2014/02/10/the-nsas-secret-role/" time_added="1392098538" tags="">The NSA’s Secret Role in the U.S. Assassination Program The Intercept</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2014/07/rights-groups-decry-new-nsa-leak-snooping-on-muslim-americans-e-mail/" time_added="1404931383" tags="">http://arstechnica.com/tech-policy/2014/07/rights-groups-decry-new-nsa-leak-snooping-on-muslim-americans-e-mail/</a></li>
+<li><a href="https://t.co/3PH8LvQEWC" time_added="1409007461" tags="">https://firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secre</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2014/08/a-twisted-history-how-a-reagan-era-executive-order-led-to-mass-spying/" time_added="1409205777" tags="">The executive order that led to mass spying, as told by NSA alumni | Ars Te</a></li>
+<li><a href="http://feedly.com/e/fI-7IVs9" time_added="1391010984" tags="">Report: FDA Documents Show Decade of Unsuccessful Attempts to Control Farm </a></li>
+<li><a href="http://fcw.com/articles/2014/07/24/it-flop-at-ssa.aspx" time_added="1406658429" tags="">Six years and $300M later, the Social Security Administration hits "reset."</a></li>
+<li><a href="http://cliffmass.blogspot.com/2012/12/rebuilding-national-weather-service.html" time_added="1355150518" tags="">Cliff Mass Weather Blog: Rebuilding the National Weather Service</a></li>
+<li><a href="https://eff.org/r.o7v5" time_added="1405723039" tags="">Former State Dept official warns mass spying via Executive Order 12333 "vio</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2012/12/senator-introduces-bill-to-regulate-data-caps/" time_added="1356112792" tags="">Senator introduces bill to regulate data caps | Ars Technica</a></li>
+<li><a href="http://boingboing.net/2014/01/15/judge-rules-tsa-no-fly-procedu.html" time_added="1389841655" tags="">Judge rules TSA no-fly procedures unconstitutional - Boing Boing</a></li>
+<li><a href="http://www.nber.org/papers/w19858" time_added="1390834069" tags="">"The gains from being born into a county affected by the 1970 Clean Air Act</a></li>
+<li><a href="http://www.slate.com/blogs/future_tense/2014/07/15/documents_show_gchq_manipulating_online_information_like_web_polls_and_traffic.html" time_added="1405689549" tags="">Documents show GCHQ manipulating online information like Web polls and traf</a></li>
+<li><a href="http://www.nytimes.com/2013/01/05/world/americas/after-years-in-solitary-an-austere-life-as-uruguays-president.html?hp&_r=0" time_added="1357404415" tags="">After Years in Solitary, an Austere Life as Uruguay’s President - NYTimes.c</a></li>
+<li><a href="http://www.theatlantic.com/international/archive/2014/05/is-north-korea-right-about-us-human-rights-abuses/361589/" time_added="1399274309" tags="">Is North Korea Right About U.S. Human-Rights Abuses? - Matt Ford - The Atla</a></li>
 
 
-## Military
 
+
+## Military and CIA
+
+<li><a href="https://medium.com/war-is-boring/db72a8a23ccf" time_added="1405546931" tags="">Your Periodic Reminder That the V-22 Is a Piece of Junk — War is Boring — M</a></li>
 <li><a href="http://www.theatlantic.com/magazine/archive/2012/11/general-failure/309148/?single_page=true" time_added="1351513641" tags="important">General Failure - Thomas E. Ricks - The Atlantic</a></li>
 <li><a href="http://nypost.com/2013/12/22/70-navy-sailors-left-sickened-by-radiation-after-japan-rescue/" time_added="1387765471" tags="corruption,environment,health">Navy sailors have radiation sickness after Japan rescue | New York Post</a></li>
+<li><a href="http://seattletimes.com/html/nationworld/2022948672_apxunitedstatesyemendronestrike.html" time_added="1392922118" tags="">Report: US drone may have killed dozen civilians</a></li>
+<li><a href="http://www.huffingtonpost.com/2013/01/09/kbr-guilty-iraq-negligence_n_2436115.html" time_added="1358011297" tags="">KBR, Guilty In Iraq Negligence, Wants Taxpayers To Foot The Bill</a></li>
+<li><a href="http://www.theguardian.com/commentisfree/2013/dec/29/drones-us-military" time_added="1388356830" tags="">I worked on the US drone program. The public should know what really goes o</a></li>
+<li><a href="http://www.propublica.org/article/missing-in-action-us-military-slow-to-identify-service-members" time_added="1394336111" tags="">The Military is Leaving the Missing Behind - ProPublica</a></li>
+<li><a href="http://www.allgov.com/news/where-is-the-money-going/more-than-two-thirds-of-afghanistan-reconstruction-money-has-gone-to-one-company-dyncorp-international-140428?news=853017" time_added="1398739582" tags="">Where is the Money Going? - More than Two-Thirds of Afghanistan Reconstruct</a></li>
+<li><a href="http://dissenter.firedoglake.com/2014/04/28/state-department-gives-87-of-afghan-funds-to-only-five-recipients/" time_added="1398890826" tags="">State Department Gives 87% of Afghan Funds to Only Five Recipients | The Di</a></li>
+<li><a href="http://seattletimes.com/html/nationworld/2022570799_afghanbirthdaysxml.html" time_added="1389550808" tags="">In Afghanistan, Jan. 1 is everyone’s birthday | Nation & World | The Seattl</a></li>
+<li><a href="http://www.tomdispatch.com/blog/175790/" time_added="1389255054" tags="">Tomgram: Nick Turse, Special Ops Goes Global | TomDispatch</a></li>
+<li><a href="http://www.komonews.com/news/national/Costs-of-US-wars-linger-for-over-100-years-198972261.html" time_added="1363717384" tags="">Costs of U.S. wars linger for over 100 years | National & World News | Seat</a></li>
+<li><a href="http://www.nytimes.com/2014/01/16/us/program-to-end-homelessness-among-hits-milestone-in-arizona.html?hp" time_added="1389815414" tags="">A City With Beds for All Homeless Veterans</a></li>
+<li><a href="http://www.globalresearch.ca/why-the-washington-posts-new-ties-to-the-cia-are-so-ominous/5364709" time_added="1389774116" tags="">Why the Washington Post’s New Ties to the CIA Are So Ominous | Global Resea</a></li>
+<li><a href="http://www.npr.org/blogs/parallels/2014/04/02/297839429/-so-you-think-youre-smarter-than-a-cia-agent" time_added="1396459450" tags="">So You Think You're Smarter Than A CIA Agent : Parallels : NPR</a></li>
+<li><a href="http://www.nytimes.com/2014/08/01/opinion/The-CIAs-Reckless-Breach-of-Trust.html" time_added="1406919375" tags="">The C.I.A.’s Reckless Breach of Trust - NYTimes.com</a></li>
+<li><a href="http://www.nytimes.com/2013/04/07/world/asia/origins-of-cias-not-so-secret-drone-war-in-pakistan.html?hp&_r=0" time_added="1365290629" tags="important">Origins of C.I.A.’s Not-So-Secret Drone War in Pakistan - NYTimes.com</a></li>
+<li><a href="http://t.co/EM2EWsSe" time_added="1353951318" tags="">drewconway: OSS (U.S. intel agency during WWII) field manual for simple sab</a></li>
+<li><a href="http://www.motherjones.com/mojo/2014/01/new-memo-kissinger-gave-green-light-argentina-dirty-war" time_added="1389773993" tags="">New Memo: Kissinger Gave the "Green Light" for Argentina's Dirty War | Moth</a></li>
+<li><a href="http://www.nytimes.com/2013/08/27/world/middleeast/syria-assad.html?hp" time_added="1377550692" tags="important">Kerry Says Chemical Arms Attack in Syria Is ‘Undeniable’</a></li>
+<li><a href="http://www.nytimes.com/2013/08/18/world/asia/a-secret-race-for-abandoned-nuclear-material.html" time_added="1376777228" tags="important">A Secret Race for Abandoned Nuclear Material - NYTimes.com</a></li>
+
+
+
 
 * http://www.nakedcapitalism.com/2014/10/john-helmer-cia-bumbling-now.html
 * http://militaryprofessionalreadinglists.com/
@@ -32,18 +80,63 @@
 
 <li><a href="http://ow.ly/iPacF" time_added="1363121071" tags="domestic,finance">"Transit agencies across the state face a fiscal cliff, some have already g</a></li>
 <li><a href="http://seattletimes.com/html/localnews/2020628849_stateparksxml.html" time_added="1364092812" tags="domestic">At 100, state parks in grim state of disrepair | Local News | The Seattle T</a></li>
+<li><a href="http://www.nytimes.com/2014/03/01/us/coal-ash-spill-reveals-transformation-of-north-carolina-agency.html?hp" time_added="1393617712" tags="">Coal Ash Spill Shows How a Watchdog Was Defanged - NYTimes.com</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2013/02/georgia-bill-no-muni-broadband-in-areas-with-at-least-1-5mbps-service/" time_added="1360869855" tags="">Bill would ban muni broadband if one home in census tract gets 1.5Mbps | Ar</a></li>
+<li><a href="http://seattletimes.com/html/localnews/2022643357_pensionsreviewxml.html" time_added="1389412910" tags="">Dozens of Washington pensioners may be overpaid</a></li>
+<li><a href="http://seattletimes.com/html/localnews/2022626279_520costsxml.html" time_added="1389287561" tags="">http://seattletimes.com/html/localnews/2022626279_520costsxml.html</a></li>
+<li><a href="http://blogs.seattletimes.com/opinionnw/2014/01/23/pay-for-performance-coming-to-washington-social-services/" time_added="1390531756" tags="">Pay for performance coming to Washington social services? | Opinion Northwe</a></li>
+<li><a href="http://seattletimes.com/html/localnews/2022764349_jdlcolumn27xml.html" time_added="1390854369" tags="">Using smarts, we can defeat homelessness | Local News | The Seattle Times</a></li>
+<li><a href="http://rt.com/usa/west-virginia-chemical-emergency-606/" time_added="1389773768" tags="">http://rt.com/usa/west-virginia-chemical-emergency-606/</a></li>
+<li><a href="http://www.theguardian.com/commentisfree/2014/jan/13/west-virginia-chemical-spill-versus-bridgegate" time_added="1389711882" tags="">http://www.theguardian.com/commentisfree/2014/jan/13/west-virginia-chemical-spill-versus-bridgegate</a></li>
+<li><a href="http://www.geekwire.com/2012/big-positives-washingtons-social-purpose-corporations/" time_added="1401385662" tags="">http://www.geekwire.com/2012/big-positives-washingtons-social-purpose-corporations/</a></li>
 
 
 
 ## City/County
 
+<li><a href="http://www.npr.org/blogs/alltechconsidered/2014/03/04/285764961/frustrated-cities-take-high-speed-internet-into-their-own-hands" time_added="1394045599" tags="">Frustrated Cities Take High-Speed Internet Into Their Own Hands : All Tech </a></li>
+<li><a href="http://www.theatlanticcities.com/commute/2014/03/americas-cities-are-still-too-afraid-make-driving-unappealing/8564/" time_added="1394397544" tags="">"Tax[ing] the heck out of parking": the obvious winning modal shift strateg</a></li>
 
 
 
-## Police
+## Public Transit
 
+<li><a href="http://ideas.4brad.com/live-google-transit-directions-seriously-changes-value-transit" time_added="1403531704" tags="">http://ideas.4brad.com/live-google-transit-directions-seriously-changes-value-transit</a></li>
+<li><a href="http://flowingdata.com/2014/01/27/public-transit-times-in-major-cities/" time_added="1390836929" tags="">Public transit times in major cities</a></li>
+<li><a href="http://seattletimes.com/html/nationworld/2023091725_publictransitxml.html" time_added="1394424680" tags="">Increasing numbers of Americans ride public transit | Nation & World | The </a></li>
+<li><a href="http://www.sportsonearth.com/article/66544296/" time_added="1391445016" tags="">Is the Super Bowl really a boost to host cities? | SportsonEarth.com : Neil</a></li>
+
+
+
+## Police and Justice System
+
+
+<li><a href="http://www.vanityfair.com/online/daily/2014/08/veterans-ferguson-matthew-farwell" time_added="1408368336" tags="">What Combat Veterans See in Ferguson, Missouri | Vanity Fair</a></li>
+<li><a href="http://www.newyorker.com/news/news-desk/movement-grows-ferguson" time_added="1408332563" tags="">Hot damn this @jelani9 piece on the movement in #Ferguson is a masterwork. </a></li>
+<li><a href="http://7online.com/archive/9440401/" time_added="1409125490" tags="">Horrifying. Cops on camera yelling “Stop trying to take my gun” to a man wi</a></li>
+<li><a href="http://www.upworthy.com/his-death-wasnt-just-a-tragedy-it-was-a-product-of-a-criminal-justice-system?g=2" time_added="1390410371" tags="">http://www.upworthy.com/his-death-wasnt-just-a-tragedy-it-was-a-product-of-</a></li>
+<li><a href="http://www.washingtontimes.com/news/2014/mar/13/fbi-blocked-in-corruption-probe-involving-sens-rei/" time_added="1394830999" tags="">DOJ blocks FBI in corruption probe of two US Senators.</a></li>
+<li><a href="https://www.muckrock.com/news/archives/2014/feb/04/method-so-acceptable-dea-cant-even-tell-you-its-na/" time_added="1391534888" tags="">This method is so acceptable, the DEA won't even release its name | Muckroc</a></li>
 <li><a href="http://www.theatlantic.com/health/archive/2014/03/life-of-a-police-officer-medically-and-psychologically-ruinous/284324/" time_added="1394824602" tags="">Life of a Police Officer: Medically and Psychologically Ruinous - Erika Hay</a></li>
 <li><a href="http://www.forbes.com/sites/harveysilverglate/2013/01/03/black-whitey-how-the-feds-disable-criminal-defense/" time_added="1357243252" tags="domestic,hn,important">Black and Whitey: How the Feds Disable Criminal Defense - Forbes</a></li>
+<li><a href="http://radioboston.wbur.org/2013/02/20/carmen-ortiz" time_added="1361558504" tags="">Carmen Ortiz: A Case Of Prosecutorial Diligence Or Legal Overreach? | Radio</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2013/03/attorney-general-swartz-case-a-good-use-of-prosecutorial-discretion/" time_added="1362642481" tags="">US Attorney General: Swartz case a “good use of prosecutorial discretion” |</a></li>
+<li><a href="http://www.bostonglobe.com/metro/2014/03/29/the-inside-story-mit-and-aaron-swartz/YvJZ5P6VHaPJusReuaN7SI/story.html" time_added="1396201533" tags="">Aaron Swartz and MIT: The inside story - Metro - The Boston Globe</a></li>
+<li><a href="http://www.bostonmagazine.com/news/article/2014/01/02/bob-swartz-losing-aaron/" time_added="1388860893" tags="">Losing Aaron: Bob Swartz on MIT's Role in His Son's Death</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2013/01/aaron-swartz-and-me-over-a-loosely-intertwined-decade/" time_added="1358173248" tags="">Aaron Swartz and me, over a loosely intertwined decade | Ars Technica</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2013/01/internet-pioneer-and-information-activist-takes-his-own-life/" time_added="1358173248" tags="">Internet pioneer and information activist takes his own life | Ars Technica</a></li>
+<li><a href="http://phenomena.nationalgeographic.com/2014/04/28/how-many-people-are-wrongly-convicted-researchers-do-the-math/#.U17c6RcradY.twitter" time_added="1398731302" tags="">How Many People Are Wrongly Convicted? Researchers Do the Math. – Phenomena</a></li>
+<li><a href="http://www.theatlantic.com/national/archive/2014/03/when-prosecutors-admit-to-cheating/284180/" time_added="1394035692" tags="">When Prosecutors Admit to Cheating - Andrew Cohen - The Atlantic</a></li>
+<li><a href="http://www.forbes.com/sites/ralphbenko/2013/03/11/1-6-billion-rounds-of-ammo-for-homeland-security-its-time-for-a-national-conversation/" time_added="1363043097" tags="">1.6 Billion Rounds Of Ammo For Homeland Security? It's Time For A National </a></li>
+<li><a href="http://www.theatlantic.com/national/archive/2014/01/when-good-people-do-nothing-the-appalling-story-of-south-carolinas-prisons/282938/" time_added="1389468409" tags="">The Story of South Carolina's Prisons</a></li>
+<li><a href="https://www.muckrock.com/news/archives/2014/feb/03/dea-parallel-construction-guides/" time_added="1391450557" tags="">DEA teaches agents to recreate evidence chains to hide methods | Muckrock</a></li>
+<li><a href="http://www.dailykos.com/story/2014/08/20/1323386/-Ferguson-PD-Confirms-Officer-Wilson-Shot-at-Brown-as-He-Ran-Away?detail=email" time_added="1408648250" tags="">Ferguson PD Confirms Officer Wilson Shot at Brown as He Ran Away</a></li>
+<li><a href="http://www.theatlantic.com/national/archive/2014/08/the-killing-of-kajieme-powell/378899/" time_added="1408633224" tags="">The Killing of Kajieme Powell and How It Divides Americans - The Atlantic</a></li>
+<li><a href="http://www.newyorker.com/news/news-desk/saw-ferguson" time_added="1408025637" tags="">What I Saw in Ferguson</a></li>
+<li><a href="http://touch.baltimoresun.com/#section/-1/article/p2p-80813034/" time_added="1405528426" tags="">Baltimore Sun - Detainees are human [Commentary]</a></li>
+<li><a href="http://t.co/w7FYpCzSDw" time_added="1362612422" tags="">Follow Holder's logic in @aaronsw: your sentence will be fair only if you </a></li>
+<li><a href="http://www.salon.com/2014/06/24/a_swat_team_blew_a_hole_in_my_2_year_old_son/" time_added="1403628415" tags="">http://www.salon.com/2014/06/24/a_swat_team_blew_a_hole_in_my_2_year_old_son/</a></li>
+<li><a href="http://www.salon.com/2014/04/30/justice_scalia_makes_embarrassing_error_in_latest_dissent/?utm_source=facebook&utm_medium=socialflow" time_added="1398954250" tags="">Justice Scalia makes embarrassing error in latest dissent - Salon.com</a></li>
 
 
 * http://www.ajc.com/news/news/breaking-news/no-charges-for-officers-in-botched-drug-raid-that-/nhc2N/
@@ -57,15 +150,20 @@
 
 
 
-## Politics
+## Politics and Taxes
 
 <li><a href="http://www.npr.org/2012/10/03/162103368/how-politicians-get-away-with-dodging-the-question" time_added="1350313283" tags="hn">Debate Pivots: How Politicians Get Away With Dodging The Question : NPR</a></li>
 <li><a href="http://www.madinamerica.com/2012/02/why-anti-authoritarians-are-diagnosed-as-mentally-ill/" time_added="1368039570" tags="corruption,health">Why Anti-Authoritarians are Diagnosed as Mentally Ill</a></li>
 <li><a href="http://news.firedoglake.com/2013/10/17/president-obama-bashes-bloggers-then-shills-for-monsanto/" time_added="1382102075" tags="corruption,government,health">http://news.firedoglake.com/2013/10/17/president-obama-bashes-bloggers-then</a></li>
+<li><a href="http://www.theatlantic.com/business/archive/2014/02/the-spectacular-myth-of-obamas-part-time-america-in-5-graphs/283674/" time_added="1391981377" tags="">The Spectacular Myth of Obama's Part-Time America—in 5 Graphs - Derek Thomp</a></li>
+<li><a href="http://flowingdata.com/2013/02/12/state-of-the-union-address-decreasing-reading-level/" time_added="1360714940" tags="">State of the Union address decreasing reading level</a></li>
+<li><a href="http://www.truthdig.com/report/item/its_good_to_be_the_multinational_corporations_20130312/" time_added="1363146514" tags="finance,important">Robert Scheer: If Corporations Don’t Pay Taxes, Why Should You? - Robert Sc</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2012/12/warrantless-wiretaps-congress-votes-yes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" time_added="1356750620" tags="">Warrantless wiretaps? Congress votes yes | Ars Technica</a></li>
+<li><a href="http://t.co/MW7fuUxbbe" time_added="1388504122" tags="">http://www.commerce.senate.gov/public/index.cfm?p=PressReleases&ContentReco</a></li>
+<li><a href="http://t.co/u0dyzmIybf" time_added="1392243716" tags="">http://www.franken.senate.gov/files/letter/140212FordResponse.pdf …</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2013/01/tech-companies-cheer-for-senate-proposal-to-increase-immigration/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" time_added="1359507207" tags="">Tech companies cheer for Senate proposal to increase immigration | Ars Tech</a></li>
+<li><a href="http://news.slashdot.org/story/14/01/10/1422206/largest-bitcoin-mining-pool-pledges-not-to-execute-51-attack" time_added="1389405009" tags="">Bitcoin *continues* to teach Libertarians about the power of natural monopo</a></li>
+
 
 * https://medium.com/i-m-h-o/the-world-is-socialist-c8f0a6dfffab
 
-
-## Taxes
-
-<li><a href="http://www.truthdig.com/report/item/its_good_to_be_the_multinational_corporations_20130312/" time_added="1363146514" tags="finance,important">Robert Scheer: If Corporations Don’t Pay Taxes, Why Should You? - Robert Sc</a></li>

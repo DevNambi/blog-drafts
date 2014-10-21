@@ -42,6 +42,10 @@
 <li><a href="http://lifehacker.com/5939542/careerbliss-measures-how-happy-you-are-in-your-job-finds-you-a-happier-one" time_added="1348859888" tags="life hacker">CareerBliss Measures How Happy You Are in Your Job, Finds You a Happier One</a></li>
 <li><a href="http://blogs.lessthandot.com/index.php/ITProfessionals/consulting/successful-consulting-series-consulting-vs" time_added="1356115487" tags="brand">Less Than Dot - Blog - Successful Consulting Series - Consulting vs. Fullti</a></li>
 <li><a href="http://blogs.hbr.org/cs/2012/12/the_top_five_career_regrets.html" time_added="1355510629" tags="brand,hn,important">The Top Five Career Regrets - Daniel Gulati - Harvard Business Review</a></li>
+<li><a href="https://training.kalzumeus.com/newsletters/archive/consulting_1" time_added="1406907970" tags="">Growing One's Consulting Business</a></li>
+<li><a href="http://ozar.me/2014/06/favorite-online-services-consultants/" time_added="1403619627" tags="">http://ozar.me/2014/06/favorite-online-services-consultants/</a></li>
+<li><a href="http://blog.kaggle.com/2012/10/23/join-the-chorus-data-consulting-with-kaggle-connect/" time_added="1351090934" tags="">Join the Chorus: Data Consulting with Kaggle Connect  Greenplum | no free </a></li>
+
 
 
 * http://www.stridenyc.com/blog/2014/10/3/im-agile-but-my-contract-isnt-how-to-align-contracts-with-agile-software-development-teams
@@ -62,6 +66,7 @@
 <li><a href="http://t.co/meoU7CWa" time_added="1355492864" tags="brand">BrentO: *Every* IT blogger/consultant should read the "Expanding to a produ</a></li>
 <li><a href="http://www.problogger.net/archives/2012/06/06/10-no-nonsense-ways-to-build-backlinks/" time_added="1353946238" tags="brand">10 No-Nonsense Ways to Build Backlinks : @ProBlogger</a></li>
 <li><a href="http://www.hilarymason.com/speaking/why-you-an-introverted-nerd-should-try-public-speaking/" time_added="1361578667" tags="brand,hn,important">» Why YOU (an introverted nerd) Should Try Public Speaking hilarymason.com</a></li>
+<li><a href="http://www.fourhourworkweek.com/blog/2014/02/04/how-to-get-published/" time_added="1391572514" tags="">How to Write a Bestselling Book This Year — The Definitive Resource List an</a></li>
 
 
 ## Technical Setup
@@ -78,8 +83,8 @@ ortant,personal tech">Kill the Password: Why a String of Characters Can't Protec
 <li><a href="http://aws.typepad.com/aws/2011/02/host-your-static-website-on-amazon-s3.html" time_added="1361938393" tags="brand">Amazon Web Services Blog: Host Your Static Website on Amazon S3</a></li>
 <li><a href="http://thechrisoshow.com/2011/06/05/how-to-host-a-static-website-on-s3/" time_added="1361938348" tags="brand">How to host a static website on S3 - Chris O'Sullivan's blog</a></li>
 <li><a href="http://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html" time_added="1361938676" tags="brand">Example: Setting Up a Static Website Using a Custom Domain - Amazon Simple </a></li>
-
-
+<li><a href="http://arstechnica.com/security/2014/01/picking-up-the-pieces-after-the-n-twitter-account-theft/2/" time_added="1391282813" tags="">Picking up the pieces after the @N Twitter account theft | Ars Technica</a></li>
+<li><a href="https://medium.com/p/24eb09e026dd" time_added="1391006933" tags="">How I Lost My $50,000 Twitter Username — Medium</a></li>
 
 
 

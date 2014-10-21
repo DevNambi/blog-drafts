@@ -12,17 +12,28 @@
 <li><a href="http://sqlmap.org/" time_added="1349321626" tags="sql">sqlmap: automatic SQL injection and database takeover tool</a></li>
 <li><a href="http://www.readwriteweb.com/biz/2012/10/sql-injection-hacker-attacks-are-on-the-rise-heres-how-to-defend-your-servers.php" time_added="1350141505" tags="sql">SQL Injection Hacker Attacks Are On The Rise. Here's How To Defend Your Ser</a></li>
 <li><a href="http://arstechnica.com/security/2012/12/25-gpu-cluster-cracks-every-standard-windows-password-in-6-hours/" time_added="1355115772" tags="hn,important">25-GPU cluster cracks every standard Windows password in </a></li>
-<li><a href="http://www.readwriteweb.com/enterprise/2012/07/why-good-enough-security-really-is-good-enough-for-most-companies.php" time_added="1349321771" tags="hn">Why ‚ÄúGood Enough‚Äù Security Really Is Good Enough for Most Companies</a></li>
+<li><a href="http://www.readwriteweb.com/enterprise/2012/07/why-good-enough-security-really-is-good-enough-for-most-companies.php" time_added="1349321771" tags="hn">Why ‚ÄúGood <li><a href="http://www.wired.com/2014/08/how-to-use-your-cat-to-hack-your-neighbors-wi-fi/" time_added="1407523558" tags="">How to Use Your Cat to Hack Your Neighborís Wi-Fi | Threat Level | WIRED</a></li>Enough‚Äù Security Really Is Good Enough for Most Companies</a></li>
 <li><a href="http://www.wired.com/opinion/2012/11/feudal-security/" time_added="1353946177" tags="hn,personal tech">When It Comes to Security, We're Back to Feudalism | Wired Opinion | Wired.</a></li>
 <li><a href="http://rt.com/usa/news/surveillance-spying-e-mail-citizens-178/" time_added="1354678483" tags="hn,important,personal tech">'Everyone in US under virtual surveillance' - NSA whistleblower ó RT</a></li>
-
-
-
-
-
-
-
-
+<li><a href="http://www.schneier.com/blog/archives/2013/02/all_those_compa.html" time_added="1361558226" tags="">Schneier on Security: All Those Companies that Can't Afford Dedicated Secur</a></li>
+<li><a href="http://www.schneier.com/blog/archives/2013/03/phishing_has_go.html?utm_source=twitterfeed&utm_medium=twitter" time_added="1362406415" tags="">Schneier on Security: Phishing Has Gotten Very Good</a></li>
+<li><a href="http://www.komonews.com/news/tech/No-consensus-on-notifying-victims-of-data-breaches-249192931.html" time_added="1394637969" tags="">No consensus on notifying victims of data breaches | Technology | Seattle N</a></li>
+<li><a href="http://shkspr.mobi/blog/2014/03/2000-nhs-security-vulnerabilities-disclosed/" time_added="1394036963" tags="">The Unsecured State Part 3 ñ 2,000 NHS Security Vulnerabilities (Disclosed</a></li>
+<li><a href="https://security.google.com/settings/security/permissions?pli=1" time_added="1388946366" tags="">Do me a favor. Go through this list and make sure that you revoke everythin</a></li>
+<li><a href="http://bit.ly/JHKgxX" time_added="1389199651" tags="">hilarious security article by james mickens. bit.ly/JHKgxX
+agreed, except o</a></li>
+<li><a href="http://krebsonsecurity.com/2014/06/card-wash-card-breaches-at-car-washes/" time_added="1403531675" tags="">http://krebsonsecurity.com/2014/06/card-wash-card-breaches-at-car-washes/</a></li>
+<li><a href="http://boingboing.net/2014/07/18/tsa-employee-to-security-theat.html" time_added="1405723107" tags="">TSA employee to security theater skeptics: "You don't have shit for rights"</a></li>
+<li><a href="http://www.nytimes.com/2014/03/03/technology/when-start-ups-dont-lock-the-doors.html?ref=technology" time_added="1393894692" tags="">Security of users' data? 
+<li><a href="http://krebsonsecurity.com/2014/07/beware-keyloggers-at-hotel-business-centers/" time_added="1405347573" tags="">Beware Keyloggers at Hotel Business Centers</a></li>
+<li><a href="http://arstechnica.com/security/2012/12/how-online-scammers-made-millions-selling-nonexistent-cars-motor-homes/" time_added="1354854699" tags="">How online scammers made millions selling nonexistent cars, motor homes | A</a></li>
+<li><a href="http://arstechnica.com/security/2013/02/lucky-thirteen-attack-snarfs-cookies-protected-by-ssl-encryption/" time_added="1360009805" tags="">ìLucky Thirteenî attack snarfs cookies protected by SSL encryption | Ars Te</a></li>
+<li><a href="http://volatility-labs.blogspot.com/2014/01/truecrypt-master-key-extraction-and.html" time_added="1389818868" tags="">Volatility Labs: TrueCrypt Master Key Extraction And Volume Identification</a></li>
+<li><a href="http://www.kalzumeus.com/2014/04/09/what-heartbleed-can-teach-the-oss-community-about-marketing/" time_added="1397062194" tags="">What Heartbleed Can Teach The OSS Community About Marketing | Kalzumeus Sof</a></li>
+<li><a href="https://satisfaction.mint.com/mint/topics/a_definitve_answer_on_whether_mint_was_ever_affected_by_heartbleed" time_added="1397616090" tags="">A DEFINITVE answer on whether Mint was EVER affected by Heartbleed?</a></li>
+<li><a href="http://www.wired.com/2014/08/how-to-use-your-cat-to-hack-your-neighbors-wi-fi/" time_added="1407523558" tags="">How to Use Your Cat to Hack Your Neighborís Wi-Fi | Threat Level | WIRED</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2012/11/how-georgia-doxed-a-russian-hacker-and-why-it-matters/" time_added="1351942520" tags="">How Georgia doxed a Russian hacker (and why it matters) | Ars Technica</a></li>
+<li><a href="http://t.co/HjVVa6vi" time_added="1356885103" tags="">datachick: Exclusive: Hacker nabs 3m Verizon customer records http://t.co/H</a></li>
 
 
 
