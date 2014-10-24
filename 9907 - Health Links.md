@@ -125,6 +125,8 @@
 
 * http://well.blogs.nytimes.com/2014/10/15/whats-your-fitness-age/
 * http://kaasplateau.com/stretches.pdf
+* http://www.nytimes.com/2014/10/22/opinion/only-two-rules-for-a-good-diet.html
+
 
 
 
@@ -216,6 +218,9 @@
 * http://boingboing.net/2013/08/22/smear-campaign-daily-show-cre.html
 * http://www.cbsnews.com/videos/good-gut-bacteria-can-help-with-controlling-weight-inflammation/
 * http://www.plospathogens.org/article/info%3Adoi%2F10.1371%2Fjournal.ppat.1003587
+* http://arstechnica.com/tech-policy/2014/10/feds-examining-medical-devices-for-fatal-cybersecurity-flaws/
+* http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html
+
 
 
 
@@ -334,7 +339,19 @@
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2013/05/08/one-hospital-charges-8000-another-38000/
 * http://seattletimes.com/html/nationworld/2021065979_employeehealthxml.html
 * http://seattletimes.com/html/localnews/2021250318_hospitalcostsxml.html
-* 
+* http://www.npr.org/blogs/health/2014/10/21/357780794/more-insurers-put-spending-limits-on-medical-treatments
+
+
+By Zoe Keating:
+"An article on NPR about insurance putting limits on procedure costs. We experience this all the time.
+In our case, the oncologist will order a test or procedure, we wait for Anthem Blue Cross to approve it, we go to the network facility or doctor (there might only be one in our county), yet months later a bill arrives for the amount that the insurance would not pay. I know now to monitor our Anthem account so I can get a heads up on what their "maximum" is and what the difference will be.
+This is one of the ways that, even though we have a "platinum" plan purchased through Covered California, the amount we ultimately have to pay is so much more than the annual misleadingly-labeled "out of pocket maximum" (the other way is surprise bills from doctors at the network facilities who were, unbeknownst to us, out-of-network). That said, it is inconsistent. Sometimes Anthem just covers the whole thing and when they don't I can call them relentlessly until I find an agent who will make the bill go away. When that doesn't work I then haggle with the medical facility to get them to reduce the bill.
+In the article:
+"The health law sets limits on how much consumers have to pay out of pocket annually for in-network care before insurance picks up the whole tab ...But if consumers choose providers whose prices are higher than a plan's reference price, those amounts don't count toward the out-of-pocket maximum, the administration guidance said."
+Here's the problem, patients don't have any choice or any negotiating power. In our case, there might be only one in-network facility or specialist within 70 miles and they won't let us know the cost in advance.
+Given that the patient is ultimately responsible for the costs, if an insurance company has to approve a procedure, really the approval letter should also say what their "maximum" payment will be to the facility. I would then present this letter to the medical facility and the medical facility should be required to tell me if they will charge me more than that. As it is now, I have no way of knowing what Anthem's maximum will be until after the fact and I can't get the facility to tell me what they will charge.
+If you're going through this, don't give up. File every appeal. Call your insurance company every day until you find an agent who will work with you. Be polite, firm and unrelenting. Record the conversations so you can make sense of them later. When you can't go any farther with the insurance company, call the medical facility and talk the bills down.
+I'm glad these issues are making it into the press. Health care in America is better than it was before Obama, but it is not fixed yet."
 
 
 #### Work

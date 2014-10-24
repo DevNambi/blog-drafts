@@ -10,6 +10,7 @@
 * http://arstechnica.com/tech-policy/2014/10/in-a-first-tsa-announces-7-americans-removed-from-no-fly-list/
 * http://arstechnica.com/security/2014/10/fbi-director-to-citizens-let-us-spy-on-you/
 * http://www.bostonglobe.com/ideas/2014/10/18/vote-all-you-want-the-secret-government-won-change/jVSkXrENQlu8vNcBfMn9sL/story.html
+* http://www.theguardian.com/law/2014/oct/23/computer-users-damage-national-security-face-jail
 
 <li><a href="https://firstlook.org/theintercept/2014/02/14/ongoing-abuse-state-secrets-privilege/" time_added="1392591442" tags="">Obama DOJ's New Abuse of State-Secrets Privilege Revealed - The Intercept</a></li>
 <li><a href="http://arstechnica.com/tech-policy/2014/01/report-nsa-bulk-metadata-collection-has-no-discernible-impact/" time_added="1389637719" tags="">Report: NSA bulk metadata collection has “no discernible impact” | Ars Tech</a></li>
@@ -77,6 +78,8 @@
 
 * http://yro.slashdot.org/story/12/10/28/0531250/cash-strapped-states-burdened-by-expensive-data-security-breaches
 * http://www.theverge.com/2014/10/20/7014705/coding-error-911-fcc-washington
+* http://dealbook.nytimes.com/2014/10/21/states-ease-laws-that-protected-poor-borrowers/?_php=true&_type=blogs&_r=0
+
 
 <li><a href="http://ow.ly/iPacF" time_added="1363121071" tags="domestic,finance">"Transit agencies across the state face a fiscal cliff, some have already g</a></li>
 <li><a href="http://seattletimes.com/html/localnews/2020628849_stateparksxml.html" time_added="1364092812" tags="domestic">At 100, state parks in grim state of disrepair | Local News | The Seattle T</a></li>
@@ -147,6 +150,8 @@
 * http://www.wired.com/2014/10/virginia-police-secretively-stockpiling-private-phone-records/
 * http://www.washingtonpost.com/news/morning-mix/wp/2014/08/14/tear-gas-is-a-chemical-weapon-banned-in-war-but-ferguson-police-shoot-it-at-protesters/
 * http://www.salon.com/2014/10/20/swat_teams_brutal_murder_how_they_killed_an_innocent_man_on_his_childhood_driveway/
+* http://arstechnica.com/tech-policy/2014/10/handful-of-virginia-police-agencies-sharing-seized-phone-data/
+
 
 
 

@@ -35,9 +35,9 @@ Data engineering doesn't have an equivalent model. This is my attempt to create 
 Ajax in maps. 
 Large storage in email inboxes. 
 
-http://the-paper-trail.org/blog/the-elephant-was-a-trojan-horse-on-the-death-of-map-reduce-at-google/
-
-http://www.kdnuggets.com/2014/08/sibyl-google-system-large-scale-machine-learning.html <- Sibyl
+* http://the-paper-trail.org/blog/the-elephant-was-a-trojan-horse-on-the-death-of-map-reduce-at-google/
+* http://www.kdnuggets.com/2014/08/sibyl-google-system-large-scale-machine-learning.html <- Sibyl
+* http://www.slate.com/blogs/business_insider/2014/10/23/behind_the_scenes_look_at_google_data_centers.html
 
 ### The Elephant Has Left the Building
 

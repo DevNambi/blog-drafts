@@ -57,6 +57,9 @@
 * http://www.nakedcapitalism.com/2014/10/mixed-international-picture-poverty-inequality.html
 * http://www.npr.org/blogs/money/2014/10/16/356176018/the-most-popular-jobs-for-the-rich-middle-class-and-poor
 * http://mobile.nytimes.com/2014/10/19/opinion/sunday/a-rate-cap-for-all-consumer-loans.html
+* http://www.nytimes.com/2014/10/23/world/asia/amid-clamor-over-democracy-hong-kongs-tycoons-keeping-quiet.html
+* http://www.theawl.com/2014/10/how-amazon-solved-the-problem-of-work
+
 
 
 <li><a href="http://www.theatlantic.com/business/archive/2014/03/my-life-as-a-retail-worker-nasty-brutish-and-cheap/284332/" time_added="1394560947" tags="">My Life as a Retail Worker: Nasty, Brutish, and Cheap - Joseph Williams - T</a></li>
@@ -84,6 +87,8 @@
 
 * http://mobile.nytimes.com/2014/09/21/us/drive-by-doctoring-surprise-medical-bills.html?_r=1
 * http://www.theatlantic.com/health/archive/2014/10/why-americans-are-drowning-in-medical-debt/381163/
+* http://www.nytimes.com/2014/10/22/business/economy/insurers-retreat-from-weather-related-disasters.html?_r=0 
+
 
 
 ## Personal Finance

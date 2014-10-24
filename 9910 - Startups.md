@@ -63,6 +63,9 @@
 * http://www.nytimes.com/2014/10/15/upshot/how-jean-tiroles-work-helps-explain-the-internet-economy.html?abt=0002&abg=1&smid=tw-upshotnyt&_r=0
 * http://pando.com/2014/10/14/anti-burn-how-bootstrapped-zoho-survived-two-tech-bubbles-and-became-a-massive-success/
 * http://www.salon.com/2014/10/13/neil_degrasse_tyson_society_has_bigger_problems_than_what_can_be_solved_with_your_next_app/
+* http://www.engadget.com/2014/10/23/efi-underpaying-workers/
+* http://tiempoapp.com/y-combinator-a-two-year-old-and-a-pregnant-wife
+
 
 <li><a href="http://t.co/75CMzDdE" time_added="1361124125" tags="hn">If you work in tech, go watch PBS's Silicon Valley American Experience righ</a></li>
 <li><a href="http://www.nytimes.com/2014/02/28/technology/copycat-business-model-generates-genuine-global-success-for-start-up-incubator.html?hpw&rref=technology" time_added="1393618176" tags="">Copycat Business Model Generates Genuine Global Success for Start-Up Incuba</a></li>

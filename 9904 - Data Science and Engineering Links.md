@@ -144,6 +144,8 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * Use bokeh and Seaborn instead of Vincent, https://github.com/wrobstory/vincent
 * http://square.github.io/intro-to-d3/
 * http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
+* http://zeroviscosity.com/category/d3-js-step-by-step
+
 
 
 #### GGPlot2
@@ -266,6 +268,15 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://research.microsoft.com/en-us/projects/r2/
 * http://probabilistic-programming.org/wiki/Home
 * https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+* http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/
+* http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+* http://timdettmers.wordpress.com/2014/09/21/how-to-build-and-use-a-multi-gpu-system-for-deep-learning/
+* http://karpathy.github.io/neuralnets/
+* http://machinelearningmastery.com/building-a-production-machine-learning-infrastructure/
+* http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
+* http://datascopeanalytics.com/what-we-think/2014/09/18/hipster-classifier-icebreaker
+* http://research.microsoft.com/pubs/192769/tricks-2012.pdf
+* http://www.mimno.org/articles/hdp/
 
 
 
@@ -330,6 +341,13 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 <li><a href="http://www.bigdatarepublic.com/author.asp?section_id=2809&doc_id=257527&" time_added="1358794770" tags="data science,important">Free Big Data Education: A Data Science Perspective - Daniel D. Gutierrez |</a></li>
 
 
+* http://www.boozallen.com/insights/2013/11/data-science-field-guide
+* https://civisanalytics.com/blog/data-science/2014/08/20/why-we-love-models/
+* https://github.com/jonathan-bower/DataScienceResources
+
+
+
+
 
 ## Data Adoption and Data-Friendly Organizations
 
@@ -382,6 +400,10 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://www.gallamine.com/2014/10/query-data-from-impala-on-amazon-emr.html
 * http://techcrunch.com/2014/10/20/crate-lets-developers-set-up-big-data-backends-in-minutes/
 * http://antirez.com/news/80
+* https://github.com/BIDData/BIDMach/wiki/Benchmarks
+* http://blog.graphlab.com/graphlab-create-v1.0-now-generally-available
+* http://engineroom.trackmaven.com/blog/first-monthly-challenge-elasticsearch/
+
 
 
 

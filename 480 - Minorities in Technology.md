@@ -13,6 +13,9 @@ Get a copy of the bingo board
 * https://medium.com/@susanjohnson/hi-im-a-mom-and-a-start-up-founder-my-yc-story-3b8c8650ae95
 * http://www.rollingstone.com/culture/features/anita-sarkeesian-gamergate-interview-20141017
 * http://www.rawstory.com/rs/2014/10/whites-riot-over-pumpkins-in-nh-and-twitter-turns-it-into-epic-lesson-about-ferguson/
+* https://twitter.com/BecomingDataSci/lists/women-in-data-science/members
+* http://arstechnica.com/tech-policy/2014/10/pew-survey-says-online-harassment-rampant-impacts-genders-differently/
+
 
 
 

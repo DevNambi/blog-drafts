@@ -28,6 +28,8 @@
 * http://erniepark.com/software/2014/08/20/10-practical-software-engineer-tips.html
 * http://mattgemmell.com/confessions-of-an-ex-developer/
 * http://www.whoismcafee.com/three-guys-walk-into-a-microwave/
+* https://www.cs.cmu.edu/~dga/papers/cuckoo-conext2014.pdf
+
 
 
 
@@ -127,7 +129,7 @@
 
 
 
-## Cloud Computing
+## Cloud Computing and Virtualization
 
 
 <li><a href="http://www.blog.juliaferraioli.com/2014/01/julia-on-google-compute-engine-working.html" time_added="1390673210" tags="">Julia on Google Compute Engine: working with files | never a straight line</a></li>
@@ -169,6 +171,12 @@
 
 * http://muratbuffalo.blogspot.com/2014/07/distributed-is-not-necessarily-more.html
 * http://swrveengineering.wordpress.com/2014/10/14/how-we-increased-our-ec2-event-throughput-by-50-for-free/
+* http://instagram-engineering.tumblr.com/post/100758229719/migrating-from-aws-to-aws
+* http://aws.amazon.com/blogs/aws/new-aws-directory-service/
+* http://www.hokstad.com/docker/patterns
+
+
+
 
 
 
