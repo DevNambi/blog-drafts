@@ -70,6 +70,7 @@
 * http://www.nakedcapitalism.com/2014/10/john-helmer-cia-bumbling-now.html
 * http://militaryprofessionalreadinglists.com/
 * http://www.computerworld.com/article/2834927/hackers-strike-defense-companies-through-real-time-ad-bidding.html
+* http://www.foreignpolicy.com/articles/2014/10/24/yoda_has_left_the_building_andrew_marshall_pentagon_futurist
 
 
 

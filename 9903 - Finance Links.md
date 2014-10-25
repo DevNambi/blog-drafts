@@ -107,6 +107,9 @@
 <li><a href="http://systematicinvestor.wordpress.com/" time_added="1394166001" tags="">Systematic Investor | Systematic Investor Blog</a></li>
 
 
+* http://www.dailyfinance.com/on/man-writes-own-credit-card-contract-sues-bank-for-breaking-term/
+
+
 
 ## Economic Forces
 

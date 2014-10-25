@@ -8,7 +8,7 @@
 <li><a href="http://t.co/bamTj7IS" time_added="1356194479" tags="health">mfeathers: Learning how we understand code through eye-tracking: http://t.c</a></li>
 <li><a href="http://spectrum.ieee.org/aerospace/space-flight/apollo-13-we-have-a-solution/0" time_added="1354167201" tags="hn">Apollo 13, We Have a Solution - IEEE Spectrum</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Conway's_law" time_added="1353356827" tags="sql">Conway's law - Wikipedia, the free encyclopedia</a></li>
-<li><a href="http://www.trottercashion.com/2012/08/12/how-to-write-good-log-messages.html?utm_medium=referral&utm_source=pulsenews" time_added="1349321482" tags="hn">How To Write Good Log Messages</a></li>
+<li><a href="http://www.trottercashion.com/2012/08/12/how-to-write-good-log-messages.html" time_added="1349321482" tags="hn">How To Write Good Log Messages</a></li>
 <li><a href="https://tech.dropbox.com/2012/10/caching-in-theory-and-practice/" time_added="1350492013" tags="hn">Dropbox tech blog » Blog Archive » Caching in theory and practice</a></li>
 <li><a href="http://mikegrouchy.com/blog/2012/06/write-less-code.html?utm_medium=referral&utm_source=pulsenews" time_added="1349321960" tags="hn">Write Less Code</a></li>
 <li><a href="http://www.johndcook.com/blog/2012/10/01/dialing-back-the-cleverness/" time_added="1349718948" tags="hn">Dialing back the cleverness — The Endeavour</a></li>
@@ -62,8 +62,8 @@
 ## Meta
 
 <li><a href="http://dannorth.net/2011/01/11/programming-is-not-a-craft/" time_added="1355251690" tags="brand,hn">Programming is not a craft « Dan North & Associates</a></li>
-<li><a href="http://redmonk.com/sogrady/2012/11/08/framework-popularity/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+tecosystems+%28tecosystems%29" time_added="1352409479" tags="hn">Examining Programming Language Framework Popularity – tecosystems</a></li>
-<li><a href="http://www.readwriteweb.com/hack/2012/05/mit-brain-who-beat-the-casinos-launches-service-to-quantify-developer-performance.php?utm_source=pulsenews&utm_medium=referral&utm_campaign=Feed%3A+readwriteweb+%28ReadWriteWeb%29" time_added="1349321935" tags="hn">MIT Brain Who Beat the Casinos Launches Service to Quantify Developer Perfo</a></li>
+<li><a href="http://redmonk.com/sogrady/2012/11/08/framework-popularity/" time_added="1352409479" tags="hn">Examining Programming Language Framework Popularity – tecosystems</a></li>
+<li><a href="http://www.readwriteweb.com/hack/2012/05/mit-brain-who-beat-the-casinos-launches-service-to-quantify-developer-performance.php" time_added="1349321935" tags="hn">MIT Brain Who Beat the Casinos Launches Service to Quantify Developer Perfo</a></li>
 <li><a href="http://www.starling-software.com/employment/programmer-competency-matrix.html" time_added="1349738332" tags="hn">Programmer Competency Matrix</a></li>
 <li><a href="http://gizmodo.com/5925756/these-are-the-best-programming-skills-to-have-if-you-wanna-be-rich" time_added="1348860162" tags="hn">These Are the Best Programming Skills to Have if You Wanna Be Rich</a></li>
 <li><a href="http://blog.openviewpartners.com/coding-is-dead-long-live-the-coders/?utm_medium=referral&utm_source=pulsenews" time_added="1349321474" tags="hn">Coding is Dead. Long Live the Coders | OpenView Blog</a></li>
@@ -83,7 +83,7 @@
 <li><a href="http://java.dzone.com/articles/jez-humble-why-software?utm_medium=referral&utm_source=pulsenews" time_added="1349321415" tags="hn">Jez Humble: Why Software Development Methodologies Suck | Javalobby</a></li>
 <li><a href="http://gorban.org/post/32873465932/software-architecture-cheat-sheet" time_added="1349378737" tags="hn">Software Architecture cheat sheet</a></li>
 <li><a href="http://craftedsw.blogspot.co.uk/2012/08/the-best-approach-to-software.html" time_added="1348860170" tags="hn">Crafted Software: The best approach to software development</a></li>
-<li><a href="http://rdegges.com/service-oriented-side-effects?utm_medium=referral&utm_source=pulsenews" time_added="1348973528" tags="hn">Service Oriented Side Effects - Randall Degges</a></li>
+<li><a href="http://rdegges.com/service-oriented-side-effects" time_added="1348973528" tags="hn">Service Oriented Side Effects - Randall Degges</a></li>
 <li><a href="http://www.flickr.com/photos/lakequincy/sets/72157629316877860/with/7021453941/" time_added="1354134984" tags="life hacker,sql,viz">Software Craftsmanship Calendar - a set on Flickr</a></li>
 <li><a href="http://blog.assembla.com/assemblablog/tabid/12618/bid/88421/Intro-to-Scalable-Agile-Scale-Your-Teams-and-Release-More-Frequently.aspx" time_added="1349321281" tags="hn">Intro to Scalable Agile: Scale Your Teams and Release More Frequently</a></li>
 <li><a href="http://www.switchscribe.com/?p=181" time_added="1349321432" tags="hn">Four Simple Keys to Operational Excellence – It’s not an IT or Data Center </a></li>
@@ -139,13 +139,13 @@
 <li><a href="http://www.infoworld.com/d/applications/automating-the-cloud-one-website-script-time-212966" time_added="1363202213" tags="academia,life hacker,personal tech">Automating the cloud, one website script at a time | Applications - InfoWor</a></li>
 <li><a href="https://www.dotcloud.com/ebook_download_now.html" time_added="1362595129" tags="cloud">dotCloud - PaaS under the hood - download the book</a></li>
 <li><a href="http://aws.typepad.com/aws/2013/03/amazon-rds-scales-up-3-tb-and-30000-iops.html" time_added="1363264871" tags="cloud">Amazon Web Services Blog: Amazon RDS Scales Up - Provision 3 TB and 30,000 </a></li>
-<li><a href="http://www.nytimes.com/2013/03/13/technology/google-takes-on-amazon-and-microsoft-for-cloud-computing-services.html?pagewanted=2&_r=0&hpw&gwh=CA3583B4B6FE3CD37DC6329B6A83B517" time_added="1363145007" tags="cloud">Google Takes on Amazon and Microsoft for Cloud Computing Services - NYTimes</a></li>
+<li><a href="http://www.nytimes.com/2013/03/13/technology/google-takes-on-amazon-and-microsoft-for-cloud-computing-services.html" time_added="1363145007" tags="cloud">Google Takes on Amazon and Microsoft for Cloud Computing Services - NYTimes</a></li>
 <li><a href="http://www.brentozar.com/archive/2012/09/amazon-web-services-architect-training-recap/" time_added="1348860084" tags="hn">Amazon Web Services Architect Training Recap | Brent Ozar PLF | Brent Ozar </a></li>
 <li><a href="http://www.infoworld.com/d/cloud-computing/eureka-new-tech-shrinks-cloud-computings-carbon-footprint-233492" time_added="1389366999" tags="">Eureka! New tech shrinks cloud computing's carbon footprint | Cloud Computi</a></li>
 <li><a href="http://t.co/1LojyyfW" time_added="1357489419" tags="cloud">DenisGobo: Bad news for Amazon could be good news for “other” cloud provide</a></li>
-<li><a href="http://aws.typepad.com/aws/2012/12/picloud-and-princeton-consultants-win-the-first-amazon-ec2-spotathon.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AmazonWebServicesBlog+%28Amazon+Web+Services+Blog%29" time_added="1355115773" tags="cloud">Amazon Web Services Blog: PiCloud and Princeton Consultants Win the First A</a></li>
+<li><a href="http://aws.typepad.com/aws/2012/12/picloud-and-princeton-consultants-win-the-first-amazon-ec2-spotathon.html" time_added="1355115773" tags="cloud">Amazon Web Services Blog: PiCloud and Princeton Consultants Win the First A</a></li>
 <li><a href="http://t.co/Xls6FphB" time_added="1354899183" tags="cloud">SQLRockstar: Cloud decisions are no longer in the IT department's hands - t</a></li>
-<li><a href="http://thomaslarock.com/2012/12/your-job-outlook-is-cloudy-and-thats-a-good-thing/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+SQLRockstar+%28SQLRockstar%29" time_added="1354905513" tags="brand,cloud">Your Job Outlook Is Cloudy And That's A Good Thing | SQLRockstar | Thomas L</a></li>
+<li><a href="http://thomaslarock.com/2012/12/your-job-outlook-is-cloudy-and-thats-a-good-thing/" time_added="1354905513" tags="brand,cloud">Your Job Outlook Is Cloudy And That's A Good Thing | SQLRockstar | Thomas L</a></li>
 <li><a href="http://t.co/cvq5A0Wa" time_added="1354585336" tags="sql">buckwoody: AZCopy - command-line file copy to Windows Azure Storage: http:/</a></li>
 <li><a href="http://t.co/JyySBHq3" time_added="1353604392" tags="cloud">puppetlabs: Want to learn Puppet? Download our free technical docs and lear</a></li>
 <li><a href="http://t.co/cbVtwAPo" time_added="1353443372" tags="sql">SQLRockstar: Ever wonder how to parse DBCC MEMORYSTATUS using #posh? Wonder</a></li>
@@ -157,7 +157,7 @@
 <li><a href="http://t.co/PCkom86t" time_added="1353951020" tags="hn">NetflixOSS: Introducing Hystrix for Resilience Engineering - http://t.co/PC</a></li>
 <li><a href="http://www.himss.org/content/files/CS07NavigatingHIPAAWhileMovingtotheCloud.pdf" time_added="1353274810" tags="hn">www.himss.org/content/files/CS07NavigatingHIPAAWhileMovingtotheCloud.pdf</a></li>
 <li><a href="http://news.ycombinator.com/item?id=4740061" time_added="1352146352" tags="hn">Ask HN: What are some good EC2 tutorials for programmers? | Hacker News</a></li>
-<li><a href="http://aws.typepad.com/aws/2012/10/lots-of-new-features-for-aws-govcloud-us.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AmazonWebServicesBlog+%28Amazon+Web+Services+Blog%29" time_added="1349875005" tags="academia,sql">Amazon Web Services Blog: Lots of New Features for AWS GovCloud (US)</a></li>
+<li><a href="http://aws.typepad.com/aws/2012/10/lots-of-new-features-for-aws-govcloud-us.html" time_added="1349875005" tags="academia,sql">Amazon Web Services Blog: Lots of New Features for AWS GovCloud (US)</a></li>
 <li><a href="http://escience.washington.edu/blog/cloud-economics-visualizing-aws-prices-over-time" time_added="1357910318" tags="cloud">Cloud Economics: Visualizing AWS Prices over Time | eScience Institute</a></li>
 <li><a href="http://robhirschfeld.com/2013/01/06/cloud-is-infrastructure-with-an-api/" time_added="1357980238" tags="cloud">Don’t complicate my cloud! It’s just infrastructure with an API « Rob Hirsc</a></li>
 <li><a href="http://gigaom.com/2013/01/10/netflix-shows-off-its-hadoop-architecture/" time_added="1357910414" tags="cloud">Netflix shows off how it does Hadoop in the cloud — Tech News and Analysis</a></li>
@@ -283,9 +283,9 @@
 <li><a href="http://t.co/kL3rciDK" time_added="1357406756" tags="sql">Phil_Factor: What is new for the Tabular model in SQL Server 2012 SP1 and c</a></li>
 <li><a href="http://blogs.the451group.com/information_management/2012/12/20/database-landscape-map-december-2012/" time_added="1356969971" tags="big data,sql">Database Landscape Map – December 2012 — Too much information</a></li>
 <li><a href="http://t.co/X08Umy8F" time_added="1356832523" tags="sql">BenjaminNevarez: Reading "Do Query Optimizers Need to be SSD-aware?" http:/</a></li>
-<li><a href="http://www.brentozar.com/archive/2012/12/sp_blitz-v14-adds-vlfs-dbcc-failsafe-operators-and-more/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+BrentOzar-SqlServerDba+%28Brent+Ozar+Unlimited%29" time_added="1355148495" tags="sql">sp_Blitz v14 Adds VLFs, DBCC, Failsafe Operators, and More | Brent Ozar Unl</a></li>
+<li><a href="http://www.brentozar.com/archive/2012/12/sp_blitz-v14-adds-vlfs-dbcc-failsafe-operators-and-more/" tags="sql">sp_Blitz v14 Adds VLFs, DBCC, Failsafe Operators, and More | Brent Ozar Unl</a></li>
 <li><a href="http://t.co/t3ZU86Cl" time_added="1354908254" tags="viz">ryrobes: How to create a #Tableau Data Extract from a #SQLServer query w th</a></li>
-<li><a href="http://pulse.sqlserverpedia.com/blog/databases-with-large-tables-should-use-auto-stats-async-update-feature/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+sqlserverpedia+%28SQLServerPedia%29" time_added="1354722447" tags="sql">Databases With Large Tables Should Use Auto Stats Async Update Feature | Bl</a></li>
+<li><a href="http://pulse.sqlserverpedia.com/blog/databases-with-large-tables-should-use-auto-stats-async-update-feature/" time_added="1354722447" tags="sql">Databases With Large Tables Should Use Auto Stats Async Update Feature | Bl</a></li>
 <li><a href="http://t.co/AZzHx7Vv" time_added="1354664683" tags="sql">Phil_Factor: Making the Case for a SQL Server Platform Refresh http://t.co/</a></li>
 <li><a href="http://t.co/mY2bsxtm" time_added="1354284231" tags="sql">SQLPoolBoy: RT: [Blog] Clustering SQL Server on Virtual Machines (Round 2) </a></li>
 <li><a href="http://t.co/1loDVCqC" time_added="1354284229" tags="sql">DBArgenis: [BLOG] DBA Best Practices - A Blog Series: Episode 2 - Password </a></li>
@@ -371,7 +371,7 @@ things they believe in will keep </a></li>
 <li><a href="https://stackoverflow.com/questions/234075/what-is-your-best-programmer-joke" time_added="1389369282" tags="">language agnostic - What is your best programmer joke? - Stack Overflow</a></li>
 <li><a href="http://devopsreactions.tumblr.com/" time_added="1357327205" tags="big data,cloud">DevOps Reactions</a></li>
 <li><a href="http://clippy.in/b/YJLM9W" time_added="1357663272" tags="hn">Clippy Alpha</a></li>
-<li><a href="http://arstechnica.com/gaming/2012/12/the-awesome-webcomics-ars-technica-reads/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" time_added="1356728203" tags="personal">The 12 most incredible webcomics | Ars Technica</a></li>
+<li><a href="http://arstechnica.com/gaming/2012/12/the-awesome-webcomics-ars-technica-reads/" time_added="1356728203" tags="personal">The 12 most incredible webcomics | Ars Technica</a></li>
 <li><a href="http://www.codinghorror.com/blog/2012/05/how-to-stop-sucking-and-be-awesome-instead.html?utm_medium=referral&utm_source=pulsenews" time_added="1349321867" tags="hn">Coding Horror: How to Stop Sucking and Be Awesome Instead</a></li>
 <li><a href="http://hatepaste.com/hated/" time_added="1355285355" tags="hn">Hated code - HatePaste: A place to share terrible code</a></li>
 <li><a href="http://www.drdobbs.com/jvm/the-rise-and-fall-of-languages-in-2012/240145800" time_added="1357716148" tags="hn">The Rise and Fall of Languages in 2012 | Dr Dobb's</a></li>
