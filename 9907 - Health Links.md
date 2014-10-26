@@ -126,6 +126,7 @@
 * http://well.blogs.nytimes.com/2014/10/15/whats-your-fitness-age/
 * http://kaasplateau.com/stretches.pdf
 * http://www.nytimes.com/2014/10/22/opinion/only-two-rules-for-a-good-diet.html
+* http://www.nytimes.com/2014/10/26/opinion/sunday/the-problem-with-positive-thinking.html
 
 
 

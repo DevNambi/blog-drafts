@@ -214,6 +214,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://sujitpal.blogspot.com/2014/05/ipython-notebooks-for-statlearning.html
 * http://www.simonsfoundation.org/quanta/20141015-at-the-far-ends-of-a-new-universal-law/
 * http://simplystatistics.org/2014/10/17/bayes-rule-in-a-gif/
+* https://github.com/twitter/BreakoutDetection
 
 
 
