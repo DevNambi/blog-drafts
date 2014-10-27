@@ -81,6 +81,9 @@
 * http://yro.slashdot.org/story/12/10/28/0531250/cash-strapped-states-burdened-by-expensive-data-security-breaches
 * http://www.theverge.com/2014/10/20/7014705/coding-error-911-fcc-washington
 * http://dealbook.nytimes.com/2014/10/21/states-ease-laws-that-protected-poor-borrowers/?_php=true&_type=blogs&_r=0
+* http://arstechnica.com/tech-policy/2014/10/high-paid-consultant-to-plead-guilty-in-chicago-red-light-camera-case/
+* http://arstechnica.com/business/2014/10/fed-up-us-cities-try-to-build-better-broadband/
+
 
 
 <li><a href="http://ow.ly/iPacF" time_added="1363121071" tags="domestic,finance">"Transit agencies across the state face a fiscal cliff, some have already g</a></li>
@@ -173,4 +176,6 @@
 
 
 * https://medium.com/i-m-h-o/the-world-is-socialist-c8f0a6dfffab
+* http://www.networkworld.com/article/2837808/big-data-business-intelligence/big-data-wars-how-technology-could-tip-the-mid-term-elections.html
+
 

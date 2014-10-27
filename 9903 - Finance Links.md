@@ -9,12 +9,17 @@
 * http://arstechnica.com/science/2014/10/why-chinas-economic-growth-hasnt-been-getting-cleaner/
 * http://mobile.nytimes.com/2014/10/19/world/asia/hong-kong-officials-offer-fresh-talks-with-protesters-.html
 * http://seattletimes.com/html/nationworld/2024816652_factoryfirexml.html
+* http://www.nytimes.com/2014/10/27/technology/using-cash-and-pressure-china-builds-its-chip-industry.html
+
 
 ## Europe
 
 <li><a href="http://www.nytimes.com/2013/03/18/business/global/facing-bailout-tax-cypriots-rush-to-get-their-money-out-of-banks.html?hp&pagewanted=all&_r=0" time_added="1363565145" tags="finance,important">Cypriot Bailout Sends Shivers Throughout the Euro Zone - NYTimes.com</a></li>
 
 * http://www.nytimes.com/2014/10/17/world/europe/bloc-in-europe-starts-to-balk-over-austerity-.html
+* http://www.nakedcapitalism.com/2014/10/revolt-starting-in-uk-over-private-equity-fee-secrecy.html
+* http://www.nakedcapitalism.com/2014/10/ilargi-europe-redefines-stress-bank-boosterist-stress-tests.html
+
 
 ## Bank & Regulatory Corruption
 
@@ -32,6 +37,10 @@
 * http://www.nakedcapitalism.com/2014/09/sec-coverup-private-equity-worse-tbtf-banks.html
 * http://www.nakedcapitalism.com/2014/10/private-equity-at-work-rigorously-debunks-industry-mythology.html
 * http://www.nakedcapitalism.com/2014/10/dealbook-says-citi-afford-run-honest-bank-mexico.html
+* http://www.nakedcapitalism.com/2014/10/serious-ny-fed-dudleys-tough-talk-fixing-banking-culture.html 
+
+
+
 
 
 ### Housing, Foreclosures
@@ -59,6 +68,9 @@
 * http://mobile.nytimes.com/2014/10/19/opinion/sunday/a-rate-cap-for-all-consumer-loans.html
 * http://www.nytimes.com/2014/10/23/world/asia/amid-clamor-over-democracy-hong-kongs-tycoons-keeping-quiet.html
 * http://www.theawl.com/2014/10/how-amazon-solved-the-problem-of-work
+* http://www.usatoday.com/story/money/personalfinance/2014/10/25/cheat-sheet-middle-class-cant-afford/17730223/
+* http://www.nytimes.com/2014/10/26/opinion/sunday/nicholas-kristof-the-american-dream-is-leaving-america.html
+
 
 
 

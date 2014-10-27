@@ -55,6 +55,7 @@
 
 
 * https://education.github.com/pack
+* http://www.karllhughes.com/2014/dev-bootcamp-program/
 
 
 
@@ -174,6 +175,8 @@
 * http://instagram-engineering.tumblr.com/post/100758229719/migrating-from-aws-to-aws
 * http://aws.amazon.com/blogs/aws/new-aws-directory-service/
 * http://www.hokstad.com/docker/patterns
+* https://www.backblaze.com/blog/petabytes-on-a-budget-how-to-build-cheap-cloud-storage-2/
+* http://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time
 
 
 

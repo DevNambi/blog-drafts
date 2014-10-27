@@ -19,6 +19,7 @@
 <li><a href="http://spectrum.ieee.org/podcast/geek-life/tools-toys/can-you-trust-an-amazon-review" time_added="1361368520" tags="">Can You Trust an Amazon Review? - IEEE Spectrum</a></li>
 
 * http://www.nytimes.com/2014/10/20/opinion/paul-krugman-amazons-monopsony-is-not-ok.html
+* http://www.economist.com/blogs/freeexchange/2014/10/market-power?fsrc=scn/fb/wl/bl/bigbadamazon
 
 
 ## Wal-Mart

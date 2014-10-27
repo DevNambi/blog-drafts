@@ -184,6 +184,8 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 <li><a href="http://www.forbes.com/sites/gilpress/2012/12/01/big-data-news-of-the-week-beautiful-300000-minds/" time_added="1355414578" tags="big data,data science,finance,hn,important">Big Data News of the Week: Beautiful $300,000 Minds - Forbes</a></li>
 <li><a href="http://www.hilarymason.com/blog/interview-questions-for-data-scientists/" time_added="1357239077" tags="data science">» Interview Questions for Data Scientists hilarymason.com</a></li>
 
+* http://www.brianckeegan.com/2014/10/on-starting-a-new-job/
+
 
 
 ## Stats
@@ -215,6 +217,8 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://www.simonsfoundation.org/quanta/20141015-at-the-far-ends-of-a-new-universal-law/
 * http://simplystatistics.org/2014/10/17/bayes-rule-in-a-gif/
 * https://github.com/twitter/BreakoutDetection
+* http://www.wired.com/2014/10/tracy-widom-mysterious-statistical-law/
+
 
 
 
@@ -278,6 +282,9 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://datascopeanalytics.com/what-we-think/2014/09/18/hipster-classifier-icebreaker
 * http://research.microsoft.com/pubs/192769/tricks-2012.pdf
 * http://www.mimno.org/articles/hdp/
+* http://techcrunch.com/2014/10/26/elon-musk-compares-building-artificial-intelligence-to-summoning-the-demon/
+* http://www.wired.com/2014/10/future-of-artificial-intelligence/
+
 
 
 
@@ -311,6 +318,9 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 
 <li><a href="http://t.co/i7v6M5eO" time_added="1356487869" tags="ml">hmason: An algorithmic exploration of finding interesting parts of an image</a></li>
 <li><a href="http://blog.yhathq.com/posts/image-processing-with-scikit-image.html" time_added="1391111958" tags="">Image Processing with scikit-image</a></li>
+
+* http://totems.co/blog/comparison-image-hashing-libraries/
+
 
 
 #### Social Media

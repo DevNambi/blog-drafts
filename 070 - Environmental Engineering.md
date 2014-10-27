@@ -96,6 +96,7 @@ Emphasize what we don't know
 * http://www.nytimes.com/2014/10/15/business/economy/the-price-of-water-is-too-low.html?_r=0
 * http://www.nakedcapitalism.com/2014/10/oil-gas-leases-fracking-rip-homeowners.html
 * http://arstechnica.com/science/2014/10/natural-underground-co2-reservoir-reveals-clues-about-storage/
+* http://www.bbc.com/news/magazine-29761274
 
 
 

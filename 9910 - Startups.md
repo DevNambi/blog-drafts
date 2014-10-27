@@ -65,6 +65,10 @@
 * http://www.salon.com/2014/10/13/neil_degrasse_tyson_society_has_bigger_problems_than_what_can_be_solved_with_your_next_app/
 * http://www.engadget.com/2014/10/23/efi-underpaying-workers/
 * http://tiempoapp.com/y-combinator-a-two-year-old-and-a-pregnant-wife
+* http://www.brainshave.com/blog/startcraps
+* http://techcrunch.com/2014/10/25/currentc/
+
+
 
 
 <li><a href="http://t.co/75CMzDdE" time_added="1361124125" tags="hn">If you work in tech, go watch PBS's Silicon Valley American Experience righ</a></li>

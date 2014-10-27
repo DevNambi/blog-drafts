@@ -110,6 +110,7 @@
 
 
 * http://arstechnica.com/business/2014/10/90-time-warner-cable-bill-becomes-190-after-two-years/
+* 
 
 
 
@@ -162,6 +163,10 @@
 * http://www.nytimes.com/2014/10/17/opinion/the-dark-market-for-personal-data.html
 * http://www.theguardian.com/media/2014/oct/17/-sp-whisper-tracking-location-users-facts-response
 * http://blog.prof.so/2013/06/quantified.html
+* http://dhowe.github.io/AdNauseam/
+* http://blogs.microsoft.com/on-the-issues/2014/10/23/four-10-americans-face-regular-online-fraud-attacks-microsoft-survey/
+
+
 
 Galperin's Law: "once you build a backdoor, you don't get to decide who walks through it."
 
