@@ -414,6 +414,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * https://github.com/BIDData/BIDMach/wiki/Benchmarks
 * http://blog.graphlab.com/graphlab-create-v1.0-now-generally-available
 * http://engineroom.trackmaven.com/blog/first-monthly-challenge-elasticsearch/
+* http://code.hootsuite.com/redirecting-the-firehose-from-hadoop-to-s3/
 
 
 

@@ -156,6 +156,8 @@
 * http://www.washingtonpost.com/news/morning-mix/wp/2014/08/14/tear-gas-is-a-chemical-weapon-banned-in-war-but-ferguson-police-shoot-it-at-protesters/
 * http://www.salon.com/2014/10/20/swat_teams_brutal_murder_how_they_killed_an_innocent_man_on_his_childhood_driveway/
 * http://arstechnica.com/tech-policy/2014/10/handful-of-virginia-police-agencies-sharing-seized-phone-data/
+* http://www.insidebayarea.com/breaking-news/ci_26793090/warrant-chp-officer-says-stealing-nude-photos-from
+* http://www.wsaw.com/news/headlines/Attorney-Calls-Deputies-Response-to-Property-Seizure-Excessive-Lawsuit-Filed-280578482.html
 
 
 
@@ -177,5 +179,6 @@
 
 * https://medium.com/i-m-h-o/the-world-is-socialist-c8f0a6dfffab
 * http://www.networkworld.com/article/2837808/big-data-business-intelligence/big-data-wars-how-technology-could-tip-the-mid-term-elections.html
+* http://www.newyorker.com/humor/borowitz-report/midterms-prediction-billionaires-retain-control-government
 
 

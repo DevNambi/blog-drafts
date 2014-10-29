@@ -15,6 +15,10 @@ Get a copy of the bingo board
 * http://www.rawstory.com/rs/2014/10/whites-riot-over-pumpkins-in-nh-and-twitter-turns-it-into-epic-lesson-about-ferguson/
 * https://twitter.com/BecomingDataSci/lists/women-in-data-science/members
 * http://arstechnica.com/tech-policy/2014/10/pew-survey-says-online-harassment-rampant-impacts-genders-differently/
+* http://mic.com/articles/102550/if-anyone-tells-you-street-harassment-isn-t-a-problem-show-them-this-video
+
+
+"Life hacks: Be born male &/or white &/or straight. Be born to college graduates. Be born able-bodied &/or American. Don't get hit by a bus." - https://twitter.com/saladinahmed
 
 
 
