@@ -83,6 +83,7 @@
 * http://dealbook.nytimes.com/2014/10/21/states-ease-laws-that-protected-poor-borrowers/?_php=true&_type=blogs&_r=0
 * http://arstechnica.com/tech-policy/2014/10/high-paid-consultant-to-plead-guilty-in-chicago-red-light-camera-case/
 * http://arstechnica.com/business/2014/10/fed-up-us-cities-try-to-build-better-broadband/
+* http://www.eurekalert.org/pub_releases/2014-10/puww-wdf102814.php
 
 
 
@@ -104,6 +105,8 @@
 
 <li><a href="http://www.npr.org/blogs/alltechconsidered/2014/03/04/285764961/frustrated-cities-take-high-speed-internet-into-their-own-hands" time_added="1394045599" tags="">Frustrated Cities Take High-Speed Internet Into Their Own Hands : All Tech </a></li>
 <li><a href="http://www.theatlanticcities.com/commute/2014/03/americas-cities-are-still-too-afraid-make-driving-unappealing/8564/" time_added="1394397544" tags="">"Tax[ing] the heck out of parking": the obvious winning modal shift strateg</a></li>
+
+* http://www.eurekalert.org/pub_releases/2014-10/puww-wdf102814.php
 
 
 

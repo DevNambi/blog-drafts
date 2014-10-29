@@ -136,6 +136,7 @@
 * http://engineering.zenpayroll.com/how-ach-works-a-developer-perspective-part-4/
 * https://www.wikileaks.org/tpp-ip2/
 * http://www.vice.com/read/organized-crime-pays-0000477-v21n10?curator=MediaREDEF
+* http://core-econ.org/
 
 <li><a href="http://www.ecommercebytes.com/cab/abu/y201/m09/abu0047/s03" time_added="1354918107" tags="domestic,finance">Sniping Tools - Making Sure You Win the Auction</a></li>
 <li><a href="http://t.co/lDcc9GKh" time_added="1356241834" tags="brand,health,hn,important">justinvincent: Why Workers Are Losing the War Against Machines http://t.co/</a></li>
