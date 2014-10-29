@@ -29,7 +29,8 @@
 * http://mattgemmell.com/confessions-of-an-ex-developer/
 * http://www.whoismcafee.com/three-guys-walk-into-a-microwave/
 * https://www.cs.cmu.edu/~dga/papers/cuckoo-conext2014.pdf
-
+* http://www.azarask.in/blog/post/the-wrong-problem/
+* http://www.wired.com/2012/10/ff-elon-musk-qa/all/
 
 
 
@@ -56,6 +57,7 @@
 
 * https://education.github.com/pack
 * http://www.karllhughes.com/2014/dev-bootcamp-program/
+* http://antirez.com/news/82
 
 
 

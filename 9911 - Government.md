@@ -12,6 +12,7 @@
 * http://www.bostonglobe.com/ideas/2014/10/18/vote-all-you-want-the-secret-government-won-change/jVSkXrENQlu8vNcBfMn9sL/story.html
 * http://www.theguardian.com/law/2014/oct/23/computer-users-damage-national-security-face-jail
 * http://managingresolutions.org/post/100917597601/the-wheels-are-falling-off-the-wagon-at-the-irs-a
+* http://www.nytimes.com/2014/10/29/opinion/weak-oversight-deadly-cars.html
 
 <li><a href="https://firstlook.org/theintercept/2014/02/14/ongoing-abuse-state-secrets-privilege/" time_added="1392591442" tags="">Obama DOJ's New Abuse of State-Secrets Privilege Revealed - The Intercept</a></li>
 <li><a href="http://arstechnica.com/tech-policy/2014/01/report-nsa-bulk-metadata-collection-has-no-discernible-impact/" time_added="1389637719" tags="">Report: NSA bulk metadata collection has “no discernible impact” | Ars Tech</a></li>
@@ -84,6 +85,7 @@
 * http://arstechnica.com/tech-policy/2014/10/high-paid-consultant-to-plead-guilty-in-chicago-red-light-camera-case/
 * http://arstechnica.com/business/2014/10/fed-up-us-cities-try-to-build-better-broadband/
 * http://www.eurekalert.org/pub_releases/2014-10/puww-wdf102814.php
+* http://www.nytimes.com/2014/10/29/us/lobbyists-bearing-gifts-pursue-attorneys-general.html?_r=0
 
 
 

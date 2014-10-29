@@ -117,6 +117,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 
 
 * http://www.reddit.com/r/DataVizRequests/top/?sort=top&t=all
+* http://textvis.lnu.se/
 
 
 

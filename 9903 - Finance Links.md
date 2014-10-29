@@ -19,6 +19,7 @@
 * http://www.nytimes.com/2014/10/17/world/europe/bloc-in-europe-starts-to-balk-over-austerity-.html
 * http://www.nakedcapitalism.com/2014/10/revolt-starting-in-uk-over-private-equity-fee-secrecy.html
 * http://www.nakedcapitalism.com/2014/10/ilargi-europe-redefines-stress-bank-boosterist-stress-tests.html
+* http://www.nytimes.com/2014/10/28/opinion/londons-housing-boom.html
 
 
 ## Bank & Regulatory Corruption
@@ -38,6 +39,8 @@
 * http://www.nakedcapitalism.com/2014/10/private-equity-at-work-rigorously-debunks-industry-mythology.html
 * http://www.nakedcapitalism.com/2014/10/dealbook-says-citi-afford-run-honest-bank-mexico.html
 * http://www.nakedcapitalism.com/2014/10/serious-ny-fed-dudleys-tough-talk-fixing-banking-culture.html 
+* http://www.nytimes.com/2014/10/29/nyregion/jpmorgan-chase-drops-plan-to-build-2-west-side-towers.html
+* http://www.reuters.com/article/2014/10/29/us-markets-sec-traders-idUSKBN0II0DC20141029
 
 
 

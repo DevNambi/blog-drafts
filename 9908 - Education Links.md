@@ -36,6 +36,7 @@
 * http://www.salon.com/2014/10/12/google_makes_us_all_dumber_the_neuroscience_of_search_engines/
 * http://mobile.nytimes.com/2014/10/18/your-money/a-financial-aid-map-for-families-who-have-saved-nothing.html
 * http://www.washingtonpost.com/blogs/answer-sheet/wp/2014/10/24/teacher-spends-two-days-as-a-student-and-is-shocked-at-what-she-learned/
+* http://www.nytimes.com/2014/10/29/opinion/secretary-arne-duncan-offers-states-guidance-on-equality.html
 
 
 ## Higher Education
@@ -160,6 +161,10 @@
 * http://www.theatlantic.com/education/archive/2014/10/does-england-have-the-solution-to-the-grade-inflation-problem/381571/
 * http://seattletimes.com/html/nationworld/2024881991_apxcollegesearchbigdata.html
 * http://www.eurekalert.org/pub_releases/2014-10/puww-wdf102814.php
+* http://www.nytimes.com/2014/11/02/education/edlife/greek-letters-at-a-price.html
+* http://www.nytimes.com/2014/10/28/upshot/a-new-push-to-get-low-income-students-through-college.html?abt=0002&abg=1
+* http://www.nytimes.com/2014/10/28/us/rare-survey-examines-sex-assault-at-mit-.html
+* http://blogs.seattletimes.com/northwestvoices/2014/10/27/uw-innovation-dont-lose-sight-of-academic-goals-by-building-new-buildings/
 
 
 ## MOOCs / Online Learning

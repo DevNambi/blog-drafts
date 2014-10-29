@@ -37,6 +37,7 @@
 <li><a href="http://techcrunch.com/2013/02/15/flightcar/" time_added="1360948133" tags="hn">Y Combinator-Backed FlightCar Launches Its ‘Airbnb For Airport Car Rentals’</a></li>
 <li><a href="http://www.newyorker.com/online/blogs/newsdesk/2013/03/the-cost-of-ubers-free-rides.html?currentPage=all" time_added="1363563038" tags="hn">The Cost of Uber's Free Rides : The New Yorker</a></li>
 
+* http://www.slate.com/articles/business/moneybox/2014/10/uber_driver_salary_the_ride_sharing_company_says_its_drivers_make_great.single.html
 
 
 ## Technical
