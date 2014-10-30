@@ -58,6 +58,7 @@
 * http://chronicle.com/article/Youre-Distracted-This/138079/
 * http://arstechnica.com/staff/2014/10/harnessing-depression-one-ars-writers-journey/
 * http://www.nytimes.com/2014/10/26/opinion/sunday/the-problem-with-positive-thinking.html
+* http://www.vox.com/2014/10/29/7041025/steven-johnson-interview-how-we-got-to-now-heres-how-innovation-happens?utm_campaign=vox&utm_content=chorus&utm_medium=social&utm_source=twitter
 
 
 
@@ -166,6 +167,7 @@
 * http://dhowe.github.io/AdNauseam/
 * http://blogs.microsoft.com/on-the-issues/2014/10/23/four-10-americans-face-regular-online-fraud-attacks-microsoft-survey/
 * http://arstechnica.com/information-technology/2014/10/taking-back-privacy-in-the-post-snowden-cloud/
+* http://www.propublica.org/article/somebodys-already-using-verizons-id-to-track-users
 
 
 

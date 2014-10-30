@@ -158,6 +158,8 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 <li><a href="https://t.co/RsHwao64" time_added="1353434305" tags="data science,viz">johnmyleswhite: The ggthemes package for #rstats looks very promising: http</a></li>
 <li><a href="http://drunks-and-lampposts.com/2012/10/02/clegg-vs-pleb-an-xkcd-esque-chart/" time_added="1350707127" tags="data science,viz">Clegg vs Pleb: An XKCD-esque chart « Drunks&Lampposts</a></li>
 
+* http://opr.princeton.edu/workshops/201401/ggplot2Jan2014DawnKoffman.pdf
+
 
 #### Tableau
 

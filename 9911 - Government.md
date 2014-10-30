@@ -163,6 +163,7 @@
 * http://arstechnica.com/tech-policy/2014/10/handful-of-virginia-police-agencies-sharing-seized-phone-data/
 * http://www.insidebayarea.com/breaking-news/ci_26793090/warrant-chp-officer-says-stealing-nude-photos-from
 * http://www.wsaw.com/news/headlines/Attorney-Calls-Deputies-Response-to-Property-Seizure-Excessive-Lawsuit-Filed-280578482.html
+* http://www.huffingtonpost.com/homero-aridjis/mexico-missing-students_b_6062000.html
 
 
 
