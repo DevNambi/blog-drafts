@@ -58,6 +58,7 @@
 * https://education.github.com/pack
 * http://www.karllhughes.com/2014/dev-bootcamp-program/
 * http://antirez.com/news/82
+* http://kevgriffin.com/the-non-techie-guide-to-source-control/
 
 
 
@@ -196,7 +197,7 @@
 <li><a href="http://tech.coursera.org/blog/2014/02/18/why-we-love-scala-at-coursera/" time_added="1392750272" tags="">Why we love Scala at Coursera - Coursera Technology</a></li>
 
 
-
+* https://github.com/alexandru/scala-best-practices/
 
 
 

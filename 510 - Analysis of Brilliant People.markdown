@@ -14,6 +14,7 @@ The assumption is that they were more than just smart. They also had a process a
 * https://podio.com/site/creative-routines
 * http://www.moreintelligentlife.com/content/edward-carr/last-days-polymath
 * http://nautil.us/issue/18/genius/super_intelligent-humans-are-coming
+* http://nautil.us/issue/18/genius/if-you-think-youre-a-genius-youre-crazy
 
 Lessons learned from Genius
 

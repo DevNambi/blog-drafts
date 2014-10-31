@@ -16,6 +16,8 @@ Get a copy of the bingo board
 * https://twitter.com/BecomingDataSci/lists/women-in-data-science/members
 * http://arstechnica.com/tech-policy/2014/10/pew-survey-says-online-harassment-rampant-impacts-genders-differently/
 * http://mic.com/articles/102550/if-anyone-tells-you-street-harassment-isn-t-a-problem-show-them-this-video
+* http://www.salon.com/2014/10/30/that_creepy_guy_from_the_internet_how_gamergate_shattered_faith_in_the_geek_community/
+* http://actuallyethics.tumblr.com/
 
 
 "Life hacks: Be born male &/or white &/or straight. Be born to college graduates. Be born able-bodied &/or American. Don't get hit by a bus." - https://twitter.com/saladinahmed
