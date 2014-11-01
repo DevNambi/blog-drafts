@@ -58,7 +58,9 @@
 * http://chronicle.com/article/Youre-Distracted-This/138079/
 * http://arstechnica.com/staff/2014/10/harnessing-depression-one-ars-writers-journey/
 * http://www.nytimes.com/2014/10/26/opinion/sunday/the-problem-with-positive-thinking.html
-* http://www.vox.com/2014/10/29/7041025/steven-johnson-interview-how-we-got-to-now-heres-how-innovation-happens?utm_campaign=vox&utm_content=chorus&utm_medium=social&utm_source=twitter
+* http://www.vox.com/2014/10/29/7041025/steven-johnson-interview-how-we-got-to-now-heres-how-innovation-happens
+
+Ethan White: "scheduling time on my calendar for the important (and sticking to that commitment), defaulting to No for the not important [are tactics/techniques I use to prevent the urgent crowd out the important]", https://twitter.com/ethanwhite/status/527819142712545280
 
 
 

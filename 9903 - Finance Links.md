@@ -133,6 +133,7 @@
 
 * http://www.nakedcapitalism.com/2014/10/markets-panicked-deteriorating-fundamentals.html
 * http://www.nakedcapitalism.com/2014/10/matt-stoller-need-break-amazon.html
+* http://www.nakedcapitalism.com/2014/10/fed-needs-stop-asset-acquisitions-generation.html
 
 ## Misc
 

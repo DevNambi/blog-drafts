@@ -13,6 +13,7 @@
 
 
 * http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/
+* http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf
 
 
 
@@ -300,6 +301,8 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 <li><a href="http://t.co/y9De8Gt1" time_added="1358258443" tags="">eddelbuettel: A first and simple Boost example with Rcpp at the Rcpp Galler</a></li>
 <li><a href="http://www.r-bloggers.com/visualizing-principal-components/" time_added="1356371205" tags="">Visualizing Principal Components | (R news & tutorials)</a></li>
 
+* http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html
+
 
 
 
@@ -418,6 +421,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://blog.graphlab.com/graphlab-create-v1.0-now-generally-available
 * http://engineroom.trackmaven.com/blog/first-monthly-challenge-elasticsearch/
 * http://code.hootsuite.com/redirecting-the-firehose-from-hadoop-to-s3/
+* http://www.citusdata.com/blog/86-making-postgresql-scale-hadoop-style
 
 
 

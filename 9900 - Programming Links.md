@@ -180,6 +180,7 @@
 * http://www.hokstad.com/docker/patterns
 * https://www.backblaze.com/blog/petabytes-on-a-budget-how-to-build-cheap-cloud-storage-2/
 * http://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time
+* http://cloudacademy.com/blog/google-cloud-vs-aws-a-comparison/
 
 
 

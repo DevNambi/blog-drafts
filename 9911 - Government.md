@@ -13,6 +13,7 @@
 * http://www.theguardian.com/law/2014/oct/23/computer-users-damage-national-security-face-jail
 * http://managingresolutions.org/post/100917597601/the-wheels-are-falling-off-the-wagon-at-the-irs-a
 * http://www.nytimes.com/2014/10/29/opinion/weak-oversight-deadly-cars.html
+* http://www.nakedcapitalism.com/2014/10/government-private-sector-leads-innovation.html
 
 <li><a href="https://firstlook.org/theintercept/2014/02/14/ongoing-abuse-state-secrets-privilege/" time_added="1392591442" tags="">Obama DOJ's New Abuse of State-Secrets Privilege Revealed - The Intercept</a></li>
 <li><a href="http://arstechnica.com/tech-policy/2014/01/report-nsa-bulk-metadata-collection-has-no-discernible-impact/" time_added="1389637719" tags="">Report: NSA bulk metadata collection has “no discernible impact” | Ars Tech</a></li>
@@ -177,15 +178,16 @@
 <li><a href="http://www.theatlantic.com/business/archive/2014/02/the-spectacular-myth-of-obamas-part-time-america-in-5-graphs/283674/" time_added="1391981377" tags="">The Spectacular Myth of Obama's Part-Time America—in 5 Graphs - Derek Thomp</a></li>
 <li><a href="http://flowingdata.com/2013/02/12/state-of-the-union-address-decreasing-reading-level/" time_added="1360714940" tags="">State of the Union address decreasing reading level</a></li>
 <li><a href="http://www.truthdig.com/report/item/its_good_to_be_the_multinational_corporations_20130312/" time_added="1363146514" tags="finance,important">Robert Scheer: If Corporations Don’t Pay Taxes, Why Should You? - Robert Sc</a></li>
-<li><a href="http://arstechnica.com/tech-policy/2012/12/warrantless-wiretaps-congress-votes-yes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" time_added="1356750620" tags="">Warrantless wiretaps? Congress votes yes | Ars Technica</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2012/12/warrantless-wiretaps-congress-votes-yes/" time_added="1356750620" tags="">Warrantless wiretaps? Congress votes yes | Ars Technica</a></li>
 <li><a href="http://t.co/MW7fuUxbbe" time_added="1388504122" tags="">http://www.commerce.senate.gov/public/index.cfm?p=PressReleases&ContentReco</a></li>
 <li><a href="http://t.co/u0dyzmIybf" time_added="1392243716" tags="">http://www.franken.senate.gov/files/letter/140212FordResponse.pdf …</a></li>
-<li><a href="http://arstechnica.com/tech-policy/2013/01/tech-companies-cheer-for-senate-proposal-to-increase-immigration/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" time_added="1359507207" tags="">Tech companies cheer for Senate proposal to increase immigration | Ars Tech</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2013/01/tech-companies-cheer-for-senate-proposal-to-increase-immigration/" time_added="1359507207" tags="">Tech companies cheer for Senate proposal to increase immigration | Ars Tech</a></li>
 <li><a href="http://news.slashdot.org/story/14/01/10/1422206/largest-bitcoin-mining-pool-pledges-not-to-execute-51-attack" time_added="1389405009" tags="">Bitcoin *continues* to teach Libertarians about the power of natural monopo</a></li>
 
 
 * https://medium.com/i-m-h-o/the-world-is-socialist-c8f0a6dfffab
 * http://www.networkworld.com/article/2837808/big-data-business-intelligence/big-data-wars-how-technology-could-tip-the-mid-term-elections.html
 * http://www.newyorker.com/humor/borowitz-report/midterms-prediction-billionaires-retain-control-government
+* http://projects.aljazeera.com/2014/double-voters/index.html
 
 

@@ -467,6 +467,7 @@ I'm glad these issues are making it into the press. Health care in America is be
 
 
 * http://m.theatlantic.com/magazine/archive/2014/11/doctors-tell-all-and-its-bad/380785/?single_page=true
+* http://www.nakedcapitalism.com/2014/10/the-tragedy-of-electronic-medical-records.html
 
 
 <li><a href="http://www.vanityfair.com/culture/2013/02/quantified-self-hive-mind-weight-watchers" time_added="1357716702" tags="hn">Living the Quantified-Self Way: Like a Weirder, Hive-Mindier Weight Watcher</a></li>
