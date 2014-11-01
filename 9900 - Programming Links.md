@@ -31,6 +31,9 @@
 * https://www.cs.cmu.edu/~dga/papers/cuckoo-conext2014.pdf
 * http://www.azarask.in/blog/post/the-wrong-problem/
 * http://www.wired.com/2012/10/ff-elon-musk-qa/all/
+* http://www.extremetech.com/extreme/188776-how-l1-and-l2-cpu-caches-work-and-why-theyre-an-essential-part-of-modern-chips
+* https://medium.com/@blprnt/the-hypercard-legacy-e5b9eb273b6a
+* https://gist.github.com/Secathor/8415846 <- latency metrics, v2
 
 
 
@@ -371,6 +374,7 @@ things they believe in will keep </a></li>
 * https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging-in-json/
 * http://anandtech.com/show/8223/an-introduction-to-semiconductor-physics-technology-and-industry
 * http://elementaryos.org/docs/human-interface-guidelines
+* http://stuff-gil-says.blogspot.com/2014/10/what-sort-of-allocation-rates-can.html
 
 ## Funny
 

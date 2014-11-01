@@ -99,6 +99,7 @@ Emphasize what we don't know
 * http://www.bbc.com/news/magazine-29761274
 * http://www.huffingtonpost.com/2014/10/27/gulf-oil-spill-bathtub-ring_n_6056348.html
 * http://www.salon.com/2014/10/28/researchers_not_even_a_global_pandemic_can_solve_our_overpopulation_problem/
+* http://www.theatlantic.com/health/archive/2014/11/the-climate-change-solution-no-one-will-talk-about/382197/
 
 
 
