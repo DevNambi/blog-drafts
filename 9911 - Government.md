@@ -187,5 +187,6 @@
 * https://medium.com/i-m-h-o/the-world-is-socialist-c8f0a6dfffab
 * http://www.networkworld.com/article/2837808/big-data-business-intelligence/big-data-wars-how-technology-could-tip-the-mid-term-elections.html
 * http://www.newyorker.com/humor/borowitz-report/midterms-prediction-billionaires-retain-control-government
+* http://boingboing.net/2014/10/31/secret-recording-of-corporate.html
 
 
