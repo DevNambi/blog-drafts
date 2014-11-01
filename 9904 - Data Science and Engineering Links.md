@@ -14,6 +14,7 @@
 
 * http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/
 * http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf
+* http://nbviewer.ipython.org/github/jakevdp/ESAC-stats-2014/blob/master/notebooks/Index.ipynb
 
 
 
