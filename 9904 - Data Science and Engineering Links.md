@@ -172,6 +172,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 <li><a href="http://t.co/lsMlKFOu" time_added="1361205105" tags="viz">More @Tableau data connectors... lnkd.in/6bBMQh</a></li>
 
 * http://tableaulove.tumblr.com/post/100325738425/which-ec2-instance-type-should-i-run-tableau-server-on
+* http://tableaulove.tumblr.com/post/101512010275/which-aws-ec2-instance-type-should-i-run-tableau-server
 
 
 

@@ -119,6 +119,8 @@
 <li><a href="http://www.alternet.org/when-women-wanted-sex-much-more-men" time_added="1385152258" tags="domestic">When Women Wanted Sex Much More Than Men alternet.org And how the stereotyp</a></li>
 <li><a href="http://www.marcandangel.com/2013/04/15/9-things-your-relationships-need-from-you/" time_added="1367350446" tags="domestic">9 Things Your Relationships Need From You</a></li>
 
+* http://www.theatlantic.com/health/archive/2014/06/why-we-sleep-together/371477/
+
 
 
 ## Housing

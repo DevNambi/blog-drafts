@@ -168,6 +168,7 @@
 * http://www.washingtonpost.com/news/the-watch/wp/2014/10/29/surprise-controversial-patriot-act-power-now-overwhelmingly-used-in-drug-investigations/
 * http://www.theguardian.com/society/2014/oct/30/drug-laws-international-study-tough-policy-use-problem
 * http://www.latimes.com/world/mexico-americas/la-fg-mexico-american-deaths-20141101-story.html
+* http://www.economist.com/news/united-states/21599349-americas-police-have-become-too-militarised-cops-or-soldiers?fsrc=scn/tw/te/pe/copsorsoldiers
 
 
 

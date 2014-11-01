@@ -93,6 +93,7 @@
 * http://i.imgur.com/H7hj5.jpg
 * http://time.com/3513875/soda-may-age-you-as-much-as-smoking/
 * http://www.bbc.com/news/magazine-29817519
+* http://well.blogs.nytimes.com/2014/10/30/a-heart-risk-in-drinking-water/?_r=0
 
 
 ### Exercise
@@ -267,6 +268,7 @@
 * http://blogs.scientificamerican.com/cross-check/2013/11/02/a-dig-through-old-files-reminds-me-why-im-so-critical-of-science/
 * http://www.scmp.com/news/china/article/1074327/harbin-doctors-killing-highlights-problem-hospitals
 * http://www.reuters.com/article/2014/10/26/us-salesforce-com-health-exclusive-idUSKBN0IF0EA20141026
+* http://www.seattlepi.com/national/article/Study-Cosmetic-talc-products-carry-asbestos-peril-5861858.php
 
 
 **Learning from the Best**

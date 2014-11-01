@@ -34,6 +34,7 @@
 * http://www.extremetech.com/extreme/188776-how-l1-and-l2-cpu-caches-work-and-why-theyre-an-essential-part-of-modern-chips
 * https://medium.com/@blprnt/the-hypercard-legacy-e5b9eb273b6a
 * https://gist.github.com/Secathor/8415846 <- latency metrics, v2
+* http://blog.flux7.com/blogs/benchmarks/littles-law
 
 
 
@@ -131,6 +132,9 @@
 <li><a href="http://www.economist.com/blogs/babbage/2012/06/super-star-programmers?fsrc=gn_ep&utm_medium=referral&utm_source=pulsenews" time_added="1349321857" tags="hn">Super-star programmers: Difference engine: Wired for speed | The Economist</a></li>
 <li><a href="http://news.ycombinator.com/item?id=4626201" time_added="1349738310" tags="hn">Ask HN: What did the really successful programmers do differently? | Hacker</a></li>
 <li><a href="http://blog.jgc.org/2012/07/some-things-ive-learnt-about.html?utm_medium=referral&utm_source=pulsenews" time_added="1349321604" tags="hn">Some things I've learnt about programming | John Graham-Cumming</a></li>
+
+
+* http://arstechnica.com/information-technology/2014/11/how-to-manage-accidental-complexity-in-software-projects/
 
 
 

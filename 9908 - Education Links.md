@@ -38,6 +38,7 @@
 * http://www.washingtonpost.com/blogs/answer-sheet/wp/2014/10/24/teacher-spends-two-days-as-a-student-and-is-shocked-at-what-she-learned/
 * http://www.nytimes.com/2014/10/29/opinion/secretary-arne-duncan-offers-states-guidance-on-equality.html
 * http://www.washingtonpost.com/opinions/rehearsing-for-death-a-pre-k-teacher-on-the-trouble-with-lockdown-drills/2014/10/28/4ab456ea-5eb2-11e4-9f3a-7e28799e0549_story.html
+* http://www.salon.com/2014/11/01/we_must_still_hate_our_kids_philadelphia_and_education_reformers_fight_demented_war_on_elementary_schools/
 
 
 ## Higher Education
