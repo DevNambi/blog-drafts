@@ -398,6 +398,7 @@ things they believe in will keep </a></li>
 
 
 * http://s3.crashworks.org.s3-website-us-east-1.amazonaws.com/if-programming-languages-were-vehicles/
+* http://arstechnica.com/information-technology/2014/10/the-devil-had-possessed-his-netbook-and-other-tales-of-it-terror/
 
 
 

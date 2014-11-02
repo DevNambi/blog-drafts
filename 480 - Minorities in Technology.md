@@ -19,6 +19,7 @@ Get a copy of the bingo board
 * http://www.salon.com/2014/10/30/that_creepy_guy_from_the_internet_how_gamergate_shattered_faith_in_the_geek_community/
 * http://actuallyethics.tumblr.com/
 * http://galileospendulum.org/2014/11/01/no-academic-science-hasnt-overcome-sexism/
+* http://www.emilywillinghamphd.com/2014/11/academic-science-is-sexist-we-do-have.html
 
 
 "Life hacks: Be born male &/or white &/or straight. Be born to college graduates. Be born able-bodied &/or American. Don't get hit by a bus." - https://twitter.com/saladinahmed
