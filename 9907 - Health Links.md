@@ -270,6 +270,7 @@
 * http://www.reuters.com/article/2014/10/26/us-salesforce-com-health-exclusive-idUSKBN0IF0EA20141026
 * http://www.seattlepi.com/national/article/Study-Cosmetic-talc-products-carry-asbestos-peril-5861858.php
 * http://en.wikipedia.org/wiki/Contaminated_haemophilia_blood_products
+* http://mosaicscience.com/story/plutocratic-proposal
 
 
 **Learning from the Best**

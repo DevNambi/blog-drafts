@@ -41,6 +41,7 @@
 * http://www.nakedcapitalism.com/2014/10/serious-ny-fed-dudleys-tough-talk-fixing-banking-culture.html 
 * http://www.nytimes.com/2014/10/29/nyregion/jpmorgan-chase-drops-plan-to-build-2-west-side-towers.html
 * http://www.reuters.com/article/2014/10/29/us-markets-sec-traders-idUSKBN0II0DC20141029
+* http://www.independent.co.uk/news/world/politics/number-of-global-billionaires-has-doubled-since-the-financial-crisis-9826345.html
 
 
 

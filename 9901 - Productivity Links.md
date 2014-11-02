@@ -170,6 +170,7 @@ Ethan White: "scheduling time on my calendar for the important (and sticking to 
 * http://blogs.microsoft.com/on-the-issues/2014/10/23/four-10-americans-face-regular-online-fraud-attacks-microsoft-survey/
 * http://arstechnica.com/information-technology/2014/10/taking-back-privacy-in-the-post-snowden-cloud/
 * http://www.propublica.org/article/somebodys-already-using-verizons-id-to-track-users
+* http://nautil.us/issue/7/waste/the-cost-of-cryptography
 
 
 

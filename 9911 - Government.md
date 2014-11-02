@@ -14,6 +14,7 @@
 * http://managingresolutions.org/post/100917597601/the-wheels-are-falling-off-the-wagon-at-the-irs-a
 * http://www.nytimes.com/2014/10/29/opinion/weak-oversight-deadly-cars.html
 * http://www.nakedcapitalism.com/2014/10/government-private-sector-leads-innovation.html
+* http://www.nytimes.com/2014/11/02/magazine/megan-smith-you-can-affect-billions-of-people.html
 
 <li><a href="https://firstlook.org/theintercept/2014/02/14/ongoing-abuse-state-secrets-privilege/" time_added="1392591442" tags="">Obama DOJ's New Abuse of State-Secrets Privilege Revealed - The Intercept</a></li>
 <li><a href="http://arstechnica.com/tech-policy/2014/01/report-nsa-bulk-metadata-collection-has-no-discernible-impact/" time_added="1389637719" tags="">Report: NSA bulk metadata collection has “no discernible impact” | Ars Tech</a></li>
@@ -150,7 +151,7 @@
 <li><a href="http://touch.baltimoresun.com/#section/-1/article/p2p-80813034/" time_added="1405528426" tags="">Baltimore Sun - Detainees are human [Commentary]</a></li>
 <li><a href="http://t.co/w7FYpCzSDw" time_added="1362612422" tags="">Follow Holder's logic in @aaronsw: your sentence will be fair only if you </a></li>
 <li><a href="http://www.salon.com/2014/06/24/a_swat_team_blew_a_hole_in_my_2_year_old_son/" time_added="1403628415" tags="">http://www.salon.com/2014/06/24/a_swat_team_blew_a_hole_in_my_2_year_old_son/</a></li>
-<li><a href="http://www.salon.com/2014/04/30/justice_scalia_makes_embarrassing_error_in_latest_dissent/?utm_source=facebook&utm_medium=socialflow" time_added="1398954250" tags="">Justice Scalia makes embarrassing error in latest dissent - Salon.com</a></li>
+<li><a href="http://www.salon.com/2014/04/30/justice_scalia_makes_embarrassing_error_in_latest_dissent/" time_added="1398954250" tags="">Justice Scalia makes embarrassing error in latest dissent - Salon.com</a></li>
 
 
 * http://www.ajc.com/news/news/breaking-news/no-charges-for-officers-in-botched-drug-raid-that-/nhc2N/
@@ -169,6 +170,7 @@
 * http://www.theguardian.com/society/2014/oct/30/drug-laws-international-study-tough-policy-use-problem
 * http://www.latimes.com/world/mexico-americas/la-fg-mexico-american-deaths-20141101-story.html
 * http://www.economist.com/news/united-states/21599349-americas-police-have-become-too-militarised-cops-or-soldiers?fsrc=scn/tw/te/pe/copsorsoldiers
+* http://www.seattlepi.com/news/crime/article/No-charges-for-deputies-who-arrested-man-who-died-5863865.php
 
 
 

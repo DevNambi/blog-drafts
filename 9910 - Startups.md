@@ -46,6 +46,7 @@
 <li><a href="http://www.wired.com/opinion/2014/01/secret-snapchats-monetization-success-will-surprise/" time_added="1391099604" tags="">The Key to Snapchat's Profitability: It's Dirt Cheap to Run | Wired Opinion</a></li>
 
 * http://codingvc.com/analyzing-angellist-job-postings-part-1-basic-stats
+* http://lookatmeimdanny.tumblr.com/post/101432017159/how-putting-10m-into-ubeam-illustrates-everything-that
 
 
 
@@ -68,6 +69,7 @@
 * http://tiempoapp.com/y-combinator-a-two-year-old-and-a-pregnant-wife
 * http://www.brainshave.com/blog/startcraps
 * http://techcrunch.com/2014/10/25/currentc/
+* http://www.theguardian.com/us-news/2014/oct/28/-sp-jobs-brokers-entrap-indian-tech-workers?CMP=share_btn_tw
 
 
 
