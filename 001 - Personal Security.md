@@ -7,7 +7,7 @@
 * The incentives for keeping data secure are all missing
 * Data's genius is also its Achilles heel: perfect copying
 * No way to prove something is you that a hacker can't exploit
-* Don't try protecting yourself from huge states (Mossad or not-Mossad). Add XKCD comic.
+* Don't try protecting yourself from huge states (Mossad or not-Mossad). Add XKCD comic. Add James Mickens references
 * You will get hacked. The incentives are there.
 
 ### Goal 1: Don't Get Hacked
@@ -23,7 +23,13 @@
 * Credit freeze
 * Computer, smartphone security
 
-#### Goal 2: When You Get Hacked, Have It Not Be a Huge Deal
+#### Goal 2: When You Get Hacked, Find Out Quickly
+
+* Credit monitoring services
+* Alerts
+
+
+#### Goal 3: When You Get Hacked, Have It Not Be a Huge Deal
 
 * Separation of security
 * Password reset emails
@@ -32,6 +38,3 @@
 	* Locations
 	* Devices
 
-#### Goal 3: When You Get Hacked, Find Out Quickly
-
-* Credit monitoring services
