@@ -96,6 +96,7 @@
 <li><a href="http://blog.assembla.com/assemblablog/tabid/12618/bid/88421/Intro-to-Scalable-Agile-Scale-Your-Teams-and-Release-More-Frequently.aspx" time_added="1349321281" tags="hn">Intro to Scalable Agile: Scale Your Teams and Release More Frequently</a></li>
 <li><a href="http://www.switchscribe.com/?p=181" time_added="1349321432" tags="hn">Four Simple Keys to Operational Excellence – It’s not an IT or Data Center </a></li>
 <li><a href="http://blogs.hbr.org/hbr/nayar/2012/06/three-things-that-drive-teams.html" time_added="1349321585" tags="hn">The Key Ingredients of a Successful Team - Vineet Nayar - Harvard Business </a></li>
+<li><a href="http://arstechnica.com/information-technology/2014/02/why-isolate-lower-application-layers-from-higher-layers/" time_added="1391325198" tags="">Why isolate “lower” application layers from “higher” layers?</a></li>
 
 * http://martinfowler.com/bliki/SacrificialArchitecture.html
 
