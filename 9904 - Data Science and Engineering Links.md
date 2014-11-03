@@ -290,6 +290,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://www.mimno.org/articles/hdp/
 * http://techcrunch.com/2014/10/26/elon-musk-compares-building-artificial-intelligence-to-summoning-the-demon/
 * http://www.wired.com/2014/10/future-of-artificial-intelligence/
+* http://www.i-programmer.info/news/105-artificial-intelligence/7352-the-flaw-lurking-in-every-deep-neural-net.html
 
 
 

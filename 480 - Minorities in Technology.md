@@ -21,6 +21,7 @@ Get a copy of the bingo board
 * http://galileospendulum.org/2014/11/01/no-academic-science-hasnt-overcome-sexism/
 * http://www.emilywillinghamphd.com/2014/11/academic-science-is-sexist-we-do-have.html
 * https://medium.com/matter/you-should-learn-to-code-is-the-new-you-should-go-to-law-school-talk-dads-love-to-have-b03bd22b3c99
+* http://boingboing.net/2014/11/01/surveillance-and-stalkers-how.html
 
 
 "Life hacks: Be born male &/or white &/or straight. Be born to college graduates. Be born able-bodied &/or American. Don't get hit by a bus." - https://twitter.com/saladinahmed
