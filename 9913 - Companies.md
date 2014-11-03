@@ -64,3 +64,4 @@
 <li><a href="http://blog.level3.com/global-connectivity/verizons-accidental-mea-culpa/" time_added="1405622392" tags="">Verizon’s Accidental Mea Culpa | Beyond Bandwidth</a></li>
 <li><a href="http://davesblog.com/blog/2014/02/05/verizon-using-recent-net-neutrality-victory-to-wage-war-against-netflix/" time_added="1391617537" tags="">Hey, guys. This is what happens when net neutrality goes away. Prepare your</a></li>
 
+* http://www.infoworld.com/article/2840959/data-security/mobile-payments-fraud-opportunities.html

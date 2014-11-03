@@ -162,6 +162,7 @@
 * http://www.al.com/news/index.ssf/2014/10/gangrene_and_broken_bones_kill.html
 * http://www.wired.com/2014/10/virginia-police-secretively-stockpiling-private-phone-records/
 * http://www.washingtonpost.com/news/morning-mix/wp/2014/08/14/tear-gas-is-a-chemical-weapon-banned-in-war-but-ferguson-police-shoot-it-at-protesters/
+* http://seattletimes.com/html/nationworld/2024936090_apxfergusonnofly.html
 * http://www.salon.com/2014/10/20/swat_teams_brutal_murder_how_they_killed_an_innocent_man_on_his_childhood_driveway/
 * http://arstechnica.com/tech-policy/2014/10/handful-of-virginia-police-agencies-sharing-seized-phone-data/
 * http://www.insidebayarea.com/breaking-news/ci_26793090/warrant-chp-officer-says-stealing-nude-photos-from

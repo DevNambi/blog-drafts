@@ -239,6 +239,7 @@
 * http://www.bloomberg.com/news/2014-09-04/secret-network-connects-harvard-money-to-payday-loans.html
 * http://strategyandanalytics.com/hardship-professions-unhappy-suicidal-alcoholic-job-lists/
 * http://www.nakedcapitalism.com/2014/09/profit-colleges-factories-debt.html
+* https://www.insidehighered.com/news/2014/11/03/study-finds-serious-attrition-issues-black-and-latino-doctoral-students
 * http://mobile.nytimes.com/2014/10/05/nyregion/community-college-students-face-a-very-long-road-to-graduation.html
 * https://www.bostonglobe.com/metro/2014/10/04/glut-postdoc-researchers-stirs-quiet-crisis-science/HWxyErx9RNIW17khv0MWTN/story.html
 * http://blogs.wsj.com/economics/2014/10/07/sat-scores-and-income-inequality-how-wealthier-kids-rank-higher/
