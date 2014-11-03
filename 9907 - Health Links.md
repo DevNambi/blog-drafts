@@ -224,6 +224,7 @@
 * http://arstechnica.com/tech-policy/2014/10/feds-examining-medical-devices-for-fatal-cybersecurity-flaws/
 * http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html
 * http://www.nytimes.com/2014/10/28/world/africa/wish-to-do-more-in-ebola-fight-meets-reality-in-liberia.html?_r=0
+* http://seattletimes.com/html/localnews/2024939773_jdlcolumn03xml.html
 
 
 
