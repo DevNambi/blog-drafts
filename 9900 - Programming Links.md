@@ -35,6 +35,7 @@
 * https://medium.com/@blprnt/the-hypercard-legacy-e5b9eb273b6a
 * https://gist.github.com/Secathor/8415846 <- latency metrics, v2
 * http://blog.flux7.com/blogs/benchmarks/littles-law
+* http://research.microsoft.com/en-us/um/people/lamport/pubs/pubs.html
 
 
 
