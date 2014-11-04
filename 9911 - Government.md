@@ -16,6 +16,7 @@
 * http://www.nakedcapitalism.com/2014/10/government-private-sector-leads-innovation.html
 * http://www.nytimes.com/2014/11/02/magazine/megan-smith-you-can-affect-billions-of-people.html
 * http://www.komonews.com/news/national/Doubts-chip-away-at-nations-most-trusted-agencies-281225281.html
+* http://time.com/3541008/nobel-peace-prize-torture-barack-obama/
 
 <li><a href="https://firstlook.org/theintercept/2014/02/14/ongoing-abuse-state-secrets-privilege/" time_added="1392591442" tags="">Obama DOJ's New Abuse of State-Secrets Privilege Revealed - The Intercept</a></li>
 <li><a href="http://arstechnica.com/tech-policy/2014/01/report-nsa-bulk-metadata-collection-has-no-discernible-impact/" time_added="1389637719" tags="">Report: NSA bulk metadata collection has “no discernible impact” | Ars Tech</a></li>
