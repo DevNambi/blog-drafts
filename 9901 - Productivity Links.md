@@ -174,7 +174,7 @@ Ethan White: "scheduling time on my calendar for the important (and sticking to 
 * http://cryptome.org/2014/11/ms-onedrive-nsa-prism.htm
 * http://arstechnica.com/security/2014/11/cell-carrier-was-weakest-link-in-hack-of-google-instagram-accounts/
 * http://arstechnica.com/security/2014/11/does-your-phone-company-track-you/
-* 
+* https://www.eff.org/press/releases/which-messaging-technologies-are-truly-safe-and-secure
 
 
 
