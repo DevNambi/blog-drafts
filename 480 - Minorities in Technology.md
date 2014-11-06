@@ -1,12 +1,11 @@
 # Minorities in Technology
 
-Not just women. Any group that's underrepresented (race, age, etc).
+**Priceless**
 
-#ghc #ghcmanwatch
-
-Get a copy of the bingo board
+http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave-engineering-blame-the-work-culture
 
 
+### Resources, Links
 * http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/#the-list
 * Image comes from http://chainsawsuit.com/wp-content/uploads/2014/10/20141015-perfectcrime.png
 * http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/
@@ -29,7 +28,7 @@ Get a copy of the bingo board
 
 
 
-
+<ul>
 <li><a href="http://women2.com/paul-graham-idea-get-girls-tech-plenty-people/" time_added="1388615506" tags="">http://women2.com/paul-graham-idea-get-girls-tech-plenty-people/</a></li>
 <li><a href="http://danluu.com/gender-gap/" time_added="1394486500" tags="">There is a gender gap in tech salaries danluu.com/gender-gap/</a></li>
 <li><a href="http://qz.com/182977/there-is-no-gender-gap-in-tech-salaries/#/h/51099,4/" time_added="1393871823" tags="">"the two highest paying professions with wage equality are in technology (c</a></li>
@@ -46,11 +45,6 @@ Get a copy of the bingo board
 <li><a href="http://venturebeat.com/2014/01/08/meet-the-booth-babes-of-ces-and-read-what-they-really-think-about-attendees/" time_added="1389208541" tags="">http://venturebeat.com/2014/01/08/meet-the-booth-babes-of-ces-and-read-what</a></li>
 <li><a href="http://juliepagano.com/blog/2014/02/26/bad-ally-quiz/" time_added="1393619680" tags="">Julie Pagano - Bad Ally Quiz</a></li>
 <li><a href="http://techcrunch.com/2014/01/13/booth-babes-dont-convert/" time_added="1389765884" tags="">Booth Babes Don’t Work | TechCrunch</a></li>
+</ul>
 
-
-
-
-
-
-
-
+Focus on not just women. Any group that's underrepresented (race, age, etc).

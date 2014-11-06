@@ -34,7 +34,7 @@
 <li><a href="http://www.npr.org/blogs/money/2014/08/27/343415569/whos-in-the-office-the-american-workday-in-one-graph" time_added="1409205769" tags="">Who's In The Office? The American Workday In One Graph : Planet Money : NPR</a></li>
 
 
-
+Where Did Soul-Sucking Office-Speak Come From? http://t.co/xvTAKBY2m2 http://t.co/lgpGq1Vyi3 - @VICE
 
 
 
