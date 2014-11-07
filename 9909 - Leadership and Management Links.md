@@ -10,6 +10,7 @@
 * http://www.dailykos.com/story/2014/07/08/1312523/-These-Two-Studies-Turn-Wall-Street-s-Economic-Argument-On-Its-Head
 * http://firstround.com/article/This-is-Why-People-Leave-Your-Company
 * http://the-toast.net/2014/10/27/employer-put-fml-fmla/
+* http://queue.acm.org/detail.cfm?id=2685692
 
 
 <li><a href="http://lifehacker.com/5936493/want-to-be-a-great-leader-start-reading?utm_medium=referral&utm_source=pulsenews" time_added="1348860619" tags="hn">Want to Be a Great Leader? Start Reading</a></li>
@@ -36,7 +37,7 @@
 
 Where Did Soul-Sucking Office-Speak Come From? http://t.co/xvTAKBY2m2 http://t.co/lgpGq1Vyi3 - @VICE
 
-
+OH: "why do we call them managers? Why don't we just call them failed developers?" ... @Jorriss
 
 
 

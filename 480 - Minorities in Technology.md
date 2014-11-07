@@ -21,11 +21,17 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * http://www.emilywillinghamphd.com/2014/11/academic-science-is-sexist-we-do-have.html
 * https://medium.com/matter/you-should-learn-to-code-is-the-new-you-should-go-to-law-school-talk-dads-love-to-have-b03bd22b3c99
 * http://boingboing.net/2014/11/01/surveillance-and-stalkers-how.html
+* http://www.thumbtack.com/engineering/interviewing-for-female-friendliness/
+* https://medium.com/@ericajoy/the-other-side-of-diversity-1bb3de2f053e
+* http://www.wired.com/2014/11/urban-onshoring/
 
 
 "Life hacks: Be born male &/or white &/or straight. Be born to college graduates. Be born able-bodied &/or American. Don't get hit by a bus." - https://twitter.com/saladinahmed
 
+Look up generation STEM study. Done by the Girl Scouts.
 
+**Question**: Given that work culture is cited as the top reason women leave the industry, what should tech teams do first?
+**Answer**: Kimberly Bryant, founder, [BlackGirlsCODE](http://www.blackgirlscode.com/) - Hire more women. Only way to change the culture.
 
 
 <ul>

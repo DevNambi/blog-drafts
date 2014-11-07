@@ -426,6 +426,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://engineroom.trackmaven.com/blog/first-monthly-challenge-elasticsearch/
 * http://code.hootsuite.com/redirecting-the-firehose-from-hadoop-to-s3/
 * http://www.citusdata.com/blog/86-making-postgresql-scale-hadoop-style
+* https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems/
 
 
 

@@ -36,12 +36,15 @@
 * https://gist.github.com/Secathor/8415846 <- latency metrics, v2
 * http://blog.flux7.com/blogs/benchmarks/littles-law
 * http://research.microsoft.com/en-us/um/people/lamport/pubs/pubs.html
+* http://www.informit.com/articles/article.aspx?p=1963779
+* http://danluu.com/2choices-eviction/
 
 
 
 
 ## Learning to Code
 
+"Computational skills are life skills"
 
 <li><a href="http://j.mp/1jSssN8" time_added="1390752030" tags="">Debunking the "10,000 hours rule" myth – the psychology of what it actually</a></li>
 <li><a href="http://googleresearch.blogspot.com/2013/03/scaling-computer-science-education.html" time_added="1363200081" tags="academia,hn">Research Blog: Scaling Computer Science Education</a></li>
@@ -82,6 +85,7 @@
 
 * https://gigaom.com/2014/10/08/patent-trolling-pays-since-2010-trolls-have-made-3-times-as-much-money-in-court-as-real-companies/
 * http://michaelochurch.wordpress.com/2014/10/13/it-might-be-time-for-software-engineers-especially-in-silicon-valley-to-unionize/
+* http://blog.hut8labs.com/coding-fast-and-slow.html?reddit
 
 
 
@@ -190,6 +194,7 @@
 * https://www.backblaze.com/blog/petabytes-on-a-budget-how-to-build-cheap-cloud-storage-2/
 * http://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time
 * http://cloudacademy.com/blog/google-cloud-vs-aws-a-comparison/
+* http://techcrunch.com/2014/11/04/google-launches-managed-service-for-running-docker-based-applications-on-its-cloud-platform/
 
 
 

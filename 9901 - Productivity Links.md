@@ -59,6 +59,10 @@
 * http://arstechnica.com/staff/2014/10/harnessing-depression-one-ars-writers-journey/
 * http://www.nytimes.com/2014/10/26/opinion/sunday/the-problem-with-positive-thinking.html
 * http://www.vox.com/2014/10/29/7041025/steven-johnson-interview-how-we-got-to-now-heres-how-innovation-happens
+* http://www.inc.com/jeff-haden/an-nearly-foolproof-way-to-achieve-every-goal-you-set-wed.html?cid=sf01002
+
+
+
 
 Ethan White: "scheduling time on my calendar for the important (and sticking to that commitment), defaulting to No for the not important [are tactics/techniques I use to prevent the urgent crowd out the important]", https://twitter.com/ethanwhite/status/527819142712545280
 
@@ -175,6 +179,8 @@ Ethan White: "scheduling time on my calendar for the important (and sticking to 
 * http://arstechnica.com/security/2014/11/cell-carrier-was-weakest-link-in-hack-of-google-instagram-accounts/
 * http://arstechnica.com/security/2014/11/does-your-phone-company-track-you/
 * https://www.eff.org/press/releases/which-messaging-technologies-are-truly-safe-and-secure
+* http://www.nybooks.com/articles/archives/2014/nov/20/creepy-new-wave-internet/
+* https://blog.lavaboom.com/lavabooms-response-to-warrants/
 
 
 
