@@ -22,12 +22,8 @@ get_spot_price_history(start_time=None, end_time=None, instance_type=None, produ
 * Region
 * Availability Zone
 * Date
-	* Day of week
-	* Day of month
-	* Time of day (military time)
-	* During business hours?
-* Price per hour
-* Discount vs. on-demand price (as a percentage)
+* Price (per hour, in US dollars)
+
 
 
 **Features to Add**
@@ -37,6 +33,19 @@ get_spot_price_history(start_time=None, end_time=None, instance_type=None, produ
 	* Day of month
 	* Time of day (military time)
 	* During business hours?
+* Instance type
+	* Number of eCPUs
+	* Amount of RAM
+	* SSD amount
+	* HDD amount
+	* Has high-speed networking
+	* On-demand price per hour
+* Discount vs. on-demand price (as a percentage)
+* Add derived info
+	* Price per CPU
+	* Price per GB of RAM
+	* Price per GB of scratch disk (SSD)
+	* Price per GB of scratch disk (HDD)
 
 ### Prediction Notes
 
@@ -47,32 +56,8 @@ get_spot_price_history(start_time=None, end_time=None, instance_type=None, produ
 
 ### Storytelling Notes
 
-* Add instance info
-	* EC2 CPus
-	* RAM
-	* Scratch disk
-* Add derived info
-	* Price per CPU
-	* Price per GB of RAM
-	* Price per GB of scratch disk
 * Do this all in an IPython notebook? As a V2?
 
-### Questions to Answer
-
-* What's the cheapest instance to get for CPU-heavy work?
-* What's the cheapest setup for RAM-heavy work?
-* What's the cheapest setup for I/O heavy work?
-* What are the deepest discounts to expect from spot instances?
-* How much of a discount is this compared to GCE or Azure, since they don't have this feature?
-* For a couple of prototypical workloads (use Netflix for an example), walk through the cost differential
-* What factors matter when picking instances?
-* What regions and AZs matter?
-* Which are the cheapest regions?
-	* How about AZs? How much does AZ choice matter?
-* What days and times of day matter? What patterns exist?
-* What are bad deals? Are GPU instances as bad as they claim?
-* What are the gaps in the analysis
-	* Not clear how many instances exist of each type, especially for the specialized ones.
 
 
 ### Post-Publish Notes
