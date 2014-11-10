@@ -68,3 +68,8 @@ get_spot_price_history(start_time=None, end_time=None, instance_type=None, produ
 	* Scalyr
 	* The UW cloud-computing group
 	* eScience Institute
+	* UW Physics department
+		* https://www.youtube.com/watch?v=mKElyNabc0A&feature=youtu.be
+		* Kevin Jorissen, Research Assoc there.
+		* Fernando Villa, Research scientist there
+		* They focus on cluster instances
