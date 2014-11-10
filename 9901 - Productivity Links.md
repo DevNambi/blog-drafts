@@ -60,6 +60,7 @@
 * http://www.nytimes.com/2014/10/26/opinion/sunday/the-problem-with-positive-thinking.html
 * http://www.vox.com/2014/10/29/7041025/steven-johnson-interview-how-we-got-to-now-heres-how-innovation-happens
 * http://www.inc.com/jeff-haden/an-nearly-foolproof-way-to-achieve-every-goal-you-set-wed.html?cid=sf01002
+* http://xkcd.com/1445/ <- hilarious and true
 
 
 

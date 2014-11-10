@@ -292,6 +292,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://www.wired.com/2014/10/future-of-artificial-intelligence/
 * http://karpathy.github.io/neuralnets/
 * http://www.i-programmer.info/news/105-artificial-intelligence/7352-the-flaw-lurking-in-every-deep-neural-net.html
+* http://randyzwitch.com/twitter-breakoutdetection-r-package-evaluation/
 
 
 
@@ -365,6 +366,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://www.boozallen.com/insights/2013/11/data-science-field-guide
 * https://civisanalytics.com/blog/data-science/2014/08/20/why-we-love-models/
 * https://github.com/jonathan-bower/DataScienceResources
+* http://www.mastersindatascience.org/blog/questions-before-choosing-data-science-program/
 
 
 

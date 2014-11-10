@@ -19,6 +19,7 @@
 * http://time.com/3541008/nobel-peace-prize-torture-barack-obama/
 * https://www.aclu.org/blog/national-security/new-nsa-documents-shine-more-light-black-box-executive-order-12333
 * https://openstandard.mozilla.org/the-next-generation-of-voting-systems-may-be-open-source/
+* http://mobile.nytimes.com/2014/11/08/opinion/pregnant-and-no-civil-rights.html
 
 <li><a href="https://firstlook.org/theintercept/2014/02/14/ongoing-abuse-state-secrets-privilege/" time_added="1392591442" tags="">Obama DOJ's New Abuse of State-Secrets Privilege Revealed - The Intercept</a></li>
 <li><a href="http://arstechnica.com/tech-policy/2014/01/report-nsa-bulk-metadata-collection-has-no-discernible-impact/" time_added="1389637719" tags="">Report: NSA bulk metadata collection has “no discernible impact” | Ars Tech</a></li>
@@ -201,3 +202,4 @@
 * http://www.newyorker.com/humor/borowitz-report/midterms-prediction-billionaires-retain-control-government
 * http://projects.aljazeera.com/2014/double-voters/index.html
 * http://boingboing.net/2014/10/31/secret-recording-of-corporate.html
+* http://mobile.nytimes.com/2014/11/08/opinion/pregnant-and-no-civil-rights.html
