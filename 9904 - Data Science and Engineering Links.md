@@ -274,6 +274,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 
 
 * http://punkrockor.wordpress.com/2014/08/12/in-defense-of-model-simplicity/
+* http://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/
 * http://research.microsoft.com/pubs/192769/tricks-2012.pdf
 * http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 * http://research.microsoft.com/en-us/projects/r2/
