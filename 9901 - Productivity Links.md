@@ -182,6 +182,7 @@ Ethan White: "scheduling time on my calendar for the important (and sticking to 
 * https://www.eff.org/press/releases/which-messaging-technologies-are-truly-safe-and-secure
 * http://www.nybooks.com/articles/archives/2014/nov/20/creepy-new-wave-internet/
 * https://blog.lavaboom.com/lavabooms-response-to-warrants/
+* https://blog.mozilla.org/privacy/2014/11/10/introducing-polaris-privacy-initiative-to-accelerate-user-focused-privacy-online/
 
 
 

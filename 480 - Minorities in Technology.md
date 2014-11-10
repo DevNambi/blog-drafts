@@ -24,6 +24,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * http://www.thumbtack.com/engineering/interviewing-for-female-friendliness/
 * https://medium.com/@ericajoy/the-other-side-of-diversity-1bb3de2f053e
 * http://www.wired.com/2014/11/urban-onshoring/
+* http://www.bbc.com/news/technology-29840653
 
 
 "Life hacks: Be born male &/or white &/or straight. Be born to college graduates. Be born able-bodied &/or American. Don't get hit by a bus." - https://twitter.com/saladinahmed

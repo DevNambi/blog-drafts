@@ -350,6 +350,7 @@
 * http://seattletimes.com/html/nationworld/2021065979_employeehealthxml.html
 * http://seattletimes.com/html/localnews/2021250318_hospitalcostsxml.html
 * http://www.npr.org/blogs/health/2014/10/21/357780794/more-insurers-put-spending-limits-on-medical-treatments
+* http://www.usatoday.com/story/news/health/2014/11/05/ozy-abraham-flaxman-public-health/18529009/
 
 
 By Zoe Keating:
