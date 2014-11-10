@@ -57,6 +57,7 @@ https://www.linkedin.com/today/post/article/20140528155249-224083-10-signs-a-com
 * http://www.theatlantic.com/business/archive/2014/10/how-companies-kill-their-employees-job-searches/381437/
 * http://heidiroizen.tumblr.com/post/100265592165/some-thoughts-on-asking-for-a-raise
 * http://blog.alinelerner.com/why-talent-agents-for-engineers-dont-exist/
+* http://www.theonion.com/articles/laidback-company-allows-employees-to-work-from-hom,37358/
 
 <ul>
 <li><a href="http://t.co/6EbqhshU" time_added="1357221653" tags="hn">peteskomoroch: Valve's 'Handbook for New Employees' is an interesting read.</a></li>

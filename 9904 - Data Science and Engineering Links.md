@@ -464,6 +464,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 
 * http://www.newyorker.com/magazine/2014/10/13/planning-machine
 * https://speakerdeck.com/jdmaturen/towards-a-data-driven-product-techniques-and-tools-at-github
+* http://arxiv.org/pdf/1210.0530v3.pdf <- Best Practices for Scientific Computing #priceless
 
 
 
@@ -479,6 +480,8 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 <li><a href="http://simplystatistics.org/post/32871552079/should-we-stop-publishing-peer-reviewed-papers" time_added="1349360771" tags="hn">Should we stop publishing peer-reviewed papers?</a></li>
 <li><a href="http://www.pbs.org/independentlens/blog/hundreds-of-voucher-schools-teach-creationism-in-science-classes#.UQgtdBOJC10.reddit" time_added="1359591959" tags="academia">Hundreds of Voucher Schools Teach Creationism in Science Classes | Independ</a></li>
 
+
+* http://imgur.com/gallery/ZpgQz
 
 
 
