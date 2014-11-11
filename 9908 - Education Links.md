@@ -59,6 +59,8 @@
 * http://www.washingtonpost.com/opinions/rehearsing-for-death-a-pre-k-teacher-on-the-trouble-with-lockdown-drills/2014/10/28/4ab456ea-5eb2-11e4-9f3a-7e28799e0549_story.html
 * http://www.salon.com/2014/11/01/we_must_still_hate_our_kids_philadelphia_and_education_reformers_fight_demented_war_on_elementary_schools/
 * http://www.nybooks.com/articles/archives/2014/nov/20/myth-chinese-super-schools/
+* https://www.insidehighered.com/news/2014/11/11/colleges-turn-campuswide-bans-fraternity-sorority-parties
+* http://www.academia.edu/163846/Foubert_J._D._Newberry_J._T._and_Tatum_J._L._2007_._Behavior_differences_seven_months_later_Effects_of_a_rape_prevention_program_on_first-year_men_who_join_fraternities._NASPA_Journal_44_728-749
 
 
 ## Higher Education

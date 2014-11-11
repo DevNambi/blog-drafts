@@ -179,6 +179,7 @@
 * http://www.seattlepi.com/news/crime/article/No-charges-for-deputies-who-arrested-man-who-died-5863865.php
 * https://news.vice.com/article/officer-involved-texas-cops-caught-on-dash-cam-saying-call-the-cops-they-cant-un-rape-you
 * http://seattletimes.com/html/localnews/2024979484_westneat09xml.html
+* http://www.washingtonpost.com/news/the-watch/wp/2014/11/10/the-stingray-menace/
 
 
 
