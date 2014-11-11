@@ -387,6 +387,7 @@ things they believe in will keep </a></li>
 * http://anandtech.com/show/8223/an-introduction-to-semiconductor-physics-technology-and-industry
 * http://elementaryos.org/docs/human-interface-guidelines
 * http://stuff-gil-says.blogspot.com/2014/10/what-sort-of-allocation-rates-can.html
+* http://www.essentialmath.com/tutorial.htm
 
 ## Funny
 
