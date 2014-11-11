@@ -7,6 +7,9 @@
 * http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances-history.html
 * http://docs.aws.amazon.com/AWSEC2/latest/APIReference/ApiReference-query-DescribeSpotPriceHistory.html
 * http://gigaom.com/2013/10/08/bidding-strategies-arbitrage-aws-spot-market-is-where-computing-and-finance-meet/
+* http://santtu.iki.fi/2014/03/25/ec2-spot-price-minimum/
+* http://santtu.iki.fi/2014/03/20/ec2-spot-market/
+* http://santtu.iki.fi/2014/03/19/ec2-spot-usage/
 
 
 **Boto**
@@ -46,6 +49,11 @@ get_spot_price_history(start_time=None, end_time=None, instance_type=None, produ
 	* Price per GB of RAM
 	* Price per GB of scratch disk (SSD)
 	* Price per GB of scratch disk (HDD)
+* Add derived info
+	* CPUs per $
+	* GB of RAM per $
+	* SSD per $
+	* HDD per $
 
 ### Prediction Notes
 
