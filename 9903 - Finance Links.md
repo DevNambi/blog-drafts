@@ -114,7 +114,7 @@
 <li><a href="http://www.smartmoney.com/plan/insurance/riders-that-make-sense-for-you-9710/" time_added="1348860240" tags="finance,important">Page Not Found - SmartMoney.com</a></li>
 <li><a href="http://online.wsj.com/article/SB10001424127887324461604578189273704184736.html?mod=e2tw" time_added="1356334470" tags="finance">Six Money Moves You Should Make in 2013 - WSJ.com</a></li>
 <li><a href="http://lifehacker.com/5913931/the-priority-pyramid-tells-you-which-financial-goals-to-tackle-now" time_added="1348860298" tags="domestic,finance">The Priority Pyramid Tells You Which Financial Goals to Tackle Now</a></li>
-<li><a href="http://lifehacker.com/5931856/reduce-your-grocery-budget-with-a-food-waste-diary?utm_medium=referral&utm_source=pulsenews" time_added="1348859897" tags="domestic,finance">Reduce Your Grocery Budget with a Food Waste Diary</a></li>
+<li><a href="http://lifehacker.com/5931856/reduce-your-grocery-budget-with-a-food-waste-diary" time_added="1348859897" tags="domestic,finance">Reduce Your Grocery Budget with a Food Waste Diary</a></li>
 <li><a href="http://www.businessinsider.com/ways-your-brain-makes-you-lose-money-2012-10" time_added="1350491742" tags="finance">Ways Your Brain Makes You Lose Money - Business Insider</a></li>
 <li><a href="http://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/" time_added="1358524535" tags="domestic,finance,hn,important">The Shockingly Simple Math Behind Early Retirement | Mr. Money Mustache</a></li>
 <li><a href="http://flightfox.com/rtw" time_added="1348860362" tags="hn">Fly to 6 Continents in Style</a></li>

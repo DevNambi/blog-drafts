@@ -28,7 +28,7 @@
 <li><a href="http://www.nytimes.com/2014/01/15/us/as-asian-americans-age-their-children-face-cultural-hurdles.html?hp&_r=0" time_added="1389749845" tags="">As Parents Age, Asian-Americans Struggle to Obey A Cultural Code - NYTimes.</a><li>
 <li><a href="http://www.washingtonpost.com/blogs/answer-sheet/wp/2014/03/23/kindergarten-teacher-my-job-is-now-about-tests-and-data-not-children-i-quit/" time_added="1395752139" tags="">Kindergarten teacher: My job is now about tests and data — not children. I </a><li>
 <li><a href="http://nymag.com/news/features/27840/" time_added="1388678026" tags="">The Power (and Peril) of Praising Your Kids -- New York Magazine</a><li>
-<li><a href="http://qz.com/170543/men-shouldnt-wait-too-long-to-have-kids-either/?utm_medium=referral&utm_source=pulsenews" time_added="1390600232" tags="">Men shouldn’t wait too long to have kids, either – Quartz</a><li>
+<li><a href="http://qz.com/170543/men-shouldnt-wait-too-long-to-have-kids-either/" time_added="1390600232" tags="">Men shouldn’t wait too long to have kids, either – Quartz</a><li>
 <li><a href="http://lifehacker.com/have-your-kids-sign-an-internet-contract-1523167118" time_added="1392447456" tags="">Have Your Kids Sign an Internet Contract</a><li>
 <li><a href="http://www.upworthy.com/here-are-4-ways-were-accidentally-teaching-kids-that-consent-doesnt-matter?c=ufb1" time_added="1404924716" tags="">http://www.upworthy.com/here-are-4-ways-were-accidentally-teaching-kids-that-consent-doesnt-matter?c=ufb1</a><li>
 <li><a href="http://www.nytimes.com/2013/03/31/books/review/kids-for-cash-and-the-injustice-system.html?smid=tw-share" time_added="1408995765" tags="">‘Kids for Cash’ and ‘The Injustice System’ - NYTimes.com</a><li>
@@ -82,7 +82,7 @@
 <li><a href="http://online.wsj.com/articles/the-wrong-way-to-treat-child-geniuses-1401484790" time_added="1401635808" tags="">http://online.wsj.com/articles/the-wrong-way-to-treat-child-geniuses-1401484790</a></li>
 <li><a href="http://t.co/hSz3NlqL" time_added="1354113485" tags="">peschkaj: Artisanal Baby Naming. http://t.co/hSz3NlqL</a></li>
 <li><a href="http://thoughtcatalog.com/brianna-wiest/2014/01/18-things-we-should-have-been-taught-as-teenagers/" time_added="1390702787" tags="">18 Things We Should Have Been Taught As Teenagers | Thought Catalog</a></li>
-<li><a href="http://www.huffingtonpost.com/emily-mendell/the-bubble-list_b_4783336.html?utm_hp_ref=tw" time_added="1392770883" tags="">The Bubble List: 31 Things My Sons Should Be Able to Do Before They Move Ou</a></li>
+<li><a href="http://www.huffingtonpost.com/emily-mendell/the-bubble-list_b_4783336.html" time_added="1392770883" tags="">The Bubble List: 31 Things My Sons Should Be Able to Do Before They Move Ou</a></li>
 <li><a href="http://t.co/PIyZmMu3bY" time_added="1389566979" tags="">Teens aren’t abandoning “social.” They’re just using the word correctly. — </a></li>
 <li><a href="http://www.huffingtonpost.com/janell-burley-hofmann/iphone-contract-from-your-mom_b_2372493.html" time_added="1357326129" tags="domestic">Janell Burley Hofmann: To My 13-Year-Old, An iPhone Contract From Your Mom,</a></li>
 <li><a href="http://offbeathome.com/2012/12/gifts-for-geeks" time_added="1354740750" tags="personal">Gifts for every geeky girl and boy | Offbeat Home</a></li>
@@ -108,7 +108,7 @@
 <li><a href="http://www.nytimes.com/2014/04/15/science/surge-in-prescriptions-for-opioid-painkillers-for-pregnant-women.html?hp" time_added="1397424737" tags="">Use of Opioid Painkillers During Pregnancy Surges</a></li>
 <li><a href="http://www.theatlantic.com/health/archive/2014/08/pretending-to-understand-what-babies-say-can-make-them-smarter/379324/" time_added="1409320228" tags="">Pretending to Understand What Babies Say Can Make Them Smarter</a></li>
 <li><a href="http://www.theatlantic.com/health/archive/2014/08/the-perils-of-attachment-parenting/375198/" time_added="1407767141" tags="">The Perils of Attachment Parenting - The Atlantic</a></li>
-<li><a href="http://www.allprodad.com/top10/family-relationships/10-battles-for-your-family-you-must-fight-and-win/?utm_content=bufferc259e&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer#!" time_added="1384803753" tags="domestic,parenting">10 Battles for Your Family You Must Fight and Win | All Pro Dad</a></li>
+<li><a href="http://www.allprodad.com/top10/family-relationships/10-battles-for-your-family-you-must-fight-and-win/" time_added="1384803753" tags="domestic,parenting">10 Battles for Your Family You Must Fight and Win | All Pro Dad</a></li>
 <li><a href="http://www.examiner.com/article/another-couple-found-guilty-of-murder-for-parenting-by-to-train-up-a-child" time_added="1384801908" tags="corruption,parenting">Another couple found guilty of murder for parenting by "To Train Up a Child</a></li>
 <li><a href="http://lemire.me/blog/archives/2013/11/28/are-regular-folks-doomed/" time_added="1385739260" tags="domestic,finance,hn,parenting">Are regular folks doomed?</a></li>
 <li><a href="http://www.lastwordonnothing.com/2013/12/18/one-weird-old-trick/" time_added="1387491332" tags="parenting">One Weird Old Trick to Undermine the Patriarchy : The Last Word On Nothing </a></li>

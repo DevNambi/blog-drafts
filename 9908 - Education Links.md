@@ -108,7 +108,7 @@
 <li><a href="http://www.newrepublic.com/article/114608/stem-funding-dwarfs-humanities-only-one-crisis" time_added="1391534923" tags="">STEM Funding Dwarfs Humanities, But Only One Is in Crisis | New Republic</a></li>
 <li><a href="http://blog.ketyov.com/2013/04/why-i-chose-academia.html" time_added="1392750155" tags="">Oscillatory Thoughts: Why I Chose Academia</a></li>
 <li><a href="http://anothersb.blogspot.co.uk/2014/02/goodbye-academia.html?m=1" time_added="1393879727" tags="">Yes, Another Science Blog: Goodbye Academia</a></li>
-<li><a href="http://creativecommons.org/weblog/entry/41983?utm_campaign=sm&utm_medium=twitter&utm_source=twitter1" time_added="1392258228" tags="">Precocious One Year Old Turning Academic Publishing On Its Head - Creative </a></li>
+<li><a href="http://creativecommons.org/weblog/entry/41983" time_added="1392258228" tags="">Precocious One Year Old Turning Academic Publishing On Its Head - Creative </a></li>
 <li><a href="http://www.thecrimson.com/column/the-red-line/article/2014/2/18/academic-freedom-justice/" time_added="1392836401" tags="">The Doctrine of Academic Freedom | Opinion | The Harvard Crimson</a></li>
 <li><a href="https://chroniclevitae.com/news/291-what-s-the-point-of-academic-publishing" time_added="1392873939" tags="">What’s the Point of Academic Publishing? | Vitae</a></li>
 <li><a href="http://footnote1.com/the-exploitative-economics-of-academic-publishing/" time_added="1395251952" tags="">Really nice summary of the problems with our current academic publishing sy</a></li>
@@ -308,7 +308,7 @@
 <li><a href="http://seattletimes.com/html/localnews/2022973200_uwathleticssubsidyxml.html" time_added="1393126483" tags="">Longtime women’s athletic subsidy pads UW sports profits</a></li>
 <li><a href="http://feedproxy.google.com/~r/MrMoneyMustache/~3/hLkGUWjsM7w/" time_added="1403187706" tags="">J.D. Roth: How I learned to Stop Worrying and Love Mustachianism</a></li>
 <li><a href="http://m.youtube.com/#/watch?feature=youtube_gdata_player&v=sAzzbrFgcUw&desktop_uri=%2Fwatch%3Fv%3DsAzzbrFgcUw%26feature%3Dyoutube_gdata_player" time_added="1349705674" tags="">(null): (null)</a></li>
-<li><a href="http://www.groupon.com/seattle/deals/blu-water-bistro?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+grouponseattle+%28Groupon+Seattle%29" time_added="1352678437" tags="">BluWater Bistro Deal of the Day | Groupon Seattle</a></li>
+<li><a href="http://www.groupon.com/seattle/deals/blu-water-bistro" time_added="1352678437" tags="">BluWater Bistro Deal of the Day | Groupon Seattle</a></li>
 <li><a href="http://www.forbes.com/sites/suwcharmananderson/2012/12/18/amazon-is-ripe-for-disruption/" time_added="1356336722" tags="">Amazon Is Ripe For Disruption - Forbes</a></li>
 <li><a href="http://t.co/SfR3UWC5" time_added="1359131339" tags="">dhh: Eight programming positions open on the 37signals Job Board specifical</a></li>
 
@@ -366,7 +366,7 @@
 <li><a href="http://www.insidehighered.com/news/2014/04/30/look-landscape-pathway-programs-international-students-run-cooperation-profit#sthash.1sDp5HWl.dpbs" time_added="1398878206" tags="">A look at the landscape of pathway programs for international students run </a></li>
 <li><a href="http://www.nakedcapitalism.com/2014/05/wolf-richter-chart-fate-housing-america-student-loans-bankrupt-whole-generation.html" time_added="1400705636" tags="">Wolf Richter: This Chart Is The Fate of Housing In America As Student Loans</a></li>
 <li><a href="http://dealbook.nytimes.com/2014/07/13/companies-that-offer-help-with-student-loans-often-predatory-officials-say/" time_added="1405360366" tags="">Student Debt ‘Help’ Is Often Predatory, Officials Say</a></li>
-<li><a href="http://arstechnica.com/tech-policy/2012/11/666-chip-why-a-texas-student-thinks-her-school-id-is-the-mark-of-the-beast/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" time_added="1354318761" tags="">666 chip? Why a Texas student thinks her school ID is the “Mark of the Beas</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2012/11/666-chip-why-a-texas-student-thinks-her-school-id-is-the-mark-of-the-beast/" time_added="1354318761" tags="">666 chip? Why a Texas student thinks her school ID is the “Mark of the Beas</a></li>
 <li><a href="http://www.nakedcapitalism.com/2014/06/student-loan-servicer-corruption-rewarded-covered-new-round-obama-executive-actions.html" time_added="1402438532" tags="">http://www.nakedcapitalism.com/2014/06/student-loan-servicer-corruption-rewarded-covered-new-round-obama-executive-actions.html</a></li>
 <li><a href="http://www.nytimes.com/2014/08/14/us/earl-cheit-prescient-educator-dies-at-87.html" time_added="1407994164" tags="">Earl Cheit, Prescient Educator, Dies at 87 - NYTimes.com</a></li>
 <li><a href="http://www.educause.edu/annual-conference/2013/learning-analytics-educational-design-and-student-predictions-beyond-hype-real-life-examples" time_added="1388357199" tags="">Learning Analytics for Educational Design and Student Predictions: Beyond t</a></li>
@@ -507,7 +507,7 @@
 <li><a href="http://www.buzzfeed.com/jessicamisener/33-teachers-who-got-the-last-laugh" time_added="1369932084" tags="academia,funny">33 Teachers Who Got The Last Laugh</a></li>
 <li><a href="http://www.nytimes.com/2013/05/31/education/college-slots-for-poorer-students-still-limited.html?hp" time_added="1370008207" tags="academia">Universities Show Uneven Efforts in Enrolling Poor</a></li>
 <li><a href="http://www.theatlantic.com/business/archive/2013/05/should-you-go-to-college-the-i-atlantic-i-faq/276392/" time_added="1370028358" tags="academia">Should You Go to College? The Atlantic FAQ - Derek Thompson - The Atlantic</a></li>
-<li><a href="http://googleresearch.blogspot.com/2013/06/the-story-behind-course-builder.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FgJZg+%28Official+Google+Research+Blog%29" time_added="1370288500" tags="academia">Research Blog: The Story Behind Course Builder</a></li>
+<li><a href="http://googleresearch.blogspot.com/2013/06/the-story-behind-course-builder.html" time_added="1370288500" tags="academia">Research Blog: The Story Behind Course Builder</a></li>
 <li><a href="http://blog.childrenandnature.org/2013/05/27/igniting-childrens-imaginations-around-the-globe-a-new-breed-of-teacher-is-expanding-the-definition-of-green-jobs/" time_added="1370360695" tags="academia">A new #breed of teacher is transforming the definition of the classroom: bl</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/06/dave-dayen-on-student-loans-as-medieval-indentures.html" time_added="1370545173" tags="academia,corruption,finance">Dave Dayen on Student Loans as Medieval Indentures « naked capitalism</a></li>
 <li><a href="http://bit.ly/18ZZhoG" time_added="1370542894" tags="academia">Views: Higher education rediscovers competency: bit.ly/18ZZhoG</a></li>
@@ -600,7 +600,7 @@
 <li><a href="http://www.washingtonpost.com/blogs/answer-sheet/wp/2013/04/06/teachers-resignation-letter-my-profession-no-longer-exists/" time_added="1365452008" tags="academia,important">Teacher’s resignation letter: ‘My profession … no longer exists’</a></li>
 <li><a href="http://www.slate.com/articles/life/culturebox/2013/04/there_are_no_academic_jobs_and_getting_a_ph_d_will_make_you_into_a_horrible.single.html" time_added="1365173915" tags="academia">There are no academic jobs and getting a Ph.D. will make you into a horribl</a></li>
 <li><a href="http://rein.pk/online-educations-dirty-secret-awful-retention/" time_added="1364764731" tags="academia,important,personal tech">Online Education's Dirty Secret — Awful Retention by Peter Reinhardt</a></li>
-<li><a href="http://zachholman.com/talk/if-only-i-knew-this-shit-in-college/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+holman+%28zachholman.com%29" time_added="1364611642" tags="academia,hn">If Only I Knew This Shit in College</a></li>
+<li><a href="http://zachholman.com/talk/if-only-i-knew-this-shit-in-college/" time_added="1364611642" tags="academia,hn">If Only I Knew This Shit in College</a></li>
 <li><a href="http://newscenter.berkeley.edu/2013/03/20/beyond-academia/" time_added="1363899520" tags="academia,hn">http://newscenter.berkeley.edu/2013/03/20/beyond-academia/</a></li>
 <li><a href="http://chronicle.com/article/The-Professors-Behind-the-MOOC/137905/" time_added="1363880592" tags="academia">http://chronicle.com/article/The-Professors-Behind-the-MOOC/137905/</a></li>
 <li><a href="http://bit.ly/WRm1T2" time_added="1363627568" tags="academia">.@tressiemc sees California bill to require colleges to accept online credi</a></li>
@@ -752,7 +752,7 @@
 <li><a href="http://seattletimes.com/html/politics/2021215014_apusteachingteachers.html" time_added="1371577302" tags="academia">Report: Too many teachers, too little quality</a></li>
 <li><a href="http://www.theatlantic.com/business/archive/2013/06/do-unpaid-internships-lead-to-jobs-not-for-college-students/276959/" time_added="1371653020" tags="academia">Do Unpaid Internships Lead to Jobs? Not for College Students - Jordan Weiss</a></li>
 <li><a href="http://bit.ly/15jqFYb" time_added="1371648457" tags="academia">Univ of Toronto visualizes data about students taking its 5 Coursera MOOCs </a></li>
-<li><a href="http://googleresearch.blogspot.com/2013/06/some-innovative-moocs.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FgJZg+%28Official+Google+Research+Blog%29" time_added="1371583928" tags="academia">Research Blog: Some Innovative MOOCs</a></li>
+<li><a href="http://googleresearch.blogspot.com/2013/06/some-innovative-moocs.html" time_added="1371583928" tags="academia">Research Blog: Some Innovative MOOCs</a></li>
 <li><a href="http://t.co/Fzad5k9dBH" time_added="1371658245" tags="academia,corruption,important">http://bit.ly/19hUxYW</a></li>
 <li><a href="http://www.theatlantic.com/business/archive/2013/06/rip-american-dream-why-its-so-hard-for-the-poor-to-get-ahead-today/276943/" time_added="1371579565" tags="academia,finance">RIP, American Dream? Why It's So Hard For the Poor to Get Ahead Today</a></li>
 <li><a href="http://blog.prof.so/2013/06/grants.html" time_added="1371919642" tags="academia,finance">profserious: The Twelve Secrets of Research Grant Funding</a></li>
@@ -879,11 +879,11 @@
 <li><a href="http://www.insidehighered.com/news/2013/11/25/tuition-revenue-not-keeping-pace-inflation-4-10-four-year-universities" time_added="1385394128" tags="academia,finance">At 40% of American universities, tuition revenue is not keeping pace with i</a></li>
 <li><a href="http://www.wired.com/wiredscience/2013/11/prime/all/" time_added="1385177745" tags="academia,funny,important">Sudden Progress on Prime Number Problem Has Mathematicians Buzzing - Wired </a></li>
 <li><a href="http://www.bothsidesofthetable.com/2013/03/03/in-15-years-from-now-half-of-us-universities-may-be-in-bankruptcy-my-surprise-discussion-with-claychristensen/" time_added="1364764589" tags="academia">In 15 Years From Now Half of US Universities May Be in Bankruptcy. My Surpr</a></li>
-<li><a href="http://www.mattwallaert.com/unemployed-college-grads-unrealized-losses-and-my/?utm_source=rss&utm_medium=rss&utm_campaign=unemployed-college-grads-unrealized-losses-and-my" time_added="1385408790" tags="academia">Unemployed college grads, unrealized losses, and getting someone to write m</a></li>
+<li><a href="http://www.mattwallaert.com/unemployed-college-grads-unrealized-losses-and-my/" time_added="1385408790" tags="academia">Unemployed college grads, unrealized losses, and getting someone to write m</a></li>
 <li><a href="http://www.progressillinois.com/quick-hits/content/2013/12/18/cps-21-proposed-charter-schools-would-cost-taxpayers-225-million-over-" time_added="1388176661" tags="academia,corruption,finance">Report: Proposed CPS Charter Schools Could Cost Taxpayers $225 Million Over</a></li>
 <li><a href="http://t.co/vUJAd7Sd3g" time_added="1383023455" tags="academia,finance">http://t.co/vUJAd7Sd3g</a></li>
 <li><a href="http://bit.ly/18TpcQ5" time_added="1375369580" tags="academia">Two new studies show incoming students' characteristics determine graduatio</a></li>
-<li><a href="http://www.nytimes.com/2013/06/15/us/in-luxury-student-housing-gym-tan-and-study.html?src=me&ref=general&gwh=99183F7568B5B0EADF5E960196534699" time_added="1371390528" tags="academia,corruption,finance">In Student Housing, Luxuries Overshadow Studying - NYTimes.com</a></li>
+<li><a href="http://www.nytimes.com/2013/06/15/us/in-luxury-student-housing-gym-tan-and-study.html" time_added="1371390528" tags="academia,corruption,finance">In Student Housing, Luxuries Overshadow Studying - NYTimes.com</a></li>
 <li><a href="http://seattletimes.com/html/specialreportspages/2020566120_prosterman.html" time_added="1363581207" tags="academia,finance">UW professor fights poverty one land plot at a time | Special reports pages</a></li>
 <li><a href="http://cliffmass.blogspot.com/2013/03/testing-teachers.html" time_added="1362403928" tags="academia">Cliff Mass Weather Blog: Testing Teachers</a></li>
 <li><a href="http://www.insidehighered.com/news/2013/03/01/dire-predictions-and-uncertainty-sequester-set-take-effect-tonight" time_added="1362152157" tags="academia">Dire predictions and uncertainty as sequester is set to take effect tonight</a></li>

@@ -156,7 +156,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 <li><a href="http://t.co/w8h1JL26" time_added="1354908232" tags="viz">RobbyMeals: new post visualizing #Baltimore with #rstats and #ggplot2: http</a></li>
 <li><a href="http://t.co/HRl42Kx3" time_added="1357199998" tags="viz">chlalanne: Nice tutorial on #ggplot2, http://t.co/HRl42Kx3 #rstats</a></li>
 <li><a href="http://t.co/iL6PXHQq" time_added="1354388964" tags="viz">hadleywickham: fast histograms for big data with ggplot2 and rcpp: http://t</a></li>
-<li><a href="http://www.r-bloggers.com/using-cairographics-with-ggsave/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29" time_added="1350314136" tags="data science,viz">Using cairographics with ggsave() | (R news & tutorials)</a></li>
+<li><a href="http://www.r-bloggers.com/using-cairographics-with-ggsave/" time_added="1350314136" tags="data science,viz">Using cairographics with ggsave() | (R news & tutorials)</a></li>
 <li><a href="https://t.co/RsHwao64" time_added="1353434305" tags="data science,viz">johnmyleswhite: The ggthemes package for #rstats looks very promising: http</a></li>
 <li><a href="http://drunks-and-lampposts.com/2012/10/02/clegg-vs-pleb-an-xkcd-esque-chart/" time_added="1350707127" tags="data science,viz">Clegg vs Pleb: An XKCD-esque chart « Drunks&Lampposts</a></li>
 
@@ -400,8 +400,8 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 <li><a href="https://cloudant.com/blog/cloudant-labs-on-foundational-mapreduce-literature/" time_added="1356894141" tags="big data">Cloudant Labs on Foundational MapReduce Literature | Cloudant</a></li>
 <li><a href="http://t.co/aCptuAxU" time_added="1355150996" tags="big data">MongoDB: MongoDB: Architectural Best Practices from @softlayer http://t.co/</a></li>
 <li><a href="http://www.wired.com/wiredenterprise/2012/12/couchdb/all/" time_added="1354741518" tags="big data">NoSQL: The Love Child of Google, Amazon and ... Lotus Notes | Wired Enterpr</a></li>
-<li><a href="http://www.readwriteweb.com/enterprise/2012/06/hadoop-needs-better-bridges-to-fulfill-big-data-promise.php?utm_source=pulsenews&utm_medium=referral&utm_campaign=Feed%3A+readwriteweb+%28ReadWriteWeb%29" time_added="1349321908" tags="big data,data science">Hadoop Needs Better Bridges to Fulfill the Big Data Promise</a></li>
-<li><a href="http://www.readwriteweb.com/cloud/2012/06/googles-bigquery-gets-big-dashboards-and-expanded-multiple-queries.php?utm_source=pulsenews&utm_medium=referral&utm_campaign=Feed%3A+readwriteweb+%28ReadWriteWeb%29" time_added="1349321901" tags="big data,data science">Google's BigQuery Gets Big Dashboards and Expanded Multiple Queries</a></li>
+<li><a href="http://www.readwriteweb.com/enterprise/2012/06/hadoop-needs-better-bridges-to-fulfill-big-data-promise.php" time_added="1349321908" tags="big data,data science">Hadoop Needs Better Bridges to Fulfill the Big Data Promise</a></li>
+<li><a href="http://www.readwriteweb.com/cloud/2012/06/googles-bigquery-gets-big-dashboards-and-expanded-multiple-queries.php" time_added="1349321901" tags="big data,data science">Google's BigQuery Gets Big Dashboards and Expanded Multiple Queries</a></li>
 <li><a href="http://www.wired.com/wiredenterprise/2012/08/googles-dremel-makes-big-data-look-small/" time_added="1348860690" tags="big data,data science">Google's Dremel Makes Big Data Look Small | Wired Enterprise | Wired.com</a></li>
 <li><a href="http://gigaom.com/cloud/why-the-days-are-numbered-for-hadoop-as-we-know-it/" time_added="1352525506" tags="big data,data science">Why the days are numbered for Hadoop as we know it — Cloud Computing News</a></li>
 <li><a href="http://www.wired.com/wiredenterprise/2012/11/google-spanner-time/all/" time_added="1353945766" tags="big data,data science">Exclusive: Inside Google Spanner, the Largest Single Database on Earth | Wi</a></li>
@@ -431,6 +431,8 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://code.hootsuite.com/redirecting-the-firehose-from-hadoop-to-s3/
 * http://www.citusdata.com/blog/86-making-postgresql-scale-hadoop-style
 * https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems/
+* http://www.odbms.org/2014/11/strata-spark-tsunami-hadoop-world-part/
+* http://blogs.teradata.com/data-points/optimizing-disk-io-and-memory-for-big-data-vector-analysis/
 
 
 
@@ -445,12 +447,12 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 <li><a href="http://blog.luckyoyster.com/post/33592990831/data-mining-the-web-100-worth-of-priceless" time_added="1350492020" tags="big data,data science">Lucky Oyster - Thought Pearls — Data Mining the Web: $100 Worth of Priceles</a></li>
 <li><a href="http://t.co/qtRg4Dp1" time_added="1358946401" tags="ml">ogrisel: How @evernote uses scikit-learn to automatically tell recipes apar</a></li>
 <li><a href="http://danielnouri.org/notes/2014/01/10/using-deep-learning-to-listen-for-whales/" time_added="1389365750" tags="">Using deep learning to listen for whales — Daniel Nouri's Blog</a></li>
-<li><a href="http://redmonk.com/dberkholz/2012/12/05/redmonks-analytical-foundations-part-1-2003-2005/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+thestoryofdata+%28The+Story+of+Data%29" time_added="1354725719" tags="data science">RedMonk’s analytical foundations, part 1: 2003–2005 – The Story of Data</a></li>
+<li><a href="http://redmonk.com/dberkholz/2012/12/05/redmonks-analytical-foundations-part-1-2003-2005/" time_added="1354725719" tags="data science">RedMonk’s analytical foundations, part 1: 2003–2005 – The Story of Data</a></li>
 <li><a href="http://t.co/wFaGktpK" time_added="1354717899" tags="data science">Phil_Factor: Setting up a Data Science Laboratory http://t.co/wFaGktpK > (b</a></li>
 <li><a href="http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/" time_added="1354123721" tags="hn">Meet the Obama campaign's $250 million fundraising platform</a></li>
-<li><a href="http://arstechnica.com/information-technology/2012/11/romney-campaign-got-its-it-from-best-buy-staples-and-friends/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" time_added="1353276185" tags="hn">Romney campaign got its IT from Best Buy, Staples, and friends | Ars Techni</a></li>
+<li><a href="http://arstechnica.com/information-technology/2012/11/romney-campaign-got-its-it-from-best-buy-staples-and-friends/" time_added="1353276185" tags="hn">Romney campaign got its IT from Best Buy, Staples, and friends | Ars Techni</a></li>
 <li><a href="http://codeascraft.etsy.com/2011/02/15/measure-anything-measure-everything/" time_added="1353274804" tags="hn">Measure Anything, Measure Everything « Code as Craft</a></li>
-<li><a href="http://aws.typepad.com/aws/2012/11/aws-in-action-behind-the-scenes-of-a-presidential-campaign.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AmazonWebServicesBlog+%28Amazon+Web+Services+Blog%29" time_added="1353012165" tags="hn">Amazon Web Services Blog: AWS in Action - Behind the Scenes of a Presidenti</a></li>
+<li><a href="http://aws.typepad.com/aws/2012/11/aws-in-action-behind-the-scenes-of-a-presidential-campaign.html" time_added="1353012165" tags="hn">Amazon Web Services Blog: AWS in Action - Behind the Scenes of a Presidenti</a></li>
 <li><a href="http://t.co/a8BEhoHL" time_added="1356467771" tags="big data,data science">BigData_: What were the biggest big data stories in 2012? @derrickharris pi</a></li>
 <li><a href="http://jspauld.com/post/35126549635/how-i-made-500k-with-machine-learning-and-hft" time_added="1352226404" tags="data science,finance,important,ml">How I made $500k with machine learning and HFT (high frequency trading) | J</a></li>
 <li><a href="http://blog.kaggle.com/2012/11/05/team-takes-3rd-in-the-merck-challenge/" time_added="1352137495" tags="data science,ml">Team ‘.’ takes 3rd in the Merck Challenge | no free hunch</a></li>

@@ -13,7 +13,7 @@
 * http://queue.acm.org/detail.cfm?id=2685692
 
 
-<li><a href="http://lifehacker.com/5936493/want-to-be-a-great-leader-start-reading?utm_medium=referral&utm_source=pulsenews" time_added="1348860619" tags="hn">Want to Be a Great Leader? Start Reading</a></li>
+<li><a href="http://lifehacker.com/5936493/want-to-be-a-great-leader-start-reading" time_added="1348860619" tags="hn">Want to Be a Great Leader? Start Reading</a></li>
 <li><a href="http://t.co/YYHq3ykW" time_added="1351961289" tags="hn">sqlinsaneo: This RT @msuster: This remains one of my most important managem</a></li>
 <li><a href="http://pulse.sqlserverpedia.com/blog/transitioning-into-management-lessons-learned/" time_added="1353428056" tags="hn,sql">Transitioning into Management; lessons learned… | Blog | SQLServerPedia</a></li>
 <li><a href="http://t.co/3UIY8aIt" time_added="1355587666" tags="academia,brand,hn,important">timoreilly: Good post on management: Commitment to your team: You can't for</a></li>

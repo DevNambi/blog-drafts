@@ -16,7 +16,7 @@
 <li><a href="http://www.wired.com/opinion/2012/11/feudal-security/" time_added="1353946177" tags="hn,personal tech">When It Comes to Security, We're Back to Feudalism | Wired Opinion | Wired.</a></li>
 <li><a href="http://rt.com/usa/news/surveillance-spying-e-mail-citizens-178/" time_added="1354678483" tags="hn,important,personal tech">'Everyone in US under virtual surveillance' - NSA whistleblower — RT</a></li>
 <li><a href="http://www.schneier.com/blog/archives/2013/02/all_those_compa.html" time_added="1361558226" tags="">Schneier on Security: All Those Companies that Can't Afford Dedicated Secur</a></li>
-<li><a href="http://www.schneier.com/blog/archives/2013/03/phishing_has_go.html?utm_source=twitterfeed&utm_medium=twitter" time_added="1362406415" tags="">Schneier on Security: Phishing Has Gotten Very Good</a></li>
+<li><a href="http://www.schneier.com/blog/archives/2013/03/phishing_has_go.html" time_added="1362406415" tags="">Schneier on Security: Phishing Has Gotten Very Good</a></li>
 <li><a href="http://www.komonews.com/news/tech/No-consensus-on-notifying-victims-of-data-breaches-249192931.html" time_added="1394637969" tags="">No consensus on notifying victims of data breaches | Technology | Seattle N</a></li>
 <li><a href="http://shkspr.mobi/blog/2014/03/2000-nhs-security-vulnerabilities-disclosed/" time_added="1394036963" tags="">The Unsecured State Part 3 – 2,000 NHS Security Vulnerabilities (Disclosed</a></li>
 <li><a href="https://security.google.com/settings/security/permissions?pli=1" time_added="1388946366" tags="">Do me a favor. Go through this list and make sure that you revoke everythin</a></li>

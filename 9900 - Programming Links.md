@@ -10,7 +10,7 @@
 <li><a href="http://en.wikipedia.org/wiki/Conway's_law" time_added="1353356827" tags="sql">Conway's law - Wikipedia, the free encyclopedia</a></li>
 <li><a href="http://www.trottercashion.com/2012/08/12/how-to-write-good-log-messages.html" time_added="1349321482" tags="hn">How To Write Good Log Messages</a></li>
 <li><a href="https://tech.dropbox.com/2012/10/caching-in-theory-and-practice/" time_added="1350492013" tags="hn">Dropbox tech blog » Blog Archive » Caching in theory and practice</a></li>
-<li><a href="http://mikegrouchy.com/blog/2012/06/write-less-code.html?utm_medium=referral&utm_source=pulsenews" time_added="1349321960" tags="hn">Write Less Code</a></li>
+<li><a href="http://mikegrouchy.com/blog/2012/06/write-less-code.html" time_added="1349321960" tags="hn">Write Less Code</a></li>
 <li><a href="http://www.johndcook.com/blog/2012/10/01/dialing-back-the-cleverness/" time_added="1349718948" tags="hn">Dialing back the cleverness — The Endeavour</a></li>
 <li><a href="http://www.aosabook.org/en/nginx.html" time_added="1354137902" tags="hn">The Architecture of Open Source Applications (Volume 2): nginx</a></li>
 <li><a href="http://www.infoworld.com/t/application-development/6-tips-break-app-dev-bottlenecks-208304" time_added="1354903387" tags="academia,brand,hn,important">6 tips to break app dev bottlenecks | Application development - InfoWorld</a></li>
@@ -60,7 +60,7 @@
 <li><a href="http://thecodingbrain.wordpress.com/2012/12/14/evidence-suggesting-that-young-computer-programmers-have-bilingual-brains/" time_added="1355767599" tags="hn,important,life hacker">Evidence suggesting that young computer programmers have “bilingual brains”</a></li>
 <li><a href="http://thenextweb.com/dd/2012/10/21/so-you-want-to-be-a-programmer-huh-heres-25-ways-to-learn-online/" time_added="1350839022" tags="hn">27 Ways to Learn to Program Online</a></li>
 <li><a href="http://blog.studentrnd.org/post/34556989032/tech-education-doesnt-happen-in-the-classroom" time_added="1351534970" tags="academia">Tech Education Doesn't Happen in the Classroom</a></li>
-<li><a href="http://nyeggen.com/blog/2014/06/07/b-trees-are-overrated-try-hashing-instead/" time_added="1402352971" tags="">http://nyeggen.com/blog/2014/06/07/b-trees-are-overrated-try-hashing-instead/?utm_content=buffer42b19&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer</a></li>
+<li><a href="http://nyeggen.com/blog/2014/06/07/b-trees-are-overrated-try-hashing-instead/" time_added="1402352971" tags="">http://nyeggen.com/blog/2014/06/07/b-trees-are-overrated-try-hashing-instead/</a></li>
 
 
 * https://education.github.com/pack
@@ -78,8 +78,8 @@
 <li><a href="http://www.readwriteweb.com/hack/2012/05/mit-brain-who-beat-the-casinos-launches-service-to-quantify-developer-performance.php" time_added="1349321935" tags="hn">MIT Brain Who Beat the Casinos Launches Service to Quantify Developer Perfo</a></li>
 <li><a href="http://www.starling-software.com/employment/programmer-competency-matrix.html" time_added="1349738332" tags="hn">Programmer Competency Matrix</a></li>
 <li><a href="http://gizmodo.com/5925756/these-are-the-best-programming-skills-to-have-if-you-wanna-be-rich" time_added="1348860162" tags="hn">These Are the Best Programming Skills to Have if You Wanna Be Rich</a></li>
-<li><a href="http://blog.openviewpartners.com/coding-is-dead-long-live-the-coders/?utm_medium=referral&utm_source=pulsenews" time_added="1349321474" tags="hn">Coding is Dead. Long Live the Coders | OpenView Blog</a></li>
-<li><a href="http://java.dzone.com/programmers-are-bad-estimating?utm_medium=referral&utm_source=pulsenews" time_added="1349321502" tags="hn">Programmer Time Translation Cheatsheet -or- Why Programmers Are Bad at Esti</a></li>
+<li><a href="http://blog.openviewpartners.com/coding-is-dead-long-live-the-coders/" time_added="1349321474" tags="hn">Coding is Dead. Long Live the Coders | OpenView Blog</a></li>
+<li><a href="http://java.dzone.com/programmers-are-bad-estimating" time_added="1349321502" tags="hn">Programmer Time Translation Cheatsheet -or- Why Programmers Are Bad at Esti</a></li>
 <li><a href="http://www.infoworld.com/d/application-development/10-steps-becoming-the-developer-everyone-wants-214462" time_added="1363291806" tags="brand,hn,important">10 steps to becoming the developer everyone wants | Application Development</a></li>
 
 
@@ -93,7 +93,7 @@
 
 <li><a href="http://programmers.blogoverflow.com/2012/08/20-controversial-programming-opinions/" time_added="1348859868" tags="hn">20 controversial programming opinions « Programmers Stack Exchange Blog</a></li>
 <li><a href="http://blog.fogus.me/2009/03/11/seven-books/" time_added="1354483215" tags="hn">fogus: (Building) The 7 Books of a Highly Effective Programmer</a></li>
-<li><a href="http://java.dzone.com/articles/jez-humble-why-software?utm_medium=referral&utm_source=pulsenews" time_added="1349321415" tags="hn">Jez Humble: Why Software Development Methodologies Suck | Javalobby</a></li>
+<li><a href="http://java.dzone.com/articles/jez-humble-why-software" time_added="1349321415" tags="hn">Jez Humble: Why Software Development Methodologies Suck | Javalobby</a></li>
 <li><a href="http://gorban.org/post/32873465932/software-architecture-cheat-sheet" time_added="1349378737" tags="hn">Software Architecture cheat sheet</a></li>
 <li><a href="http://craftedsw.blogspot.co.uk/2012/08/the-best-approach-to-software.html" time_added="1348860170" tags="hn">Crafted Software: The best approach to software development</a></li>
 <li><a href="http://rdegges.com/service-oriented-side-effects" time_added="1348973528" tags="hn">Service Oriented Side Effects - Randall Degges</a></li>
@@ -135,9 +135,9 @@
 
 <li><a href="http://www.dodgycoder.net/2012/09/q-with-nine-great-programmers.html" time_added="1348860076" tags="hn">Dodgy Coder: Q&A With Nine Great Programmers</a></li>
 <li><a href="http://37signals.com/svn/posts/3375-the-five-programming-books-that-meant-most-to-me" time_added="1356676312" tags="hn">The five programming books that meant most to me by David of 37signals</a></li>
-<li><a href="http://www.economist.com/blogs/babbage/2012/06/super-star-programmers?fsrc=gn_ep&utm_medium=referral&utm_source=pulsenews" time_added="1349321857" tags="hn">Super-star programmers: Difference engine: Wired for speed | The Economist</a></li>
+<li><a href="http://www.economist.com/blogs/babbage/2012/06/super-star-programmers" time_added="1349321857" tags="hn">Super-star programmers: Difference engine: Wired for speed | The Economist</a></li>
 <li><a href="http://news.ycombinator.com/item?id=4626201" time_added="1349738310" tags="hn">Ask HN: What did the really successful programmers do differently? | Hacker</a></li>
-<li><a href="http://blog.jgc.org/2012/07/some-things-ive-learnt-about.html?utm_medium=referral&utm_source=pulsenews" time_added="1349321604" tags="hn">Some things I've learnt about programming | John Graham-Cumming</a></li>
+<li><a href="http://blog.jgc.org/2012/07/some-things-ive-learnt-about.html" time_added="1349321604" tags="hn">Some things I've learnt about programming | John Graham-Cumming</a></li>
 
 
 * http://arstechnica.com/information-technology/2014/11/how-to-manage-accidental-complexity-in-software-projects/
@@ -166,7 +166,7 @@
 <li><a href="http://t.co/cvq5A0Wa" time_added="1354585336" tags="sql">buckwoody: AZCopy - command-line file copy to Windows Azure Storage: http:/</a></li>
 <li><a href="http://t.co/JyySBHq3" time_added="1353604392" tags="cloud">puppetlabs: Want to learn Puppet? Download our free technical docs and lear</a></li>
 <li><a href="http://t.co/cbVtwAPo" time_added="1353443372" tags="sql">SQLRockstar: Ever wonder how to parse DBCC MEMORYSTATUS using #posh? Wonder</a></li>
-<li><a href="http://aws.typepad.com/aws/2012/11/enable-single-sign-on-to-the-aws-management-console.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AmazonWebServicesBlog+%28Amazon+Web+Services+Blog%29" time_added="1354045046" tags="cloud">Amazon Web Services Blog: Enable Single Sign On to the AWS Management Conso</a></li>
+<li><a href="http://aws.typepad.com/aws/2012/11/enable-single-sign-on-to-the-aws-management-console.html" time_added="1354045046" tags="cloud">Amazon Web Services Blog: Enable Single Sign On to the AWS Management Conso</a></li>
 <li><a href="http://t.co/PK7hX2Iy" time_added="1353877455" tags="big data,hn">spyced: EC2 3.8x more expensive than internal cluster http://t.co/KXvfcjxU.</a></li>
 <li><a href="https://t.co/mgBKnENR" time_added="1353336528" tags="hn">pikesley: Using AWS? You probably want this: https://t.co/mgBKnENR  Thanks </a></li>
 <li><a href="http://t.co/mw1pbRZZ" time_added="1352870226" tags="hn">peakscale: "fresh data stored in S3, with automatic, policy-driven archivin</a></li>
@@ -328,7 +328,7 @@
 <li><a href="http://www.infoworld.com/slideshow/67904/10-standout-nosql-databases-try-203989#slide1" time_added="1349402430" tags="big data,sql">10 standout NoSQL databases to try - InfoWorld</a></li>
 <li><a href="http://t.co/DMTvNQkX" time_added="1354201173" tags="sql">erinstellato: RT @AaronBertrand: [Blog] : Minimizing the impact of DBCC CHE</a></li>
 <li><a href="http://www.youtube.com/watch?v=9JRzjxbjcHw&feature=colike" time_added="1349321407" tags="sql">The Lonely DBA - YouTube</a></li>
-<li><a href="http://blog.wakebi.com/2012/08/sql-server-2012-database-projects.html?utm_source=twitterfeed&utm_medium=twitter" time_added="1349321392" tags="sql">Wake BI Blog: SQL Server 2012 Database Projects</a></li>
+<li><a href="http://blog.wakebi.com/2012/08/sql-server-2012-database-projects.html" time_added="1349321392" tags="sql">Wake BI Blog: SQL Server 2012 Database Projects</a></li>
 <li><a href="http://t.co/PnmRpTfV" time_added="1349705242" tags="sql">LaerteSQLDBA: [Blog Post] Quick Post–Scripting All Stored Procedures from A</a></li>
 <li><a href="http://pulse.sqlserverpedia.com/blog/rebuild-indexes-based-on-fragmentation-sp_rebuildindex-2/" time_added="1349624830" tags="sql">Rebuild indexes based on fragmentation - sp_RebuildIndex | Blog | SQLServer</a></li>
 <li><a href="http://t.co/VDC9xphO" time_added="1349698299" tags="sql">ReadyRollSQL: New tutorial: Database Continuous Integration http://t.co/VDC</a></li>
@@ -395,7 +395,7 @@ things they believe in will keep </a></li>
 <li><a href="http://devopsreactions.tumblr.com/" time_added="1357327205" tags="big data,cloud">DevOps Reactions</a></li>
 <li><a href="http://clippy.in/b/YJLM9W" time_added="1357663272" tags="hn">Clippy Alpha</a></li>
 <li><a href="http://arstechnica.com/gaming/2012/12/the-awesome-webcomics-ars-technica-reads/" time_added="1356728203" tags="personal">The 12 most incredible webcomics | Ars Technica</a></li>
-<li><a href="http://www.codinghorror.com/blog/2012/05/how-to-stop-sucking-and-be-awesome-instead.html?utm_medium=referral&utm_source=pulsenews" time_added="1349321867" tags="hn">Coding Horror: How to Stop Sucking and Be Awesome Instead</a></li>
+<li><a href="http://www.codinghorror.com/blog/2012/05/how-to-stop-sucking-and-be-awesome-instead.html" time_added="1349321867" tags="hn">Coding Horror: How to Stop Sucking and Be Awesome Instead</a></li>
 <li><a href="http://hatepaste.com/hated/" time_added="1355285355" tags="hn">Hated code - HatePaste: A place to share terrible code</a></li>
 <li><a href="http://www.drdobbs.com/jvm/the-rise-and-fall-of-languages-in-2012/240145800" time_added="1357716148" tags="hn">The Rise and Fall of Languages in 2012 | Dr Dobb's</a></li>
 <li><a href="http://t.co/VdT9Jebl" time_added="1358661861" tags="funny,hn">dylanjfield: Woah. Everything makes sense now! http://t.co/VdT9Jebl</a></li>

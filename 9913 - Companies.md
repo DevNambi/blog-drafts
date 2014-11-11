@@ -36,12 +36,12 @@
 <li><a href="http://www.john-foreman.com/blog/why-okcupid-isnt-facebook-not-all-experiments-feel-the-same" time_added="1406688998" tags="">"Why OkCupid Isn't FaceBook. Not All Experiments Feel the Same" john-forema</a></li>
 <li><a href="http://www.wired.com/2014/08/i-liked-everything-i-saw-on-facebook-for-two-days-heres-what-it-did-to-me/" time_added="1407774792" tags="">I Liked Everything I Saw on Facebook for Two Days. Here’s What It Did to Me</a></li>
 <li><a href="http://www.latimes.com/business/hiltzik/la-fi-mh-facebook-20140221,0,3459685.story" time_added="1393194146" tags="">Facebook's big deal shows we're back in the dot-com funny money era - latim</a></li>
-<li><a href="http://www.forbes.com/sites/parmyolson/2014/04/30/facebok-moves-to-become-the-worlds-most-powerful-data-broker/?utm_campaign=techtwittersf&utm_source=twitter&utm_medium=social" time_added="1399660375" tags="">Facebook Moves To Become The World's Most Powerful Data Broker - Forbes</a></li>
+<li><a href="http://www.forbes.com/sites/parmyolson/2014/04/30/facebok-moves-to-become-the-worlds-most-powerful-data-broker/" time_added="1399660375" tags="">Facebook Moves To Become The World's Most Powerful Data Broker - Forbes</a></li>
 <li><a href="http://time.com/34025/the-free-marketing-gravy-train-is-over-on-facebook/" time_added="1395589907" tags="">Facebook Is Making it Harder to Reach Audiences Without Paying - TIME</a></li>
 <li><a href="http://sploid.gizmodo.com/the-definitive-argument-to-delete-your-facebook-account-1586975271/all" time_added="1402151562" tags="">http://sploid.gizmodo.com/the-definitive-argument-to-delete-your-facebook-account-1586975271/all</a></li>
 <li><a href="http://t.co/XFK7indJlo" time_added="1403068840" tags="">Helpful timeline of Facebook's disingenuous statements (& denials) about yo</a></li>
 <li><a href="http://www.filmsforaction.org/news/your_lifestyle_has_already_been_designed/#.U6ec9Qvpt34.facebook" time_added="1403714869" tags="">http://www.filmsforaction.org/news/your_lifestyle_has_already_been_designed/#.U6ec9Qvpt34.facebook</a></li>
-<li><a href="http://arstechnica.com/business/2013/01/on-facebook-users-can-no-longer-hide-from-search-results/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" time_added="1358478691" tags="">On Facebook, users can no longer hide from search results | Ars Technica</a></li>
+<li><a href="http://arstechnica.com/business/2013/01/on-facebook-users-can-no-longer-hide-from-search-results/" time_added="1358478691" tags="">On Facebook, users can no longer hide from search results | Ars Technica</a></li>
 <li><a href="http://qz.com/49528/why-facebook-will-never-make-a-significant-profit/" time_added="1359663972" tags="">Why Facebook will never make a significant profit - Quartz</a></li>
 <li><a href="https://www.facebook.com/photo.php?v=145548785606529" time_added="1363184788" tags="">This is such a beautiful video!</a></li>
 
