@@ -183,6 +183,7 @@
 * http://www.washingtonpost.com/news/the-watch/wp/2014/11/10/the-stingray-menace/
 * http://www.mlive.com/news/ann-arbor/index.ssf/2014/11/witness_in_ann_arbor_police_sh.html
 * http://www.usatoday.com/story/news/nation/2014/11/12/police-mistakenly-shoot-911-caller-manhunt/18901533/
+* http://www.salon.com/2014/11/10/shocking_video_shows_cop_hitting_man_for_not_letting_him_search_car/
 
 
 
