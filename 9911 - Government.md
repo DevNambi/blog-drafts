@@ -21,6 +21,7 @@
 * https://openstandard.mozilla.org/the-next-generation-of-voting-systems-may-be-open-source/
 * http://mobile.nytimes.com/2014/11/08/opinion/pregnant-and-no-civil-rights.html
 * http://seattletimes.com/html/nationworld/2025004126_apxlastpolaricebreaker.html
+* https://firstlook.org/theintercept/2014/11/12/stuxnet/
 
 <li><a href="https://firstlook.org/theintercept/2014/02/14/ongoing-abuse-state-secrets-privilege/" time_added="1392591442" tags="">Obama DOJ's New Abuse of State-Secrets Privilege Revealed - The Intercept</a></li>
 <li><a href="http://arstechnica.com/tech-policy/2014/01/report-nsa-bulk-metadata-collection-has-no-discernible-impact/" time_added="1389637719" tags="">Report: NSA bulk metadata collection has “no discernible impact” | Ars Tech</a></li>
