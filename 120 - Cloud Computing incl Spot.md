@@ -13,6 +13,7 @@ Compression and network latency
 
 
 
+http://recode.net/2014/11/12/amazon-cloud-chief-andy-jassy-dismisses-talk-of-price-war/
 
 
 **How to pay for it?**

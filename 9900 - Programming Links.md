@@ -359,6 +359,7 @@ things they believe in will keep </a></li>
 <li><a href="http://t.co/Gj5wfmFp" time_added="1359321366" tags="big data,sql">SQLGal: Linked server queries to #hive are awesome. FMI see http://download</a></li>
 
 
+* https://aws.amazon.com/blogs/aws/highly-scalable-mysql-compat-rds-db-engine/
 
 
 

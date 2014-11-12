@@ -10,6 +10,7 @@
 * http://santtu.iki.fi/2014/03/25/ec2-spot-price-minimum/
 * http://santtu.iki.fi/2014/03/20/ec2-spot-market/
 * http://santtu.iki.fi/2014/03/19/ec2-spot-usage/
+* http://recode.net/2014/11/12/amazon-cloud-chief-andy-jassy-dismisses-talk-of-price-war/
 
 
 **Boto**
