@@ -20,6 +20,7 @@
 * https://www.aclu.org/blog/national-security/new-nsa-documents-shine-more-light-black-box-executive-order-12333
 * https://openstandard.mozilla.org/the-next-generation-of-voting-systems-may-be-open-source/
 * http://mobile.nytimes.com/2014/11/08/opinion/pregnant-and-no-civil-rights.html
+* http://seattletimes.com/html/nationworld/2025004126_apxlastpolaricebreaker.html
 
 <li><a href="https://firstlook.org/theintercept/2014/02/14/ongoing-abuse-state-secrets-privilege/" time_added="1392591442" tags="">Obama DOJ's New Abuse of State-Secrets Privilege Revealed - The Intercept</a></li>
 <li><a href="http://arstechnica.com/tech-policy/2014/01/report-nsa-bulk-metadata-collection-has-no-discernible-impact/" time_added="1389637719" tags="">Report: NSA bulk metadata collection has “no discernible impact” | Ars Tech</a></li>
@@ -180,6 +181,7 @@
 * https://news.vice.com/article/officer-involved-texas-cops-caught-on-dash-cam-saying-call-the-cops-they-cant-un-rape-you
 * http://seattletimes.com/html/localnews/2024979484_westneat09xml.html
 * http://www.washingtonpost.com/news/the-watch/wp/2014/11/10/the-stingray-menace/
+* http://www.mlive.com/news/ann-arbor/index.ssf/2014/11/witness_in_ann_arbor_police_sh.html
 
 
 

@@ -11,6 +11,10 @@
 * http://firstround.com/article/This-is-Why-People-Leave-Your-Company
 * http://the-toast.net/2014/10/27/employer-put-fml-fmla/
 * http://queue.acm.org/detail.cfm?id=2685692
+* http://michaelochurch.wordpress.com/2014/02/06/if-you-stop-promoting-from-within-soon-you-cant/
+* https://hbr.org/2014/03/why-good-managers-are-so-rare/
+* http://seattletimes.com/html/businesstechnology/2023383110_boeingbrtxml.html
+* https://docs.google.com/document/d/1AFTuOMZoK96afsgHhDoxs85bfE0tKwUSeYgLX-bHYYM/edit
 
 
 <li><a href="http://lifehacker.com/5936493/want-to-be-a-great-leader-start-reading" time_added="1348860619" tags="hn">Want to Be a Great Leader? Start Reading</a></li>

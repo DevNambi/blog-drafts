@@ -382,6 +382,7 @@ I'm glad these issues are making it into the press. Health care in America is be
 
 
 * http://joel.is/6-things-i-do-to-be-consistently-happy/
+* http://newoldage.blogs.nytimes.com/2014/09/24/study-links-anxiety-drugs-to-alzheimers-disease/
 
 
 
