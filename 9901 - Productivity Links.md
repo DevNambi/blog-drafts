@@ -118,7 +118,7 @@ Ethan White: "scheduling time on my calendar for the important (and sticking to 
 
 
 * http://arstechnica.com/business/2014/10/90-time-warner-cable-bill-becomes-190-after-two-years/
-* 
+* http://www.extremetech.com/computing/194059-using-smart-to-accurately-predict-when-a-hard-drive-is-about-to-die
 
 
 

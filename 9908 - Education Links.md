@@ -260,6 +260,7 @@
 * http://www.eurekalert.org/pub_releases/2014-10/puww-wdf102814.php
 * http://www.reddit.com/r/dataisbeautiful/comments/2l2jh4/outstanding_student_loan_debt_in_the_usa/
 * http://www.nytimes.com/2014/10/28/upshot/a-new-push-to-get-low-income-students-through-college.html?abt=0002&abg=1
+* http://levinotik.com/why-college-is-a-poor-choice-for-a-lot-of-people/
 * http://online.wsj.com/articles/the-genius-of-mits-football-team-1415663452
 
 

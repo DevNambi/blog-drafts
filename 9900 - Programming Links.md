@@ -38,6 +38,7 @@
 * http://research.microsoft.com/en-us/um/people/lamport/pubs/pubs.html
 * http://www.informit.com/articles/article.aspx?p=1963779
 * http://danluu.com/2choices-eviction/
+* http://www.danylkoweb.com/Blog/top-10-books-every-net-developer-should-own-QG
 
 
 

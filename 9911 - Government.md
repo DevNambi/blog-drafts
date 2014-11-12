@@ -182,6 +182,7 @@
 * http://seattletimes.com/html/localnews/2024979484_westneat09xml.html
 * http://www.washingtonpost.com/news/the-watch/wp/2014/11/10/the-stingray-menace/
 * http://www.mlive.com/news/ann-arbor/index.ssf/2014/11/witness_in_ann_arbor_police_sh.html
+* http://www.usatoday.com/story/news/nation/2014/11/12/police-mistakenly-shoot-911-caller-manhunt/18901533/
 
 
 

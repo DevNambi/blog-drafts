@@ -121,6 +121,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 
 * http://www.reddit.com/r/DataVizRequests/top/?sort=top&t=all
 * http://textvis.lnu.se/
+* http://www.bbc.com/news/magazine-29915801
 
 
 
@@ -470,6 +471,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://www.newyorker.com/magazine/2014/10/13/planning-machine
 * https://speakerdeck.com/jdmaturen/towards-a-data-driven-product-techniques-and-tools-at-github
 * http://arxiv.org/pdf/1210.0530v3.pdf <- Best Practices for Scientific Computing #priceless
+
 
 
 
