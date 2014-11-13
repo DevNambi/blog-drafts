@@ -364,6 +364,7 @@ things they believe in will keep </a></li>
 
 
 * https://aws.amazon.com/blogs/aws/highly-scalable-mysql-compat-rds-db-engine/
+* https://foundationdb.com/key-value-store/white-papers/future-of-nosql
 
 
 
