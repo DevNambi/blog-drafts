@@ -128,6 +128,9 @@
 <li><a href="https://www.droptask.com/" time_added="1362081334" tags="hn,personal tech">DropTask - Visual Task Management for Individuals and Teams</a></li>
 
 
+* http://www.oliverlehmann.com/project-management-sources/Nasa-Hundred-Rules-for-Project-Managers.pdf
+
+
 
 
 
@@ -384,12 +387,13 @@ things they believe in will keep </a></li>
 <li><a href="http://damienkatz.net/2013/01/the_unreasonable_effectiveness_of_c.html" time_added="1357834705" tags="hn">Damien Katz: The Unreasonable Effectiveness of C</a></li>
 
 
-* http://www.oliverlehmann.com/project-management-sources/Nasa-Hundred-Rules-for-Project-Managers.pdf
+
 * https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging-in-json/
 * http://anandtech.com/show/8223/an-introduction-to-semiconductor-physics-technology-and-industry
 * http://elementaryos.org/docs/human-interface-guidelines
 * http://stuff-gil-says.blogspot.com/2014/10/what-sort-of-allocation-rates-can.html
 * http://www.essentialmath.com/tutorial.htm
+* http://www.freedomlayer.org/articles/dht_intro.html
 
 ## Funny
 
