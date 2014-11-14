@@ -67,3 +67,4 @@
 <li><a href="http://davesblog.com/blog/2014/02/05/verizon-using-recent-net-neutrality-victory-to-wage-war-against-netflix/" time_added="1391617537" tags="">Hey, guys. This is what happens when net neutrality goes away. Prepare your</a></li>
 
 * http://www.infoworld.com/article/2840959/data-security/mobile-payments-fraud-opportunities.html
+* https://corp.sonic.net/ceo/2014/11/12/neutrality-is-just-a-symptom/

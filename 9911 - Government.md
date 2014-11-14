@@ -24,6 +24,7 @@
 * https://firstlook.org/theintercept/2014/11/12/stuxnet/
 * http://seattletimes.com/html/nationworld/2025012868_apxborderdrones.html
 * http://arstechnica.com/tech-policy/2014/11/republican-lawmakers-tell-fcc-it-cant-treat-broadband-as-a-utility/
+* https://www.eff.org/deeplinks/2014/11/unsealed-filing-shows-doj-misled-appeals-court-about-national-security-letter-gag
 
 
 <li><a href="https://firstlook.org/theintercept/2014/02/14/ongoing-abuse-state-secrets-privilege/" time_added="1392591442" tags="">Obama DOJ's New Abuse of State-Secrets Privilege Revealed - The Intercept</a></li>
@@ -192,6 +193,7 @@
 * http://www.salon.com/2014/11/10/shocking_video_shows_cop_hitting_man_for_not_letting_him_search_car/
 * http://arstechnica.com/tech-policy/2014/11/taser-selling-boatloads-of-body-cameras-to-police-forces-post-ferguson/
 * http://seattletimes.com/html/localnews/2025011879_policeaccountabilityxml.html
+* http://www.salon.com/2014/11/13/shocking_report_exposes_how_new_orleans_police_routinely_ignored_sex_crimes/
 
 
 

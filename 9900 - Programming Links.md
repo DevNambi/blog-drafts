@@ -145,6 +145,7 @@
 
 
 * http://arstechnica.com/information-technology/2014/11/how-to-manage-accidental-complexity-in-software-projects/
+* http://bits.blogs.nytimes.com/2014/11/13/google-lifts-the-turing-award-into-nobel-territory/
 
 
 
