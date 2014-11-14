@@ -1,9 +1,9 @@
 ---
 author: DevNambi
-date: 2014-11-12
+date: 2014-11-13
 layout: post
-slug: spot-pricing
-title: Analyzing AWS Spot Pricing
+slug: cheap-computing
+title: Cheap Computing with AWS Spot Instances
 meta-description: 
 - aws
 - amazon web services
@@ -14,12 +14,15 @@ meta-description:
 - cost of computing
 ---
 
+You can run [Amazon Web Services](http://aws.amazon.com/)' [EC2 VMs](http://aws.amazon.com/ec2/) cheaply by [bidding for computing capacity](http://aws.amazon.com/ec2/purchasing-options/spot-instances/). The virtual machines (instances) you get are *identical* to [on-demand VMs](LINKME); the only difference is the pricing.
 
-[Amazon Web Services](http://aws.amazon.com/) allows you to [*bid* for computing capacity](http://aws.amazon.com/ec2/purchasing-options/spot-instances/) ([EC2 VMs](http://aws.amazon.com/ec2/)). If your maximum bid is more than the current bid price, you keep your instance. If your maximum bid is *less* than the current bid price, then your VM is destroyed.
+The way this works is when requesting an instance, you specify the maximum bid per hour that you're willing to pay. If your maximum bid is more than the current bid price, your bid is granted and you get to create (or keep) an instance. If your maximum bid is ever *less* than the current bid price, then [your instance is destroyed](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-pricing-interruptions.html).
 
-Your first impression may be one of disbelief. Why would anyone use a virtual machine that can be destroyed at a moment's notice? You'd never get any work done!
+When I first read about this, I reacted with disbelief. Why would I use a virtual machine that can be destroyed at a moment's notice? I'd never get any work done!
 
-Well, sort of. Spot instances are **far** cheaper than their on-demand brethren. Here are average daily costs for some AWS instance types in the us-west-2 (Oregon) region:
+Then I looked a little closer. Spot instances are **far** cheaper than their on-demand, pay-a-flat-hourly-price brethren. 
+
+Here's the average daily cost over the last 90 days to run 7 different instance types in the Northern Oregon (us-west-2) region:
 
 | [Instance Type](http://aws.amazon.com/ec2/instance-types/)  | On-Demand Price  | Spot Price  | Discount |
 | ------------- |:-------------: | :-----:| ----: |
@@ -31,57 +34,69 @@ Well, sort of. Spot instances are **far** cheaper than their on-demand brethren.
 | g2.2xlarge    | $15.50         | $2.71  | 82%   |
 | cc2.8xlarge   | $47.77         | $7.14  | 85%   |
 
-A few types of VMs are more expensive than on-demand VMs. However, most types, including most of the powerful choices, are less expensive.
+A few of the VM types are more expensive than on-demand VMs, and are a terrible deal. However, most types, including most of the powerful choices, are much less expensive.
 
-Since the instances are so cheap, suddenly it makes sense to use spot instances for workloads that can be run statelessly, save their work to permanent storage, or compensate for failures. 
-
-
-### Pricing, A History
-
-To learn more about spot instance pricing, let's look at history. This is easy; AWS exposes both a [price history API](http://docs.aws.amazon.com/AWSEC2/latest/APIReference/ApiReference-query-DescribeSpotPriceHistory.html) as well as [documentation](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances-history.html).
-
-I used the API to download 90 days of price history for every Amazon region, availability zone, and instance type. 
+With computing capacity this cheap, it makes sense to use spot instances for workloads that can be run statelessly, save their work to permanent storage, or compensate for failures. Of the 30-odd startups I have contacts in, *all* of them use spot instances extensively, to save money.
 
 
-## Part 1: An overview
+### It's All About the Money
+
+To learn more about spot instance pricing, let's look at history. This is easy; AWS exposes both a [price history API](http://docs.aws.amazon.com/AWSEC2/latest/APIReference/ApiReference-query-DescribeSpotPriceHistory.html) as well as [documentation](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances-history.html). It's easy to use the API, like I did, to download historical prices. I pulled down 90 days' history for every Amazon region, availability zone, and instance type. 
+
+*All of the prices below are the average daily cost to run a VM with an infinite bid, unless noted otherwise.*
+
+#### Prices By Location
+
+Prices vary dramatically by location. 
+
 
 * DONE: Go over high-level discounts. 
 * Then discounts per region. 
-* Per AZ. Per time of day. 
+* Per AZ. 
+* What regions and AZs matter?
+* Which are the cheapest regions?
+	* How about AZs? How much does AZ choice matter?
+* Which regions have the most price 'bursts'?
+* Not all AZs are the same price. This is a bit insane, considering that 
+
+
+#### Prices By Time
+
+Prices differ by time of day
+
 * Per biz hour / weekday.
-* Mention that the field of research here is bidding, agent-based systems. 
-* Quant finance is a resource to learn more
-* Cost to run per day assuming an infinite bid.
+* Per time of day. 
+* What days and times of day matter? What patterns exist?
+* Which times have the most price 'bursts'?
+
+
+
+#### Prices By Machine Type
 
 * What's the cheapest setup to get for CPU-heavy work?
 * What's the cheapest setup for RAM-heavy work?
 * What's the cheapest setup for I/O heavy work?
-* What factors matter when picking instances?
-* What regions and AZs matter?
-* Which are the cheapest regions?
-	* How about AZs? How much does AZ choice matter?
-* What are the deepest discounts to expect from spot instances?
-* What days and times of day matter? What patterns exist?
 * What are bad deals? Are GPU instances as bad as feared because of Bitcoin miners?
+* Which instance types have the most price 'bursts?'
 
 
-**Outline**
+### Here There Be Deals
 
-* Intro to AWS spot prices. Quick teaser on average discounts
+Let's look at a graph showing the best deals. AWS charges the same for I/O regardless of instance type, unless you're using ephemeral storage. So let's find the best deals by CPU power and memory (RAM). 
 
-Analyzing AWS spot instance pricing for fun and profit. 
-
-If you're here, chances are you know about AWS spot instances. There's a few fun tricks I've found:
-
-* Spot instances are *identical* to EC2 instances. The only difference is the way they are priced and billed.
-* Not all AZs are the same price. This is a bit insane, considering that 
+* Cores per $
+* RAM per $
+* What are the deepest discounts to expect from spot instances?
 
 
-## Spot-Pricing Analysis
+#### Be Contrary
 
-* http://gigaom.com/2013/10/08/bidding-strategies-arbitrage-aws-spot-market-is-where-computing-and-finance-meet/
-* http://santtu.iki.fi/2014/03/25/ec2-spot-price-minimum/
-* http://santtu.iki.fi/2014/03/20/ec2-spot-market/
-* http://santtu.iki.fi/2014/03/19/ec2-spot-usage/
-* http://recode.net/2014/11/12/amazon-cloud-chief-andy-jassy-dismisses-talk-of-price-war/
+Spot pricing is a complicated topic, because it's the [combination of several different topics](http://gigaom.com/2013/10/08/bidding-strategies-arbitrage-aws-spot-market-is-where-computing-and-finance-meet/):
 
+* Pay-as-you-go computing capacity
+* Supply and demand (economics)
+* Bidding systems, a.k.a agent theory (LINKS)
+
+This sounds like a job for quantitative finance geeks, arbitrage specialists, and other mathematically obsessed folks. Lucky for us, there's a simple way to find deals when bidding:
+
+**Buy What's Not Popular**

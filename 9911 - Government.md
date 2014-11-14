@@ -22,6 +22,9 @@
 * http://mobile.nytimes.com/2014/11/08/opinion/pregnant-and-no-civil-rights.html
 * http://seattletimes.com/html/nationworld/2025004126_apxlastpolaricebreaker.html
 * https://firstlook.org/theintercept/2014/11/12/stuxnet/
+* http://seattletimes.com/html/nationworld/2025012868_apxborderdrones.html
+* http://arstechnica.com/tech-policy/2014/11/republican-lawmakers-tell-fcc-it-cant-treat-broadband-as-a-utility/
+
 
 <li><a href="https://firstlook.org/theintercept/2014/02/14/ongoing-abuse-state-secrets-privilege/" time_added="1392591442" tags="">Obama DOJ's New Abuse of State-Secrets Privilege Revealed - The Intercept</a></li>
 <li><a href="http://arstechnica.com/tech-policy/2014/01/report-nsa-bulk-metadata-collection-has-no-discernible-impact/" time_added="1389637719" tags="">Report: NSA bulk metadata collection has “no discernible impact” | Ars Tech</a></li>
@@ -82,6 +85,7 @@
 * http://militaryprofessionalreadinglists.com/
 * http://www.computerworld.com/article/2834927/hackers-strike-defense-companies-through-real-time-ad-bidding.html
 * http://www.foreignpolicy.com/articles/2014/10/24/yoda_has_left_the_building_andrew_marshall_pentagon_futurist
+* http://www.nytimes.com/2014/11/13/us/cuts-in-military-mean-job-losses-for-career-staff.html?_r=0
 
 
 
@@ -185,6 +189,9 @@
 * http://www.mlive.com/news/ann-arbor/index.ssf/2014/11/witness_in_ann_arbor_police_sh.html
 * http://www.usatoday.com/story/news/nation/2014/11/12/police-mistakenly-shoot-911-caller-manhunt/18901533/
 * http://www.salon.com/2014/11/10/shocking_video_shows_cop_hitting_man_for_not_letting_him_search_car/
+* http://arstechnica.com/tech-policy/2014/11/taser-selling-boatloads-of-body-cameras-to-police-forces-post-ferguson/
+* http://seattletimes.com/html/localnews/2025011879_policeaccountabilityxml.html
+
 
 
 

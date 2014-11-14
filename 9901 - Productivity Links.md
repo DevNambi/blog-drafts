@@ -184,6 +184,15 @@ Ethan White: "scheduling time on my calendar for the important (and sticking to 
 * https://blog.lavaboom.com/lavabooms-response-to-warrants/
 * https://blog.mozilla.org/privacy/2014/11/10/introducing-polaris-privacy-initiative-to-accelerate-user-focused-privacy-online/
 * https://www.eff.org/deeplinks/2014/11/starttls-downgrade-attacks
+* http://arstechnica.com/security/2014/11/disconnects-new-app-pulls-the-plug-on-supercookies-other-tracking/
+* http://arstechnica.com/tech-policy/2014/11/americans-know-about-digital-snooping-but-cant-stop-it-survey-finds/
+* http://arstechnica.com/tech-policy/2014/11/condemnation-mounts-against-isp-that-sabotaged-users-e-mail-encryption/
+* http://www.slate.com/articles/technology/future_tense/2014/11/how_corporations_are_adopting_cyber_defense_and_around_legal_barriers_the.single.html
+* http://www.infoworld.com/article/2846291/it-jobs/privacy-breaches-spurring-unexpected-it-jobs-boom.html
+
+
+
+
 
 
 

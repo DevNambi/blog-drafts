@@ -286,6 +286,9 @@
 
 ### Finance, Debt
 
+* http://seattletimes.com/html/nationworld/2025012950_apxcollegecosts.html
+
+
 
 #### Adjuncts
 
