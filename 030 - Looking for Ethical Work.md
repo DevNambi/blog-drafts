@@ -64,6 +64,7 @@ Industries
 * http://www.theatlantic.com/health/archive/2012/10/why-were-still-waiting-on-the-yelpification-of-health-care/263815/
 * http://www.businessinsider.com/super-cheap-genome-sequencing-by-2020-2014-10
 * http://digitheadslabnotebook.blogspot.com/2014/11/the-dream-recomb-conference-2014.html
+* https://medium.com/backchannel/the-man-who-made-the-uk-say-im-sorry-for-what-we-did-to-turing-8fc468dcea6b
 
 
 ### Support creators, and disrupt everything else

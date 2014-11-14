@@ -150,6 +150,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://square.github.io/intro-to-d3/
 * http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 * http://zeroviscosity.com/category/d3-js-step-by-step
+* http://metricsgraphicsjs.org/
 
 
 
@@ -285,6 +286,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/
 * http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 * http://timdettmers.wordpress.com/2014/09/21/how-to-build-and-use-a-multi-gpu-system-for-deep-learning/
+* http://blog.shriphani.com/2014/11/12/the-isomap-algorithm/
 * http://karpathy.github.io/neuralnets/
 * http://machinelearningmastery.com/building-a-production-machine-learning-infrastructure/
 * http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/

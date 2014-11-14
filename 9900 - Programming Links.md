@@ -39,6 +39,8 @@
 * http://www.informit.com/articles/article.aspx?p=1963779
 * http://danluu.com/2choices-eviction/
 * http://www.danylkoweb.com/Blog/top-10-books-every-net-developer-should-own-QG
+* http://www.theregister.co.uk/2014/11/10/kryders_law_of_ever_cheaper_storage_disproven/
+* http://setosa.io/ev/
 
 
 

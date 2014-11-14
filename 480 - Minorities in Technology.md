@@ -57,3 +57,9 @@ Look up generation STEM study. Done by the Girl Scouts.
 </ul>
 
 Focus on not just women. Any group that's underrepresented (race, age, etc).
+
+
+Conversation on job descriptions that attract/repel women in technology:
+
+https://twitter.com/kissane/status/533297718786269184
+

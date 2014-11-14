@@ -15,6 +15,7 @@
 * https://hbr.org/2014/03/why-good-managers-are-so-rare/
 * http://seattletimes.com/html/businesstechnology/2023383110_boeingbrtxml.html
 * https://docs.google.com/document/d/1AFTuOMZoK96afsgHhDoxs85bfE0tKwUSeYgLX-bHYYM/edit
+* https://enterprisersproject.com/article/2014/11/cios-and-ctos-empower-your-teams
 
 
 <li><a href="http://lifehacker.com/5936493/want-to-be-a-great-leader-start-reading" time_added="1348860619" tags="hn">Want to Be a Great Leader? Start Reading</a></li>

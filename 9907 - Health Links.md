@@ -275,6 +275,7 @@
 * http://www.seattlepi.com/national/article/Study-Cosmetic-talc-products-carry-asbestos-peril-5861858.php
 * http://en.wikipedia.org/wiki/Contaminated_haemophilia_blood_products
 * http://mosaicscience.com/story/plutocratic-proposal
+* http://www.newsweek.com/2014/11/21/medical-science-has-data-problem-284066.html
 
 
 **Learning from the Best**
