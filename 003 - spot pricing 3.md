@@ -20,6 +20,15 @@ In the last two blog posts we covered the basics of AWS spot instances and looke
 
 Now let's see if we can predict prices. Our goal is a better understand of how spot prics behave, so we can optimize our computing costs over time.
 
+#### Prices By Time
+
+Prices differ by time of day
+
+* Per biz hour / weekday.
+* Per time of day. 
+* What days and times of day matter? What patterns exist?
+* Which times have the most price 'bursts'?
+* Which instance types have the most price 'bursts?'
 
 
 ---- 
