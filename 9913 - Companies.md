@@ -68,3 +68,8 @@
 
 * http://www.infoworld.com/article/2840959/data-security/mobile-payments-fraud-opportunities.html
 * https://corp.sonic.net/ceo/2014/11/12/neutrality-is-just-a-symptom/
+
+
+## Airlines
+
+* http://www.newyorker.com/business/currency/leaving-united-airlines-after-merger

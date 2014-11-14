@@ -16,6 +16,7 @@
 * http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf
 * http://nbviewer.ipython.org/github/jakevdp/ESAC-stats-2014/blob/master/notebooks/Index.ipynb
 * http://streamhacker.com/2011/10/31/fuzzy-string-matching-python/
+* http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/
 
 
 
@@ -164,6 +165,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 <li><a href="http://drunks-and-lampposts.com/2012/10/02/clegg-vs-pleb-an-xkcd-esque-chart/" time_added="1350707127" tags="data science,viz">Clegg vs Pleb: An XKCD-esque chart « Drunks&Lampposts</a></li>
 
 * http://opr.princeton.edu/workshops/201401/ggplot2Jan2014DawnKoffman.pdf
+* http://www.exegetic.biz/blog/2014/11/creating-more-effective-graphs/
 
 
 #### Tableau
