@@ -101,6 +101,8 @@
 * http://arstechnica.com/business/2014/10/fed-up-us-cities-try-to-build-better-broadband/
 * http://www.eurekalert.org/pub_releases/2014-10/puww-wdf102814.php
 * http://www.nytimes.com/2014/10/29/us/lobbyists-bearing-gifts-pursue-attorneys-general.html?_r=0
+* http://blogs.seattletimes.com/opinionnw/2014/11/14/yet-another-flashing-light-at-state-department-of-social-and-health-services/
+* http://seattletimes.com/html/editorials/2025020073_edit1351postelection14xml.html
 
 
 
