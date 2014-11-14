@@ -27,6 +27,7 @@ Now let's see if we can predict prices. Our goal is a better understand of how s
 **Part 3: Predictions**
 
 * Show the results, not the algo
+* Which regions have the most price 'bursts'?
 * Algos to look at: logistic regression, others. Depends on pricing strategy
 * When do price spikes happen? Can they be predicted?
 	* Do price spikes happen across AZs? Regions? Instance types?

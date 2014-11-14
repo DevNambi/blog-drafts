@@ -6,6 +6,8 @@ http://data.spokesman.com/salaries/state/faq/
 
 http://fiscal.wa.gov/Salaries.aspx <- salaries. Not total compensation.
 
+https://www.insidehighered.com/news/2014/11/14/number-college-employees-declines-slightly
+
 
 Cost of higher ed from first principles:
 
