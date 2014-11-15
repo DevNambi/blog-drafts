@@ -39,6 +39,9 @@
 
 * http://www.slate.com/articles/business/moneybox/2014/10/uber_driver_salary_the_ride_sharing_company_says_its_drivers_make_great.single.html
 * http://www.theverge.com/2014/11/4/7150225/uber-is-recruiting-50000-veterans
+* http://www.modernluxury.com/san-francisco/story/the-smartest-bro-the-room
+
+
 
 "It turns out Uber is a replacement for owning a car" say wealthy urbanites who don't have kids, pets, disabilities or outdoor hobbies." - https://twitter.com/mims
 
@@ -80,6 +83,7 @@
 * http://techcrunch.com/2014/10/25/currentc/
 * http://www.theguardian.com/us-news/2014/oct/28/-sp-jobs-brokers-entrap-indian-tech-workers?CMP=share_btn_tw
 * https://medium.com/dima-korolev/invited-technical-co-founder-79ee1713ff25
+* https://medium.com/weird-future/a-utopia-of-ones-own-e6fa8f16f92b
 
 
 

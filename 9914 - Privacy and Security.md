@@ -53,6 +53,8 @@
 * http://arstechnica.com/tech-policy/2014/11/condemnation-mounts-against-isp-that-sabotaged-users-e-mail-encryption/
 * http://www.slate.com/articles/technology/future_tense/2014/11/how_corporations_are_adopting_cyber_defense_and_around_legal_barriers_the.single.html
 * http://www.infoworld.com/article/2846291/it-jobs/privacy-breaches-spurring-unexpected-it-jobs-boom.html
+* http://thestack.com/chakravarty-tor-traffic-analysis-141114
+* http://www.theguardian.com/world/2014/nov/09/berlins-digital-exiles-tech-activists-escape-nsa
 
 "Governments & corporations should not have a right to privacy, people should. So, essentially, the opposite of what we have now #futureshock"
 

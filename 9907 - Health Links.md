@@ -469,6 +469,7 @@ I'm glad these issues are making it into the press. Health care in America is be
 
 * http://www.slate.com/blogs/bad_astronomy/2012/12/04/congress_hearing_on_vaccines_is_a_farce_of_dangerous_antivax_nonsense.html
 * http://pando.com/2013/05/04/screw-you-papa-john-i-dont-understand-american-healthcare-but-thats-no-excuse/
+* http://seattletimes.com/html/nationworld/2025023705_apxhealthoverhaulcontraceptives.html
 
 
 

@@ -88,7 +88,7 @@
 * http://www.foreignpolicy.com/articles/2014/10/24/yoda_has_left_the_building_andrew_marshall_pentagon_futurist
 * http://www.nytimes.com/2014/11/13/us/cuts-in-military-mean-job-losses-for-career-staff.html?_r=0
 * http://seattletimes.com/html/nationworld/2025004627_robotweaponsxml.html
-
+* http://www.nytimes.com/2014/11/16/books/review/knife-fights-by-john-a-nagl.html?_r=0
 
 
 

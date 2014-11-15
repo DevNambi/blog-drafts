@@ -68,6 +68,7 @@
 
 * http://www.infoworld.com/article/2840959/data-security/mobile-payments-fraud-opportunities.html
 * https://corp.sonic.net/ceo/2014/11/12/neutrality-is-just-a-symptom/
+* http://arstechnica.com/business/2014/11/fcc-calls-atts-fiber-bluff-demands-detailed-construction-plans/
 
 
 ## Airlines

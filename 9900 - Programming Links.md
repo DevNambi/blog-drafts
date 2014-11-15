@@ -70,6 +70,7 @@
 * http://www.karllhughes.com/2014/dev-bootcamp-program/
 * http://antirez.com/news/82
 * http://kevgriffin.com/the-non-techie-guide-to-source-control/
+* http://www.bbc.com/news/technology-30054140
 
 
 
@@ -202,6 +203,9 @@
 * http://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time
 * http://cloudacademy.com/blog/google-cloud-vs-aws-a-comparison/
 * http://techcrunch.com/2014/11/04/google-launches-managed-service-for-running-docker-based-applications-on-its-cloud-platform/
+* https://gigaom.com/2014/11/12/amazon-details-how-it-does-networking-in-its-data-centers/
+* https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e
+
 
 
 
@@ -256,6 +260,7 @@
 
 * http://wrobstory.gitbooks.io/python-to-scala/
 * http://www.slideshare.net/Bozho/scala-the-good-the-bad-and-the-very-ugly
+* http://yefremov.net/blog/debugging-scala-compiler-magic/
 
 
 
