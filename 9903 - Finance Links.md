@@ -44,6 +44,7 @@
 * http://www.independent.co.uk/news/world/politics/number-of-global-billionaires-has-doubled-since-the-financial-crisis-9826345.html
 * http://dealbook.nytimes.com/2014/11/12/debts-canceled-by-bankruptcy-still-mar-consumer-credit-scores/
 * http://dealbook.nytimes.com/2014/11/13/goldman-sachs-recasts-its-reputation-to-woo-tech-talent/
+* http://mobile.nytimes.com/2014/11/16/business/borrowers-beware-the-robosigners-arent-finished-yet.html
 
 
 
@@ -60,6 +61,7 @@
 <li><a href="http://seattlebubble.com/blog/2013/01/23/washington-states-database-of-unprofessional-agents/" time_added="1359037208" tags="domestic,finance">Seattle Bubble  Washington State’s Database of Unprofessional Agents</a></li>
 
 * http://www.nakedcapitalism.com/2014/10/invitation-homes-tenant-abuse-shows-incompetence-well-malfeasance.html
+* http://mobile.nytimes.com/2014/11/16/business/borrowers-beware-the-robosigners-arent-finished-yet.html
 
 
 ## Poverty, Class Warfare, 'American Dream'
@@ -77,6 +79,7 @@
 * http://www.theawl.com/2014/10/how-amazon-solved-the-problem-of-work
 * http://www.usatoday.com/story/money/personalfinance/2014/10/25/cheat-sheet-middle-class-cant-afford/17730223/
 * http://www.nytimes.com/2014/10/26/opinion/sunday/nicholas-kristof-the-american-dream-is-leaving-america.html
+* http://m.tickld.com/x/capitalism-explained-this-is-so-accurate-it-hurts
 
 
 
@@ -140,6 +143,7 @@
 * http://www.nakedcapitalism.com/2014/10/matt-stoller-need-break-amazon.html
 * http://www.nakedcapitalism.com/2014/10/fed-needs-stop-asset-acquisitions-generation.html
 * http://visadoor.com/h1bvisa-database
+* http://mobile.nytimes.com/2014/11/16/opinion/sunday/warning-signs-from-commodity-prices.html
 
 ## Misc
 
