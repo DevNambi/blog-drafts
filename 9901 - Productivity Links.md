@@ -62,6 +62,7 @@
 * http://www.inc.com/jeff-haden/an-nearly-foolproof-way-to-achieve-every-goal-you-set-wed.html?cid=sf01002
 * http://xkcd.com/1445/ <- hilarious and true
 * http://www.fastcompany.com/3038376/what-happens-to-your-brain-when-youre-having-an-brilliant-idea
+* http://www.newyorker.com/magazine/2014/11/10/better-time
 
 
 

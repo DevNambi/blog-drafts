@@ -101,6 +101,7 @@ Emphasize what we don't know
 * http://www.salon.com/2014/10/28/researchers_not_even_a_global_pandemic_can_solve_our_overpopulation_problem/
 * http://www.theatlantic.com/health/archive/2014/11/the-climate-change-solution-no-one-will-talk-about/382197/
 * http://www.theguardian.com/environment/2014/oct/31/amazon-rainforest-deforestation-weather-droughts-report
+* http://www.theguardian.com/sustainable-business/2014/oct/27/toxic-plastic-synthetic-microscopic-oceans-microbeads-microfibers-food-chain
 
 
 
