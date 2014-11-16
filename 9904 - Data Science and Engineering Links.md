@@ -229,6 +229,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://simplystatistics.org/2014/10/17/bayes-rule-in-a-gif/
 * https://github.com/twitter/BreakoutDetection
 * http://www.wired.com/2014/10/tracy-widom-mysterious-statistical-law/
+* http://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
 
 
 
@@ -300,6 +301,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://karpathy.github.io/neuralnets/
 * http://www.i-programmer.info/news/105-artificial-intelligence/7352-the-flaw-lurking-in-every-deep-neural-net.html
 * http://randyzwitch.com/twitter-breakoutdetection-r-package-evaluation/
+* http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 
 
 
@@ -329,6 +331,8 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 <li><a href="http://andybromberg.com/sentiment-analysis-python/" time_added="1363372090" tags="ml">Second Try: Sentiment Analysis in Python : Andy Bromberg</a></li>
 <li><a href="http://blog.mashape.com/post/48946187179/list-of-25-natural-language-processing-apis" time_added="1389191093" tags="">List of 25 Natural Language Processing APIs | Mashape Blog</a></li>
 <li><a href="http://www.johnmyleswhite.com/notebook/2009/02/25/text-processing-in-r/" time_added="1406321391" tags="">Text Processing in R</a></li>
+
+* http://textvis.lnu.se/
 
 
 
@@ -476,6 +480,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * https://speakerdeck.com/jdmaturen/towards-a-data-driven-product-techniques-and-tools-at-github
 * http://arxiv.org/pdf/1210.0530v3.pdf <- Best Practices for Scientific Computing #priceless
 * http://www.slideshare.net/xamat/10-lessons-learned-from-building-machine-learning-systems
+* https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de
 
 
 

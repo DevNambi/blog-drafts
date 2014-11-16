@@ -40,6 +40,8 @@ Caveat. Sometimes there aren't very many of certain instance classes, so you can
 * http://santtu.iki.fi/2014/03/19/ec2-spot-usage/
 * http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-limits.html
 
+* http://blog.yhathq.com/posts/how-yhat-does-cloud-balancing.html
+
 
 **Post-Publish Notes***
 

@@ -223,3 +223,4 @@
 * http://projects.aljazeera.com/2014/double-voters/index.html
 * http://boingboing.net/2014/10/31/secret-recording-of-corporate.html
 * http://mobile.nytimes.com/2014/11/08/opinion/pregnant-and-no-civil-rights.html
+* http://westleyargentum.github.io/112th-influence-vis/
