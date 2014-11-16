@@ -196,6 +196,7 @@
 * http://arstechnica.com/tech-policy/2014/11/taser-selling-boatloads-of-body-cameras-to-police-forces-post-ferguson/
 * http://seattletimes.com/html/localnews/2025011879_policeaccountabilityxml.html
 * http://www.salon.com/2014/11/13/shocking_report_exposes_how_new_orleans_police_routinely_ignored_sex_crimes/
+* http://www.washingtonpost.com/investigations/dc-police-plan-for-future-seizure-proceeds-years-in-advance-in-city-budget-documents/2014/11/15/7025edd2-6b76-11e4-b053-65cea7903f2e_story.html?hpid=z4
 
 
 

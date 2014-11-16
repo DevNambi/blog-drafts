@@ -80,6 +80,7 @@ Industries
 * http://www.brainpickings.org/2014/02/11/brockman-what-should-we-be-worried-about/
 * http://www.pickthebrain.com/blog/8-things-important-job/
 * http://www.cs.washington.edu/events/colloquia/details?id=2607
+* http://www.theatlantic.com/video/index/382599/the-apache-firefighters-who-stop-americas-biggest-wildfires/
 
 Work-Life Balance: List the good and bad things, and why
 • How to make good things easier

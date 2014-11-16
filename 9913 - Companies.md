@@ -74,3 +74,8 @@
 ## Airlines
 
 * http://www.newyorker.com/business/currency/leaving-united-airlines-after-merger
+
+
+## Misc
+
+* http://www.reuters.com/article/2014/11/16/us-usa-chemicals-death-idUSKCN0J001B20141116
