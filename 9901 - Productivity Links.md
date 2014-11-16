@@ -70,6 +70,9 @@ Ethan White: "scheduling time on my calendar for the important (and sticking to 
 
 
 
+Embrace awkwardness more
+
+
 
 ## Communication
 

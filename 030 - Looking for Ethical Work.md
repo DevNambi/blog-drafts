@@ -93,6 +93,9 @@ Work-Life Balance: List the good and bad things, and why
 * Sacrifice
 
 
+Bad ethics + privilege = intense dislike. Contempt.
+   More control/influence = more dislike
+
 
 * Cost vs. benefit
    * Matrix prioritization
