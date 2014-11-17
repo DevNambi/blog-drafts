@@ -285,6 +285,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 * http://research.microsoft.com/en-us/projects/r2/
 * http://probabilistic-programming.org/wiki/Home
+* http://new.livestream.com/accounts/7874891/events/3565981 <- ML conf videos
 * https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 * http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/
 * http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/

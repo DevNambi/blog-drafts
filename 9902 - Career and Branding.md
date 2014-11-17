@@ -68,6 +68,8 @@
 <li><a href="http://www.hilarymason.com/speaking/why-you-an-introverted-nerd-should-try-public-speaking/" time_added="1361578667" tags="brand,hn,important">» Why YOU (an introverted nerd) Should Try Public Speaking hilarymason.com</a></li>
 <li><a href="http://www.fourhourworkweek.com/blog/2014/02/04/how-to-get-published/" time_added="1391572514" tags="">How to Write a Bestselling Book This Year — The Definitive Resource List an</a></li>
 
+* http://www.entrepreneur.com/article/238556
+
 
 ## Technical Setup
 

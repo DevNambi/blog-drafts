@@ -374,6 +374,7 @@ things they believe in will keep </a></li>
 * https://aws.amazon.com/blogs/aws/highly-scalable-mysql-compat-rds-db-engine/
 * https://foundationdb.com/key-value-store/white-papers/future-of-nosql
 * http://allen-mcguire.blogspot.com/2014/06/reporting-on-spblitzcache-results.html
+* http://www.pg-versus-ms.com/ <- brilliant, and useful.
 
 
 
