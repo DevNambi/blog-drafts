@@ -230,6 +230,7 @@
 * http://www.nytimes.com/2014/10/28/world/africa/wish-to-do-more-in-ebola-fight-meets-reality-in-liberia.html?_r=0
 * http://seattletimes.com/html/localnews/2024939773_jdlcolumn03xml.html
 * http://seattletimes.com/html/nationworld/2025041126_apxebolaomahapatient.html
+* http://seattletimes.com/html/nationworld/2025045858_statinsalternativexml.html
 
 
 
@@ -357,6 +358,7 @@
 * http://www.npr.org/blogs/health/2014/10/21/357780794/more-insurers-put-spending-limits-on-medical-treatments
 * http://www.usatoday.com/story/news/health/2014/11/05/ozy-abraham-flaxman-public-health/18529009/
 * http://www.theatlantic.com/health/archive/2014/11/do-you-know-the-basics-of-health-insurance/382700/
+* http://www.nytimes.com/2014/11/18/us/politics/health-law-turns-obama-and-insurers-into-allies.html
 
 
 By Zoe Keating:

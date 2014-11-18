@@ -45,6 +45,7 @@
 * http://dealbook.nytimes.com/2014/11/12/debts-canceled-by-bankruptcy-still-mar-consumer-credit-scores/
 * http://dealbook.nytimes.com/2014/11/13/goldman-sachs-recasts-its-reputation-to-woo-tech-talent/
 * http://mobile.nytimes.com/2014/11/16/business/borrowers-beware-the-robosigners-arent-finished-yet.html
+* http://www.nbcnews.com/business/economy/u-s-companies-now-stashing-2-trillion-overseas-n247256
 
 
 

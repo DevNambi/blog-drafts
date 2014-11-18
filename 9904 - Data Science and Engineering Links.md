@@ -344,6 +344,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 <li><a href="http://blog.yhathq.com/posts/image-processing-with-scikit-image.html" time_added="1391111958" tags="">Image Processing with scikit-image</a></li>
 
 * http://totems.co/blog/comparison-image-hashing-libraries/
+* http://cs.stanford.edu/people/karpathy/deepimagesent/
 
 
 

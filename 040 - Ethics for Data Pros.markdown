@@ -36,6 +36,7 @@ We believe we are working to make our society, our world, a better place. At the
 * https://itsinsiderunplugged.wordpress.com/2014/11/12/big-mountain-data-heads-to-san-francisco/
 * http://www.drivendata.org/competitions/4/
 * https://github.com/nmkridler/bayeshackmining
+* http://mashable.com/2014/11/17/data-hackathon/
 
 
 
