@@ -47,6 +47,9 @@
 "It turns out Uber is a replacement for owning a car" say wealthy urbanites who don't have kids, pets, disabilities or outdoor hobbies." - https://twitter.com/mims
 
 
+"The incapacity to see structurally: what you value (in the service - freedom) is the values (f-k the law, employees) that brings you that" - https://twitter.com/camerontw
+
+
 ## Technical
 
 <li><a href="http://www.dangrossman.info/2012/09/24/who-hosts-the-y-combinator-startups/" time_added="1360802853" tags="cloud">Dan Grossman | Who Hosts the Y Combinator Startups?</a></li>
