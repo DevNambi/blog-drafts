@@ -37,6 +37,7 @@ We believe we are working to make our society, our world, a better place. At the
 * http://www.drivendata.org/competitions/4/
 * https://github.com/nmkridler/bayeshackmining
 * http://mashable.com/2014/11/17/data-hackathon/
+* http://www.theatlantic.com/magazine/archive/2014/12/the-shazam-effect/382237/?single_page=true
 
 
 

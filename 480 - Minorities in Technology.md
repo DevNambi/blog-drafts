@@ -28,6 +28,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * http://valleywag.gawker.com/alienation-and-stress-what-its-like-to-be-black-and-fe-1655102039
 * http://jezebel.com/woman-gets-death-threats-for-tweeting-about-disliking-a-1658337612
 * https://storify.com/kissane/job-listings-that-don-t-alienate
+* http://www.dailydot.com/technology/airbnb-panel-women-in-tech/
 
 
 "Life hacks: Be born male &/or white &/or straight. Be born to college graduates. Be born able-bodied &/or American. Don't get hit by a bus." - https://twitter.com/saladinahmed

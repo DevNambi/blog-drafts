@@ -108,6 +108,7 @@
 <li><a href="http://arstechnica.com/information-technology/2014/02/why-isolate-lower-application-layers-from-higher-layers/" time_added="1391325198" tags="">Why isolate “lower” application layers from “higher” layers?</a></li>
 
 * http://martinfowler.com/bliki/SacrificialArchitecture.html
+* http://nerds.airbnb.com/maintaining-quality-scale/
 
 
 

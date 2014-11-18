@@ -398,6 +398,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 
 * http://joel.is/6-things-i-do-to-be-consistently-happy/
 * http://newoldage.blogs.nytimes.com/2014/09/24/study-links-anxiety-drugs-to-alzheimers-disease/
+* http://realsqlguy.com/vital-statistics-and-health-checks/
 
 
 

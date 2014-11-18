@@ -41,6 +41,7 @@
 * http://www.theverge.com/2014/11/4/7150225/uber-is-recruiting-50000-veterans
 * http://www.modernluxury.com/san-francisco/story/the-smartest-bro-the-room
 * http://www.geekwire.com/2014/uber-exec-wanted-dig-dirt-expose-journalist-critical-column/
+* https://www.jacobinmag.com/2014/09/against-sharing/
 
 
 
