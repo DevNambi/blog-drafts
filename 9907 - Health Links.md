@@ -279,6 +279,7 @@
 * http://en.wikipedia.org/wiki/Contaminated_haemophilia_blood_products
 * http://mosaicscience.com/story/plutocratic-proposal
 * http://www.newsweek.com/2014/11/21/medical-science-has-data-problem-284066.html
+* http://www.theatlantic.com/health/archive/2014/11/forget-antibacterial-products/382832/
 
 
 **Learning from the Best**
