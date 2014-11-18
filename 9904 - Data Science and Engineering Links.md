@@ -303,6 +303,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://www.i-programmer.info/news/105-artificial-intelligence/7352-the-flaw-lurking-in-every-deep-neural-net.html
 * http://randyzwitch.com/twitter-breakoutdetection-r-package-evaluation/
 * http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
+* http://blogs.nvidia.com/blog/2014/11/17/microsoft-gpu-learn-faster/
 
 
 

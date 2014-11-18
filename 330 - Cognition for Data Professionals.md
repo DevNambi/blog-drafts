@@ -21,6 +21,8 @@
 * (Articles in the \Health and \Lifehacker sections of Pocket)
 * Curiosity and pride. Humility is helpful.
 
+"Work is most fulfilling when you're at the comfortable, exciting edge of not quite knowing what you are doing." - https://twitter.com/alaindebotton
+
 * know your own skills
 * Know your weaknesses
 * Know your effect on your company, and the company's effects on the world.

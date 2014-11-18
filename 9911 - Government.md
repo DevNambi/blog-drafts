@@ -81,7 +81,7 @@
 
 
 
-
+* http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
 * http://www.nakedcapitalism.com/2014/10/john-helmer-cia-bumbling-now.html
 * http://militaryprofessionalreadinglists.com/
 * http://www.computerworld.com/article/2834927/hackers-strike-defense-companies-through-real-time-ad-bidding.html
@@ -199,6 +199,11 @@
 * http://www.salon.com/2014/11/13/shocking_report_exposes_how_new_orleans_police_routinely_ignored_sex_crimes/
 * http://www.washingtonpost.com/investigations/dc-police-plan-for-future-seizure-proceeds-years-in-advance-in-city-budget-documents/2014/11/15/7025edd2-6b76-11e4-b053-65cea7903f2e_story.html?hpid=z4
 * http://thefreethoughtproject.com/charges-cop-killed-19-year-old-girl-fleeing-party/
+* https://firstlook.org/theintercept/2014/11/17/is-texas-getting-ready-kill-innocent-man/
+* http://www.zdnet.com/anonymous-seizes-klu-klux-klan-twitter-account-over-ferguson-threats-7000035836/
+* http://arstechnica.com/tech-policy/2014/11/redflex-a-major-red-light-camera-vendor-may-pull-out-of-north-america/
+* http://arstechnica.com/tech-policy/2014/11/judges-impose-rare-stricter-requirement-for-stingray-use-by-police/
+* http://www.extremetech.com/extreme/194338-here-come-the-autonomous-robot-security-guards-what-could-possibly-go-wrong
 
 
 

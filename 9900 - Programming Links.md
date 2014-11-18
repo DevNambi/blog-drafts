@@ -206,6 +206,7 @@
 * https://gigaom.com/2014/11/12/amazon-details-how-it-does-networking-in-its-data-centers/
 * https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e
 * http://googlecloudplatform.blogspot.com/2014/11/autoscaling-welcome-to-google-compute.html
+* https://www.quora.com/Does-Google-offer-free-cloud-resources-to-researchers
 
 
 

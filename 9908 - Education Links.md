@@ -268,6 +268,7 @@
 * http://blogs.seattletimes.com/educationlab/2014/10/24/how-i-got-into-college-students-will-share-stories-nov-15/
 * http://www.nytimes.com/2014/11/16/nyregion/at-college-where-alumni-pockets-are-shallow-a-struggle-to-raise-money.html
 * http://highereddatastories.blogspot.com/2014/11/four-ways-to-look-at-college-tuition-in.html
+* http://seattletimes.com/html/localnews/2025040516_internationalstudentsxml.html
 
 
 

@@ -96,6 +96,7 @@
 * http://well.blogs.nytimes.com/2014/10/30/a-heart-risk-in-drinking-water/?_r=0
 * http://www.curatingmenus.org/data_dictionary/
 * http://www.nature.com/news/gut-brain-link-grabs-neuroscientists-1.16316
+* http://www.foodpolitics.com/2014/11/brazilian-dietary-guidelines-are-based-on-foods-food-patterns-and-meals-not-nutrients/
 
 
 
@@ -228,6 +229,7 @@
 * http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html
 * http://www.nytimes.com/2014/10/28/world/africa/wish-to-do-more-in-ebola-fight-meets-reality-in-liberia.html?_r=0
 * http://seattletimes.com/html/localnews/2024939773_jdlcolumn03xml.html
+* http://seattletimes.com/html/nationworld/2025041126_apxebolaomahapatient.html
 
 
 
