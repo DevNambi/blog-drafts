@@ -18,9 +18,34 @@ meta-description:
 - cost of computing
 ---
 
-In my last blog post, I gave an introduction into Amazon Web Services' spot instances. We found some good deals. Now, I want to look a bit at the competition.
+In my last blog post, I gave an introduction into Amazon Web Services' spot instances. There were some great deals to be found.
 
-How cheaply can I run computing with AWS' competitors?
+Let's look at the competition. How cheaply can we run find computing resources using Google's [Compute Engine](https://cloud.google.com/compute/) and Microsoft's [Azure](http://azure.microsoft.com/en-us/)? 
+
+
+**Azure**
+
+* http://azure.microsoft.com/en-us/pricing/details/virtual-machines/#Linux
+* Does it charge for local I/O? Does that even exist?
+
+
+**GCE**
+
+* Charges for local SSD I/O!
+* https://cloud.google.com/compute/docs/machine-types#standard
+* https://cloud.google.com/compute/docs/disks
+* https://cloud.google.com/compute/docs/local-ssd#pricing_and_quota
+
+
+**Resources**
+
+* http://www.citeworld.com/article/2113976/cloud-computing/ultimate-cloud-speed-tests-amazon-vs-google-vs-windows-azure.html
+* http://blog.cloudharmony.com/2013/06/value-of-the-cloud-cpu-performance.html <- AMAZING
+* http://www.pythian.com/blog/comparing-cpu-throughput-of-azure-and-aws-ec2/
+* http://www.computerworld.com.au/article/539633/amazon_vs_google_vs_windows_azure_cloud_computing_speed_showdown/
+* http://sqlperformance.com/2014/05/io-subsystem/comparing-azure-vm-performance
+* https://cloudvertical.com/cloud-costs#cloud_costs/index
+
 
 
 #### Google Cloud Engine
@@ -33,9 +58,7 @@ How cheaply can I run computing with AWS' competitors?
 * Figure out CPU per scaling factor for each
 * How much of a discount is this compared to GCE or Azure, since they don't have this feature
 
-#### Rackspace
 
-* How much of a discount is this compared to GCE or Azure, since they don't have this feature
 
 ### When In Doubt, Competition
 

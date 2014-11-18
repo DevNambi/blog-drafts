@@ -368,6 +368,12 @@ Given that the patient is ultimately responsible for the costs, if an insurance 
 If you're going through this, don't give up. File every appeal. Call your insurance company every day until you find an agent who will work with you. Be polite, firm and unrelenting. Record the conversations so you can make sense of them later. When you can't go any farther with the insurance company, call the medical facility and talk the bills down.
 I'm glad these issues are making it into the press. Health care in America is better than it was before Obama, but it is not fixed yet."
 
+On 2014-11-17, Zoe Keating:
+
+Just got off the phone with Anthem Blue Cross and jeez my heart rate is through the roof. "Polite but firm" is my mantra but I just totally lost it and starting swearing at the rep.
+In July, Jeff had surgery for the complete fracture of his femur. We went to our network hospital but the surgeon, unknown to us, was out of network. I've filed appeals and been calling Anthem about this every week for, oh, three months? Today they said they they had no record of any of my appeals.
+Then I asked to speak to a supervisor so they put me on hold for 15 minutes and I was disconnected. I think it is deliberate obfuscation. If you have a choice, don't choose Anthem Blue Cross.
+
 
 #### Work
 

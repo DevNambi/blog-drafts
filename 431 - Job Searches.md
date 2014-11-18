@@ -38,6 +38,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://www.nytimes.com/2014/04/20/opinion/sunday/friedman-how-to-get-a-job-at-google-part-2.html?_r=0">How to Get a Job at Google</a></li>
 <li><a href="http://mobile.nytimes.com/blogs/bits/2014/06/21/a-way-to-rid-your-social-media-of-embarrassments/">A way to clean up your social media presence</a></li>
 <li><a href="http://www.businessinsider.com/this-linkedin-feature-could-ruin-your-job-search-2014-11">LinkedIn Users Are Suing The Site Over A Feature They Say Ruined Their Job Searches</a></li>
+<li><a href="http://shit-recruiters-say.tumblr.com/">Sh*t Recruiters Say</a></li>
 </ul>
 
 

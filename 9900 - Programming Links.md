@@ -205,6 +205,7 @@
 * http://techcrunch.com/2014/11/04/google-launches-managed-service-for-running-docker-based-applications-on-its-cloud-platform/
 * https://gigaom.com/2014/11/12/amazon-details-how-it-does-networking-in-its-data-centers/
 * https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e
+* http://googlecloudplatform.blogspot.com/2014/11/autoscaling-welcome-to-google-compute.html
 
 
 
