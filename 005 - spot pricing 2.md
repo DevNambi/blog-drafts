@@ -45,6 +45,7 @@ Let's look at the competition. How cheaply can we run find computing resources u
 * http://www.computerworld.com.au/article/539633/amazon_vs_google_vs_windows_azure_cloud_computing_speed_showdown/
 * http://sqlperformance.com/2014/05/io-subsystem/comparing-azure-vm-performance
 * https://cloudvertical.com/cloud-costs#cloud_costs/index
+* http://redmonk.com/sogrady/2014/11/18/iaas-pricing-patterns-1114/ <- VERY USEFUL
 
 
 

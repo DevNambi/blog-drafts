@@ -103,6 +103,7 @@ Emphasize what we don't know
 * http://www.theguardian.com/environment/2014/oct/31/amazon-rainforest-deforestation-weather-droughts-report
 * http://www.theguardian.com/sustainable-business/2014/oct/27/toxic-plastic-synthetic-microscopic-oceans-microbeads-microfibers-food-chain
 * https://www.youtube.com/watch?v=x1SgmFa0r04
+* http://www.newyorker.com/humor/borowitz-report/polar-vortex-causes-hundreds-of-injuries-as-people-making-snide-remarks-about-climate-change-are-punched-in-face
 
 
 
