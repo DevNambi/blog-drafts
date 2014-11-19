@@ -41,6 +41,7 @@
 * http://www.danylkoweb.com/Blog/top-10-books-every-net-developer-should-own-QG
 * http://www.theregister.co.uk/2014/11/10/kryders_law_of_ever_cheaper_storage_disproven/
 * http://setosa.io/ev/
+* http://blog.memsql.com/cache-is-the-new-ram/ 
 
 
 
@@ -71,6 +72,8 @@
 * http://antirez.com/news/82
 * http://kevgriffin.com/the-non-techie-guide-to-source-control/
 * http://www.bbc.com/news/technology-30054140
+* http://blog.freecodecamp.com/2014/11/a-cautionary-tale-of-learning-to-code.html
+
 
 
 
@@ -111,7 +114,9 @@
 * http://nerds.airbnb.com/maintaining-quality-scale/
 
 
+## UI, UX, HCD
 
+* https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda?hn=1
 
 
 
@@ -150,6 +155,7 @@
 
 * http://arstechnica.com/information-technology/2014/11/how-to-manage-accidental-complexity-in-software-projects/
 * http://bits.blogs.nytimes.com/2014/11/13/google-lifts-the-turing-award-into-nobel-territory/
+* http://ferd.ca/queues-don-t-fix-overload.html
 
 
 
@@ -228,6 +234,8 @@
 
 * https://github.com/alexandru/scala-best-practices/
 * https://fatiherikli.github.io/programming-language-network/#language:C
+* http://techblog.netflix.com/2014/11/nodejs-in-flames.html
+
 
 
 

@@ -91,6 +91,8 @@
 * http://www.nytimes.com/2014/11/16/books/review/knife-fights-by-john-a-nagl.html?_r=0
 * http://www.nytimes.com/2014/11/16/books/review/the-invisible-front-by-yochi-dreazen.html
 * http://www.buzzfeed.com/hayesbrown/just-four-groups-spread-most-of-the-worlds-terror-as-deaths
+* http://arxiv.org/abs/1411.2842
+
 
 
 
@@ -206,6 +208,8 @@
 * http://arstechnica.com/tech-policy/2014/11/redflex-a-major-red-light-camera-vendor-may-pull-out-of-north-america/
 * http://arstechnica.com/tech-policy/2014/11/judges-impose-rare-stricter-requirement-for-stingray-use-by-police/
 * http://www.extremetech.com/extreme/194338-here-come-the-autonomous-robot-security-guards-what-could-possibly-go-wrong
+* http://arstechnica.com/tech-policy/2014/11/prosecutors-drop-key-evidence-at-trial-to-avoid-explaining-stingray-use/
+
 
 
 

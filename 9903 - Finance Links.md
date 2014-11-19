@@ -46,6 +46,7 @@
 * http://dealbook.nytimes.com/2014/11/13/goldman-sachs-recasts-its-reputation-to-woo-tech-talent/
 * http://mobile.nytimes.com/2014/11/16/business/borrowers-beware-the-robosigners-arent-finished-yet.html
 * http://www.nbcnews.com/business/economy/u-s-companies-now-stashing-2-trillion-overseas-n247256
+* http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13977.html
 
 
 
@@ -82,6 +83,7 @@
 * http://www.nytimes.com/2014/10/26/opinion/sunday/nicholas-kristof-the-american-dream-is-leaving-america.html
 * http://m.tickld.com/x/capitalism-explained-this-is-so-accurate-it-hurts
 * http://www.politico.com/magazine/story/2014/11/overtime-pay-obama-congress-112954.html
+* http://www.theatlantic.com/business/archive/2014/11/why-its-so-hard-for-millennials-to-figure-out-where-to-live/382929/
 
 
 
@@ -154,6 +156,8 @@
 * http://www.vice.com/read/organized-crime-pays-0000477-v21n10?curator=MediaREDEF
 * http://core-econ.org/
 * http://www.bloomberg.com/news/2014-11-16/norway-wealth-fund-outsmarts-flash-boys-as-algorithms-abandoned.html
+* http://www.futuresmag.com/2014/11/01/how-power-peg-brought-down-a-knight
+
 
 <li><a href="http://www.ecommercebytes.com/cab/abu/y201/m09/abu0047/s03" time_added="1354918107" tags="domestic,finance">Sniping Tools - Making Sure You Win the Auction</a></li>
 <li><a href="http://t.co/lDcc9GKh" time_added="1356241834" tags="brand,health,hn,important">justinvincent: Why Workers Are Losing the War Against Machines http://t.co/</a></li>

@@ -88,7 +88,17 @@ ortant,personal tech">Kill the Password: Why a String of Characters Can't Protec
 <li><a href="http://arstechnica.com/security/2014/01/picking-up-the-pieces-after-the-n-twitter-account-theft/2/" time_added="1391282813" tags="">Picking up the pieces after the @N Twitter account theft | Ars Technica</a></li>
 <li><a href="https://medium.com/p/24eb09e026dd" time_added="1391006933" tags="">How I Lost My $50,000 Twitter Username — Medium</a></li>
 
-
+* http://journal.stuffwithstuff.com/2014/11/20/how-my-book-launch-went/
+* https://bryce.fisher-fleig.org/blog/setting-up-ssl-on-aws-cloudfront-and-s3/
+* https://support.cloudflare.com/hc/en-us/articles/200168926-How-do-I-use-CloudFlare-with-Amazon-s-S3-Service-
+* http://serverfault.com/questions/512706/cloudflare-cdn-and-static-site-with-root-on-amazon-s3
+* http://engagingcomms.com/Easy-way-to-Configure-SSL-for-Amazon-S3-bucket-via-Cloudflare-115
+* http://stackoverflow.com/questions/8312162/static-hosting-on-amazon-s3-dns-configuration
+* http://webmasters.stackexchange.com/questions/42742/why-shouldnt-i-use-amazon-s3-for-hosting-a-static-webpage
+* http://www.jimwestergren.com/why-i-recommend-cloudflare-and-why-you-should-try-it-too/
+* https://blog.vrypan.net/2014/10/13/i-enabled-ssl-for-my-s3-hosted-blog/
+* http://www.danesparza.net/2013/11/cheaper-hosting-on-s3/
+* http://w3guy.com/amazon-s3-images-clouflare/
 
 
 

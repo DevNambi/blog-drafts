@@ -63,6 +63,9 @@
 * http://xkcd.com/1445/ <- hilarious and true
 * http://www.fastcompany.com/3038376/what-happens-to-your-brain-when-youre-having-an-brilliant-idea
 * http://www.newyorker.com/magazine/2014/11/10/better-time
+* http://hamberg.no/gtd/
+* https://alumni.stanford.edu/get/page/magazine/article/?article_id=32124
+
 
 
 

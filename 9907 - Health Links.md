@@ -212,6 +212,8 @@
 
 
 * http://www.theatlantic.com/magazine/archive/2014/11/doctors-tell-all-and-its-bad/380785/
+* http://www.medhistorian.com/2014/08/surgeons-at-war.html
+* http://www.huffingtonpost.com/2014/11/18/marijuana-brain-cancer_n_6181060.html
 * http://mobile.nytimes.com/2014/09/21/us/drive-by-doctoring-surprise-medical-bills.html?_r=1
 * http://newoldage.blogs.nytimes.com/2014/09/24/study-links-anxiety-drugs-to-alzheimers-disease/
 * http://www.abc.net.au/news/2014-10-07/queensland-scientists-discover-cancer-fighting-berry/5796106
@@ -360,6 +362,7 @@
 * http://www.usatoday.com/story/news/health/2014/11/05/ozy-abraham-flaxman-public-health/18529009/
 * http://www.theatlantic.com/health/archive/2014/11/do-you-know-the-basics-of-health-insurance/382700/
 * http://www.nytimes.com/2014/11/18/us/politics/health-law-turns-obama-and-insurers-into-allies.html
+* http://www.vox.com/2014/11/19/7247579/childbirth-bill-expensive-canada
 
 
 By Zoe Keating:

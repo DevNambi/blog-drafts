@@ -58,6 +58,8 @@
 
 * http://codingvc.com/analyzing-angellist-job-postings-part-1-basic-stats
 * http://lookatmeimdanny.tumblr.com/post/101432017159/how-putting-10m-into-ubeam-illustrates-everything-that
+* https://medium.com/@toddg777/after-24-months-we-just-made-our-first-hire-272e27a95bc4
+
 
 
 
@@ -75,6 +77,7 @@
 * http://blogs.reuters.com/felix-salmon/2014/04/21/the-most-expensive-lottery-ticket-in-the-world/
 * http://tiempoapp.com/y-combinator-a-two-year-old-and-a-pregnant-wife
 * http://www.wired.com/2014/04/no-exit/?hn
+* https://keen.io/blog/103052402741/how-the-culture-of-overwork-is-killing-entrepreneurs
 
 
 ## Misc

@@ -17,6 +17,7 @@
 * http://nbviewer.ipython.org/github/jakevdp/ESAC-stats-2014/blob/master/notebooks/Index.ipynb
 * http://streamhacker.com/2011/10/31/fuzzy-string-matching-python/
 * http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/
+* https://github.com/ipython-books/cookbook-code/blob/master/toc.md <- amazingly useful
 
 
 
@@ -304,6 +305,8 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://randyzwitch.com/twitter-breakoutdetection-r-package-evaluation/
 * http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 * http://blogs.nvidia.com/blog/2014/11/17/microsoft-gpu-learn-faster/
+* http://spectrum.ieee.org/robotics/artificial-intelligence/the-unknown-startup-that-built-googles-first-selfdriving-ca
+
 
 
 

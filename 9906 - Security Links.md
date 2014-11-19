@@ -42,6 +42,10 @@ agreed, except o</a></li>
 * http://arstechnica.com/security/2014/10/dozens-of-european-atms-rooted-allowing-criminals-to-easily-cash-out/
 * http://arstechnica.com/security/2014/10/nsas-core-secrets-suggests-agents-inside-firms-in-us-abroad/
 * http://technet.microsoft.com/library/cc722487.aspx <- **Priceless**
+* https://casecurity.org/2014/11/18/the-cost-of-creating-collisions-using-sha-1/
+* http://arstechnica.com/tech-policy/2014/11/us-senate-falls-2-votes-short-of-shutting-down-nsa-phone-spying/
+* http://arstechnica.com/security/2014/11/nonprofit-effort-aims-to-encrypt-the-web/
+
 
 
 
