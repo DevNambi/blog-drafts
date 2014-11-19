@@ -173,6 +173,7 @@
 
 * http://www.ajc.com/news/news/breaking-news/no-charges-for-officers-in-botched-drug-raid-that-/nhc2N/
 * http://www.komonews.com/news/local/State-troopers-caught-ignoring-speeding-cops-278746621.html?mobile=y&clmob=y&c=n
+* http://www.huffingtonpost.com/mark-godsey/for-the-first-time-ever-a_b_4221000.html
 * http://www.washingtonpost.com/sf/investigative/2014/09/06/stop-and-seize/
 * http://arstechnica.com/tech-policy/2014/10/private-donors-supply-spy-gear-to-cops/
 * http://www.al.com/news/index.ssf/2014/10/gangrene_and_broken_bones_kill.html
