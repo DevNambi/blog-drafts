@@ -209,6 +209,7 @@
 * http://arstechnica.com/tech-policy/2014/11/judges-impose-rare-stricter-requirement-for-stingray-use-by-police/
 * http://www.extremetech.com/extreme/194338-here-come-the-autonomous-robot-security-guards-what-could-possibly-go-wrong
 * http://arstechnica.com/tech-policy/2014/11/prosecutors-drop-key-evidence-at-trial-to-avoid-explaining-stingray-use/
+* http://www.theglobeandmail.com/news/national/minister-raps-quebec-prosecutors-handling-of-police-crash-that-killed-child/article21651689/
 
 
 
