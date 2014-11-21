@@ -42,6 +42,7 @@
 * http://www.modernluxury.com/san-francisco/story/the-smartest-bro-the-room
 * http://www.geekwire.com/2014/uber-exec-wanted-dig-dirt-expose-journalist-critical-column/
 * https://www.jacobinmag.com/2014/09/against-sharing/
+* http://radar.oreilly.com/2014/11/uber-is-breaking-bad.html
 
 
 
@@ -94,6 +95,9 @@
 * https://medium.com/weird-future/a-utopia-of-ones-own-e6fa8f16f92b
 * http://www.theguardian.com/technology/2014/nov/14/ready-steady-startup-silicon-valley
 * http://seattletimes.com/html/businesstechnology/2025027109_sundaybuzz16xml.html
+* https://medium.com/@pandemona/hey-silicon-valley-we-are-all-uber-a74006ecfd29
+* http://avc.com/2014/11/values-and-culture/
+
 
 
 

@@ -27,6 +27,7 @@
 
 
 * http://voiceofthedba.wordpress.com/2014/10/06/making-better-presentationspractice/
+* http://www.business2community.com/blogging/11-google-analytics-metrics-bloggers-track-01064673
 
 
 ## Career Planning, Consulting, Freelancing
@@ -69,6 +70,7 @@
 <li><a href="http://www.fourhourworkweek.com/blog/2014/02/04/how-to-get-published/" time_added="1391572514" tags="">How to Write a Bestselling Book This Year — The Definitive Resource List an</a></li>
 
 * http://www.entrepreneur.com/article/238556
+* http://www.wired.com/2014/11/be-mean-online/
 
 
 ## Technical Setup

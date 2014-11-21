@@ -55,6 +55,10 @@
 * http://www.infoworld.com/article/2846291/it-jobs/privacy-breaches-spurring-unexpected-it-jobs-boom.html
 * http://thestack.com/chakravarty-tor-traffic-analysis-141114
 * http://www.theguardian.com/world/2014/nov/09/berlins-digital-exiles-tech-activists-escape-nsa
+* http://www.wired.com/2014/11/protection-from-hackers/
+* http://www.computerworld.com/article/2849263/doxxing-defense-remove-your-personal-info-from-data-brokers.html
+* https://resistsurveillance.org/
+
 
 "Governments & corporations should not have a right to privacy, people should. So, essentially, the opposite of what we have now #futureshock"
 

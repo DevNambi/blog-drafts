@@ -210,6 +210,8 @@
 * http://www.extremetech.com/extreme/194338-here-come-the-autonomous-robot-security-guards-what-could-possibly-go-wrong
 * http://arstechnica.com/tech-policy/2014/11/prosecutors-drop-key-evidence-at-trial-to-avoid-explaining-stingray-use/
 * http://www.theglobeandmail.com/news/national/minister-raps-quebec-prosecutors-handling-of-police-crash-that-killed-child/article21651689/
+* http://arstechnica.com/tech-policy/2014/11/seattle-police-may-dump-plans-for-body-cams-citing-records-requests/#p3
+* http://www.nytimes.com/2014/11/21/us/activists-wield-search-data-to-challenge-and-change-police-policy.html
 
 
 
@@ -232,6 +234,7 @@
 
 
 * https://medium.com/i-m-h-o/the-world-is-socialist-c8f0a6dfffab
+* http://www.salon.com/2014/11/19/house_republicans_just_passed_a_bill_forbidding_scientists_from_advising_the_epa_on_their_own_research/
 * http://www.networkworld.com/article/2837808/big-data-business-intelligence/big-data-wars-how-technology-could-tip-the-mid-term-elections.html
 * http://www.newyorker.com/humor/borowitz-report/midterms-prediction-billionaires-retain-control-government
 * http://www.commondreams.org/views/2014/11/10/peasants-still-have-their-pitchforks

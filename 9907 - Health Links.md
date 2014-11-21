@@ -282,6 +282,8 @@
 * http://mosaicscience.com/story/plutocratic-proposal
 * http://www.newsweek.com/2014/11/21/medical-science-has-data-problem-284066.html
 * http://www.theatlantic.com/health/archive/2014/11/forget-antibacterial-products/382832/
+* http://www.wired.com/2014/11/mental-health-apps/
+* http://www.wired.com/2014/10/egg-freezing-risks/
 
 
 **Learning from the Best**
@@ -363,6 +365,7 @@
 * http://www.theatlantic.com/health/archive/2014/11/do-you-know-the-basics-of-health-insurance/382700/
 * http://www.nytimes.com/2014/11/18/us/politics/health-law-turns-obama-and-insurers-into-allies.html
 * http://www.vox.com/2014/11/19/7247579/childbirth-bill-expensive-canada
+* http://well.blogs.nytimes.com/2014/11/20/that-medical-test-costs-50-or-is-it-500/
 
 
 By Zoe Keating:

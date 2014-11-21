@@ -307,6 +307,8 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://blogs.nvidia.com/blog/2014/11/17/microsoft-gpu-learn-faster/
 * http://spectrum.ieee.org/robotics/artificial-intelligence/the-unknown-startup-that-built-googles-first-selfdriving-ca
 * http://www.dataschool.io/roc-curves-and-auc-explained/
+* http://johncarlosbaez.wordpress.com/2014/11/15/a-second-law-for-open-markov-processes/
+
 
 
 
@@ -451,6 +453,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://www.odbms.org/2014/11/strata-spark-tsunami-hadoop-world-part/
 * http://blogs.teradata.com/data-points/optimizing-disk-io-and-memory-for-big-data-vector-analysis/
 * http://www.slideshare.net/pacoid/tiny-batches-in-the-wine-shiny-new-bits-in-spark-streaming <- probabalistic data structures slide is handy
+* https://code.facebook.com/posts/382299771946304/audience-insights-query-engine-in-memory-integer-store-for-social-analytics-/
 
 
 

@@ -64,6 +64,9 @@
 * http://www.academia.edu/163846/Foubert_J._D._Newberry_J._T._and_Tatum_J._L._2007_._Behavior_differences_seven_months_later_Effects_of_a_rape_prevention_program_on_first-year_men_who_join_fraternities._NASPA_Journal_44_728-749
 * http://www.gradeinflation.com/
 * http://educationnext.org/the-middle-school-plunge/
+* http://www.wired.com/2014/10/on-learning-by-doing/
+* http://www.nybooks.com/articles/archives/2014/dec/04/why-american-teaching-so-bad/
+* http://m.nautil.us/issue/6/secret-codes/teaching-me-softly
 
 
 ## Higher Education
@@ -270,7 +273,7 @@
 * http://www.nytimes.com/2014/11/16/nyregion/at-college-where-alumni-pockets-are-shallow-a-struggle-to-raise-money.html
 * http://highereddatastories.blogspot.com/2014/11/four-ways-to-look-at-college-tuition-in.html
 * http://seattletimes.com/html/localnews/2025040516_internationalstudentsxml.html
-
+* https://www.insidehighered.com/news/2014/11/20/nsse-2014-finds-size-selectivity-make-little-difference-student-engagement
 
 
 
@@ -297,6 +300,7 @@
 ### Finance, Debt
 
 * http://seattletimes.com/html/nationworld/2025012950_apxcollegecosts.html
+* http://highereddatastories.blogspot.com/2014/11/what-is-pell-grant-worth.html
 
 
 
