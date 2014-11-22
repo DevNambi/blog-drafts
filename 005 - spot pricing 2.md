@@ -1,6 +1,6 @@
 ---
 author: DevNambi
-date: 2014-11-14
+date: 2014-11-20
 layout: post
 slug: cheap-computing-comparison
 title: Comparing Computing for Fun and Profit
@@ -8,6 +8,7 @@ meta-description:
 - aws
 - amazon web services
 - ec2
+- spot instances
 - google compute engine
 - gce
 - microsoft azure
@@ -20,7 +21,12 @@ meta-description:
 
 In my last blog post, I gave an introduction into Amazon Web Services' spot instances. There were some great deals to be found.
 
-Let's look at the competition. How cheaply can we run find computing resources using Google's [Compute Engine](https://cloud.google.com/compute/) and Microsoft's [Azure](http://azure.microsoft.com/en-us/)? 
+Let's look at the competition. How cheaply can we run find computing resources using Google's [Compute Engine](https://cloud.google.com/compute/) and Microsoft's [Azure](http://azure.microsoft.com/en-us/)?
+
+First, let's compare the different instances types by both price and performance. For now, I'm going to assume that RAM speed is the same everywhere. It's only RAM capacity that matters.
+
+CPU speed, on the other hand, varies dramatically. 
+
 
 
 **Azure**
