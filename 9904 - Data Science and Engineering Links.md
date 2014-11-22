@@ -365,6 +365,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 <li><a href="http://oreillynet.com/pub/e/2538" time_added="1363282942" tags="data science,ml">Webcast: Deep Learning - The Biggest Data Science Breakthrough of the Decad</a></li>
 
 * http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
+* http://blog.wtf.sg/
 
 
 ## Learning

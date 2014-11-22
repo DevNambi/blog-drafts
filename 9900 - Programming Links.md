@@ -41,7 +41,8 @@
 * http://www.danylkoweb.com/Blog/top-10-books-every-net-developer-should-own-QG
 * http://www.theregister.co.uk/2014/11/10/kryders_law_of_ever_cheaper_storage_disproven/
 * http://setosa.io/ev/
-* http://blog.memsql.com/cache-is-the-new-ram/ 
+* http://blog.memsql.com/cache-is-the-new-ram/ \
+* http://www.datagenetics.com/blog/november32014/index.html
 
 
 
@@ -215,6 +216,7 @@
 * https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e
 * http://googlecloudplatform.blogspot.com/2014/11/autoscaling-welcome-to-google-compute.html
 * https://www.quora.com/Does-Google-offer-free-cloud-resources-to-researchers
+* http://www.enterprisetech.com/2014/11/14/rare-peek-massive-scale-aws/
 
 
 

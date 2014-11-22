@@ -333,6 +333,9 @@
 <li><a href="http://www.forbes.com/sites/suwcharmananderson/2012/12/18/amazon-is-ripe-for-disruption/" time_added="1356336722" tags="">Amazon Is Ripe For Disruption - Forbes</a></li>
 <li><a href="http://t.co/SfR3UWC5" time_added="1359131339" tags="">dhh: Eight programming positions open on the 37signals Job Board specifical</a></li>
 
+* http://www.washington.edu/news/2014/11/20/cost-of-meeting-basic-needs-rising-faster-than-wages-in-washington-state/
+
+
 
 
 

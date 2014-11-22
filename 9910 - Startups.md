@@ -97,6 +97,7 @@
 * http://seattletimes.com/html/businesstechnology/2025027109_sundaybuzz16xml.html
 * https://medium.com/@pandemona/hey-silicon-valley-we-are-all-uber-a74006ecfd29
 * http://avc.com/2014/11/values-and-culture/
+* http://blogs.wsj.com/venturecapital/2014/11/20/techstars-graduates-success-rates-what-the-numbers-show/
 
 
 
