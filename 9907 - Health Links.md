@@ -366,6 +366,7 @@
 * http://www.nytimes.com/2014/11/18/us/politics/health-law-turns-obama-and-insurers-into-allies.html
 * http://www.vox.com/2014/11/19/7247579/childbirth-bill-expensive-canada
 * http://well.blogs.nytimes.com/2014/11/20/that-medical-test-costs-50-or-is-it-500/
+* http://www.nytimes.com/2014/11/23/upshot/how-to-arrive-at-the-best-health-policies-.html?abt=0002&abg=1
 
 
 By Zoe Keating:
