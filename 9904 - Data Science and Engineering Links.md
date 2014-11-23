@@ -18,6 +18,7 @@
 * http://streamhacker.com/2011/10/31/fuzzy-string-matching-python/
 * http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/
 * https://github.com/ipython-books/cookbook-code/blob/master/toc.md <- amazingly useful
+* http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/
 
 
 

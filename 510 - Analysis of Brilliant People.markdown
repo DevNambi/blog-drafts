@@ -10,6 +10,8 @@ What general lessons do they have? What threads are there in common?
 
 The assumption is that they were more than just smart. They also had a process and lessons that helped translate that intelligence into results.
 
+"It is necessary for you to learn from others' mistakes. You will not live long enough to make them all yourself." - Hyman G. Rickover
+
 * http://www.hanselman.com/blog/ScottHanselmansCompleteListOfProductivityTips.aspx
 * https://podio.com/site/creative-routines
 * http://www.moreintelligentlife.com/content/edward-carr/last-days-polymath
@@ -78,6 +80,14 @@ Reading Material
 
 http://carymillsap.blogspot.com/2014/02/how-did-you-learn-so-much-stuff-about.html?m=1
 
+I admire the intersection of passion, ethics, and competence.
+	Turn this into a venn diagram
+	Passion alone - flailing around
+	Ethics alone - ivory tower debates
+	Competence alone - amoral burnout
+	Passion and ethics, no competence - hippies
+	Passion and competence, no ethics - CEOs
+	Ethics and competence, no passion - 
 
 What about how they grew up? What were their influences?
 

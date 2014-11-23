@@ -7,6 +7,7 @@
 <li><a href="http://modelviewculture.com/pieces/five-reasons-not-to-raise-venture-capital" time_added="1396905403" tags="">Five Reasons Not To Raise Venture Capital, by Rachel Chalmers | Model View </a></li>
 
 * https://medium.com/getting-funded/getting-funded-step-4-due-diligence-3d2ab36fa187
+* http://www.nakedcapitalism.com/2014/11/wolf-richter-signs-startup-bubble-totally-maxed.html
 
 ## MVP
 
