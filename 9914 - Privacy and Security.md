@@ -59,6 +59,7 @@
 * http://www.computerworld.com/article/2849263/doxxing-defense-remove-your-personal-info-from-data-brokers.html
 * https://resistsurveillance.org/
 * http://www.theguardian.com/world/2014/nov/21/gchq-whistleblower-public-interest-defence?CMP=share_btn_tw
+* http://fusion.net/story/29489/surveillance-cameras-are-everywhere-even-on-your-smartphone/
 
 
 "Governments & corporations should not have a right to privacy, people should. So, essentially, the opposite of what we have now #futureshock"

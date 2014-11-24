@@ -39,6 +39,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://mobile.nytimes.com/blogs/bits/2014/06/21/a-way-to-rid-your-social-media-of-embarrassments/">A way to clean up your social media presence</a></li>
 <li><a href="http://www.businessinsider.com/this-linkedin-feature-could-ruin-your-job-search-2014-11">LinkedIn Users Are Suing The Site Over A Feature They Say Ruined Their Job Searches</a></li>
 <li><a href="http://shit-recruiters-say.tumblr.com/">Sh*t Recruiters Say</a></li>
+<li><a href="http://www.brentozar.com/archive/2012/09/email-templates-for-recruiters-questions/">Email Templates for Recruiters and Questions</a></li>
 </ul>
 
 

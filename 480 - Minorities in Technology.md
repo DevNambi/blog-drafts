@@ -30,6 +30,8 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * https://storify.com/kissane/job-listings-that-don-t-alienate
 * http://www.dailydot.com/technology/airbnb-panel-women-in-tech/
 * http://mashable.com/2014/11/19/barbie-computer-engineer-sexist-book/
+* http://randi.io/wp/archives/86
+* http://www.nydailynews.com/opinion/patrick-blanchfield-masculine-mistake-article-1.2011600?cid=bitly
 
 
 
