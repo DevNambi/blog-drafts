@@ -495,6 +495,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://arxiv.org/pdf/1210.0530v3.pdf <- Best Practices for Scientific Computing #priceless
 * http://www.slideshare.net/xamat/10-lessons-learned-from-building-machine-learning-systems
 * https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de
+* http://getprismatic.com/story/1416932925939
 
 
 
