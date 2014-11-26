@@ -213,6 +213,8 @@
 * http://arstechnica.com/tech-policy/2014/11/seattle-police-may-dump-plans-for-body-cams-citing-records-requests/#p3
 * http://www.nytimes.com/2014/11/21/us/activists-wield-search-data-to-challenge-and-change-police-policy.html
 * http://www.dailykos.com/story/2014/11/20/1346374/-BREAKING-VIDEO-Police-Lied-Mike-Brown-was-killed-148-feet-away-from-Darren-Wilson-s-SUV
+* http://www.wired.com/2014/11/from-440-years-to-misdemeanor/
+* 
 
 
 

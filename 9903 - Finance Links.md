@@ -86,6 +86,7 @@
 * http://www.theatlantic.com/business/archive/2014/11/why-its-so-hard-for-millennials-to-figure-out-where-to-live/382929/
 * http://fbheron.org/2014/11/15/in-case-you-missed-it-cutthroat-vs-cooperative-capitalism/
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2014/11/20/nicholas-kristof-on-what-whites-just-dont-get-about-racial-inequality/
+* http://qz.com/298405/an-economist-explains-what-the-heck-is-happening-to-the-global-economy/
 
 
 
