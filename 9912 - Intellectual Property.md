@@ -27,3 +27,10 @@
 * http://www.theguardian.com/music/2014/nov/17/steve-albinis-keynote-address-at-face-the-music-in-full
 * http://boingboing.net/2014/11/18/aaron-swartz-was-no-criminal.html
 * http://arstechnica.com/tech-policy/2014/11/novembers-stupid-patent-of-the-month-brought-to-you-by-penn-state/
+
+
+"Any time someone puts a lock on something that belongs to you and won't give you the key, the lock isn't there for your benefit" - Cory Doctorow
+	* DRM
+	* Software patents?
+
+
