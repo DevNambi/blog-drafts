@@ -202,6 +202,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="http://www.epi.org/publication/pm195-stem-labor-shortages-microsoft-report-distorts/" time_added="1355415704" tags="big data,finance,hn">STEM labor shortages?: Microsoft report distorts reality about computing occupations</a></li>
 <li><a href="http://bostinno.streetwise.co/2014/04/10/patrick-announces-plan-to-abolish-noncompetes-launch-a-global-eir-program-aimed-at-h1-b-visa-program/">A Plan to Abolish Noncompetes</a></li>
 <li><a href="http://www.businessweek.com/articles/2014-11-24/the-tech-worker-shortage-doesnt-really-exist">The Tech Worker Shortage Doesn't Really Exist</a></li>
+<li><a href="http://www.huffingtonpost.com/2014/11/25/tech-worker-shortage-low-pay_n_6218444.html">Solving The Tech Worker 'Shortage' Is Easy: Just Pay Them More</a></li>
 </ul>
 
 

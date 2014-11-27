@@ -100,6 +100,8 @@
 * http://avc.com/2014/11/values-and-culture/
 * http://blogs.wsj.com/venturecapital/2014/11/20/techstars-graduates-success-rates-what-the-numbers-show/
 * http://www.wired.com/2014/11/startup-factories/?mbid=social_fb
+* http://www.nytimes.com/2014/11/27/style/uber-facebook-and-others-bedeviled-by-moral-issues.html
+* http://hunterwalk.com/2014/11/26/one-founder-told-me-he-wanted-to-overpay-his-employees-so-we-invested/
 
 
 

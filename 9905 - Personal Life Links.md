@@ -176,6 +176,7 @@
 
 * http://www.theatlantic.com/health/archive/2014/06/why-we-sleep-together/371477/
 * http://www.randalolson.com/2014/11/06/what-makes-for-a-stable-marriage-part-2/
+* http://www.farnamstreetblog.com/2014/11/mind-gym-relationships/
 
 
 

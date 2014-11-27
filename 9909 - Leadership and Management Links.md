@@ -17,6 +17,8 @@
 * https://docs.google.com/document/d/1AFTuOMZoK96afsgHhDoxs85bfE0tKwUSeYgLX-bHYYM/edit
 * https://enterprisersproject.com/article/2014/11/cios-and-ctos-empower-your-teams
 * ww.defmacro.org/2014/10/03/engman.html
+* http://www.theatlantic.com/business/archive/2014/11/a-new-business-strategy-treating-employees-well/383192/
+* http://www.businessweek.com/stories/2005-02-20/the-inside-story-of-carlys-ouster
 
 
 <li><a href="http://lifehacker.com/5936493/want-to-be-a-great-leader-start-reading" time_added="1348860619" tags="hn">Want to Be a Great Leader? Start Reading</a></li>

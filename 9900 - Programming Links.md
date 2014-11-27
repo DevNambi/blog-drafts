@@ -279,7 +279,9 @@
 
 
 
+## Java
 
+* http://mechanical-sympathy.blogspot.com/2013/07/java-garbage-collection-distilled.html
 
 
 

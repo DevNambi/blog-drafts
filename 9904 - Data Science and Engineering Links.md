@@ -370,6 +370,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 
 * http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
 * http://blog.wtf.sg/
+* http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
 
 
 ## Learning
@@ -407,6 +408,8 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 <li><a href="http://t.co/4r4kg9Se" time_added="1355764588" tags="big data">BigDataClub: Top CEOs Share how Big Data Is Transforming Our Health, Wealth</a></li>
 <li><a href="http://t.co/ZwccJAoT" time_added="1355541207" tags="academia,big data,data science,hn">sqlbelle: Top story: Organizational Imperatives in the Era of Big Data - Ja</a></li>
 <li><a href="http://www.slideshare.net/pskomoroch/developing-data-products" time_added="1358378840" tags="data science">Developing Data Products</a></li>
+
+"So you're telling me that the most highly paid people in an organisation can only process information as complex as a traffic light?" - @ballantine70
 
 
 

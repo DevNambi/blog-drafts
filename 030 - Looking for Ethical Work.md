@@ -82,6 +82,7 @@ Industries
 * http://www.cs.washington.edu/events/colloquia/details?id=2607
 * http://www.theatlantic.com/video/index/382599/the-apache-firefighters-who-stop-americas-biggest-wildfires/
 * http://arstechnica.com/science/2014/11/having-a-goal-may-keep-you-out-of-the-hospital/
+* http://www.fastcolabs.com/3038792/what-i-learned-from-building-an-app-for-low-income-americans
 
 Work-Life Balance: List the good and bad things, and why
 • How to make good things easier

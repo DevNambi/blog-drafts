@@ -61,6 +61,8 @@
 * http://www.theguardian.com/world/2014/nov/21/gchq-whistleblower-public-interest-defence?CMP=share_btn_tw
 * http://fusion.net/story/29489/surveillance-cameras-are-everywhere-even-on-your-smartphone/
 * http://www.troyhunt.com/2014/11/ransom-is-new-black-increasing-trend-of.html
+* http://krebsonsecurity.com/2014/11/skimmer-innovation-wiretapping-atms/
+* http://arstechnica.com/security/2014/11/sony-pictures-hackers-release-list-of-stolen-corporate-files/
 
 
 "Governments & corporations should not have a right to privacy, people should. So, essentially, the opposite of what we have now #futureshock"

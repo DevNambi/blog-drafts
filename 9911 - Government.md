@@ -214,7 +214,7 @@
 * http://www.nytimes.com/2014/11/21/us/activists-wield-search-data-to-challenge-and-change-police-policy.html
 * http://www.dailykos.com/story/2014/11/20/1346374/-BREAKING-VIDEO-Police-Lied-Mike-Brown-was-killed-148-feet-away-from-Darren-Wilson-s-SUV
 * http://www.wired.com/2014/11/from-440-years-to-misdemeanor/
-* 
+* http://kdvr.com/2014/11/24/denver-police-accused-of-excessive-force-illegal-search/1/
 
 
 
