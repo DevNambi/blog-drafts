@@ -285,6 +285,7 @@
 * http://www.theatlantic.com/health/archive/2014/11/forget-antibacterial-products/382832/
 * http://www.wired.com/2014/11/mental-health-apps/
 * http://www.wired.com/2014/10/egg-freezing-risks/
+* http://www.nytimes.com/2014/11/28/business/drug-maker-gave-large-payments-to-doctors-with-troubled-track-records.html
 
 
 **Learning from the Best**

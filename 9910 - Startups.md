@@ -8,6 +8,8 @@
 
 * https://medium.com/getting-funded/getting-funded-step-4-due-diligence-3d2ab36fa187
 * http://www.nakedcapitalism.com/2014/11/wolf-richter-signs-startup-bubble-totally-maxed.html
+* http://inthesetimes.com/article/17403/reports_from_inside_first_look_media_suggest_that_maybe_silicon_valley_shou
+* https://theconversation.com/hard-evidence-how-will-social-networks-boost-earnings-when-users-ignore-their-product-34110
 
 ## MVP
 
@@ -34,7 +36,7 @@
 
 ## Sharing Economy
 
-<li><a href="http://www.nytimes.com/2013/01/26/business/car-sharing-services-grow-and-expand-options.html?hpw&gwh=E5F968A12AF580D9E64A966DF3E162EF" time_added="1359220500" tags="personal tech">Car-Sharing Services Grow, and Expand Options - NYTimes.com</a></li>
+<li><a href="http://www.nytimes.com/2013/01/26/business/car-sharing-services-grow-and-expand-options.html" time_added="1359220500" tags="personal tech">Car-Sharing Services Grow, and Expand Options - NYTimes.com</a></li>
 <li><a href="http://techcrunch.com/2013/02/15/flightcar/" time_added="1360948133" tags="hn">Y Combinator-Backed FlightCar Launches Its ‘Airbnb For Airport Car Rentals’</a></li>
 <li><a href="http://www.newyorker.com/online/blogs/newsdesk/2013/03/the-cost-of-ubers-free-rides.html?currentPage=all" time_added="1363563038" tags="hn">The Cost of Uber's Free Rides : The New Yorker</a></li>
 
