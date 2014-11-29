@@ -17,6 +17,7 @@ The assumption is that they were more than just smart. They also had a process a
 * http://www.moreintelligentlife.com/content/edward-carr/last-days-polymath
 * http://nautil.us/issue/18/genius/super_intelligent-humans-are-coming
 * http://nautil.us/issue/18/genius/if-you-think-youre-a-genius-youre-crazy
+* http://nautil.us/issue/19/illusions/the-loneliest-genius
 
 Lessons learned from Genius
 
@@ -34,7 +35,6 @@ Processing Rank:
 9. Marie Curie
 10. Alan Turing
 11. Thomas Edison
-
 12. Steve Jobs
 
 

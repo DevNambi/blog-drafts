@@ -92,6 +92,7 @@
 * http://www.nytimes.com/2014/11/16/books/review/the-invisible-front-by-yochi-dreazen.html
 * http://www.buzzfeed.com/hayesbrown/just-four-groups-spread-most-of-the-worlds-terror-as-deaths
 * http://arxiv.org/abs/1411.2842
+* http://www.nytimes.com/2014/11/30/magazine/the-militarys-rough-justice-on-sexual-assault.html
 
 
 

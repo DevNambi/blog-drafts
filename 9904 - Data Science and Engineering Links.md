@@ -312,6 +312,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://spectrum.ieee.org/robotics/artificial-intelligence/the-unknown-startup-that-built-googles-first-selfdriving-ca
 * http://www.dataschool.io/roc-curves-and-auc-explained/
 * http://johncarlosbaez.wordpress.com/2014/11/15/a-second-law-for-open-markov-processes/
+* http://austingwalters.com/pca-principal-component-analysis/
 
 
 

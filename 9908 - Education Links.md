@@ -277,6 +277,7 @@
 * https://www.insidehighered.com/news/2014/11/20/nsse-2014-finds-size-selectivity-make-little-difference-student-engagement
 * http://www.salon.com/2014/11/25/robert_reich_college_gets_you_nowhere_partner/
 * http://www.nj.com/union/index.ssf/2014/11/kean_university_students_question_need_for_219000_conference_table.html
+* http://www.nextscientist.com/write-a-phd-thesis/
 
 
 
@@ -306,6 +307,7 @@
 * http://seattletimes.com/html/nationworld/2025012950_apxcollegecosts.html
 * http://highereddatastories.blogspot.com/2014/11/what-is-pell-grant-worth.html
 * http://www.nytimes.com/2014/11/22/your-money/paying-for-college/college-abacus-offers-data-on-college-costs-but-some-schools-balk.html
+* http://seattletimes.com/html/opinion/2025124962_spitzeropedhighered30xml.html
 
 
 

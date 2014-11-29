@@ -10,6 +10,7 @@
 * http://www.nakedcapitalism.com/2014/11/wolf-richter-signs-startup-bubble-totally-maxed.html
 * http://inthesetimes.com/article/17403/reports_from_inside_first_look_media_suggest_that_maybe_silicon_valley_shou
 * https://theconversation.com/hard-evidence-how-will-social-networks-boost-earnings-when-users-ignore-their-product-34110
+* https://medium.com/@DanielleMorrill/is-my-startup-burn-rate-normal-882b2bd20f02
 
 ## MVP
 
@@ -104,6 +105,8 @@
 * http://www.wired.com/2014/11/startup-factories/?mbid=social_fb
 * http://www.nytimes.com/2014/11/27/style/uber-facebook-and-others-bedeviled-by-moral-issues.html
 * http://hunterwalk.com/2014/11/26/one-founder-told-me-he-wanted-to-overpay-his-employees-so-we-invested/
+* https://medium.com/@azifali/this-shit-is-hard-63000b93edd7
+* http://www.inc.com/rahul-varshneya/before-you-quit-your-job-to-become-an-entrepreneur-read-this.html
 
 
 

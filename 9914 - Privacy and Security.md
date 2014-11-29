@@ -63,6 +63,7 @@
 * http://www.troyhunt.com/2014/11/ransom-is-new-black-increasing-trend-of.html
 * http://krebsonsecurity.com/2014/11/skimmer-innovation-wiretapping-atms/
 * http://arstechnica.com/security/2014/11/sony-pictures-hackers-release-list-of-stolen-corporate-files/
+* https://eamann.com/biz/debit-card-lack-security/
 
 
 "Governments & corporations should not have a right to privacy, people should. So, essentially, the opposite of what we have now #futureshock"
