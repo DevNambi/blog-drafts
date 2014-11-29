@@ -421,6 +421,7 @@ things they believe in will keep </a></li>
 * http://stuff-gil-says.blogspot.com/2014/10/what-sort-of-allocation-rates-can.html
 * http://www.essentialmath.com/tutorial.htm
 * http://www.freedomlayer.org/articles/dht_intro.html
+* https://www.blitz.io/
 
 ## Funny
 

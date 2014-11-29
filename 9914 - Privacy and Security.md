@@ -64,6 +64,7 @@
 * http://krebsonsecurity.com/2014/11/skimmer-innovation-wiretapping-atms/
 * http://arstechnica.com/security/2014/11/sony-pictures-hackers-release-list-of-stolen-corporate-files/
 * https://eamann.com/biz/debit-card-lack-security/
+* https://moderncrypto.org/mail-archive/messaging/2014/001151.html
 
 
 "Governments & corporations should not have a right to privacy, people should. So, essentially, the opposite of what we have now #futureshock"
