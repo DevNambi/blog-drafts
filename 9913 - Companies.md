@@ -71,6 +71,21 @@
 * https://corp.sonic.net/ceo/2014/11/12/neutrality-is-just-a-symptom/
 * http://arstechnica.com/business/2014/11/fcc-calls-atts-fiber-bluff-demands-detailed-construction-plans/
 
+## Uber
+
+<li><a href="http://www.newyorker.com/online/blogs/newsdesk/2013/03/the-cost-of-ubers-free-rides.html?currentPage=all" time_added="1363563038" tags="hn">The Cost of Uber's Free Rides : The New Yorker</a></li>
+
+* http://www.slate.com/articles/business/moneybox/2014/10/uber_driver_salary_the_ride_sharing_company_says_its_drivers_make_great.single.html
+* http://www.theverge.com/2014/11/4/7150225/uber-is-recruiting-50000-veterans
+* http://www.modernluxury.com/san-francisco/story/the-smartest-bro-the-room
+* http://www.geekwire.com/2014/uber-exec-wanted-dig-dirt-expose-journalist-critical-column/
+* https://www.jacobinmag.com/2014/09/against-sharing/
+* http://radar.oreilly.com/2014/11/uber-is-breaking-bad.html
+* http://www.salon.com/2014/11/30/i_quit_miseries_of_an_uber_driver/
+
+"It turns out Uber is a replacement for owning a car" say wealthy urbanites who don't have kids, pets, disabilities or outdoor hobbies." - https://twitter.com/mims
+
+
 
 ## Airlines
 

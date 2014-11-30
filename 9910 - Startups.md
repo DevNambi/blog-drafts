@@ -39,18 +39,6 @@
 
 <li><a href="http://www.nytimes.com/2013/01/26/business/car-sharing-services-grow-and-expand-options.html" time_added="1359220500" tags="personal tech">Car-Sharing Services Grow, and Expand Options - NYTimes.com</a></li>
 <li><a href="http://techcrunch.com/2013/02/15/flightcar/" time_added="1360948133" tags="hn">Y Combinator-Backed FlightCar Launches Its ‘Airbnb For Airport Car Rentals’</a></li>
-<li><a href="http://www.newyorker.com/online/blogs/newsdesk/2013/03/the-cost-of-ubers-free-rides.html?currentPage=all" time_added="1363563038" tags="hn">The Cost of Uber's Free Rides : The New Yorker</a></li>
-
-* http://www.slate.com/articles/business/moneybox/2014/10/uber_driver_salary_the_ride_sharing_company_says_its_drivers_make_great.single.html
-* http://www.theverge.com/2014/11/4/7150225/uber-is-recruiting-50000-veterans
-* http://www.modernluxury.com/san-francisco/story/the-smartest-bro-the-room
-* http://www.geekwire.com/2014/uber-exec-wanted-dig-dirt-expose-journalist-critical-column/
-* https://www.jacobinmag.com/2014/09/against-sharing/
-* http://radar.oreilly.com/2014/11/uber-is-breaking-bad.html
-
-
-
-"It turns out Uber is a replacement for owning a car" say wealthy urbanites who don't have kids, pets, disabilities or outdoor hobbies." - https://twitter.com/mims
 
 
 "The incapacity to see structurally: what you value (in the service - freedom) is the values (f-k the law, employees) that brings you that" - https://twitter.com/camerontw

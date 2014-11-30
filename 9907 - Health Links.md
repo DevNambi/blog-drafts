@@ -99,6 +99,8 @@
 * http://www.foodpolitics.com/2014/11/brazilian-dietary-guidelines-are-based-on-foods-food-patterns-and-meals-not-nutrients/
 * http://www.minnpost.com/earth-journal/2014/11/arsenic-laden-rice-fda-deliberates-consumer-reports-issues-guidance
 * http://imgur.com/gallery/pHUdq
+* http://www.nytimes.com/2014/11/30/opinion/sunday/can-mushrooms-treat-depression.html?_r=0
+http://nautil.us/issue/16/nothingness/take-two-sugar-pills-and-call-me-in-the-morning
 
 
 
