@@ -237,6 +237,7 @@ http://nautil.us/issue/16/nothingness/take-two-sugar-pills-and-call-me-in-the-mo
 * http://seattletimes.com/html/localnews/2024939773_jdlcolumn03xml.html
 * http://seattletimes.com/html/nationworld/2025041126_apxebolaomahapatient.html
 * http://seattletimes.com/html/nationworld/2025045858_statinsalternativexml.html
+* http://www.ncbi.nlm.nih.gov/pubmed/25424517
 
 
 

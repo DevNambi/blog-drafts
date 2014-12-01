@@ -20,6 +20,7 @@
 * https://github.com/ipython-books/cookbook-code/blob/master/toc.md <- amazingly useful
 * http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/
 * http://fastml.com/how-to-run-external-programs-from-python-and-capture-their-output/
+* http://districtdatalabs.silvrback.com/simple-csv-data-wrangling-with-python
 
 
 
@@ -372,6 +373,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
 * http://blog.wtf.sg/
 * http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
+* https://www.youtube.com/watch?v=S75EdAcXHKk
 
 
 ## Learning
@@ -464,6 +466,7 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://www.slideshare.net/pacoid/tiny-batches-in-the-wine-shiny-new-bits-in-spark-streaming <- probabalistic data structures slide is handy
 * https://code.facebook.com/posts/382299771946304/audience-insights-query-engine-in-memory-integer-store-for-social-analytics-/
 * https://code.facebook.com/posts/1499322996995183/solving-the-mystery-of-link-imbalance-a-metastable-failure-state-at-scale/
+* http://www.michael-noll.com/blog/2014/10/01/kafka-spark-streaming-integration-example-tutorial/
 
 
 
