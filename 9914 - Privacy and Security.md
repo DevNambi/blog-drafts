@@ -68,6 +68,8 @@
 * http://www.washingtonpost.com/blogs/the-switch/wp/2014/12/01/is-ubers-rider-database-a-sitting-duck-for-hackers/
 * http://en.wikipedia.org/wiki/Operations_security
 * http://www.dodea.edu/offices/safety/opsec.cfm
+* http://arstechnica.com/tech-policy/2014/12/feds-want-apples-help-to-defeat-encrypted-phones-new-legal-case-shows/
+
 
 
 "Governments & corporations should not have a right to privacy, people should. So, essentially, the opposite of what we have now #futureshock"

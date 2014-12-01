@@ -22,6 +22,7 @@
 * http://www.economist.com/blogs/freeexchange/2014/10/market-power?fsrc=scn/fb/wl/bl/bigbadamazon
 * https://www.scribd.com/embeds/245561031/content?start_page=1&view_mode=scroll&access_key=key-UEZdQ4D9zd883gw8tn3D&show_recommendations=true
 * http://www.theguardian.com/money/2014/nov/28/being-homeless-is-better-than-working-for-amazon
+* http://www.wired.com/2014/12/amazon-reveals-robots-heart-epic-cyber-monday-operation/
 
 
 

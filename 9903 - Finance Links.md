@@ -20,6 +20,8 @@
 * http://www.nakedcapitalism.com/2014/10/revolt-starting-in-uk-over-private-equity-fee-secrecy.html
 * http://www.nakedcapitalism.com/2014/10/ilargi-europe-redefines-stress-bank-boosterist-stress-tests.html
 * http://www.nytimes.com/2014/10/28/opinion/londons-housing-boom.html
+* http://www.nytimes.com/2014/11/27/business/international/france-has-second-thoughts-on-its-35-hour-workweek.html?_r=0
+
 
 
 ## Bank & Regulatory Corruption
