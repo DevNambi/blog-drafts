@@ -93,6 +93,7 @@
 * http://www.buzzfeed.com/hayesbrown/just-four-groups-spread-most-of-the-worlds-terror-as-deaths
 * http://arxiv.org/abs/1411.2842
 * http://www.nytimes.com/2014/11/30/magazine/the-militarys-rough-justice-on-sexual-assault.html
+* http://www.bbc.com/news/world-middle-east-30269343
 
 
 
@@ -216,6 +217,8 @@
 * http://www.dailykos.com/story/2014/11/20/1346374/-BREAKING-VIDEO-Police-Lied-Mike-Brown-was-killed-148-feet-away-from-Darren-Wilson-s-SUV
 * http://www.wired.com/2014/11/from-440-years-to-misdemeanor/
 * http://kdvr.com/2014/11/24/denver-police-accused-of-excessive-force-illegal-search/1/
+* http://news.yahoo.com/freed-texas-day-care-owners-still-want-exoneration-185406771.html
+* http://countercurrentnews.com/2014/11/aiyana-stanley-jones/#
 
 
 
@@ -246,3 +249,4 @@
 * http://boingboing.net/2014/10/31/secret-recording-of-corporate.html
 * http://mobile.nytimes.com/2014/11/08/opinion/pregnant-and-no-civil-rights.html
 * http://westleyargentum.github.io/112th-influence-vis/
+* http://america.aljazeera.com/opinions/2014/12/laffer-curve-taxcutshikeseconomics.html

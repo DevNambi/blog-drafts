@@ -90,6 +90,7 @@
 * http://qz.com/298405/an-economist-explains-what-the-heck-is-happening-to-the-global-economy/
 * http://www.nytimes.com/2014/06/26/upshot/where-are-the-hardest-places-to-live-in-the-us.html
 * http://m.motherjones.com/politics/2014/11/walmart-protests-black-friday
+* http://www.vanityfair.com/online/wolcott/2014/11/down-and-out-in-d-c
 
 
 
