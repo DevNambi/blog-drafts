@@ -75,6 +75,7 @@
 * http://tiempoapp.com/y-combinator-a-two-year-old-and-a-pregnant-wife
 * http://www.wired.com/2014/04/no-exit/?hn
 * https://keen.io/blog/103052402741/how-the-culture-of-overwork-is-killing-entrepreneurs
+* http://www.getdigsy.com/blog/startups/7-things-corporate-wont-tell-startup-jobs/
 
 
 ## Misc

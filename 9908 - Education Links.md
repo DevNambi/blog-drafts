@@ -69,6 +69,7 @@
 * http://m.nautil.us/issue/6/secret-codes/teaching-me-softly
 * http://mobile.nytimes.com/2014/11/28/us/in-arizona-a-textbook-fuels-a-broader-dispute-over-sex-education.html
 * http://sploid.gizmodo.com/the-most-amazing-and-inspiring-vision-of-our-future-ive-1664783812
+* http://www.nytimes.com/2014/12/03/us/middle-class-pay-elusive-for-teachers-report-says.html
 
 
 ## Higher Education
@@ -280,6 +281,7 @@
 * http://www.salon.com/2014/11/25/robert_reich_college_gets_you_nowhere_partner/
 * http://www.nj.com/union/index.ssf/2014/11/kean_university_students_question_need_for_219000_conference_table.html
 * http://www.nextscientist.com/write-a-phd-thesis/
+* http://www.nytimes.com/2014/12/03/sports/ncaafootball/uab-cancels-football-program-citing-fiscal-realities.html
 
 
 
@@ -302,6 +304,7 @@
 * http://mobile.nytimes.com/2014/11/16/opinion/sunday/mishandling-rape.html
 * http://www.rollingstone.com/culture/features/a-rape-on-campus-20141119?page=2
 * https://www.insidehighered.com/news/2014/11/25/eckerd-president-criticized-his-advice-students-how-avoid-rape
+* http://www.nytimes.com/2014/12/03/us/magazines-account-of-gang-rape-on-virginia-campus-comes-under-scrutiny.html
 
 
 ### Finance, Debt

@@ -50,6 +50,7 @@
 * http://www.nbcnews.com/business/economy/u-s-companies-now-stashing-2-trillion-overseas-n247256
 * http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13977.html
 * http://www.nakedcapitalism.com/2014/11/bill-black-new-york-times-thinks-jailing-banksters-cause-bind.html
+* http://www.nakedcapitalism.com/2014/12/hedge-funds-closing-at-high-rates.html
 
 
 
