@@ -27,6 +27,7 @@ This is an information problem. It's also a FUD problem.
 * http://www.codecademy.com/blog/142-why-building-a-data-science-team-is-deceptively-hard
 * http://rustyrazorblade.com/2014/09/21-ways-to-minimize-employee-retention/
 * http://marlagottschalk.wordpress.com/2014/10/03/losing-talent-go-ahead-tell-yourself-its-mutual/
+* http://blog.alinelerner.com/resumes-suck-heres-the-data/?hn=1
 
 ### Ways to troll recruiters
 
