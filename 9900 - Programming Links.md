@@ -74,6 +74,8 @@
 * http://kevgriffin.com/the-non-techie-guide-to-source-control/
 * http://www.bbc.com/news/technology-30054140
 * http://blog.freecodecamp.com/2014/11/a-cautionary-tale-of-learning-to-code.html
+* http://www.sorting-algorithms.com/nearly-sorted-initial-order
+* http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt
 
 
 
@@ -158,7 +160,7 @@
 * http://arstechnica.com/information-technology/2014/11/how-to-manage-accidental-complexity-in-software-projects/
 * http://bits.blogs.nytimes.com/2014/11/13/google-lifts-the-turing-award-into-nobel-territory/
 * http://ferd.ca/queues-don-t-fix-overload.html
-
+* http://www.tuxdeluxe.org/node/113
 
 
 
@@ -442,6 +444,7 @@ things they believe in will keep </a></li>
 
 * http://s3.crashworks.org.s3-website-us-east-1.amazonaws.com/if-programming-languages-were-vehicles/
 * http://arstechnica.com/information-technology/2014/10/the-devil-had-possessed-his-netbook-and-other-tales-of-it-terror/
+* http://crashworks.org/if_programming_languages_were_vehicles/ <- funny because it's true
 
 
 

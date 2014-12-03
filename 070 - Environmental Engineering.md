@@ -105,6 +105,11 @@ Emphasize what we don't know
 * https://www.youtube.com/watch?v=x1SgmFa0r04
 * http://www.newyorker.com/humor/borowitz-report/polar-vortex-causes-hundreds-of-injuries-as-people-making-snide-remarks-about-climate-change-are-punched-in-face
 * http://arstechnica.com/science/2014/11/publishers-remove-confusion-about-climate-change-from-texas-textbooks/
+* http://www.extremetech.com/extreme/195003-solar-and-wind-power-are-now-fully-competitive-with-fossil-fuels-is-it-time-to-switch-over
+* http://www.extremetech.com/extreme/194010-rare-earth-elements-are-this-centurys-crude-oil
+* http://www.extremetech.com/extreme/185649-the-new-dynomak-fusion-reactor-design-could-make-fusion-power-cheaper-than-coal
+* http://countercomplex.blogspot.com/2014/08/the-resource-leak-bug-of-our.html
+
 
 
 

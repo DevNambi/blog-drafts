@@ -23,6 +23,7 @@
 * https://www.scribd.com/embeds/245561031/content?start_page=1&view_mode=scroll&access_key=key-UEZdQ4D9zd883gw8tn3D&show_recommendations=true
 * http://www.theguardian.com/money/2014/nov/28/being-homeless-is-better-than-working-for-amazon
 * http://seattletimes.com/html/businesstechnology/2025138315_amazonkivaxml.html
+* http://www.wired.com/2014/12/amazon-reveals-robots-heart-epic-cyber-monday-operation/
 
 
 
@@ -83,6 +84,8 @@
 * https://www.jacobinmag.com/2014/09/against-sharing/
 * http://radar.oreilly.com/2014/11/uber-is-breaking-bad.html
 * http://www.salon.com/2014/11/30/i_quit_miseries_of_an_uber_driver/
+* http://www.washingtonpost.com/blogs/the-switch/wp/2014/12/01/is-ubers-rider-database-a-sitting-duck-for-hackers/
+* http://www.nerdwallet.com/blog/insurance/2014/12/01/number-rides-pay-insurance-lyft-uber/
 
 "It turns out Uber is a replacement for owning a car" say wealthy urbanites who don't have kids, pets, disabilities or outdoor hobbies." - https://twitter.com/mims
 

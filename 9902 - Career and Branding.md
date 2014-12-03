@@ -28,6 +28,9 @@
 
 * http://voiceofthedba.wordpress.com/2014/10/06/making-better-presentationspractice/
 * http://www.business2community.com/blogging/11-google-analytics-metrics-bloggers-track-01064673
+* https://rowfeeder.com/
+* http://embed.ly/extract
+
 
 
 ## Career Planning, Consulting, Freelancing

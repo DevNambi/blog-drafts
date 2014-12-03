@@ -52,6 +52,8 @@
 * http://codingvc.com/analyzing-angellist-job-postings-part-1-basic-stats
 * http://lookatmeimdanny.tumblr.com/post/101432017159/how-putting-10m-into-ubeam-illustrates-everything-that
 * https://medium.com/@toddg777/after-24-months-we-just-made-our-first-hire-272e27a95bc4
+* http://blog.sawhorsemedia.com/post/104076088572/how-were-spending-55-930-08-a-year-on-saas
+
 
 
 
@@ -61,6 +63,8 @@
 <li><a href="http://needwant.com/p/im-moving-san-francisco-st-louis/" time_added="1390686421" tags="">Why I'm Moving My Business From San Francisco to St. Louis | Need/Want</a></li>
 <li><a href="http://www.latimes.com/business/la-fi-tech-image-reboot-20140124,0,6757139.story#axzz2rKUizwht" time_added="1390577429" tags="">Tech industry in San Francisco addresses backlash - latimes.com</a></li>
 <li><a href="http://pitchfork.com/thepitch/210-they-got-the-neutron-bomb-los-angeles-potentially-huge-rocknroll-year/" time_added="1389841752" tags="">Ty Segall and John Dwyer on Why So Many Musicians Are Leaving San Francisco</a></li>
+
+* https://twitter.com/Javi/status/539345489725251585
 
 
 
@@ -95,6 +99,7 @@
 * http://hunterwalk.com/2014/11/26/one-founder-told-me-he-wanted-to-overpay-his-employees-so-we-invested/
 * https://medium.com/@azifali/this-shit-is-hard-63000b93edd7
 * http://www.inc.com/rahul-varshneya/before-you-quit-your-job-to-become-an-entrepreneur-read-this.html
+* https://medium.com/the-nib/richard-scarrys-21st-century-busy-town-jobs-7bc6ee6700b4
 
 
 

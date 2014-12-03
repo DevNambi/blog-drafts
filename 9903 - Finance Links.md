@@ -20,6 +20,8 @@
 * http://www.nakedcapitalism.com/2014/10/revolt-starting-in-uk-over-private-equity-fee-secrecy.html
 * http://www.nakedcapitalism.com/2014/10/ilargi-europe-redefines-stress-bank-boosterist-stress-tests.html
 * http://www.nytimes.com/2014/10/28/opinion/londons-housing-boom.html
+* http://www.nytimes.com/2014/11/27/business/international/france-has-second-thoughts-on-its-35-hour-workweek.html?_r=0
+
 
 
 ## Bank & Regulatory Corruption
@@ -90,6 +92,7 @@
 * http://qz.com/298405/an-economist-explains-what-the-heck-is-happening-to-the-global-economy/
 * http://www.nytimes.com/2014/06/26/upshot/where-are-the-hardest-places-to-live-in-the-us.html
 * http://m.motherjones.com/politics/2014/11/walmart-protests-black-friday
+* http://www.vanityfair.com/online/wolcott/2014/11/down-and-out-in-d-c
 
 
 
@@ -142,6 +145,7 @@
 * http://www.dailyfinance.com/on/man-writes-own-credit-card-contract-sues-bank-for-breaking-term/
 * http://www.slate.com/articles/business/moneybox/2014/11/duke_economist_campbell_harvey_most_research_on_why_investments_do_well.html
 * https://www.mattcutts.com/blog/make-money-investing-tips/ <- super useful.
+* http://www.nerdwallet.com/
 
 
 

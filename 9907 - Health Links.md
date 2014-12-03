@@ -238,6 +238,12 @@ http://nautil.us/issue/16/nothingness/take-two-sugar-pills-and-call-me-in-the-mo
 * http://seattletimes.com/html/nationworld/2025041126_apxebolaomahapatient.html
 * http://seattletimes.com/html/nationworld/2025045858_statinsalternativexml.html
 * http://www.ncbi.nlm.nih.gov/pubmed/25424517
+* http://www.technologyreview.com/featuredstory/532421/the-search-for-exceptional-genomes/
+* http://arstechnica.com/science/2014/11/finding-the-ebola-virus-vulnerable-points/
+* http://www.nytimes.com/2014/12/01/us/federal-study-finds-55-percent-of-infants-sleep-with-soft-bedding-raising-risk-of-death.html
+* http://www.nytimes.com/2014/11/30/opinion/sunday/the-downside-of-resilience.html?_r=0
+
+
 
 
 
@@ -413,6 +419,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://joel.is/6-things-i-do-to-be-consistently-happy/
 * http://newoldage.blogs.nytimes.com/2014/09/24/study-links-anxiety-drugs-to-alzheimers-disease/
 * http://realsqlguy.com/vital-statistics-and-health-checks/
+* http://www.benjamincburns.com/2014/11/30/from-hacker-to-hospice-in-seven-weeks.html
 
 
 

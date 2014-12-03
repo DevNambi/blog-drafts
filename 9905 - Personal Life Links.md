@@ -128,6 +128,7 @@
 * https://medium.com/re-form/simcity-that-i-used-to-know-d5d8c49e3e1d
 * http://well.blogs.nytimes.com/2014/10/20/sleep-for-teenagers/?_php=true&_type=blogs&_r=0
 * http://mobile.nytimes.com/2014/11/16/fashion/the-brotherhood-of-the-stay-at-home-dad.html
+* http://nautil.us/issue/2/uncertainty/parenthood-the-great-moral-gamble
 
 
 
