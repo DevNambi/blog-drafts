@@ -84,6 +84,7 @@
 * http://radar.oreilly.com/2014/11/uber-is-breaking-bad.html
 * http://www.salon.com/2014/11/30/i_quit_miseries_of_an_uber_driver/
 * http://www.washingtonpost.com/blogs/the-switch/wp/2014/12/01/is-ubers-rider-database-a-sitting-duck-for-hackers/
+* http://www.nerdwallet.com/blog/insurance/2014/12/01/number-rides-pay-insurance-lyft-uber/
 
 "It turns out Uber is a replacement for owning a car" say wealthy urbanites who don't have kids, pets, disabilities or outdoor hobbies." - https://twitter.com/mims
 

@@ -99,6 +99,7 @@
 * http://hunterwalk.com/2014/11/26/one-founder-told-me-he-wanted-to-overpay-his-employees-so-we-invested/
 * https://medium.com/@azifali/this-shit-is-hard-63000b93edd7
 * http://www.inc.com/rahul-varshneya/before-you-quit-your-job-to-become-an-entrepreneur-read-this.html
+* https://medium.com/the-nib/richard-scarrys-21st-century-busy-town-jobs-7bc6ee6700b4
 
 
 
