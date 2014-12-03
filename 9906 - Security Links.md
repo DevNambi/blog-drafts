@@ -47,6 +47,9 @@ agreed, except o</a></li>
 * http://arstechnica.com/security/2014/11/nonprofit-effort-aims-to-encrypt-the-web/
 * http://www.nytimes.com/2014/12/02/technology/hackers-target-biotech-companies.html?_r=0
 * http://www.nytimes.com/2014/12/03/business/media/sony-is-again-target-of-hackers.html
+* https://kev.inburke.com/kevin/invalid-username-or-password-useless/
+* http://blog.nodenexus.com/2014/11/28/a-shark-on-the-network/
+
 
 
 

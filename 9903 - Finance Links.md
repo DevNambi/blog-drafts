@@ -21,7 +21,12 @@
 * http://www.nakedcapitalism.com/2014/10/ilargi-europe-redefines-stress-bank-boosterist-stress-tests.html
 * http://www.nytimes.com/2014/10/28/opinion/londons-housing-boom.html
 * http://www.nytimes.com/2014/11/27/business/international/france-has-second-thoughts-on-its-35-hour-workweek.html?_r=0
+* http://www.bbc.com/news/business-30310832
 
+
+## Elsewhere in the World
+
+* http://www.nakedcapitalism.com/2014/12/don-quijones-mexico-verge-new-tequila-crisis.html
 
 
 ## Bank & Regulatory Corruption
@@ -94,6 +99,8 @@
 * http://www.nytimes.com/2014/06/26/upshot/where-are-the-hardest-places-to-live-in-the-us.html
 * http://m.motherjones.com/politics/2014/11/walmart-protests-black-friday
 * http://www.vanityfair.com/online/wolcott/2014/11/down-and-out-in-d-c
+* http://www.nytimes.com/2014/12/02/opinion/david-brooks-class-prejudice-resurgent.html
+
 
 
 

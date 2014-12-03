@@ -220,6 +220,7 @@
 * http://www.govtech.com/public-safety/Anonymous-Requester-Turns-Police-Body-Camera-Programs-Upside-Down.html
 * http://news.yahoo.com/freed-texas-day-care-owners-still-want-exoneration-185406771.html
 * http://countercurrentnews.com/2014/11/aiyana-stanley-jones/#
+* https://medium.com/@aclu/an-mrap-is-not-a-blanket-f62e82385372
 
 
 

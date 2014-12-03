@@ -71,7 +71,8 @@
 <li><a href="http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/" time_added="1362969640" tags="data sources">Greg Reda | Web Scraping 101 with Python</a></li>
 <li><a href="http://t.co/WFldJbZY7P" time_added="1362406131" tags="data sources">Some friends wanted to learn how to scrape data, so I wrote a very basic in</a></li>
 
-https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
+* https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
+* https://github.com/caesar0301/awesome-public-datasets
 
 
 
@@ -374,6 +375,8 @@ https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * http://blog.wtf.sg/
 * http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
 * https://www.youtube.com/watch?v=S75EdAcXHKk
+* http://erikbern.com/?p=841
+
 
 
 ## Learning

@@ -68,6 +68,8 @@
 * http://news.harvard.edu/gazette/story/2011/01/eight-weeks-to-a-better-brain/
 * http://diply.com/trendyjoe/this-clever-infographic-will-help-you-declutter-your-entire-house/60784
 * https://medium.com/@robynscott/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98
+* http://www.studentpulse.com/articles/762/2/the-impact-of-listening-to-music-on-cognitive-performance
+
 
 
 

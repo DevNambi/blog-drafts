@@ -12,9 +12,6 @@
 * https://theconversation.com/hard-evidence-how-will-social-networks-boost-earnings-when-users-ignore-their-product-34110
 * https://medium.com/@DanielleMorrill/is-my-startup-burn-rate-normal-882b2bd20f02
 
-## MVP
-
-
 
 
 ## Pricing
@@ -101,6 +98,8 @@
 * https://medium.com/@azifali/this-shit-is-hard-63000b93edd7
 * http://www.inc.com/rahul-varshneya/before-you-quit-your-job-to-become-an-entrepreneur-read-this.html
 * https://medium.com/the-nib/richard-scarrys-21st-century-busy-town-jobs-7bc6ee6700b4
+* http://evhead.com/2005/11/ten-rules-for-web-startups.asp?hn=true
+
 
 
 

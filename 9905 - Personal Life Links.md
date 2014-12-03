@@ -178,6 +178,8 @@
 * http://www.theatlantic.com/health/archive/2014/06/why-we-sleep-together/371477/
 * http://www.randalolson.com/2014/11/06/what-makes-for-a-stable-marriage-part-2/
 * http://www.farnamstreetblog.com/2014/11/mind-gym-relationships/
+* http://www.nytimes.com/2014/12/02/upshot/the-divorce-surge-is-over-but-the-myth-lives-on.html?_r=0&abt=0002&abg=1
+
 
 
 

@@ -393,6 +393,7 @@ things they believe in will keep </a></li>
 * https://foundationdb.com/key-value-store/white-papers/future-of-nosql
 * http://allen-mcguire.blogspot.com/2014/06/reporting-on-spblitzcache-results.html
 * http://www.pg-versus-ms.com/ <- brilliant, and useful.
+* http://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html
 
 
 

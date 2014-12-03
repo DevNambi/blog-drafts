@@ -109,6 +109,10 @@ Emphasize what we don't know
 * http://www.extremetech.com/extreme/194010-rare-earth-elements-are-this-centurys-crude-oil
 * http://www.extremetech.com/extreme/185649-the-new-dynomak-fusion-reactor-design-could-make-fusion-power-cheaper-than-coal
 * http://countercomplex.blogspot.com/2014/08/the-resource-leak-bug-of-our.html
+* http://www.extremetech.com/extreme/194696-an-antarctic-adventure-the-life-of-a-south-pole-communications-technician
+* http://seattletimes.com/html/nationworld/2025144284_apxjapanclimatefinancingcoalabridged.html
+
+
 
 
 

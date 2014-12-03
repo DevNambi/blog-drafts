@@ -282,6 +282,8 @@
 * http://www.nj.com/union/index.ssf/2014/11/kean_university_students_question_need_for_219000_conference_table.html
 * http://www.nextscientist.com/write-a-phd-thesis/
 * http://www.nytimes.com/2014/12/03/sports/ncaafootball/uab-cancels-football-program-citing-fiscal-realities.html
+* http://www.nytimes.com/2014/12/02/education/most-college-students-dont-earn-degree-in-4-years-study-finds.html
+
 
 
 
@@ -289,6 +291,7 @@
 ### Science and Research
 
 * http://gowers.wordpress.com/2014/04/24/elsevier-journals-some-facts/
+* http://www.dcscience.net/2014/12/01/publish-and-perish-at-imperial-college-london-the-death-of-stefan-grimm/
 
 
 ### Mismeasurement, Incentives
