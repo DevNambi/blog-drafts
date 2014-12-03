@@ -237,6 +237,7 @@
 * https://github.com/twitter/BreakoutDetection
 * http://www.wired.com/2014/10/tracy-widom-mysterious-statistical-law/
 * http://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
+* http://appliedpredictivemodeling.com/blog/2014/11/27/vpuig01pqbklmi72b8lcl3ij5hj2qm <- great look at cross-validation.
 
 
 

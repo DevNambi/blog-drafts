@@ -221,6 +221,8 @@
 * http://news.yahoo.com/freed-texas-day-care-owners-still-want-exoneration-185406771.html
 * http://countercurrentnews.com/2014/11/aiyana-stanley-jones/#
 * https://medium.com/@aclu/an-mrap-is-not-a-blanket-f62e82385372
+* http://www.nytimes.com/2014/12/04/nyregion/no-charges-in-eric-garner-chokehold-case-for-officer.html
+* http://globalgrind.com/2014/12/02/denver-police-attempt-erase-video-beating-unarmed-suspect-injuring-pregnant-woman/
 
 
 
