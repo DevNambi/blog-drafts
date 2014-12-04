@@ -228,6 +228,7 @@
 * http://www.nytimes.com/2014/12/07/magazine/cyrus-vance-jrs-moneyball-approach-to-crime.html?_r=0
 
 
+@Papakila - Funny how the "broken window theory" of policing - punishing minor infractions severely - is never applied to the police themselves.
 
 
 

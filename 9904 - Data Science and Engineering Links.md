@@ -21,6 +21,7 @@
 * http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/
 * http://fastml.com/how-to-run-external-programs-from-python-and-capture-their-output/
 * http://districtdatalabs.silvrback.com/simple-csv-data-wrangling-with-python
+* http://www.johndcook.com/blog/r_language_for_programmers/
 
 
 
