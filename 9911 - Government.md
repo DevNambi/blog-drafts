@@ -226,6 +226,7 @@
 * http://en.wikipedia.org/wiki/Antonio_Buehler
 * http://arstechnica.com/tech-policy/2014/12/police-officer-fired-for-refusing-to-turn-on-body-cam/
 * http://www.nytimes.com/2014/12/07/magazine/cyrus-vance-jrs-moneyball-approach-to-crime.html?_r=0
+* http://gawker.com/why-should-anyone-respect-the-law-1666634274 <- brilliant and sublime
 
 
 @Papakila - Funny how the "broken window theory" of policing - punishing minor infractions severely - is never applied to the police themselves.
