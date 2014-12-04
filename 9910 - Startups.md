@@ -32,10 +32,12 @@
 
 
 
-## Sharing Economy
+## Renting (not Sharing) Economy
 
 <li><a href="http://www.nytimes.com/2013/01/26/business/car-sharing-services-grow-and-expand-options.html" time_added="1359220500" tags="personal tech">Car-Sharing Services Grow, and Expand Options - NYTimes.com</a></li>
 <li><a href="http://techcrunch.com/2013/02/15/flightcar/" time_added="1360948133" tags="hn">Y Combinator-Backed FlightCar Launches Its ‘Airbnb For Airport Car Rentals’</a></li>
+
+* https://medium.com/matter/hunting-task-wabbits-c60679bad0f6
 
 
 "The incapacity to see structurally: what you value (in the service - freedom) is the values (f-k the law, employees) that brings you that" - https://twitter.com/camerontw

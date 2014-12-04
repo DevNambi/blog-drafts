@@ -100,7 +100,8 @@
 * http://www.minnpost.com/earth-journal/2014/11/arsenic-laden-rice-fda-deliberates-consumer-reports-issues-guidance
 * http://imgur.com/gallery/pHUdq
 * http://www.nytimes.com/2014/11/30/opinion/sunday/can-mushrooms-treat-depression.html?_r=0
-http://nautil.us/issue/16/nothingness/take-two-sugar-pills-and-call-me-in-the-morning
+* http://nautil.us/issue/16/nothingness/take-two-sugar-pills-and-call-me-in-the-morning
+* http://online.wsj.com/articles/how-the-brain-uses-glucose-to-fuel-self-control-1417618996
 
 
 

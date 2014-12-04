@@ -224,6 +224,8 @@
 * http://www.nytimes.com/2014/12/04/nyregion/no-charges-in-eric-garner-chokehold-case-for-officer.html
 * http://globalgrind.com/2014/12/02/denver-police-attempt-erase-video-beating-unarmed-suspect-injuring-pregnant-woman/
 * http://en.wikipedia.org/wiki/Antonio_Buehler
+* http://arstechnica.com/tech-policy/2014/12/police-officer-fired-for-refusing-to-turn-on-body-cam/
+* http://www.nytimes.com/2014/12/07/magazine/cyrus-vance-jrs-moneyball-approach-to-crime.html?_r=0
 
 
 

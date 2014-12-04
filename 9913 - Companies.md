@@ -72,6 +72,9 @@
 * http://www.infoworld.com/article/2840959/data-security/mobile-payments-fraud-opportunities.html
 * https://corp.sonic.net/ceo/2014/11/12/neutrality-is-just-a-symptom/
 * http://arstechnica.com/business/2014/11/fcc-calls-atts-fiber-bluff-demands-detailed-construction-plans/
+* http://arstechnica.com/business/2014/12/att-wins-right-to-intervene-in-citys-fiber-broadband-plan/
+
+
 
 ## Uber
 
@@ -101,3 +104,4 @@
 * http://www.reuters.com/article/2014/11/16/us-usa-chemicals-death-idUSKCN0J001B20141116
 * http://money.cnn.com/2014/11/20/news/companies/fedex-driver-lawsuit/index.html?hpt=hp_t2
 * http://pando.com/2014/11/26/how-comcast-and-hp-are-corrupting-elections-in-america/
+* http://mashable.com/2014/12/03/history-of-reddit/

@@ -70,6 +70,9 @@
 * http://mobile.nytimes.com/2014/11/28/us/in-arizona-a-textbook-fuels-a-broader-dispute-over-sex-education.html
 * http://sploid.gizmodo.com/the-most-amazing-and-inspiring-vision-of-our-future-ive-1664783812
 * http://www.nytimes.com/2014/12/03/us/middle-class-pay-elusive-for-teachers-report-says.html
+* http://boingboing.net/2014/12/03/in-wayzata-minnesota-a-schoo.html
+
+
 
 
 ## Higher Education
@@ -316,6 +319,7 @@
 * http://highereddatastories.blogspot.com/2014/11/what-is-pell-grant-worth.html
 * http://www.nytimes.com/2014/11/22/your-money/paying-for-college/college-abacus-offers-data-on-college-costs-but-some-schools-balk.html
 * http://seattletimes.com/html/opinion/2025124962_spitzeropedhighered30xml.html
+* https://www.americanprogress.org/issues/higher-education/report/2014/12/03/102407/state-disinvestment-in-higher-education-has-led-to-an-explosion-of-student-loan-debt/
 
 
 
