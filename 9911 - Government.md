@@ -223,6 +223,7 @@
 * https://medium.com/@aclu/an-mrap-is-not-a-blanket-f62e82385372
 * http://www.nytimes.com/2014/12/04/nyregion/no-charges-in-eric-garner-chokehold-case-for-officer.html
 * http://globalgrind.com/2014/12/02/denver-police-attempt-erase-video-beating-unarmed-suspect-injuring-pregnant-woman/
+* http://en.wikipedia.org/wiki/Antonio_Buehler
 
 
 
