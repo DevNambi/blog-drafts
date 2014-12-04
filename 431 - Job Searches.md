@@ -204,6 +204,8 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="http://bostinno.streetwise.co/2014/04/10/patrick-announces-plan-to-abolish-noncompetes-launch-a-global-eir-program-aimed-at-h1-b-visa-program/">A Plan to Abolish Noncompetes</a></li>
 <li><a href="http://www.businessweek.com/articles/2014-11-24/the-tech-worker-shortage-doesnt-really-exist">The Tech Worker Shortage Doesn't Really Exist</a></li>
 <li><a href="http://www.huffingtonpost.com/2014/11/25/tech-worker-shortage-low-pay_n_6218444.html">Solving The Tech Worker 'Shortage' Is Easy: Just Pay Them More</a></li>
+<li><a href="https://modelviewculture.com/pieces/manufacturing-the-talent-shortage">Manufacturing the Talent Shortage</a></li>
+<li><a href="http://www.computerworld.com/article/2852250/silicon-valleys-h-1b-immigration-position-has-some-holes.html">Silicon Valley's H-1B immigration position has some holes</a></li>
 </ul>
 
 
