@@ -317,6 +317,7 @@
 * http://www.dataschool.io/roc-curves-and-auc-explained/
 * http://johncarlosbaez.wordpress.com/2014/11/15/a-second-law-for-open-markov-processes/
 * http://austingwalters.com/pca-principal-component-analysis/
+* https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43146.pdf
 
 
 
@@ -404,7 +405,10 @@
 * http://blog.udacity.com/2014/11/data-science-job-skills.html
 
 
+## Funny
 
+* http://www.bigdata-madesimple.com/dilberts-20-funniest-cartoons-on-big-data/
+* http://www.cafepress.com/+statistics+mugs
 
 
 ## Data Adoption and Data-Friendly Organizations
@@ -472,6 +476,7 @@
 * https://code.facebook.com/posts/382299771946304/audience-insights-query-engine-in-memory-integer-store-for-social-analytics-/
 * https://code.facebook.com/posts/1499322996995183/solving-the-mystery-of-link-imbalance-a-metastable-failure-state-at-scale/
 * http://www.michael-noll.com/blog/2014/10/01/kafka-spark-streaming-integration-example-tutorial/
+* http://www.slideshare.net/pacoid/tiny-batches-in-the-wine-shiny-new-bits-in-spark-streaming
 
 
 

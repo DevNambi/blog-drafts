@@ -18,6 +18,7 @@
 * http://www.businessinsider.com/harvard-dan-gilbert-money-happiness-principles-2014-10
 * http://www.feelguide.com/2013/04/29/75-years-in-th-making-harvard-just-released-its-epic-study-on-what-men-require-to-live-a-happy-life/
 * http://www.collective-evolution.com/2014/06/28/8-common-traits-of-happy-people-that-they-dont-talk-about/
+* http://www.washingtonpost.com/news/storyline/wp/2014/12/04/people-around-you-control-your-mind-the-latest-evidence/
 
 
 

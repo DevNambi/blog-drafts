@@ -227,9 +227,12 @@
 * http://arstechnica.com/tech-policy/2014/12/police-officer-fired-for-refusing-to-turn-on-body-cam/
 * http://www.nytimes.com/2014/12/07/magazine/cyrus-vance-jrs-moneyball-approach-to-crime.html?_r=0
 * http://gawker.com/why-should-anyone-respect-the-law-1666634274 <- brilliant and sublime
+* https://www.muckrock.com/news/archives/2014/dec/04/pentagon-finally-details-its-weapons-cops-giveaway/
 
 
 @Papakila - Funny how the "broken window theory" of policing - punishing minor infractions severely - is never applied to the police themselves.
+
+@casio_juarez: Apply the "birthday paradox" to "bad apple" cops. Even if only 0.3% are bad, after encountering 23 cops you have > 50% chance
 
 
 
