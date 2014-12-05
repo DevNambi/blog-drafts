@@ -142,6 +142,7 @@
 
 
 * http://www.oliverlehmann.com/project-management-sources/Nasa-Hundred-Rules-for-Project-Managers.pdf
+* http://www.arguingwithalgorithms.com/posts/14-12-02-architecture-reviews
 
 
 
@@ -391,6 +392,7 @@ things they believe in will keep </a></li>
 * http://allen-mcguire.blogspot.com/2014/06/reporting-on-spblitzcache-results.html
 * http://www.pg-versus-ms.com/ <- brilliant, and useful.
 * http://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html
+* http://www.postgres-xl.org/
 
 
 

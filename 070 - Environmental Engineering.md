@@ -111,6 +111,8 @@ Emphasize what we don't know
 * http://countercomplex.blogspot.com/2014/08/the-resource-leak-bug-of-our.html
 * http://www.extremetech.com/extreme/194696-an-antarctic-adventure-the-life-of-a-south-pole-communications-technician
 * http://seattletimes.com/html/nationworld/2025144284_apxjapanclimatefinancingcoalabridged.html
+* http://www.bloomberg.com/news/print/2014-12-05/musk-battery-works-fill-utilities-with-fear-and-promise.html
+* http://www.economist.com/news/technology-quarterly/21635332-jb-straubel-charged-more-electrifying-californian-carmaker-he
 
 
 

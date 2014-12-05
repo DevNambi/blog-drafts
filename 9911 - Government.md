@@ -228,6 +228,8 @@
 * http://www.nytimes.com/2014/12/07/magazine/cyrus-vance-jrs-moneyball-approach-to-crime.html?_r=0
 * http://gawker.com/why-should-anyone-respect-the-law-1666634274 <- brilliant and sublime
 * https://www.muckrock.com/news/archives/2014/dec/04/pentagon-finally-details-its-weapons-cops-giveaway/
+* http://www.npr.org/blogs/codeswitch/2014/12/05/368545491/civil-rights-attorney-on-how-she-built-trust-with-police
+* http://www.washingtonpost.com/opinions/eugene-robinson-its-a-crime-that-we-dont-know-how-many-people-police-shoot-to-death/2014/12/01/adedcb00-7998-11e4-b821-503cc7efed9e_story.html
 
 
 @Papakila - Funny how the "broken window theory" of policing - punishing minor infractions severely - is never applied to the police themselves.
