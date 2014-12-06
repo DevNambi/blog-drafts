@@ -81,6 +81,7 @@
 
 
 * http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0
+* http://www.theguardian.com/lifeandstyle/2014/dec/05/detox-myth-health-diet-science-ignorance
 * http://aeon.co/magazine/health/would-we-opt-out-of-food-if-given-the-chance/
 * http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13793.html
 * http://qz.com/271961/the-complete-guide-to-packing-a-thrifty-lunch-thats-better-than-takeout/

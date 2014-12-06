@@ -71,6 +71,7 @@
 * http://arstechnica.com/tech-policy/2014/12/feds-want-apples-help-to-defeat-encrypted-phones-new-legal-case-shows/
 * http://mashable.com/2014/11/25/regin-spy-malware-nsa-gchq/
 * http://arstechnica.com/tech-policy/2014/12/exposed-nsa-program-for-hacking-any-cellphone-network-no-matter-where-it-is/
+* http://www.thedailybeast.com/articles/2014/12/01/laura-poitras-on-finding-edward-snowden-obama-s-tainted-legacy-and-oliver-stone-s-snowden-film.html
 
 
 

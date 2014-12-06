@@ -189,6 +189,7 @@
 * http://www.insidebayarea.com/breaking-news/ci_26793090/warrant-chp-officer-says-stealing-nude-photos-from
 * http://www.wsaw.com/news/headlines/Attorney-Calls-Deputies-Response-to-Property-Seizure-Excessive-Lawsuit-Filed-280578482.html
 * http://www.huffingtonpost.com/homero-aridjis/mexico-missing-students_b_6062000.html
+* http://www.rollingstone.com/politics/news/the-police-in-america-are-becoming-illegitimate-20141205
 * http://www.washingtonpost.com/news/the-watch/wp/2014/10/29/surprise-controversial-patriot-act-power-now-overwhelmingly-used-in-drug-investigations/
 * http://www.theguardian.com/society/2014/oct/30/drug-laws-international-study-tough-policy-use-problem
 * http://www.latimes.com/world/mexico-americas/la-fg-mexico-american-deaths-20141101-story.html
