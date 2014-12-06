@@ -25,6 +25,7 @@
 * http://seattletimes.com/html/nationworld/2025012868_apxborderdrones.html
 * http://arstechnica.com/tech-policy/2014/11/republican-lawmakers-tell-fcc-it-cant-treat-broadband-as-a-utility/
 * https://www.eff.org/deeplinks/2014/11/unsealed-filing-shows-doj-misled-appeals-court-about-national-security-letter-gag
+* http://www.rollingstone.com/politics/news/afghanistan-the-making-of-a-narco-state-20141204
 
 
 <li><a href="https://firstlook.org/theintercept/2014/02/14/ongoing-abuse-state-secrets-privilege/" time_added="1392591442" tags="">Obama DOJ's New Abuse of State-Secrets Privilege Revealed - The Intercept</a></li>
@@ -232,6 +233,7 @@
 * http://www.npr.org/blogs/codeswitch/2014/12/05/368545491/civil-rights-attorney-on-how-she-built-trust-with-police
 * http://www.washingtonpost.com/opinions/eugene-robinson-its-a-crime-that-we-dont-know-how-many-people-police-shoot-to-death/2014/12/01/adedcb00-7998-11e4-b821-503cc7efed9e_story.html
 * https://privacysos.org/node/1609#update
+* http://www.slate.com/blogs/the_slatest/2014/12/06/cop_in_mesa_arizona_punches_15_year_old_girl_in_the_face.html
 
 
 @Papakila - Funny how the "broken window theory" of policing - punishing minor infractions severely - is never applied to the police themselves.
