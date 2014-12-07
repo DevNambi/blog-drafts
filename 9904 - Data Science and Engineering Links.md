@@ -405,6 +405,8 @@
 * http://www.mastersindatascience.org/blog/questions-before-choosing-data-science-program/
 * http://blog.udacity.com/2014/11/data-science-job-skills.html
 
+Peter Norvig Quote: "More data beats clever algorithms, but better data beats more data."
+
 
 ## Funny
 
@@ -456,6 +458,7 @@
 
 
 * http://jeremykun.com/2014/10/05/on-the-computational-complexity-of-mapreduce/
+* http://tech.adroll.com/blog/data/2013/07/10/hll-minhash.html
 * http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html
 * http://www.slideshare.net/deanwampler/spark-the-next-top-compute-model-39976454
 * http://techblog.netflix.com/2014/10/using-presto-in-our-big-data-platform.html
@@ -536,6 +539,7 @@
 
 * http://imgur.com/gallery/ZpgQz
 * http://bigdatapix.tumblr.com/
+* http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0026828
 
 
 

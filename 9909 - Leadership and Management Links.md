@@ -47,7 +47,7 @@ Where Did Soul-Sucking Office-Speak Come From? http://t.co/xvTAKBY2m2 http://t.c
 
 OH: "why do we call them managers? Why don't we just call them failed developers?" ... @Jorriss
 
-
+@qhardy: If the 2 guys running TNR were really of Silicon Valley, they'd know Rule 1: You're as good at the talent that leaves each nigh…
 
 
 

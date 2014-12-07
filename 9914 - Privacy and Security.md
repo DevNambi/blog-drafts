@@ -39,6 +39,7 @@
 * http://blogs.microsoft.com/on-the-issues/2014/10/23/four-10-americans-face-regular-online-fraud-attacks-microsoft-survey/
 * http://arstechnica.com/information-technology/2014/10/taking-back-privacy-in-the-post-snowden-cloud/
 * http://www.propublica.org/article/somebodys-already-using-verizons-id-to-track-users
+* http://radar.oreilly.com/2014/12/how-browsers-get-to-know-you-in-milliseconds.html
 * http://nautil.us/issue/7/waste/the-cost-of-cryptography
 * http://cryptome.org/2014/11/ms-onedrive-nsa-prism.htm
 * http://arstechnica.com/security/2014/11/cell-carrier-was-weakest-link-in-hack-of-google-instagram-accounts/

@@ -29,7 +29,7 @@
 <li><a href="http://www.extremetech.com/extreme/177409-only-0-15-of-players-account-for-50-of-free-to-play-game-revenue" time_added="1393522569" tags="">Only 0.15% of players account for half of free-to-play game revenue | Extre</a></li>
 
 
-
+* https://gigaom.com/2014/12/05/whats-happening-with-secret/
 
 
 ## Renting (not Sharing) Economy

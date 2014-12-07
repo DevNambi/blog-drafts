@@ -402,6 +402,8 @@ things they believe in will keep </a></li>
 <li><a href="http://blog.smartbear.com/software-quality/bid/167051/14-Ways-to-Contribute-to-Open-Source-without-Being-a-Programming-Genius-or-a-Rock-Star" time_added="1356983407" tags="hn">14 Ways to Contribute to Open Source without Being a Programming Genius or </a></li>
 <li><a href="http://www.wired.com/opinion/2013/03/github/" time_added="1362848556" tags="brand,hiring/firing,hn,important,personal tech">The GitHub Generation: Why We're All in Open Source Now | Wired Opinion | W</a></li>
 
+* http://danluu.com/discourage-oss/
+
 
 
 
