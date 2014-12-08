@@ -15,6 +15,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * https://twitter.com/BecomingDataSci/lists/women-in-data-science/members
 * http://arstechnica.com/tech-policy/2014/10/pew-survey-says-online-harassment-rampant-impacts-genders-differently/
 * http://mic.com/articles/102550/if-anyone-tells-you-street-harassment-isn-t-a-problem-show-them-this-video
+* http://www.latimes.com/opinion/op-ed/la-oe-gardner-women-in-tech-20141207-story.html
 * http://www.salon.com/2014/10/30/that_creepy_guy_from_the_internet_how_gamergate_shattered_faith_in_the_geek_community/
 * http://actuallyethics.tumblr.com/
 * http://galileospendulum.org/2014/11/01/no-academic-science-hasnt-overcome-sexism/
