@@ -237,6 +237,7 @@
 * http://boingboing.net/2013/08/22/smear-campaign-daily-show-cre.html
 * http://www.cbsnews.com/videos/good-gut-bacteria-can-help-with-controlling-weight-inflammation/
 * http://www.plospathogens.org/article/info%3Adoi%2F10.1371%2Fjournal.ppat.1003587
+* http://www.businessweek.com/articles/2014-12-04/dna-sequencing-craig-venter-says-genomic-era-is-just-starting
 * http://arstechnica.com/tech-policy/2014/10/feds-examining-medical-devices-for-fatal-cybersecurity-flaws/
 * http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html
 * http://www.nytimes.com/2014/10/28/world/africa/wish-to-do-more-in-ebola-fight-meets-reality-in-liberia.html?_r=0

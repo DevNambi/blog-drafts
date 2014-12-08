@@ -85,6 +85,7 @@
 
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
 * http://www.nakedcapitalism.com/2014/10/john-helmer-cia-bumbling-now.html
+* http://www.usatoday.com/story/nation/2014/10/31/suicide-deaths-us-military-war-study/18261185/
 * http://militaryprofessionalreadinglists.com/
 * http://www.computerworld.com/article/2834927/hackers-strike-defense-companies-through-real-time-ad-bidding.html
 * http://www.foreignpolicy.com/articles/2014/10/24/yoda_has_left_the_building_andrew_marshall_pentagon_futurist
@@ -185,6 +186,7 @@
 * http://www.al.com/news/index.ssf/2014/10/gangrene_and_broken_bones_kill.html
 * http://www.wired.com/2014/10/virginia-police-secretively-stockpiling-private-phone-records/
 * http://www.washingtonpost.com/news/morning-mix/wp/2014/08/14/tear-gas-is-a-chemical-weapon-banned-in-war-but-ferguson-police-shoot-it-at-protesters/
+* http://seattletimes.com/html/localnews/2025176977_shepherdpunch1xml.html
 * http://seattletimes.com/html/nationworld/2024936090_apxfergusonnofly.html
 * http://www.salon.com/2014/10/20/swat_teams_brutal_murder_how_they_killed_an_innocent_man_on_his_childhood_driveway/
 * http://arstechnica.com/tech-policy/2014/10/handful-of-virginia-police-agencies-sharing-seized-phone-data/

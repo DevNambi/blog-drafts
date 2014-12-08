@@ -204,6 +204,7 @@
 <li><a href="http://www.hilarymason.com/blog/interview-questions-for-data-scientists/" time_added="1357239077" tags="data science">» Interview Questions for Data Scientists hilarymason.com</a></li>
 
 * http://www.brianckeegan.com/2014/10/on-starting-a-new-job/
+* https://gigaom.com/2014/12/04/want-to-make-data-scientist-money-learn-data-science-tools/
 
 
 
@@ -520,6 +521,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://www.slideshare.net/xamat/10-lessons-learned-from-building-machine-learning-systems
 * https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de
 * http://getprismatic.com/story/1416932925939
+* http://www.slate.com/articles/health_and_science/new_scientist/2012/12/kaggle_president_jeremy_howard_amateurs_beat_specialists_in_data_prediction.html
 
 
 

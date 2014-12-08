@@ -153,7 +153,7 @@
 <li><a href="http://offbeathome.com/2014/04/discussing-deal-breakers" time_added="1396619631" tags="">How do you talk about deal-breaker topics?</a></li>
 <li><a href="http://j.mp/18SdKT6" time_added="1385935945" tags="domestic,important">Scientists explore how the “cuddle hormone” oxytocin may help build lasting</a></li>
 <li><a href="http://arstechnica.com/science/2013/11/dating-still-segregated-but-people-cross-racial-lines-once-contacted/" time_added="1384033688" tags="domestic">http://arstechnica.com/science/2013/11/dating-still-segregated-but-people-c</a></li>
-<li><a href="http://www.nytimes.com/2013/06/23/opinion/sunday/coontz-the-disestablishment-of-marriage.html?pagewanted=2&ref=general&src=me" time_added="1372053071" tags="domestic">The Disestablishment of Marriage - NYTimes.com</a></li>
+<li><a href="http://www.nytimes.com/2013/06/23/opinion/sunday/coontz-the-disestablishment-of-marriage.html" time_added="1372053071" tags="domestic">The Disestablishment of Marriage - NYTimes.com</a></li>
 <li><a href="http://www.forbes.com/sites/jefflanders/2013/06/20/not-your-mothers-divorce-three-21st-century-trends/" time_added="1371752257" tags="domestic">Not Your Mother's Divorce: Three 21st Century Trends - Forbes</a></li>
 <li><a href="http://www.theatlantic.com/business/archive/2013/05/did-the-internet-save-marriage/275526/" time_added="1367534891" tags="domestic,stats">Did the Internet Save Marriage? - Derek Thompson - The Atlantic</a></li>
 <li><a href="http://www.salon.com/2013/06/15/how_we_do_it_maybe_monogamy_isnt_natural/" time_added="1371392301" tags="domestic">How we do it: Maybe monogamy isn’t natural!</a></li>
@@ -182,7 +182,8 @@
 * http://www.theatlantic.com/health/archive/2014/06/why-we-sleep-together/371477/
 * http://www.randalolson.com/2014/11/06/what-makes-for-a-stable-marriage-part-2/
 * http://www.farnamstreetblog.com/2014/11/mind-gym-relationships/
-* http://www.nytimes.com/2014/12/02/upshot/the-divorce-surge-is-over-but-the-myth-lives-on.html?_r=0&abt=0002&abg=1
+* http://www.nytimes.com/2014/12/02/upshot/the-divorce-surge-is-over-but-the-myth-lives-on.html
+* http://aeon.co/magazine/culture/why-the-traditional-wedding-isnt-as-traditional-as-it-seems/
 
 
 

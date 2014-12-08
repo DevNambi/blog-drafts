@@ -90,6 +90,7 @@
 * http://www.washingtonpost.com/blogs/the-switch/wp/2014/12/01/is-ubers-rider-database-a-sitting-duck-for-hackers/
 * http://www.nerdwallet.com/blog/insurance/2014/12/01/number-rides-pay-insurance-lyft-uber/
 * https://medium.com/life-learning/uber-vs-lyft-an-insiders-view-fb14ba0a3dbb
+* http://www.nytimes.com/2014/12/08/opinion/we-cant-trust-uber.html
 
 "It turns out Uber is a replacement for owning a car" say wealthy urbanites who don't have kids, pets, disabilities or outdoor hobbies." - https://twitter.com/mims
 
