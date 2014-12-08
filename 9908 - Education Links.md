@@ -48,6 +48,7 @@
 
 
 * http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html
+* http://seattletimes.com/html/education/2025176296_edlabkentdisciplinexml.html
 * http://www.chrisgiven.com/schooldebt/
 * http://www.iflscience.com/technology/why-has-technology-not-revolutionized-education
 * http://flowingdata.com/2014/11/18/planets-as-fruit-to-show-scale/
