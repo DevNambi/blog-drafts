@@ -12,10 +12,14 @@ meta-description:
 - margin of error
 ---
 
+In my [last blog post](http://devnambi.com/2014/pass-attendance-results) explored some of the patterns found when looking at attendance of SQL PASS Summit sessions.
 
-#### Ratings and Rankings
+Now, let's look at the sessions themselves, and the feedback attendees left.
 
-The way to give feedback for the Summit conference this year was using an online form, built into the PASS Summit app. However, due to spotty Wi-Fi and cell connectivity, the number of people submitting feedback was relatively low; only around 16% (ME: VET THIS NUMBER).
+
+#### Feedback
+
+The way to give feedback for the Summit conference this year was using an online form, built into the PASS Summit app. Unfortunately, due to spotty Wi-Fi and cell connectivity, the number of people submitting feedback was relatively low; only around 16% (ME: VET THIS NUMBER).
 
 The first question, therefore, is *how much can we trust this data?* How closely does it reflect reality?
 
@@ -26,7 +30,7 @@ Here's a quick breakdown. Depending on the size of your audience, here's the mar
 
 (ADD A TABLE REFLECTING THIS)
 
-Otherwise, there's a potential for bias. The only people who provide feedback are the ones who loved the session, or hated it. Unfortunately, there's *no way to know* with this data. PASS doesn't have PII or demographic data on who provided feedback, so there's just no way to know.
+There's the potential for bias here. It's not uncommon to see that the only people who provided feedback are the ones who loved the session, or hated it. Unfortunately, there's *no way to know* with this data. Session feedback is anonymous, and without PII or demographic data about each piece of feedback, there's just no way to know.
 
 
 **What's the distribution of feedback for each question?**
@@ -43,7 +47,22 @@ It would be interesting (as a speaker) getting average and standard deviation fo
 
 ##### Rankings
 
-Some speakers are obsessed with their *ranking*. Did they get the #1 most highly-rated spot, or the #3? 
+Session speakers are often keenly interested in their their *ranking*. Did they get the #1 most highly-rated spot, or the #3? 
+
+Due to privacy concerns, the PASS organization won't let me release ratings with the session names or sepakers attached. However, I *can* tell you the percentile rankings overall, and for different categories.
+
+
+**Overall**
+
+Let's look at overall ratings.
+
+**By Track**
+
+Let's look at percentile ratings by track. 
+
+**By Level**
+
+Let's look at percentile ratings by level. 
 
 
 **@AdamMachanic:**
@@ -64,11 +83,20 @@ Some speakers are obsessed with their *ranking*. Did they get the #1 most highly
 *Let's show scores by percentile. For example, 5% of sessions scored at least a 4.9. Or else show it with all of the personal information stripped out.*
 
 
-**BrentOzar**
+#### Correlations
+
+A few weeks ago I asked folks on Twitter what questions they had about
+
+**Enviroment Score and Speaker Performance**
 
 @BrentO : Is there a correlation between environment score and speaker performance?
 
+
+**Enough Material and Session Length**
+
+
 @DevNambi Also, is there a correlation between the enough-material question and the session length?
+
 
 
 
@@ -113,16 +141,18 @@ How about comparing attendance to the 'environment' score in speaker ratings? He
 
 **The Bandwagon Effect**
 
-Do popular sessions get higher scores? Yes, but it's a very minor effect. The correlation between attendance and speaker rating scores is low (R2 = 0.031, p-value 0.012).
+It turns out popular sessions do get higher scores, but the linkage is very weak. The correlation between attendance and speaker rating scores is low (R2 = 0.031, p-value 0.012).
 
-So, popular speakers are also better-rated speakers, but not by much. 
+So, popular speakers are also more highly rated, but not by much. 
 
 
-#### How to Use This Data
-
-*How will scores be used in the future? What can statistical analysis tell us about how much it should be used?*
+**Consistency**
 
 @BrentO: Is past performance an indicator of future success - did repeat performers improve, stay the same, or get worse?
+
+* Show scores over time as a line chart
+* Then show it again, with YoY change. How much do speakers change over time?
+
 
 #### Future Research
 
@@ -131,7 +161,8 @@ Like any data analysis project, this work is not done. There are many places to 
 * Comparing speaker ratings with the scores given to abstracts to see how well session selection is doing. Let's provide data about the [Speaker 47](LINKME) problem.
 * Adding topic and content analysis to look for patterns by session topic
 * Investigating data-driven ways for the PASS community to build and identify upcoming speakers (*cough* SQL Saturdays *cough*)
-* Investigating how to better gather feedback during sessions. The ~16% feedback rate isn't very good.
+* Investigating how to better gather feedback during sessions. The ~16% (VALIDATE) feedback rate isn't very good.
+* Use the information about popularity vs. time to better allocate sessions, and to figure what potential changes could be made to the schedule. 
 
 #### Keep Going
 

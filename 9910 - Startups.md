@@ -101,6 +101,7 @@
 * http://www.inc.com/rahul-varshneya/before-you-quit-your-job-to-become-an-entrepreneur-read-this.html
 * https://medium.com/the-nib/richard-scarrys-21st-century-busy-town-jobs-7bc6ee6700b4
 * http://evhead.com/2005/11/ten-rules-for-web-startups.asp?hn=true
+* http://www.technologyreview.com/qa/533096/a-feminist-critique-of-silicon-valley/
 
 
 

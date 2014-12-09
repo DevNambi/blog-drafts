@@ -15,6 +15,7 @@
 * http://www.nytimes.com/2014/10/29/opinion/weak-oversight-deadly-cars.html
 * http://www.nakedcapitalism.com/2014/10/government-private-sector-leads-innovation.html
 * http://www.nytimes.com/2014/11/02/magazine/megan-smith-you-can-affect-billions-of-people.html
+* https://firstlook.org/theintercept/2014/12/09/live-coverage-release-senate-torture-report/
 * http://www.komonews.com/news/national/Doubts-chip-away-at-nations-most-trusted-agencies-281225281.html
 * http://time.com/3541008/nobel-peace-prize-torture-barack-obama/
 * https://www.aclu.org/blog/national-security/new-nsa-documents-shine-more-light-black-box-executive-order-12333

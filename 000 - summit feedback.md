@@ -2,7 +2,7 @@
 author: DevNambi
 date: 2014-12-08
 layout: post
-slug: pass-attendance-redux
+slug: pass-attendance-results
 title: PASS Summit Attendance and Predictions
 meta-description: 
 - pass summit
