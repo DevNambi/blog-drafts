@@ -64,6 +64,7 @@
 <li><a href="http://pitchfork.com/thepitch/210-they-got-the-neutron-bomb-los-angeles-potentially-huge-rocknroll-year/" time_added="1389841752" tags="">Ty Segall and John Dwyer on Why So Many Musicians Are Leaving San Francisco</a></li>
 
 * https://twitter.com/Javi/status/539345489725251585
+* http://blog.zumper.com/2014/12/san-francisco-apartment-rents-rose-by-13-5-in-2014/
 
 
 

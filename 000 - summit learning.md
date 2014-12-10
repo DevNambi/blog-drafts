@@ -1,6 +1,6 @@
 ---
 author: DevNambi
-date: 2014-12-08
+date: 2014-12-13
 layout: post
 slug: pass-evaluation
 title: Say Anything! PASS Summit Feedback and Ratings
@@ -12,7 +12,7 @@ meta-description:
 - margin of error
 ---
 
-In my [last blog post](http://devnambi.com/2014/pass-attendance-results) explored some of the patterns found when looking at attendance of SQL PASS Summit sessions.
+In my [last blog post](http://devnambi.com/2014/pass-attendance-results) I explored some of the patterns found when looking at attendance of SQL PASS Summit sessions.
 
 Now, let's look at the sessions themselves, and the feedback attendees left.
 
