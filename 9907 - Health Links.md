@@ -104,6 +104,7 @@
 * http://nautil.us/issue/16/nothingness/take-two-sugar-pills-and-call-me-in-the-morning
 * http://online.wsj.com/articles/how-the-brain-uses-glucose-to-fuel-self-control-1417618996
 * http://www.nytimes.com/2014/12/04/opinion/nicholas-kristof-abusing-chickens-we-eat.html
+* http://well.blogs.nytimes.com/2014/12/08/bpa-in-cans-and-plastic-bottles-linked-to-quick-rise-in-blood-pressure/?_r=0
 
 
 

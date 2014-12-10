@@ -289,6 +289,7 @@
 * http://www.nextscientist.com/write-a-phd-thesis/
 * http://www.nytimes.com/2014/12/03/sports/ncaafootball/uab-cancels-football-program-citing-fiscal-realities.html
 * http://www.nytimes.com/2014/12/02/education/most-college-students-dont-earn-degree-in-4-years-study-finds.html
+* http://rhrealitycheck.org/article/2014/12/09/oregon-educators-strike-paid-leave-university-president-advocated-leave/
 
 
 
