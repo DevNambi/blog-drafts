@@ -19,7 +19,7 @@ Now, let's look at the sessions themselves, and the feedback attendees left.
 
 #### Feedback
 
-The way to give feedback for the Summit conference this year was using an online form, built into the PASS Summit app. Unfortunately, due to spotty Wi-Fi and cell connectivity, the number of people submitting feedback was relatively low; only around 16% (ME: VET THIS NUMBER).
+The way to give feedback for the Summit conference this year was using an online form, built into the PASS Summit app. Unfortunately, due to spotty Wi-Fi and cell connectivity, the number of people submitting feedback was relatively low. People attended sessions 36,445 times and left 5382 pieces of feedback, for a response rate of 14.8%.
 
 The first question, therefore, is *how much can we trust this data?* How closely does it reflect reality?
 
@@ -35,15 +35,11 @@ There's the potential for bias here. It's not uncommon to see that the only peop
 
 **What's the distribution of feedback for each question?**
 
-Another great question. 
+The scores for the questions are very high. Most people give presenters high marks. 
 
-ME - look at how scores are distributed. Normally distributed? No? 
 
-**Marco Russo**
+(ADD THE TABLEAU VIZ HERE)
 
-It would be interesting (as a speaker) getting average and standard deviation for each question. 
-
-*We should look at median and IQR as well in case data's not normally distributed*
 
 ##### Rankings
 
@@ -54,7 +50,20 @@ Due to privacy concerns, the PASS organization won't let me release ratings with
 
 **Overall**
 
-Let's look at overall ratings.
+| Percentile | Score | 
+| :---- | :----: | 
+| 95th | 
+| 90th | 
+| 80th | 
+| 70th | 
+| 60th | 
+| 50th (Median) | 
+| 40th | 
+| 30th | 
+| 20th | 
+| 10th | 
+
+MAKE SEVERAL VIZZES.
 
 **By Track**
 
@@ -63,21 +72,6 @@ Let's look at percentile ratings by track.
 **By Level**
 
 Let's look at percentile ratings by level. 
-
-
-**@AdamMachanic:**
-
-@AdamMachanic: Is there an overall session evals version like usual, with rankings?
-
-@AdamMachanic: @SQLHA @amy_lewisAZ that's an issue for next year. Comparative ratings, which we've always had, is an issue for this year.
-
-@GFritchey: @SQLHA @AdamMachanic @amy_lewisAZ Agreed. Plus, I'm horrified at how I did this year.
-
-@AdamMachanic: @amy_lewisAZ that's unfortunate. A lot of us really enjoy seeing how we scored against other sessions.
-
-
-@AdamMachanic: @amy_lewisAZ what I meant was, are you going to include it in the average when coming up with the overall rankings?
-
 
 
 *Let's show scores by percentile. For example, 5% of sessions scored at least a 4.9. Or else show it with all of the personal information stripped out.*
@@ -91,6 +85,11 @@ A few weeks ago I asked folks on Twitter what questions they had about
 
 @BrentO : Is there a correlation between environment score and speaker performance?
 
+It turns out people who give high environment scores also give high speaker performance scores. The correlation is .377, which isn't very strong. There are also many potential reasons for this.
+
+(ADD SCATTERPLOT)
+
+(ADD XKCD ON CORRELATION)
 
 **Enough Material and Session Length**
 
@@ -119,12 +118,20 @@ The most popular times are midday (4.5K on Wednesday) and early afternoon (4.9K 
 
 Do certain time slots produce higher scores? 
 
+(ADD TABLEAU VIZ)
+
+There's no real correlation between time slots and scores. There is some variation of scores between times, but there's no pattern I can find to it.
+
 
 @DevNambi was there a particular was there a time slot that produced higher scores?. My hypothesis is that the later sessions will have a higher deviation of scores. And the people that go really want to be there. Either they are thrilled or disappointed.
 
 **Speak Up, Speak Up**
 
 @DevNambi @Jorriss Oh it would be interesting to see if survey completion rate went up or down, and if it correlated to satisfaction or attendance or time of day.
+
+(ADD TABLEAU VIZ)
+
+
 
 @DevNambi Interesting. I would think they go down. That would be an interesting survey question.
 
@@ -161,7 +168,7 @@ Like any data analysis project, this work is not done. There are many places to 
 * Comparing speaker ratings with the scores given to abstracts to see how well session selection is doing. Let's provide data about the [Speaker 47](LINKME) problem.
 * Adding topic and content analysis to look for patterns by session topic
 * Investigating data-driven ways for the PASS community to build and identify upcoming speakers (*cough* SQL Saturdays *cough*)
-* Investigating how to better gather feedback during sessions. The ~16% (VALIDATE) feedback rate isn't very good.
+* Investigating how to better gather feedback during sessions. The ~14.7% feedback rate isn't good.
 * Use the information about popularity vs. time to better allocate sessions, and to figure what potential changes could be made to the schedule. 
 
 #### Keep Going
