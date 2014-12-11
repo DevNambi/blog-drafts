@@ -19,6 +19,7 @@
 * ww.defmacro.org/2014/10/03/engman.html
 * http://www.theatlantic.com/business/archive/2014/11/a-new-business-strategy-treating-employees-well/383192/
 * http://www.businessweek.com/stories/2005-02-20/the-inside-story-of-carlys-ouster
+* http://www.paperplanes.de/2014/12/10/from-open-to-minimum-vacation-policy.html
 
 
 <li><a href="http://lifehacker.com/5936493/want-to-be-a-great-leader-start-reading" time_added="1348860619" tags="hn">Want to Be a Great Leader? Start Reading</a></li>

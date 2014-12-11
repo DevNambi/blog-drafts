@@ -34,6 +34,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * http://randi.io/wp/archives/86
 * http://www.nydailynews.com/opinion/patrick-blanchfield-masculine-mistake-article-1.2011600?cid=bitly
 * https://medium.com/@jayslacks/conservatives-arent-racist-its-worse-d73fc7ab95ea
+* https://medium.com/@3fingeredfox/margaret-hamilton-lead-software-engineer-project-apollo-158754170da8
 
 
 
