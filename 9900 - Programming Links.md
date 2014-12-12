@@ -393,6 +393,7 @@ things they believe in will keep </a></li>
 * http://www.pg-versus-ms.com/ <- brilliant, and useful.
 * http://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html
 * http://www.postgres-xl.org/
+* http://queue.acm.org/detail.cfm?id=2696453 <- amazingly useful
 
 
 

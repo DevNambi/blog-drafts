@@ -87,6 +87,7 @@
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
 * http://www.nakedcapitalism.com/2014/10/john-helmer-cia-bumbling-now.html
 * http://www.usatoday.com/story/nation/2014/10/31/suicide-deaths-us-military-war-study/18261185/
+* http://www.washingtonpost.com/wp-srv/special/national/cia-interrogation-report/word-count/ <- torture
 * http://militaryprofessionalreadinglists.com/
 * http://www.computerworld.com/article/2834927/hackers-strike-defense-companies-through-real-time-ad-bidding.html
 * http://www.foreignpolicy.com/articles/2014/10/24/yoda_has_left_the_building_andrew_marshall_pentagon_futurist
@@ -200,6 +201,7 @@
 * http://www.latimes.com/world/mexico-americas/la-fg-mexico-american-deaths-20141101-story.html
 * http://www.economist.com/news/united-states/21599349-americas-police-have-become-too-militarised-cops-or-soldiers?fsrc=scn/tw/te/pe/copsorsoldiers
 * http://www.seattlepi.com/news/crime/article/No-charges-for-deputies-who-arrested-man-who-died-5863865.php
+* http://arstechnica.com/tech-policy/2014/12/cops-use-taser-on-woman-while-she-recorded-arrest-of-another-man/
 * https://news.vice.com/article/officer-involved-texas-cops-caught-on-dash-cam-saying-call-the-cops-they-cant-un-rape-you
 * http://seattletimes.com/html/localnews/2024979484_westneat09xml.html
 * http://www.washingtonpost.com/news/the-watch/wp/2014/11/10/the-stingray-menace/

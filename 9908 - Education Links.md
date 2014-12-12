@@ -205,6 +205,7 @@
 * http://www.newsweek.com/american-horror-ivy-league-edition-263448
 * http://www.bloomberg.com/news/2014-09-04/secret-network-connects-harvard-money-to-payday-loans.html
 * http://strategyandanalytics.com/hardship-professions-unhappy-suicidal-alcoholic-job-lists/
+* https://www.insidehighered.com/news/2014/12/12/interactive-learning-spaces-center-ball-state-us-faculty-development-program
 * http://www.nakedcapitalism.com/2014/09/profit-colleges-factories-debt.html
 * https://www.insidehighered.com/news/2014/11/03/study-finds-serious-attrition-issues-black-and-latino-doctoral-students
 * http://mobile.nytimes.com/2014/10/05/nyregion/community-college-students-face-a-very-long-road-to-graduation.html

@@ -22,6 +22,7 @@
 * http://fastml.com/how-to-run-external-programs-from-python-and-capture-their-output/
 * http://districtdatalabs.silvrback.com/simple-csv-data-wrangling-with-python
 * http://www.johndcook.com/blog/r_language_for_programmers/
+* https://www.youtube.com/user/PyDataTV
 
 
 
@@ -362,6 +363,7 @@
 
 * http://totems.co/blog/comparison-image-hashing-libraries/
 * http://cs.stanford.edu/people/karpathy/deepimagesent/
+* http://blog.yhathq.com/posts/image-processing-with-scikit-image.html
 
 
 
