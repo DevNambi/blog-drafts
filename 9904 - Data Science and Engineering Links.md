@@ -467,6 +467,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://techblog.netflix.com/2014/10/using-presto-in-our-big-data-platform.html
 * http://databricks.com/blog/2014/10/10/spark-breaks-previous-large-scale-sort-record.html
 * http://patshaughnessy.net/2014/10/13/following-a-select-statement-through-postgres-internals
+* http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html
 * http://tachyon-project.org/
 * http://www.gallamine.com/2014/10/query-data-from-impala-on-amazon-emr.html
 * http://techcrunch.com/2014/10/20/crate-lets-developers-set-up-big-data-backends-in-minutes/

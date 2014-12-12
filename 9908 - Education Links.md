@@ -326,6 +326,7 @@
 * http://www.nytimes.com/2014/11/22/your-money/paying-for-college/college-abacus-offers-data-on-college-costs-but-some-schools-balk.html
 * http://seattletimes.com/html/opinion/2025124962_spitzeropedhighered30xml.html
 * https://www.americanprogress.org/issues/higher-education/report/2014/12/03/102407/state-disinvestment-in-higher-education-has-led-to-an-explosion-of-student-loan-debt/
+* https://www.insidehighered.com/news/2014/12/12/cfpb-accuses-two-debt-relief-companies-predatory-practices
 
 
 

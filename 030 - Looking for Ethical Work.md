@@ -67,7 +67,7 @@ Industries
 * https://medium.com/backchannel/the-man-who-made-the-uk-say-im-sorry-for-what-we-did-to-turing-8fc468dcea6b
 
 
-### Support creators, and disrupt everything else
+### Support real work, and disrupt everything else
 
 * Disrupt telecommunications. They're a tax on the Internet
 ** Wireless instead of wired, to reduce build-out costs
@@ -81,6 +81,7 @@ Industries
 * http://www.pickthebrain.com/blog/8-things-important-job/
 * http://www.cs.washington.edu/events/colloquia/details?id=2607
 * http://www.theatlantic.com/video/index/382599/the-apache-firefighters-who-stop-americas-biggest-wildfires/
+* http://opinionator.blogs.nytimes.com/2014/12/11/big-ideas-in-social-change-2014/
 * http://arstechnica.com/science/2014/11/having-a-goal-may-keep-you-out-of-the-hospital/
 * http://www.fastcolabs.com/3038792/what-i-learned-from-building-an-app-for-low-income-americans
 * http://www.nytimes.com/2014/12/07/upshot/how-technology-could-help-fight-income-inequality.html

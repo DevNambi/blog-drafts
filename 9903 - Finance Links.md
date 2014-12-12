@@ -101,6 +101,7 @@
 * http://m.motherjones.com/politics/2014/11/walmart-protests-black-friday
 * http://www.vanityfair.com/online/wolcott/2014/11/down-and-out-in-d-c
 * http://www.nytimes.com/2014/12/02/opinion/david-brooks-class-prejudice-resurgent.html
+* http://www.washingtonpost.com/sf/business/2014/12/12/why-americas-middle-class-is-lost/
 
 
 

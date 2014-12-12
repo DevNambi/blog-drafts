@@ -75,6 +75,7 @@
 
 * http://www.entrepreneur.com/article/238556
 * http://www.wired.com/2014/11/be-mean-online/
+* http://michaeljswart.com/2014/12/obvious-and-not-so-obvious-writing-tips/
 
 
 ## Technical Setup
