@@ -181,6 +181,9 @@
 
 
 * http://www.ajc.com/news/news/breaking-news/no-charges-for-officers-in-botched-drug-raid-that-/nhc2N/
+* http://www.bostonglobe.com/ideas/2014/10/18/vote-all-you-want-the-secret-government-won-change/jVSkXrENQlu8vNcBfMn9sL/story.html
+* http://www.reddit.com/r/AskReddit/comments/2p3qvo/good_cops_of_reddit_why_is_it_so_dangerous_to/
+* http://www.cnn.com/2014/12/12/justice/cleveland-tamir-rice/index.html?sr=reddit
 * http://www.komonews.com/news/local/State-troopers-caught-ignoring-speeding-cops-278746621.html?mobile=y&clmob=y&c=n
 * http://www.huffingtonpost.com/mark-godsey/for-the-first-time-ever-a_b_4221000.html
 * http://www.washingtonpost.com/sf/investigative/2014/09/06/stop-and-seize/
