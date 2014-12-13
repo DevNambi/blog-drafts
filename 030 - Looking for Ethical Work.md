@@ -85,6 +85,7 @@ Industries
 * http://arstechnica.com/science/2014/11/having-a-goal-may-keep-you-out-of-the-hospital/
 * http://www.fastcolabs.com/3038792/what-i-learned-from-building-an-app-for-low-income-americans
 * http://www.nytimes.com/2014/12/07/upshot/how-technology-could-help-fight-income-inequality.html
+* http://graphics.latimes.com/product-of-mexico-camps/
 
 Work-Life Balance: List the good and bad things, and why
 • How to make good things easier
