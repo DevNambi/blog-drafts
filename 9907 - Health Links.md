@@ -222,6 +222,7 @@
 * http://www.theatlantic.com/magazine/archive/2014/11/doctors-tell-all-and-its-bad/380785/
 * http://online.wsj.com/articles/cancers-super-survivors-how-immunotherapy-is-transforming-oncology-1417714379#
 * http://www.iflscience.com/health-and-medicine/large-study-explores-how-often-patients-wake-during-surgery
+* https://medium.com/backchannel/should-surgeons-keep-score-8b3f890a7d4c
 * http://www.medhistorian.com/2014/08/surgeons-at-war.html
 * http://www.huffingtonpost.com/2014/11/18/marijuana-brain-cancer_n_6181060.html
 * http://mobile.nytimes.com/2014/09/21/us/drive-by-doctoring-surprise-medical-bills.html?_r=1
