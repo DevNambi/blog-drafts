@@ -77,6 +77,7 @@ Industries
 
 * http://www.nakedcapitalism.com/2013/10/ethics-and-complex-systems.html
 * http://www.bbc.co.uk/news/science-environment-24538078
+* http://www.nakedcapitalism.com/2014/12/joe-firestone-lawless-society.html
 * http://www.brainpickings.org/2014/02/11/brockman-what-should-we-be-worried-about/
 * http://www.pickthebrain.com/blog/8-things-important-job/
 * http://www.cs.washington.edu/events/colloquia/details?id=2607
