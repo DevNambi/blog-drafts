@@ -43,6 +43,7 @@
 * http://setosa.io/ev/
 * http://blog.memsql.com/cache-is-the-new-ram/ \
 * http://www.datagenetics.com/blog/november32014/index.html
+* http://gael-varoquaux.info/programming/software-design-for-maintainability.html
 
 
 

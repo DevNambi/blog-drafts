@@ -99,6 +99,7 @@
 * http://arxiv.org/abs/1411.2842
 * http://www.nytimes.com/2014/11/30/magazine/the-militarys-rough-justice-on-sexual-assault.html
 * http://www.bbc.com/news/world-middle-east-30269343
+* http://www.theguardian.com/world/2014/dec/11/-sp-isis-the-inside-story
 
 
 
@@ -184,6 +185,7 @@
 * http://www.utsandiego.com/news/2014/dec/12/police-unions-alleged-intimidation-arrest-reformer/
 * http://www.cnn.com/video/data/2.0/video/us/2014/12/12/dnt-asthma-death-dash-cam-video.wqow.html
 * http://www.bostonglobe.com/ideas/2014/10/18/vote-all-you-want-the-secret-government-won-change/jVSkXrENQlu8vNcBfMn9sL/story.html
+* http://thinkprogress.org/justice/2014/12/12/3601771/people-police-killed-in-2014/
 * http://www.reddit.com/r/AskReddit/comments/2p3qvo/good_cops_of_reddit_why_is_it_so_dangerous_to/
 * http://www.cnn.com/2014/12/12/justice/cleveland-tamir-rice/index.html?sr=reddit
 * http://www.komonews.com/news/local/State-troopers-caught-ignoring-speeding-cops-278746621.html?mobile=y&clmob=y&c=n
@@ -193,6 +195,7 @@
 * http://www.al.com/news/index.ssf/2014/10/gangrene_and_broken_bones_kill.html
 * http://www.wired.com/2014/10/virginia-police-secretively-stockpiling-private-phone-records/
 * http://www.washingtonpost.com/news/morning-mix/wp/2014/08/14/tear-gas-is-a-chemical-weapon-banned-in-war-but-ferguson-police-shoot-it-at-protesters/
+* http://www.theguardian.com/us-news/2014/dec/14/john-crawford-girlfriend-questioned-walmart-police-shot-dead?CMP=share_btn_tw
 * http://seattletimes.com/html/localnews/2025176977_shepherdpunch1xml.html
 * http://seattletimes.com/html/nationworld/2024936090_apxfergusonnofly.html
 * http://www.salon.com/2014/10/20/swat_teams_brutal_murder_how_they_killed_an_innocent_man_on_his_childhood_driveway/
@@ -251,6 +254,10 @@
 
 @casio_juarez: Apply the "birthday paradox" to "bad apple" cops. Even if only 0.3% are bad, after encountering 23 cops you have > 50% chance
 
+@WesleyLowery: "every single child 13 or 14 years old sentenced to life without parole for a nonhomicide has been a person of color"
+
+@davewiner: In the United States everyone is entitled to the same protection under the law. This, in practice, has never been true.
+
 
 
 
@@ -279,3 +286,4 @@
 * http://mobile.nytimes.com/2014/11/08/opinion/pregnant-and-no-civil-rights.html
 * http://westleyargentum.github.io/112th-influence-vis/
 * http://america.aljazeera.com/opinions/2014/12/laffer-curve-taxcutshikeseconomics.html
+* http://www.psiru.org/reports/public-and-private-sector-efficiency

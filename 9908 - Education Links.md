@@ -377,6 +377,8 @@
 <li><a href="http://t.co/7s4t0A7Q" time_added="1351946800" tags="academia,hn">lynnlangit: One Man, One Computer, 10 Million Students: How Khan Academy Is</a></li>
 <li><a href="http://t.co/IWlxtLnsqO" time_added="1362079490" tags="academia">Carnegie Mellon: The MOOC-Averse Technology U. - insidehighered.com/news/20</a></li>
 
+* http://blog.mrmeyer.com/2014/what-students-do-and-dont-do-in-khan-academy/
+
 
 
 

@@ -88,6 +88,7 @@
 * http://www.vrg.org/blog/2013/03/14/why-so-many-food-label-disclaimers/
 * http://tryingadf.blogspot.com/2013/04/fasting-as-detox-debunked.html
 * http://www.yummly.com/
+* http://ajcn.nutrition.org/content/84/3/475.full.pdf
 * https://www.supertracker.usda.gov/default.aspx
 * http://www.slate.com/articles/health_and_science/science/2013/08/can_gmo_corn_cause_allergies_don_t_believe_elle_s_scary_story.single.html
 * http://sunlightfoundation.com/blog/2013/10/30/First_lady_enlists_muppets/
