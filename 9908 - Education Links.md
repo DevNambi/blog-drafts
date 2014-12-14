@@ -301,6 +301,7 @@
 * http://gowers.wordpress.com/2014/04/24/elsevier-journals-some-facts/
 * http://www.dcscience.net/2014/12/01/publish-and-perish-at-imperial-college-london-the-death-of-stefan-grimm/
 * http://lemire.me/blog/archives/2014/12/05/academia-as-an-anxiety-machine/
+* http://news.sciencemag.org/scientific-community/2014/12/study-massive-preprint-archive-hints-geography-plagiarism
 
 
 ### Mismeasurement, Incentives
