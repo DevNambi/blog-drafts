@@ -167,6 +167,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="https://techblog.livingsocial.com/blog/2014/04/02/working-from-home-heres-an-extra-shot-of-focus/" time_added="1396459454" tags="">Working from home? Here's an extra shot of focus</a></li>
 <li><a href="http://mattgemmell.com/working-from-home/" time_added="1399386923" tags="">Working from home</a></li>
 <li><a href="http://www.fastcoexist.com/1681241/the-future-of-work-quantified-employees-pop-up-workplaces-and-more-telepresence" time_added="1359092128" tags="">The Future of Work: Quantified Employees, Pop-Up Workplaces, And More Telep</a></li>
+<li><a href="http://hoppycow.com/2014/12/13/working-remotely-for-extroverts/" >working remotely for extroverts</a></li>
 </ul>
 
 

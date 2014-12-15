@@ -161,6 +161,7 @@
 * http://nbviewer.ipython.org/gist/fonnesbeck/ad091b81bffda28fd657
 * http://zeroviscosity.com/category/d3-js-step-by-step
 * http://metricsgraphicsjs.org/
+* http://nbviewer.ipython.org/gist/msund/11349097
 
 
 
@@ -479,6 +480,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://www.citusdata.com/blog/86-making-postgresql-scale-hadoop-style
 * https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems/
 * http://www.odbms.org/2014/11/strata-spark-tsunami-hadoop-world-part/
+* http://shop.oreilly.com/product/0636920035091.do
 * http://blogs.teradata.com/data-points/optimizing-disk-io-and-memory-for-big-data-vector-analysis/
 * http://www.slideshare.net/pacoid/tiny-batches-in-the-wine-shiny-new-bits-in-spark-streaming <- probabalistic data structures slide is handy
 * https://code.facebook.com/posts/382299771946304/audience-insights-query-engine-in-memory-integer-store-for-social-analytics-/
