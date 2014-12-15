@@ -208,6 +208,8 @@
 * http://www.theguardian.com/society/2014/oct/30/drug-laws-international-study-tough-policy-use-problem
 * http://www.latimes.com/world/mexico-americas/la-fg-mexico-american-deaths-20141101-story.html
 * http://www.economist.com/news/united-states/21599349-americas-police-have-become-too-militarised-cops-or-soldiers?fsrc=scn/tw/te/pe/copsorsoldiers
+* http://www.economist.com/news/leaders/21636033-united-states-needs-overhaul-its-law-enforcement-system-americas-police-trial
+* http://blogs.reuters.com/great-debate/2014/12/12/police-data-mining-looks-through-social-media-assigns-you-a-threat-level/
 * http://www.seattlepi.com/news/crime/article/No-charges-for-deputies-who-arrested-man-who-died-5863865.php
 * http://arstechnica.com/tech-policy/2014/12/cops-use-taser-on-woman-while-she-recorded-arrest-of-another-man/
 * https://news.vice.com/article/officer-involved-texas-cops-caught-on-dash-cam-saying-call-the-cops-they-cant-un-rape-you

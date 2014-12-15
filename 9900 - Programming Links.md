@@ -46,6 +46,7 @@
 * http://gael-varoquaux.info/programming/software-design-for-maintainability.html
 
 
+@joshuajames Posit: the failure of most "system thinking" is in thinking the system is like a machine rather than an ecology.
 
 
 ## Learning to Code
