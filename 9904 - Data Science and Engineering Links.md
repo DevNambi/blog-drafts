@@ -470,6 +470,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://patshaughnessy.net/2014/10/13/following-a-select-statement-through-postgres-internals
 * http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html
 * http://tachyon-project.org/
+* http://www.slideshare.net/cloudera/the-impala-cookbook-42530186
 * http://www.gallamine.com/2014/10/query-data-from-impala-on-amazon-emr.html
 * http://techcrunch.com/2014/10/20/crate-lets-developers-set-up-big-data-backends-in-minutes/
 * http://antirez.com/news/80
