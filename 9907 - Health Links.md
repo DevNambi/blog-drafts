@@ -236,6 +236,7 @@
 * https://medium.com/matter/confessions-of-a-mortician-7a8c061bbda3
 * http://alumni.stanford.edu/get/page/magazine/article/?article_id=53345
 * http://mywifesfightwithbreastcancer.com/
+* http://www.nytimes.com/2014/12/15/opinion/are-midwives-safer-than-doctors.html
 * http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0114003
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2013/04/28/if-this-was-a-pill-youd-do-anything-to-get-it
 * http://www.salon.com/2013/07/31/living_in_america_will_drive_you_insane_literally_partner/
