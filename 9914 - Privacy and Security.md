@@ -29,6 +29,7 @@
 
 
 * http://www.theatlantic.com/technology/archive/2014/09/why-privacy-policies-are-so-inscrutable/379615/
+* http://seattletimes.com/html/businesstechnology/2025244750_apxtecidentitytheftthehassle.html
 * http://techcrunch.com/2014/10/11/edward-snowden-new-yorker-festival/
 * https://www.kickstarter.com/projects/augustgermar/anonabox-a-tor-hardware-router
 * http://arstechnica.com/security/2014/10/whisper-cto-says-tracking-anonymous-users-not-a-big-deal-really/
