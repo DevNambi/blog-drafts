@@ -182,6 +182,8 @@
 
 
 * http://www.ajc.com/news/news/breaking-news/no-charges-for-officers-in-botched-drug-raid-that-/nhc2N/
+* http://vizual-statistix.tumblr.com/post/105282552911/the-recent-series-of-high-profile-killings-of
+* http://indiancountrytodaymedianetwork.com/2014/08/19/sd-police-say-tazing-8-year-old-native-girl-was-justified-family-sues-156464
 * http://www.utsandiego.com/news/2014/dec/12/police-unions-alleged-intimidation-arrest-reformer/
 * http://www.cnn.com/video/data/2.0/video/us/2014/12/12/dnt-asthma-death-dash-cam-video.wqow.html
 * http://www.bostonglobe.com/ideas/2014/10/18/vote-all-you-want-the-secret-government-won-change/jVSkXrENQlu8vNcBfMn9sL/story.html

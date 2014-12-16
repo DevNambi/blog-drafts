@@ -23,6 +23,8 @@ http://www.extremetech.com/computing/177945-how-big-business-builds-license-plat
 
 http://radar.oreilly.com/2014/03/the-creep-factor-how-to-think-about-big-data-and-privacy.html
 
+* http://flowingdata.com/2014/12/15/when-data-gets-creepy/
+
 http://krebsonsecurity.com/2014/03/experian-lapse-allowed-id-theft-service-to-access-200-million-consumer-records/
 
 http://gigaom.com/2014/03/13/with-data-brokers-selling-lists-of-alcoholics-to-big-business-the-feds-have-some-thinking-to-do/?utm_medium=referral&utm_source=pulsenews

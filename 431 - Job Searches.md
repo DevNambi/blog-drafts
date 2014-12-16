@@ -64,6 +64,8 @@ I've found various links with resources about job searching and resumes.
 * http://paddy.io/posts/recruiters/
 * http://dandreamsofcoding.wordpress.com/2012/11/19/why-wont-anyone-talk-to-me-what-recruiters-look-for-in-a-resume/
 
+@hmason: If everyone stopped paying recruiters the entire tech industry would probably gain years of productivity overnight.
+
 
 ## Interviewing
 
