@@ -85,6 +85,7 @@
 
 
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
+* http://www.truth-out.org/art/item/27999-thought-experiment
 * http://www.nakedcapitalism.com/2014/10/john-helmer-cia-bumbling-now.html
 * http://www.usatoday.com/story/nation/2014/10/31/suicide-deaths-us-military-war-study/18261185/
 * http://www.washingtonpost.com/wp-srv/special/national/cia-interrogation-report/word-count/ <- torture
