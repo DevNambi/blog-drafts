@@ -293,6 +293,7 @@
 * http://www.nytimes.com/2014/12/02/education/most-college-students-dont-earn-degree-in-4-years-study-finds.html
 * http://rhrealitycheck.org/article/2014/12/09/oregon-educators-strike-paid-leave-university-president-advocated-leave/
 * http://dealbook.nytimes.com/2014/12/17/law-school-enrollment-falls-to-lowest-level-since-1987/
+* http://chronicle.com/article/At-Top-Athletics-Programs/150917/
 
 
 
