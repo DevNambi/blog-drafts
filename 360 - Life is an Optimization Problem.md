@@ -6,6 +6,8 @@ Life is an optimization problem
 * Very few things are good if you have nothing of them.
 * There is dimishing returns everywhere.
 
+* https://nplusonemag.com/issue-21/the-intellectual-situation/too-fast-too-furious/
+
 ### Examples
 
 * Sleep

@@ -142,6 +142,7 @@
 * http://kaasplateau.com/stretches.pdf
 * http://www.nytimes.com/2014/10/22/opinion/only-two-rules-for-a-good-diet.html
 * http://www.nytimes.com/2014/10/26/opinion/sunday/the-problem-with-positive-thinking.html
+* http://well.blogs.nytimes.com/2014/12/17/how-exercise-changes-our-dna/?_r=0
 
 
 
@@ -249,6 +250,7 @@
 * http://www.nytimes.com/2014/10/28/world/africa/wish-to-do-more-in-ebola-fight-meets-reality-in-liberia.html?_r=0
 * http://seattletimes.com/html/localnews/2024939773_jdlcolumn03xml.html
 * http://seattletimes.com/html/nationworld/2025041126_apxebolaomahapatient.html
+* http://patch.com/california/berkeley/alzheimers-game-changer-scientists-find-changing-one-molecule-reverses-memory-loss
 * http://seattletimes.com/html/nationworld/2025045858_statinsalternativexml.html
 * http://www.ncbi.nlm.nih.gov/pubmed/25424517
 * http://www.technologyreview.com/featuredstory/532421/the-search-for-exceptional-genomes/
