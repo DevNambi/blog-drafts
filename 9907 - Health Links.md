@@ -396,6 +396,7 @@
 * http://well.blogs.nytimes.com/2014/11/20/that-medical-test-costs-50-or-is-it-500/
 * http://www.nytimes.com/2014/11/23/upshot/how-to-arrive-at-the-best-health-policies-.html
 * http://www.nytimes.com/2014/11/28/opinion/financial-incentives-in-health-care.html
+* http://seattletimes.com/html/localnews/2025265992_hospitalinfectionsxml.html
 
 
 By Zoe Keating:
