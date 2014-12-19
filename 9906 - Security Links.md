@@ -53,6 +53,7 @@ agreed, except o</a></li>
 * http://gizmodo.com/sony-pictures-hack-keeps-getting-worse-thousands-of-pa-1666761704 <- something security engineers should look for
 * http://arstechnica.com/security/2014/12/sites-certified-as-secure-often-morevulnerable-to-hacking-scientists-find/
 * http://robertheaton.com/2014/12/08/fun-with-your-friends-facebook-and-tinder-session-tokens/
+* http://www.troyhunt.com/2014/12/are-you-working-for-next-sony-pictures.html
 
 
 

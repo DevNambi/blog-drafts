@@ -57,6 +57,7 @@
 * http://www.nakedcapitalism.com/2014/11/bill-black-new-york-times-thinks-jailing-banksters-cause-bind.html
 * http://www.nakedcapitalism.com/2014/12/hedge-funds-closing-at-high-rates.html
 * http://www.economist.com/news/finance-and-economics/21635078-high-frequency-trading-might-reduce-liquidity-not-boost-it-its-defenders
+* http://www.nakedcapitalism.com/2014/12/bill-black-obama-holder-choose-banksters-whistleblowers.html
 
 
 

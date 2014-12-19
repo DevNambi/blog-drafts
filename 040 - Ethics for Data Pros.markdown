@@ -26,6 +26,7 @@ We believe we are working to make our society, our world, a better place. At the
 
 * http://mathbabe.org/2013/11/12/there-is-no-market-solution-for-ethics/
 * http://flowingdata.com/2014/12/15/when-data-gets-creepy/
+* http://nerd.kelseyinnis.com/blog/2014/12/19/your-job-is-political-tech-money-in-politics/
 * http://gigaom.com/2014/02/22/data-privacy-machine-learning-and-the-destruction-of-mysterious-humanity/
 * http://www.marketsforgood.org/the-lake-washington-declaration/
 * http://www.infoworld.com/article/2687499/techology-business/silicon-valley-is-making-american-manufacturing-more-competitive.html
