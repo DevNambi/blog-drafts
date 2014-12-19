@@ -115,3 +115,4 @@
 * http://pando.com/2014/11/26/how-comcast-and-hp-are-corrupting-elections-in-america/
 * http://www.foreignaffairs.com/articles/142497/james-bessen/the-anti-innovators
 * http://mashable.com/2014/12/03/history-of-reddit/
+* http://www.bbc.com/news/business-30532463
