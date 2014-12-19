@@ -85,6 +85,7 @@
 
 
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
+* http://www.theatlantic.com/international/archive/2014/12/america-28-billion-failure-in-pakistan-peshawar-attack-school/383919/
 * http://www.truth-out.org/art/item/27999-thought-experiment
 * http://www.nakedcapitalism.com/2014/10/john-helmer-cia-bumbling-now.html
 * http://www.usatoday.com/story/nation/2014/10/31/suicide-deaths-us-military-war-study/18261185/
@@ -206,6 +207,7 @@
 * http://www.insidebayarea.com/breaking-news/ci_26793090/warrant-chp-officer-says-stealing-nude-photos-from
 * http://www.wsaw.com/news/headlines/Attorney-Calls-Deputies-Response-to-Property-Seizure-Excessive-Lawsuit-Filed-280578482.html
 * http://www.huffingtonpost.com/homero-aridjis/mexico-missing-students_b_6062000.html
+* http://www.theatlantic.com/national/archive/2014/12/when-cops-dont-know-the-law/383861/
 * http://www.rollingstone.com/politics/news/the-police-in-america-are-becoming-illegitimate-20141205
 * http://www.washingtonpost.com/news/the-watch/wp/2014/10/29/surprise-controversial-patriot-act-power-now-overwhelmingly-used-in-drug-investigations/
 * http://www.theguardian.com/society/2014/oct/30/drug-laws-international-study-tough-policy-use-problem

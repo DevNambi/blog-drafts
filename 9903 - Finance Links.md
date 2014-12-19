@@ -102,6 +102,7 @@
 * http://www.vanityfair.com/online/wolcott/2014/11/down-and-out-in-d-c
 * http://www.nytimes.com/2014/12/02/opinion/david-brooks-class-prejudice-resurgent.html
 * http://www.washingtonpost.com/sf/business/2014/12/12/why-americas-middle-class-is-lost/
+* http://www.theatlantic.com/business/archive/2014/07/millennials-trends-housing/373892/
 
 
 
@@ -178,7 +179,7 @@
 * http://core-econ.org/
 * http://www.bloomberg.com/news/2014-11-16/norway-wealth-fund-outsmarts-flash-boys-as-algorithms-abandoned.html
 * http://www.futuresmag.com/2014/11/01/how-power-peg-brought-down-a-knight
-* http://dealbook.nytimes.com//2014/12/13/small-bank-in-kansas-is-a-financial-testing-ground/
+* http://dealbook.nytimes.com/2014/12/13/small-bank-in-kansas-is-a-financial-testing-ground/
 
 
 <li><a href="http://www.ecommercebytes.com/cab/abu/y201/m09/abu0047/s03" time_added="1354918107" tags="domestic,finance">Sniping Tools - Making Sure You Win the Auction</a></li>
