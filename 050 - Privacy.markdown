@@ -11,6 +11,9 @@ The time for laughing it off as a nutter conspiracy theory is over. What happene
 Each of us has a choice, and our choices matter.
 
 
+Google is like 2000s-era Microsoft. So pervasive it's impossible to get away. http://www.businessinsider.com/r-exclusive-google-aiming-to-go-straight-into-car-with-next-android---sources-2014-12
+
+
 * http://thomaslarock.com/2014/03/safe-data-theft/
 * http://www.fastcoexist.com/3027665/the-nsa-can-learn-all-your-secrets-from-your-phone-metadata
 * http://billmoyers.com/2014/03/13/tips-for-protecting-your-privacy-online/
@@ -19,3 +22,4 @@ Each of us has a choice, and our choices matter.
 * http://www.extremetech.com/internet/180485-the-ultimate-guide-to-staying-anonymous-and-protecting-your-privacy-online
 * http://blogs.computerworld.com/security/23805/michaels-finally-confirms-massive-pos-hack-aaron-bros-well
 * http://www.theguardian.com/world/2014/jun/07/stephen-fry-denounces-uk-government-edward-snowden-nsa-revelations
+* http://www.pewinternet.org/2014/12/18/other-resounding-themes/ <- "Privacy will become a luxury good"

@@ -72,6 +72,7 @@
 * https://medium.com/@robynscott/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98
 * http://www.studentpulse.com/articles/762/2/the-impact-of-listening-to-music-on-cognitive-performance
 * http://chadfowler.com/blog/2014/01/22/the-crunch-mode-antipattern/
+* https://medium.com/@cammipham/7-things-you-need-to-stop-doing-to-be-more-productive-backed-by-science-a988c17383a6
 
 
 
