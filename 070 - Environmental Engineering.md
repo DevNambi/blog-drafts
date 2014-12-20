@@ -93,6 +93,7 @@ Emphasize what we don't know
 * http://www.nytimes.com/2014/09/25/opinion/gail-collins-the-politics-of-climate-change.html
 * http://www.extremetech.com/extreme/191754-cold-fusion-reactor-verified-by-third-party-researchers-seems-to-have-1-million-times-the-energy-density-of-gasoline
 * http://arstechnica.com/science/2014/10/lovely-grub-are-insects-the-future-of-food/1/
+* http://www.washingtonpost.com/blogs/wonkblog/wp/2014/12/18/heres-the-grassroots-political-story-behind-the-new-york-fracking-ban/
 * http://arstechnica.com/science/2014/10/californias-most-productive-fisheries-the-offshore-oil-rigs/
 * http://recode.net/2014/12/11/harvards-david-keith-knows-how-to-dial-down-the-earths-thermostat-is-it-time-to-try/
 * http://www.newscientist.com/article/dn26379-pentagon-warns-the-us-military-of-climate-change.html

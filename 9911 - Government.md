@@ -89,6 +89,7 @@
 * http://www.truth-out.org/art/item/27999-thought-experiment
 * http://www.nakedcapitalism.com/2014/10/john-helmer-cia-bumbling-now.html
 * http://www.usatoday.com/story/nation/2014/10/31/suicide-deaths-us-military-war-study/18261185/
+* http://www.salon.com/2004/07/15/hersh_7/
 * http://www.washingtonpost.com/wp-srv/special/national/cia-interrogation-report/word-count/ <- torture
 * http://militaryprofessionalreadinglists.com/
 * http://www.computerworld.com/article/2834927/hackers-strike-defense-companies-through-real-time-ad-bidding.html
@@ -185,6 +186,7 @@
 
 * http://www.ajc.com/news/news/breaking-news/no-charges-for-officers-in-botched-drug-raid-that-/nhc2N/
 * http://vizual-statistix.tumblr.com/post/105282552911/the-recent-series-of-high-profile-killings-of
+* http://www.salon.com/2014/12/19/this_is_not_a_war_this_is_a_12_year_old_kid_shocking_video_shows_plainclothes_nypd_cop_punching_child/
 * http://abcnews.go.com/US/family-toddler-injured-swat-grenade-faces-1m-medical/story?id=27671521
 * http://indiancountrytodaymedianetwork.com/2014/08/19/sd-police-say-tazing-8-year-old-native-girl-was-justified-family-sues-156464
 * http://www.utsandiego.com/news/2014/dec/12/police-unions-alleged-intimidation-arrest-reformer/
@@ -195,6 +197,7 @@
 * http://www.cnn.com/2014/12/12/justice/cleveland-tamir-rice/index.html?sr=reddit
 * http://www.komonews.com/news/local/State-troopers-caught-ignoring-speeding-cops-278746621.html?mobile=y&clmob=y&c=n
 * http://www.huffingtonpost.com/mark-godsey/for-the-first-time-ever-a_b_4221000.html
+* http://www.rollingstone.com/politics/news/policing-is-a-dirty-job-but-nobodys-gotta-do-it-6-ideas-for-a-cop-free-world-20141216
 * http://www.washingtonpost.com/sf/investigative/2014/09/06/stop-and-seize/
 * http://arstechnica.com/tech-policy/2014/10/private-donors-supply-spy-gear-to-cops/
 * http://www.al.com/news/index.ssf/2014/10/gangrene_and_broken_bones_kill.html

@@ -104,6 +104,7 @@
 * http://evhead.com/2005/11/ten-rules-for-web-startups.asp?hn=true
 * http://www.technologyreview.com/qa/533096/a-feminist-critique-of-silicon-valley/
 * https://angel.co/salaries
+* http://seattletimes.com/html/businesstechnology/2025258312_agtechfuturexml.html
 
 
 

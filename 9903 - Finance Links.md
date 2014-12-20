@@ -10,6 +10,7 @@
 * http://mobile.nytimes.com/2014/10/19/world/asia/hong-kong-officials-offer-fresh-talks-with-protesters-.html
 * http://seattletimes.com/html/nationworld/2024816652_factoryfirexml.html
 * http://www.nytimes.com/2014/10/27/technology/using-cash-and-pressure-china-builds-its-chip-industry.html
+* http://www.nakedcapitalism.com/2014/12/michael-pettis-china-really-turning-away-dollar.html
 
 
 ## Europe

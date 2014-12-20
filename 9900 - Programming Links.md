@@ -26,6 +26,8 @@
 
 
 * http://erniepark.com/software/2014/08/20/10-practical-software-engineer-tips.html
+* http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html
+* http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/
 * http://mattgemmell.com/confessions-of-an-ex-developer/
 * http://www.whoismcafee.com/three-guys-walk-into-a-microwave/
 * https://www.cs.cmu.edu/~dga/papers/cuckoo-conext2014.pdf
