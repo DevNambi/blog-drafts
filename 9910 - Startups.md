@@ -115,7 +115,7 @@
 <li><a href="http://www.nytimes.com/2014/02/28/technology/copycat-business-model-generates-genuine-global-success-for-start-up-incubator.html?hpw&rref=technology" time_added="1393618176" tags="">Copycat Business Model Generates Genuine Global Success for Start-Up Incuba</a></li>
 <li><a href="http://www.sfgate.com/technology/businessinsider/article/This-Man-s-600-000-Facebook-Ad-Disaster-Is-A-5258472.php#page-2" time_added="1393193813" tags="">This Man's $600,000 Facebook Disaster Is A Warning For All Small Businesses</a></li>
 
-
+Too few companies try to shrink markets. The greatest form of disruption is taking a $100bn market, making it a $10bn, & taking 90% of that.
 
 
 

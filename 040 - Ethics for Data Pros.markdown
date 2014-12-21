@@ -33,6 +33,7 @@ We believe we are working to make our society, our world, a better place. At the
 * http://www.theglobeandmail.com/report-on-business/small-business/sb-growth/day-to-day/farms-factories-and-film-sets-startups-bring-big-data-to-inefficient-industries/article20574000/
 * http://blogs.scientificamerican.com/guest-blog/2014/12/12/forecasting-the-suns-fury-how-artificial-intelligence-can-predict-solar-flares/
 * http://www.datasociety.net/initiatives/council-for-big-data-ethics-and-society/
+* https://medium.com/@hannawallach/big-data-machine-learning-and-the-social-sciences-927a8e20460d <- brilliant!
 * https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de
 * http://techcrunch.com/2014/10/26/elon-musk-compares-building-artificial-intelligence-to-summoning-the-demon/
 * http://www.theatlantic.com/technology/archive/2014/10/rape-is-not-a-data-problem/381904/?single_page=true

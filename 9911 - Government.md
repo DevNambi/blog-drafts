@@ -85,6 +85,7 @@
 
 
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
+* https://firstlook.org/theintercept/2014/12/19/senior-cia-officer-center-torture-scandals-alfreda-bikowsky/
 * http://www.theatlantic.com/international/archive/2014/12/america-28-billion-failure-in-pakistan-peshawar-attack-school/383919/
 * http://www.truth-out.org/art/item/27999-thought-experiment
 * http://www.nakedcapitalism.com/2014/10/john-helmer-cia-bumbling-now.html
