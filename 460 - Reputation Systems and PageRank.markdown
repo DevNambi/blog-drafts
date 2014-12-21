@@ -11,3 +11,6 @@ Reputation
 * Data Science as a C-level position. Strategic decisions about data will be C-level decisions w/ a management chain
 
 ? Can you build data creativity as a muscle?
+
+
+** http://blogs.wsj.com/moneybeat/2014/12/19/buffett-reminds-his-top-managers-reputation-is-everything/

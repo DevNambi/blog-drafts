@@ -30,4 +30,5 @@ Go over core algorithms. Think about Peter Thiel's limitations of current softwa
 
 Vector computation - a panacea or not?
 
-http://www.extremetech.com/extreme/188776-how-l1-and-l2-cpu-caches-work-and-why-theyre-an-essential-part-of-modern-chips
+* http://www.extremetech.com/extreme/188776-how-l1-and-l2-cpu-caches-work-and-why-theyre-an-essential-part-of-modern-chips
+* http://igoro.com/archive/gallery-of-processor-cache-effects/

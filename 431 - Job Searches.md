@@ -198,6 +198,7 @@ Remote Team (& How We Do It)</a></li>
 <ul>
 <li><a href="http://brianstorms.com/2014/05/googles-so-called-diversity-makes-no-mention-of-age.html">Google's So-Called Diversity Makes No Mention of Age</a></li>
 <li><a href="https://medium.com/@dfeldman/discrimination-in-tech-runs-deep-f134420f0aef">Discrimination in Tech Runs Deep</a></li>
+<li><a href="http://anewdomain.net/2014/12/11/dont-hire-anyone-30-ageism-silicon-valley/">Don’t Hire Anyone Over 30: Ageism in Silicon Valley</a></li>
 </ul>
 
 **The 'STEM' shortage, and H1B Visas**
@@ -218,4 +219,10 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="http://fortune.com/2014/09/04/the-global-talent-crunch/">The global talent crunch</a></li>
 <li><a href="http://blog.alinelerner.com/why-talent-agents-for-engineers-dont-exist/">Why talent agents for engineers don’t exist</a></li>
 <li><a href="http://howtowriteabusinessplan.com/2012/12/engineering-salaries-at-silicon-valley-startups/" time_added="1354482705" tags="brand,hn">Engineering salaries at silicon valley startups</a></li>
+</ul>
+
+**Other**
+
+<ul>
+<li><a href="http://alexpotato.com/blog/why-switching-jobs-is-almost-always-a-good-idea/" >Why Switching Jobs is Almost Always a Good Idea</a></li>
 </ul>

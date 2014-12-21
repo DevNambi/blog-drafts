@@ -104,6 +104,7 @@
 * http://www.nytimes.com/2014/11/30/magazine/the-militarys-rough-justice-on-sexual-assault.html
 * http://www.bbc.com/news/world-middle-east-30269343
 * http://www.theguardian.com/world/2014/dec/11/-sp-isis-the-inside-story
+* https://wikileaks.org/cia-travel/
 
 
 
@@ -119,6 +120,7 @@
 * http://www.nytimes.com/2014/10/29/us/lobbyists-bearing-gifts-pursue-attorneys-general.html?_r=0
 * http://blogs.seattletimes.com/opinionnw/2014/11/14/yet-another-flashing-light-at-state-department-of-social-and-health-services/
 * http://seattletimes.com/html/editorials/2025020073_edit1351postelection14xml.html
+* http://www.chicagotribune.com/news/watchdog/redlight/ct-red-light-camera-safety-met-20141219-story.html#page=1
 
 
 
@@ -260,6 +262,7 @@
 * http://www.washingtonpost.com/opinions/eugene-robinson-its-a-crime-that-we-dont-know-how-many-people-police-shoot-to-death/2014/12/01/adedcb00-7998-11e4-b821-503cc7efed9e_story.html
 * https://privacysos.org/node/1609#update
 * http://www.slate.com/blogs/the_slatest/2014/12/06/cop_in_mesa_arizona_punches_15_year_old_girl_in_the_face.html
+* http://www.geekwire.com/2014/seattle-police-hackathon-substantial-first-step/
 
 
 @Papakila - Funny how the "broken window theory" of policing - punishing minor infractions severely - is never applied to the police themselves.

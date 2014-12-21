@@ -7,6 +7,7 @@ Life is an optimization problem
 * There is dimishing returns everywhere.
 
 * https://nplusonemag.com/issue-21/the-intellectual-situation/too-fast-too-furious/
+* http://www.kpcb.com/design/how-to-be-happy-in-business-by-bud-cadell
 
 ### Examples
 

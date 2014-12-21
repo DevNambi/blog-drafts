@@ -75,6 +75,7 @@
 * https://education.github.com/pack
 * http://www.karllhughes.com/2014/dev-bootcamp-program/
 * http://antirez.com/news/82
+* https://medium.com/the-truant-haruspex/end-user-computing-5367171478b7
 * http://kevgriffin.com/the-non-techie-guide-to-source-control/
 * http://www.bbc.com/news/technology-30054140
 * http://blog.freecodecamp.com/2014/11/a-cautionary-tale-of-learning-to-code.html
@@ -101,6 +102,7 @@
 * https://gigaom.com/2014/10/08/patent-trolling-pays-since-2010-trolls-have-made-3-times-as-much-money-in-court-as-real-companies/
 * http://michaelochurch.wordpress.com/2014/10/13/it-might-be-time-for-software-engineers-especially-in-silicon-valley-to-unionize/
 * http://blog.hut8labs.com/coding-fast-and-slow.html?reddit
+* http://www.higherorderlogic.com/2010/07/bad-code-isnt-technical-debt-its-an-unhedged-call-option/
 
 
 

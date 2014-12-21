@@ -42,6 +42,9 @@ agreed, except o</a></li>
 * https://medium.com/@thedanigrant/need-a-last-minute-flight-45af88ec8df3
 * http://arstechnica.com/security/2014/10/dozens-of-european-atms-rooted-allowing-criminals-to-easily-cash-out/
 * http://arstechnica.com/security/2014/10/nsas-core-secrets-suggests-agents-inside-firms-in-us-abroad/
+* http://www.threatconnect.com/news/operation-poisoned-helmand/
+* http://www.theguardian.com/commentisfree/2014/dec/21/sony-hacking-north-korea-cyber-security
+* http://www.billboard.com/articles/business/6413955/sony-security-kevin-mitnick-electronic-frontier
 * http://technet.microsoft.com/library/cc722487.aspx <- **Priceless**
 * https://casecurity.org/2014/11/18/the-cost-of-creating-collisions-using-sha-1/
 * http://arstechnica.com/tech-policy/2014/11/us-senate-falls-2-votes-short-of-shutting-down-nsa-phone-spying/
