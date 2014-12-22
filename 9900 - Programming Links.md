@@ -130,6 +130,7 @@
 
 * https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda?hn=1
 * https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96
+* http://blog.higher-order.com/blog/2014/12/21/maximally-powerful/
 
 
 

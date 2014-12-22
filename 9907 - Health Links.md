@@ -228,6 +228,7 @@
 * https://medium.com/backchannel/should-surgeons-keep-score-8b3f890a7d4c
 * http://www.medhistorian.com/2014/08/surgeons-at-war.html
 * http://www.huffingtonpost.com/2014/11/18/marijuana-brain-cancer_n_6181060.html
+* http://www.bloomberg.com/news/2014-12-15/huge-u-s-child-health-study-canceled-after-1-3-billion.html
 * http://mobile.nytimes.com/2014/09/21/us/drive-by-doctoring-surprise-medical-bills.html?_r=1
 * http://newoldage.blogs.nytimes.com/2014/09/24/study-links-anxiety-drugs-to-alzheimers-disease/
 * http://www.abc.net.au/news/2014-10-07/queensland-scientists-discover-cancer-fighting-berry/5796106
