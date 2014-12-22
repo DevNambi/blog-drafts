@@ -50,6 +50,8 @@
 
 @joshuajames Posit: the failure of most "system thinking" is in thinking the system is like a machine rather than an ecology.
 
+@dhh: “Coding isn’t the poor handmaiden of design or analysis. Coding is where your fuzzy ideas awaken in the harsh dawn of reality”
+
 
 ## Learning to Code
 

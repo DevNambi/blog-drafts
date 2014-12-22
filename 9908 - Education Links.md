@@ -296,6 +296,7 @@
 * http://rhrealitycheck.org/article/2014/12/09/oregon-educators-strike-paid-leave-university-president-advocated-leave/
 * http://dealbook.nytimes.com/2014/12/17/law-school-enrollment-falls-to-lowest-level-since-1987/
 * http://chronicle.com/article/At-Top-Athletics-Programs/150917/
+* https://www.insidehighered.com/news/2014/12/22/nlrb-ruling-shifts-legal-ground-faculty-unions-private-colleges
 
 
 

@@ -28,7 +28,8 @@ Only use active verbs.
 			□ Strunk and white has impeccable style
 	- "Write until you're absolutely in love with the work"
 
-http://seriouspony.com/blog/2013/10/4/presentation-skills-considered-harmful
+* http://seriouspony.com/blog/2013/10/4/presentation-skills-considered-harmful
+* http://www.bakadesuyo.com/2014/12/how-to-read-people/
 
 
 <li><a href="http://www.hilarymason.com/speaking/speaking-entertain-dont-teach/" time_added="1363582890" tags="brand">» Speaking: Entertain, Don’t Teach hilarymason.com</a></li>
