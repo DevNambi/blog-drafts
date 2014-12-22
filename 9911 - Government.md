@@ -105,6 +105,7 @@
 * http://www.bbc.com/news/world-middle-east-30269343
 * http://www.theguardian.com/world/2014/dec/11/-sp-isis-the-inside-story
 * https://wikileaks.org/cia-travel/
+* http://mobile.nytimes.com/2014/12/22/opinion/prosecute-torturers-and-their-bosses.html?referrer=&_r=0
 
 
 
