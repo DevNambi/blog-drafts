@@ -140,6 +140,7 @@ Interviews are one of the best times to find out about a company's culture, work
 <li><a href="http://www.theatlantic.com/international/archive/2014/04/sweden-the-new-laboratory-for-a-six-hour-work-day/360402/">Sweden: The New Laboratory for a Six-Hour Work Day</a></li>
 <li><a href="http://www.theonion.com/articles/laidback-company-allows-employees-to-work-from-hom,37358/">Laid-Back Company Allows Employees To Work From Home After 6 P.M.</a></li>
 <li><a href="http://www.minyanville.com/sectors/technology/articles/AMZN-AAPL-WMT-GOOG-MSFT-Amazon/10/10/2013/id/52177">Amazon's Stressed Out Culture Is Burning Out Employees</a></li>
+<li><a href="http://www.theatlantic.com/business/archive/2014/12/which-jobs-have-the-highest-rate-of-depression/383947/">Which Jobs Have the Highest Rates of Depression?</a></li>
 </ul>
 
 
