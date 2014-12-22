@@ -385,6 +385,7 @@
 * https://www.youtube.com/watch?v=S75EdAcXHKk
 * http://erikbern.com/?p=841
 * http://www.wired.com/2014/12/new-startup-sets-bring-google-style-ai-masses/
+* http://techtv.mit.edu/collections/bcs/videos/30698-what-s-wrong-with-convolutional-nets
 
 
 

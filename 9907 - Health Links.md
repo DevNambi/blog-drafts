@@ -525,6 +525,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://www.slate.com/blogs/bad_astronomy/2012/12/04/congress_hearing_on_vaccines_is_a_farce_of_dangerous_antivax_nonsense.html
 * http://pando.com/2013/05/04/screw-you-papa-john-i-dont-understand-american-healthcare-but-thats-no-excuse/
 * http://seattletimes.com/html/nationworld/2025023705_apxhealthoverhaulcontraceptives.html
+* http://www.huffingtonpost.com/2014/12/22/erdogan-birth-control-treason_n_6366446.html
 
 
 

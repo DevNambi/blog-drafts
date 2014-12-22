@@ -48,6 +48,7 @@ agreed, except o</a></li>
 * http://www.billboard.com/articles/business/6413955/sony-security-kevin-mitnick-electronic-frontier
 * http://technet.microsoft.com/library/cc722487.aspx <- **Priceless**
 * https://casecurity.org/2014/11/18/the-cost-of-creating-collisions-using-sha-1/
+* http://np.reddit.com/r/worldnews/comments/2puo8h/bittorrent_offers_distribute_sonys_the_interview/cn0ksh7
 * http://arstechnica.com/tech-policy/2014/11/us-senate-falls-2-votes-short-of-shutting-down-nsa-phone-spying/
 * http://arstechnica.com/security/2014/11/nonprofit-effort-aims-to-encrypt-the-web/
 * http://www.nytimes.com/2014/12/02/technology/hackers-target-biotech-companies.html?_r=0

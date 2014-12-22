@@ -273,6 +273,8 @@
 * http://blogs.hbr.org/2014/04/why-your-analytics-are-failing-you/
 * http://anothersb.blogspot.com/2014/04/dear-academia-i-loved-you-but-im.html?m=1
 * http://www.bloomberg.com/news/2014-04-14/small-u-s-colleges-battle-death-spiral-as-enrollment-drops.html
+* http://www.washingtonpost.com/posteverything/wp/2014/12/22/id-like-to-take-this-opportunity-to-triple-dog-dare-peter-thiel/
+* http://avc.com/2014/12/finding-roi-in-higher-education/
 * http://online.wsj.com/article/PR-CO-20140612-906571.html
 * http://www.nytimes.com/2014/10/20/upshot/where-young-college-graduates-are-choosing-to-live.html?abt=0002&abg=1
 * http://www.theatlantic.com/education/archive/2014/10/does-england-have-the-solution-to-the-grade-inflation-problem/381571/
