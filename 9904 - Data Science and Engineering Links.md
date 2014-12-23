@@ -23,6 +23,7 @@
 * http://districtdatalabs.silvrback.com/simple-csv-data-wrangling-with-python
 * http://www.johndcook.com/blog/r_language_for_programmers/
 * https://www.youtube.com/user/PyDataTV
+* http://orgtheory.wordpress.com/2014/12/23/what-programming-tools-should-computational-sociologists-know/
 
 
 

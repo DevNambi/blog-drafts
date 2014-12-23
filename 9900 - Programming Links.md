@@ -153,6 +153,7 @@
 
 * http://www.oliverlehmann.com/project-management-sources/Nasa-Hundred-Rules-for-Project-Managers.pdf
 * http://www.arguingwithalgorithms.com/posts/14-12-02-architecture-reviews
+* http://stilldrinking.org/programming-sucks
 
 
 
