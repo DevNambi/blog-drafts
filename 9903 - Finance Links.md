@@ -59,6 +59,7 @@
 * http://www.nakedcapitalism.com/2014/12/hedge-funds-closing-at-high-rates.html
 * http://www.economist.com/news/finance-and-economics/21635078-high-frequency-trading-might-reduce-liquidity-not-boost-it-its-defenders
 * http://www.nakedcapitalism.com/2014/12/bill-black-obama-holder-choose-banksters-whistleblowers.html
+* http://www.nakedcapitalism.com/2014/12/new-yorks-benjamin-lawsky-forces-resignation-ceo-mortgage-servicer-ocwen-wrongful-foreclosures-shoddy-records-systems.html <- when regulators do their job
 
 
 
@@ -172,6 +173,7 @@
 * http://www.nakedcapitalism.com/2014/10/fed-needs-stop-asset-acquisitions-generation.html
 * http://visadoor.com/h1bvisa-database
 * http://mobile.nytimes.com/2014/11/16/opinion/sunday/warning-signs-from-commodity-prices.html
+* http://www.nakedcapitalism.com/2014/12/saudis-tell-shale-industry-will-break-plans-keep-pumping-even-20-barrel.html
 
 ## Misc
 
