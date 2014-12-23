@@ -329,6 +329,7 @@
 * http://www.rollingstone.com/culture/features/a-rape-on-campus-20141119?page=2
 * https://www.insidehighered.com/news/2014/11/25/eckerd-president-criticized-his-advice-students-how-avoid-rape
 * http://www.nytimes.com/2014/12/03/us/magazines-account-of-gang-rape-on-virginia-campus-comes-under-scrutiny.html
+* http://www.nytimes.com/2014/12/22/nyregion/accusers-and-the-accused-crossing-paths-at-columbia.html?_r=0 <- wow that's complicated. Also makes people uneasy.
 
 
 ### Finance, Debt
