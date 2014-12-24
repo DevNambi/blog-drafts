@@ -387,6 +387,7 @@
 * http://erikbern.com/?p=841
 * http://www.wired.com/2014/12/new-startup-sets-bring-google-style-ai-masses/
 * http://techtv.mit.edu/collections/bcs/videos/30698-what-s-wrong-with-convolutional-nets
+* http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/
 
 
 
@@ -491,6 +492,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * https://code.facebook.com/posts/1499322996995183/solving-the-mystery-of-link-imbalance-a-metastable-failure-state-at-scale/
 * http://www.michael-noll.com/blog/2014/10/01/kafka-spark-streaming-integration-example-tutorial/
 * http://www.slideshare.net/pacoid/tiny-batches-in-the-wine-shiny-new-bits-in-spark-streaming
+* http://deepdive.stanford.edu/ <- AMAZING
 
 
 

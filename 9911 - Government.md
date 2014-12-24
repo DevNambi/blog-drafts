@@ -305,3 +305,4 @@
 * http://westleyargentum.github.io/112th-influence-vis/
 * http://america.aljazeera.com/opinions/2014/12/laffer-curve-taxcutshikeseconomics.html
 * http://www.psiru.org/reports/public-and-private-sector-efficiency
+* http://www.latimes.com/business/hiltzik/la-fi-mh-erode-the-credibility-of-budget-estimates-20141222-column.html
