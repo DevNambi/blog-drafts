@@ -59,6 +59,7 @@ agreed, except o</a></li>
 * http://arstechnica.com/security/2014/12/sites-certified-as-secure-often-morevulnerable-to-hacking-scientists-find/
 * http://robertheaton.com/2014/12/08/fun-with-your-friends-facebook-and-tinder-session-tokens/
 * http://www.troyhunt.com/2014/12/are-you-working-for-next-sony-pictures.html
+* https://crackstation.net/hashing-security.htm#
 
 
 
