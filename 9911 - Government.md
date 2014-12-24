@@ -192,6 +192,7 @@
 * http://vizual-statistix.tumblr.com/post/105282552911/the-recent-series-of-high-profile-killings-of
 * http://www.salon.com/2014/12/19/this_is_not_a_war_this_is_a_12_year_old_kid_shocking_video_shows_plainclothes_nypd_cop_punching_child/
 * http://abcnews.go.com/US/family-toddler-injured-swat-grenade-faces-1m-medical/story?id=27671521
+* http://www.reuters.com/article/2014/12/23/us-usa-police-nypd-race-insight-idUSKBN0K11EV20141223
 * http://indiancountrytodaymedianetwork.com/2014/08/19/sd-police-say-tazing-8-year-old-native-girl-was-justified-family-sues-156464
 * http://www.utsandiego.com/news/2014/dec/12/police-unions-alleged-intimidation-arrest-reformer/
 * http://www.cnn.com/video/data/2.0/video/us/2014/12/12/dnt-asthma-death-dash-cam-video.wqow.html
