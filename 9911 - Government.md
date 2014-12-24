@@ -204,6 +204,7 @@
 * http://www.komonews.com/news/local/State-troopers-caught-ignoring-speeding-cops-278746621.html?mobile=y&clmob=y&c=n
 * http://www.huffingtonpost.com/mark-godsey/for-the-first-time-ever-a_b_4221000.html
 * http://www.rollingstone.com/politics/news/policing-is-a-dirty-job-but-nobodys-gotta-do-it-6-ideas-for-a-cop-free-world-20141216
+* https://worxintheory.wordpress.com/2014/12/07/origins-of-the-police/
 * http://www.washingtonpost.com/sf/investigative/2014/09/06/stop-and-seize/
 * http://arstechnica.com/tech-policy/2014/10/private-donors-supply-spy-gear-to-cops/
 * http://www.al.com/news/index.ssf/2014/10/gangrene_and_broken_bones_kill.html

@@ -106,6 +106,7 @@
 * http://www.nytimes.com/2014/12/02/opinion/david-brooks-class-prejudice-resurgent.html
 * http://www.washingtonpost.com/sf/business/2014/12/12/why-americas-middle-class-is-lost/
 * http://www.theatlantic.com/business/archive/2014/07/millennials-trends-housing/373892/
+* http://www.huffingtonpost.ca/2014/12/23/mincome-in-dauphin-manitoba_n_6335682.html
 
 
 
@@ -174,6 +175,7 @@
 * http://visadoor.com/h1bvisa-database
 * http://mobile.nytimes.com/2014/11/16/opinion/sunday/warning-signs-from-commodity-prices.html
 * http://www.nakedcapitalism.com/2014/12/saudis-tell-shale-industry-will-break-plans-keep-pumping-even-20-barrel.html
+* http://www.theguardian.com/environment/earth-insight/2014/mar/14/nasa-civilisation-irreversible-collapse-study-scientists
 
 ## Misc
 

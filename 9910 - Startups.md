@@ -106,6 +106,7 @@
 * http://www.technologyreview.com/qa/533096/a-feminist-critique-of-silicon-valley/
 * https://angel.co/salaries
 * http://seattletimes.com/html/businesstechnology/2025258312_agtechfuturexml.html
+* http://www.theatlantic.com/business/archive/2014/12/how-to-create-a-tech-start-up-scene-if-youre-not-in-silicon-valley/384024/?single_page=true
 
 
 
