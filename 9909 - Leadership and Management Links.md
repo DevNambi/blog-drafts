@@ -21,6 +21,7 @@
 * http://www.businessweek.com/stories/2005-02-20/the-inside-story-of-carlys-ouster
 * http://www.paperplanes.de/2014/12/10/from-open-to-minimum-vacation-policy.html
 * http://www.nytimes.com/2014/12/21/magazine/what-happened-when-marissa-mayer-tried-to-be-steve-jobs.html?_r=1
+* http://www.reddit.com/r/AskReddit/comments/2q9yb7/what_is_the_most_evil_thing_your_company_didis/
 
 
 <li><a href="http://lifehacker.com/5936493/want-to-be-a-great-leader-start-reading" time_added="1348860619" tags="hn">Want to Be a Great Leader? Start Reading</a></li>
