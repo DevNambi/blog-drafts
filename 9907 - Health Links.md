@@ -248,6 +248,7 @@
 * http://www.cbsnews.com/videos/good-gut-bacteria-can-help-with-controlling-weight-inflammation/
 * http://www.plospathogens.org/article/info%3Adoi%2F10.1371%2Fjournal.ppat.1003587
 * http://www.businessweek.com/articles/2014-12-04/dna-sequencing-craig-venter-says-genomic-era-is-just-starting
+* http://time.com/3643841/medicine-gets-personal/
 * http://arstechnica.com/tech-policy/2014/10/feds-examining-medical-devices-for-fatal-cybersecurity-flaws/
 * http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html
 * http://www.nytimes.com/2014/10/28/world/africa/wish-to-do-more-in-ebola-fight-meets-reality-in-liberia.html?_r=0
@@ -402,6 +403,7 @@
 * http://www.nytimes.com/2014/11/23/upshot/how-to-arrive-at-the-best-health-policies-.html
 * http://www.nytimes.com/2014/11/28/opinion/financial-incentives-in-health-care.html
 * http://seattletimes.com/html/localnews/2025265992_hospitalinfectionsxml.html
+* http://www.nytimes.com/2014/12/16/health/the-odd-math-of-medical-tests-one-echocardiogram-two-prices-both-high.html
 
 
 By Zoe Keating:
