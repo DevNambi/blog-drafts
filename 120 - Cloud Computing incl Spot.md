@@ -17,6 +17,7 @@ Compression and network latency
 * http://www.slideshare.net/whiskybar/aws-ec2
 * http://www.salon.com/2014/11/13/amazons_dirty_energy_problem_is_about_to_get_even_worse/
 * http://www.theregister.co.uk/2014/11/10/kryders_law_of_ever_cheaper_storage_disproven/?mt=1415981641453
+* http://www.infoworld.com/article/2610403/cloud-computing/ultimate-cloud-speed-tests--amazon-vs--google-vs--windows-azure.html?page=4
 
 
 **How to pay for it?**
