@@ -244,6 +244,7 @@
 * http://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
 * http://appliedpredictivemodeling.com/blog/2014/11/27/vpuig01pqbklmi72b8lcl3ij5hj2qm <- great look at cross-validation.
 * https://medium.com/the-physics-arxiv-blog/cause-and-effect-the-revolutionary-new-statistical-test-that-can-tease-them-apart-ed84a988e <- causal inference
+* http://www.evanmiller.org/how-not-to-run-an-ab-test.html
 
 
 
