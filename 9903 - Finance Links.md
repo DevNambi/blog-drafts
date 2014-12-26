@@ -60,6 +60,7 @@
 * http://www.economist.com/news/finance-and-economics/21635078-high-frequency-trading-might-reduce-liquidity-not-boost-it-its-defenders
 * http://www.nakedcapitalism.com/2014/12/bill-black-obama-holder-choose-banksters-whistleblowers.html
 * http://www.nakedcapitalism.com/2014/12/new-yorks-benjamin-lawsky-forces-resignation-ceo-mortgage-servicer-ocwen-wrongful-foreclosures-shoddy-records-systems.html <- when regulators do their job
+* http://mobile.nytimes.com/blogs/dealbook/2014/12/25/unsolved-shooting-accentuates-problems-at-doral-one-of-puerto-ricos-biggest-lenders/
 
 
 

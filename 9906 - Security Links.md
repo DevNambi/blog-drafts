@@ -61,6 +61,7 @@ agreed, except o</a></li>
 * http://www.troyhunt.com/2014/12/are-you-working-for-next-sony-pictures.html
 * https://crackstation.net/hashing-security.htm
 * https://www.schneier.com/blog/archives/2014/12/did_north_korea.html
+* http://bits.blogs.nytimes.com/2014/12/24/new-study-adds-to-skepticism-among-security-experts-that-north-korea-was-behind-sony-hack/
 
 
 

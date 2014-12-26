@@ -88,6 +88,7 @@
 * http://www.vrg.org/blog/2013/03/14/why-so-many-food-label-disclaimers/
 * http://tryingadf.blogspot.com/2013/04/fasting-as-detox-debunked.html
 * http://www.yummly.com/
+* http://blog.longreads.com/2014/09/28/the-honey-hunters/
 * http://ajcn.nutrition.org/content/84/3/475.full.pdf
 * https://www.supertracker.usda.gov/default.aspx
 * http://www.slate.com/articles/health_and_science/science/2013/08/can_gmo_corn_cause_allergies_don_t_believe_elle_s_scary_story.single.html
@@ -240,6 +241,7 @@
 * https://medium.com/matter/confessions-of-a-mortician-7a8c061bbda3
 * http://alumni.stanford.edu/get/page/magazine/article/?article_id=53345
 * http://mywifesfightwithbreastcancer.com/
+* http://arstechnica.com/science/2014/12/when-the-doctors-away-the-patient-is-more-likely-to-survive/
 * http://www.nytimes.com/2014/12/15/opinion/are-midwives-safer-than-doctors.html
 * http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0114003
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2013/04/28/if-this-was-a-pill-youd-do-anything-to-get-it
