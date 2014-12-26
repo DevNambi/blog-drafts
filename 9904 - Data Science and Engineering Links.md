@@ -45,6 +45,7 @@
 
 * https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging-in-json/ 
 * http://arstechnica.com/business/2014/10/googles-product-strategy-make-two-of-everything/
+* http://motherboard.vice.com/read/how-bad-software-leads-to-bad-science
 
 
 ### Open Data
@@ -243,6 +244,7 @@
 * http://www.wired.com/2014/10/tracy-widom-mysterious-statistical-law/
 * http://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
 * http://appliedpredictivemodeling.com/blog/2014/11/27/vpuig01pqbklmi72b8lcl3ij5hj2qm <- great look at cross-validation.
+* http://andrewgelman.com/2014/12/25/common-sense-statistics/
 * https://medium.com/the-physics-arxiv-blog/cause-and-effect-the-revolutionary-new-statistical-test-that-can-tease-them-apart-ed84a988e <- causal inference
 * http://www.evanmiller.org/how-not-to-run-an-ab-test.html
 
