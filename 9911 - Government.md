@@ -28,6 +28,7 @@
 * https://www.eff.org/deeplinks/2014/11/unsealed-filing-shows-doj-misled-appeals-court-about-national-security-letter-gag
 * http://www.rollingstone.com/politics/news/afghanistan-the-making-of-a-narco-state-20141204
 * https://firstlook.org/theintercept/2014/12/07/release-six-detainees-12-years-highlights-historic-evil-guantanamo/
+* https://www.nsa.gov/public_info/declass/IntelligenceOversightBoard.shtml <- released on Christmas Eve, a classic 'don't look here' sign
 
 
 <li><a href="https://firstlook.org/theintercept/2014/02/14/ongoing-abuse-state-secrets-privilege/" time_added="1392591442" tags="">Obama DOJ's New Abuse of State-Secrets Privilege Revealed - The Intercept</a></li>
@@ -123,6 +124,7 @@
 * http://blogs.seattletimes.com/opinionnw/2014/11/14/yet-another-flashing-light-at-state-department-of-social-and-health-services/
 * http://seattletimes.com/html/editorials/2025020073_edit1351postelection14xml.html
 * http://www.chicagotribune.com/news/watchdog/redlight/ct-red-light-camera-safety-met-20141219-story.html#page=1
+* http://www.thedailybeast.com/articles/2014/12/26/newest-u-s-stealth-fighter-10-years-behind-older-jets.html
 
 
 
