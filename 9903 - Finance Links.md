@@ -23,6 +23,7 @@
 * http://www.nytimes.com/2014/10/28/opinion/londons-housing-boom.html
 * http://www.nytimes.com/2014/11/27/business/international/france-has-second-thoughts-on-its-35-hour-workweek.html?_r=0
 * http://www.bbc.com/news/business-30310832
+* http://www.nakedcapitalism.com/2014/12/greece-eurozones-rescue-troika-forgive-greeces-debt.html
 
 
 ## Elsewhere in the World
@@ -61,6 +62,9 @@
 * http://www.nakedcapitalism.com/2014/12/bill-black-obama-holder-choose-banksters-whistleblowers.html
 * http://www.nakedcapitalism.com/2014/12/new-yorks-benjamin-lawsky-forces-resignation-ceo-mortgage-servicer-ocwen-wrongful-foreclosures-shoddy-records-systems.html <- when regulators do their job
 * http://mobile.nytimes.com/blogs/dealbook/2014/12/25/unsolved-shooting-accentuates-problems-at-doral-one-of-puerto-ricos-biggest-lenders/
+* http://www.nakedcapitalism.com/2014/12/stephen-roach-takes-the-fed-to-the-woodshed.html
+* http://www.nakedcapitalism.com/2014/12/summer-rerun-exactly-lehmans-130-billion-go.html
+* http://www.nakedcapitalism.com/2014/12/airing-grievances.html
 
 
 
