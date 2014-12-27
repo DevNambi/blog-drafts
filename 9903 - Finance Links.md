@@ -24,6 +24,7 @@
 * http://www.nytimes.com/2014/11/27/business/international/france-has-second-thoughts-on-its-35-hour-workweek.html?_r=0
 * http://www.bbc.com/news/business-30310832
 * http://www.nakedcapitalism.com/2014/12/greece-eurozones-rescue-troika-forgive-greeces-debt.html
+* http://www.nytimes.com/2014/12/27/world/even-loyalty-no-guarantee-against-putin.html <- might makes right. But now it's at the hands of a check and not a gun.
 
 
 ## Elsewhere in the World
