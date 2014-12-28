@@ -38,6 +38,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * https://medium.com/@jayslacks/conservatives-arent-racist-its-worse-d73fc7ab95ea
 * https://medium.com/@3fingeredfox/margaret-hamilton-lead-software-engineer-project-apollo-158754170da8
 * http://www.theguardian.com/lifeandstyle/2014/dec/17/the-woman-in-10-hours-walking-in-nyc-i-got-people-wanting-to-slit-my-throat
+* http://www.newyorker.com/magazine/2015/01/05/southern-honeymoon
 
 
 
