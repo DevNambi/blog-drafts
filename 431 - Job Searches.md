@@ -212,6 +212,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="http://www.huffingtonpost.com/2014/11/25/tech-worker-shortage-low-pay_n_6218444.html">Solving The Tech Worker 'Shortage' Is Easy: Just Pay Them More</a></li>
 <li><a href="https://modelviewculture.com/pieces/manufacturing-the-talent-shortage">Manufacturing the Talent Shortage</a></li>
 <li><a href="http://www.computerworld.com/article/2852250/silicon-valleys-h-1b-immigration-position-has-some-holes.html">Silicon Valley's H-1B immigration position has some holes</a></li>
+<li><a href="http://cs.stanford.edu/people/eroberts/cs201/projects/the-programmer-shortage/">The Programmer Shortage - a comprehensive overview</a></li>
 </ul>
 
 

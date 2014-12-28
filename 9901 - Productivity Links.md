@@ -51,6 +51,7 @@
 * http://www.newyorker.com/tech/elements/walking-helps-us-think
 * http://www.acuriousmix.com/2014/09/03/designing-a-personal-knowledgebase/
 * http://parenting.blogs.nytimes.com/2014/10/16/want-to-ace-that-test-get-the-right-kind-of-sleep/
+* http://time.com/3554741/bad-habits-mental-health/
 * http://blogs.hbr.org/2012/09/to-succeed-forget-self-esteem/
 * http://www.hanselman.com/blog/ImAPhonyAreYou.aspx
 * http://teddy.fr/2013/02/10/about-not-owning-shit/
