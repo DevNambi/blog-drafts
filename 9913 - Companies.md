@@ -106,6 +106,7 @@
 ## Airlines
 
 * http://www.newyorker.com/business/currency/leaving-united-airlines-after-merger
+* http://www.newyorker.com/business/currency/airlines-want-you-to-suffer
 
 
 ## Misc
