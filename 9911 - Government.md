@@ -110,6 +110,8 @@
 * https://wikileaks.org/cia-travel/
 * http://mobile.nytimes.com/2014/12/22/opinion/prosecute-torturers-and-their-bosses.html
 * http://mobile.nytimes.com/2014/12/26/us/politics/high-level-knowledge-before-veterans-affairs-scandal.html?_r=0
+* http://www.theatlantic.com/features/archive/2014/12/the-tragedy-of-the-american-military/383516/
+* http://www.laphamsquarterly.org/foreigners/enemy-aliens
 
 
 

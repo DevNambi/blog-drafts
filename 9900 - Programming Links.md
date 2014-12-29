@@ -46,6 +46,7 @@
 * http://blog.memsql.com/cache-is-the-new-ram/ \
 * http://www.datagenetics.com/blog/november32014/index.html
 * http://gael-varoquaux.info/programming/software-design-for-maintainability.html
+* https://github.com/prakhar1989/awesome-courses/blob/master/README.md
 
 
 @joshuajames Posit: the failure of most "system thinking" is in thinking the system is like a machine rather than an ecology.
@@ -84,6 +85,7 @@
 * http://www.sorting-algorithms.com/nearly-sorted-initial-order
 * http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt
 * http://www.codeup.com/can-a-simple-algebra-test-predict-programming-aptitude/
+* https://github.com/prakhar1989/awesome-courses/blob/master/README.md <- AMAZING
 
 
 
