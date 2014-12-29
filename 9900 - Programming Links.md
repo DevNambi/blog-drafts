@@ -160,6 +160,7 @@
 * http://www.arguingwithalgorithms.com/posts/14-12-02-architecture-reviews
 * http://stilldrinking.org/programming-sucks
 * http://research.gigaom.com/2014/07/part-1-what-makes-teams-successful/
+* http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/
 
 
 
