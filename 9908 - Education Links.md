@@ -76,6 +76,7 @@
 * http://sploid.gizmodo.com/the-most-amazing-and-inspiring-vision-of-our-future-ive-1664783812
 * http://www.nytimes.com/2014/12/03/us/middle-class-pay-elusive-for-teachers-report-says.html
 * http://boingboing.net/2014/12/03/in-wayzata-minnesota-a-schoo.html
+* http://www.salon.com/2013/06/03/instead_of_a_war_on_teachers_how_about_one_on_poverty/
 
 
 
