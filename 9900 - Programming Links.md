@@ -26,6 +26,7 @@
 
 
 * http://erniepark.com/software/2014/08/20/10-practical-software-engineer-tips.html
+* http://blog.fogus.me/2014/12/29/the-best-things-and-stuff-of-2014/
 * http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html
 * http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/
 * http://mattgemmell.com/confessions-of-an-ex-developer/
@@ -86,6 +87,8 @@
 * http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt
 * http://www.codeup.com/can-a-simple-algebra-test-predict-programming-aptitude/
 * https://github.com/prakhar1989/awesome-courses/blob/master/README.md <- AMAZING
+* http://www.shubhro.com/2014/12/27/software-engineers-should-write/
+
 
 
 

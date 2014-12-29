@@ -472,6 +472,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://tech.adroll.com/blog/data/2013/07/10/hll-minhash.html
 * http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html
 * http://www.slideshare.net/deanwampler/spark-the-next-top-compute-model-39976454
+* http://harry.me/blog/2014/12/27/neat-algorithms-paxos/
 * http://techblog.netflix.com/2014/10/using-presto-in-our-big-data-platform.html
 * http://databricks.com/blog/2014/10/10/spark-breaks-previous-large-scale-sort-record.html
 * http://patshaughnessy.net/2014/10/13/following-a-select-statement-through-postgres-internals

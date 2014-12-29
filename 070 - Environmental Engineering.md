@@ -96,6 +96,7 @@ Emphasize what we don't know
 * http://arstechnica.com/science/2014/10/lovely-grub-are-insects-the-future-of-food/1/
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2014/12/18/heres-the-grassroots-political-story-behind-the-new-york-fracking-ban/
 * http://arstechnica.com/science/2014/10/californias-most-productive-fisheries-the-offshore-oil-rigs/
+* http://arstechnica.com/science/2014/12/pope-to-push-for-action-on-climate-change/
 * http://recode.net/2014/12/11/harvards-david-keith-knows-how-to-dial-down-the-earths-thermostat-is-it-time-to-try/
 * http://www.newscientist.com/article/dn26379-pentagon-warns-the-us-military-of-climate-change.html
 * http://www.nytimes.com/2014/10/15/business/economy/the-price-of-water-is-too-low.html?_r=0

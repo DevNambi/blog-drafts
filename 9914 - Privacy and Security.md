@@ -34,6 +34,8 @@
 * https://www.kickstarter.com/projects/augustgermar/anonabox-a-tor-hardware-router
 * http://arstechnica.com/security/2014/10/whisper-cto-says-tracking-anonymous-users-not-a-big-deal-really/
 * http://www.nytimes.com/2014/10/17/opinion/the-dark-market-for-personal-data.html
+* http://techcrunch.com/2014/12/28/mining-the-hive-mind/
+* https://medium.com/backchannel/who-is-watching-you-7296eeb036c1
 * http://www.theguardian.com/media/2014/oct/17/-sp-whisper-tracking-location-users-facts-response
 * http://media.ccc.de/browse/congress/2014/31c3_-_6258_-_en_-_saal_1_-_201412282030_-_reconstructing_narratives_-_jacob_-_laura_poitras.html#video
 * http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html
