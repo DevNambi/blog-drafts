@@ -203,6 +203,8 @@
 * http://www.reuters.com/article/2014/12/23/us-usa-police-nypd-race-insight-idUSKBN0K11EV20141223
 * http://indiancountrytodaymedianetwork.com/2014/08/19/sd-police-say-tazing-8-year-old-native-girl-was-justified-family-sues-156464
 * http://www.utsandiego.com/news/2014/dec/12/police-unions-alleged-intimidation-arrest-reformer/
+* http://reason.com/blog/2014/12/29/police-informer-says-his-lies-killed-a-h
+* http://www.lawofficer.com/article/leadership/thick-blue-wall
 * http://www.cnn.com/video/data/2.0/video/us/2014/12/12/dnt-asthma-death-dash-cam-video.wqow.html
 * http://www.bostonglobe.com/ideas/2014/10/18/vote-all-you-want-the-secret-government-won-change/jVSkXrENQlu8vNcBfMn9sL/story.html
 * http://thinkprogress.org/justice/2014/12/12/3601771/people-police-killed-in-2014/
