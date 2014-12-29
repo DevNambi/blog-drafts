@@ -35,6 +35,7 @@
 * http://arstechnica.com/security/2014/10/whisper-cto-says-tracking-anonymous-users-not-a-big-deal-really/
 * http://www.nytimes.com/2014/10/17/opinion/the-dark-market-for-personal-data.html
 * http://www.theguardian.com/media/2014/oct/17/-sp-whisper-tracking-location-users-facts-response
+* http://www.theverge.com/2014/12/28/7458159/encryption-standards-the-nsa-cant-crack-pgp-tor-otr-snowden
 * http://blog.prof.so/2013/06/quantified.html
 * http://dhowe.github.io/AdNauseam/
 * http://blogs.microsoft.com/on-the-issues/2014/10/23/four-10-americans-face-regular-online-fraud-attacks-microsoft-survey/
