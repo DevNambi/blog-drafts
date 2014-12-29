@@ -402,6 +402,7 @@
 * http://www.usatoday.com/story/news/health/2014/11/05/ozy-abraham-flaxman-public-health/18529009/
 * http://www.theatlantic.com/health/archive/2014/11/do-you-know-the-basics-of-health-insurance/382700/
 * http://www.nytimes.com/2014/11/18/us/politics/health-law-turns-obama-and-insurers-into-allies.html
+* http://zoekeating.tumblr.com/post/106533619564/everything-is-ok-i-think
 * http://www.vox.com/2014/11/19/7247579/childbirth-bill-expensive-canada
 * http://well.blogs.nytimes.com/2014/11/20/that-medical-test-costs-50-or-is-it-500/
 * http://www.nytimes.com/2014/11/23/upshot/how-to-arrive-at-the-best-health-policies-.html
