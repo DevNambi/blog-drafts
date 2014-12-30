@@ -248,6 +248,7 @@
 * http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0114003
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2013/04/28/if-this-was-a-pill-youd-do-anything-to-get-it
 * http://www.salon.com/2013/07/31/living_in_america_will_drive_you_insane_literally_partner/
+* http://www.theverge.com/2014/12/30/7466989/the-ebola-outbreak-was-political-just-like-every-disease-outbreak
 * http://boingboing.net/2013/08/22/smear-campaign-daily-show-cre.html
 * http://www.cbsnews.com/videos/good-gut-bacteria-can-help-with-controlling-weight-inflammation/
 * http://www.plospathogens.org/article/info%3Adoi%2F10.1371%2Fjournal.ppat.1003587
