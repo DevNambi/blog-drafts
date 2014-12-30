@@ -25,6 +25,7 @@
 * http://www.bbc.com/news/business-30310832
 * http://www.nakedcapitalism.com/2014/12/greece-eurozones-rescue-troika-forgive-greeces-debt.html
 * http://www.nytimes.com/2014/12/27/world/even-loyalty-no-guarantee-against-putin.html <- might makes right. But now it's at the hands of a check and not a gun.
+* http://www.nytimes.com/2014/12/30/world/europe/greek-patience-with-austerity-nears-its-limit-.html?_r=0
 
 
 ## Elsewhere in the World
