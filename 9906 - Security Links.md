@@ -39,6 +39,7 @@ agreed, except o</a></li>
 
 
 * http://www.bloomberg.com/news/2014-10-02/jpmorgan-says-data-breach-affected-76-million-households.html
+* http://blog.cryptographyengineering.com/2014/12/on-new-snowden-documents.html
 * https://medium.com/@thedanigrant/need-a-last-minute-flight-45af88ec8df3
 * http://arstechnica.com/security/2014/10/dozens-of-european-atms-rooted-allowing-criminals-to-easily-cash-out/
 * http://arstechnica.com/security/2014/10/nsas-core-secrets-suggests-agents-inside-firms-in-us-abroad/
