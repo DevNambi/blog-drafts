@@ -67,6 +67,7 @@
 * http://www.nakedcapitalism.com/2014/12/stephen-roach-takes-the-fed-to-the-woodshed.html
 * http://www.nakedcapitalism.com/2014/12/summer-rerun-exactly-lehmans-130-billion-go.html
 * http://www.nakedcapitalism.com/2014/12/airing-grievances.html
+* http://www.nakedcapitalism.com/2014/12/why-bother-with-loan-officers.html
 
 
 
