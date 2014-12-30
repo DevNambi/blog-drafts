@@ -108,6 +108,8 @@
 
 * http://www.newyorker.com/business/currency/leaving-united-airlines-after-merger
 * http://www.newyorker.com/business/currency/airlines-want-you-to-suffer
+* http://www.extremetech.com/extreme/196538-the-hunt-for-airasia-qz8501-why-dont-aircraft-have-real-time-tracking-yet
+
 
 
 ## Misc

@@ -12,6 +12,9 @@ The assumption is that they were more than just smart. They also had a process a
 
 "It is necessary for you to learn from others' mistakes. You will not live long enough to make them all yourself." - Hyman G. Rickover
 
+"The way to tell a great idea is that, when people hear it, they say, 'Gee, I could have thought of that.'" – Feynman, quoted by Townes
+
+
 * http://www.hanselman.com/blog/ScottHanselmansCompleteListOfProductivityTips.aspx
 * https://podio.com/site/creative-routines
 * http://www.moreintelligentlife.com/content/edward-carr/last-days-polymath

@@ -89,6 +89,8 @@
 * http://www.codeup.com/can-a-simple-algebra-test-predict-programming-aptitude/
 * https://github.com/prakhar1989/awesome-courses/blob/master/README.md <- AMAZING
 * http://www.shubhro.com/2014/12/27/software-engineers-should-write/
+* http://manuel.bernhardt.io/2014/12/30/generation-javascript/
+* http://singularityhub.com/2014/12/28/future-of-work-part-ii-why-teaching-everyone-to-code-is-delusional/ 
 
 
 

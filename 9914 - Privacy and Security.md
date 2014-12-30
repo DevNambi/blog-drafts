@@ -81,6 +81,8 @@
 * http://mashable.com/2014/11/25/regin-spy-malware-nsa-gchq/
 * http://arstechnica.com/tech-policy/2014/12/exposed-nsa-program-for-hacking-any-cellphone-network-no-matter-where-it-is/
 * http://www.thedailybeast.com/articles/2014/12/01/laura-poitras-on-finding-edward-snowden-obama-s-tainted-legacy-and-oliver-stone-s-snowden-film.html
+* http://arstechnica.com/tech-policy/2014/12/newly-published-nsa-documents-show-agency-could-grab-all-skype-traffic/
+* http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html
 
 
 

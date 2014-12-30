@@ -498,6 +498,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://www.michael-noll.com/blog/2014/10/01/kafka-spark-streaming-integration-example-tutorial/
 * http://www.slideshare.net/pacoid/tiny-batches-in-the-wine-shiny-new-bits-in-spark-streaming
 * http://deepdive.stanford.edu/ <- AMAZING
+* https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/ <- AMAZINGLY GOOD
 
 
 
