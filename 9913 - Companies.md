@@ -94,6 +94,7 @@
 * http://www.nytimes.com/2014/12/08/opinion/we-cant-trust-uber.html
 * http://www.washingtonpost.com/politics/uber-pressures-regulators-by-mobilizing-riders-and-hiring-vast-lobbying-network/2014/12/13/3f4395c6-7f2a-11e4-9f38-95a187e4c1f7_story.html
 * http://arstechnica.com/business/2014/12/uber-imposes-4x-surge-pricing-in-wake-of-sydney-crisis-then-free-rides/
+* https://stallman.org/uber.html
 
 "It turns out Uber is a replacement for owning a car" say wealthy urbanites who don't have kids, pets, disabilities or outdoor hobbies." - https://twitter.com/mims
 
