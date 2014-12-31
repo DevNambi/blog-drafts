@@ -30,6 +30,7 @@
 * https://www.techdirt.com/articles/20141212/12142629419/leaked-emails-reveal-mpaa-plans-to-pay-elected-officials-to-attack-google.shtml
 * https://www.gnu.org/philosophy/who-does-that-server-really-serve.html
 * http://blog.opendns.com/2014/12/30/sony-reveals-even-bigger-attack-internet-time-mpaa-behind/
+* http://timesofindia.indiatimes.com/tech/tech-news/Pastebin-Dailymotion-Github-blocked-after-DoT-order-Report/articleshow/45701713.cms
 
 
 "Any time someone puts a lock on something that belongs to you and won't give you the key, the lock isn't there for your benefit" - Cory Doctorow
