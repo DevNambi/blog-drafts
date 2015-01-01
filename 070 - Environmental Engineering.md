@@ -93,6 +93,7 @@ Emphasize what we don't know
 * http://blogs.nature.com/news/2014/09/ahead-of-un-summit-chances-dwindle-to-keep-warming-at-bay.html
 * http://www.nytimes.com/2014/09/25/opinion/gail-collins-the-politics-of-climate-change.html
 * http://www.extremetech.com/extreme/191754-cold-fusion-reactor-verified-by-third-party-researchers-seems-to-have-1-million-times-the-energy-density-of-gasoline
+* http://planetsave.com/2014/12/28/solar-power-storage-prices-drop-germany/
 * http://arstechnica.com/science/2014/10/lovely-grub-are-insects-the-future-of-food/1/
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2014/12/18/heres-the-grassroots-political-story-behind-the-new-york-fracking-ban/
 * http://arstechnica.com/science/2014/10/californias-most-productive-fisheries-the-offshore-oil-rigs/
