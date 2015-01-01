@@ -204,6 +204,7 @@
 * https://storify.com/tempusrob/cory-provost-pd-incident
 * http://www.reuters.com/article/2014/12/23/us-usa-police-nypd-race-insight-idUSKBN0K11EV20141223
 * http://www.theguardian.com/society/2014/dec/23/man-prison-job-too-early-morning
+* http://www.al.com/news/birmingham/index.ssf/2014/12/recording_of_pelham_police_moc.html
 * http://indiancountrytodaymedianetwork.com/2014/08/19/sd-police-say-tazing-8-year-old-native-girl-was-justified-family-sues-156464
 * http://www.utsandiego.com/news/2014/dec/12/police-unions-alleged-intimidation-arrest-reformer/
 * http://reason.com/blog/2014/12/29/police-informer-says-his-lies-killed-a-h
