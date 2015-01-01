@@ -49,6 +49,7 @@
 * http://gael-varoquaux.info/programming/software-design-for-maintainability.html
 * https://github.com/prakhar1989/awesome-courses/blob/master/README.md
 * http://bertolami.com/index.php?engine=blog&content=posts&detail=fundamentals-of-data-compression <- people should know compression
+* http://www.theeffectiveengineer.com/blog/hidden-costs-that-engineers-ignore?utm_source=Founder+Weekly+Newsletter&utm_campaign=1a5eed15d1-Founder_Weekly_Issue_163_December_31_2014&utm_medium=email&utm_term=0_286b01fd3e-1a5eed15d1-331306269
 
 
 @joshuajames Posit: the failure of most "system thinking" is in thinking the system is like a machine rather than an ecology.
