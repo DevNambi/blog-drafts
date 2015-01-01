@@ -210,6 +210,7 @@
 * http://www.lawofficer.com/article/leadership/thick-blue-wall
 * http://www.cnn.com/video/data/2.0/video/us/2014/12/12/dnt-asthma-death-dash-cam-video.wqow.html
 * http://www.bostonglobe.com/ideas/2014/10/18/vote-all-you-want-the-secret-government-won-change/jVSkXrENQlu8vNcBfMn9sL/story.html
+* http://www.nytimes.com/2015/01/01/nyregion/new-york-city-murders-fall-but-the-police-arent-celebrating.html?_r=0
 * http://thinkprogress.org/justice/2014/12/12/3601771/people-police-killed-in-2014/
 * http://www.jsonline.com/news/milwaukee/former-officer-wont-be-charged-in-fatal-shooting-of-dontre-hamilton-b99398655z1-286559211.html
 * http://www.reddit.com/r/AskReddit/comments/2p3qvo/good_cops_of_reddit_why_is_it_so_dangerous_to/

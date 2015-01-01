@@ -69,6 +69,7 @@
 * http://www.nakedcapitalism.com/2014/12/summer-rerun-exactly-lehmans-130-billion-go.html
 * http://www.nakedcapitalism.com/2014/12/airing-grievances.html
 * http://www.nakedcapitalism.com/2014/12/why-bother-with-loan-officers.html
+* http://www.nakedcapitalism.com/2014/12/climate-change-triage-protect-money-people.html
 
 
 

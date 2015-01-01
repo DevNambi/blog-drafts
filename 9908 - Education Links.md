@@ -77,6 +77,7 @@
 * http://www.nytimes.com/2014/12/03/us/middle-class-pay-elusive-for-teachers-report-says.html
 * http://boingboing.net/2014/12/03/in-wayzata-minnesota-a-schoo.html
 * http://www.salon.com/2013/06/03/instead_of_a_war_on_teachers_how_about_one_on_poverty/
+* http://www.nytimes.com/2014/12/31/us/school-cash-insufficient-in-kansas-court-finds-.html
 
 
 
@@ -302,7 +303,8 @@
 * http://dealbook.nytimes.com/2014/12/17/law-school-enrollment-falls-to-lowest-level-since-1987/
 * http://chronicle.com/article/At-Top-Athletics-Programs/150917/
 * https://www.insidehighered.com/news/2014/12/22/nlrb-ruling-shifts-legal-ground-faculty-unions-private-colleges
-
+* http://www.nytimes.com/2014/12/31/sports/ncaafootball/what-made-college-ball-more-like-the-pros-73-billion-for-a-start.html
+* http://www.nytimes.com/2014/12/31/nyregion/from-struggling-high-schooler-to-college-freshman.html
 
 
 
