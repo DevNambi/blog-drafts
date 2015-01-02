@@ -118,6 +118,7 @@
 * http://www.theatlantic.com/business/archive/2014/07/millennials-trends-housing/373892/
 * http://www.huffingtonpost.ca/2014/12/23/mincome-in-dauphin-manitoba_n_6335682.html
 * http://dealbook.nytimes.com/2014/12/25/dipping-into-auto-equity-devastates-many-borrowers/
+* http://www.theatlantic.com/business/archive/2015/01/compared-to-previous-generations-how-bad-are-millennials-finances/384050/
 
 
 

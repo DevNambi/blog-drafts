@@ -73,6 +73,7 @@
 * http://www.nytimes.com/2014/12/03/business/media/sony-is-again-target-of-hackers.html
 * http://gizmodo.com/sony-pictures-hack-keeps-getting-worse-thousands-of-pa-1666761704 <- something security engineers should look for
 * http://www.troyhunt.com/2014/12/are-you-working-for-next-sony-pictures.html
+* http://www.theatlantic.com/technology/archive/2015/01/a-hackers-hit-list-of-american-infrastructure/384166/
 
 
 
