@@ -416,6 +416,8 @@
 * https://github.com/jonathan-bower/DataScienceResources
 * http://www.mastersindatascience.org/blog/questions-before-choosing-data-science-program/
 * http://blog.udacity.com/2014/11/data-science-job-skills.html
+* http://blog.udacity.com/2014/12/3-paths-first-data-analyst-job.html
+* http://crastina.se/theres-no-projects-like-side-projects/
 
 Peter Norvig Quote: "More data beats clever algorithms, but better data beats more data."
 
@@ -473,6 +475,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://tech.adroll.com/blog/data/2013/07/10/hll-minhash.html
 * http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html
 * http://www.slideshare.net/deanwampler/spark-the-next-top-compute-model-39976454
+* http://byterot.blogspot.com/2015/01/future-of-programming-rise-of-the-scientific-developer-bigdata-datascience-machine-learning-and-fall-of-the-craftsman.html
 * http://harry.me/blog/2014/12/27/neat-algorithms-paxos/
 * http://techblog.netflix.com/2014/10/using-presto-in-our-big-data-platform.html
 * http://databricks.com/blog/2014/10/10/spark-breaks-previous-large-scale-sort-record.html

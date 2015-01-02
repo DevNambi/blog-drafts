@@ -145,6 +145,7 @@
 * http://www.nytimes.com/2014/10/22/opinion/only-two-rules-for-a-good-diet.html
 * http://www.nytimes.com/2014/10/26/opinion/sunday/the-problem-with-positive-thinking.html
 * http://well.blogs.nytimes.com/2014/12/17/how-exercise-changes-our-dna/?_r=0
+* http://alwaysascending.weebly.com/light---on-trending-to-your-right-weight.html
 
 
 
@@ -229,6 +230,7 @@
 * http://online.wsj.com/articles/cancers-super-survivors-how-immunotherapy-is-transforming-oncology-1417714379#
 * http://www.wired.com/2014/12/diabetes-patients-hacking-together-diy-bionic-pancreases/
 * http://www.iflscience.com/health-and-medicine/large-study-explores-how-often-patients-wake-during-surgery
+* http://www.bloomberg.com/news/2015-01-02/cancer-largely-due-to-biological-bad-luck-rather-than-behavior.html
 * http://zoekeating.tumblr.com/post/105883712804/hospitals-and-blogging
 * https://medium.com/backchannel/should-surgeons-keep-score-8b3f890a7d4c
 * http://www.medhistorian.com/2014/08/surgeons-at-war.html

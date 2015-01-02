@@ -41,6 +41,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://shit-recruiters-say.tumblr.com/">Sh*t Recruiters Say</a></li>
 <li><a href="http://www.strategic-options.com/insight/you-cant-have-more-than-10-years-of-experience-on-rails/">You can’t have more than 10 years of experience on Rails!</a></li>
 <li><a href="http://www.brentozar.com/archive/2012/09/email-templates-for-recruiters-questions/">Email Templates for Recruiters and Questions</a></li>
+<li><a href="http://www.chrisbaglieri.com/blog/2015/1/1/my-resume-is-fiction"></a>My Resume Is Fiction</li>
 </ul>
 
 

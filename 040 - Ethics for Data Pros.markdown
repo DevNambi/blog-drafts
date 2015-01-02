@@ -51,6 +51,7 @@ We believe we are working to make our society, our world, a better place. At the
 * http://www.datainnovation.org/2014/12/fighting-over-fishing-with-data-visualization/
 * http://en.wikipedia.org/wiki/Robert_A._Kehoe <- the opposite of this guy
 * http://en.wikipedia.org/wiki/Precautionary_principle
+* http://www.washingtonpost.com/posteverything/wp/2014/12/29/the-relatively-simple-fix-that-could-prevent-planes-like-airasia-qz8501-from-disappearing/
 
 
 
