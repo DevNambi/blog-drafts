@@ -351,6 +351,7 @@
 * https://www.insidehighered.com/news/2014/12/15/federal-audit-faults-education-department-lack-plan-prevent-student-loan-defaults
 * http://www.theatlantic.com/business/archive/2014/12/mfas-an-increasingly-popular-increasingly-bad-financial-decision/383706/
 * http://www.salon.com/2015/01/02/another_college_tuition_nightmare_even_free_college_isnt_free_anymore/
+* http://occupythebookstore.com/
 
 
 
