@@ -40,6 +40,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * http://www.theguardian.com/lifeandstyle/2014/dec/17/the-woman-in-10-hours-walking-in-nyc-i-got-people-wanting-to-slit-my-throat
 * http://www.newyorker.com/magazine/2015/01/05/southern-honeymoon
 * http://www.newstatesman.com/laurie-penny/on-nerd-entitlement-rebel-alliance-empire
+* http://blog.jessitron.com/2015/01/systems-thinking-about-wit.html
 
 
 

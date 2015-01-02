@@ -233,6 +233,7 @@
 * http://www.ibm.com/smarterplanet/us/en/education_technology/article/gwinnett-county-schools.html
 * http://www.knewton.com/tech/blog/2013/11/kalman-filter/
 * http://www.nytimes.com/2014/06/21/upshot/a-college-major-matters-even-more-in-a-recession.html
+* http://www.salon.com/2015/01/02/william_deresiewicz_chris_hughes_embodies%E2%80%94including_the_entitled_little_shit_part%E2%80%94a_lot_of_what_im_saying/
 * http://johncbeck.tumblr.com/post/89890392397/why-im-no-longer-a-professor
 * http://www.nytimes.com/2014/07/29/upshot/building-a-better-college-ranking-system-babson-beats-harvard.html
 * http://www.insidehighered.com/news/2014/07/22/slightly-more-nuanced-bill-gates-offers-vision-higher-education
@@ -349,6 +350,7 @@
 * https://www.insidehighered.com/news/2014/12/12/cfpb-accuses-two-debt-relief-companies-predatory-practices
 * https://www.insidehighered.com/news/2014/12/15/federal-audit-faults-education-department-lack-plan-prevent-student-loan-defaults
 * http://www.theatlantic.com/business/archive/2014/12/mfas-an-increasingly-popular-increasingly-bad-financial-decision/383706/
+* http://www.salon.com/2015/01/02/another_college_tuition_nightmare_even_free_college_isnt_free_anymore/
 
 
 
