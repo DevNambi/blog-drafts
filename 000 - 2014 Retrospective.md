@@ -10,6 +10,7 @@
 * PASS Special Projects
 * Speak at PASS BAC
 * Open-source my research
+* No smartphone
 
 
 **Intangibles**
