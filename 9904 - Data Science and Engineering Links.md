@@ -303,6 +303,7 @@
 * http://research.microsoft.com/en-us/projects/r2/
 * http://probabilistic-programming.org/wiki/Home
 * http://new.livestream.com/accounts/7874891/events/3565981 <- ML conf videos
+* http://pralab.diee.unica.it/en/AdversariaLib
 * https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 * http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/
 * http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
@@ -543,6 +544,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de
 * http://getprismatic.com/story/1416932925939
 * http://www.slate.com/articles/health_and_science/new_scientist/2012/12/kaggle_president_jeremy_howard_amateurs_beat_specialists_in_data_prediction.html
+* http://scatter.wordpress.com/2015/01/03/beckieball-and-the-study-of-not-quite-elite-selected-groups/
 
 
 

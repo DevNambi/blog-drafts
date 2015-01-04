@@ -76,6 +76,7 @@
 * http://chadfowler.com/blog/2014/01/22/the-crunch-mode-antipattern/
 * https://medium.com/@cammipham/7-things-you-need-to-stop-doing-to-be-more-productive-backed-by-science-a988c17383a6
 * http://pss.sagepub.com/content/25/6/1159
+* http://wozniak.ca/why-i-quit-os-x
 
 
 

@@ -74,6 +74,7 @@
 * http://gizmodo.com/sony-pictures-hack-keeps-getting-worse-thousands-of-pa-1666761704 <- something security engineers should look for
 * http://www.troyhunt.com/2014/12/are-you-working-for-next-sony-pictures.html
 * http://www.theatlantic.com/technology/archive/2015/01/a-hackers-hit-list-of-american-infrastructure/384166/
+* http://arstechnica.com/security/2015/01/come-for-the-lulz-stay-for-the-hacktivism-a-new-book-on-anonymous-reviewed/
 
 
 
