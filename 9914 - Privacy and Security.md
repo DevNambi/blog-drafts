@@ -44,6 +44,7 @@
 * http://dhowe.github.io/AdNauseam/
 * http://blogs.microsoft.com/on-the-issues/2014/10/23/four-10-americans-face-regular-online-fraud-attacks-microsoft-survey/
 * http://arstechnica.com/information-technology/2014/10/taking-back-privacy-in-the-post-snowden-cloud/
+* https://medium.com/matter/how-britain-exported-next-generation-surveillance-d15b5801b79e
 * http://www.propublica.org/article/somebodys-already-using-verizons-id-to-track-users
 * https://blog.torproject.org/blog/possible-upcoming-attempts-disable-tor-network
 * http://mobile.nytimes.com/blogs/bits/2014/12/23/data-broker-is-charged-with-selling-consumers-financial-details-to-fraudsters/
