@@ -269,6 +269,7 @@
 * http://arstechnica.com/science/2014/11/finding-the-ebola-virus-vulnerable-points/
 * http://www.nytimes.com/2014/12/01/us/federal-study-finds-55-percent-of-infants-sleep-with-soft-bedding-raising-risk-of-death.html
 * http://www.nytimes.com/2014/11/30/opinion/sunday/the-downside-of-resilience.html?_r=0
+* https://twitter.com/conradhackett/status/551621551682904064
 
 
 

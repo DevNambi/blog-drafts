@@ -3,6 +3,9 @@
 * branded employees
 
 
+## Hiring
+
+* https://medium.com/@ChaseTheTruth/hire-the-wisest-not-the-smartest-68b8b640ab5e
 
 ## How to find good DBAs or developers
 This is an information problem. It's also a FUD problem. 
