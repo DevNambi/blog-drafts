@@ -87,6 +87,7 @@
 
 * http://www.nakedcapitalism.com/2014/10/invitation-homes-tenant-abuse-shows-incompetence-well-malfeasance.html
 * http://mobile.nytimes.com/2014/11/16/business/borrowers-beware-the-robosigners-arent-finished-yet.html
+* https://www.youtube.com/watch?v=y-1Gh4ewklY&feature=youtu.be
 
 
 ## Poverty, Class Warfare, 'American Dream'

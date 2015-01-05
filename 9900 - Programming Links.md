@@ -246,6 +246,7 @@
 * http://www.enterprisetech.com/2014/11/14/rare-peek-massive-scale-aws/
 * http://radar.oreilly.com/2014/12/why-the-data-center-needs-an-operating-system.html
 * http://litt.no/tech%20stuff/amazon-sqs-scaling
+* https://gigaom.com/2015/01/04/verizon-cloud-warns-customers-of-2-day-maintenance-closure/
 
 
 

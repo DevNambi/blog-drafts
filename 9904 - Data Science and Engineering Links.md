@@ -210,6 +210,7 @@
 
 * http://www.brianckeegan.com/2014/10/on-starting-a-new-job/
 * https://gigaom.com/2014/12/04/want-to-make-data-scientist-money-learn-data-science-tools/
+* http://pawelmhm.github.io/python/pandas/2015/01/01/python-job-analytics.html
 
 
 

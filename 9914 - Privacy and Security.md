@@ -85,6 +85,8 @@
 * http://arstechnica.com/tech-policy/2014/12/newly-published-nsa-documents-show-agency-could-grab-all-skype-traffic/
 * http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html
 * https://medium.com/@hansdezwart/ai-weiwei-is-living-in-our-future-474e5dd15e4f
+* http://www.neowin.net/news/gogo-inflight-internet-is-intentionally-issuing-fake-ssl-certificates
+* http://blog.cryptographyengineering.com/2014/12/on-new-snowden-documents.html
 
 
 
