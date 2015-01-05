@@ -48,6 +48,7 @@
 
 
 * http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html
+* http://blogs.seattletimes.com/educationlab/2014/12/31/guest-new-math-textbooks-are-the-right-choice-for-seattle-schools/
 * http://seattletimes.com/html/education/2025176296_edlabkentdisciplinexml.html
 * http://www.washingtonpost.com/blogs/answer-sheet/wp/2013/05/15/what-if-finlands-great-teachers-taught-in-u-s-schools-not-what-you-think/
 * http://www.chrisgiven.com/schooldebt/
@@ -387,6 +388,8 @@
 
 * http://www.washington.edu/news/2014/11/20/cost-of-meeting-basic-needs-rising-faster-than-wages-in-washington-state/
 * http://seattletimes.com/html/education/2025132186_edlabacademicredshirtxml.html
+* http://blogs.seattletimes.com/educationlab/2015/01/05/report-uw-accounting-is-confusing-lacks-consistency/ <- OPB is hosed
+
 
 
 

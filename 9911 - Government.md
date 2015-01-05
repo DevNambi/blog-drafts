@@ -205,6 +205,7 @@
 * https://storify.com/tempusrob/cory-provost-pd-incident
 * http://www.reuters.com/article/2014/12/23/us-usa-police-nypd-race-insight-idUSKBN0K11EV20141223
 * http://www.rollingstone.com/politics/news/the-nypds-work-stoppage-is-surreal-20141231
+* http://www.laweekly.com/publicspectacle/2014/12/31/when-a-cartoonist-landed-in-la-county-jail-she-drew-what-she-saw-using-only-a-golf-pencil?showFullText=true
 * http://www.theguardian.com/society/2014/dec/23/man-prison-job-too-early-morning
 * http://www.al.com/news/birmingham/index.ssf/2014/12/recording_of_pelham_police_moc.html
 * http://indiancountrytodaymedianetwork.com/2014/08/19/sd-police-say-tazing-8-year-old-native-girl-was-justified-family-sues-156464

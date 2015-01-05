@@ -91,6 +91,7 @@
 * http://techcrunch.com/2014/10/25/currentc/
 * http://www.theguardian.com/us-news/2014/oct/28/-sp-jobs-brokers-entrap-indian-tech-workers?CMP=share_btn_tw
 * https://medium.com/dima-korolev/invited-technical-co-founder-79ee1713ff25
+* http://novobrief.com/spanish-startup-ecosystem-american-pov/
 * https://medium.com/weird-future/a-utopia-of-ones-own-e6fa8f16f92b
 * http://www.theguardian.com/technology/2014/nov/14/ready-steady-startup-silicon-valley
 * http://seattletimes.com/html/businesstechnology/2025027109_sundaybuzz16xml.html
