@@ -329,6 +329,7 @@
 * http://johncarlosbaez.wordpress.com/2014/11/15/a-second-law-for-open-markov-processes/
 * http://austingwalters.com/pca-principal-component-analysis/
 * https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43146.pdf
+* http://www.john-foreman.com/blog/the-perilous-world-of-machine-learning-for-fun-and-profit-pipeline-jungles-and-hidden-feedback-loops
 
 
 
