@@ -17,3 +17,4 @@ Risk vs. reward. Risk aversion.
 * http://www.pqed.org/2014/06/how-should-people-respond-to-open-carry.html
 * http://www.economist.com/news/technology-quarterly/21615064-following-example-maker-communities-worldwide-hobbyists-keen-biology-have
 * http://pando.com/2014/10/18/gms-hit-and-run-how-a-lawyer-mechanic-and-engineer-blew-the-lid-off-the-worst-auto-scandal-in-history/
+* http://www.wired.com/2012/10/ff-why-products-fail/all/

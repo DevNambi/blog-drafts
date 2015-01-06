@@ -271,6 +271,9 @@
 * http://www.nytimes.com/2014/12/01/us/federal-study-finds-55-percent-of-infants-sleep-with-soft-bedding-raising-risk-of-death.html
 * http://www.nytimes.com/2014/11/30/opinion/sunday/the-downside-of-resilience.html?_r=0
 * https://twitter.com/conradhackett/status/551621551682904064
+* http://www.nature.com/news/antibiotic-resistance-the-last-resort-1.13426
+* http://www.nytimes.com/2014/12/04/world/asia/superbugs-kill-indias-babies-and-pose-an-overseas-threat.html?_r=0
+* http://www.wired.com/2015/01/2015-diseases-borders/
 
 
 
