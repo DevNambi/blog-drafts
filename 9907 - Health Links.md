@@ -320,6 +320,7 @@
 * http://www.nytimes.com/2013/07/05/opinion/diagnosis-insufficient-outrage.html?hp&_r=0
 * http://blogs.scientificamerican.com/cross-check/2013/11/02/a-dig-through-old-files-reminds-me-why-im-so-critical-of-science/
 * http://www.scmp.com/news/china/article/1074327/harbin-doctors-killing-highlights-problem-hospitals
+* http://www.nytimes.com/2015/01/06/opinion/stop-subsidizing-big-pharma.html
 * http://www.reuters.com/article/2014/10/26/us-salesforce-com-health-exclusive-idUSKBN0IF0EA20141026
 * http://www.seattlepi.com/national/article/Study-Cosmetic-talc-products-carry-asbestos-peril-5861858.php
 * http://en.wikipedia.org/wiki/Contaminated_haemophilia_blood_products

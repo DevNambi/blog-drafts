@@ -202,6 +202,7 @@
 * http://www.salon.com/2014/12/19/this_is_not_a_war_this_is_a_12_year_old_kid_shocking_video_shows_plainclothes_nypd_cop_punching_child/
 * http://abcnews.go.com/US/family-toddler-injured-swat-grenade-faces-1m-medical/story?id=27671521
 * http://reason.com/blog/2014/12/30/nypd-punishes-city-by-not-citing-arresti
+* http://www.nytimes.com/2015/01/06/nyregion/decrease-in-new-york-police-arrests-continues-for-a-second-week.html
 * http://www.bbc.com/news/magazine-30554719
 * https://storify.com/tempusrob/cory-provost-pd-incident
 * http://www.reuters.com/article/2014/12/23/us-usa-police-nypd-race-insight-idUSKBN0K11EV20141223
