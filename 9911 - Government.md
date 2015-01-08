@@ -130,6 +130,8 @@
 * http://seattletimes.com/html/editorials/2025020073_edit1351postelection14xml.html
 * http://www.chicagotribune.com/news/watchdog/redlight/ct-red-light-camera-safety-met-20141219-story.html#page=1
 * http://www.thedailybeast.com/articles/2014/12/26/newest-u-s-stealth-fighter-10-years-behind-older-jets.html
+* http://arstechnica.com/tech-policy/2015/01/lawmakers-facebook-rant-threatens-media-for-unauthorized-use-of-his-name/
+* http://m.fredericknewspost.com/news/politics_and_government/kirby-delauter-kirby-delauter-kirby-delauter/article_da85d6f4-fa3c-524f-bbf6-8e5ddc0d1c0a.html?mode=jqm
 
 
 

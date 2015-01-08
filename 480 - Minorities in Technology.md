@@ -6,6 +6,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 
 
 ### Resources, Links
+
 * http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/#the-list
 * Image comes from http://chainsawsuit.com/wp-content/uploads/2014/10/20141015-perfectcrime.png
 * http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/
@@ -25,6 +26,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * https://medium.com/matter/you-should-learn-to-code-is-the-new-you-should-go-to-law-school-talk-dads-love-to-have-b03bd22b3c99
 * http://boingboing.net/2014/11/01/surveillance-and-stalkers-how.html
 * http://www.thumbtack.com/engineering/interviewing-for-female-friendliness/
+* http://arstechnica.com/business/2015/01/intel-pledges-300-million-to-improve-diversity-in-tech/
 * https://medium.com/@ericajoy/the-other-side-of-diversity-1bb3de2f053e
 * http://www.wired.com/2014/11/urban-onshoring/
 * http://www.bbc.com/news/technology-29840653

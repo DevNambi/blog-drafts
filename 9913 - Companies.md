@@ -25,6 +25,7 @@
 * http://seattletimes.com/html/businesstechnology/2025138315_amazonkivaxml.html
 * http://www.wired.com/2014/12/amazon-reveals-robots-heart-epic-cyber-monday-operation/
 * http://www.theatlantic.com/business/archive/2014/12/meet-the-people-and-robots-who-pack-your-online-orders/383536/?single_page=true
+* http://www.fastcompany.com/3039887/under-fire
 
 
 
@@ -75,6 +76,7 @@
 * http://arstechnica.com/business/2014/11/fcc-calls-atts-fiber-bluff-demands-detailed-construction-plans/
 * http://arstechnica.com/business/2014/12/att-wins-right-to-intervene-in-citys-fiber-broadband-plan/
 * https://www.yahoo.com/tech/s/google-fiber-latest-fcc-filing-comcast-nightmare-come-161549827.html
+* http://arstechnica.com/business/2015/01/fcc-chair-broadband-must-be-25mbps-and-isps-are-failing-to-deliver/
 
 
 

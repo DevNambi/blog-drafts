@@ -46,15 +46,21 @@
 * http://setosa.io/ev/
 * http://blog.memsql.com/cache-is-the-new-ram/ \
 * http://www.datagenetics.com/blog/november32014/index.html
-* http://gael-varoquaux.info/programming/software-design-for-maintainability.html
 * https://github.com/prakhar1989/awesome-courses/blob/master/README.md
 * http://bertolami.com/index.php?engine=blog&content=posts&detail=fundamentals-of-data-compression <- people should know compression
-* http://www.theeffectiveengineer.com/blog/hidden-costs-that-engineers-ignore?utm_source=Founder+Weekly+Newsletter&utm_campaign=1a5eed15d1-Founder_Weekly_Issue_163_December_31_2014&utm_medium=email&utm_term=0_286b01fd3e-1a5eed15d1-331306269
 
 
 @joshuajames Posit: the failure of most "system thinking" is in thinking the system is like a machine rather than an ecology.
 
 @dhh: “Coding isn’t the poor handmaiden of design or analysis. Coding is where your fuzzy ideas awaken in the harsh dawn of reality”
+
+### Complexity
+
+* http://www.theeffectiveengineer.com/blog/hidden-costs-that-engineers-ignore
+* http://www.drmaciver.com/2013/03/what-the-fuck-are-we-doing/
+* http://gael-varoquaux.info/programming/software-design-for-maintainability.html
+
+
 
 
 ## Learning to Code
@@ -233,6 +239,7 @@
 * http://www.devfactor.net/2014/12/30/2375-amazon-mistake/
 * http://swrveengineering.wordpress.com/2014/10/14/how-we-increased-our-ec2-event-throughput-by-50-for-free/
 * http://instagram-engineering.tumblr.com/post/100758229719/migrating-from-aws-to-aws
+* http://blogs.wsj.com/digits/2015/01/06/googles-cloud-loses-following-among-cios-survey-finds/
 * http://aws.amazon.com/blogs/aws/new-aws-directory-service/
 * http://www.hokstad.com/docker/patterns
 * https://www.backblaze.com/blog/petabytes-on-a-budget-how-to-build-cheap-cloud-storage-2/
