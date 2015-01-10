@@ -201,6 +201,7 @@
 * http://www.ajc.com/news/news/breaking-news/no-charges-for-officers-in-botched-drug-raid-that-/nhc2N/
 * http://www.slate.com/articles/news_and_politics/jurisprudence/2013/06/salinas_v_texas_right_to_remain_silent_supreme_court_right_to_remain_silent.html
 * http://vizual-statistix.tumblr.com/post/105282552911/the-recent-series-of-high-profile-killings-of
+* http://www.propublica.org/article/judge-orders-nypd-to-release-records-on-x-ray-vans
 * http://www.salon.com/2014/12/19/this_is_not_a_war_this_is_a_12_year_old_kid_shocking_video_shows_plainclothes_nypd_cop_punching_child/
 * http://abcnews.go.com/US/family-toddler-injured-swat-grenade-faces-1m-medical/story?id=27671521
 * http://reason.com/blog/2014/12/30/nypd-punishes-city-by-not-citing-arresti
