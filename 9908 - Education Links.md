@@ -307,6 +307,8 @@
 * https://www.insidehighered.com/news/2014/12/22/nlrb-ruling-shifts-legal-ground-faculty-unions-private-colleges
 * http://www.nytimes.com/2014/12/31/sports/ncaafootball/what-made-college-ball-more-like-the-pros-73-billion-for-a-start.html
 * http://www.nytimes.com/2014/12/31/nyregion/from-struggling-high-schooler-to-college-freshman.html
+* https://www.insidehighered.com/news/2015/01/08/new-study-finds-men-more-likely-doubt-evidence-gender-bias-science-fields
+* http://www.vox.com/2015/1/7/7500705/college-advice
 
 
 

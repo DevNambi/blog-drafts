@@ -18,6 +18,8 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * http://arstechnica.com/tech-policy/2014/10/pew-survey-says-online-harassment-rampant-impacts-genders-differently/
 * http://mic.com/articles/102550/if-anyone-tells-you-street-harassment-isn-t-a-problem-show-them-this-video
 * http://www.reddit.com/r/IAmA/comments/2p3lzc/were_3_female_computer_scientists_at_mit_here_to/
+* http://www.salon.com/2015/01/10/the_plight_of_the_bitter_nerd_why_so_many_awkward_shy_guys_end_up_hating_feminism/
+* http://mahalonottrash.blogspot.com/2015/01/what-can-you-do-to-counter-racism-part-1.html
 * http://www.latimes.com/opinion/op-ed/la-oe-gardner-women-in-tech-20141207-story.html
 * http://www.salon.com/2014/10/30/that_creepy_guy_from_the_internet_how_gamergate_shattered_faith_in_the_geek_community/
 * http://actuallyethics.tumblr.com/
