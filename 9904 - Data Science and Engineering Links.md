@@ -430,6 +430,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 
 * http://www.bigdata-madesimple.com/dilberts-20-funniest-cartoons-on-big-data/
 * http://www.cafepress.com/+statistics+mugs
+* http://bigdatapix.tumblr.com/
 
 
 ## Data Adoption and Data-Friendly Organizations

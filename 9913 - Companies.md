@@ -26,6 +26,7 @@
 * http://www.wired.com/2014/12/amazon-reveals-robots-heart-epic-cyber-monday-operation/
 * http://www.theatlantic.com/business/archive/2014/12/meet-the-people-and-robots-who-pack-your-online-orders/383536/?single_page=true
 * http://www.fastcompany.com/3039887/under-fire
+* http://recode.net/2015/01/13/how-amazon-tricks-you-into-thinking-it-always-has-the-lowest-prices/
 
 
 
