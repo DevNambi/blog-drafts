@@ -115,6 +115,7 @@
 * http://www.extremetech.com/extreme/196538-the-hunt-for-airasia-qz8501-why-dont-aircraft-have-real-time-tracking-yet
 * http://www.straitstimes.com/news/asia/south-east-asia/story/airasia-plane-engine-dies-just-takeoff-surabaya-passengers-told-dise
 * http://www.denverpost.com/business/ci_27270086/uniteds-baggage-woes-start-affect-denver-airports-reputation <- you get what you pay for
+* http://www.addictinginfo.org/2015/01/09/united-replaces-unionized-baggage-handlers-with-minimum-wage-contractors-things-instantly-fall-apart/
 
 
 

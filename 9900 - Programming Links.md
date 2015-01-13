@@ -254,6 +254,7 @@
 * http://radar.oreilly.com/2014/12/why-the-data-center-needs-an-operating-system.html
 * http://litt.no/tech%20stuff/amazon-sqs-scaling
 * https://gigaom.com/2015/01/04/verizon-cloud-warns-customers-of-2-day-maintenance-closure/
+* http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html
 
 
 
@@ -459,6 +460,7 @@ things they believe in will keep </a></li>
 * http://www.essentialmath.com/tutorial.htm
 * http://www.freedomlayer.org/articles/dht_intro.html
 * https://www.blitz.io/
+* http://danluu.com/new-cpu-features/
 
 ## Funny
 

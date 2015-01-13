@@ -132,6 +132,7 @@
 * http://www.thedailybeast.com/articles/2014/12/26/newest-u-s-stealth-fighter-10-years-behind-older-jets.html
 * http://arstechnica.com/tech-policy/2015/01/lawmakers-facebook-rant-threatens-media-for-unauthorized-use-of-his-name/
 * http://m.fredericknewspost.com/news/politics_and_government/kirby-delauter-kirby-delauter-kirby-delauter/article_da85d6f4-fa3c-524f-bbf6-8e5ddc0d1c0a.html?mode=jqm
+* http://slog.thestranger.com/slog/archives/2015/01/12/seattle-officials-not-warned-about-catastrophic-failure-concerns-for-bertha-rescue-pit
 
 
 
@@ -212,6 +213,7 @@
 * http://www.rollingstone.com/politics/news/the-nypds-work-stoppage-is-surreal-20141231
 * http://www.laweekly.com/publicspectacle/2014/12/31/when-a-cartoonist-landed-in-la-county-jail-she-drew-what-she-saw-using-only-a-golf-pencil?showFullText=true
 * http://www.theguardian.com/society/2014/dec/23/man-prison-job-too-early-morning
+* http://www.sacbee.com/news/local/crime/article5641188.html
 * http://www.al.com/news/birmingham/index.ssf/2014/12/recording_of_pelham_police_moc.html
 * http://indiancountrytodaymedianetwork.com/2014/08/19/sd-police-say-tazing-8-year-old-native-girl-was-justified-family-sues-156464
 * http://www.utsandiego.com/news/2014/dec/12/police-unions-alleged-intimidation-arrest-reformer/

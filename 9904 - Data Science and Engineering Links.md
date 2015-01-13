@@ -480,6 +480,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html
 * http://www.slideshare.net/deanwampler/spark-the-next-top-compute-model-39976454
 * http://databricks.com/blog/2015/01/07/ml-pipelines-a-new-high-level-api-for-mllib.html
+* http://citusdata.com/blog/90-sql-scaling-and-whats-unique-about-postgres
 * http://byterot.blogspot.com/2015/01/future-of-programming-rise-of-the-scientific-developer-bigdata-datascience-machine-learning-and-fall-of-the-craftsman.html
 * http://harry.me/blog/2014/12/27/neat-algorithms-paxos/
 * http://techblog.netflix.com/2014/10/using-presto-in-our-big-data-platform.html
@@ -549,6 +550,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://getprismatic.com/story/1416932925939
 * http://www.slate.com/articles/health_and_science/new_scientist/2012/12/kaggle_president_jeremy_howard_amateurs_beat_specialists_in_data_prediction.html
 * http://scatter.wordpress.com/2015/01/03/beckieball-and-the-study-of-not-quite-elite-selected-groups/
+* http://www.slideshare.net/MrChrisJohnson/scala-data-pipelines-for-music-recommendations
 
 
 

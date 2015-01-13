@@ -419,6 +419,7 @@
 * http://www.nytimes.com/2014/11/28/opinion/financial-incentives-in-health-care.html
 * http://seattletimes.com/html/localnews/2025265992_hospitalinfectionsxml.html
 * http://www.nytimes.com/2014/12/16/health/the-odd-math-of-medical-tests-one-echocardiogram-two-prices-both-high.html
+* http://mobile.nytimes.com/2015/01/12/us/politics/new-rules-to-limit-tactics-on-hospitals-fee-collections.html?_r=0
 
 
 By Zoe Keating:

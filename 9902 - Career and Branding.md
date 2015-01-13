@@ -96,6 +96,7 @@ ortant,personal tech">Kill the Password: Why a String of Characters Can't Protec
 <li><a href="https://medium.com/p/24eb09e026dd" time_added="1391006933" tags="">How I Lost My $50,000 Twitter Username — Medium</a></li>
 
 * http://journal.stuffwithstuff.com/2014/11/20/how-my-book-launch-went/
+* http://nafiulis.me/making-a-static-blog-with-pelican.html
 * https://bryce.fisher-fleig.org/blog/setting-up-ssl-on-aws-cloudfront-and-s3/
 * https://support.cloudflare.com/hc/en-us/articles/200168926-How-do-I-use-CloudFlare-with-Amazon-s-S3-Service-
 * http://serverfault.com/questions/512706/cloudflare-cdn-and-static-site-with-root-on-amazon-s3
