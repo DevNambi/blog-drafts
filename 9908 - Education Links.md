@@ -376,6 +376,11 @@
 <li><a href="http://arstechnica.com/science/2014/05/universities-cant-fulfil-the-myth-but-they-cant-become-a-vocational-school-either/" time_added="1401577129" tags="">http://arstechnica.com/science/2014/05/universities-cant-fulfil-the-myth-but-they-cant-become-a-vocational-school-either/</a></li>
 
 
+## Sports
+
+* http://mobile.nytimes.com/2015/01/13/sports/ncaafootball/with-threat-of-union-comes-a-trickle-of-benefits-to-college-football-players.html?_r=0
+
+
 ### The University of Washington
 
 

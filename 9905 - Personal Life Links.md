@@ -186,6 +186,7 @@
 * http://www.nytimes.com/2014/12/02/upshot/the-divorce-surge-is-over-but-the-myth-lives-on.html
 * http://aeon.co/magazine/culture/why-the-traditional-wedding-isnt-as-traditional-as-it-seems/
 * http://dilbert.com/strips/2015-01-05/ <- hilarious
+* http://mobile.nytimes.com/2015/01/11/fashion/modern-love-to-fall-in-love-with-anyone-do-this.html
 
 
 

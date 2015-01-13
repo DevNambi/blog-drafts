@@ -55,6 +55,7 @@
 * http://www.stridenyc.com/blog/2014/10/3/im-agile-but-my-contract-isnt-how-to-align-contracts-with-agile-software-development-teams
 * http://blog.sugarenia.com/archives/life/how-to-work-remotely-and-live-to-tell-the-tale
 * http://andyadams.org/you-can-charge-more/
+* http://ozar.me/2015/01/yes-actually-enjoyed-selling-consulting-services/
 
 
 
