@@ -479,6 +479,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://jeremykun.com/2014/10/05/on-the-computational-complexity-of-mapreduce/
 * http://tech.adroll.com/blog/data/2013/07/10/hll-minhash.html
 * http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html
+* http://ben.kirw.in/2014/11/28/kafka-patterns/
 * http://www.slideshare.net/deanwampler/spark-the-next-top-compute-model-39976454
 * http://databricks.com/blog/2015/01/07/ml-pipelines-a-new-high-level-api-for-mllib.html
 * http://citusdata.com/blog/90-sql-scaling-and-whats-unique-about-postgres

@@ -41,6 +41,7 @@
 * http://arstechnica.com/tech-policy/2015/01/going-postal-reporter-sues-government-for-spying-from-usps-network/
 * http://arstechnica.com/security/2015/01/browsing-in-privacy-mode-super-cookies-can-track-you-anyway/
 * http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html
+* http://arstechnica.com/information-technology/2015/01/under-the-hood-of-i2p-the-tor-alternative-that-reloaded-silk-road/
 * http://www.theverge.com/2014/12/28/7458159/encryption-standards-the-nsa-cant-crack-pgp-tor-otr-snowden
 * http://blog.prof.so/2013/06/quantified.html
 * http://dhowe.github.io/AdNauseam/
