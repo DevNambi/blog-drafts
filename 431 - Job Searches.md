@@ -174,6 +174,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="http://www.fastcoexist.com/1681241/the-future-of-work-quantified-employees-pop-up-workplaces-and-more-telepresence" time_added="1359092128" tags="">The Future of Work: Quantified Employees, Pop-Up Workplaces, And More Telep</a></li>
 <li><a href="http://hoppycow.com/2014/12/13/working-remotely-for-extroverts/" >working remotely for extroverts</a></li>
 <li><a href="http://blog.learningbyshipping.com/2014/12/30/why-remote-engineering-is-so-difficult/">Why Remote Engineering Is So Difficult</a></li>
+<li><a href="http://blog.jonliv.es/remote-working-3-year-retrospective/">Working Remotely for 3 Years</a></li>
 </ul>
 
 

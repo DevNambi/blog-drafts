@@ -226,6 +226,7 @@
 
 
 * http://www.theatlantic.com/magazine/archive/2014/11/doctors-tell-all-and-its-bad/380785/
+* http://www.forbes.com/sites/robertszczerba/2015/01/13/study-suggests-wi-fi-exposure-more-dangerous-to-kids-than-previously-thought/
 * https://medium.com/matter-archive/the-drug-revolution-that-no-one-can-stop-19f753fb15e0
 * http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)62412-0/fulltext <- incredibly useful
 * http://online.wsj.com/articles/cancers-super-survivors-how-immunotherapy-is-transforming-oncology-1417714379#
