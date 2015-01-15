@@ -100,6 +100,7 @@
 * http://arstechnica.com/business/2014/12/uber-imposes-4x-surge-pricing-in-wake-of-sydney-crisis-then-free-rides/
 * https://stallman.org/uber.html
 * https://twitter.com/denisemarie322/status/550572967273304065
+* http://www.businessinsider.com/where-to-work-to-to-make-100000-driving-for-uber-lyft-and-sidecar-2015-1
 
 "It turns out Uber is a replacement for owning a car" say wealthy urbanites who don't have kids, pets, disabilities or outdoor hobbies." - https://twitter.com/mims
 
