@@ -61,6 +61,7 @@
 * http://arstechnica.com/tech-policy/2014/11/us-senate-falls-2-votes-short-of-shutting-down-nsa-phone-spying/
 * http://blog.cryptographyengineering.com/2014/12/on-new-snowden-documents.html
 * http://arstechnica.com/security/2014/10/nsas-core-secrets-suggests-agents-inside-firms-in-us-abroad/
+* http://blog.cryptographyengineering.com/2015/01/hopefully-last-post-ill-ever-write-on.html
 
 <li><a href="http://rt.com/usa/news/surveillance-spying-e-mail-citizens-178/" time_added="1354678483" tags="hn,important,personal tech">'Everyone in US under virtual surveillance' - NSA whistleblower — RT</a></li>
 

@@ -33,3 +33,4 @@ Vector computation - a panacea or not?
 * http://www.extremetech.com/extreme/188776-how-l1-and-l2-cpu-caches-work-and-why-theyre-an-essential-part-of-modern-chips
 * http://igoro.com/archive/gallery-of-processor-cache-effects/
 * http://www.damninteresting.com/on-the-origin-of-circuits/
+* http://www.reedbeta.com/blog/2015/01/12/data-oriented-hash-table/

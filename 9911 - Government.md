@@ -98,6 +98,7 @@
 * http://www.computerworld.com/article/2834927/hackers-strike-defense-companies-through-real-time-ad-bidding.html
 * http://www.foreignpolicy.com/articles/2014/10/24/yoda_has_left_the_building_andrew_marshall_pentagon_futurist
 * http://www.washingtonpost.com/politics/female-veterans-battling-ptsd-from-sexual-trauma-fight-for-redress/2014/12/25/f2f22d8e-7b07-11e4-b821-503cc7efed9e_story.html
+* http://www.economist.com/news/books-and-arts/21638096-how-private-armies-will-remake-modern-warfare-return-hired-gun?fsrc=scn/tw/te/pe/ed/returnofthehiredgun
 * http://www.nytimes.com/2014/11/13/us/cuts-in-military-mean-job-losses-for-career-staff.html?_r=0
 * http://www.telegraph.co.uk/news/worldnews/northamerica/usa/11319455/F-35-stealth-jet-will-not-be-able-to-fire-its-guns-until-2019.html
 * http://seattletimes.com/html/nationworld/2025004627_robotweaponsxml.html

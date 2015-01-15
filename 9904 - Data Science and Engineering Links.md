@@ -392,6 +392,7 @@
 * http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
 * https://www.youtube.com/watch?v=S75EdAcXHKk
 * http://erikbern.com/?p=841
+* http://yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html
 * http://www.wired.com/2014/12/new-startup-sets-bring-google-style-ai-masses/
 * http://techtv.mit.edu/collections/bcs/videos/30698-what-s-wrong-with-convolutional-nets
 * http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/
