@@ -29,6 +29,7 @@
 * http://www.rollingstone.com/politics/news/afghanistan-the-making-of-a-narco-state-20141204
 * https://firstlook.org/theintercept/2014/12/07/release-six-detainees-12-years-highlights-historic-evil-guantanamo/
 * https://www.nsa.gov/public_info/declass/IntelligenceOversightBoard.shtml <- released on Christmas Eve, a classic 'don't look here' sign
+* http://www.zdnet.com/article/department-of-homeland-security-oversight-report-dhs-is-a-terrifying-failure/
 
 
 <li><a href="https://firstlook.org/theintercept/2014/02/14/ongoing-abuse-state-secrets-privilege/" time_added="1392591442" tags="">Obama DOJ's New Abuse of State-Secrets Privilege Revealed - The Intercept</a></li>
