@@ -38,6 +38,7 @@
 * http://techcrunch.com/2014/12/28/mining-the-hive-mind/
 * https://medium.com/backchannel/who-is-watching-you-7296eeb036c1
 * http://www.theguardian.com/media/2014/oct/17/-sp-whisper-tracking-location-users-facts-response
+* https://medium.com/backchannel/how-bitcoins-blockchain-could-power-an-alternate-internet-bb501855af67
 * http://media.ccc.de/browse/congress/2014/31c3_-_6258_-_en_-_saal_1_-_201412282030_-_reconstructing_narratives_-_jacob_-_laura_poitras.html#video
 * https://www.eff.org/deeplinks/2015/01/verizon-and-turn-break-browser-privacy-protections
 * http://arstechnica.com/tech-policy/2015/01/going-postal-reporter-sues-government-for-spying-from-usps-network/
