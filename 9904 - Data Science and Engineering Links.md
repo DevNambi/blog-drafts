@@ -24,6 +24,7 @@
 * http://www.johndcook.com/blog/r_language_for_programmers/
 * https://www.youtube.com/user/PyDataTV
 * http://orgtheory.wordpress.com/2014/12/23/what-programming-tools-should-computational-sociologists-know/
+* http://www.rstudio.com/wp-content/uploads/2015/01/data-wrangling-cheatsheet.pdf
 
 
 
