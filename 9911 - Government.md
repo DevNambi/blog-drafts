@@ -96,6 +96,7 @@
 * http://www.salon.com/2004/07/15/hersh_7/
 * http://www.washingtonpost.com/wp-srv/special/national/cia-interrogation-report/word-count/ <- torture
 * http://militaryprofessionalreadinglists.com/
+* http://20committee.com/2015/01/15/a-pentagon-insider-speaks-on-obamas-gwow/
 * http://www.computerworld.com/article/2834927/hackers-strike-defense-companies-through-real-time-ad-bidding.html
 * http://www.foreignpolicy.com/articles/2014/10/24/yoda_has_left_the_building_andrew_marshall_pentagon_futurist
 * http://www.washingtonpost.com/politics/female-veterans-battling-ptsd-from-sexual-trauma-fight-for-redress/2014/12/25/f2f22d8e-7b07-11e4-b821-503cc7efed9e_story.html

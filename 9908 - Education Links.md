@@ -329,6 +329,7 @@
 	* https://www.insidehighered.com/sites/default/server_files/files/Ratings%20System.pdf
 	* https://www.insidehighered.com/sites/default/server_files/files/ratings%20framework%20draft.pdf
 * http://andrewgelman.com/2015/01/04/relaxed-plagiarism-standards-way-keep-tuition-dollars-flowing-foreign-students/
+* https://www.insidehighered.com/news/2015/01/16/law-schools-compete-students-many-may-not-have-admitted-past
 
 
 ### Student Culture, Sexual Assault, Assault

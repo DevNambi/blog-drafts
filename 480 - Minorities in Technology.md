@@ -11,6 +11,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * Image comes from http://chainsawsuit.com/wp-content/uploads/2014/10/20141015-perfectcrime.png
 * http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/
 * https://medium.com/@susanjohnson/hi-im-a-mom-and-a-start-up-founder-my-yc-story-3b8c8650ae95
+* http://www.nytimes.com/2015/01/11/opinion/sunday/speaking-while-female.html?_r=0
 * http://www.rollingstone.com/culture/features/anita-sarkeesian-gamergate-interview-20141017
 * http://kernelmag.dailydot.com/issue-sections/headline-story/11217/why-2014-was-actually-a-positive-year-for-women-in-tech/
 * http://www.rawstory.com/rs/2014/10/whites-riot-over-pumpkins-in-nh-and-twitter-turns-it-into-epic-lesson-about-ferguson/
