@@ -302,6 +302,7 @@
 * http://www.slate.com/blogs/the_slatest/2014/12/06/cop_in_mesa_arizona_punches_15_year_old_girl_in_the_face.html
 * http://www.geekwire.com/2014/seattle-police-hackathon-substantial-first-step/
 * http://gawker.com/the-nypd-is-an-embarrassment-to-the-city-of-new-york-1676173181
+* http://www.msnbc.com/msnbc/family-outraged-after-finding-police-using-mug-shots-target-practice <- WOW, CIVIL RIGHTS LAWSUIT
 
 
 @Papakila - Funny how the "broken window theory" of policing - punishing minor infractions severely - is never applied to the police themselves.
