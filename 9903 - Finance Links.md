@@ -27,6 +27,7 @@
 * http://www.nakedcapitalism.com/2014/12/greece-eurozones-rescue-troika-forgive-greeces-debt.html
 * http://www.nytimes.com/2014/12/27/world/even-loyalty-no-guarantee-against-putin.html <- might makes right. But now it's at the hands of a check and not a gun.
 * http://www.nytimes.com/2014/12/30/world/europe/greek-patience-with-austerity-nears-its-limit-.html?_r=0
+* http://mechanicalforex.com/2015/01/trading-a-real-market-what-the-swiss-national-bank-taught-retail-traders-today.html
 
 
 ## Elsewhere in the World
@@ -201,6 +202,7 @@
 * http://www.bloomberg.com/news/2014-11-16/norway-wealth-fund-outsmarts-flash-boys-as-algorithms-abandoned.html
 * http://www.futuresmag.com/2014/11/01/how-power-peg-brought-down-a-knight
 * http://dealbook.nytimes.com/2014/12/13/small-bank-in-kansas-is-a-financial-testing-ground/
+* http://www.realclearmarkets.com/articles/2015/01/16/amid_bitcoins_bloodbath_silence_from_silicon_valley_press_101490.html
 
 
 <li><a href="http://www.ecommercebytes.com/cab/abu/y201/m09/abu0047/s03" time_added="1354918107" tags="domestic,finance">Sniping Tools - Making Sure You Win the Auction</a></li>

@@ -109,6 +109,7 @@
 * http://www.nytimes.com/2014/12/04/opinion/nicholas-kristof-abusing-chickens-we-eat.html
 * http://well.blogs.nytimes.com/2014/12/08/bpa-in-cans-and-plastic-bottles-linked-to-quick-rise-in-blood-pressure/?_r=0
 * http://www.bbc.com/news/magazine-30549150
+* http://www.theatlantic.com/health/archive/2015/01/the-new-antibiotics-might-be-essential-oils/384247/
 
 
 
@@ -275,6 +276,7 @@
 * http://www.nature.com/news/antibiotic-resistance-the-last-resort-1.13426
 * http://www.nytimes.com/2014/12/04/world/asia/superbugs-kill-indias-babies-and-pose-an-overseas-threat.html?_r=0
 * http://www.wired.com/2015/01/2015-diseases-borders/
+* http://www.theatlantic.com/health/archive/2015/01/the-new-antibiotics-might-be-essential-oils/384247/
 
 
 
