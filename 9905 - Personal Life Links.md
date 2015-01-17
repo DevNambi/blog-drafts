@@ -245,7 +245,7 @@
 <li><a href="http://seattletimes.com/html/localnews/2023927693_orcastatusxml.html" time_added="1403736087" tags="">http://seattletimes.com/html/localnews/2023927693_orcastatusxml.html</a></li>
 <li><a href="http://www.buzzfeed.com/adamellis/things-you-miss-after-moving-away-from-portland" time_added="1399273994" tags="">21 Things You Miss After Moving Away From Portland</a></li>
 
-
+* http://seattletransitblog.com/2013/02/12/zipcar-vs-car2go/
 
 
 

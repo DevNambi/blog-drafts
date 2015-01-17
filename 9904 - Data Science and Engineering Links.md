@@ -485,6 +485,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://www.slideshare.net/deanwampler/spark-the-next-top-compute-model-39976454
 * http://databricks.com/blog/2015/01/07/ml-pipelines-a-new-high-level-api-for-mllib.html
 * http://citusdata.com/blog/90-sql-scaling-and-whats-unique-about-postgres
+* http://blog.rescale.com/the-real-cost-of-high-performance-computing/
 * http://byterot.blogspot.com/2015/01/future-of-programming-rise-of-the-scientific-developer-bigdata-datascience-machine-learning-and-fall-of-the-craftsman.html
 * http://harry.me/blog/2014/12/27/neat-algorithms-paxos/
 * http://techblog.netflix.com/2014/10/using-presto-in-our-big-data-platform.html
@@ -548,6 +549,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://www.newyorker.com/magazine/2014/10/13/planning-machine
 * https://speakerdeck.com/jdmaturen/towards-a-data-driven-product-techniques-and-tools-at-github
 * http://technocalifornia.blogspot.com/2014/12/ten-lessons-learned-from-building-real.html
+* http://www.frankmcsherry.org/graph/scalability/cost/2015/01/15/COST.html
 * http://arxiv.org/pdf/1210.0530v3.pdf <- Best Practices for Scientific Computing #priceless
 * http://www.slideshare.net/xamat/10-lessons-learned-from-building-machine-learning-systems
 * https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de
