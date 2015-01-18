@@ -55,6 +55,7 @@
 * http://robertheaton.com/2014/12/08/fun-with-your-friends-facebook-and-tinder-session-tokens/
 * https://crackstation.net/hashing-security.htm
 * http://www.wired.com/2015/01/security-predictions-2015/
+* http://www.forbes.com/sites/andygreenberg/2013/12/04/heres-the-letter-a-senator-sent-to-20-auto-makers-demanding-answers-on-car-hacking-threats/
 
 
 #### NSA

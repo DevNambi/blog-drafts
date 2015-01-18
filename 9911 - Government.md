@@ -225,10 +225,12 @@
 * http://www.cnn.com/video/data/2.0/video/us/2014/12/12/dnt-asthma-death-dash-cam-video.wqow.html
 * http://www.bostonglobe.com/ideas/2014/10/18/vote-all-you-want-the-secret-government-won-change/jVSkXrENQlu8vNcBfMn9sL/story.html
 * http://www.washingtonpost.com/investigations/holder-ends-seized-asset-sharing-process-that-split-billions-with-local-state-police/2015/01/16/0e7ca058-99d4-11e4-bcfb-059ec7a93ddc_story.html
+* http://countercurrentnews.com/2015/01/cop-fired-uncovered-police-policy/
 * http://arstechnica.com/tech-policy/2015/01/local-and-state-police-cant-use-federal-law-to-seize-assets-anymore/
 * http://www.psychologicalscience.org/index.php/news/releases/people-can-be-convinced-they-committed-a-crime-they-dont-remember.html
 * http://www.nytimes.com/2015/01/01/nyregion/new-york-city-murders-fall-but-the-police-arent-celebrating.html?_r=0
 * http://thinkprogress.org/justice/2014/12/12/3601771/people-police-killed-in-2014/
+* http://countercurrentnews.com/2014/12/native-american-police-over-reacting/
 * http://thefreethoughtproject.com/cop-shoves-gun-teens-face-mcdonalds-drive-thru-long/
 * http://www.tampabay.com/news/publicsafety/crime/times-exclusive-confidential-informer-blows-whistle-in-jason-westcott-death/2211596
 * http://www.jsonline.com/news/milwaukee/former-officer-wont-be-charged-in-fatal-shooting-of-dontre-hamilton-b99398655z1-286559211.html
