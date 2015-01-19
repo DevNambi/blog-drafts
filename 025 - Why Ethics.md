@@ -20,6 +20,9 @@
 * "Why should I care?"*
 * "I like to work on X technology"*
 
+
+"If a man isn't proud of what he does, then he isn't proud of his living" - garbageworker from the 1960's Memphis Civil Rights movement and protests.
+
 Technical professionals have a lot of power. We only rarely consider the effects of our power and how our work is being used.
 
 (IMAGE: with great power comes great...you know)

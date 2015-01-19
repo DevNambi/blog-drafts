@@ -61,6 +61,8 @@
 
 ## Blogging / Writing
 
+"Writing is a way for your brain to echo through the ages."
+
 <li><a href="http://t.co/4H5E1wfP" time_added="1355235586" tags="brand">shanselman: How Long Should a Blog Post Be? http://t.co/4H5E1wfP</a></li>
 <li><a href="http://www.copyblogger.com/exceptional-writer/" time_added="1349095560" tags="brand">How to Become an Exceptional Writer | Copyblogger</a></li>
 <li><a href="http://t.co/ifQUrZnu" time_added="1349480709" tags="brand">Phil_Factor: 20 redundant phrases to eliminate from your writing http://t.c</a></li>

@@ -174,6 +174,9 @@
 ## Police and Justice System
 
 
+* The "justice system" is often a tool of injustice. The name can be Orwellian.
+* The police are weapons. Weapons wielded by...what?
+
 <li><a href="http://www.vanityfair.com/online/daily/2014/08/veterans-ferguson-matthew-farwell" time_added="1408368336" tags="">What Combat Veterans See in Ferguson, Missouri | Vanity Fair</a></li>
 <li><a href="http://www.newyorker.com/news/news-desk/movement-grows-ferguson" time_added="1408332563" tags="">Hot damn this @jelani9 piece on the movement in #Ferguson is a masterwork. </a></li>
 <li><a href="http://7online.com/archive/9440401/" time_added="1409125490" tags="">Horrifying. Cops on camera yelling “Stop trying to take my gun” to a man wi</a></li>

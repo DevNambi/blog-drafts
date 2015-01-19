@@ -2,6 +2,10 @@
 
 ## Amazon
 
+* The behavior of Amazon to its temp workers mirrors how various companies treated their African-American employees before the civil rights movement.
+
+
+
 <li><a href="http://publishersweekly.com/pw/by-topic/columns-and-blogs/soapbox/article/60517-life-after-amazon.html" time_added="1388860839" tags="">Life After Amazon</a></li>
 <li><a href="http://www.feld.com/archives/2014/07/amazons-scorpion-problem.html" time_added="1406658552" tags="">Amazon's Scorpion Problem - Feld Thoughts</a></li>
 <li><a href="http://stratechery.com/2014/losing-amazon-religion/" time_added="1406651630" tags="">Losing my Amazon Religion</a></li>

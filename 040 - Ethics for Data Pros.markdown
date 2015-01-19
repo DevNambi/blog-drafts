@@ -59,8 +59,17 @@ We believe we are working to make our society, our world, a better place. At the
 
 
 
-Data - depends on what you do with it. Show example and counterexample, per industry. 
-The ethics of the scientific method.
+* Data - depends on what you do with it. Show example and counterexample, per industry. 
+* The ethics of the scientific method.
+* Data, including AI and data science, is a subtle form of discrimination much of the time. What are the implications?
+	* De-humanizing people
+	* Intentions/implications are important
+
+
+
+
+
+
 
 ## Disrupting Unethical Industries
 
@@ -78,6 +87,8 @@ One of the.
 
 * Craigslist.
 * AutoTrader.
+
+The economics of 
 
 
 ----
