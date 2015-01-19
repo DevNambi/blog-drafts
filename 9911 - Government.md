@@ -237,6 +237,7 @@
 * http://thefreethoughtproject.com/cop-shoves-gun-teens-face-mcdonalds-drive-thru-long/
 * http://www.tampabay.com/news/publicsafety/crime/times-exclusive-confidential-informer-blows-whistle-in-jason-westcott-death/2211596
 * http://www.jsonline.com/news/milwaukee/former-officer-wont-be-charged-in-fatal-shooting-of-dontre-hamilton-b99398655z1-286559211.html
+* http://www.nakedcapitalism.com/2015/01/home-prison-lock-neighborhood-country.html
 * http://www.reddit.com/r/AskReddit/comments/2p3qvo/good_cops_of_reddit_why_is_it_so_dangerous_to/
 * http://www.cnn.com/2014/12/12/justice/cleveland-tamir-rice/index.html?sr=reddit
 * http://www.komonews.com/news/local/State-troopers-caught-ignoring-speeding-cops-278746621.html?mobile=y&clmob=y&c=n

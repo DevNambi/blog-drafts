@@ -72,6 +72,8 @@
 * http://www.nakedcapitalism.com/2014/12/airing-grievances.html
 * http://www.nakedcapitalism.com/2014/12/why-bother-with-loan-officers.html
 * http://www.nakedcapitalism.com/2014/12/climate-change-triage-protect-money-people.html
+* http://www.nakedcapitalism.com/2015/01/paper-exposing-private-equity-manipulation-electricity-prices-nixed-editor-private-equity-ties.html
+* http://www.nakedcapitalism.com/2015/01/fed-testimony-aig-bailout-trial-walks-like-perjury-quacks-like-perjury.html
 
 
 
