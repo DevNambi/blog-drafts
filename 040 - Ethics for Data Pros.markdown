@@ -88,8 +88,9 @@ One of the.
 * Craigslist.
 * AutoTrader.
 
-The economics of 
 
+Mismeasurement and incentives
+	* GDP vs. human happiness/suffering
 
 ----
 # Raw Notes
@@ -106,24 +107,32 @@ Good day: did I help? Did I hurt?
 When you can't choose, pick buckets.
 
 
-https://twitter.com/DalaiLama/status/391133766288035840
+Does it make sense to name-and-shame people who do bad things?
 
+Debt seems like the opposite of gratitude, generosity and humility. It's power over other people.
 
-http://www.theguardian.com/technology/2014/jul/20/rise-of-data-death-of-politics-evgeny-morozov-algorithmic-regulation
+"Deeds not creeds" - how you live is what matters.
+
+* https://twitter.com/DalaiLama/status/391133766288035840
+* http://www.theguardian.com/technology/2014/jul/20/rise-of-data-death-of-politics-evgeny-morozov-algorithmic-regulation
 https://www.dropbox.com/s/ho3jis36pxiid76/Screenshot%202014-07-19%2019.14.05.png
+* http://techcrunch.com/2014/08/02/the-rorschach-rashomon/
+* http://www.theatlantic.com/business/archive/2014/07/how-to-swindle-soldiers/375090/
+* http://lifehacker.com/seven-important-lessons-from-world-religions-everyone-s-1613615832
+* http://chronicle.com/article/Why-Privacy-Matters-Even-if-You-Have-Nothing-to-Hide/127461/
+* http://www.nakedcapitalism.com/2014/08/treatment-vaccine-ebola-1000-pill-hepatitis-c.html
+* http://www.forbes.com/sites/kashmirhill/2014/07/30/cloudflare-protection/
 
-http://techcrunch.com/2014/08/02/the-rorschach-rashomon/
+Affordable housing.
+	How much do people spend on a place to live?
+	How to hack this?
+	Cost of land vs. cost of building
+	How do city policies affect affordability and availability?
+	When building magnates promise 'affordable housing', how much of that actually happens?
 
-http://www.theatlantic.com/business/archive/2014/07/how-to-swindle-soldiers/375090/
-http://lifehacker.com/seven-important-lessons-from-world-religions-everyone-s-1613615832
-
-http://chronicle.com/article/Why-Privacy-Matters-Even-if-You-Have-Nothing-to-Hide/127461/
-
-http://www.nakedcapitalism.com/2014/08/treatment-vaccine-ebola-1000-pill-hepatitis-c.html
 
 Clothing website for real people's sizes
 
-http://www.forbes.com/sites/kashmirhill/2014/07/30/cloudflare-protection/
 
 <li><a href="http://t.co/6eOnpC9w" time_added="1356155402" tags="data science">hmason: Do good with data. @donorschoose hires a data scientist!  http://t.</a></li>
 <li><a href="http://t.co/Xe8xUibH" time_added="1358602698" tags="data ethics">hmason: Lack of guidelines create ethical dilemmas in social network-based </a></li>

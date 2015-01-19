@@ -51,6 +51,7 @@
 * http://www.theverge.com/2014/12/28/7458159/encryption-standards-the-nsa-cant-crack-pgp-tor-otr-snowden
 * http://blog.prof.so/2013/06/quantified.html
 * http://dhowe.github.io/AdNauseam/
+* http://webpolicy.org/2012/02/17/safari-trackers/
 * http://arstechnica.com/tech-policy/2015/01/obama-calls-for-new-consumer-student-and-energy-data-privacy-laws/
 * http://blogs.microsoft.com/on-the-issues/2014/10/23/four-10-americans-face-regular-online-fraud-attacks-microsoft-survey/
 * http://arstechnica.com/information-technology/2014/10/taking-back-privacy-in-the-post-snowden-cloud/
