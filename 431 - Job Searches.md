@@ -158,6 +158,7 @@ Interviews are one of the best times to find out about a company's culture, work
 <li><a href="http://heidiroizen.tumblr.com/post/100265592165/some-thoughts-on-asking-for-a-raise">Some thoughts on asking for a raise.</a></li>
 <li><a href="http://www.theatlantic.com/business/archive/2014/04/the-unexpected-benefit-of-telling-people-what-their-coworkers-make/360301/">The Unexpected Benefit of Telling People What Their Coworkers Make</a></li>
 <li><a href="http://jacobian.org/writing/unlimited-vacation/">On Unlimited Vacation</a></li>
+<li><a href="http://jacquesmattheij.com/Salary+negotiations+for+techies">Salary Negotiations for Techies</a></li>
 </ul>
 
 

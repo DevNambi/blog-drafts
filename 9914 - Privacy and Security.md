@@ -43,6 +43,7 @@
 * https://medium.com/backchannel/how-bitcoins-blockchain-could-power-an-alternate-internet-bb501855af67
 * http://media.ccc.de/browse/congress/2014/31c3_-_6258_-_en_-_saal_1_-_201412282030_-_reconstructing_narratives_-_jacob_-_laura_poitras.html#video
 * https://www.eff.org/deeplinks/2015/01/verizon-and-turn-break-browser-privacy-protections
+* https://www.eff.org/deeplinks/2015/01/which-apps-and-browsers-protect-you-against-verizon-and-turns-non-consensual
 * http://arstechnica.com/tech-policy/2015/01/going-postal-reporter-sues-government-for-spying-from-usps-network/
 * http://arstechnica.com/security/2015/01/browsing-in-privacy-mode-super-cookies-can-track-you-anyway/
 * http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html
