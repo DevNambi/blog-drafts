@@ -359,7 +359,8 @@
 * http://www.theatlantic.com/business/archive/2014/12/mfas-an-increasingly-popular-increasingly-bad-financial-decision/383706/
 * http://www.salon.com/2015/01/02/another_college_tuition_nightmare_even_free_college_isnt_free_anymore/
 * http://occupythebookstore.com/
-
+* http://www.nytimes.com/2015/01/18/upshot/helping-the-poor-in-higher-education-the-power-of-a-simple-nudge.html?abt=0002&abg=0
+* http://www.nytimes.com/2015/01/18/nyregion/cuomo-to-offer-plan-to-cut-college-graduates-debt.html
 
 
 #### Adjuncts
@@ -400,6 +401,7 @@
 * http://seattletimes.com/html/education/2025132186_edlabacademicredshirtxml.html
 * http://blogs.seattletimes.com/educationlab/2015/01/05/report-uw-accounting-is-confusing-lacks-consistency/ <- OPB is hosed
 * https://news.cs.washington.edu/2015/01/06/uw-cse-introductory-course-enrollment-continues-to-explode/
+* http://seattletimes.com/html/localnews/2025495337_wsubellevuexml.html
 
 
 
