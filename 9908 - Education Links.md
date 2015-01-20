@@ -362,6 +362,7 @@
 * http://occupythebookstore.com/
 * http://www.nytimes.com/2015/01/18/upshot/helping-the-poor-in-higher-education-the-power-of-a-simple-nudge.html?abt=0002&abg=0
 * http://www.nytimes.com/2015/01/18/nyregion/cuomo-to-offer-plan-to-cut-college-graduates-debt.html
+* http://kristiculpepper.tumblr.com/post/108127738567/student-loan-myths-and-implications-for-taxpayers
 
 
 #### Adjuncts
