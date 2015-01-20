@@ -306,6 +306,7 @@
 * http://research.microsoft.com/en-us/projects/r2/
 * http://probabilistic-programming.org/wiki/Home
 * http://new.livestream.com/accounts/7874891/events/3565981 <- ML conf videos
+* http://katrinaeg.com/simulated-annealing.html
 * http://pralab.diee.unica.it/en/AdversariaLib
 * https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 * http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/

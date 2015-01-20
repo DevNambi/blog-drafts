@@ -345,6 +345,7 @@
 * http://www.nytimes.com/2014/12/22/nyregion/accusers-and-the-accused-crossing-paths-at-columbia.html?_r=0 <- wow that's complicated. Also makes people uneasy.
 * https://www.insidehighered.com/quicktakes/2014/12/30/what-oregon-state-knew-1998-gang-rape-allegation
 * http://baltimore.cbslocal.com/2014/12/29/bowie-state-student-sues-frat-for-hazing/
+* http://www.nytimes.com/2015/01/20/us/sorority-anti-rape-idea-drinking-on-own-turf.html?_r=0
 
 
 ### Finance, Debt
@@ -419,6 +420,7 @@
 <li><a href="http://t.co/IWlxtLnsqO" time_added="1362079490" tags="academia">Carnegie Mellon: The MOOC-Averse Technology U. - insidehighered.com/news/20</a></li>
 
 * http://blog.mrmeyer.com/2014/what-students-do-and-dont-do-in-khan-academy/
+* https://www.class-central.com/report/moocs-stats-and-trends-2014/
 
 
 

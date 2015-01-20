@@ -112,6 +112,7 @@ ortant,personal tech">Kill the Password: Why a String of Characters Can't Protec
 * http://w3guy.com/amazon-s3-images-clouflare/
 * https://www.jitbit.com/alexblog/245-huge-metric-that-google-analytics-will-never-show/
 * http://cactusformac.com/
+* http://queue.acm.org/detail.cfm?id=2721993
 
 
 

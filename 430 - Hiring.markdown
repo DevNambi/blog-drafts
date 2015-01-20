@@ -33,6 +33,7 @@ This is an information problem. It's also a FUD problem.
 * http://blog.alinelerner.com/resumes-suck-heres-the-data/?hn=1
 * http://weblog.raganwald.com/2006/06/my-favourite-interview-question.html
 * http://carlos.bueno.org/2014/06/refactoring.html
+* http://swizec.com/blog/dear-tech-companies-this-is-not-how-you-hire-engineers/swizec/6643
 
 ### Ways to troll recruiters
 
