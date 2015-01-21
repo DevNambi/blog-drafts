@@ -332,6 +332,8 @@
 * http://austingwalters.com/pca-principal-component-analysis/
 * https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43146.pdf
 * http://www.john-foreman.com/blog/the-perilous-world-of-machine-learning-for-fun-and-profit-pipeline-jungles-and-hidden-feedback-loops
+* http://betterexplained.com/articles/linear-algebra-guide/
+* http://setosa.io/ev/eigenvectors-and-eigenvalues/
 
 
 

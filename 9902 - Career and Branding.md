@@ -30,6 +30,7 @@
 * http://www.business2community.com/blogging/11-google-analytics-metrics-bloggers-track-01064673
 * https://rowfeeder.com/
 * http://embed.ly/extract
+* http://www.economist.com/node/21639500/print
 
 
 
