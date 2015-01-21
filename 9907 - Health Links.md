@@ -110,6 +110,8 @@
 * http://well.blogs.nytimes.com/2014/12/08/bpa-in-cans-and-plastic-bottles-linked-to-quick-rise-in-blood-pressure/?_r=0
 * http://www.bbc.com/news/magazine-30549150
 * http://www.theatlantic.com/health/archive/2015/01/the-new-antibiotics-might-be-essential-oils/384247/
+* http://www.nytimes.com/2015/01/20/dining/animal-welfare-at-risk-in-experiments-for-meat-industry.html
+* http://seattletimes.com/html/nationworld/2025500513_pizzaobesexml.html
 
 
 
@@ -227,6 +229,7 @@
 
 
 * http://www.theatlantic.com/magazine/archive/2014/11/doctors-tell-all-and-its-bad/380785/
+* http://www.protectpatientsblog.com/2015/01/the_health_connection_between.html <- correlation, again
 * http://www.forbes.com/sites/robertszczerba/2015/01/13/study-suggests-wi-fi-exposure-more-dangerous-to-kids-than-previously-thought/
 * https://medium.com/matter-archive/the-drug-revolution-that-no-one-can-stop-19f753fb15e0
 * http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)62412-0/fulltext <- incredibly useful

@@ -30,6 +30,7 @@
 * https://firstlook.org/theintercept/2014/12/07/release-six-detainees-12-years-highlights-historic-evil-guantanamo/
 * https://www.nsa.gov/public_info/declass/IntelligenceOversightBoard.shtml <- released on Christmas Eve, a classic 'don't look here' sign
 * http://www.zdnet.com/article/department-of-homeland-security-oversight-report-dhs-is-a-terrifying-failure/
+* http://www.nytimes.com/2015/01/20/dining/animal-welfare-at-risk-in-experiments-for-meat-industry.html
 
 
 <li><a href="https://firstlook.org/theintercept/2014/02/14/ongoing-abuse-state-secrets-privilege/" time_added="1392591442" tags="">Obama DOJ's New Abuse of State-Secrets Privilege Revealed - The Intercept</a></li>
@@ -209,6 +210,7 @@
 * http://www.slate.com/articles/news_and_politics/jurisprudence/2013/06/salinas_v_texas_right_to_remain_silent_supreme_court_right_to_remain_silent.html
 * http://vizual-statistix.tumblr.com/post/105282552911/the-recent-series-of-high-profile-killings-of
 * http://www.propublica.org/article/judge-orders-nypd-to-release-records-on-x-ray-vans
+* http://www.nytimes.com/2015/01/21/us/prison-beard-ban-gregory-holt-ruling.html
 * http://www.salon.com/2014/12/19/this_is_not_a_war_this_is_a_12_year_old_kid_shocking_video_shows_plainclothes_nypd_cop_punching_child/
 * http://abcnews.go.com/US/family-toddler-injured-swat-grenade-faces-1m-medical/story?id=27671521
 * http://reason.com/blog/2014/12/30/nypd-punishes-city-by-not-citing-arresti
@@ -309,6 +311,7 @@
 * http://www.geekwire.com/2014/seattle-police-hackathon-substantial-first-step/
 * http://gawker.com/the-nypd-is-an-embarrassment-to-the-city-of-new-york-1676173181
 * http://www.msnbc.com/msnbc/family-outraged-after-finding-police-using-mug-shots-target-practice <- WOW, CIVIL RIGHTS LAWSUIT
+* http://www.salon.com/2015/01/20/supreme_court_is_clueless_about_cops_how_they_help_police_prey_on_poor_people/
 
 
 @Papakila - Funny how the "broken window theory" of policing - punishing minor infractions severely - is never applied to the police themselves.
@@ -349,3 +352,4 @@
 * http://america.aljazeera.com/opinions/2014/12/laffer-curve-taxcutshikeseconomics.html
 * http://www.psiru.org/reports/public-and-private-sector-efficiency
 * http://www.latimes.com/business/hiltzik/la-fi-mh-erode-the-credibility-of-budget-estimates-20141222-column.html
+* http://www.nytimes.com/2015/01/21/upshot/better-but-still-troubled-our-take-on-the-state-of-the-union.html

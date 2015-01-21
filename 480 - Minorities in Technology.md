@@ -47,6 +47,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * http://www.newstatesman.com/laurie-penny/on-nerd-entitlement-rebel-alliance-empire
 * http://blog.jessitron.com/2015/01/systems-thinking-about-wit.html
 * http://pastebin.com/3jAQARCy <- incredibly troubling
+* http://www.reddit.com/r/IAmA/comments/2syfmu/happy_mlk_day_iama_black_computer_scientist_who/?sort=top
 
 
 

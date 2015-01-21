@@ -119,6 +119,7 @@ Interviews are one of the best times to find out about a company's culture, work
 <li><a href="http://moz.com/rand/what-company-culture-is-and-is-not/" time_added="1357833495" tags="brand">What Company Culture IS and IS NOT - Rand's Blog</a></li>
 <li><a href="http://www.bothsidesofthetable.com/2012/12/10/some-quick-sage-advice-for-young-employees-early-in-their-careers/" time_added="1355241533" tags="brand,hn,important">Some Quick Sage Advice for Young Employees Early in Their Careers</a></li>
 <li><a href="https://medium.com/apple-daily/f5f8c807d868" >I wanted to work at Apple really bad, and now not so much.</a></li>
+<li><a href="https://modelviewculture.com/pieces/hacker-mythologies-and-mismanagement">Hacker Mythologies and Mismanagement</a></li>
 </ul>
 
 

@@ -11,6 +11,7 @@
 * http://seattletimes.com/html/nationworld/2024816652_factoryfirexml.html
 * http://www.nytimes.com/2014/10/27/technology/using-cash-and-pressure-china-builds-its-chip-industry.html
 * http://www.nakedcapitalism.com/2014/12/michael-pettis-china-really-turning-away-dollar.html
+* http://www.bloombergview.com/articles/2015-01-20/china-gdp-numbers-show-room-for-xi-jinping-to-reform
 
 
 ## Europe
@@ -28,6 +29,9 @@
 * http://www.nytimes.com/2014/12/27/world/even-loyalty-no-guarantee-against-putin.html <- might makes right. But now it's at the hands of a check and not a gun.
 * http://www.nytimes.com/2014/12/30/world/europe/greek-patience-with-austerity-nears-its-limit-.html?_r=0
 * http://mechanicalforex.com/2015/01/trading-a-real-market-what-the-swiss-national-bank-taught-retail-traders-today.html
+* http://www.businessinsider.com/denmark-just-followed-switzerland-and-slashed-interest-rates-as-europe-stagnates-2015-1
+* http://www.bbc.com/news/world-europe-30864088
+* http://www.balkaninsight.com/en/article/the-great-leap-rightward
 
 
 ## Elsewhere in the World
