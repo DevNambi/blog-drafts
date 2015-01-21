@@ -60,6 +60,11 @@
 
 
 
+## Other Countries
+
+* http://www.theverge.com/2015/1/21/7861645/finfisher-spyware-let-bahrain-government-hack-political-activist
+
+
 
 ## Military and CIA
 
@@ -207,6 +212,8 @@
 
 
 * http://www.ajc.com/news/news/breaking-news/no-charges-for-officers-in-botched-drug-raid-that-/nhc2N/
+* http://arstechnica.com/tech-policy/2015/01/cops-get-handheld-radar-that-can-detect-people-breathing-through-walls/
+* http://www.wired.com/2015/01/implicit-bias-police-racism-science/
 * http://www.slate.com/articles/news_and_politics/jurisprudence/2013/06/salinas_v_texas_right_to_remain_silent_supreme_court_right_to_remain_silent.html
 * http://vizual-statistix.tumblr.com/post/105282552911/the-recent-series-of-high-profile-killings-of
 * http://www.propublica.org/article/judge-orders-nypd-to-release-records-on-x-ray-vans

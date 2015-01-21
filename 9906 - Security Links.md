@@ -37,8 +37,12 @@
 
 
 * http://www.bloomberg.com/news/2014-10-02/jpmorgan-says-data-breach-affected-76-million-households.html
+* http://arstechnica.com/security/2015/01/wireless-device-in-two-million-cars-wide-open-to-hacking/
+* https://www.codeandsec.com/Supreme-Leaders-Not-That-Supreme-Malwares
+* http://www.wired.com/2015/01/state-of-our-unions-data-insecure/
 * https://medium.com/@thedanigrant/need-a-last-minute-flight-45af88ec8df3
 * https://www.schneier.com/blog/archives/2015/01/the_security_of_10.html
+* http://cwe.mitre.org/top25/
 * http://recode.net/2015/01/12/dont-ignore-the-simple-cyber-attacks-says-security-blogger-brian-krebs-qa/
 * https://medium.com/@SwiftOnSecurity/a-story-about-jessica-and-her-computer-e400fa9fd4e
 * http://www.extremetech.com/mobile/197346-google-throws-nearly-a-billion-android-users-under-the-bus-refuses-to-patch-os-vulnerability

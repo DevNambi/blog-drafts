@@ -173,6 +173,7 @@
 * http://research.gigaom.com/2014/07/part-1-what-makes-teams-successful/
 * http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/
 * http://jacquesmattheij.com/saving-a-project-and-a-company
+* http://www.methodsandtools.com/archive/archive.php?id=66
 
 
 

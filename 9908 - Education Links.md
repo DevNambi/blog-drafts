@@ -361,9 +361,15 @@
 * http://www.theatlantic.com/business/archive/2014/12/mfas-an-increasingly-popular-increasingly-bad-financial-decision/383706/
 * http://www.salon.com/2015/01/02/another_college_tuition_nightmare_even_free_college_isnt_free_anymore/
 * http://occupythebookstore.com/
+<<<<<<< Updated upstream
 * http://www.nytimes.com/2015/01/18/upshot/helping-the-poor-in-higher-education-the-power-of-a-simple-nudge.html?abt=0002&abg=0
 * http://www.nytimes.com/2015/01/18/nyregion/cuomo-to-offer-plan-to-cut-college-graduates-debt.html
 * http://kristiculpepper.tumblr.com/post/108127738567/student-loan-myths-and-implications-for-taxpayers
+=======
+* http://www.nakedcapitalism.com/2015/01/department-of-education-sides-against-students-to-feather-its-own-bed-in-for-profit-corinthian-colleges-debacle.html
+
+
+>>>>>>> Stashed changes
 
 
 #### Adjuncts

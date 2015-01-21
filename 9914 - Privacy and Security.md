@@ -30,6 +30,7 @@
 
 * http://www.theatlantic.com/technology/archive/2014/09/why-privacy-policies-are-so-inscrutable/379615/
 * http://seattletimes.com/html/businesstechnology/2025244750_apxtecidentitytheftthehassle.html
+* https://blog.mozilla.org/security/2015/01/21/meta-referrer/
 * http://webpolicy.org/2015/01/14/turn-verizon-zombie-cookie/
 * http://techcrunch.com/2014/10/11/edward-snowden-new-yorker-festival/
 * http://www.washingtonpost.com/blogs/the-fix/wp/2015/01/18/with-snowden-in-the-background-privacy-takes-a-back-seat-to-security/
