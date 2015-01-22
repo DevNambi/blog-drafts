@@ -246,6 +246,7 @@
 * http://www.salon.com/2014/07/03/behind_facebooks_manipulation_its_data_science_team_works_with_few_boundaries/
 * http://www.nytimes.com/2014/12/19/opinion/your-waitress-your-professor.html?_r=0
 * http://www.nytimes.com/2014/08/03/education/edlife/socrates-takes-a-back-seat-to-business-and-tech.html
+* http://www.mattwallaert.com/choosing-career-social-psych-way/
 * http://mobile.nytimes.com/2014/07/05/your-money/paying-for-college/chasing-in-state-tuition-as-colleges-tighten-rules.html
 * http://www.washingtonpost.com/opinions/peter-thiel-thinking-too-highly-of-higher-ed/2014/11/21/f6758fba-70d4-11e4-893f-86bd390a3340_story.html
 * http://www.salon.com/2014/07/05/ronald_reagan_stuck_it_to_millennials_a_college_debt_history_lesson_no_one_tells/
