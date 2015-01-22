@@ -33,6 +33,7 @@
 * http://timesofindia.indiatimes.com/tech/tech-news/Pastebin-Dailymotion-Github-blocked-after-DoT-order-Report/articleshow/45701713.cms
 * http://www.theverge.com/2015/1/2/7481409/the-mpaa-has-a-new-plan-to-stop-copyright-violations-at-the-border
 * http://torrentfreak.com/in-europe-pirates-are-writing-the-copyright-law-150104/
+* http://www.politico.com/magazine/story/2015/01/you-bought-it-but-dont-own-it-and-thats-wrong-114163.html <- DRM is an attack on property rights
 
 
 "Any time someone puts a lock on something that belongs to you and won't give you the key, the lock isn't there for your benefit" - Cory Doctorow

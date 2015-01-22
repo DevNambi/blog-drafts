@@ -226,6 +226,7 @@
 * https://storify.com/tempusrob/cory-provost-pd-incident
 * http://www.reuters.com/article/2014/12/23/us-usa-police-nypd-race-insight-idUSKBN0K11EV20141223
 * http://www.rollingstone.com/politics/news/the-nypds-work-stoppage-is-surreal-20141231
+* http://news.yahoo.com/video-shows-man-shot-jersey-police-raising-hands-150049422.html
 * http://www.laweekly.com/publicspectacle/2014/12/31/when-a-cartoonist-landed-in-la-county-jail-she-drew-what-she-saw-using-only-a-golf-pencil?showFullText=true
 * http://www.theguardian.com/society/2014/dec/23/man-prison-job-too-early-morning
 * http://www.sacbee.com/news/local/crime/article5641188.html

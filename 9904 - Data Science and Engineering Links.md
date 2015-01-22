@@ -483,6 +483,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 
 * http://jeremykun.com/2014/10/05/on-the-computational-complexity-of-mapreduce/
 * http://tech.adroll.com/blog/data/2013/07/10/hll-minhash.html
+* https://gigaom.com/2015/01/21/netflix-is-open-sourcing-tools-for-analyzing-data-in-hadoop/
 * http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html
 * http://ben.kirw.in/2014/11/28/kafka-patterns/
 * http://www.slideshare.net/deanwampler/spark-the-next-top-compute-model-39976454
