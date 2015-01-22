@@ -34,3 +34,5 @@ Vector computation - a panacea or not?
 * http://igoro.com/archive/gallery-of-processor-cache-effects/
 * http://www.damninteresting.com/on-the-origin-of-circuits/
 * http://www.reedbeta.com/blog/2015/01/12/data-oriented-hash-table/
+
+Columnar compression - pull out as a CSV, flip into rows using AWK, http://www.unix.com/shell-programming-and-scripting/211181-converting-rows-columns-csv-file.html , and try compressing that way.
