@@ -348,6 +348,7 @@
 * https://www.insidehighered.com/quicktakes/2014/12/30/what-oregon-state-knew-1998-gang-rape-allegation
 * http://baltimore.cbslocal.com/2014/12/29/bowie-state-student-sues-frat-for-hazing/
 * http://www.nytimes.com/2015/01/20/us/sorority-anti-rape-idea-drinking-on-own-turf.html?_r=0
+* https://www.insidehighered.com/news/2015/01/23/complainant-unprecedented-walter-lewin-sexual-harassment-case-comes-forward
 
 
 ### Finance, Debt
