@@ -13,6 +13,7 @@
 * https://medium.com/@DanielleMorrill/is-my-startup-burn-rate-normal-882b2bd20f02
 * http://qz.com/300825/how-fab-com-went-from-a-1-billion-valuation-to-a-15-million-fire-sale/?VCBS
 * http://alexstechthoughts.com/post/106513520281/fact-checking-in-the-startup-world
+* http://berkeleyjournal.org/2015/01/morality-and-the-idea-of-progress-in-silicon-valley/
 
 
 
