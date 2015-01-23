@@ -22,6 +22,8 @@ Technical professionals have great power. But we don't consider our effect on so
 
 We believe we are working to make our society, our world, a better place. At the very least we believe we aren't making things worse. We try and behave **ethically**.
 
+"when you hear about a new start-up, remember to ask "Does this exist primarily to undercut unionized workers or quietly skirt labour laws?""
+
 "Ethics: moral principles that govern a person's or group's behavior"
 
 * http://mathbabe.org/2013/11/12/there-is-no-market-solution-for-ethics/

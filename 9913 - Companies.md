@@ -85,6 +85,10 @@
 * http://arstechnica.com/business/2015/01/sprint-goes-off-script-says-title-ii-wont-hurt-wireless-investment/
 
 
+## Google
+
+* http://www.webpronews.com/data-confirms-google-is-wiping-out-a-whole-category-of-websites-2015-01
+
 
 ## Uber
 

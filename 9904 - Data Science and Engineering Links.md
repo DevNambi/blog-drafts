@@ -15,6 +15,7 @@
 * http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/
 * http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf
 * http://nbviewer.ipython.org/github/jakevdp/ESAC-stats-2014/blob/master/notebooks/Index.ipynb
+* https://www.airpair.com/python/posts/top-mistakes-python-big-data-analytics
 * http://streamhacker.com/2011/10/31/fuzzy-string-matching-python/
 * http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/
 * https://github.com/ipython-books/cookbook-code/blob/master/toc.md <- amazingly useful
