@@ -13,6 +13,7 @@
 
 
 * http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/
+* http://learnds.com/
 * http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf
 * http://nbviewer.ipython.org/github/jakevdp/ESAC-stats-2014/blob/master/notebooks/Index.ipynb
 * https://www.airpair.com/python/posts/top-mistakes-python-big-data-analytics
@@ -555,6 +556,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * https://speakerdeck.com/jdmaturen/towards-a-data-driven-product-techniques-and-tools-at-github
 * http://technocalifornia.blogspot.com/2014/12/ten-lessons-learned-from-building-real.html
 * http://www.frankmcsherry.org/graph/scalability/cost/2015/01/15/COST.html
+* http://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/
 * http://arxiv.org/pdf/1210.0530v3.pdf <- Best Practices for Scientific Computing #priceless
 * http://www.slideshare.net/xamat/10-lessons-learned-from-building-machine-learning-systems
 * https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de
