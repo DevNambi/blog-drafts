@@ -248,6 +248,7 @@
 * https://www.backblaze.com/blog/petabytes-on-a-budget-how-to-build-cheap-cloud-storage-2/
 * http://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time
 * http://cloudacademy.com/blog/google-cloud-vs-aws-a-comparison/
+* http://tech.forter.com/comparing-message-queue-architectures-on-aws/
 * http://techcrunch.com/2014/11/04/google-launches-managed-service-for-running-docker-based-applications-on-its-cloud-platform/
 * https://gigaom.com/2014/11/12/amazon-details-how-it-does-networking-in-its-data-centers/
 * https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e

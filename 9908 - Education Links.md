@@ -349,6 +349,8 @@
 * http://baltimore.cbslocal.com/2014/12/29/bowie-state-student-sues-frat-for-hazing/
 * http://www.nytimes.com/2015/01/20/us/sorority-anti-rape-idea-drinking-on-own-turf.html?_r=0
 * https://www.insidehighered.com/news/2015/01/23/complainant-unprecedented-walter-lewin-sexual-harassment-case-comes-forward
+* http://seattletimes.com/html/nationworld/2025538617_vanderbiltrapexml.html
+* http://www.salon.com/2015/01/25/i_wish_id_never_reported_my_rape/
 
 
 ### Finance, Debt
@@ -357,21 +359,18 @@
 * http://highereddatastories.blogspot.com/2014/11/what-is-pell-grant-worth.html
 * http://www.nytimes.com/2014/11/22/your-money/paying-for-college/college-abacus-offers-data-on-college-costs-but-some-schools-balk.html
 * http://seattletimes.com/html/opinion/2025124962_spitzeropedhighered30xml.html
+* http://www.nytimes.com/2015/01/25/upshot/a-quiet-revolution-in-helping-lift-the-burden-of-student-debt.html?abt=0002&abg=1
 * https://www.americanprogress.org/issues/higher-education/report/2014/12/03/102407/state-disinvestment-in-higher-education-has-led-to-an-explosion-of-student-loan-debt/
 * https://www.insidehighered.com/news/2014/12/12/cfpb-accuses-two-debt-relief-companies-predatory-practices
 * https://www.insidehighered.com/news/2014/12/15/federal-audit-faults-education-department-lack-plan-prevent-student-loan-defaults
 * http://www.theatlantic.com/business/archive/2014/12/mfas-an-increasingly-popular-increasingly-bad-financial-decision/383706/
 * http://www.salon.com/2015/01/02/another_college_tuition_nightmare_even_free_college_isnt_free_anymore/
 * http://occupythebookstore.com/
-<<<<<<< Updated upstream
 * http://www.nytimes.com/2015/01/18/upshot/helping-the-poor-in-higher-education-the-power-of-a-simple-nudge.html?abt=0002&abg=0
 * http://www.nytimes.com/2015/01/18/nyregion/cuomo-to-offer-plan-to-cut-college-graduates-debt.html
 * http://kristiculpepper.tumblr.com/post/108127738567/student-loan-myths-and-implications-for-taxpayers
-=======
 * http://www.nakedcapitalism.com/2015/01/department-of-education-sides-against-students-to-feather-its-own-bed-in-for-profit-corinthian-colleges-debacle.html
 
-
->>>>>>> Stashed changes
 
 
 #### Adjuncts

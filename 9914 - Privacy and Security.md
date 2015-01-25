@@ -59,9 +59,11 @@
 * http://arstechnica.com/tech-policy/2015/01/obama-calls-for-new-consumer-student-and-energy-data-privacy-laws/
 * http://blogs.microsoft.com/on-the-issues/2014/10/23/four-10-americans-face-regular-online-fraud-attacks-microsoft-survey/
 * http://arstechnica.com/information-technology/2014/10/taking-back-privacy-in-the-post-snowden-cloud/
+* http://www.alternet.org/news-amp-politics/snowden-iphones-have-secret-spyware-lets-govts-monitor-unsuspecting-users
 * https://medium.com/matter/how-britain-exported-next-generation-surveillance-d15b5801b79e
 * http://www.propublica.org/article/somebodys-already-using-verizons-id-to-track-users
 * https://blog.torproject.org/blog/possible-upcoming-attempts-disable-tor-network
+* http://vimeo.com/117440574
 * http://mobile.nytimes.com/blogs/bits/2014/12/23/data-broker-is-charged-with-selling-consumers-financial-details-to-fraudsters/
 * http://radar.oreilly.com/2014/12/how-browsers-get-to-know-you-in-milliseconds.html
 * http://nautil.us/issue/7/waste/the-cost-of-cryptography

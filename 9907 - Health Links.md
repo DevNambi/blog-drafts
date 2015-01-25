@@ -82,10 +82,12 @@
 
 * http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0
 * http://america.aljazeera.com/articles/2014/12/25/kale-and-hearty-thesaladbowlofamericaturnstoxic.html
+* http://www.nytimes.com/2015/01/24/business/allergy-trigger-found-in-many-personal-care-items-comes-under-greater-scrutiny.html
 * http://www.theguardian.com/lifeandstyle/2014/dec/05/detox-myth-health-diet-science-ignorance
 * http://aeon.co/magazine/health/would-we-opt-out-of-food-if-given-the-chance/
 * http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13793.html
 * http://qz.com/271961/the-complete-guide-to-packing-a-thrifty-lunch-thats-better-than-takeout/
+* http://world.openfoodfacts.org/ <- for side business
 * http://www.vrg.org/blog/2013/03/14/why-so-many-food-label-disclaimers/
 * http://tryingadf.blogspot.com/2013/04/fasting-as-detox-debunked.html
 * http://www.yummly.com/
@@ -150,6 +152,7 @@
 * http://www.nytimes.com/2014/10/26/opinion/sunday/the-problem-with-positive-thinking.html
 * http://well.blogs.nytimes.com/2014/12/17/how-exercise-changes-our-dna/?_r=0
 * http://alwaysascending.weebly.com/light---on-trending-to-your-right-weight.html
+* http://well.blogs.nytimes.com/2015/01/23/ask-well-the-best-time-of-day-to-exercise/
 
 
 
@@ -234,6 +237,8 @@
 * https://medium.com/matter-archive/the-drug-revolution-that-no-one-can-stop-19f753fb15e0
 * http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)62412-0/fulltext <- incredibly useful
 * http://online.wsj.com/articles/cancers-super-survivors-how-immunotherapy-is-transforming-oncology-1417714379#
+* http://arstechnica.com/science/2015/01/the-connections-in-autistic-brains-are-idiosyncratic-and-individualized/
+* http://arstechnica.com/science/2015/01/collapse-of-soviet-health-system-may-have-aided-spread-of-tuberculosis/
 * http://www.wired.com/2014/12/diabetes-patients-hacking-together-diy-bionic-pancreases/
 * http://www.iflscience.com/health-and-medicine/large-study-explores-how-often-patients-wake-during-surgery
 * http://www.bloomberg.com/news/2015-01-02/cancer-largely-due-to-biological-bad-luck-rather-than-behavior.html
