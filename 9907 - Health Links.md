@@ -326,6 +326,7 @@
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
 * http://hcrenewal.blogspot.com/2014/12/ehrs-and-ebola-in-texas-health.html
+* http://mobile.nytimes.com/2015/01/26/nyregion/to-collect-debts-nursing-home-seizing-control-over-patients.html
 * http://seattletimes.com/html/nationworld/2024804039_apxmedwhoebolamistakes.html
 * http://arstechnica.com/science/2013/01/profits-over-your-dead-body/
 * http://seattletimes.com/html/localnews/2021065664_uwreactsxml.html
@@ -427,6 +428,7 @@
 * http://www.theatlantic.com/health/archive/2014/11/do-you-know-the-basics-of-health-insurance/382700/
 * http://www.nytimes.com/2014/11/18/us/politics/health-law-turns-obama-and-insurers-into-allies.html
 * http://zoekeating.tumblr.com/post/106533619564/everything-is-ok-i-think
+* https://www.linkedin.com/pulse/i-experienced-americas-broken-healthcare-system-while-steven-brill
 * http://www.vox.com/2014/11/19/7247579/childbirth-bill-expensive-canada
 * http://well.blogs.nytimes.com/2014/11/20/that-medical-test-costs-50-or-is-it-500/
 * http://www.nytimes.com/2014/11/23/upshot/how-to-arrive-at-the-best-health-policies-.html

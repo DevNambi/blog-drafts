@@ -106,6 +106,7 @@
 * http://www.politico.com/magazine/story/2014/11/overtime-pay-obama-congress-112954.html
 * http://www.economist.com/news/leaders/21640331-importance-intellectual-capital-grows-privilege-has-become-increasingly
 * http://seattletimes.com/html/localnews/2024625051_carpaymentsxml.html
+* http://mobile.nytimes.com/2015/01/26/business/economy/middle-class-shrinks-further-as-more-fall-out-instead-of-climbing-up.html
 * http://www.theguardian.com/business/2014/oct/14/richest-1percent-half-global-wealth-credit-suisse-report
 * http://www.nytimes.com/2014/10/15/upshot/when-the-guy-making-your-sandwich-has-a-noncompete-clause.html?_r=0&abt=0002&abg=1
 * http://www.pewtrusts.org/~/media/Assets/2014/10/Payday-Lending-Report/Fraud_and_Abuse_Online_Harmful_Practices_in_Internet_Payday_Lending.pdf
