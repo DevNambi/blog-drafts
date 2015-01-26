@@ -32,6 +32,7 @@
 * http://www.businessinsider.com/denmark-just-followed-switzerland-and-slashed-interest-rates-as-europe-stagnates-2015-1
 * http://www.bbc.com/news/world-europe-30864088
 * http://www.balkaninsight.com/en/article/the-great-leap-rightward
+* http://www.nytimes.com/2015/01/26/world/europe/greek-election-syriza.html?_r=0
 
 
 ## Elsewhere in the World
