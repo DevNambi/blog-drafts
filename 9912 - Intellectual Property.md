@@ -1,5 +1,7 @@
 # Intellectual Property
 
+"Libraries would be illegal if they were a new idea now" - Tegan
+
 <li><a href="http://blog.appgrounds.com/the-riaa-forced-me-to-shut-down/" time_added="1388500095" tags="">Appgrounds | The RIAA forced me to shut down a successful website/apps I bu</a></li>
 <li><a href="http://www.slate.com/articles/arts/culturebox/2006/11/jayz_versus_the_sample_troll.html" time_added="1391984776" tags="">The shady one-man corporation that's destroying hip-hop.</a></li>
 <li><a href="http://darkecologies.com/2014/03/16/monsanto-owns-us-the-monopoly-of-seeds-and-intellectual-property-rights/" time_added="1395001800" tags="">Monsanto Owns Us: The Monopoly of Seeds and Intellectual Property Rights | </a></li>
