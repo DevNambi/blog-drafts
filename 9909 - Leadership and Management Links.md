@@ -24,6 +24,7 @@
 * http://www.reddit.com/r/AskReddit/comments/2q9yb7/what_is_the_most_evil_thing_your_company_didis/
 * http://www.devbattles.com/en/sand/post-490-Why+India+outsourcing+is+Doomed
 * https://hbr.org/2012/04/the-new-science-of-building-great-teams
+* http://www.itworld.com/article/2875112/ibm-is-about-to-get-hit-with-a-massive-reorg-and-layoffs.html <- how to do it wrong
 
 
 <li><a href="http://lifehacker.com/5936493/want-to-be-a-great-leader-start-reading" time_added="1348860619" tags="hn">Want to Be a Great Leader? Start Reading</a></li>

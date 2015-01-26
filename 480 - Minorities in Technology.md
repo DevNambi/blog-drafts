@@ -4,6 +4,8 @@
 
 http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave-engineering-blame-the-work-culture
 
+"Later we realized the 3 hardest problems in computer science were actually imposter syndrome, checking your privilege, and Dunning–Kruger." - https://twitter.com/marcprecipice/status/394625118564909057
+
 
 ### Resources, Links
 

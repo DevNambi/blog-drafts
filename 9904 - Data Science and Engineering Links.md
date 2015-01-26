@@ -564,6 +564,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://www.slate.com/articles/health_and_science/new_scientist/2012/12/kaggle_president_jeremy_howard_amateurs_beat_specialists_in_data_prediction.html
 * http://scatter.wordpress.com/2015/01/03/beckieball-and-the-study-of-not-quite-elite-selected-groups/
 * http://www.slideshare.net/MrChrisJohnson/scala-data-pipelines-for-music-recommendations
+* https://gigaom.com/2015/01/24/why-data-science-matters-and-how-technology-makes-it-possible/
 
 
 
