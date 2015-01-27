@@ -89,6 +89,7 @@
 
 * http://www.webpronews.com/data-confirms-google-is-wiping-out-a-whole-category-of-websites-2015-01
 * http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube
+* http://stratechery.com/2015/niches-problem-subscription-services/
 
 
 ## Uber

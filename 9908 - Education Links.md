@@ -342,6 +342,7 @@
 * http://www.nytimes.com/2014/11/02/education/edlife/greek-letters-at-a-price.html
 * http://www.nytimes.com/2014/10/28/us/rare-survey-examines-sex-assault-at-mit-.html
 * http://mobile.nytimes.com/2014/11/16/opinion/sunday/mishandling-rape.html
+* http://thinkprogress.org/health/2015/01/11/3610327/college-men-forcible-sex-study/
 * http://www.rollingstone.com/culture/features/a-rape-on-campus-20141119?page=2
 * https://www.insidehighered.com/news/2014/11/25/eckerd-president-criticized-his-advice-students-how-avoid-rape
 * http://www.nytimes.com/2014/12/03/us/magazines-account-of-gang-rape-on-virginia-campus-comes-under-scrutiny.html
@@ -352,6 +353,7 @@
 * https://www.insidehighered.com/news/2015/01/23/complainant-unprecedented-walter-lewin-sexual-harassment-case-comes-forward
 * http://seattletimes.com/html/nationworld/2025538617_vanderbiltrapexml.html
 * http://www.salon.com/2015/01/25/i_wish_id_never_reported_my_rape/
+* http://www.huffingtonpost.com/2015/01/25/jaime-castano-lawyer-woman-wanted-to-be-set-on-fire_n_6541748.html
 
 
 ### Finance, Debt
