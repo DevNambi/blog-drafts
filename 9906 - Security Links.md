@@ -69,6 +69,7 @@
 * http://arstechnica.com/security/2014/10/nsas-core-secrets-suggests-agents-inside-firms-in-us-abroad/
 * http://blog.cryptographyengineering.com/2015/01/hopefully-last-post-ill-ever-write-on.html
 * http://www.newscientist.com/article/dn26801-mass-surveillance-not-effective-for-finding-terrorists.html
+* http://www.spiegel.de/international/world/regin-malware-unmasked-as-nsa-tool-after-spiegel-publishes-source-code-a-1015255.html
 
 <li><a href="http://rt.com/usa/news/surveillance-spying-e-mail-citizens-178/" time_added="1354678483" tags="hn,important,personal tech">'Everyone in US under virtual surveillance' - NSA whistleblower — RT</a></li>
 
