@@ -49,6 +49,7 @@
 * https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging-in-json/ 
 * http://arstechnica.com/business/2014/10/googles-product-strategy-make-two-of-everything/
 * http://motherboard.vice.com/read/how-bad-software-leads-to-bad-science
+* http://engineering.pinterest.com/post/109318939139/demystifying-seo-with-experiments
 
 
 ### Open Data

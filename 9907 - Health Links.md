@@ -153,6 +153,7 @@
 * http://well.blogs.nytimes.com/2014/12/17/how-exercise-changes-our-dna/?_r=0
 * http://alwaysascending.weebly.com/light---on-trending-to-your-right-weight.html
 * http://well.blogs.nytimes.com/2015/01/23/ask-well-the-best-time-of-day-to-exercise/
+* http://well.blogs.nytimes.com/2015/01/26/sweaty-answer-to-chronic-illness/
 
 
 
@@ -246,6 +247,8 @@
 * http://www.bloomberg.com/news/2015-01-02/cancer-largely-due-to-biological-bad-luck-rather-than-behavior.html
 * http://zoekeating.tumblr.com/post/105883712804/hospitals-and-blogging
 * https://medium.com/backchannel/should-surgeons-keep-score-8b3f890a7d4c
+* http://www.wired.com/2014/10/number-needed-to-treat/ <- USE THIS FOR A BLOG POST
+* http://www.nytimes.com/2015/01/27/upshot/can-this-treatment-help-me-theres-a-statistic-for-that.html?abt=0002&abg=1
 * http://www.medhistorian.com/2014/08/surgeons-at-war.html
 * http://www.huffingtonpost.com/2014/11/18/marijuana-brain-cancer_n_6181060.html
 * http://www.bloomberg.com/news/2014-12-15/huge-u-s-child-health-study-canceled-after-1-3-billion.html

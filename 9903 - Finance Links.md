@@ -81,6 +81,7 @@
 * http://www.nakedcapitalism.com/2014/12/climate-change-triage-protect-money-people.html
 * http://www.nakedcapitalism.com/2015/01/paper-exposing-private-equity-manipulation-electricity-prices-nixed-editor-private-equity-ties.html
 * http://www.nakedcapitalism.com/2015/01/fed-testimony-aig-bailout-trial-walks-like-perjury-quacks-like-perjury.html
+* http://dealbook.nytimes.com/2015/01/26/investment-riches-built-on-auto-loans-to-poor/
 
 
 
