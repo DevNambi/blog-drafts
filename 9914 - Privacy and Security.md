@@ -42,6 +42,7 @@
 * https://medium.com/backchannel/who-is-watching-you-7296eeb036c1
 * http://arstechnica.com/security/2015/01/survey-says-security-products-waste-our-time/
 * http://www.extremetech.com/mobile/197646-verizon-partner-wont-stop-using-undeletable-tracking-cookies-refuses-to-honor-its-own-opt-out-requests
+* http://www.truste.com/us-consumer-confidence-index-2015/
 * http://www.theguardian.com/media/2014/oct/17/-sp-whisper-tracking-location-users-facts-response
 * https://medium.com/backchannel/how-bitcoins-blockchain-could-power-an-alternate-internet-bb501855af67
 * http://media.ccc.de/browse/congress/2014/31c3_-_6258_-_en_-_saal_1_-_201412282030_-_reconstructing_narratives_-_jacob_-_laura_poitras.html#video

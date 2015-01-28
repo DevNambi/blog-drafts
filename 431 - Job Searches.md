@@ -236,4 +236,5 @@ Remote Team (& How We Do It)</a></li>
 
 <ul>
 <li><a href="http://alexpotato.com/blog/why-switching-jobs-is-almost-always-a-good-idea/" >Why Switching Jobs is Almost Always a Good Idea</a></li>
+<li><a href="https://medium.com/backchannel/the-way-we-hire-is-all-wrong-3e19e2051f3e">Our Hiring Process is Broken. Can a Hackathon Fix It?</a></li>
 </ul>
