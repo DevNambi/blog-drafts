@@ -220,6 +220,7 @@
 * http://www.wired.com/2015/01/implicit-bias-police-racism-science/
 * http://www.slate.com/articles/news_and_politics/jurisprudence/2013/06/salinas_v_texas_right_to_remain_silent_supreme_court_right_to_remain_silent.html
 * http://vizual-statistix.tumblr.com/post/105282552911/the-recent-series-of-high-profile-killings-of
+* http://arstechnica.com/tech-policy/2015/01/cop-who-stole-nude-pics-off-arrested-womens-phones-gets-no-jail-time/
 * http://www.propublica.org/article/judge-orders-nypd-to-release-records-on-x-ray-vans
 * http://www.nytimes.com/2015/01/21/us/prison-beard-ban-gregory-holt-ruling.html
 * http://www.salon.com/2014/12/19/this_is_not_a_war_this_is_a_12_year_old_kid_shocking_video_shows_plainclothes_nypd_cop_punching_child/
