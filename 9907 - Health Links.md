@@ -81,6 +81,7 @@
 
 
 * http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0
+* https://jawbone.com/blog/weight-loss/
 * http://america.aljazeera.com/articles/2014/12/25/kale-and-hearty-thesaladbowlofamericaturnstoxic.html
 * http://www.nytimes.com/2015/01/24/business/allergy-trigger-found-in-many-personal-care-items-comes-under-greater-scrutiny.html
 * http://www.theguardian.com/lifeandstyle/2014/dec/05/detox-myth-health-diet-science-ignorance
