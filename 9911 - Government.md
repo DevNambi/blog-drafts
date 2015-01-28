@@ -222,6 +222,7 @@
 * http://vizual-statistix.tumblr.com/post/105282552911/the-recent-series-of-high-profile-killings-of
 * http://arstechnica.com/tech-policy/2015/01/cop-who-stole-nude-pics-off-arrested-womens-phones-gets-no-jail-time/
 * http://www.propublica.org/article/judge-orders-nypd-to-release-records-on-x-ray-vans
+* http://slog.thestranger.com/slog/archives/2015/01/28/seattle-police-jailed-elderly-man-for-walking-in-seattle-while-black
 * http://www.nytimes.com/2015/01/21/us/prison-beard-ban-gregory-holt-ruling.html
 * http://www.salon.com/2014/12/19/this_is_not_a_war_this_is_a_12_year_old_kid_shocking_video_shows_plainclothes_nypd_cop_punching_child/
 * http://abcnews.go.com/US/family-toddler-injured-swat-grenade-faces-1m-medical/story?id=27671521
