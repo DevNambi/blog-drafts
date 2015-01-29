@@ -234,6 +234,7 @@
 
 
 * http://www.theatlantic.com/magazine/archive/2014/11/doctors-tell-all-and-its-bad/380785/
+* http://www.nytimes.com/2015/01/29/us/father-of-boy-with-leukemia-asks-california-school-officials-to-bar-unvaccinated-students.html
 * http://www.bbc.com/news/health-30988643
 * http://www.theatlantic.com/health/archive/2015/01/the-new-measles/384738/
 * http://www.protectpatientsblog.com/2015/01/the_health_connection_between.html <- correlation, again
