@@ -57,6 +57,7 @@
 * http://www.nakedcapitalism.com/2014/10/private-equity-at-work-rigorously-debunks-industry-mythology.html
 * http://www.nakedcapitalism.com/2014/10/dealbook-says-citi-afford-run-honest-bank-mexico.html
 * http://mobile.nytimes.com/blogs/dealbook/2015/01/26/investment-riches-built-on-auto-loans-to-poor/
+* http://www.bloombergview.com/articles/2015-01-23/capital-one-fraud-researchers-may-also-have-done-some-fraud
 * http://www.nakedcapitalism.com/2014/10/serious-ny-fed-dudleys-tough-talk-fixing-banking-culture.html 
 * http://www.nytimes.com/2014/10/29/nyregion/jpmorgan-chase-drops-plan-to-build-2-west-side-towers.html
 * http://www.reuters.com/article/2014/10/29/us-markets-sec-traders-idUSKBN0II0DC20141029
@@ -82,6 +83,7 @@
 * http://www.nakedcapitalism.com/2015/01/paper-exposing-private-equity-manipulation-electricity-prices-nixed-editor-private-equity-ties.html
 * http://www.nakedcapitalism.com/2015/01/fed-testimony-aig-bailout-trial-walks-like-perjury-quacks-like-perjury.html
 * http://dealbook.nytimes.com/2015/01/26/investment-riches-built-on-auto-loans-to-poor/
+* http://www.nakedcapitalism.com/2015/01/new-york-times-dealbook-throw-source-bus-tpg-suit-ex-employeeex-white-house-staffer.html <- more media corruption, really
 
 
 

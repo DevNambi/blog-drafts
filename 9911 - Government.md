@@ -217,6 +217,9 @@
 
 
 * http://www.ajc.com/news/news/breaking-news/no-charges-for-officers-in-botched-drug-raid-that-/nhc2N/
+* http://countercurrentnews.com/2015/01/native-american-woman-handcuffed-in-police-cruiser/
+* http://slog.thestranger.com/slog/archives/2015/01/28/watch-seattle-police-pepper-spray-teacher-jesse-hagopian-on-mlk-day
+* http://sfist.com/2015/01/28/sf_public_defender_detained_by_poli.php
 * http://arstechnica.com/tech-policy/2015/01/cops-get-handheld-radar-that-can-detect-people-breathing-through-walls/
 * http://www.wired.com/2015/01/implicit-bias-police-racism-science/
 * http://www.slate.com/articles/news_and_politics/jurisprudence/2013/06/salinas_v_texas_right_to_remain_silent_supreme_court_right_to_remain_silent.html

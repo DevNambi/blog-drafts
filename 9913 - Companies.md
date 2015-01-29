@@ -83,6 +83,7 @@
 * https://www.yahoo.com/tech/s/google-fiber-latest-fcc-filing-comcast-nightmare-come-161549827.html
 * http://arstechnica.com/business/2015/01/fcc-chair-broadband-must-be-25mbps-and-isps-are-failing-to-deliver/
 * http://arstechnica.com/business/2015/01/sprint-goes-off-script-says-title-ii-wont-hurt-wireless-investment/
+* http://www.theverge.com/2015/1/29/7932653/fcc-changed-definition-broadband-25mbps
 
 
 ## Google

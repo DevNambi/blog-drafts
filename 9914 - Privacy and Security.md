@@ -54,6 +54,7 @@
 * http://www.weforum.org/sessions/summary/brave-new-world <- bad incentives?
 * http://arstechnica.com/information-technology/2015/01/under-the-hood-of-i2p-the-tor-alternative-that-reloaded-silk-road/
 * http://www.theverge.com/2014/12/28/7458159/encryption-standards-the-nsa-cant-crack-pgp-tor-otr-snowden
+* https://chronicle.com/article/Why-Privacy-Matters-Even-if/127461/
 * http://blog.prof.so/2013/06/quantified.html
 * http://dhowe.github.io/AdNauseam/
 * http://webpolicy.org/2012/02/17/safari-trackers/
