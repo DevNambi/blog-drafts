@@ -32,6 +32,7 @@ We believe we are working to make our society, our world, a better place. At the
 * http://www.inference.phy.cam.ac.uk/sanjoy/schmidt/archive/social-anarchism.htm
 * http://seattletimes.com/html/localnews/2025286202_jdlcolumn22xml.html
 * http://nerd.kelseyinnis.com/blog/2014/12/19/your-job-is-political-tech-money-in-politics/
+* http://www.law.nyu.edu/centers/ili/AlgorithmsConference
 * http://mobile.nytimes.com/blogs/bits/2014/12/23/data-broker-is-charged-with-selling-consumers-financial-details-to-fraudsters/
 * http://gigaom.com/2014/02/22/data-privacy-machine-learning-and-the-destruction-of-mysterious-humanity/
 * http://www.marketsforgood.org/the-lake-washington-declaration/
