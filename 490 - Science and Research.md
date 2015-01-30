@@ -6,6 +6,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://blogs.lse.ac.uk/impactofsocialsciences/2014/12/28/shorter-better-faster-free/
 * http://www.americanscientist.org/issues/feature/2014/6/the-statistical-crisis-in-science/99999
 * https://medium.com/starts-with-a-bang/science-by-democracy-doesnt-work-ea74d160daa4
+* http://arstechnica.com/science/2015/01/new-survey-shows-extent-of-scientists-divide-with-the-public/
 
 
 <li><a href="http://www.infoworld.com/d/big-data/astronomers-crunch-big-data-map-the-galaxies-209573" time_added="1357233706" tags="big data,cloud,data science,ml">Astronomers crunch big data to map the galaxies | Big Data - InfoWorld</a></li>

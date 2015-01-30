@@ -79,6 +79,7 @@
 * http://www.infoworld.com/article/2840959/data-security/mobile-payments-fraud-opportunities.html
 * https://corp.sonic.net/ceo/2014/11/12/neutrality-is-just-a-symptom/
 * http://arstechnica.com/business/2014/11/fcc-calls-atts-fiber-bluff-demands-detailed-construction-plans/
+* http://arstechnica.com/business/2015/01/fcc-chairman-mocks-industry-claims-that-customers-dont-need-faster-internet/
 * http://arstechnica.com/business/2014/12/att-wins-right-to-intervene-in-citys-fiber-broadband-plan/
 * https://www.yahoo.com/tech/s/google-fiber-latest-fcc-filing-comcast-nightmare-come-161549827.html
 * http://arstechnica.com/business/2015/01/fcc-chair-broadband-must-be-25mbps-and-isps-are-failing-to-deliver/
