@@ -456,6 +456,9 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 "So you're telling me that the most highly paid people in an organisation can only process information as complex as a traffic light?" - @ballantine70
 
 
+* http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype
+
+
 
 
 ## Data Stacks, Engineering

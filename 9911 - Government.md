@@ -217,6 +217,7 @@
 
 
 * http://www.ajc.com/news/news/breaking-news/no-charges-for-officers-in-botched-drug-raid-that-/nhc2N/
+* http://nypost.com/2015/01/30/nypd-to-launch-a-beefed-up-counterterrorism-squad/ <- means that terrorists and protesters are considered similar!
 * http://countercurrentnews.com/2015/01/native-american-woman-handcuffed-in-police-cruiser/
 * http://slog.thestranger.com/slog/archives/2015/01/28/watch-seattle-police-pepper-spray-teacher-jesse-hagopian-on-mlk-day
 * http://sfist.com/2015/01/28/sf_public_defender_detained_by_poli.php

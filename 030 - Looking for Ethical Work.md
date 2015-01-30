@@ -76,6 +76,7 @@ Industries
 
 
 * http://www.nakedcapitalism.com/2013/10/ethics-and-complex-systems.html
+* http://www.wired.com/2014/02/outsourcing-humanity-apps/
 * http://www.bbc.co.uk/news/science-environment-24538078
 * http://www.nakedcapitalism.com/2014/12/joe-firestone-lawless-society.html
 * http://www.brainpickings.org/2014/02/11/brockman-what-should-we-be-worried-about/

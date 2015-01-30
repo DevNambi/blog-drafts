@@ -36,6 +36,7 @@
 * http://www.washingtonpost.com/blogs/the-fix/wp/2015/01/18/with-snowden-in-the-background-privacy-takes-a-back-seat-to-security/
 * https://www.kickstarter.com/projects/augustgermar/anonabox-a-tor-hardware-router
 * http://www.sciencemag.org/content/347/6221.toc
+* http://bits.blogs.nytimes.com/2015/01/29/with-a-few-bits-of-data-researchers-identify-anonymous-people/?_r=1
 * http://www.philly.com/philly/business/20150122_Jeff_Gelles__Data-privacy_advocates_welcome_Obama_s_support__with_caveats.html
 * http://arstechnica.com/security/2014/10/whisper-cto-says-tracking-anonymous-users-not-a-big-deal-really/
 * http://www.nytimes.com/2014/10/17/opinion/the-dark-market-for-personal-data.html
