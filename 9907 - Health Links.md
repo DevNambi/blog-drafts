@@ -333,6 +333,7 @@
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
 * http://hcrenewal.blogspot.com/2014/12/ehrs-and-ebola-in-texas-health.html
+* http://hcrenewal.blogspot.com/2015/01/time-to-look-for-union-label-first-us.html
 * http://hcrenewal.blogspot.com/2015/01/none-dare-call-it-health-care-corruption.html
 * http://mobile.nytimes.com/2015/01/26/nyregion/to-collect-debts-nursing-home-seizing-control-over-patients.html
 * http://seattletimes.com/html/nationworld/2024804039_apxmedwhoebolamistakes.html

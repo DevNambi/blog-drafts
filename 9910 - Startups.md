@@ -35,12 +35,13 @@
 * https://gigaom.com/2014/12/05/whats-happening-with-secret/
 
 
-## Renting (not Sharing) Economy
+## Renting/Access (not Sharing) Economy
 
 <li><a href="http://www.nytimes.com/2013/01/26/business/car-sharing-services-grow-and-expand-options.html" time_added="1359220500" tags="personal tech">Car-Sharing Services Grow, and Expand Options - NYTimes.com</a></li>
 <li><a href="http://techcrunch.com/2013/02/15/flightcar/" time_added="1360948133" tags="hn">Y Combinator-Backed FlightCar Launches Its ‘Airbnb For Airport Car Rentals’</a></li>
 
 * https://medium.com/matter/hunting-task-wabbits-c60679bad0f6
+* https://hbr.org/2015/01/the-sharing-economy-isnt-about-sharing-at-all
 
 
 "The incapacity to see structurally: what you value (in the service - freedom) is the values (f-k the law, employees) that brings you that" - https://twitter.com/camerontw

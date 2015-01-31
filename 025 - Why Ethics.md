@@ -54,6 +54,8 @@ The reason you should care about ethics is twofold:
 5. At some level you want to believe that that your compatriots and colleagues are working on the side of the angels. 
 
 
+http://www.bbc.com/future/story/20150130-the-man-who-studies-evil
+
 #### Is your job ethical? How do you know?
 
 That's great. Prove it.
