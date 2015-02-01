@@ -188,35 +188,7 @@
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
 * The police are weapons. Weapons wielded by...what?
-
-<li><a href="http://www.vanityfair.com/online/daily/2014/08/veterans-ferguson-matthew-farwell" time_added="1408368336" tags="">What Combat Veterans See in Ferguson, Missouri | Vanity Fair</a></li>
-<li><a href="http://www.newyorker.com/news/news-desk/movement-grows-ferguson" time_added="1408332563" tags="">Hot damn this @jelani9 piece on the movement in #Ferguson is a masterwork. </a></li>
-<li><a href="http://7online.com/archive/9440401/" time_added="1409125490" tags="">Horrifying. Cops on camera yelling “Stop trying to take my gun” to a man wi</a></li>
-<li><a href="http://www.upworthy.com/his-death-wasnt-just-a-tragedy-it-was-a-product-of-a-criminal-justice-system?g=2" time_added="1390410371" tags="">http://www.upworthy.com/his-death-wasnt-just-a-tragedy-it-was-a-product-of-</a></li>
-<li><a href="http://www.washingtontimes.com/news/2014/mar/13/fbi-blocked-in-corruption-probe-involving-sens-rei/" time_added="1394830999" tags="">DOJ blocks FBI in corruption probe of two US Senators.</a></li>
-<li><a href="https://www.muckrock.com/news/archives/2014/feb/04/method-so-acceptable-dea-cant-even-tell-you-its-na/" time_added="1391534888" tags="">This method is so acceptable, the DEA won't even release its name | Muckroc</a></li>
-<li><a href="http://www.theatlantic.com/health/archive/2014/03/life-of-a-police-officer-medically-and-psychologically-ruinous/284324/" time_added="1394824602" tags="">Life of a Police Officer: Medically and Psychologically Ruinous - Erika Hay</a></li>
-<li><a href="http://www.forbes.com/sites/harveysilverglate/2013/01/03/black-whitey-how-the-feds-disable-criminal-defense/" time_added="1357243252" tags="domestic,hn,important">Black and Whitey: How the Feds Disable Criminal Defense - Forbes</a></li>
-<li><a href="http://radioboston.wbur.org/2013/02/20/carmen-ortiz" time_added="1361558504" tags="">Carmen Ortiz: A Case Of Prosecutorial Diligence Or Legal Overreach? | Radio</a></li>
-<li><a href="http://arstechnica.com/tech-policy/2013/03/attorney-general-swartz-case-a-good-use-of-prosecutorial-discretion/" time_added="1362642481" tags="">US Attorney General: Swartz case a “good use of prosecutorial discretion” |</a></li>
-<li><a href="http://www.bostonglobe.com/metro/2014/03/29/the-inside-story-mit-and-aaron-swartz/YvJZ5P6VHaPJusReuaN7SI/story.html" time_added="1396201533" tags="">Aaron Swartz and MIT: The inside story - Metro - The Boston Globe</a></li>
-<li><a href="http://www.bostonmagazine.com/news/article/2014/01/02/bob-swartz-losing-aaron/" time_added="1388860893" tags="">Losing Aaron: Bob Swartz on MIT's Role in His Son's Death</a></li>
-<li><a href="http://arstechnica.com/tech-policy/2013/01/aaron-swartz-and-me-over-a-loosely-intertwined-decade/" time_added="1358173248" tags="">Aaron Swartz and me, over a loosely intertwined decade | Ars Technica</a></li>
-<li><a href="http://arstechnica.com/tech-policy/2013/01/internet-pioneer-and-information-activist-takes-his-own-life/" time_added="1358173248" tags="">Internet pioneer and information activist takes his own life | Ars Technica</a></li>
-<li><a href="http://phenomena.nationalgeographic.com/2014/04/28/how-many-people-are-wrongly-convicted-researchers-do-the-math/#.U17c6RcradY.twitter" time_added="1398731302" tags="">How Many People Are Wrongly Convicted? Researchers Do the Math. – Phenomena</a></li>
-<li><a href="http://www.theatlantic.com/national/archive/2014/03/when-prosecutors-admit-to-cheating/284180/" time_added="1394035692" tags="">When Prosecutors Admit to Cheating - Andrew Cohen - The Atlantic</a></li>
-<li><a href="http://www.forbes.com/sites/ralphbenko/2013/03/11/1-6-billion-rounds-of-ammo-for-homeland-security-its-time-for-a-national-conversation/" time_added="1363043097" tags="">1.6 Billion Rounds Of Ammo For Homeland Security? It's Time For A National </a></li>
-<li><a href="http://www.theatlantic.com/national/archive/2014/01/when-good-people-do-nothing-the-appalling-story-of-south-carolinas-prisons/282938/" time_added="1389468409" tags="">The Story of South Carolina's Prisons</a></li>
-<li><a href="https://www.muckrock.com/news/archives/2014/feb/03/dea-parallel-construction-guides/" time_added="1391450557" tags="">DEA teaches agents to recreate evidence chains to hide methods | Muckrock</a></li>
-<li><a href="http://www.dailykos.com/story/2014/08/20/1323386/-Ferguson-PD-Confirms-Officer-Wilson-Shot-at-Brown-as-He-Ran-Away?detail=email" time_added="1408648250" tags="">Ferguson PD Confirms Officer Wilson Shot at Brown as He Ran Away</a></li>
-<li><a href="http://www.theatlantic.com/national/archive/2014/08/the-killing-of-kajieme-powell/378899/" time_added="1408633224" tags="">The Killing of Kajieme Powell and How It Divides Americans - The Atlantic</a></li>
-<li><a href="http://www.newyorker.com/news/news-desk/saw-ferguson" time_added="1408025637" tags="">What I Saw in Ferguson</a></li>
-<li><a href="http://touch.baltimoresun.com/#section/-1/article/p2p-80813034/" time_added="1405528426" tags="">Baltimore Sun - Detainees are human [Commentary]</a></li>
-<li><a href="http://t.co/w7FYpCzSDw" time_added="1362612422" tags="">Follow Holder's logic in @aaronsw: your sentence will be fair only if you </a></li>
-<li><a href="http://www.salon.com/2014/06/24/a_swat_team_blew_a_hole_in_my_2_year_old_son/" time_added="1403628415" tags="">http://www.salon.com/2014/06/24/a_swat_team_blew_a_hole_in_my_2_year_old_son/</a></li>
-<li><a href="http://www.salon.com/2014/04/30/justice_scalia_makes_embarrassing_error_in_latest_dissent/" time_added="1398954250" tags="">Justice Scalia makes embarrassing error in latest dissent - Salon.com</a></li>
-
-
+* http://www.theguardian.com/us-news/2015/jan/31/detroit-aiyana-stanley-jones-police-officer-cleared
 * http://www.ajc.com/news/news/breaking-news/no-charges-for-officers-in-botched-drug-raid-that-/nhc2N/
 * http://nypost.com/2015/01/30/nypd-to-launch-a-beefed-up-counterterrorism-squad/ <- means that terrorists and protesters are considered similar!
 * http://countercurrentnews.com/2015/01/native-american-woman-handcuffed-in-police-cruiser/
@@ -333,6 +305,33 @@
 * http://gawker.com/the-nypd-is-an-embarrassment-to-the-city-of-new-york-1676173181
 * http://www.msnbc.com/msnbc/family-outraged-after-finding-police-using-mug-shots-target-practice <- WOW, CIVIL RIGHTS LAWSUIT
 * http://www.salon.com/2015/01/20/supreme_court_is_clueless_about_cops_how_they_help_police_prey_on_poor_people/
+
+<li><a href="http://www.vanityfair.com/online/daily/2014/08/veterans-ferguson-matthew-farwell" time_added="1408368336" tags="">What Combat Veterans See in Ferguson, Missouri | Vanity Fair</a></li>
+<li><a href="http://www.newyorker.com/news/news-desk/movement-grows-ferguson" time_added="1408332563" tags="">Hot damn this @jelani9 piece on the movement in #Ferguson is a masterwork. </a></li>
+<li><a href="http://7online.com/archive/9440401/" time_added="1409125490" tags="">Horrifying. Cops on camera yelling “Stop trying to take my gun” to a man wi</a></li>
+<li><a href="http://www.upworthy.com/his-death-wasnt-just-a-tragedy-it-was-a-product-of-a-criminal-justice-system?g=2" time_added="1390410371" tags="">http://www.upworthy.com/his-death-wasnt-just-a-tragedy-it-was-a-product-of-</a></li>
+<li><a href="http://www.washingtontimes.com/news/2014/mar/13/fbi-blocked-in-corruption-probe-involving-sens-rei/" time_added="1394830999" tags="">DOJ blocks FBI in corruption probe of two US Senators.</a></li>
+<li><a href="https://www.muckrock.com/news/archives/2014/feb/04/method-so-acceptable-dea-cant-even-tell-you-its-na/" time_added="1391534888" tags="">This method is so acceptable, the DEA won't even release its name | Muckroc</a></li>
+<li><a href="http://www.theatlantic.com/health/archive/2014/03/life-of-a-police-officer-medically-and-psychologically-ruinous/284324/" time_added="1394824602" tags="">Life of a Police Officer: Medically and Psychologically Ruinous - Erika Hay</a></li>
+<li><a href="http://www.forbes.com/sites/harveysilverglate/2013/01/03/black-whitey-how-the-feds-disable-criminal-defense/" time_added="1357243252" tags="domestic,hn,important">Black and Whitey: How the Feds Disable Criminal Defense - Forbes</a></li>
+<li><a href="http://radioboston.wbur.org/2013/02/20/carmen-ortiz" time_added="1361558504" tags="">Carmen Ortiz: A Case Of Prosecutorial Diligence Or Legal Overreach? | Radio</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2013/03/attorney-general-swartz-case-a-good-use-of-prosecutorial-discretion/" time_added="1362642481" tags="">US Attorney General: Swartz case a “good use of prosecutorial discretion” |</a></li>
+<li><a href="http://www.bostonglobe.com/metro/2014/03/29/the-inside-story-mit-and-aaron-swartz/YvJZ5P6VHaPJusReuaN7SI/story.html" time_added="1396201533" tags="">Aaron Swartz and MIT: The inside story - Metro - The Boston Globe</a></li>
+<li><a href="http://www.bostonmagazine.com/news/article/2014/01/02/bob-swartz-losing-aaron/" time_added="1388860893" tags="">Losing Aaron: Bob Swartz on MIT's Role in His Son's Death</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2013/01/aaron-swartz-and-me-over-a-loosely-intertwined-decade/" time_added="1358173248" tags="">Aaron Swartz and me, over a loosely intertwined decade | Ars Technica</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2013/01/internet-pioneer-and-information-activist-takes-his-own-life/" time_added="1358173248" tags="">Internet pioneer and information activist takes his own life | Ars Technica</a></li>
+<li><a href="http://phenomena.nationalgeographic.com/2014/04/28/how-many-people-are-wrongly-convicted-researchers-do-the-math/#.U17c6RcradY.twitter" time_added="1398731302" tags="">How Many People Are Wrongly Convicted? Researchers Do the Math. – Phenomena</a></li>
+<li><a href="http://www.theatlantic.com/national/archive/2014/03/when-prosecutors-admit-to-cheating/284180/" time_added="1394035692" tags="">When Prosecutors Admit to Cheating - Andrew Cohen - The Atlantic</a></li>
+<li><a href="http://www.forbes.com/sites/ralphbenko/2013/03/11/1-6-billion-rounds-of-ammo-for-homeland-security-its-time-for-a-national-conversation/" time_added="1363043097" tags="">1.6 Billion Rounds Of Ammo For Homeland Security? It's Time For A National </a></li>
+<li><a href="http://www.theatlantic.com/national/archive/2014/01/when-good-people-do-nothing-the-appalling-story-of-south-carolinas-prisons/282938/" time_added="1389468409" tags="">The Story of South Carolina's Prisons</a></li>
+<li><a href="https://www.muckrock.com/news/archives/2014/feb/03/dea-parallel-construction-guides/" time_added="1391450557" tags="">DEA teaches agents to recreate evidence chains to hide methods | Muckrock</a></li>
+<li><a href="http://www.dailykos.com/story/2014/08/20/1323386/-Ferguson-PD-Confirms-Officer-Wilson-Shot-at-Brown-as-He-Ran-Away?detail=email" time_added="1408648250" tags="">Ferguson PD Confirms Officer Wilson Shot at Brown as He Ran Away</a></li>
+<li><a href="http://www.theatlantic.com/national/archive/2014/08/the-killing-of-kajieme-powell/378899/" time_added="1408633224" tags="">The Killing of Kajieme Powell and How It Divides Americans - The Atlantic</a></li>
+<li><a href="http://www.newyorker.com/news/news-desk/saw-ferguson" time_added="1408025637" tags="">What I Saw in Ferguson</a></li>
+<li><a href="http://touch.baltimoresun.com/#section/-1/article/p2p-80813034/" time_added="1405528426" tags="">Baltimore Sun - Detainees are human [Commentary]</a></li>
+<li><a href="http://t.co/w7FYpCzSDw" time_added="1362612422" tags="">Follow Holder's logic in @aaronsw: your sentence will be fair only if you </a></li>
+<li><a href="http://www.salon.com/2014/06/24/a_swat_team_blew_a_hole_in_my_2_year_old_son/" time_added="1403628415" tags="">http://www.salon.com/2014/06/24/a_swat_team_blew_a_hole_in_my_2_year_old_son/</a></li>
+<li><a href="http://www.salon.com/2014/04/30/justice_scalia_makes_embarrassing_error_in_latest_dissent/" time_added="1398954250" tags="">Justice Scalia makes embarrassing error in latest dissent - Salon.com</a></li>
 
 
 @Papakila - Funny how the "broken window theory" of policing - punishing minor infractions severely - is never applied to the police themselves.

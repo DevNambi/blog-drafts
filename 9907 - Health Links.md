@@ -121,6 +121,9 @@
 ### Exercise
 
 
+* http://www.scientificamerican.com/article/regular-walking-can-help-ease-depression/
+
+
 <li><a href="http://www.nytimes.com/2013/11/03/sunday-review/womens-flexibility-is-a-liability-in-yoga.html?hp" time_added="1383445933" tags="domestic,health">http://www.nytimes.com/2013/11/03/sunday-review/womens-flexibility-is-a-lia</a></li>
 <li><a href="http://well.blogs.nytimes.com/2013/10/21/how-safe-is-cycling-its-hard-to-say/?src=me&ref=general" time_added="1382505255" tags="health">How Safe Is Cycling? It's Hard to Say - NYTimes.com</a></li>
 <li><a href="http://www.nerdfitness.com/blog/2013/11/04/from-sloth-to-super-dad-how-ben-lost-100-lbs/" time_added="1383596432" tags="health,personal,to_read">From Sloth to Super-Dad: How Ben Lost 100 lbs</a></li>
@@ -161,7 +164,73 @@
 
 #### Medical
 
+
+
 * http://www.dailykos.com/story/2015/01/30/1361224/-Roald-Dahl-s-Heartbreaking-Take-on-Vaccines
+* http://www.mdnewsdaily.com/articles/3130/20150131/vast-majority-of-neurosurgeons-practice-defensive-medicine.htm
+* http://www.healthline.com/health-news/ms-patients-who-received-stem-cell-transplants-still-in-remission-010715
+* http://www.telegraph.co.uk/news/science/science-news/11331174/First-new-antibiotic-in-30-years-discovered-in-major-breakthrough.html
+* http://www.theatlantic.com/magazine/archive/2014/11/doctors-tell-all-and-its-bad/380785/
+* http://www.vox.com/2015/1/29/7929791/measles-outbreak-2014
+* http://www.nytimes.com/2015/01/29/us/father-of-boy-with-leukemia-asks-california-school-officials-to-bar-unvaccinated-students.html
+* http://www.bbc.com/news/health-30988643
+* http://www.theatlantic.com/health/archive/2015/01/the-new-measles/384738/
+* http://www.protectpatientsblog.com/2015/01/the_health_connection_between.html <- correlation, again
+* http://www.forbes.com/sites/robertszczerba/2015/01/13/study-suggests-wi-fi-exposure-more-dangerous-to-kids-than-previously-thought/
+* https://medium.com/matter-archive/the-drug-revolution-that-no-one-can-stop-19f753fb15e0
+* http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)62412-0/fulltext <- incredibly useful
+* http://online.wsj.com/articles/cancers-super-survivors-how-immunotherapy-is-transforming-oncology-1417714379#
+* http://arstechnica.com/science/2015/01/the-connections-in-autistic-brains-are-idiosyncratic-and-individualized/
+* http://arstechnica.com/science/2015/01/collapse-of-soviet-health-system-may-have-aided-spread-of-tuberculosis/
+* http://www.wired.com/2014/12/diabetes-patients-hacking-together-diy-bionic-pancreases/
+* http://www.iflscience.com/health-and-medicine/large-study-explores-how-often-patients-wake-during-surgery
+* http://www.bloomberg.com/news/2015-01-02/cancer-largely-due-to-biological-bad-luck-rather-than-behavior.html
+* http://zoekeating.tumblr.com/post/105883712804/hospitals-and-blogging
+* https://medium.com/backchannel/should-surgeons-keep-score-8b3f890a7d4c
+* http://www.wired.com/2014/10/number-needed-to-treat/ <- USE THIS FOR A BLOG POST
+* http://www.nytimes.com/2015/01/27/upshot/can-this-treatment-help-me-theres-a-statistic-for-that.html?abt=0002&abg=1
+* http://www.medhistorian.com/2014/08/surgeons-at-war.html
+* http://www.huffingtonpost.com/2014/11/18/marijuana-brain-cancer_n_6181060.html
+* http://www.bloomberg.com/news/2014-12-15/huge-u-s-child-health-study-canceled-after-1-3-billion.html
+* http://mobile.nytimes.com/2014/09/21/us/drive-by-doctoring-surprise-medical-bills.html?_r=1
+* http://newoldage.blogs.nytimes.com/2014/09/24/study-links-anxiety-drugs-to-alzheimers-disease/
+* http://www.abc.net.au/news/2014-10-07/queensland-scientists-discover-cancer-fighting-berry/5796106
+* http://www.nytimes.com/2014/10/07/upshot/the-placebo-effect-doesnt-apply-just-to-pills.html
+* http://www.nytimes.com/2014/09/21/sunday-review/high-tech-health-care-useful-to-a-point.html
+* http://www.wired.com/2014/10/number-needed-to-treat/
+* https://medium.com/matter/confessions-of-a-mortician-7a8c061bbda3
+* http://alumni.stanford.edu/get/page/magazine/article/?article_id=53345
+* http://mywifesfightwithbreastcancer.com/
+* http://arstechnica.com/science/2014/12/when-the-doctors-away-the-patient-is-more-likely-to-survive/
+* http://www.nytimes.com/2014/12/15/opinion/are-midwives-safer-than-doctors.html
+* http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0114003
+* http://www.washingtonpost.com/blogs/wonkblog/wp/2013/04/28/if-this-was-a-pill-youd-do-anything-to-get-it
+* http://www.salon.com/2013/07/31/living_in_america_will_drive_you_insane_literally_partner/
+* http://www.theverge.com/2014/12/30/7466989/the-ebola-outbreak-was-political-just-like-every-disease-outbreak
+* http://boingboing.net/2013/08/22/smear-campaign-daily-show-cre.html
+* http://www.cbsnews.com/videos/good-gut-bacteria-can-help-with-controlling-weight-inflammation/
+* http://www.plospathogens.org/article/info%3Adoi%2F10.1371%2Fjournal.ppat.1003587
+* http://www.businessweek.com/articles/2014-12-04/dna-sequencing-craig-venter-says-genomic-era-is-just-starting
+* http://www.washingtonpost.com/posteverything/wp/2014/12/31/medical-schools-dont-teach-these-key-lessons-and-its-ruining-our-health/
+* http://time.com/3643841/medicine-gets-personal/
+* http://arstechnica.com/tech-policy/2014/10/feds-examining-medical-devices-for-fatal-cybersecurity-flaws/
+* http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html
+* http://www.nytimes.com/2014/10/28/world/africa/wish-to-do-more-in-ebola-fight-meets-reality-in-liberia.html?_r=0
+* http://seattletimes.com/html/localnews/2024939773_jdlcolumn03xml.html
+* http://seattletimes.com/html/nationworld/2025041126_apxebolaomahapatient.html
+* http://patch.com/california/berkeley/alzheimers-game-changer-scientists-find-changing-one-molecule-reverses-memory-loss
+* http://seattletimes.com/html/nationworld/2025045858_statinsalternativexml.html
+* http://www.ncbi.nlm.nih.gov/pubmed/25424517
+* http://www.technologyreview.com/featuredstory/532421/the-search-for-exceptional-genomes/
+* http://arstechnica.com/science/2014/11/finding-the-ebola-virus-vulnerable-points/
+* http://www.nytimes.com/2014/12/01/us/federal-study-finds-55-percent-of-infants-sleep-with-soft-bedding-raising-risk-of-death.html
+* http://www.nytimes.com/2014/11/30/opinion/sunday/the-downside-of-resilience.html?_r=0
+* https://twitter.com/conradhackett/status/551621551682904064
+* http://www.nature.com/news/antibiotic-resistance-the-last-resort-1.13426
+* http://www.nytimes.com/2014/12/04/world/asia/superbugs-kill-indias-babies-and-pose-an-overseas-threat.html?_r=0
+* http://www.wired.com/2015/01/2015-diseases-borders/
+* http://www.theatlantic.com/health/archive/2015/01/the-new-antibiotics-might-be-essential-oils/384247/
+
 
 
 <li><a href="http://www.theatlantic.com/national/archive/2014/01/the-missing-voices-in-the-contraception-mandate-cases/283452/" time_added="1391151159" tags="">The Missing Voices in the Contraception Mandate Cases - Garrett Epps - The </a></li>
@@ -233,66 +302,7 @@
 
 
 
-* http://www.theatlantic.com/magazine/archive/2014/11/doctors-tell-all-and-its-bad/380785/
-* http://www.vox.com/2015/1/29/7929791/measles-outbreak-2014
-* http://www.nytimes.com/2015/01/29/us/father-of-boy-with-leukemia-asks-california-school-officials-to-bar-unvaccinated-students.html
-* http://www.bbc.com/news/health-30988643
-* http://www.theatlantic.com/health/archive/2015/01/the-new-measles/384738/
-* http://www.protectpatientsblog.com/2015/01/the_health_connection_between.html <- correlation, again
-* http://www.forbes.com/sites/robertszczerba/2015/01/13/study-suggests-wi-fi-exposure-more-dangerous-to-kids-than-previously-thought/
-* https://medium.com/matter-archive/the-drug-revolution-that-no-one-can-stop-19f753fb15e0
-* http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)62412-0/fulltext <- incredibly useful
-* http://online.wsj.com/articles/cancers-super-survivors-how-immunotherapy-is-transforming-oncology-1417714379#
-* http://arstechnica.com/science/2015/01/the-connections-in-autistic-brains-are-idiosyncratic-and-individualized/
-* http://arstechnica.com/science/2015/01/collapse-of-soviet-health-system-may-have-aided-spread-of-tuberculosis/
-* http://www.wired.com/2014/12/diabetes-patients-hacking-together-diy-bionic-pancreases/
-* http://www.iflscience.com/health-and-medicine/large-study-explores-how-often-patients-wake-during-surgery
-* http://www.bloomberg.com/news/2015-01-02/cancer-largely-due-to-biological-bad-luck-rather-than-behavior.html
-* http://zoekeating.tumblr.com/post/105883712804/hospitals-and-blogging
-* https://medium.com/backchannel/should-surgeons-keep-score-8b3f890a7d4c
-* http://www.wired.com/2014/10/number-needed-to-treat/ <- USE THIS FOR A BLOG POST
-* http://www.nytimes.com/2015/01/27/upshot/can-this-treatment-help-me-theres-a-statistic-for-that.html?abt=0002&abg=1
-* http://www.medhistorian.com/2014/08/surgeons-at-war.html
-* http://www.huffingtonpost.com/2014/11/18/marijuana-brain-cancer_n_6181060.html
-* http://www.bloomberg.com/news/2014-12-15/huge-u-s-child-health-study-canceled-after-1-3-billion.html
-* http://mobile.nytimes.com/2014/09/21/us/drive-by-doctoring-surprise-medical-bills.html?_r=1
-* http://newoldage.blogs.nytimes.com/2014/09/24/study-links-anxiety-drugs-to-alzheimers-disease/
-* http://www.abc.net.au/news/2014-10-07/queensland-scientists-discover-cancer-fighting-berry/5796106
-* http://www.nytimes.com/2014/10/07/upshot/the-placebo-effect-doesnt-apply-just-to-pills.html
-* http://www.nytimes.com/2014/09/21/sunday-review/high-tech-health-care-useful-to-a-point.html
-* http://www.wired.com/2014/10/number-needed-to-treat/
-* https://medium.com/matter/confessions-of-a-mortician-7a8c061bbda3
-* http://alumni.stanford.edu/get/page/magazine/article/?article_id=53345
-* http://mywifesfightwithbreastcancer.com/
-* http://arstechnica.com/science/2014/12/when-the-doctors-away-the-patient-is-more-likely-to-survive/
-* http://www.nytimes.com/2014/12/15/opinion/are-midwives-safer-than-doctors.html
-* http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0114003
-* http://www.washingtonpost.com/blogs/wonkblog/wp/2013/04/28/if-this-was-a-pill-youd-do-anything-to-get-it
-* http://www.salon.com/2013/07/31/living_in_america_will_drive_you_insane_literally_partner/
-* http://www.theverge.com/2014/12/30/7466989/the-ebola-outbreak-was-political-just-like-every-disease-outbreak
-* http://boingboing.net/2013/08/22/smear-campaign-daily-show-cre.html
-* http://www.cbsnews.com/videos/good-gut-bacteria-can-help-with-controlling-weight-inflammation/
-* http://www.plospathogens.org/article/info%3Adoi%2F10.1371%2Fjournal.ppat.1003587
-* http://www.businessweek.com/articles/2014-12-04/dna-sequencing-craig-venter-says-genomic-era-is-just-starting
-* http://www.washingtonpost.com/posteverything/wp/2014/12/31/medical-schools-dont-teach-these-key-lessons-and-its-ruining-our-health/
-* http://time.com/3643841/medicine-gets-personal/
-* http://arstechnica.com/tech-policy/2014/10/feds-examining-medical-devices-for-fatal-cybersecurity-flaws/
-* http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html
-* http://www.nytimes.com/2014/10/28/world/africa/wish-to-do-more-in-ebola-fight-meets-reality-in-liberia.html?_r=0
-* http://seattletimes.com/html/localnews/2024939773_jdlcolumn03xml.html
-* http://seattletimes.com/html/nationworld/2025041126_apxebolaomahapatient.html
-* http://patch.com/california/berkeley/alzheimers-game-changer-scientists-find-changing-one-molecule-reverses-memory-loss
-* http://seattletimes.com/html/nationworld/2025045858_statinsalternativexml.html
-* http://www.ncbi.nlm.nih.gov/pubmed/25424517
-* http://www.technologyreview.com/featuredstory/532421/the-search-for-exceptional-genomes/
-* http://arstechnica.com/science/2014/11/finding-the-ebola-virus-vulnerable-points/
-* http://www.nytimes.com/2014/12/01/us/federal-study-finds-55-percent-of-infants-sleep-with-soft-bedding-raising-risk-of-death.html
-* http://www.nytimes.com/2014/11/30/opinion/sunday/the-downside-of-resilience.html?_r=0
-* https://twitter.com/conradhackett/status/551621551682904064
-* http://www.nature.com/news/antibiotic-resistance-the-last-resort-1.13426
-* http://www.nytimes.com/2014/12/04/world/asia/superbugs-kill-indias-babies-and-pose-an-overseas-threat.html?_r=0
-* http://www.wired.com/2015/01/2015-diseases-borders/
-* http://www.theatlantic.com/health/archive/2015/01/the-new-antibiotics-might-be-essential-oils/384247/
+
 
 
 

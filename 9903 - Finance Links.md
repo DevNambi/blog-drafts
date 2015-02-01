@@ -194,6 +194,7 @@
 * http://www.slate.com/articles/business/moneybox/2014/11/duke_economist_campbell_harvey_most_research_on_why_investments_do_well.html
 * https://www.mattcutts.com/blog/make-money-investing-tips/ <- super useful.
 * http://www.nerdwallet.com/
+* http://www.pbs.org/idealab/2015/01/how-crowdfunding-municipal-bonds-help-people-invest-in-communities/
 
 
 

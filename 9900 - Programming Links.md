@@ -289,6 +289,7 @@
 * http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb
 * http://nbviewer.ipython.org/github/chrisalbon/code_py/tree/master/ <- HOLY CRAP THAT'S AMAZING
 * http://blog.yhathq.com/posts/11-python-libraries-you-might-not-know.html
+* http://nb.bianp.net/sort/views/
 
 
 * AWS IPython: Start IPYNB on EC2 machine. ssh -L 8889:localhost:8888 user@awsip.com. Go to localhost:8889 in local browser. Super quick IPYNB cloud
