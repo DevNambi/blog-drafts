@@ -6,6 +6,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 
 "Later we realized the 3 hardest problems in computer science were actually imposter syndrome, checking your privilege, and Dunning–Kruger." - https://twitter.com/marcprecipice/status/394625118564909057
 
+"You know, I see tons of tech companies w/ kegerators, foozball tables and video game consoles. How many have I seen that offer daycare? Zero"
 
 ### Resources, Links
 
