@@ -161,7 +161,7 @@
 
 #### Medical
 
-
+* http://www.dailykos.com/story/2015/01/30/1361224/-Roald-Dahl-s-Heartbreaking-Take-on-Vaccines
 
 
 <li><a href="http://www.theatlantic.com/national/archive/2014/01/the-missing-voices-in-the-contraception-mandate-cases/283452/" time_added="1391151159" tags="">The Missing Voices in the Contraception Mandate Cases - Garrett Epps - The </a></li>
