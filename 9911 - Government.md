@@ -65,6 +65,7 @@
 ## Other Countries
 
 * http://www.theverge.com/2015/1/21/7861645/finfisher-spyware-let-bahrain-government-hack-political-activist
+* http://www.mirror.co.uk/news/uk-news/westminster-child-abuse-scandal-kgb-5080120
 
 
 

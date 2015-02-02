@@ -55,6 +55,7 @@ The reason you should care about ethics is twofold:
 
 
 http://www.bbc.com/future/story/20150130-the-man-who-studies-evil
+http://www.ecouterre.com/reality-show-sends-fashion-bloggers-to-work-in-cambodian-sweatshop/
 
 #### Is your job ethical? How do you know?
 

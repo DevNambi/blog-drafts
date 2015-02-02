@@ -4,6 +4,42 @@
 ## Mental Productivity
 
 
+* http://www.newyorker.com/tech/elements/walking-helps-us-think
+* http://www.acuriousmix.com/2014/09/03/designing-a-personal-knowledgebase/
+* http://7goldfish.com/Little%20know%20ways%20to%20think%20about%20dicipline
+* http://www.npr.org/blogs/health/2015/01/05/371894919/what-heroin-addiction-tells-us-about-changing-bad-habits
+* http://parenting.blogs.nytimes.com/2014/10/16/want-to-ace-that-test-get-the-right-kind-of-sleep/
+* http://time.com/3554741/bad-habits-mental-health/
+* http://blogs.hbr.org/2012/09/to-succeed-forget-self-esteem/
+* http://www.hanselman.com/blog/ImAPhonyAreYou.aspx
+* http://teddy.fr/2013/02/10/about-not-owning-shit/
+* http://conversableeconomist.blogspot.co.uk/2014/12/focusing-behavioral-economics-on.html
+* http://7goldfish.com/Little%20know%20ways%20to%20think%20about%20dicipline
+* http://hollywouldifshecould.net/2012/12/15-small-ideas-to-kickstart-big-change/
+* http://chronicle.com/article/Youre-Distracted-This/138079/
+* http://www.economist.com/news/christmas-specials/21636612-time-poverty-problem-partly-perception-and-partly-distribution-why?fsrc=scn/tw/te/pe/ed/whyiseveryonesobusy
+* http://arstechnica.com/staff/2014/10/harnessing-depression-one-ars-writers-journey/
+* http://www.nytimes.com/2014/10/26/opinion/sunday/the-problem-with-positive-thinking.html
+* https://news.ycombinator.com/item?id=8976451
+* http://www.vox.com/2014/10/29/7041025/steven-johnson-interview-how-we-got-to-now-heres-how-innovation-happens
+* http://sivers.org/zipit
+* http://www.inc.com/jeff-haden/an-nearly-foolproof-way-to-achieve-every-goal-you-set-wed.html?cid=sf01002
+* http://xkcd.com/1445/ <- hilarious and true
+* http://www.fastcompany.com/3038376/what-happens-to-your-brain-when-youre-having-an-brilliant-idea
+* http://www.newyorker.com/magazine/2014/11/10/better-time
+* http://hamberg.no/gtd/
+* https://alumni.stanford.edu/get/page/magazine/article/?article_id=32124
+* http://news.harvard.edu/gazette/story/2011/01/eight-weeks-to-a-better-brain/
+* http://diply.com/trendyjoe/this-clever-infographic-will-help-you-declutter-your-entire-house/60784
+* https://medium.com/@robynscott/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98
+* http://www.studentpulse.com/articles/762/2/the-impact-of-listening-to-music-on-cognitive-performance
+* http://chadfowler.com/blog/2014/01/22/the-crunch-mode-antipattern/
+* https://medium.com/@cammipham/7-things-you-need-to-stop-doing-to-be-more-productive-backed-by-science-a988c17383a6
+* http://pss.sagepub.com/content/25/6/1159
+* http://wozniak.ca/why-i-quit-os-x
+* http://www.feld.com/archives/2015/01/didnt-need-take-hour.html
+
+
 <li><a href="http://www.bbc.com/future/story/20140514-how-extreme-isolation-warps-minds" time_added="1400181056" tags="">BBC - Future - How extreme isolation warps the mind</a></li>
 <li><a href="http://lifehacker.com/eight-things-you-can-discard-to-downsize-your-life-1522266092" time_added="1392447641" tags="">Eight Things You Can Discard to Downsize Your Life</a></li>
 <li><a href="http://biz30.timedoctor.com/richard-bransons-six-secrets-to-productivity/" time_added="1349095675" tags="life hacker">Richard Branson’s Six Secrets to Productivity | Biz 3.0</a></li>
@@ -47,40 +83,6 @@
 
 
 
-
-* http://www.newyorker.com/tech/elements/walking-helps-us-think
-* http://www.acuriousmix.com/2014/09/03/designing-a-personal-knowledgebase/
-* http://www.npr.org/blogs/health/2015/01/05/371894919/what-heroin-addiction-tells-us-about-changing-bad-habits
-* http://parenting.blogs.nytimes.com/2014/10/16/want-to-ace-that-test-get-the-right-kind-of-sleep/
-* http://time.com/3554741/bad-habits-mental-health/
-* http://blogs.hbr.org/2012/09/to-succeed-forget-self-esteem/
-* http://www.hanselman.com/blog/ImAPhonyAreYou.aspx
-* http://teddy.fr/2013/02/10/about-not-owning-shit/
-* http://conversableeconomist.blogspot.co.uk/2014/12/focusing-behavioral-economics-on.html
-* http://7goldfish.com/Little%20know%20ways%20to%20think%20about%20dicipline
-* http://hollywouldifshecould.net/2012/12/15-small-ideas-to-kickstart-big-change/
-* http://chronicle.com/article/Youre-Distracted-This/138079/
-* http://www.economist.com/news/christmas-specials/21636612-time-poverty-problem-partly-perception-and-partly-distribution-why?fsrc=scn/tw/te/pe/ed/whyiseveryonesobusy
-* http://arstechnica.com/staff/2014/10/harnessing-depression-one-ars-writers-journey/
-* http://www.nytimes.com/2014/10/26/opinion/sunday/the-problem-with-positive-thinking.html
-* https://news.ycombinator.com/item?id=8976451
-* http://www.vox.com/2014/10/29/7041025/steven-johnson-interview-how-we-got-to-now-heres-how-innovation-happens
-* http://sivers.org/zipit
-* http://www.inc.com/jeff-haden/an-nearly-foolproof-way-to-achieve-every-goal-you-set-wed.html?cid=sf01002
-* http://xkcd.com/1445/ <- hilarious and true
-* http://www.fastcompany.com/3038376/what-happens-to-your-brain-when-youre-having-an-brilliant-idea
-* http://www.newyorker.com/magazine/2014/11/10/better-time
-* http://hamberg.no/gtd/
-* https://alumni.stanford.edu/get/page/magazine/article/?article_id=32124
-* http://news.harvard.edu/gazette/story/2011/01/eight-weeks-to-a-better-brain/
-* http://diply.com/trendyjoe/this-clever-infographic-will-help-you-declutter-your-entire-house/60784
-* https://medium.com/@robynscott/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98
-* http://www.studentpulse.com/articles/762/2/the-impact-of-listening-to-music-on-cognitive-performance
-* http://chadfowler.com/blog/2014/01/22/the-crunch-mode-antipattern/
-* https://medium.com/@cammipham/7-things-you-need-to-stop-doing-to-be-more-productive-backed-by-science-a988c17383a6
-* http://pss.sagepub.com/content/25/6/1159
-* http://wozniak.ca/why-i-quit-os-x
-* http://www.feld.com/archives/2015/01/didnt-need-take-hour.html
 
 
 
