@@ -63,6 +63,7 @@
 * http://www.economist.com/news/christmas-specials/21636612-time-poverty-problem-partly-perception-and-partly-distribution-why?fsrc=scn/tw/te/pe/ed/whyiseveryonesobusy
 * http://arstechnica.com/staff/2014/10/harnessing-depression-one-ars-writers-journey/
 * http://www.nytimes.com/2014/10/26/opinion/sunday/the-problem-with-positive-thinking.html
+* https://news.ycombinator.com/item?id=8976451
 * http://www.vox.com/2014/10/29/7041025/steven-johnson-interview-how-we-got-to-now-heres-how-innovation-happens
 * http://sivers.org/zipit
 * http://www.inc.com/jeff-haden/an-nearly-foolproof-way-to-achieve-every-goal-you-set-wed.html?cid=sf01002
