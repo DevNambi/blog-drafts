@@ -5,6 +5,44 @@
 ### Food
 
 
+* http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0
+* https://jawbone.com/blog/weight-loss/
+* http://america.aljazeera.com/articles/2014/12/25/kale-and-hearty-thesaladbowlofamericaturnstoxic.html
+* http://www.nytimes.com/2015/01/24/business/allergy-trigger-found-in-many-personal-care-items-comes-under-greater-scrutiny.html
+* http://www.theguardian.com/lifeandstyle/2014/dec/05/detox-myth-health-diet-science-ignorance
+* http://aeon.co/magazine/health/would-we-opt-out-of-food-if-given-the-chance/
+* http://www.theatlantic.com/health/archive/2015/01/the-selling-of-the-avocado/385047/?single_page=true
+* http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13793.html
+* http://qz.com/271961/the-complete-guide-to-packing-a-thrifty-lunch-thats-better-than-takeout/
+* http://world.openfoodfacts.org/ <- for side business
+* http://www.vrg.org/blog/2013/03/14/why-so-many-food-label-disclaimers/
+* http://tryingadf.blogspot.com/2013/04/fasting-as-detox-debunked.html
+* http://www.yummly.com/
+* http://blog.longreads.com/2014/09/28/the-honey-hunters/
+* http://ajcn.nutrition.org/content/84/3/475.full.pdf
+* https://www.supertracker.usda.gov/default.aspx
+* http://www.slate.com/articles/health_and_science/science/2013/08/can_gmo_corn_cause_allergies_don_t_believe_elle_s_scary_story.single.html
+* http://sunlightfoundation.com/blog/2013/10/30/First_lady_enlists_muppets/
+* http://i.imgur.com/H7hj5.jpg
+* http://stroke.ahajournals.org/content/early/2015/01/27/STROKEAHA.114.007894.abstract
+* http://time.com/3513875/soda-may-age-you-as-much-as-smoking/
+* http://www.bbc.com/news/magazine-29817519
+* http://well.blogs.nytimes.com/2014/10/30/a-heart-risk-in-drinking-water/?_r=0
+* http://www.curatingmenus.org/data_dictionary/
+* http://www.nature.com/news/gut-brain-link-grabs-neuroscientists-1.16316
+* http://www.foodpolitics.com/2014/11/brazilian-dietary-guidelines-are-based-on-foods-food-patterns-and-meals-not-nutrients/
+* http://www.minnpost.com/earth-journal/2014/11/arsenic-laden-rice-fda-deliberates-consumer-reports-issues-guidance
+* http://imgur.com/gallery/pHUdq
+* http://www.nytimes.com/2014/11/30/opinion/sunday/can-mushrooms-treat-depression.html?_r=0
+* http://nautil.us/issue/16/nothingness/take-two-sugar-pills-and-call-me-in-the-morning
+* http://online.wsj.com/articles/how-the-brain-uses-glucose-to-fuel-self-control-1417618996
+* http://www.nytimes.com/2014/12/04/opinion/nicholas-kristof-abusing-chickens-we-eat.html
+* http://well.blogs.nytimes.com/2014/12/08/bpa-in-cans-and-plastic-bottles-linked-to-quick-rise-in-blood-pressure/?_r=0
+* http://www.bbc.com/news/magazine-30549150
+* http://www.theatlantic.com/health/archive/2015/01/the-new-antibiotics-might-be-essential-oils/384247/
+* http://www.nytimes.com/2015/01/20/dining/animal-welfare-at-risk-in-experiments-for-meat-industry.html
+* http://seattletimes.com/html/nationworld/2025500513_pizzaobesexml.html
+
 
 <li><a href="http://offbeathome.com/2014/06/freezing-summers-bounty" time_added="1406322092" tags="">The ultimate guide to freezing summer's bounty</a></li>
 <li><a href="http://offbeathome.com/2012/12/uses-for-sage" time_added="1354643327" tags="">How many different ways can you use sage? | Offbeat Home</a></li>
@@ -77,44 +115,6 @@
 <li><a href="http://www.theguardian.com/books/2012/jan/13/extra-virginity-tom-mueller-review" time_added="1375756828" tags="corruption,finance,health">Extra Virginity: The Sublime and Scandalous World of Olive Oil by Tom Muell</a></li>
 <li><a href="http://blogs.smithsonianmag.com/science/2013/08/the-science-behind-honeys-eternal-shelf-life/" time_added="1377353340" tags="domestic,funny,health,important">The Science Behind Honey's Eternal Shelf Life | Surprising Science</a></li>
 <li><a href="http://www.reddit.com/r/Frugal/comments/1gdtil/i_eat_very_well_for_less_than_30_per_week_in_a/" time_added="1384533304" tags="data sources,finance,health">I eat VERY well for less than $30 per week in a very expensive country (Aus</a></li>
-
-
-
-* http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0
-* https://jawbone.com/blog/weight-loss/
-* http://america.aljazeera.com/articles/2014/12/25/kale-and-hearty-thesaladbowlofamericaturnstoxic.html
-* http://www.nytimes.com/2015/01/24/business/allergy-trigger-found-in-many-personal-care-items-comes-under-greater-scrutiny.html
-* http://www.theguardian.com/lifeandstyle/2014/dec/05/detox-myth-health-diet-science-ignorance
-* http://aeon.co/magazine/health/would-we-opt-out-of-food-if-given-the-chance/
-* http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13793.html
-* http://qz.com/271961/the-complete-guide-to-packing-a-thrifty-lunch-thats-better-than-takeout/
-* http://world.openfoodfacts.org/ <- for side business
-* http://www.vrg.org/blog/2013/03/14/why-so-many-food-label-disclaimers/
-* http://tryingadf.blogspot.com/2013/04/fasting-as-detox-debunked.html
-* http://www.yummly.com/
-* http://blog.longreads.com/2014/09/28/the-honey-hunters/
-* http://ajcn.nutrition.org/content/84/3/475.full.pdf
-* https://www.supertracker.usda.gov/default.aspx
-* http://www.slate.com/articles/health_and_science/science/2013/08/can_gmo_corn_cause_allergies_don_t_believe_elle_s_scary_story.single.html
-* http://sunlightfoundation.com/blog/2013/10/30/First_lady_enlists_muppets/
-* http://i.imgur.com/H7hj5.jpg
-* http://time.com/3513875/soda-may-age-you-as-much-as-smoking/
-* http://www.bbc.com/news/magazine-29817519
-* http://well.blogs.nytimes.com/2014/10/30/a-heart-risk-in-drinking-water/?_r=0
-* http://www.curatingmenus.org/data_dictionary/
-* http://www.nature.com/news/gut-brain-link-grabs-neuroscientists-1.16316
-* http://www.foodpolitics.com/2014/11/brazilian-dietary-guidelines-are-based-on-foods-food-patterns-and-meals-not-nutrients/
-* http://www.minnpost.com/earth-journal/2014/11/arsenic-laden-rice-fda-deliberates-consumer-reports-issues-guidance
-* http://imgur.com/gallery/pHUdq
-* http://www.nytimes.com/2014/11/30/opinion/sunday/can-mushrooms-treat-depression.html?_r=0
-* http://nautil.us/issue/16/nothingness/take-two-sugar-pills-and-call-me-in-the-morning
-* http://online.wsj.com/articles/how-the-brain-uses-glucose-to-fuel-self-control-1417618996
-* http://www.nytimes.com/2014/12/04/opinion/nicholas-kristof-abusing-chickens-we-eat.html
-* http://well.blogs.nytimes.com/2014/12/08/bpa-in-cans-and-plastic-bottles-linked-to-quick-rise-in-blood-pressure/?_r=0
-* http://www.bbc.com/news/magazine-30549150
-* http://www.theatlantic.com/health/archive/2015/01/the-new-antibiotics-might-be-essential-oils/384247/
-* http://www.nytimes.com/2015/01/20/dining/animal-welfare-at-risk-in-experiments-for-meat-industry.html
-* http://seattletimes.com/html/nationworld/2025500513_pizzaobesexml.html
 
 
 

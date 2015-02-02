@@ -246,6 +246,7 @@
 * http://sujitpal.blogspot.com/2014/05/ipython-notebooks-for-statlearning.html
 * http://svds.com/post/avoiding-common-mistake-time-series
 * http://www.simonsfoundation.org/quanta/20141015-at-the-far-ends-of-a-new-universal-law/
+* http://scottsievert.github.io/blog/2015/01/31/the-mysterious-eigenvalue/
 * http://simplystatistics.org/2014/10/17/bayes-rule-in-a-gif/
 * https://github.com/twitter/BreakoutDetection
 * http://www.wired.com/2014/10/tracy-widom-mysterious-statistical-law/

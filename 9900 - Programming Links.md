@@ -362,8 +362,14 @@
 
 ## SQL and Databases
 
-
-
+* http://www.andreas-dewes.de/en/2015/queens-of-the-data-age-abusing-common-table-expressions-to-solve-the-eight-queens-problem-in-sql/
+* https://aws.amazon.com/blogs/aws/highly-scalable-mysql-compat-rds-db-engine/
+* https://foundationdb.com/key-value-store/white-papers/future-of-nosql
+* http://allen-mcguire.blogspot.com/2014/06/reporting-on-spblitzcache-results.html
+* http://www.pg-versus-ms.com/ <- brilliant, and useful.
+* http://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html
+* http://www.postgres-xl.org/
+* http://queue.acm.org/detail.cfm?id=2696453 <- amazingly useful
 
 <li><a href="http://t.co/ZA3MOe15" time_added="1357660034" tags="">mrdenny: Reading: http://t.co/ZA3MOe15 Selective XML Index - Secondary Sele</a></li>
 <li><a href="http://t.co/wHxcpOOC" time_added="1356371201" tags="">BrentOzarULTD: New post: sp_BlitzIndex™ Holiday Week Edition http://t.co/wH</a></li>
@@ -429,15 +435,6 @@ things they believe in will keep </a></li>
 <li><a href="http://t.co/IyN8K2RY" time_added="1359058207" tags="sql">datachick: 7 Tips for Staying Relevant and Valued as a Data Modeler http://</a></li>
 <li><a href="http://pulse.sqlserverpedia.com/blog/5-mcm-readiness-indexing-videos-you-should-watch/" time_added="1359059603" tags="sql">5 MCM Readiness Indexing Videos You Should Watch | Blog | SQLServerPedia</a></li>
 <li><a href="http://t.co/Gj5wfmFp" time_added="1359321366" tags="big data,sql">SQLGal: Linked server queries to #hive are awesome. FMI see http://download</a></li>
-
-
-* https://aws.amazon.com/blogs/aws/highly-scalable-mysql-compat-rds-db-engine/
-* https://foundationdb.com/key-value-store/white-papers/future-of-nosql
-* http://allen-mcguire.blogspot.com/2014/06/reporting-on-spblitzcache-results.html
-* http://www.pg-versus-ms.com/ <- brilliant, and useful.
-* http://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html
-* http://www.postgres-xl.org/
-* http://queue.acm.org/detail.cfm?id=2696453 <- amazingly useful
 
 
 
