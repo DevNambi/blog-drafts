@@ -57,6 +57,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://www.payscale.com/data-packages/most-and-least-meaningful-jobs/interactive-chart">The Most and Least Meaningful Jobs</a></li>
 <li><a href="http://strategyandanalytics.com/hardship-professions-unhappy-suicidal-alcoholic-job-lists/">Tough Professions: Unhappy, Suicidal, and Alcoholic Jobs</a></li>
 <li><a href="http://blog.ketyov.com/2014/03/the-passion-trap.html">The Passion Trap</a></li>
+<li><a href="http://markmanson.net/question">The Most Important Question of Your Life</a></li>
 <li><a href="http://sectorexplorer.com/">Sector Explorer</a></li>
 </ul>
 

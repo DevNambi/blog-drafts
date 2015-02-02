@@ -362,6 +362,7 @@
 
 * http://seattletimes.com/html/nationworld/2025012950_apxcollegecosts.html
 * http://highereddatastories.blogspot.com/2014/11/what-is-pell-grant-worth.html
+* http://www.theatlantic.com/business/archive/2015/02/the-mental-and-physical-toll-of-student-loans/385032/
 * http://highereddatastories.blogspot.com/2015/01/colleges-or-investment-firms.html
 * http://www.nytimes.com/2014/11/22/your-money/paying-for-college/college-abacus-offers-data-on-college-costs-but-some-schools-balk.html
 * http://seattletimes.com/html/opinion/2025124962_spitzeropedhighered30xml.html

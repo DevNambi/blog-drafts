@@ -63,6 +63,7 @@ Industries
 
 * http://www.theatlantic.com/health/archive/2012/10/why-were-still-waiting-on-the-yelpification-of-health-care/263815/
 * http://www.businessinsider.com/super-cheap-genome-sequencing-by-2020-2014-10
+* http://markmanson.net/question
 * http://digitheadslabnotebook.blogspot.com/2014/11/the-dream-recomb-conference-2014.html
 * https://medium.com/backchannel/the-man-who-made-the-uk-say-im-sorry-for-what-we-did-to-turing-8fc468dcea6b
 
@@ -79,6 +80,7 @@ Industries
 * http://www.wired.com/2014/02/outsourcing-humanity-apps/
 * http://www.bbc.co.uk/news/science-environment-24538078
 * http://www.nakedcapitalism.com/2014/12/joe-firestone-lawless-society.html
+* http://rein.pk/replacing-middle-management-with-apis/
 * http://www.brainpickings.org/2014/02/11/brockman-what-should-we-be-worried-about/
 * http://www.pickthebrain.com/blog/8-things-important-job/
 * http://www.cs.washington.edu/events/colloquia/details?id=2607
