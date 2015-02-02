@@ -18,6 +18,7 @@ This is an information problem. It's also a FUD problem.
 * https://zapier.com/blog/remote-office-photos/
 * http://www.groovehq.com/blog/being-a-remote-team
 * http://paddy.io/posts/recruiters/
+* http://andytroutman.com/articles/2013/01/24/rockstar-programmers-are-not-assholes.html
 * http://www.wired.com/2014/02/smart-jerks-old-people-hard-things-company/
 * https://www.linkedin.com/today/post/article/20140527132535-50510-interviewing-engineers-is-a-team-sport
 * http://michaelochurch.wordpress.com/2014/02/06/if-you-stop-promoting-from-within-soon-you-cant/

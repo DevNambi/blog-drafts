@@ -1,5 +1,33 @@
 # Security
 
+
+* http://www.bloomberg.com/news/2014-10-02/jpmorgan-says-data-breach-affected-76-million-households.html
+* http://arstechnica.com/security/2015/01/wireless-device-in-two-million-cars-wide-open-to-hacking/
+* https://www.codeandsec.com/Supreme-Leaders-Not-That-Supreme-Malwares
+* https://www.owasp.org/index.php/Authentication_Cheat_Sheet
+* http://www.wired.com/2015/01/state-of-our-unions-data-insecure/
+* https://medium.com/@thedanigrant/need-a-last-minute-flight-45af88ec8df3
+* https://www.schneier.com/blog/archives/2015/01/the_security_of_10.html
+* https://firstlook.org/theintercept/2015/01/28/canada-cse-levitation-mass-surveillance/
+* http://cwe.mitre.org/top25/
+* http://recode.net/2015/01/12/dont-ignore-the-simple-cyber-attacks-says-security-blogger-brian-krebs-qa/
+* https://medium.com/@SwiftOnSecurity/a-story-about-jessica-and-her-computer-e400fa9fd4e
+* http://www.extremetech.com/mobile/197346-google-throws-nearly-a-billion-android-users-under-the-bus-refuses-to-patch-os-vulnerability
+* http://arstechnica.com/security/2014/10/dozens-of-european-atms-rooted-allowing-criminals-to-easily-cash-out/
+* http://www.threatconnect.com/news/operation-poisoned-helmand/
+* http://technet.microsoft.com/library/cc722487.aspx <- **Priceless**
+* https://casecurity.org/2014/11/18/the-cost-of-creating-collisions-using-sha-1/
+* http://arstechnica.com/security/2014/11/nonprofit-effort-aims-to-encrypt-the-web/
+* https://krebsonsecurity.com/2014/12/target-hackers-hit-onestopparking-com/
+* http://www.nytimes.com/2014/12/02/technology/hackers-target-biotech-companies.html?_r=0
+* https://kev.inburke.com/kevin/invalid-username-or-password-useless/
+* http://blog.nodenexus.com/2014/11/28/a-shark-on-the-network/
+* http://arstechnica.com/security/2014/12/sites-certified-as-secure-often-morevulnerable-to-hacking-scientists-find/
+* http://robertheaton.com/2014/12/08/fun-with-your-friends-facebook-and-tinder-session-tokens/
+* https://crackstation.net/hashing-security.htm
+* http://www.wired.com/2015/01/security-predictions-2015/
+* http://www.forbes.com/sites/andygreenberg/2013/12/04/heres-the-letter-a-senator-sent-to-20-auto-makers-demanding-answers-on-car-hacking-threats/
+
 <li><a href="http://www.nakedcapitalism.com/2014/01/target-neiman-marcus-credit-card-hacking-reveals-third-world-us-payment-systems.html" time_added="1389643640" tags="">Target, Neiman Marcus Credit Card Hacking Reveals Third-World US Payment Sy</a></li>
 <li><a href="http://lifehacker.com/5932501/strong-passwords-arent-enough-how-to-to-ensure-the-apple-and-amazon-exploit-never-happens-to-you" time_added="1348860569" tags="personal tech">Strong Passwords Aren't Enough: How to to Ensure the Apple and Amazon Explo</a></li>
 <li><a href="http://securityledger.com/new-25-gpu-monster-devours-passwords-in-seconds/" time_added="1354741360" tags="hn,important">Update: New 25 GPU Monster Devours Passwords In Seconds | The Security Ledg</a></li>
@@ -36,31 +64,6 @@
 
 
 
-* http://www.bloomberg.com/news/2014-10-02/jpmorgan-says-data-breach-affected-76-million-households.html
-* http://arstechnica.com/security/2015/01/wireless-device-in-two-million-cars-wide-open-to-hacking/
-* https://www.codeandsec.com/Supreme-Leaders-Not-That-Supreme-Malwares
-* http://www.wired.com/2015/01/state-of-our-unions-data-insecure/
-* https://medium.com/@thedanigrant/need-a-last-minute-flight-45af88ec8df3
-* https://www.schneier.com/blog/archives/2015/01/the_security_of_10.html
-* https://firstlook.org/theintercept/2015/01/28/canada-cse-levitation-mass-surveillance/
-* http://cwe.mitre.org/top25/
-* http://recode.net/2015/01/12/dont-ignore-the-simple-cyber-attacks-says-security-blogger-brian-krebs-qa/
-* https://medium.com/@SwiftOnSecurity/a-story-about-jessica-and-her-computer-e400fa9fd4e
-* http://www.extremetech.com/mobile/197346-google-throws-nearly-a-billion-android-users-under-the-bus-refuses-to-patch-os-vulnerability
-* http://arstechnica.com/security/2014/10/dozens-of-european-atms-rooted-allowing-criminals-to-easily-cash-out/
-* http://www.threatconnect.com/news/operation-poisoned-helmand/
-* http://technet.microsoft.com/library/cc722487.aspx <- **Priceless**
-* https://casecurity.org/2014/11/18/the-cost-of-creating-collisions-using-sha-1/
-* http://arstechnica.com/security/2014/11/nonprofit-effort-aims-to-encrypt-the-web/
-* https://krebsonsecurity.com/2014/12/target-hackers-hit-onestopparking-com/
-* http://www.nytimes.com/2014/12/02/technology/hackers-target-biotech-companies.html?_r=0
-* https://kev.inburke.com/kevin/invalid-username-or-password-useless/
-* http://blog.nodenexus.com/2014/11/28/a-shark-on-the-network/
-* http://arstechnica.com/security/2014/12/sites-certified-as-secure-often-morevulnerable-to-hacking-scientists-find/
-* http://robertheaton.com/2014/12/08/fun-with-your-friends-facebook-and-tinder-session-tokens/
-* https://crackstation.net/hashing-security.htm
-* http://www.wired.com/2015/01/security-predictions-2015/
-* http://www.forbes.com/sites/andygreenberg/2013/12/04/heres-the-letter-a-senator-sent-to-20-auto-makers-demanding-answers-on-car-hacking-threats/
 
 
 #### NSA

@@ -6,6 +6,7 @@
 
 
 * http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0
+* http://blog.dilbert.com/post/109880240641/sciences-biggest-fail
 * https://jawbone.com/blog/weight-loss/
 * http://america.aljazeera.com/articles/2014/12/25/kale-and-hearty-thesaladbowlofamericaturnstoxic.html
 * http://www.nytimes.com/2015/01/24/business/allergy-trigger-found-in-many-personal-care-items-comes-under-greater-scrutiny.html
@@ -165,7 +166,9 @@
 #### Medical
 
 
-
+* http://www.nytimes.com/2015/02/03/upshot/how-to-measure-a-medical-treatments-potential-for-harm.html?_r=0&abt=0002&abg=1 <- super important
+* http://www.abc.net.au/news/2014-10-27/medication-software-likely-to-kill-patients-within-month-report/5843044
+* http://opinionator.blogs.nytimes.com/2015/01/31/dying-shouldnt-be-so-brutal/
 * https://www.insidehighered.com/news/2015/02/02/measles-outbreak-raises-issues-colleges
 * http://www.dailykos.com/story/2015/01/30/1361224/-Roald-Dahl-s-Heartbreaking-Take-on-Vaccines
 * http://www.mdnewsdaily.com/articles/3130/20150131/vast-majority-of-neurosurgeons-practice-defensive-medicine.htm
@@ -370,6 +373,26 @@
 
 
 * http://fivethirtyeight.com/datalab/what-canceling-an-insurance-program-meant-for-arizonas-kids/
+* http://www.nytimes.com/2015/02/01/us/medical-costs-rise-as-retirees-winter-in-south.html
+* http://www.washingtonpost.com/blogs/wonkblog/wp/2013/05/08/one-hospital-charges-8000-another-38000/
+* http://www.nytimes.com/interactive/2014/12/18/health/cost-of-health-care-poll.html
+* http://mobile.nytimes.com/2015/01/15/opinion/why-drugs-cost-so-much.html <- http://mobile.nytimes.com/2015/01/15/opinion/why-drugs-cost-so-much.html
+* http://seattletimes.com/html/nationworld/2021065979_employeehealthxml.html
+* http://seattletimes.com/html/localnews/2021250318_hospitalcostsxml.html
+* http://www.npr.org/blogs/health/2014/10/21/357780794/more-insurers-put-spending-limits-on-medical-treatments
+* http://www.usatoday.com/story/news/health/2014/11/05/ozy-abraham-flaxman-public-health/18529009/
+* http://www.theatlantic.com/health/archive/2014/11/do-you-know-the-basics-of-health-insurance/382700/
+* http://www.nytimes.com/2014/11/18/us/politics/health-law-turns-obama-and-insurers-into-allies.html
+* http://zoekeating.tumblr.com/post/106533619564/everything-is-ok-i-think
+* https://www.linkedin.com/pulse/i-experienced-americas-broken-healthcare-system-while-steven-brill
+* http://www.vox.com/2014/11/19/7247579/childbirth-bill-expensive-canada
+* http://well.blogs.nytimes.com/2014/11/20/that-medical-test-costs-50-or-is-it-500/
+* http://www.nytimes.com/2014/11/23/upshot/how-to-arrive-at-the-best-health-policies-.html
+* http://www.nytimes.com/2014/11/28/opinion/financial-incentives-in-health-care.html
+* http://seattletimes.com/html/localnews/2025265992_hospitalinfectionsxml.html
+* http://www.nytimes.com/2014/12/16/health/the-odd-math-of-medical-tests-one-echocardiogram-two-prices-both-high.html
+* http://mobile.nytimes.com/2015/01/12/us/politics/new-rules-to-limit-tactics-on-hospitals-fee-collections.html?_r=0
+* http://www.businessweek.com/articles/2015-01-15/how-indias-patent-office-destroyed-gileads-global-game-plan
 
 <li><a href="http://t.co/IG6Jdn4S" time_added="1357788683" tags="">lazowska: NY Times: US is an outlier in relying on the private sector to fu</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/11/another-lurking-obamacare-problem-balance-billing.html" time_added="1384907393" tags="corruption,finance,health,important,to_read">Another Lurking Obamacare Problem: Balance Billing « naked capitalism</a></li>
@@ -432,26 +455,6 @@
 <li><a href="http://www.wired.com/business/2013/04/hacking-worker-health-with-coupons/" time_added="1365423555" tags="data ethics,health,hn">To Hack Health Care Costs, Employers Can Now Track How You Grocery Shop wir</a></li>
 
 
-
-* http://www.washingtonpost.com/blogs/wonkblog/wp/2013/05/08/one-hospital-charges-8000-another-38000/
-* http://www.nytimes.com/interactive/2014/12/18/health/cost-of-health-care-poll.html
-* http://mobile.nytimes.com/2015/01/15/opinion/why-drugs-cost-so-much.html <- http://mobile.nytimes.com/2015/01/15/opinion/why-drugs-cost-so-much.html
-* http://seattletimes.com/html/nationworld/2021065979_employeehealthxml.html
-* http://seattletimes.com/html/localnews/2021250318_hospitalcostsxml.html
-* http://www.npr.org/blogs/health/2014/10/21/357780794/more-insurers-put-spending-limits-on-medical-treatments
-* http://www.usatoday.com/story/news/health/2014/11/05/ozy-abraham-flaxman-public-health/18529009/
-* http://www.theatlantic.com/health/archive/2014/11/do-you-know-the-basics-of-health-insurance/382700/
-* http://www.nytimes.com/2014/11/18/us/politics/health-law-turns-obama-and-insurers-into-allies.html
-* http://zoekeating.tumblr.com/post/106533619564/everything-is-ok-i-think
-* https://www.linkedin.com/pulse/i-experienced-americas-broken-healthcare-system-while-steven-brill
-* http://www.vox.com/2014/11/19/7247579/childbirth-bill-expensive-canada
-* http://well.blogs.nytimes.com/2014/11/20/that-medical-test-costs-50-or-is-it-500/
-* http://www.nytimes.com/2014/11/23/upshot/how-to-arrive-at-the-best-health-policies-.html
-* http://www.nytimes.com/2014/11/28/opinion/financial-incentives-in-health-care.html
-* http://seattletimes.com/html/localnews/2025265992_hospitalinfectionsxml.html
-* http://www.nytimes.com/2014/12/16/health/the-odd-math-of-medical-tests-one-echocardiogram-two-prices-both-high.html
-* http://mobile.nytimes.com/2015/01/12/us/politics/new-rules-to-limit-tactics-on-hospitals-fee-collections.html?_r=0
-* http://www.businessweek.com/articles/2015-01-15/how-indias-patent-office-destroyed-gileads-global-game-plan
 
 
 By Zoe Keating:

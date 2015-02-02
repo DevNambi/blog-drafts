@@ -24,6 +24,15 @@
 
 ## Parenting
 
+* http://www.nytimes.com/2015/02/01/opinion/sunday/the-only-baby-book-youll-ever-need.html
+* http://www.nytimes.com/2014/10/17/us/quality-of-words-not-quantity-is-crucial-to-language-skills-study-finds.html
+* http://www.theatlantic.com/business/archive/2013/10/first-children-are-smarter-but-why/280725/
+* http://solveforinteresting.com/offspring-edited/
+* https://medium.com/re-form/simcity-that-i-used-to-know-d5d8c49e3e1d
+* http://well.blogs.nytimes.com/2014/10/20/sleep-for-teenagers/?_php=true&_type=blogs&_r=0
+* http://mobile.nytimes.com/2014/11/16/fashion/the-brotherhood-of-the-stay-at-home-dad.html
+* http://nautil.us/issue/2/uncertainty/parenthood-the-great-moral-gamble
+* http://www.washingtonpost.com/lifestyle/magazine/how-to-raise-successful-children--advice-from-parents-lucky-enough-to-know/2014/12/30/54785c3c-7fe9-11e4-9f38-95a187e4c1f7_story.html
 
 <li><a href="http://www.economist.com/news/united-states/21608779-there-large-class-divide-how-americans-raise-their-children-rich-parents-can" time_added="1406589833" tags="">Parenting in America: Choose your parents wisely | The Economist</a><li>
 <li><a href="http://www.nytimes.com/2014/01/15/us/as-asian-americans-age-their-children-face-cultural-hurdles.html?hp&_r=0" time_added="1389749845" tags="">As Parents Age, Asian-Americans Struggle to Obey A Cultural Code - NYTimes.</a><li>
@@ -122,16 +131,6 @@
 <li><a href="http://www.theatlantic.com/business/archive/2013/11/the-slow-death-of-traditional-families-in-america/281904/" time_added="1385794466" tags="parenting">http://www.theatlantic.com/business/archive/2013/11/the-slow-death-of-tradi</a></li>
 <li><a href="http://goodmenproject.com/good-feed-blog/25-failsafe-rules-for-dads-raising-daughters/" time_added="1385152218" tags="parenting">http://goodmenproject.com/good-feed-blog/25-failsafe-rules-for-dads-raising</a></li>
 <li><a href="http://www.newrepublic.com/article/115347/parental-surveillance-creepy-new-ways-spy-your-kids" time_added="1383331099" tags="parenting">http://www.newrepublic.com/article/115347/parental-surveillance-creepy-new-</a></li>
-
-
-* http://www.nytimes.com/2014/10/17/us/quality-of-words-not-quantity-is-crucial-to-language-skills-study-finds.html
-* http://www.theatlantic.com/business/archive/2013/10/first-children-are-smarter-but-why/280725/
-* http://solveforinteresting.com/offspring-edited/
-* https://medium.com/re-form/simcity-that-i-used-to-know-d5d8c49e3e1d
-* http://well.blogs.nytimes.com/2014/10/20/sleep-for-teenagers/?_php=true&_type=blogs&_r=0
-* http://mobile.nytimes.com/2014/11/16/fashion/the-brotherhood-of-the-stay-at-home-dad.html
-* http://nautil.us/issue/2/uncertainty/parenthood-the-great-moral-gamble
-* http://www.washingtonpost.com/lifestyle/magazine/how-to-raise-successful-children--advice-from-parents-lucky-enough-to-know/2014/12/30/54785c3c-7fe9-11e4-9f38-95a187e4c1f7_story.html
 
 
 

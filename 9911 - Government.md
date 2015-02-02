@@ -6,6 +6,7 @@
 ## Federal
 
 * http://mobile.nytimes.com/2014/10/12/business/no-smoke-no-mirrors-the-dutch-pension-plan.html
+* http://www.nybooks.com/articles/archives/2015/feb/19/james-risen-reporter-resists-his-government/
 * http://boingboing.net/2015/01/22/barrettbrown.html
 * http://www.nytimes.com/2014/10/14/us/for-supreme-court-first-amendment-sometimes-has-a-limit-its-doorstep.html
 * http://arstechnica.com/tech-policy/2014/10/in-a-first-tsa-announces-7-americans-removed-from-no-fly-list/
@@ -135,6 +136,7 @@
 
 ## State
 
+* http://www.sfgate.com/business/article/State-let-oil-companies-taint-drinkable-water-in-6054242.php
 * http://yro.slashdot.org/story/12/10/28/0531250/cash-strapped-states-burdened-by-expensive-data-security-breaches
 * http://www.theverge.com/2014/10/20/7014705/coding-error-911-fcc-washington
 * http://dealbook.nytimes.com/2014/10/21/states-ease-laws-that-protected-poor-borrowers/?_php=true&_type=blogs&_r=0
