@@ -30,6 +30,7 @@ We believe we are working to make our society, our world, a better place. At the
 * http://flowingdata.com/2014/12/15/when-data-gets-creepy/
 * http://andrewgelman.com/2014/12/23/using-statistics-make-world-better-place/
 * http://www.inference.phy.cam.ac.uk/sanjoy/schmidt/archive/social-anarchism.htm
+* http://www.drivendata.org/competitions/7/
 * http://seattletimes.com/html/localnews/2025286202_jdlcolumn22xml.html
 * http://nerd.kelseyinnis.com/blog/2014/12/19/your-job-is-political-tech-money-in-politics/
 * http://www.law.nyu.edu/centers/ili/AlgorithmsConference
