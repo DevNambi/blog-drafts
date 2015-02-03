@@ -365,6 +365,7 @@
 
 * http://www.andreas-dewes.de/en/2015/queens-of-the-data-age-abusing-common-table-expressions-to-solve-the-eight-queens-problem-in-sql/
 * https://aws.amazon.com/blogs/aws/highly-scalable-mysql-compat-rds-db-engine/
+* http://use-the-index-luke.com/blog/2015-02/modern-sql
 * https://foundationdb.com/key-value-store/white-papers/future-of-nosql
 * http://allen-mcguire.blogspot.com/2014/06/reporting-on-spblitzcache-results.html
 * http://www.pg-versus-ms.com/ <- brilliant, and useful.
