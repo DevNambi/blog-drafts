@@ -5,6 +5,8 @@
 
 ## Federal
 
+
+* http://www.dailydot.com/politics/jeremy-hammond-terrorist-watchlist-fbi/
 * http://mobile.nytimes.com/2014/10/12/business/no-smoke-no-mirrors-the-dutch-pension-plan.html
 * http://www.nybooks.com/articles/archives/2015/feb/19/james-risen-reporter-resists-his-government/
 * http://boingboing.net/2015/01/22/barrettbrown.html
