@@ -107,8 +107,10 @@
 * https://www.youtube.com/watch?v=y-1Gh4ewklY&feature=youtu.be
 
 
+
 ## Poverty, Class Warfare, 'American Dream'
 
+* http://www.gallup.com/opinion/chairman/181469/big-lie-unemployment.aspx
 * http://opinionator.blogs.nytimes.com/2013/11/02/poverty-in-america-is-mainstream/
 * http://en.wikipedia.org/wiki/South_Fork_Fishing_and_Hunting_Club
 * http://www.politico.com/magazine/story/2014/11/overtime-pay-obama-congress-112954.html
