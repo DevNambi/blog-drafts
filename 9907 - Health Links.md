@@ -123,6 +123,15 @@
 
 
 * http://www.scientificamerican.com/article/regular-walking-can-help-ease-depression/
+* http://www.nerdfitness.com/blog/2015/02/02/just-how-fast-can-i-get-the-body-i-want/
+* http://well.blogs.nytimes.com/2014/10/15/whats-your-fitness-age/
+* http://kaasplateau.com/stretches.pdf
+* http://www.nytimes.com/2014/10/22/opinion/only-two-rules-for-a-good-diet.html
+* http://www.nytimes.com/2014/10/26/opinion/sunday/the-problem-with-positive-thinking.html
+* http://well.blogs.nytimes.com/2014/12/17/how-exercise-changes-our-dna/?_r=0
+* http://alwaysascending.weebly.com/light---on-trending-to-your-right-weight.html
+* http://well.blogs.nytimes.com/2015/01/23/ask-well-the-best-time-of-day-to-exercise/
+* http://well.blogs.nytimes.com/2015/01/26/sweaty-answer-to-chronic-illness/
 
 
 <li><a href="http://www.nytimes.com/2013/11/03/sunday-review/womens-flexibility-is-a-liability-in-yoga.html?hp" time_added="1383445933" tags="domestic,health">http://www.nytimes.com/2013/11/03/sunday-review/womens-flexibility-is-a-lia</a></li>
@@ -148,17 +157,6 @@
 <li><a href="http://well.blogs.nytimes.com/2013/06/24/the-rise-of-the-minimalist-workout/?src=me&ref=general" time_added="1372254479" tags="health">The Rise of the Minimalist Workout</a></li>
 <li><a href="http://www.fitocracy.com/knowledge/the-myth-of-willpower-and-eat-less-move-more/" time_added="1374953885" tags="health">The Myth of Willpower and “Eat Less, Move More” | Fitocracy Knowledge Cente</a></li>
 <li><a href="http://well.blogs.nytimes.com/2013/07/31/how-exercise-changes-fat-and-muscle-cells/?src=me&ref=general" time_added="1375385540" tags="health">http://well.blogs.nytimes.com/2013/07/31/how-exercise-changes-fat-and-muscl</a></li>
-
-
-
-* http://well.blogs.nytimes.com/2014/10/15/whats-your-fitness-age/
-* http://kaasplateau.com/stretches.pdf
-* http://www.nytimes.com/2014/10/22/opinion/only-two-rules-for-a-good-diet.html
-* http://www.nytimes.com/2014/10/26/opinion/sunday/the-problem-with-positive-thinking.html
-* http://well.blogs.nytimes.com/2014/12/17/how-exercise-changes-our-dna/?_r=0
-* http://alwaysascending.weebly.com/light---on-trending-to-your-right-weight.html
-* http://well.blogs.nytimes.com/2015/01/23/ask-well-the-best-time-of-day-to-exercise/
-* http://well.blogs.nytimes.com/2015/01/26/sweaty-answer-to-chronic-illness/
 
 
 

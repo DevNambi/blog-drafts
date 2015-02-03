@@ -193,6 +193,7 @@
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
 * http://www.theroot.com/articles/news/2015/02/watch_n_y_cop_draw_guns_on_black_youths_to_halt_snowball_fight.html?wpisrc=topstories
+* http://www.mintpressnews.com/video-shows-dc-man-jailed-2-bus-ticket-severely-beaten-guards/201755/
 * The police are weapons. Weapons wielded by...what?
 * http://www.theguardian.com/us-news/2015/jan/31/detroit-aiyana-stanley-jones-police-officer-cleared
 * http://www.ajc.com/news/news/breaking-news/no-charges-for-officers-in-botched-drug-raid-that-/nhc2N/

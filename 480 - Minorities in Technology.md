@@ -12,6 +12,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 
 * http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/#the-list
 * https://medium.com/backchannel/techs-high-barrier-to-entry-for-the-underprivileged-da254356547d
+* http://www.psmag.com/health-and-behavior/women-arent-welcome-internet-72170
 * https://github.com/cinchrb/cinch/commit/496f026439ab6c421ac229a34246bf26f2b4daa6#commitcomment-9391776
 * Image comes from http://chainsawsuit.com/wp-content/uploads/2014/10/20141015-perfectcrime.png
 * http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/
