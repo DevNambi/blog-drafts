@@ -58,6 +58,7 @@
 * http://blog.sugarenia.com/archives/life/how-to-work-remotely-and-live-to-tell-the-tale
 * http://andyadams.org/you-can-charge-more/
 * http://ozar.me/2015/01/yes-actually-enjoyed-selling-consulting-services/
+* http://ozar.me/2015/02/questions-you-should-ask-before-you-take-a-consulting-job/
 
 
 

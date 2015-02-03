@@ -192,12 +192,15 @@
 
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
+* http://seattletimes.com/html/localnews/2025608202_busdriveraccountxml.html
+* http://blogs.seattletimes.com/today/2015/02/king-county-sheriffs-deputy-arrested-accused-of-domestic-violence/
 * http://www.theroot.com/articles/news/2015/02/watch_n_y_cop_draw_guns_on_black_youths_to_halt_snowball_fight.html?wpisrc=topstories
 * http://www.mintpressnews.com/video-shows-dc-man-jailed-2-bus-ticket-severely-beaten-guards/201755/
 * The police are weapons. Weapons wielded by...what?
 * http://www.theguardian.com/us-news/2015/jan/31/detroit-aiyana-stanley-jones-police-officer-cleared
 * http://www.ajc.com/news/news/breaking-news/no-charges-for-officers-in-botched-drug-raid-that-/nhc2N/
 * http://nypost.com/2015/01/30/nypd-to-launch-a-beefed-up-counterterrorism-squad/ <- means that terrorists and protesters are considered similar!
+* http://arstechnica.com/tech-policy/2015/02/court-tosses-warrant-where-fbi-cut-internet-posed-as-hotel-repairmen/
 * http://countercurrentnews.com/2015/01/native-american-woman-handcuffed-in-police-cruiser/
 * http://slog.thestranger.com/slog/archives/2015/01/28/watch-seattle-police-pepper-spray-teacher-jesse-hagopian-on-mlk-day
 * http://sfist.com/2015/01/28/sf_public_defender_detained_by_poli.php

@@ -147,3 +147,4 @@
 * http://www.foreignaffairs.com/articles/142497/james-bessen/the-anti-innovators
 * http://mashable.com/2014/12/03/history-of-reddit/
 * http://www.bbc.com/news/business-30532463
+* http://www.aftenposten.no/webtv/serier-og-programmer/sweatshopenglish/TRAILER-SWEATSHOP---I-cant-take-any-more-7800835.html
