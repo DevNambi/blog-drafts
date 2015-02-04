@@ -104,6 +104,7 @@
 * http://www.theverge.com/2014/11/4/7150225/uber-is-recruiting-50000-veterans
 * http://www.modernluxury.com/san-francisco/story/the-smartest-bro-the-room
 * http://www.geekwire.com/2014/uber-exec-wanted-dig-dirt-expose-journalist-critical-column/
+* http://www.slate.com/blogs/moneybox/2015/02/02/uber_self_driving_cars_autonomous_taxis_aren_t_so_good_for_contractors_in.html <- so much the 'new economy' to empower people
 * https://www.jacobinmag.com/2014/09/against-sharing/
 * http://radar.oreilly.com/2014/11/uber-is-breaking-bad.html
 * http://www.salon.com/2014/11/30/i_quit_miseries_of_an_uber_driver/
