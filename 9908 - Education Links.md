@@ -377,6 +377,7 @@
 * http://www.nytimes.com/2015/01/18/nyregion/cuomo-to-offer-plan-to-cut-college-graduates-debt.html
 * http://kristiculpepper.tumblr.com/post/108127738567/student-loan-myths-and-implications-for-taxpayers
 * http://www.nakedcapitalism.com/2015/01/department-of-education-sides-against-students-to-feather-its-own-bed-in-for-profit-corinthian-colleges-debacle.html
+* https://www.insidehighered.com/news/2015/02/04/guaranty-agency-buys-half-corinthian-colleges-and-forgives-480-million-student-debt
 
 
 

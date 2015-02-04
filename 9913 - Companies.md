@@ -94,6 +94,7 @@
 * http://stratechery.com/2015/niches-problem-subscription-services/
 * https://www.futureofmusic.org/blog/2015/01/29/zo%C3%AB-keatings-youtube-dilemma-what-you-need-know
 * https://medium.com/message/never-trust-a-corporation-to-do-a-librarys-job-f58db4673351?repost=HN2
+* http://www.eastbayexpress.com/oakland/zoandeuml-keating-fights-youtube-to-control-her-music-and-reputation/Content?oid=4185350
 
 
 ## Uber
