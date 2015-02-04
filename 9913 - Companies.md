@@ -60,6 +60,12 @@
 * http://time.com/3647800/facebook-apologizes-year-review-post-pain/
 
 
+## IBM and other large IT companies
+
+* http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/massive-worldwide-layoff-underway-at-ibm
+* http://www.endicottalliance.org/jobcutsreports.php
+
+
 ## ISPs
 
 <li><a href="http://arstechnica.com/business/2012/12/report-data-caps-just-a-cash-cow-for-internet-providers/" time_added="1356114739" tags="">Report: data caps just a “cash cow” for Internet providers | Ars Technica</a></li>
@@ -95,6 +101,7 @@
 * https://www.futureofmusic.org/blog/2015/01/29/zo%C3%AB-keatings-youtube-dilemma-what-you-need-know
 * https://medium.com/message/never-trust-a-corporation-to-do-a-librarys-job-f58db4673351?repost=HN2
 * http://www.eastbayexpress.com/oakland/zoandeuml-keating-fights-youtube-to-control-her-music-and-reputation/Content?oid=4185350
+* http://techcrunch.com/2015/02/03/alan-eustace-google/
 
 
 ## Uber

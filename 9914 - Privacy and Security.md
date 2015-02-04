@@ -38,6 +38,7 @@
 * http://www.sciencemag.org/content/347/6221.toc
 * http://bits.blogs.nytimes.com/2015/01/29/with-a-few-bits-of-data-researchers-identify-anonymous-people/?_r=1
 * http://saintsal.com/facebook/
+* http://arstechnica.com/business/2015/02/over-300-businesses-now-whitelisted-on-adblock-plus-10-pay-to-play/
 * http://www.philly.com/philly/business/20150122_Jeff_Gelles__Data-privacy_advocates_welcome_Obama_s_support__with_caveats.html
 * http://arstechnica.com/security/2014/10/whisper-cto-says-tracking-anonymous-users-not-a-big-deal-really/
 * http://www.nytimes.com/2014/10/17/opinion/the-dark-market-for-personal-data.html
@@ -54,6 +55,7 @@
 * http://arstechnica.com/tech-policy/2015/01/going-postal-reporter-sues-government-for-spying-from-usps-network/
 * http://arstechnica.com/security/2015/01/browsing-in-privacy-mode-super-cookies-can-track-you-anyway/
 * http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html
+* http://mslods.com/2015/02/04/data-retention-whats-at-stake/
 * http://www.weforum.org/sessions/summary/brave-new-world <- bad incentives?
 * http://arstechnica.com/information-technology/2015/01/under-the-hood-of-i2p-the-tor-alternative-that-reloaded-silk-road/
 * http://www.theverge.com/2014/12/28/7458159/encryption-standards-the-nsa-cant-crack-pgp-tor-otr-snowden

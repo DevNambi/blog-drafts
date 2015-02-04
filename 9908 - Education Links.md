@@ -336,6 +336,7 @@
 * http://andrewgelman.com/2015/01/04/relaxed-plagiarism-standards-way-keep-tuition-dollars-flowing-foreign-students/
 * https://www.insidehighered.com/news/2015/01/16/law-schools-compete-students-many-may-not-have-admitted-past
 * https://www.insidehighered.com/news/2015/01/28/study-finds-link-between-cuts-state-budgets-and-out-state-enrollment
+* https://www.insidehighered.com/news/2015/02/04/law-school-transfer-market-heats-getting-some-deans-hot-under-collar
 
 
 ### Student Culture, Sexual Assault, Assault
@@ -421,6 +422,7 @@
 * http://seattletimes.com/html/education/2025132186_edlabacademicredshirtxml.html
 * http://blogs.seattletimes.com/educationlab/2015/01/05/report-uw-accounting-is-confusing-lacks-consistency/ <- OPB is hosed
 * https://news.cs.washington.edu/2015/01/06/uw-cse-introductory-course-enrollment-continues-to-explode/
+* http://m.kuow.org/post/uw-president-michael-young-likely-leaving-texas-am
 * http://seattletimes.com/html/localnews/2025495337_wsubellevuexml.html
 
 
