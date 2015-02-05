@@ -64,6 +64,7 @@
 
 * http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/massive-worldwide-layoff-underway-at-ibm
 * http://www.endicottalliance.org/jobcutsreports.php
+* http://www.bloomberg.com/news/articles/2015-02-04/why-nadella-s-second-year-as-microsoft-ceo-will-be-a-lot-harder
 
 
 ## ISPs
@@ -87,10 +88,12 @@
 * http://arstechnica.com/business/2014/11/fcc-calls-atts-fiber-bluff-demands-detailed-construction-plans/
 * http://arstechnica.com/business/2015/01/fcc-chairman-mocks-industry-claims-that-customers-dont-need-faster-internet/
 * http://arstechnica.com/business/2014/12/att-wins-right-to-intervene-in-citys-fiber-broadband-plan/
+* http://www.wired.com/2015/02/fcc-chairman-wheeler-net-neutrality/
 * https://www.yahoo.com/tech/s/google-fiber-latest-fcc-filing-comcast-nightmare-come-161549827.html
 * http://arstechnica.com/business/2015/01/fcc-chair-broadband-must-be-25mbps-and-isps-are-failing-to-deliver/
 * http://arstechnica.com/business/2015/01/sprint-goes-off-script-says-title-ii-wont-hurt-wireless-investment/
 * http://www.theverge.com/2015/1/29/7932653/fcc-changed-definition-broadband-25mbps
+* http://arstechnica.com/business/2015/02/verizon-is-mad-that-its-huge-net-neutrality-gamble-backfired/
 
 
 ## Google

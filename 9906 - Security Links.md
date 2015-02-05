@@ -9,6 +9,7 @@
 * https://medium.com/@thedanigrant/need-a-last-minute-flight-45af88ec8df3
 * https://www.schneier.com/blog/archives/2015/01/the_security_of_10.html
 * https://firstlook.org/theintercept/2015/01/28/canada-cse-levitation-mass-surveillance/
+* http://arstechnica.com/security/2015/02/psa-your-crypto-apps-are-useless-unless-you-check-them-for-backdoors/
 * http://cwe.mitre.org/top25/
 * http://recode.net/2015/01/12/dont-ignore-the-simple-cyber-attacks-says-security-blogger-brian-krebs-qa/
 * https://medium.com/@SwiftOnSecurity/a-story-about-jessica-and-her-computer-e400fa9fd4e

@@ -244,6 +244,8 @@
 
 
 * http://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/
+* http://www.johndcook.com/blog/2015/02/04/miscellaneous-math-resources/
+* https://medium.com/@warrenhenning/a-software-engineers-adventures-in-learning-mathematics-62140c59e5c
 * http://sujitpal.blogspot.com/2014/05/ipython-notebooks-for-statlearning.html
 * http://svds.com/post/avoiding-common-mistake-time-series
 * http://www.simonsfoundation.org/quanta/20141015-at-the-far-ends-of-a-new-universal-law/
@@ -492,9 +494,12 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 
 
 * http://jeremykun.com/2014/10/05/on-the-computational-complexity-of-mapreduce/
+* http://prometheus.io/
 * http://tech.adroll.com/blog/data/2013/07/10/hll-minhash.html
 * https://gigaom.com/2015/01/21/netflix-is-open-sourcing-tools-for-analyzing-data-in-hadoop/
+* http://blog.confluent.io/2015/01/29/making-sense-of-stream-processing/
 * http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html
+* http://opensourceconnections.com/blog/2015/02/04/its-log-its-log-its-big-its-hyper-its-good/
 * http://ben.kirw.in/2014/11/28/kafka-patterns/
 * http://www.slideshare.net/deanwampler/spark-the-next-top-compute-model-39976454
 * http://databricks.com/blog/2015/01/07/ml-pipelines-a-new-high-level-api-for-mllib.html
@@ -565,6 +570,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://cliffmass.blogspot.com/2015/01/forecast-lessons-from-northeast.html <- how to communicate uncertainty
 * http://technocalifornia.blogspot.com/2014/12/ten-lessons-learned-from-building-real.html
 * http://www.frankmcsherry.org/graph/scalability/cost/2015/01/15/COST.html
+* http://iquantny.tumblr.com/post/109370229799/does-gentrification-cause-a-reduction-in
 * http://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/
 * http://arxiv.org/pdf/1210.0530v3.pdf <- Best Practices for Scientific Computing #priceless
 * http://www.slideshare.net/xamat/10-lessons-learned-from-building-machine-learning-systems

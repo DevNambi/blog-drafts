@@ -7,6 +7,7 @@
 
 
 * http://www.dailydot.com/politics/jeremy-hammond-terrorist-watchlist-fbi/
+* http://wabe.org/post/how-fema-uses-waffle-house-measure-disasters
 * http://mobile.nytimes.com/2014/10/12/business/no-smoke-no-mirrors-the-dutch-pension-plan.html
 * http://www.nybooks.com/articles/archives/2015/feb/19/james-risen-reporter-resists-his-government/
 * http://boingboing.net/2015/01/22/barrettbrown.html
@@ -69,6 +70,7 @@
 
 * http://www.theverge.com/2015/1/21/7861645/finfisher-spyware-let-bahrain-government-hack-political-activist
 * http://www.mirror.co.uk/news/uk-news/westminster-child-abuse-scandal-kgb-5080120
+* http://seattletimes.com/html/nationworld/2025614214_saudiqaidaxml.html
 
 
 
@@ -192,6 +194,7 @@
 
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
+* http://arstechnica.com/tech-policy/2015/02/video-recorded-arrest-gets-nypd-cop-indicted-on-assault-charges/
 * http://fusion.net/story/41931/inside-the-prison-systems-illicit-digital-world/
 * http://www.newyorker.com/magazine/2015/02/02/son-deceased
 * http://seattletimes.com/html/localnews/2025608202_busdriveraccountxml.html

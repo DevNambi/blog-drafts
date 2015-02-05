@@ -87,6 +87,8 @@
 
 
 * https://education.github.com/pack
+* http://zedshaw.com/archive/programmers-need-to-learn-statistics-or-i-will-kill-them-all/
+* http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
 * http://www.karllhughes.com/2014/dev-bootcamp-program/
 * http://antirez.com/news/82
 * https://medium.com/the-truant-haruspex/end-user-computing-5367171478b7
@@ -175,6 +177,7 @@
 * http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/
 * http://jacquesmattheij.com/saving-a-project-and-a-company
 * http://www.methodsandtools.com/archive/archive.php?id=66
+* http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
 
 
 
