@@ -88,7 +88,9 @@
 ## Higher Education
 
 * http://equitablegrowth.org/research/achievement-gap/ <- why I do what I do
+* http://www.wsj.com/articles/big-gap-in-college-graduation-rates-for-rich-and-poor-study-finds-1422997677
 * http://coryliu.com/post/109988042607/a-dirty-secret-most-people-probably-shouldnt-go
+* http://www.nytimes.com/2015/02/05/us/more-college-freshmen-report-having-felt-depressed.html
 * http://www.salon.com/2014/10/18/give_student_loans_the_finger_a_new_solution_to_a_massive_generational_outrage/
 * http://www.vice.com/read/i-ghostwrote-hundreds-of-chinese-students-ivy-league-admissions-essays-897
 * http://www.newsweek.com/american-horror-ivy-league-edition-263448

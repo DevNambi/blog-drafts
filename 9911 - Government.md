@@ -9,6 +9,7 @@
 * http://www.dailydot.com/politics/jeremy-hammond-terrorist-watchlist-fbi/
 * http://wabe.org/post/how-fema-uses-waffle-house-measure-disasters
 * http://mobile.nytimes.com/2014/10/12/business/no-smoke-no-mirrors-the-dutch-pension-plan.html
+* http://www.nytimes.com/2015/02/08/magazine/the-shame-of-americas-family-detention-camps.html?_r=0
 * http://www.nybooks.com/articles/archives/2015/feb/19/james-risen-reporter-resists-his-government/
 * http://boingboing.net/2015/01/22/barrettbrown.html
 * http://www.nytimes.com/2014/10/14/us/for-supreme-court-first-amendment-sometimes-has-a-limit-its-doorstep.html
@@ -141,6 +142,8 @@
 ## State
 
 * http://www.sfgate.com/business/article/State-let-oil-companies-taint-drinkable-water-in-6054242.php
+* http://chronicle.com/blogs/ticker/gov-walker-blames-confusion-for-changes-to-wisconsin-mission-a-tumblr-parody-arises/93545
+* http://otherscottwalkeredits.tumblr.com/
 * http://yro.slashdot.org/story/12/10/28/0531250/cash-strapped-states-burdened-by-expensive-data-security-breaches
 * http://www.theverge.com/2014/10/20/7014705/coding-error-911-fcc-washington
 * http://dealbook.nytimes.com/2014/10/21/states-ease-laws-that-protected-poor-borrowers/?_php=true&_type=blogs&_r=0

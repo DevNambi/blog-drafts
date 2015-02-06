@@ -20,6 +20,7 @@
 * https://www.airpair.com/python/posts/top-mistakes-python-big-data-analytics
 * http://streamhacker.com/2011/10/31/fuzzy-string-matching-python/
 * http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/
+* http://radimrehurek.com/data_science_python/
 * https://github.com/ipython-books/cookbook-code/blob/master/toc.md <- amazingly useful
 * http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/
 * http://fastml.com/how-to-run-external-programs-from-python-and-capture-their-output/
@@ -494,6 +495,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 
 
 * http://jeremykun.com/2014/10/05/on-the-computational-complexity-of-mapreduce/
+* http://blog.acolyer.org/2015/02/05/impala-a-modern-open-source-sql-engine-for-hadoop/
 * http://prometheus.io/
 * http://tech.adroll.com/blog/data/2013/07/10/hll-minhash.html
 * https://gigaom.com/2015/01/21/netflix-is-open-sourcing-tools-for-analyzing-data-in-hadoop/
