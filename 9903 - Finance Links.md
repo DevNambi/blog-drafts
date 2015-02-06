@@ -19,7 +19,10 @@
 <li><a href="http://www.nytimes.com/2013/03/18/business/global/facing-bailout-tax-cypriots-rush-to-get-their-money-out-of-banks.html?hp&pagewanted=all&_r=0" time_added="1363565145" tags="finance,important">Cypriot Bailout Sends Shivers Throughout the Euro Zone - NYTimes.com</a></li>
 
 * http://www.nytimes.com/2014/10/17/world/europe/bloc-in-europe-starts-to-balk-over-austerity-.html
+* http://www.nakedcapitalism.com/2015/02/ecb-greece-drop-dead.html <- good god
 * http://www.nakedcapitalism.com/2015/02/greek-finance-minister-varoufakis-retreats-on-debt-writedowns-public-spending-promises.html
+* http://www.nakedcapitalism.com/2015/02/john-helmer-the-political-motivation-of-chancellor-merkels-embrace-of-yulia-tymoshenko-and-war.html
+* http://www.nakedcapitalism.com/2015/02/greece-still-defiant-ecb-mugging.html
 * http://www.nakedcapitalism.com/2015/02/the-ecb-ready-to-put-a-choke-chain-on-syriza.html
 * http://www.nytimes.com/2015/01/08/business/international/europe-economy-deflation.html
 * http://www.nakedcapitalism.com/2014/10/revolt-starting-in-uk-over-private-equity-fee-secrecy.html
@@ -119,6 +122,7 @@
 * http://seattletimes.com/html/localnews/2024625051_carpaymentsxml.html
 * http://mobile.nytimes.com/2015/01/26/business/economy/middle-class-shrinks-further-as-more-fall-out-instead-of-climbing-up.html
 * http://www.theguardian.com/business/2014/oct/14/richest-1percent-half-global-wealth-credit-suisse-report
+* http://www.nakedcapitalism.com/2015/02/thomas-piketty-larry-summers-dont-tell-income-inequality.html
 * http://www.nytimes.com/2014/10/15/upshot/when-the-guy-making-your-sandwich-has-a-noncompete-clause.html?_r=0&abt=0002&abg=1
 * http://www.pewtrusts.org/~/media/Assets/2014/10/Payday-Lending-Report/Fraud_and_Abuse_Online_Harmful_Practices_in_Internet_Payday_Lending.pdf
 * http://www.gatesnotes.com/Books/Why-Inequality-Matters-Capital-in-21st-Century-Review?new#

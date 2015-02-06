@@ -223,6 +223,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="https://modelviewculture.com/pieces/manufacturing-the-talent-shortage">Manufacturing the Talent Shortage</a></li>
 <li><a href="http://www.computerworld.com/article/2852250/silicon-valleys-h-1b-immigration-position-has-some-holes.html">Silicon Valley's H-1B immigration position has some holes</a></li>
 <li><a href="http://cs.stanford.edu/people/eroberts/cs201/projects/the-programmer-shortage/">The Programmer Shortage - a comprehensive overview</a></li>
+<li><a href="http://www.nakedcapitalism.com/2015/02/wolf-richter-search-cheap-labor-tech-behind-h1-b-visa-scenes.html">Wolf Richter: In Search of Cheap Labor in Tech – Behind the H1-B Visa Scenes</a></li>
 </ul>
 
 
