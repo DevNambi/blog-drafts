@@ -79,6 +79,7 @@
 * http://www.washingtonpost.com/world/national-security/google-says-it-fought-gag-orders-in-wikileaks-investigation/2015/01/28/e62bfd04-a5c9-11e4-a06b-9df2002b86a0_story.html
 * http://www.newscientist.com/article/dn26801-mass-surveillance-not-effective-for-finding-terrorists.html
 * http://www.spiegel.de/international/world/regin-malware-unmasked-as-nsa-tool-after-spiegel-publishes-source-code-a-1015255.html
+* http://www.nationaljournal.com/tech/edward-snowden-is-more-admired-than-president-obama-in-germany-and-russia-20150205
 
 <li><a href="http://rt.com/usa/news/surveillance-spying-e-mail-citizens-178/" time_added="1354678483" tags="hn,important,personal tech">'Everyone in US under virtual surveillance' - NSA whistleblower — RT</a></li>
 
