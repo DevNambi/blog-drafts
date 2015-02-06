@@ -155,6 +155,7 @@ Interviews are one of the best times to find out about a company's culture, work
 
 
 <ul>
+<li><a href="http://www.payscale.com/career-news/2015/02/looking-for-a-higher-starting-salary-don't-fall-for-these-employer-tricks">Looking for a Higher Starting Salary? Don't Fall For These Employer Tricks</a></li>
 <li><a href="http://www.articulateventures.com/thoughts-on-being-an-employer/salary-negotatiations-whats-possible-when-there-is-no-more-mone/" time_added="1362675485" tags="brand">Salary Negotiations: Whats possible when there is no more money?</a></li>
 <li><a href="http://news.ycombinator.com/item?id=5105882" time_added="1360803131" tags="brand,hiring/firing">Why don't employees negotiate work week hours as often as salary? |</a></li>
 <li><a href="http://blogs.hbr.org/2014/04/6-tips-for-reluctant-negotiators/" time_added="1398797885" tags="">6 Tips for Reluctant Negotiators - Whitney Johnson</a></li>
