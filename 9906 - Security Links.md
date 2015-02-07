@@ -3,6 +3,7 @@
 
 * http://www.bloomberg.com/news/2014-10-02/jpmorgan-says-data-breach-affected-76-million-households.html
 * http://arstechnica.com/security/2015/01/wireless-device-in-two-million-cars-wide-open-to-hacking/
+* http://www.richmond.com/business/ap/article_82e0ea54-5092-5368-8d76-cfcf654ae2c3.html
 * http://arstechnica.com/security/2015/02/why-even-strong-crypto-wouldnt-protect-ssns-exposed-in-anthem-breach/
 * https://www.codeandsec.com/Supreme-Leaders-Not-That-Supreme-Malwares
 * https://www.owasp.org/index.php/Authentication_Cheat_Sheet

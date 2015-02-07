@@ -91,6 +91,7 @@
 * http://dealbook.nytimes.com/2015/01/26/investment-riches-built-on-auto-loans-to-poor/
 * http://www.nakedcapitalism.com/2015/01/new-york-times-dealbook-throw-source-bus-tpg-suit-ex-employeeex-white-house-staffer.html <- more media corruption, really
 * http://www.ericgarland.co/2015/02/03/end-guitar-center/
+* http://www.seriouseats.com/2015/02/what-happens-when-a-restaurant-dies.html
 
 
 

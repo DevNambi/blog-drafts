@@ -49,6 +49,7 @@
 
 * http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html
 * http://truestories.gawker.com/all-the-children-are-ours-essays-from-school-teachers-1679254821/1679318066/+maxread
+* http://www.nytimes.com/2015/02/06/education/fewer-top-graduates-want-to-join-teach-for-america.html
 * http://blogs.seattletimes.com/educationlab/2014/12/31/guest-new-math-textbooks-are-the-right-choice-for-seattle-schools/
 * http://seattletimes.com/html/education/2025176296_edlabkentdisciplinexml.html
 * http://www.washingtonpost.com/blogs/answer-sheet/wp/2013/05/15/what-if-finlands-great-teachers-taught-in-u-s-schools-not-what-you-think/
@@ -89,6 +90,7 @@
 
 * http://equitablegrowth.org/research/achievement-gap/ <- why I do what I do
 * http://www.wsj.com/articles/big-gap-in-college-graduation-rates-for-rich-and-poor-study-finds-1422997677
+* http://www.nytimes.com/2015/02/07/upshot/is-the-professor-bossy-or-brilliant-much-depends-on-gender.html?_r=0&abt=0002&abg=1
 * http://coryliu.com/post/109988042607/a-dirty-secret-most-people-probably-shouldnt-go
 * http://www.nytimes.com/2015/02/05/us/more-college-freshmen-report-having-felt-depressed.html
 * http://www.salon.com/2014/10/18/give_student_loans_the_finger_a_new_solution_to_a_massive_generational_outrage/
