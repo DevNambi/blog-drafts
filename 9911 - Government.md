@@ -202,6 +202,7 @@
 * http://wkbn.com/2015/02/05/niles-cop-disciplined-after-questionable-traffic-stop/
 * http://www.whas11.com/story/news/crime/2015/02/04/good-samaritan-tackles-off-duty-lmpd-officer-during-alleged-beating/22857419/
 * http://arstechnica.com/tech-policy/2015/02/video-recorded-arrest-gets-nypd-cop-indicted-on-assault-charges/
+* http://alternativemediasyndicate.com/2015/02/08/police-bombing-residential-neighborhood-that-they-dont-want-you-to-hear-about-this-black-history-month/
 * http://fusion.net/story/41931/inside-the-prison-systems-illicit-digital-world/
 * http://www.newyorker.com/magazine/2015/02/02/son-deceased
 * http://seattletimes.com/html/localnews/2025608202_busdriveraccountxml.html

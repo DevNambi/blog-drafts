@@ -110,12 +110,15 @@
 * http://www.nakedcapitalism.com/2014/10/invitation-homes-tenant-abuse-shows-incompetence-well-malfeasance.html
 * http://mobile.nytimes.com/2014/11/16/business/borrowers-beware-the-robosigners-arent-finished-yet.html
 * https://www.youtube.com/watch?v=y-1Gh4ewklY&feature=youtu.be
+* http://america.aljazeera.com/watch/shows/america-tonight/articles/2015/2/6/florida-condo-law.html
 
 
 
 ## Poverty, Class Warfare, 'American Dream'
 
 * http://www.gallup.com/opinion/chairman/181469/big-lie-unemployment.aspx
+* http://www.washingtonpost.com/blogs/wonkblog/wp/2015/01/14/this-powerful-reddit-thread-reveals-how-the-poor-get-by-in-america/
+* http://www.reddit.com/r/AskReddit/comments/2sbi17/what_do_insanely_poor_people_buy_that_ordinary/
 * http://opinionator.blogs.nytimes.com/2013/11/02/poverty-in-america-is-mainstream/
 * http://en.wikipedia.org/wiki/South_Fork_Fishing_and_Hunting_Club
 * http://www.politico.com/magazine/story/2014/11/overtime-pay-obama-congress-112954.html
