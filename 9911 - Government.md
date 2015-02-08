@@ -204,6 +204,7 @@
 * http://arstechnica.com/tech-policy/2015/02/video-recorded-arrest-gets-nypd-cop-indicted-on-assault-charges/
 * http://alternativemediasyndicate.com/2015/02/08/police-bombing-residential-neighborhood-that-they-dont-want-you-to-hear-about-this-black-history-month/
 * http://fusion.net/story/41931/inside-the-prison-systems-illicit-digital-world/
+* http://thefreethoughtproject.com/austin-police-put-hood-womans-head-restrained-her-choked-draw-blood-lawsuit-alleges/
 * http://www.newyorker.com/magazine/2015/02/02/son-deceased
 * http://seattletimes.com/html/localnews/2025608202_busdriveraccountxml.html
 * http://blogs.seattletimes.com/today/2015/02/king-county-sheriffs-deputy-arrested-accused-of-domestic-violence/
