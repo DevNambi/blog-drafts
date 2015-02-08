@@ -9,6 +9,7 @@
 * http://7goldfish.com/Little%20know%20ways%20to%20think%20about%20dicipline
 * http://www.npr.org/blogs/health/2015/01/05/371894919/what-heroin-addiction-tells-us-about-changing-bad-habits
 * http://parenting.blogs.nytimes.com/2014/10/16/want-to-ace-that-test-get-the-right-kind-of-sleep/
+* http://www.brainpickings.org/2014/01/22/brian-eno-visual-music-oblique-strategies/
 * http://time.com/3554741/bad-habits-mental-health/
 * http://blogs.hbr.org/2012/09/to-succeed-forget-self-esteem/
 * http://www.hanselman.com/blog/ImAPhonyAreYou.aspx

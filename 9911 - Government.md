@@ -144,6 +144,8 @@
 ## State
 
 * http://www.sfgate.com/business/article/State-let-oil-companies-taint-drinkable-water-in-6054242.php
+* http://seattletimes.com/html/localnews/2025649226_prostitutionforfeituresxml.html
+* http://www.adn.com/article/20150207/alaska-government-spent-nearly-28-million-database-project-it-was-scrapped
 * http://chronicle.com/blogs/ticker/gov-walker-blames-confusion-for-changes-to-wisconsin-mission-a-tumblr-parody-arises/93545
 * http://otherscottwalkeredits.tumblr.com/
 * http://yro.slashdot.org/story/12/10/28/0531250/cash-strapped-states-burdened-by-expensive-data-security-breaches
@@ -199,6 +201,7 @@
 
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
+* http://www.netflix.com/WiMovie/70298455?trkid=13752289
 * http://wkbn.com/2015/02/05/niles-cop-disciplined-after-questionable-traffic-stop/
 * http://www.whas11.com/story/news/crime/2015/02/04/good-samaritan-tackles-off-duty-lmpd-officer-during-alleged-beating/22857419/
 * http://arstechnica.com/tech-policy/2015/02/video-recorded-arrest-gets-nypd-cop-indicted-on-assault-charges/
