@@ -38,6 +38,7 @@ I'll add one more truth, a psychological one:
 
 **A car doesn't have to be an expression of your personality**. It can be just a box with an engine that gets you from one place to another.
 
+http://tradeinqualityindex.com <- HOLY CRAP, THIS IS AMAZING
 
 
 ## Safe and Unsafe Cars

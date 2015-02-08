@@ -73,6 +73,7 @@
 * http://www.mirror.co.uk/news/uk-news/westminster-child-abuse-scandal-kgb-5080120
 * http://seattletimes.com/html/nationworld/2025614214_saudiqaidaxml.html
 * http://www.theguardian.com/world/2015/feb/03/petition-putin-free-russian-svetlana-davydova-treason
+* http://news.yahoo.com/ukraine-leader-shows-off-captured-russian-military-ids-160048355.html
 
 
 
@@ -198,6 +199,8 @@
 
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
+* http://wkbn.com/2015/02/05/niles-cop-disciplined-after-questionable-traffic-stop/
+* http://www.whas11.com/story/news/crime/2015/02/04/good-samaritan-tackles-off-duty-lmpd-officer-during-alleged-beating/22857419/
 * http://arstechnica.com/tech-policy/2015/02/video-recorded-arrest-gets-nypd-cop-indicted-on-assault-charges/
 * http://fusion.net/story/41931/inside-the-prison-systems-illicit-digital-world/
 * http://www.newyorker.com/magazine/2015/02/02/son-deceased
@@ -217,6 +220,7 @@
 * http://www.wired.com/2015/01/implicit-bias-police-racism-science/
 * http://www.slate.com/articles/news_and_politics/jurisprudence/2013/06/salinas_v_texas_right_to_remain_silent_supreme_court_right_to_remain_silent.html
 * http://vizual-statistix.tumblr.com/post/105282552911/the-recent-series-of-high-profile-killings-of
+* http://www.bostonnewstime.com/national/92304-mass-breakout-from-brazilian-jail-after-female-inmates-in-fantasy-police-costumes-seduce-prison-wardens.html
 * http://arstechnica.com/tech-policy/2015/01/cop-who-stole-nude-pics-off-arrested-womens-phones-gets-no-jail-time/
 * http://www.propublica.org/article/judge-orders-nypd-to-release-records-on-x-ray-vans
 * http://slog.thestranger.com/slog/archives/2015/01/28/seattle-police-jailed-elderly-man-for-walking-in-seattle-while-black
