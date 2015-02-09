@@ -165,6 +165,7 @@
 
 
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
+* http://www.impactjournals.com/oncotarget/index.php?journal=oncotarget&page=article&op=view&path%5B%5D=3174
 * http://www.huffingtonpost.com/johann-hari/the-real-cause-of-addicti_b_6506936.html
 * http://nautil.us/issue/21/information/your-dna-is-nothing-special
 * http://www.nytimes.com/2015/02/03/upshot/how-to-measure-a-medical-treatments-potential-for-harm.html?_r=0&abt=0002&abg=1 <- super important
@@ -375,6 +376,7 @@
 
 
 * http://fivethirtyeight.com/datalab/what-canceling-an-insurance-program-meant-for-arizonas-kids/
+* http://www.nytimes.com/2013/10/13/us/the-soaring-cost-of-a-simple-breath.html
 * http://mobile.nytimes.com/2015/02/08/sunday-review/insured-but-not-covered.html
 * http://www.theatlantic.com/health/archive/2015/02/The-Lottery-of-Healthcare-Prices/385092/
 * http://www.nytimes.com/2015/02/01/us/medical-costs-rise-as-retirees-winter-in-south.html
