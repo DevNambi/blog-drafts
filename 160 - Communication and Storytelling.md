@@ -30,6 +30,7 @@ Only use active verbs.
 
 * http://seriouspony.com/blog/2013/10/4/presentation-skills-considered-harmful
 * http://www.bakadesuyo.com/2014/12/how-to-read-people/
+* http://ozar.me/2015/02/best-presentations-based-pain/
 
 
 <li><a href="http://www.hilarymason.com/speaking/speaking-entertain-dont-teach/" time_added="1363582890" tags="brand">» Speaking: Entertain, Don’t Teach hilarymason.com</a></li>

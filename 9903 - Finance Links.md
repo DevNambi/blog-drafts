@@ -118,6 +118,7 @@
 ## Poverty, Class Warfare, 'American Dream'
 
 * http://www.gallup.com/opinion/chairman/181469/big-lie-unemployment.aspx
+* http://www.salon.com/2015/02/10/5_facts_that_show_half_of_america_is_seriously_struggling_partner/
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2015/01/14/this-powerful-reddit-thread-reveals-how-the-poor-get-by-in-america/
 * http://www.reddit.com/r/AskReddit/comments/2sbi17/what_do_insanely_poor_people_buy_that_ordinary/
 * http://opinionator.blogs.nytimes.com/2013/11/02/poverty-in-america-is-mainstream/
