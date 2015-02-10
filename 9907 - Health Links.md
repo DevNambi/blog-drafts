@@ -313,6 +313,31 @@
 **Medical Corruption**
 
 
+* http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://dadaviz.com/i/3194
+* http://hcrenewal.blogspot.com/2014/12/ehrs-and-ebola-in-texas-health.html
+* http://hcrenewal.blogspot.com/2015/01/time-to-look-for-union-label-first-us.html
+* http://hcrenewal.blogspot.com/2015/01/none-dare-call-it-health-care-corruption.html
+* http://mobile.nytimes.com/2015/01/26/nyregion/to-collect-debts-nursing-home-seizing-control-over-patients.html
+* http://seattletimes.com/html/nationworld/2024804039_apxmedwhoebolamistakes.html
+* http://arstechnica.com/science/2013/01/profits-over-your-dead-body/
+* http://seattletimes.com/html/localnews/2021065664_uwreactsxml.html
+* http://www.nytimes.com/2013/07/05/opinion/diagnosis-insufficient-outrage.html?hp&_r=0
+* http://www.cancerletter.com/articles/20150109_1
+* http://blogs.scientificamerican.com/cross-check/2013/11/02/a-dig-through-old-files-reminds-me-why-im-so-critical-of-science/
+* http://www.scmp.com/news/china/article/1074327/harbin-doctors-killing-highlights-problem-hospitals
+* http://www.nytimes.com/2015/01/06/opinion/stop-subsidizing-big-pharma.html
+* http://www.reuters.com/article/2014/10/26/us-salesforce-com-health-exclusive-idUSKBN0IF0EA20141026
+* http://www.seattlepi.com/national/article/Study-Cosmetic-talc-products-carry-asbestos-peril-5861858.php
+* http://en.wikipedia.org/wiki/Contaminated_haemophilia_blood_products
+* http://mosaicscience.com/story/plutocratic-proposal
+* http://www.newsweek.com/2014/11/21/medical-science-has-data-problem-284066.html
+* http://www.theatlantic.com/health/archive/2014/11/forget-antibacterial-products/382832/
+* http://www.wired.com/2014/11/mental-health-apps/
+* http://www.wired.com/2014/10/egg-freezing-risks/
+* http://www.nytimes.com/2014/11/28/business/drug-maker-gave-large-payments-to-doctors-with-troubled-track-records.html
+* http://www.nytimes.com/2014/12/21/us/military-hospital-care-is-questioned-next-reprisals.html
+
 <li><a href="http://www.rand.org/pubs/research_briefs/RB9744.html" time_added="1395001792" tags="">Do Workplace Wellness Programs Save Employers Money? | RAND</a></li>
 <li><a href="http://www.nytimes.com/2013/09/03/opinion/how-a-cabal-keeps-generics-scarce.html?_r=0" time_added="1388678022" tags="">How a Cabal Keeps Generics Scarce - NYTimes.com</a></li>
 <li><a href="http://blogs.seattletimes.com/northwestvoices/2013/12/03/keep-political-corruption-and-bankruptcy-out-of-health-care/" time_added="1386091354" tags="corruption,finance,government,health">Keep political corruption and bankruptcy out of health care | Northwest Voi</a></li>
@@ -342,29 +367,7 @@
 
 
 
-* http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
-* http://hcrenewal.blogspot.com/2014/12/ehrs-and-ebola-in-texas-health.html
-* http://hcrenewal.blogspot.com/2015/01/time-to-look-for-union-label-first-us.html
-* http://hcrenewal.blogspot.com/2015/01/none-dare-call-it-health-care-corruption.html
-* http://mobile.nytimes.com/2015/01/26/nyregion/to-collect-debts-nursing-home-seizing-control-over-patients.html
-* http://seattletimes.com/html/nationworld/2024804039_apxmedwhoebolamistakes.html
-* http://arstechnica.com/science/2013/01/profits-over-your-dead-body/
-* http://seattletimes.com/html/localnews/2021065664_uwreactsxml.html
-* http://www.nytimes.com/2013/07/05/opinion/diagnosis-insufficient-outrage.html?hp&_r=0
-* http://www.cancerletter.com/articles/20150109_1
-* http://blogs.scientificamerican.com/cross-check/2013/11/02/a-dig-through-old-files-reminds-me-why-im-so-critical-of-science/
-* http://www.scmp.com/news/china/article/1074327/harbin-doctors-killing-highlights-problem-hospitals
-* http://www.nytimes.com/2015/01/06/opinion/stop-subsidizing-big-pharma.html
-* http://www.reuters.com/article/2014/10/26/us-salesforce-com-health-exclusive-idUSKBN0IF0EA20141026
-* http://www.seattlepi.com/national/article/Study-Cosmetic-talc-products-carry-asbestos-peril-5861858.php
-* http://en.wikipedia.org/wiki/Contaminated_haemophilia_blood_products
-* http://mosaicscience.com/story/plutocratic-proposal
-* http://www.newsweek.com/2014/11/21/medical-science-has-data-problem-284066.html
-* http://www.theatlantic.com/health/archive/2014/11/forget-antibacterial-products/382832/
-* http://www.wired.com/2014/11/mental-health-apps/
-* http://www.wired.com/2014/10/egg-freezing-risks/
-* http://www.nytimes.com/2014/11/28/business/drug-maker-gave-large-payments-to-doctors-with-troubled-track-records.html
-* http://www.nytimes.com/2014/12/21/us/military-hospital-care-is-questioned-next-reprisals.html
+
 
 
 **Learning from the Best**
