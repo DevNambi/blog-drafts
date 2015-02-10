@@ -13,6 +13,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/#the-list
 * https://medium.com/@jolenecreighton/heres-what-its-like-for-a-woman-to-send-a-job-rejection-to-a-man-17af3090c501
 * http://blog.ameliagreenhall.com/post/quiet-ladies.-wadhwa-is-speaking-now
+* http://www.theverge.com/2015/2/9/8004101/sexism-and-consequences-at-techcrunch-s-annual-award-show
 * https://medium.com/backchannel/techs-high-barrier-to-entry-for-the-underprivileged-da254356547d
 * http://www.psmag.com/health-and-behavior/women-arent-welcome-internet-72170
 * http://www.rawstory.com/rs/2015/02/supreme-court-lets-stand-ruling-that-firing-woman-for-breastfeeding-not-sexist-because-men-can-lactate/
