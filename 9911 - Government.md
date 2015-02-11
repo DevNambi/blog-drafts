@@ -105,6 +105,7 @@
 
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
 * http://www.nytimes.com/2015/01/29/world/us-suddenly-goes-quiet-on-effort-to-bolster-afghan-forces.html
+* http://projects.wsj.com/lobotomyfiles/
 * http://www.nytimes.com/2014/12/27/us/politics/after-scrutiny-cia-mandate-is-untouched-.html
 * https://firstlook.org/theintercept/2014/12/19/senior-cia-officer-center-torture-scandals-alfreda-bikowsky/
 * http://www.theatlantic.com/international/archive/2014/12/america-28-billion-failure-in-pakistan-peshawar-attack-school/383919/
@@ -202,6 +203,7 @@
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
 * http://www.usatoday.com/story/news/nation/2015/02/08/one-pill-10-years/23070929/
+* http://arstechnica.com/tech-policy/2015/02/fbi-really-doesnt-want-anyone-to-know-about-stingray-use-by-local-cops/
 * http://www.netflix.com/WiMovie/70298455?trkid=13752289
 * http://wkbn.com/2015/02/05/niles-cop-disciplined-after-questionable-traffic-stop/
 * http://www.whas11.com/story/news/crime/2015/02/04/good-samaritan-tackles-off-duty-lmpd-officer-during-alleged-beating/22857419/
