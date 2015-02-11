@@ -149,6 +149,7 @@
 * http://www.sfgate.com/business/article/State-let-oil-companies-taint-drinkable-water-in-6054242.php
 * http://seattletimes.com/html/localnews/2025649226_prostitutionforfeituresxml.html
 * http://www.adn.com/article/20150207/alaska-government-spent-nearly-28-million-database-project-it-was-scrapped
+* http://www.wvgazette.com/article/20150209/GZ01/150209182/1419
 * http://chronicle.com/blogs/ticker/gov-walker-blames-confusion-for-changes-to-wisconsin-mission-a-tumblr-parody-arises/93545
 * http://otherscottwalkeredits.tumblr.com/
 * http://yro.slashdot.org/story/12/10/28/0531250/cash-strapped-states-burdened-by-expensive-data-security-breaches
@@ -204,8 +205,11 @@
 
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
+* http://www.theguardian.com/commentisfree/2015/feb/05/prosecutors-immunity-unethical-unlawful-acts
+* http://www.komonews.com/news/local/Pasco-police-shoot-man-to-death-after-confrontation-291528481.html
 * http://www.usatoday.com/story/news/nation/2015/02/08/one-pill-10-years/23070929/
 * http://arstechnica.com/tech-policy/2015/02/fbi-really-doesnt-want-anyone-to-know-about-stingray-use-by-local-cops/
+* http://www.chron.com/houston/article/Occupy-Houston-assassination-plot-records-won-t-6071015.php
 * http://www.netflix.com/WiMovie/70298455?trkid=13752289
 * http://wkbn.com/2015/02/05/niles-cop-disciplined-after-questionable-traffic-stop/
 * http://www.whas11.com/story/news/crime/2015/02/04/good-samaritan-tackles-off-duty-lmpd-officer-during-alleged-beating/22857419/

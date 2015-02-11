@@ -117,7 +117,7 @@
 "Governments & corporations should not have a right to privacy, people should. So, essentially, the opposite of what we have now #futureshock"
 
 
-
+""Until Snowden, we thought government and corporations were on our side regarding digital rights." Not anymore. @OSFChris at #NetGain"
 
 
 

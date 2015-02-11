@@ -165,6 +165,7 @@
 
 
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
+* http://www.bmj.com/content/350/bmj.h384
 * http://www.nytimes.com/2015/02/11/nyregion/doulas-the-latest-wave-in-maternity-culture-are-organizing-for-more-recognition.html?_r=0
 * http://www.impactjournals.com/oncotarget/index.php?journal=oncotarget&page=article&op=view&path%5B%5D=3174
 * http://www.huffingtonpost.com/johann-hari/the-real-cause-of-addicti_b_6506936.html

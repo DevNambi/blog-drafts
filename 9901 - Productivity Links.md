@@ -151,6 +151,7 @@ Embrace awkwardness more
 * http://techreport.com/news/27697/latest-backblaze-reliability-data-shows-carnage-for-3tb-seagate-drives
 * https://www.backblaze.com/blog/best-hard-drive/
 * http://www.productchart.com/smartphones/
+* http://arstechnica.com/business/2015/02/starting-today-wireless-carriers-have-to-unlock-your-phone/
 
 
 

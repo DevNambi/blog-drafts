@@ -59,6 +59,7 @@
 <li><a href="http://mathbabe.org/2012/12/29/open-data-is-not-a-panacea/" time_added="1356836290" tags="data science,hn,important">Open data is not a panacea « mathbabe</a></li>
 
 * https://medium.com/@sahuguet/p-b-d-c-1218ee894400
+* http://www.clean-sheet.org/
 
 
 

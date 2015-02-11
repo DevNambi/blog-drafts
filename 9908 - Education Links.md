@@ -157,6 +157,7 @@
 * http://nautil.us/issue/12/feedback/colleges-want-students-with-character-but-cant-measure-it
 * http://www.nytimes.com/2014/04/27/sports/reporter-digging-into-scandal-hits-a-universitys-raw-nerve.html
 * http://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html
+* http://ccrc.tc.columbia.edu/publications/what-we-know-about-transfer.html
 * http://www.insidehighered.com/news/2013/11/06/researchers-cast-doubt-about-early-warning-systems-effect-retention
 * https://www.academia.edu/1123106/Predicting_Student_Exams_Scores_by_Analyzing_Social_Network_Data
 * https://www.edsurge.com/n/2014-04-19-student-data-moving-past-transparent-to-tangible

@@ -31,6 +31,7 @@
 * http://arstechnica.com/tech-policy/2014/11/novembers-stupid-patent-of-the-month-brought-to-you-by-penn-state/
 * https://www.techdirt.com/articles/20141212/12142629419/leaked-emails-reveal-mpaa-plans-to-pay-elected-officials-to-attack-google.shtml
 * https://www.gnu.org/philosophy/who-does-that-server-really-serve.html
+* http://arstechnica.com/tech-policy/2015/02/music-service-uses-copyright-extortion-tactics-on-youtube-suit-says/
 * http://www.wired.com/2015/02/new-high-tech-farm-equipment-nightmare-farmers/
 * http://blog.opendns.com/2014/12/30/sony-reveals-even-bigger-attack-internet-time-mpaa-behind/
 * http://timesofindia.indiatimes.com/tech/tech-news/Pastebin-Dailymotion-Github-blocked-after-DoT-order-Report/articleshow/45701713.cms
