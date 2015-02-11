@@ -7,6 +7,7 @@
 
 
 * http://www.dailydot.com/politics/jeremy-hammond-terrorist-watchlist-fbi/
+* http://www.cnbc.com/id/102409348
 * http://wabe.org/post/how-fema-uses-waffle-house-measure-disasters
 * http://mobile.nytimes.com/2014/10/12/business/no-smoke-no-mirrors-the-dutch-pension-plan.html
 * http://www.nytimes.com/2015/02/08/magazine/the-shame-of-americas-family-detention-camps.html?_r=0
@@ -117,6 +118,7 @@
 * http://panampost.com/sabrina-martin/2015/01/29/venezuelan-army-can-shoot-protesters-effective-immediately/
 * http://militaryprofessionalreadinglists.com/
 * http://20committee.com/2015/01/15/a-pentagon-insider-speaks-on-obamas-gwow/
+* http://www.amnesty.org/en/news/usa-guant-namo-911-military-hearing-halted-cia-black-site-claims-2015-02
 * http://www.computerworld.com/article/2834927/hackers-strike-defense-companies-through-real-time-ad-bidding.html
 * http://www.foreignpolicy.com/articles/2014/10/24/yoda_has_left_the_building_andrew_marshall_pentagon_futurist
 * http://www.washingtonpost.com/blogs/federal-eye/wp/2015/01/23/can-the-pentagon-downsize-its-headquarters-staff/

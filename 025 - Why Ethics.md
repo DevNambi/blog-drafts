@@ -58,6 +58,7 @@ The reason you should care about ethics is twofold:
 * http://www.ecouterre.com/reality-show-sends-fashion-bloggers-to-work-in-cambodian-sweatshop/
 * http://time.com/3694368/make-internet-better-place/
 * http://www.theguardian.com/commentisfree/oliver-burkeman-column/2015/feb/03/believing-that-life-is-fair-might-make-you-a-terrible-person?CMP=share_btn_fb
+* http://www.queerty.com/bayard-rustin-the-gay-dreamer-behind-dr-kings-i-have-a-dream-speech-20130828
 
 #### Is your job ethical? How do you know?
 
