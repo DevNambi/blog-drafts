@@ -67,6 +67,7 @@ Industries
 * http://digitheadslabnotebook.blogspot.com/2014/11/the-dream-recomb-conference-2014.html
 * https://medium.com/backchannel/the-man-who-made-the-uk-say-im-sorry-for-what-we-did-to-turing-8fc468dcea6b
 * https://www.eff.org/deeplinks/2015/02/eff-files-amicus-brief-case-seeks-hold-ibm-responsible-facilitating-apartheid
+* http://www.path.org/blog/2015/02/remembering-gaetano/
 
 ### Support real work, and disrupt everything else
 

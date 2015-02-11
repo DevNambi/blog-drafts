@@ -11,6 +11,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://nautil.us/issue/5/fame/fame-is-fortune-in-sino_science
 * http://qz.com/336504/a-massive-data-dive-proves-that-languages-and-genes-evolve-together/
 * https://medium.com/the-physics-arxiv-blog/the-paradoxes-that-threaten-to-tear-modern-cosmology-apart-d334a7fcfdb6
+* https://dartthrowingchimp.wordpress.com/2015/02/11/a-tale-of-normal-failure/
 
 
 <li><a href="http://www.infoworld.com/d/big-data/astronomers-crunch-big-data-map-the-galaxies-209573" time_added="1357233706" tags="big data,cloud,data science,ml">Astronomers crunch big data to map the galaxies | Big Data - InfoWorld</a></li>

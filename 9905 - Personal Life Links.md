@@ -225,7 +225,7 @@
 <li><a href="http://www.contourcrafting.org/" time_added="1390924963" tags="">Printing custom homes. The on-ramp to EXTREMELY inexpensive, high quality,</a></li>
 <li><a href="http://offbeathome.com/2014/01/homesteading-as-revolution" time_added="1391013129" tags="">Come the revolution: Homesteading as an act of radical resistance</a></li>
 
-
+* http://geekologie.com/2015/02/so-jealous-right-now-family-builds-treeh.php
 
 
 ## Seattle
