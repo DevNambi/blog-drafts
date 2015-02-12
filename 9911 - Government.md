@@ -206,6 +206,7 @@
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
 * http://www.theguardian.com/commentisfree/2015/feb/05/prosecutors-immunity-unethical-unlawful-acts
+* http://seattletimes.com/html/localnews/2025678977_pascoshootingxml.html
 * http://www.komonews.com/news/local/Pasco-police-shoot-man-to-death-after-confrontation-291528481.html
 * http://www.usatoday.com/story/news/nation/2015/02/08/one-pill-10-years/23070929/
 * http://arstechnica.com/tech-policy/2015/02/fbi-really-doesnt-want-anyone-to-know-about-stingray-use-by-local-cops/
