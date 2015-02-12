@@ -105,6 +105,7 @@
 * https://medium.com/message/never-trust-a-corporation-to-do-a-librarys-job-f58db4673351?repost=HN2
 * http://www.eastbayexpress.com/oakland/zoandeuml-keating-fights-youtube-to-control-her-music-and-reputation/Content?oid=4185350
 * http://techcrunch.com/2015/02/03/alan-eustace-google/
+* http://mobile.nytimes.com/2015/02/12/technology/personaltech/googles-time-at-the-top-may-be-nearing-its-end.html
 
 
 ## Uber

@@ -43,6 +43,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://www.brentozar.com/archive/2012/09/email-templates-for-recruiters-questions/">Email Templates for Recruiters and Questions</a></li>
 <li><a href="http://www.chrisbaglieri.com/blog/2015/1/1/my-resume-is-fiction"></a>My Resume Is Fiction</li>
 <li><a href="http://t.co/San3fw3cvt">Ex-Microsoft employees say company did not prepare them for startup life</a></li>
+<li><a href="https://medium.com/tech-london/how-i-hack-the-job-research-ecc87f8b9127">How to hack the job hunt</a></li>
 </ul>
 
 

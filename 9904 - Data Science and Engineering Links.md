@@ -248,6 +248,7 @@
 
 * http://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/
 * http://www.nicebread.de/what-does-a-bayes-factor-feel-like/#.VNecs0y6FAg.twitter
+* http://kadavy.net/blog/posts/aa-testing/
 * http://www.johndcook.com/blog/2015/02/04/miscellaneous-math-resources/
 * https://medium.com/@warrenhenning/a-software-engineers-adventures-in-learning-mathematics-62140c59e5c
 * http://sujitpal.blogspot.com/2014/05/ipython-notebooks-for-statlearning.html

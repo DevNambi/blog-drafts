@@ -115,6 +115,7 @@
 * http://america.aljazeera.com/watch/shows/america-tonight/articles/2015/2/6/florida-condo-law.html
 * http://www.geekwire.com/2015/hacking-housing-market-tech-teams-use-open-data-help-people-find-affordable-homes/
 * http://www.nakedcapitalism.com/2015/02/blackstoneevicts.html
+* http://mobile.nytimes.com/2015/02/13/upshot/how-mortgage-fraud-made-the-financial-crisis-worse.html
 
 
 

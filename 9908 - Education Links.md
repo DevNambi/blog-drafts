@@ -349,6 +349,7 @@
 <li><a href="http://www.theatlantic.com/health/archive/2014/04/the-dark-history-of-ei-the-latest-rape-email-frat/361056/" time_added="1398381909" tags="">The Dark History of EI, the Latest Frat Accused of Rapey Emails - Olga Khaz</a></li>
 * http://www.nytimes.com/2014/11/02/education/edlife/greek-letters-at-a-price.html
 * http://www.nytimes.com/2014/10/28/us/rare-survey-examines-sex-assault-at-mit-.html
+* http://mobile.nytimes.com/2015/02/15/magazine/the-stanford-undergraduate-and-the-mentor.html
 * http://mobile.nytimes.com/2014/11/16/opinion/sunday/mishandling-rape.html
 * http://thinkprogress.org/health/2015/01/11/3610327/college-men-forcible-sex-study/
 * http://www.rollingstone.com/culture/features/a-rape-on-campus-20141119?page=2
