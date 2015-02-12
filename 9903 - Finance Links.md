@@ -114,6 +114,7 @@
 * https://www.youtube.com/watch?v=y-1Gh4ewklY&feature=youtu.be
 * http://america.aljazeera.com/watch/shows/america-tonight/articles/2015/2/6/florida-condo-law.html
 * http://www.geekwire.com/2015/hacking-housing-market-tech-teams-use-open-data-help-people-find-affordable-homes/
+* http://www.nakedcapitalism.com/2015/02/blackstoneevicts.html
 
 
 
