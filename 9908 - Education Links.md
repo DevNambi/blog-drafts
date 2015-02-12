@@ -395,6 +395,7 @@
 <li><a href="http://www.salon.com/2014/03/17/professors_in_homeless_shelters_it_is_time_to_talk_seriously_about_adjuncts/" time_added="1395115790" tags="">Professors in homeless shelters: It is time to talk seriously about adjunct</a></li>
 
 * https://www.insidehighered.com/quicktakes/2015/01/28/berkeley-finds-faculty-salary-gaps-gender-and-race
+* https://medium.com/@AndrewR_Physics/enoughs-enough-6c56afe36d00
 
 ### Administration
 

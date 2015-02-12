@@ -54,6 +54,7 @@
 * https://www.eff.org/deeplinks/2015/01/which-apps-and-browsers-protect-you-against-verizon-and-turns-non-consensual
 * http://arstechnica.com/tech-policy/2015/01/going-postal-reporter-sues-government-for-spying-from-usps-network/
 * http://arstechnica.com/security/2015/01/browsing-in-privacy-mode-super-cookies-can-track-you-anyway/
+* http://www.theverge.com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-you
 * http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html
 * http://mslods.com/2015/02/04/data-retention-whats-at-stake/
 * http://www.weforum.org/sessions/summary/brave-new-world <- bad incentives?
