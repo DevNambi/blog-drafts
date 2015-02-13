@@ -420,6 +420,7 @@
 * http://techtv.mit.edu/collections/bcs/videos/30698-what-s-wrong-with-convolutional-nets
 * http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/
 * http://jmozah.github.io/links/
+* http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/
 
 
 

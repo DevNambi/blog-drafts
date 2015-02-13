@@ -198,6 +198,7 @@
 * http://bits.blogs.nytimes.com/2014/11/13/google-lifts-the-turing-award-into-nobel-territory/
 * http://ferd.ca/queues-don-t-fix-overload.html
 * http://www.tuxdeluxe.org/node/113
+* http://thinkfaster.co/2015/02/so-you-want-to-be-a-developer-rockstar
 
 
 
