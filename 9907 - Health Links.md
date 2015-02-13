@@ -319,6 +319,7 @@
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://www.slate.com/articles/health_and_science/science/2015/02/fda_inspections_fraud_fabrication_and_scientific_misconduct_are_hidden_from.single.html
 * http://dadaviz.com/i/3194
 * http://hcrenewal.blogspot.com/2014/12/ehrs-and-ebola-in-texas-health.html
 * http://hcrenewal.blogspot.com/2015/01/time-to-look-for-union-label-first-us.html
