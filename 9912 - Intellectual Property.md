@@ -33,6 +33,7 @@
 * https://www.gnu.org/philosophy/who-does-that-server-really-serve.html
 * http://arstechnica.com/tech-policy/2015/02/music-service-uses-copyright-extortion-tactics-on-youtube-suit-says/
 * http://www.wired.com/2015/02/new-high-tech-farm-equipment-nightmare-farmers/
+* https://www.eff.org/deeplinks/2015/02/go-prison-sharing-files-thats-what-hollywood-wants-secret-tpp-deal
 * http://blog.opendns.com/2014/12/30/sony-reveals-even-bigger-attack-internet-time-mpaa-behind/
 * http://timesofindia.indiatimes.com/tech/tech-news/Pastebin-Dailymotion-Github-blocked-after-DoT-order-Report/articleshow/45701713.cms
 * http://arstechnica.com/tech-policy/2015/01/the-nfl-wants-you-to-think-these-things-are-illegal/

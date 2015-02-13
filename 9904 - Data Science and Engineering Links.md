@@ -11,6 +11,8 @@
 <li><a href="http://www.quantumforest.com/2013/12/using-processing-and-r-together/" time_added="1388381715" tags="">Neeeaato RT @golan: Processing R on OSX: quantumforest.com/2013/12/using-… </a></li>
 
 
+"Sort of astounding how much dplyr/tidyr/magrittr have changed my R code. Can hardly read my old stuff anymore. #nerdtwitter @hadleywickham" - Ben Casselman
+
 
 * http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/
 * http://learnds.com/
@@ -453,6 +455,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://www.bigdata-madesimple.com/dilberts-20-funniest-cartoons-on-big-data/
 * http://www.cafepress.com/+statistics+mugs
 * http://bigdatapix.tumblr.com/
+* Storytelling w/ data - Precision bullsh*tting
 
 
 ## Data Adoption and Data-Friendly Organizations
@@ -469,6 +472,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 
 
 * http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype
+* http://www.technologyreview.com/news/535041/automating-the-data-scientists/
 
 
 

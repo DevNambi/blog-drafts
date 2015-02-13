@@ -80,32 +80,10 @@
 
 ## Military and CIA
 
-<li><a href="https://medium.com/war-is-boring/db72a8a23ccf" time_added="1405546931" tags="">Your Periodic Reminder That the V-22 Is a Piece of Junk — War is Boring — M</a></li>
-<li><a href="http://www.theatlantic.com/magazine/archive/2012/11/general-failure/309148/?single_page=true" time_added="1351513641" tags="important">General Failure - Thomas E. Ricks - The Atlantic</a></li>
-<li><a href="http://nypost.com/2013/12/22/70-navy-sailors-left-sickened-by-radiation-after-japan-rescue/" time_added="1387765471" tags="corruption,environment,health">Navy sailors have radiation sickness after Japan rescue | New York Post</a></li>
-<li><a href="http://seattletimes.com/html/nationworld/2022948672_apxunitedstatesyemendronestrike.html" time_added="1392922118" tags="">Report: US drone may have killed dozen civilians</a></li>
-<li><a href="http://www.huffingtonpost.com/2013/01/09/kbr-guilty-iraq-negligence_n_2436115.html" time_added="1358011297" tags="">KBR, Guilty In Iraq Negligence, Wants Taxpayers To Foot The Bill</a></li>
-<li><a href="http://www.theguardian.com/commentisfree/2013/dec/29/drones-us-military" time_added="1388356830" tags="">I worked on the US drone program. The public should know what really goes o</a></li>
-<li><a href="http://www.propublica.org/article/missing-in-action-us-military-slow-to-identify-service-members" time_added="1394336111" tags="">The Military is Leaving the Missing Behind - ProPublica</a></li>
-<li><a href="http://www.allgov.com/news/where-is-the-money-going/more-than-two-thirds-of-afghanistan-reconstruction-money-has-gone-to-one-company-dyncorp-international-140428?news=853017" time_added="1398739582" tags="">Where is the Money Going? - More than Two-Thirds of Afghanistan Reconstruct</a></li>
-<li><a href="http://dissenter.firedoglake.com/2014/04/28/state-department-gives-87-of-afghan-funds-to-only-five-recipients/" time_added="1398890826" tags="">State Department Gives 87% of Afghan Funds to Only Five Recipients | The Di</a></li>
-<li><a href="http://seattletimes.com/html/nationworld/2022570799_afghanbirthdaysxml.html" time_added="1389550808" tags="">In Afghanistan, Jan. 1 is everyone’s birthday | Nation & World | The Seattl</a></li>
-<li><a href="http://www.tomdispatch.com/blog/175790/" time_added="1389255054" tags="">Tomgram: Nick Turse, Special Ops Goes Global | TomDispatch</a></li>
-<li><a href="http://www.komonews.com/news/national/Costs-of-US-wars-linger-for-over-100-years-198972261.html" time_added="1363717384" tags="">Costs of U.S. wars linger for over 100 years | National & World News | Seat</a></li>
-<li><a href="http://www.nytimes.com/2014/01/16/us/program-to-end-homelessness-among-hits-milestone-in-arizona.html?hp" time_added="1389815414" tags="">A City With Beds for All Homeless Veterans</a></li>
-<li><a href="http://www.globalresearch.ca/why-the-washington-posts-new-ties-to-the-cia-are-so-ominous/5364709" time_added="1389774116" tags="">Why the Washington Post’s New Ties to the CIA Are So Ominous | Global Resea</a></li>
-<li><a href="http://www.npr.org/blogs/parallels/2014/04/02/297839429/-so-you-think-youre-smarter-than-a-cia-agent" time_added="1396459450" tags="">So You Think You're Smarter Than A CIA Agent : Parallels : NPR</a></li>
-<li><a href="http://www.nytimes.com/2014/08/01/opinion/The-CIAs-Reckless-Breach-of-Trust.html" time_added="1406919375" tags="">The C.I.A.’s Reckless Breach of Trust - NYTimes.com</a></li>
-<li><a href="http://www.nytimes.com/2013/04/07/world/asia/origins-of-cias-not-so-secret-drone-war-in-pakistan.html?hp&_r=0" time_added="1365290629" tags="important">Origins of C.I.A.’s Not-So-Secret Drone War in Pakistan - NYTimes.com</a></li>
-<li><a href="http://t.co/EM2EWsSe" time_added="1353951318" tags="">drewconway: OSS (U.S. intel agency during WWII) field manual for simple sab</a></li>
-<li><a href="http://www.motherjones.com/mojo/2014/01/new-memo-kissinger-gave-green-light-argentina-dirty-war" time_added="1389773993" tags="">New Memo: Kissinger Gave the "Green Light" for Argentina's Dirty War | Moth</a></li>
-<li><a href="http://www.nytimes.com/2013/08/27/world/middleeast/syria-assad.html?hp" time_added="1377550692" tags="important">Kerry Says Chemical Arms Attack in Syria Is ‘Undeniable’</a></li>
-<li><a href="http://www.nytimes.com/2013/08/18/world/asia/a-secret-race-for-abandoned-nuclear-material.html" time_added="1376777228" tags="important">A Secret Race for Abandoned Nuclear Material - NYTimes.com</a></li>
-
-
 
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
 * http://www.nytimes.com/2015/01/29/world/us-suddenly-goes-quiet-on-effort-to-bolster-afghan-forces.html
+* http://www.publicintegrity.org/2015/02/10/16735/lawyer-moved-halliburton-subsidiary-bribes-through-secret-swiss-hsbc-accounts
 * http://projects.wsj.com/lobotomyfiles/
 * http://www.nytimes.com/2014/12/27/us/politics/after-scrutiny-cia-mandate-is-untouched-.html
 * https://firstlook.org/theintercept/2014/12/19/senior-cia-officer-center-torture-scandals-alfreda-bikowsky/
@@ -118,6 +96,7 @@
 * http://panampost.com/sabrina-martin/2015/01/29/venezuelan-army-can-shoot-protesters-effective-immediately/
 * http://militaryprofessionalreadinglists.com/
 * http://20committee.com/2015/01/15/a-pentagon-insider-speaks-on-obamas-gwow/
+* https://www.schneier.com/blog/archives/2015/02/obama_says_terr.html
 * http://www.amnesty.org/en/news/usa-guant-namo-911-military-hearing-halted-cia-black-site-claims-2015-02
 * http://www.computerworld.com/article/2834927/hackers-strike-defense-companies-through-real-time-ad-bidding.html
 * http://www.foreignpolicy.com/articles/2014/10/24/yoda_has_left_the_building_andrew_marshall_pentagon_futurist
@@ -140,6 +119,29 @@
 * http://mobile.nytimes.com/2014/12/26/us/politics/high-level-knowledge-before-veterans-affairs-scandal.html?_r=0
 * http://www.theatlantic.com/features/archive/2014/12/the-tragedy-of-the-american-military/383516/
 * http://www.laphamsquarterly.org/foreigners/enemy-aliens
+
+
+<li><a href="https://medium.com/war-is-boring/db72a8a23ccf" time_added="1405546931" tags="">Your Periodic Reminder That the V-22 Is a Piece of Junk — War is Boring — M</a></li>
+<li><a href="http://www.theatlantic.com/magazine/archive/2012/11/general-failure/309148/?single_page=true" time_added="1351513641" tags="important">General Failure - Thomas E. Ricks - The Atlantic</a></li>
+<li><a href="http://nypost.com/2013/12/22/70-navy-sailors-left-sickened-by-radiation-after-japan-rescue/" time_added="1387765471" tags="corruption,environment,health">Navy sailors have radiation sickness after Japan rescue | New York Post</a></li>
+<li><a href="http://seattletimes.com/html/nationworld/2022948672_apxunitedstatesyemendronestrike.html" time_added="1392922118" tags="">Report: US drone may have killed dozen civilians</a></li>
+<li><a href="http://www.huffingtonpost.com/2013/01/09/kbr-guilty-iraq-negligence_n_2436115.html" time_added="1358011297" tags="">KBR, Guilty In Iraq Negligence, Wants Taxpayers To Foot The Bill</a></li>
+<li><a href="http://www.theguardian.com/commentisfree/2013/dec/29/drones-us-military" time_added="1388356830" tags="">I worked on the US drone program. The public should know what really goes o</a></li>
+<li><a href="http://www.propublica.org/article/missing-in-action-us-military-slow-to-identify-service-members" time_added="1394336111" tags="">The Military is Leaving the Missing Behind - ProPublica</a></li>
+<li><a href="http://www.allgov.com/news/where-is-the-money-going/more-than-two-thirds-of-afghanistan-reconstruction-money-has-gone-to-one-company-dyncorp-international-140428?news=853017" time_added="1398739582" tags="">Where is the Money Going? - More than Two-Thirds of Afghanistan Reconstruct</a></li>
+<li><a href="http://dissenter.firedoglake.com/2014/04/28/state-department-gives-87-of-afghan-funds-to-only-five-recipients/" time_added="1398890826" tags="">State Department Gives 87% of Afghan Funds to Only Five Recipients | The Di</a></li>
+<li><a href="http://seattletimes.com/html/nationworld/2022570799_afghanbirthdaysxml.html" time_added="1389550808" tags="">In Afghanistan, Jan. 1 is everyone’s birthday | Nation & World | The Seattl</a></li>
+<li><a href="http://www.tomdispatch.com/blog/175790/" time_added="1389255054" tags="">Tomgram: Nick Turse, Special Ops Goes Global | TomDispatch</a></li>
+<li><a href="http://www.komonews.com/news/national/Costs-of-US-wars-linger-for-over-100-years-198972261.html" time_added="1363717384" tags="">Costs of U.S. wars linger for over 100 years | National & World News | Seat</a></li>
+<li><a href="http://www.nytimes.com/2014/01/16/us/program-to-end-homelessness-among-hits-milestone-in-arizona.html?hp" time_added="1389815414" tags="">A City With Beds for All Homeless Veterans</a></li>
+<li><a href="http://www.globalresearch.ca/why-the-washington-posts-new-ties-to-the-cia-are-so-ominous/5364709" time_added="1389774116" tags="">Why the Washington Post’s New Ties to the CIA Are So Ominous | Global Resea</a></li>
+<li><a href="http://www.npr.org/blogs/parallels/2014/04/02/297839429/-so-you-think-youre-smarter-than-a-cia-agent" time_added="1396459450" tags="">So You Think You're Smarter Than A CIA Agent : Parallels : NPR</a></li>
+<li><a href="http://www.nytimes.com/2014/08/01/opinion/The-CIAs-Reckless-Breach-of-Trust.html" time_added="1406919375" tags="">The C.I.A.’s Reckless Breach of Trust - NYTimes.com</a></li>
+<li><a href="http://www.nytimes.com/2013/04/07/world/asia/origins-of-cias-not-so-secret-drone-war-in-pakistan.html?hp&_r=0" time_added="1365290629" tags="important">Origins of C.I.A.’s Not-So-Secret Drone War in Pakistan - NYTimes.com</a></li>
+<li><a href="http://t.co/EM2EWsSe" time_added="1353951318" tags="">drewconway: OSS (U.S. intel agency during WWII) field manual for simple sab</a></li>
+<li><a href="http://www.motherjones.com/mojo/2014/01/new-memo-kissinger-gave-green-light-argentina-dirty-war" time_added="1389773993" tags="">New Memo: Kissinger Gave the "Green Light" for Argentina's Dirty War | Moth</a></li>
+<li><a href="http://www.nytimes.com/2013/08/27/world/middleeast/syria-assad.html?hp" time_added="1377550692" tags="important">Kerry Says Chemical Arms Attack in Syria Is ‘Undeniable’</a></li>
+<li><a href="http://www.nytimes.com/2013/08/18/world/asia/a-secret-race-for-abandoned-nuclear-material.html" time_added="1376777228" tags="important">A Secret Race for Abandoned Nuclear Material - NYTimes.com</a></li>
 
 
 
@@ -205,6 +207,9 @@
 
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
+* http://www.theroot.com/articles/culture/2014/02/cop_breaks_10_year_old_s_leg_for_filming_him.html
+* http://www.waaytv.com/appnews/madison-officer-charged-with-assault-for-use-of-force-incident/article_7b09d144-b2fe-11e4-a0e4-b339eed5e1af.html
+* http://www.cnn.com/2015/02/12/us/alabama-police-beating/index.html
 * http://www.theverge.com/2015/2/12/8028849/facebook-use-in-jail-solitary-confinement 
 * http://www.theguardian.com/commentisfree/2015/feb/05/prosecutors-immunity-unethical-unlawful-acts
 * http://seattletimes.com/html/localnews/2025678977_pascoshootingxml.html

@@ -166,6 +166,7 @@
 
 
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
+* http://newsroom.ucla.edu/releases/memory-loss-associated-with-alzheimers-reversed-for-first-time#.VNqBsTA1Msg.facebook
 * http://www.bloomberg.com/news/features/2015-02-12/does-a-real-anti-aging-pill-already-exist-
 * http://www.wired.com/2015/02/incredible-hospital-robot-saving-lives-also-hate/
 * http://www.bmj.com/content/350/bmj.h384
@@ -385,6 +386,7 @@
 
 
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/?mbid=social_fb
+* http://www.propublica.org/article/why-pharma-payments-to-doctors-were-so-hard-to-parse
 * http://fivethirtyeight.com/datalab/what-canceling-an-insurance-program-meant-for-arizonas-kids/
 * http://www.nytimes.com/2013/10/13/us/the-soaring-cost-of-a-simple-breath.html
 * http://mobile.nytimes.com/2015/02/08/sunday-review/insured-but-not-covered.html
