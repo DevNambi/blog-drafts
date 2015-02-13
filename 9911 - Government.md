@@ -205,6 +205,7 @@
 
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
+* http://www.theverge.com/2015/2/12/8028849/facebook-use-in-jail-solitary-confinement 
 * http://www.theguardian.com/commentisfree/2015/feb/05/prosecutors-immunity-unethical-unlawful-acts
 * http://seattletimes.com/html/localnews/2025678977_pascoshootingxml.html
 * http://www.komonews.com/news/local/Pasco-police-shoot-man-to-death-after-confrontation-291528481.html
