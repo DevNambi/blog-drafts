@@ -33,6 +33,7 @@
 
 
 * https://gigaom.com/2014/12/05/whats-happening-with-secret/
+* http://hatchery.io/how-to-do-mvps-right.html
 
 
 ## Renting/Access (not Sharing) Economy
@@ -81,6 +82,7 @@
 * http://www.wired.com/2014/04/no-exit/?hn
 * https://keen.io/blog/103052402741/how-the-culture-of-overwork-is-killing-entrepreneurs
 * http://www.getdigsy.com/blog/startups/7-things-corporate-wont-tell-startup-jobs/
+* http://www.geekwire.com/2015/cheezburger-ceo-ben-huh-fears-leadership-greatest-lie-thats-told-entrepreneurs/
 
 
 ## Misc
@@ -89,6 +91,7 @@
 * http://www.nytimes.com/2014/10/15/upshot/how-jean-tiroles-work-helps-explain-the-internet-economy.html
 * http://pando.com/2014/10/14/anti-burn-how-bootstrapped-zoho-survived-two-tech-bubbles-and-became-a-massive-success/
 * http://blog.samaltman.com/policy-for-growth-and-innovation
+* https://gigaom.com/2015/02/15/disrupting-reality-silicon-valley-is-busy-ignoring-the-real-world/
 * http://www.salon.com/2014/10/13/neil_degrasse_tyson_society_has_bigger_problems_than_what_can_be_solved_with_your_next_app/
 * http://www.engadget.com/2014/10/23/efi-underpaying-workers/
 * http://www.brainshave.com/blog/startcraps
