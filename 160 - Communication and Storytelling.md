@@ -29,6 +29,7 @@ Only use active verbs.
 	- "Write until you're absolutely in love with the work"
 
 * http://seriouspony.com/blog/2013/10/4/presentation-skills-considered-harmful
+* http://mobile.nytimes.com/2015/02/14/world/europe/russian-tv-insider-says-putin-is-running-the-show-in-ukraine.html?_r=1&referrer=
 * http://www.bakadesuyo.com/2014/12/how-to-read-people/
 * http://ozar.me/2015/02/best-presentations-based-pain/
 

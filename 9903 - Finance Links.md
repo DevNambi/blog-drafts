@@ -12,6 +12,7 @@
 * http://www.nytimes.com/2014/10/27/technology/using-cash-and-pressure-china-builds-its-chip-industry.html
 * http://www.nakedcapitalism.com/2014/12/michael-pettis-china-really-turning-away-dollar.html
 * http://www.bloombergview.com/articles/2015-01-20/china-gdp-numbers-show-room-for-xi-jinping-to-reform
+* http://www.scmp.com/news/china/article/1712004/chasing-ghosts-where-chinas-next-wave-empty-new-towns
 
 
 ## Europe
@@ -123,6 +124,7 @@
 ## Poverty, Class Warfare, 'American Dream'
 
 * http://www.gallup.com/opinion/chairman/181469/big-lie-unemployment.aspx
+* http://www.nakedcapitalism.com/2015/02/wolf-richter-something-rotten-piling-economy.html
 * http://www.salon.com/2015/02/10/5_facts_that_show_half_of_america_is_seriously_struggling_partner/
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2015/01/14/this-powerful-reddit-thread-reveals-how-the-poor-get-by-in-america/
 * https://news.vice.com/article/unemployment-is-killing-45000-people-each-year

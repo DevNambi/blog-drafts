@@ -91,12 +91,14 @@ Emphasize what we don't know
 * http://www.salon.com/2015/02/10/what_nobody_told_me_about_small_farming_i_cant_make_a_living/
 * https://ca.news.yahoo.com/brazilians-hoard-water-prepare-possible-drastic-rationing-164505818--business.html
 * http://uk.businessinsider.com/bps-deepwater-horizon-spill-has-left-tons-of-oil-on-the-gulfs-floor-2015-2
+* http://seattletimes.com/html/localnews/2025709135_oceanxprizexml.html
 * http://www.lowtechmagazine.com/2015/02/heating-people-not-spaces.html
 * http://www.nytimes.com/2014/04/20/magazine/its-the-end-of-the-world-as-we-know-it-and-he-feels-fine.html?hp&_r=0
 * http://www.theatlantic.com/politics/archive/2014/04/republicans-framing-climate-change/360911/
 * http://www.bbc.com/news/science-environment-31434030
 * http://thinkprogress.org/climate/2015/01/22/3614256/hottest-year-ocean-warming/
 * http://www.technologyreview.com/news/534266/hawaiis-solar-push-strains-the-grid/
+* http://discovermagazine.com/1998/feb/americancannibal1407
 * http://www.jsonline.com/news/wisconsin/The-man-with-the-salmon-plan-b99397807z1-284550491.html
 * http://www.washingtonpost.com/news/morning-mix/wp/2014/12/16/the-secret-ingredient-behind-romes-lasting-monuments/
 * http://www.nakedcapitalism.com/2014/04/earth-day-can-grow-enough-food-avoid-human-planetary-dieback.html

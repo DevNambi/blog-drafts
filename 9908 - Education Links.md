@@ -342,6 +342,7 @@
 * https://www.insidehighered.com/news/2015/01/16/law-schools-compete-students-many-may-not-have-admitted-past
 * https://www.insidehighered.com/news/2015/01/28/study-finds-link-between-cuts-state-budgets-and-out-state-enrollment
 * https://www.insidehighered.com/news/2015/02/04/law-school-transfer-market-heats-getting-some-deans-hot-under-collar
+* http://highereddatastories.blogspot.com/2015/02/the-race-goes-on.html
 
 
 ### Student Culture, Sexual Assault, Assault

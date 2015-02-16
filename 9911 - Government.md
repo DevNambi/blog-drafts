@@ -36,6 +36,7 @@
 * http://www.rollingstone.com/politics/news/afghanistan-the-making-of-a-narco-state-20141204
 * https://firstlook.org/theintercept/2014/12/07/release-six-detainees-12-years-highlights-historic-evil-guantanamo/
 * https://www.nsa.gov/public_info/declass/IntelligenceOversightBoard.shtml <- released on Christmas Eve, a classic 'don't look here' sign
+* http://index.rsf.org/#!/index-details/USA
 * http://www.zdnet.com/article/department-of-homeland-security-oversight-report-dhs-is-a-terrifying-failure/
 * http://www.nytimes.com/2015/01/20/dining/animal-welfare-at-risk-in-experiments-for-meat-industry.html
 * http://www.slate.com/articles/health_and_science/new_scientist/2015/01/mass_surveillance_against_terrorism_gathering_intelligence_on_all_is_statistically.html?wpsrc=fol_tw
@@ -209,6 +210,7 @@
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
 * http://www.theroot.com/articles/culture/2014/02/cop_breaks_10_year_old_s_leg_for_filming_him.html
 * http://www.waaytv.com/appnews/madison-officer-charged-with-assault-for-use-of-force-incident/article_7b09d144-b2fe-11e4-a0e4-b339eed5e1af.html
+* http://voiceofsandiego.org/all-narratives/police-misconduct/their-crime-walking-into-their-own-home/
 * http://www.nytimes.com/2015/02/15/us/law-enforcement-issues-in-missouri-and-other-states-spur-unlikely-alliances.html
 * http://www.cnn.com/2015/02/12/us/alabama-police-beating/index.html
 * http://www.theverge.com/2015/2/12/8028849/facebook-use-in-jail-solitary-confinement 
