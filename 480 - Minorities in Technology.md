@@ -16,6 +16,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * http://blog.ameliagreenhall.com/post/quiet-ladies.-wadhwa-is-speaking-now
 * http://www.theverge.com/2015/2/9/8004101/sexism-and-consequences-at-techcrunch-s-annual-award-show
 * https://medium.com/backchannel/techs-high-barrier-to-entry-for-the-underprivileged-da254356547d
+* http://gutsybroads.com/2015/02/investor-wanted-give-50000-heres-said-no/
 * http://www.psmag.com/health-and-behavior/women-arent-welcome-internet-72170
 * http://www.rawstory.com/rs/2015/02/supreme-court-lets-stand-ruling-that-firing-woman-for-breastfeeding-not-sexist-because-men-can-lactate/
 * https://github.com/cinchrb/cinch/commit/496f026439ab6c421ac229a34246bf26f2b4daa6#commitcomment-9391776
