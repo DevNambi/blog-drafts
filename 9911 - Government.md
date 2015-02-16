@@ -225,6 +225,7 @@
 * http://wkbn.com/2015/02/05/niles-cop-disciplined-after-questionable-traffic-stop/
 * http://www.whas11.com/story/news/crime/2015/02/04/good-samaritan-tackles-off-duty-lmpd-officer-during-alleged-beating/22857419/
 * http://arstechnica.com/tech-policy/2015/02/video-recorded-arrest-gets-nypd-cop-indicted-on-assault-charges/
+* http://www.dailykos.com/story/2015/02/16/1364713/-St-Louis-Police-Mayor-did-everything-they-could-for-you-to-not-see-this-video-of-police-brutality
 * http://alternativemediasyndicate.com/2015/02/08/police-bombing-residential-neighborhood-that-they-dont-want-you-to-hear-about-this-black-history-month/
 * http://fusion.net/story/41931/inside-the-prison-systems-illicit-digital-world/
 * http://thefreethoughtproject.com/austin-police-put-hood-womans-head-restrained-her-choked-draw-blood-lawsuit-alleges/
