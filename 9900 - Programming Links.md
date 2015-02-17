@@ -180,6 +180,7 @@
 * http://jacquesmattheij.com/saving-a-project-and-a-company
 * http://www.methodsandtools.com/archive/archive.php?id=66
 * http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
+* https://github.com/airbnb/javascript/issues/102 <- great analogy about coding style guides
 
 
 
@@ -268,6 +269,7 @@
 * https://gigaom.com/2015/01/04/verizon-cloud-warns-customers-of-2-day-maintenance-closure/
 * http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html
 * http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/
+* http://danluu.com/3c-conflict/
 
 
 

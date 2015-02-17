@@ -84,6 +84,7 @@
 
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
 * http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/ <- an insight piece
+* http://www.pieria.co.uk/articles/why_the_worlds_biggest_military_keeps_losing_wars <- how politics and war intertwine
 * http://www.nytimes.com/2015/01/29/world/us-suddenly-goes-quiet-on-effort-to-bolster-afghan-forces.html
 * http://www.publicintegrity.org/2015/02/10/16735/lawyer-moved-halliburton-subsidiary-bribes-through-secret-swiss-hsbc-accounts
 * http://projects.wsj.com/lobotomyfiles/
@@ -225,6 +226,7 @@
 * http://www.chron.com/houston/article/Occupy-Houston-assassination-plot-records-won-t-6071015.php
 * http://www.netflix.com/WiMovie/70298455?trkid=13752289
 * http://wkbn.com/2015/02/05/niles-cop-disciplined-after-questionable-traffic-stop/
+* http://www.vox.com/2015/2/17/8047461/dhs-problems
 * http://www.whas11.com/story/news/crime/2015/02/04/good-samaritan-tackles-off-duty-lmpd-officer-during-alleged-beating/22857419/
 * http://arstechnica.com/tech-policy/2015/02/video-recorded-arrest-gets-nypd-cop-indicted-on-assault-charges/
 * http://www.dailykos.com/story/2015/02/16/1364713/-St-Louis-Police-Mayor-did-everything-they-could-for-you-to-not-see-this-video-of-police-brutality

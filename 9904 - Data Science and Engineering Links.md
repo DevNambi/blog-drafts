@@ -353,6 +353,7 @@
 * http://www.john-foreman.com/blog/the-perilous-world-of-machine-learning-for-fun-and-profit-pipeline-jungles-and-hidden-feedback-loops
 * http://betterexplained.com/articles/linear-algebra-guide/
 * http://setosa.io/ev/eigenvectors-and-eigenvalues/
+* http://techeffigytutorials.blogspot.com/2015/02/the-genetic-algorithm-explained.html
 
 
 
