@@ -89,6 +89,7 @@ Emphasize what we don't know
 * http://nautil.us/issue/101/in-our-nature/ants-go-marching-rp
 * http://www.wunderground.com/blog/JeffMasters/comment.html?entrynum=2663
 * http://www.salon.com/2015/02/10/what_nobody_told_me_about_small_farming_i_cant_make_a_living/
+* http://www.nytimes.com/2015/02/17/world/americas/drought-pushes-sao-paulo-brazil-toward-water-crisis.html?_r=0
 * https://ca.news.yahoo.com/brazilians-hoard-water-prepare-possible-drastic-rationing-164505818--business.html
 * http://uk.businessinsider.com/bps-deepwater-horizon-spill-has-left-tons-of-oil-on-the-gulfs-floor-2015-2
 * http://seattletimes.com/html/localnews/2025709135_oceanxprizexml.html
