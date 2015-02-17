@@ -83,6 +83,7 @@
 
 
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
+* http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/ <- an insight piece
 * http://www.nytimes.com/2015/01/29/world/us-suddenly-goes-quiet-on-effort-to-bolster-afghan-forces.html
 * http://www.publicintegrity.org/2015/02/10/16735/lawyer-moved-halliburton-subsidiary-bribes-through-secret-swiss-hsbc-accounts
 * http://projects.wsj.com/lobotomyfiles/
