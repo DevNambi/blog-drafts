@@ -217,6 +217,7 @@
 * http://www.theverge.com/2015/2/12/8028849/facebook-use-in-jail-solitary-confinement 
 * http://www.theguardian.com/commentisfree/2015/feb/05/prosecutors-immunity-unethical-unlawful-acts
 * http://seattletimes.com/html/localnews/2025678977_pascoshootingxml.html
+* http://arstechnica.com/tech-policy/2015/02/in-rare-move-local-cops-reveal-details-to-judges-on-stingray-use/
 * http://www.komonews.com/news/local/Pasco-police-shoot-man-to-death-after-confrontation-291528481.html
 * http://www.usatoday.com/story/news/nation/2015/02/08/one-pill-10-years/23070929/
 * http://arstechnica.com/tech-policy/2015/02/fbi-really-doesnt-want-anyone-to-know-about-stingray-use-by-local-cops/

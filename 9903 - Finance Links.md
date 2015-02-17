@@ -41,6 +41,8 @@
 * http://www.bbc.com/news/world-europe-30864088
 * http://www.balkaninsight.com/en/article/the-great-leap-rightward
 * http://www.nytimes.com/2015/01/26/world/europe/greek-election-syriza.html?_r=0
+* http://www.nytimes.com/2015/02/17/business/international/greece-debt-eurozone-finance-ministers-meeting.html
+* http://www.nytimes.com/2015/02/16/opinion/paul-krugman-weimar-on-the-aegean.html
 
 
 ## Elsewhere in the World
@@ -132,6 +134,7 @@
 * http://opinionator.blogs.nytimes.com/2013/11/02/poverty-in-america-is-mainstream/
 * http://en.wikipedia.org/wiki/South_Fork_Fishing_and_Hunting_Club
 * http://www.politico.com/magazine/story/2014/11/overtime-pay-obama-congress-112954.html
+* http://www.nytimes.com/2015/02/17/business/economy/aid-to-needy-often-excludes-the-poorest-in-america.html?_r=0
 * http://www.economist.com/news/leaders/21640331-importance-intellectual-capital-grows-privilege-has-become-increasingly
 * http://seattletimes.com/html/localnews/2024625051_carpaymentsxml.html
 * http://mobile.nytimes.com/2015/01/26/business/economy/middle-class-shrinks-further-as-more-fall-out-instead-of-climbing-up.html

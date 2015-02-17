@@ -51,6 +51,7 @@
 * https://github.com/prakhar1989/awesome-courses/blob/master/README.md
 * http://bertolami.com/index.php?engine=blog&content=posts&detail=fundamentals-of-data-compression <- people should know compression
 * http://www.brentozar.com/archive/2015/02/slow-not-metric/ <- baselines, baselines, baselines
+* http://blog.samaltman.com/the-software-revolution
 
 
 @joshuajames Posit: the failure of most "system thinking" is in thinking the system is like a machine rather than an ecology.

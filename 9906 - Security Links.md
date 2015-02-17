@@ -14,6 +14,7 @@
 * http://krebsonsecurity.com/2015/02/anthem-breach-may-have-started-in-april-2014/
 * https://www.schneier.com/blog/archives/2015/01/the_security_of_10.html
 * https://firstlook.org/theintercept/2015/01/28/canada-cse-levitation-mass-surveillance/
+* http://securelist.com/blog/research/68732/the-great-bank-robbery-the-carbanak-apt/
 * http://arstechnica.com/security/2015/02/psa-your-crypto-apps-are-useless-unless-you-check-them-for-backdoors/
 * http://cwe.mitre.org/top25/
 * http://recode.net/2015/01/12/dont-ignore-the-simple-cyber-attacks-says-security-blogger-brian-krebs-qa/
@@ -84,6 +85,8 @@
 * http://www.newscientist.com/article/dn26801-mass-surveillance-not-effective-for-finding-terrorists.html
 * http://www.spiegel.de/international/world/regin-malware-unmasked-as-nsa-tool-after-spiegel-publishes-source-code-a-1015255.html
 * http://www.nationaljournal.com/tech/edward-snowden-is-more-admired-than-president-obama-in-germany-and-russia-20150205
+* http://www.reuters.com/article/2015/02/16/us-usa-cyberspying-idUSKBN0LK1QV20150216
+* http://arstechnica.com/security/2015/02/how-omnipotent-hackers-tied-to-the-nsa-hid-for-14-years-and-were-found-at-last/
 
 <li><a href="http://rt.com/usa/news/surveillance-spying-e-mail-citizens-178/" time_added="1354678483" tags="hn,important,personal tech">'Everyone in US under virtual surveillance' - NSA whistleblower — RT</a></li>
 

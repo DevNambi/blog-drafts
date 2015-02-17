@@ -447,6 +447,7 @@
 * http://blog.udacity.com/2014/11/data-science-job-skills.html
 * http://blog.udacity.com/2014/12/3-paths-first-data-analyst-job.html
 * http://crastina.se/theres-no-projects-like-side-projects/
+* http://jeremykun.com/2015/02/16/a-proofless-introduction-to-information-theory/
 
 Peter Norvig Quote: "More data beats clever algorithms, but better data beats more data."
 
