@@ -20,12 +20,7 @@
 <li><a href="http://www.nytimes.com/2013/03/18/business/global/facing-bailout-tax-cypriots-rush-to-get-their-money-out-of-banks.html?hp&pagewanted=all&_r=0" time_added="1363565145" tags="finance,important">Cypriot Bailout Sends Shivers Throughout the Euro Zone - NYTimes.com</a></li>
 
 * http://www.nytimes.com/2014/10/17/world/europe/bloc-in-europe-starts-to-balk-over-austerity-.html
-* http://www.nakedcapitalism.com/2015/02/ecb-greece-drop-dead.html <- good god
-* http://www.nakedcapitalism.com/2015/02/greek-finance-minister-varoufakis-retreats-on-debt-writedowns-public-spending-promises.html
 * http://www.nakedcapitalism.com/2015/02/john-helmer-the-political-motivation-of-chancellor-merkels-embrace-of-yulia-tymoshenko-and-war.html
-* http://www.nakedcapitalism.com/2015/02/greece-still-defiant-ecb-mugging.html
-* http://www.nakedcapitalism.com/2015/02/eurogroup-ministers-to-syriza-drop-dead.html
-* http://www.nakedcapitalism.com/2015/02/the-ecb-ready-to-put-a-choke-chain-on-syriza.html
 * http://www.nytimes.com/2015/01/08/business/international/europe-economy-deflation.html
 * http://www.nakedcapitalism.com/2014/10/revolt-starting-in-uk-over-private-equity-fee-secrecy.html
 * http://www.nakedcapitalism.com/2014/10/ilargi-europe-redefines-stress-bank-boosterist-stress-tests.html
@@ -35,14 +30,25 @@
 * http://www.nakedcapitalism.com/2014/12/greece-eurozones-rescue-troika-forgive-greeces-debt.html
 * http://www.nytimes.com/2014/12/27/world/even-loyalty-no-guarantee-against-putin.html <- might makes right. But now it's at the hands of a check and not a gun.
 * http://www.theatlantic.com/international/archive/2015/01/europe-mortgage-crisis-switzerland-franc/384958/
-* http://www.nytimes.com/2014/12/30/world/europe/greek-patience-with-austerity-nears-its-limit-.html?_r=0
 * http://mechanicalforex.com/2015/01/trading-a-real-market-what-the-swiss-national-bank-taught-retail-traders-today.html
 * http://www.businessinsider.com/denmark-just-followed-switzerland-and-slashed-interest-rates-as-europe-stagnates-2015-1
 * http://www.bbc.com/news/world-europe-30864088
 * http://www.balkaninsight.com/en/article/the-great-leap-rightward
+
+
+#### Greece
+
 * http://www.nytimes.com/2015/01/26/world/europe/greek-election-syriza.html?_r=0
 * http://www.nytimes.com/2015/02/17/business/international/greece-debt-eurozone-finance-ministers-meeting.html
 * http://www.nytimes.com/2015/02/16/opinion/paul-krugman-weimar-on-the-aegean.html
+* http://www.nakedcapitalism.com/2015/02/varoufakis-charges-eurogroup-bad-faith-dealing-negotiations.html
+* http://www.nakedcapitalism.com/2015/02/greece-still-defiant-ecb-mugging.html
+* http://www.nakedcapitalism.com/2015/02/eurogroup-ministers-to-syriza-drop-dead.html
+* http://www.nytimes.com/2014/12/30/world/europe/greek-patience-with-austerity-nears-its-limit-.html?_r=0
+* http://www.nakedcapitalism.com/2015/02/the-ecb-ready-to-put-a-choke-chain-on-syriza.html
+* http://www.nakedcapitalism.com/2015/02/ecb-greece-drop-dead.html <- good god
+* http://www.nakedcapitalism.com/2015/02/greek-finance-minister-varoufakis-retreats-on-debt-writedowns-public-spending-promises.html
+
 
 
 ## Elsewhere in the World
