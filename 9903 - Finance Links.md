@@ -36,6 +36,7 @@
 * http://www.balkaninsight.com/en/article/the-great-leap-rightward
 
 
+
 #### Greece
 
 * http://www.nytimes.com/2015/01/26/world/europe/greek-election-syriza.html?_r=0
@@ -48,6 +49,8 @@
 * http://www.nakedcapitalism.com/2015/02/the-ecb-ready-to-put-a-choke-chain-on-syriza.html
 * http://www.nakedcapitalism.com/2015/02/ecb-greece-drop-dead.html <- good god
 * http://www.nakedcapitalism.com/2015/02/greek-finance-minister-varoufakis-retreats-on-debt-writedowns-public-spending-promises.html
+* http://www.nakedcapitalism.com/2015/02/negotiation-breakdown-exposes-widening-rift-germany-greece.html
+* http://www.nakedcapitalism.com/2015/02/mathew-d-rose-greece-revolution-stupid.html
 
 
 

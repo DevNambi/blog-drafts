@@ -246,6 +246,7 @@
 * The police are weapons. Weapons wielded by...what?
 * http://www.theguardian.com/us-news/2015/jan/31/detroit-aiyana-stanley-jones-police-officer-cleared
 * http://www.ajc.com/news/news/breaking-news/no-charges-for-officers-in-botched-drug-raid-that-/nhc2N/
+* http://www.nakedcapitalism.com/2015/02/tom-engelhardt-whose-america-machine-guns-mraps-surveillance-drones-permanent-war-permanent-election-campaign.html
 * http://nypost.com/2015/01/30/nypd-to-launch-a-beefed-up-counterterrorism-squad/ <- means that terrorists and protesters are considered similar!
 * http://arstechnica.com/tech-policy/2015/02/court-tosses-warrant-where-fbi-cut-internet-posed-as-hotel-repairmen/
 * http://countercurrentnews.com/2015/01/native-american-woman-handcuffed-in-police-cruiser/
