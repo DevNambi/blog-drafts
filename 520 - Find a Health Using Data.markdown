@@ -18,7 +18,7 @@ Compare US Medicare prices to different country prices. Use recent articles for 
 
 
 Look at the prevalance of chronic, 'lifestyle' diseases. 
-Come up with the time value of money based on salary. Then the time value of eating healthy.
+Come up with the time value of money based on salary. Then the time value of eating healthy.s
 See if it's *ever* cost effective to rely on US-based medicine. Don't consider quality of life.
 
 ### Health from Exercise
@@ -90,6 +90,7 @@ Look at Bayesian math and conditional probability for this.
 * http://mobile.nytimes.com/2014/07/20/opinion/sunday/bottlenecks-in-training-doctors.html?_r=0
 * http://opensource.com/health/14/6/can-open-science-help-patients-and-save-pharma
 * http://www.forbes.com/sites/bruceupbin/2013/02/08/ibms-watson-gets-its-first-piece-of-business-in-healthcare/
+* http://hcrenewal.blogspot.com/2015/02/wall-street-journal-obamacares.html
 
 <li><a href="http://www.extremetech.com/extreme/171639-ibm-tackles-mrsa-and-other-healthcare-infections-with-rfid-enforced-hand-washing-tech" time_added="1385792410" tags="data ethics,health,hn">IBM tackles MRSA and other healthcare infections with RFID-enforced hand wa</a></li>
 <li><a href="http://erkutlu.blogspot.com/2012/12/eeg-and-arduino-do-it-yourself-eeg-ekg.html" time_added="1384444897" tags="health,personal tech">Do-it-yourself EEG, EKG, and EMG</a></li>

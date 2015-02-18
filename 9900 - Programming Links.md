@@ -484,6 +484,7 @@ things they believe in will keep </a></li>
 * http://www.freedomlayer.org/articles/dht_intro.html
 * https://www.blitz.io/
 * http://danluu.com/new-cpu-features/
+* https://rachelbythebay.com/w/2015/02/16/capture/
 * http://www.cohodata.com/blog/2015/01/14/five-results-high-performance-data/
 
 ## Funny

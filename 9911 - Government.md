@@ -86,6 +86,7 @@
 * http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/ <- an insight piece
 * http://www.pieria.co.uk/articles/why_the_worlds_biggest_military_keeps_losing_wars <- how politics and war intertwine
 * http://www.nytimes.com/2015/01/29/world/us-suddenly-goes-quiet-on-effort-to-bolster-afghan-forces.html
+* https://news.vice.com/article/i-didnt-join-the-taliban-because-i-was-poor-i-joined-because-i-was-angry-report-finds-injustice-not-unemployment-radicalizes-youth
 * http://www.publicintegrity.org/2015/02/10/16735/lawyer-moved-halliburton-subsidiary-bribes-through-secret-swiss-hsbc-accounts
 * http://projects.wsj.com/lobotomyfiles/
 * http://www.nytimes.com/2014/12/27/us/politics/after-scrutiny-cia-mandate-is-untouched-.html
@@ -219,6 +220,7 @@
 * http://www.cnn.com/2015/02/12/us/alabama-police-beating/index.html
 * http://www.theverge.com/2015/2/12/8028849/facebook-use-in-jail-solitary-confinement 
 * http://www.theguardian.com/commentisfree/2015/feb/05/prosecutors-immunity-unethical-unlawful-acts
+* http://www.seattlepi.com/local/article/Man-pummeled-by-Seattle-police-Video-saved-me-6086252.php
 * http://seattletimes.com/html/localnews/2025678977_pascoshootingxml.html
 * http://arstechnica.com/tech-policy/2015/02/in-rare-move-local-cops-reveal-details-to-judges-on-stingray-use/
 * http://www.komonews.com/news/local/Pasco-police-shoot-man-to-death-after-confrontation-291528481.html

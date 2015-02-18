@@ -23,6 +23,9 @@ It's the model that defines the engineering around the entire Internet.
 Data engineering doesn't have an equivalent model. It needs one as technology stacks, connectors, and processing models are invented, evolve, and die at a furious pace.
 
 
+http://radar.oreilly.com/2015/02/processing-frameworks-for-hadoop.html <- basically the article I wanted to write
+
+
 ### The Elephant Has Left the Building
 
 Hadoop is almost a decade old. It's established. It's also showing it's age. The original MapReduce paper came out in 1999 (LINK).
