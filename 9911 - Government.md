@@ -232,10 +232,12 @@
 * http://www.vox.com/2015/2/17/8047461/dhs-problems
 * http://www.whas11.com/story/news/crime/2015/02/04/good-samaritan-tackles-off-duty-lmpd-officer-during-alleged-beating/22857419/
 * http://arstechnica.com/tech-policy/2015/02/video-recorded-arrest-gets-nypd-cop-indicted-on-assault-charges/
+* http://kansasexposed.org/2015/02/13/wpd-conducts-violent-no-knock-raid-guess-what-they-found/
 * http://www.dailykos.com/story/2015/02/16/1364713/-St-Louis-Police-Mayor-did-everything-they-could-for-you-to-not-see-this-video-of-police-brutality
 * http://alternativemediasyndicate.com/2015/02/08/police-bombing-residential-neighborhood-that-they-dont-want-you-to-hear-about-this-black-history-month/
 * http://fusion.net/story/41931/inside-the-prison-systems-illicit-digital-world/
 * http://thefreethoughtproject.com/austin-police-put-hood-womans-head-restrained-her-choked-draw-blood-lawsuit-alleges/
+* http://www.wnd.com/2015/02/man-72-faces-life-sentence-for-unloaded-antique-gun/
 * http://www.newyorker.com/magazine/2015/02/02/son-deceased
 * http://seattletimes.com/html/localnews/2025608202_busdriveraccountxml.html
 * http://blogs.seattletimes.com/today/2015/02/king-county-sheriffs-deputy-arrested-accused-of-domestic-violence/

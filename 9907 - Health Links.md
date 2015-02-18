@@ -16,6 +16,7 @@
 * http://www.theatlantic.com/health/archive/2015/01/the-selling-of-the-avocado/385047/?single_page=true
 * http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13793.html
 * http://qz.com/271961/the-complete-guide-to-packing-a-thrifty-lunch-thats-better-than-takeout/
+* http://theconversation.com/the-mercury-level-in-your-tuna-is-getting-higher-37147
 * http://world.openfoodfacts.org/ <- for side business
 * http://www.vrg.org/blog/2013/03/14/why-so-many-food-label-disclaimers/
 * http://tryingadf.blogspot.com/2013/04/fasting-as-detox-debunked.html
@@ -170,6 +171,7 @@
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
 * http://newsroom.ucla.edu/releases/memory-loss-associated-with-alzheimers-reversed-for-first-time#.VNqBsTA1Msg.facebook
 * http://www.bloomberg.com/news/features/2015-02-12/does-a-real-anti-aging-pill-already-exist-
+* http://news.sciencemag.org/biology/2015/02/stopping-hiv-artificial-protein
 * http://www.nytimes.com/2015/02/18/health/doctors-strive-to-do-less-harm-by-inattentive-care.html?_r=0 <- how does this interact with EHR?
 * http://www.wired.com/2015/02/incredible-hospital-robot-saving-lives-also-hate/
 * http://www.bmj.com/content/350/bmj.h384
