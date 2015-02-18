@@ -82,7 +82,6 @@ Emphasize what we don't know
 
 
 * http://forecast.io/raw/
-* http://america.aljazeera.com/blogs/scrutineer/2015/1/31/january-sees-five-major-pipeline-leaks.html
 * http://www.nakedcapitalism.com/2014/04/gaius-publius-climate-scientist-michael-mann-dont-stop-now-well-surpass-2c-global-warming.html
 * http://www.nytimes.com/2015/01/29/science/new-report-urges-western-governments-to-reconsider-reliance-on-biofuels.html?_r=0
 * http://seattletimes.com/html/nationworld/2025688459_apxsciworsedroughts.html
@@ -92,7 +91,6 @@ Emphasize what we don't know
 * http://www.salon.com/2015/02/10/what_nobody_told_me_about_small_farming_i_cant_make_a_living/
 * http://www.nytimes.com/2015/02/17/world/americas/drought-pushes-sao-paulo-brazil-toward-water-crisis.html?_r=0
 * https://ca.news.yahoo.com/brazilians-hoard-water-prepare-possible-drastic-rationing-164505818--business.html
-* http://uk.businessinsider.com/bps-deepwater-horizon-spill-has-left-tons-of-oil-on-the-gulfs-floor-2015-2
 * http://seattletimes.com/html/localnews/2025709135_oceanxprizexml.html
 * http://www.lowtechmagazine.com/2015/02/heating-people-not-spaces.html
 * http://www.nytimes.com/2014/04/20/magazine/its-the-end-of-the-world-as-we-know-it-and-he-feels-fine.html?hp&_r=0
@@ -116,10 +114,8 @@ Emphasize what we don't know
 * http://www.nakedcapitalism.com/2014/12/climate-change-triage-protect-money-people.html
 * http://www.newscientist.com/article/dn26379-pentagon-warns-the-us-military-of-climate-change.html
 * http://www.nytimes.com/2014/10/15/business/economy/the-price-of-water-is-too-low.html?_r=0
-* http://www.nakedcapitalism.com/2014/10/oil-gas-leases-fracking-rip-homeowners.html
 * http://arstechnica.com/science/2014/10/natural-underground-co2-reservoir-reveals-clues-about-storage/
 * http://www.bbc.com/news/magazine-29761274
-* http://www.huffingtonpost.com/2014/10/27/gulf-oil-spill-bathtub-ring_n_6056348.html
 * http://www.salon.com/2014/10/28/researchers_not_even_a_global_pandemic_can_solve_our_overpopulation_problem/
 * http://www.theatlantic.com/health/archive/2014/11/the-climate-change-solution-no-one-will-talk-about/382197/
 * http://www.theguardian.com/environment/2014/oct/31/amazon-rainforest-deforestation-weather-droughts-report
@@ -128,12 +124,10 @@ Emphasize what we don't know
 * http://www.newyorker.com/humor/borowitz-report/polar-vortex-causes-hundreds-of-injuries-as-people-making-snide-remarks-about-climate-change-are-punched-in-face
 * http://johncarlosbaez.wordpress.com/2015/01/05/why-google-gave-up/
 * http://arstechnica.com/science/2014/11/publishers-remove-confusion-about-climate-change-from-texas-textbooks/
-* http://www.extremetech.com/extreme/195003-solar-and-wind-power-are-now-fully-competitive-with-fossil-fuels-is-it-time-to-switch-over
 * http://www.extremetech.com/extreme/194010-rare-earth-elements-are-this-centurys-crude-oil
 * http://www.extremetech.com/extreme/185649-the-new-dynomak-fusion-reactor-design-could-make-fusion-power-cheaper-than-coal
 * http://countercomplex.blogspot.com/2014/08/the-resource-leak-bug-of-our.html
 * http://www.extremetech.com/extreme/194696-an-antarctic-adventure-the-life-of-a-south-pole-communications-technician
-* http://seattletimes.com/html/nationworld/2025144284_apxjapanclimatefinancingcoalabridged.html
 * http://www.bloomberg.com/news/print/2014-12-05/musk-battery-works-fill-utilities-with-fear-and-promise.html
 * http://www.economist.com/news/technology-quarterly/21635332-jb-straubel-charged-more-electrifying-californian-carmaker-he
 

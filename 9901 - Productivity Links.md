@@ -8,6 +8,7 @@
 * http://www.acuriousmix.com/2014/09/03/designing-a-personal-knowledgebase/
 * http://7goldfish.com/Little%20know%20ways%20to%20think%20about%20dicipline
 * http://www.npr.org/blogs/health/2015/01/05/371894919/what-heroin-addiction-tells-us-about-changing-bad-habits
+* http://www.theguardian.com/education/2014/feb/27/musicians-better-language-learners?CMP=share_btn_fb
 * http://parenting.blogs.nytimes.com/2014/10/16/want-to-ace-that-test-get-the-right-kind-of-sleep/
 * http://www.smithsonianmag.com/science-nature/brains-make-decisions-way-alan-turing-cracked-codes-180954212/?no-ist
 * http://www.brainpickings.org/2014/01/22/brian-eno-visual-music-oblique-strategies/

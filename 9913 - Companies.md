@@ -153,6 +153,19 @@
 * http://www.economist.com/blogs/gulliver/2015/02/united-airlines-0
 
 
+## Energy Companies
+
+* http://seattletimes.com/html/nationworld/2025719611_apxtrainderailment.html
+* http://www.huffingtonpost.com/2014/10/27/gulf-oil-spill-bathtub-ring_n_6056348.html
+* http://seattletimes.com/html/nationworld/2025144284_apxjapanclimatefinancingcoalabridged.html
+* http://www.extremetech.com/extreme/195003-solar-and-wind-power-are-now-fully-competitive-with-fossil-fuels-is-it-time-to-switch-over
+* http://www.nakedcapitalism.com/2014/10/oil-gas-leases-fracking-rip-homeowners.html
+* http://uk.businessinsider.com/bps-deepwater-horizon-spill-has-left-tons-of-oil-on-the-gulfs-floor-2015-2
+* http://america.aljazeera.com/blogs/scrutineer/2015/1/31/january-sees-five-major-pipeline-leaks.html
+
+
+
+
 
 ## Misc
 

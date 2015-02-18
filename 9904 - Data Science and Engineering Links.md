@@ -542,6 +542,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://www.odbms.org/2014/11/strata-spark-tsunami-hadoop-world-part/
 * http://shop.oreilly.com/product/0636920035091.do
 * http://blogs.teradata.com/data-points/optimizing-disk-io-and-memory-for-big-data-vector-analysis/
+* http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html
 * http://www.slideshare.net/pacoid/tiny-batches-in-the-wine-shiny-new-bits-in-spark-streaming <- probabalistic data structures slide is handy
 * https://code.facebook.com/posts/382299771946304/audience-insights-query-engine-in-memory-integer-store-for-social-analytics-/
 * https://code.facebook.com/posts/1499322996995183/solving-the-mystery-of-link-imbalance-a-metastable-failure-state-at-scale/

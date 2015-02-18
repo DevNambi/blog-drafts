@@ -326,6 +326,7 @@
 * http://wrobstory.gitbooks.io/python-to-scala/
 * http://www.slideshare.net/Bozho/scala-the-good-the-bad-and-the-very-ugly
 * http://yefremov.net/blog/debugging-scala-compiler-magic/
+* http://databricks.com/blog/2015/02/17/introducing-dataframes-in-spark-for-large-scale-data-science.html
 
 
 
