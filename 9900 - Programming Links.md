@@ -384,6 +384,8 @@
 * http://www.postgres-xl.org/
 * http://queue.acm.org/detail.cfm?id=2696453 <- amazingly useful
 * http://blogs.msdn.com/b/psssql/archive/2015/01/28/sql-server-and-ssds-rdorr-s-learning-notes-part-1.aspx <- has great depth.
+* http://blogs.sqlsentry.com/aaronbertrand/developers-dbas/
+* http://www.brentozar.com/archive/2015/02/9-ways-to-lose-your-data/
 
 <li><a href="http://t.co/ZA3MOe15" time_added="1357660034" tags="">mrdenny: Reading: http://t.co/ZA3MOe15 Selective XML Index - Secondary Sele</a></li>
 <li><a href="http://t.co/wHxcpOOC" time_added="1356371201" tags="">BrentOzarULTD: New post: sp_BlitzIndex™ Holiday Week Edition http://t.co/wH</a></li>
