@@ -354,6 +354,7 @@
 * http://betterexplained.com/articles/linear-algebra-guide/
 * http://setosa.io/ev/eigenvectors-and-eigenvalues/
 * http://techeffigytutorials.blogspot.com/2015/02/the-genetic-algorithm-explained.html
+* http://www.machinedlearnings.com/2015/02/adversarial-scenarios-and-economies-of.html
 
 
 
