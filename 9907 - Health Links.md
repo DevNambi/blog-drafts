@@ -28,6 +28,7 @@
 * http://sunlightfoundation.com/blog/2013/10/30/First_lady_enlists_muppets/
 * http://i.imgur.com/H7hj5.jpg
 * http://stroke.ahajournals.org/content/early/2015/01/27/STROKEAHA.114.007894.abstract
+* http://www.salon.com/2015/02/18/scientists_figured_out_how_many_people_will_likely_get_cancer_from_drinking_soda/
 * http://time.com/3513875/soda-may-age-you-as-much-as-smoking/
 * http://www.bbc.com/news/magazine-29817519
 * http://well.blogs.nytimes.com/2014/10/30/a-heart-risk-in-drinking-water/?_r=0
