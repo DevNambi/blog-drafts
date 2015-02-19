@@ -231,6 +231,7 @@
 * http://www.chron.com/houston/article/Occupy-Houston-assassination-plot-records-won-t-6071015.php
 * http://www.netflix.com/WiMovie/70298455?trkid=13752289
 * http://wkbn.com/2015/02/05/niles-cop-disciplined-after-questionable-traffic-stop/
+* http://www.cbc.ca/news/world/in-fairfax-va-a-different-no-less-scary-police-shooting-1.2960995
 * http://www.vox.com/2015/2/17/8047461/dhs-problems
 * http://www.whas11.com/story/news/crime/2015/02/04/good-samaritan-tackles-off-duty-lmpd-officer-during-alleged-beating/22857419/
 * http://arstechnica.com/tech-policy/2015/02/video-recorded-arrest-gets-nypd-cop-indicted-on-assault-charges/
