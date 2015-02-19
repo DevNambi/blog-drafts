@@ -93,6 +93,8 @@
 * http://arstechnica.com/security/2015/02/how-omnipotent-hackers-tied-to-the-nsa-hid-for-14-years-and-were-found-at-last/
 * http://www.pcworld.com/article/2884952/equation-cyberspies-use-unrivaled-nsastyle-techniques-to-hit-iran-russia.html
 * http://arstechnica.com/security/2015/02/how-do-i-stop-this-virus-equation-group-victim-pleaded-for-help-online/
+* http://www.theverge.com/2015/2/19/8071453/nsa-gchq-snowden-sim-phone-security
+* https://firstlook.org/theintercept/2015/02/19/great-sim-heist/
 
 <li><a href="http://rt.com/usa/news/surveillance-spying-e-mail-citizens-178/" time_added="1354678483" tags="hn,important,personal tech">'Everyone in US under virtual surveillance' - NSA whistleblower — RT</a></li>
 
