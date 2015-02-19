@@ -16,6 +16,7 @@
 * http://www.nytimes.com/2014/10/14/us/for-supreme-court-first-amendment-sometimes-has-a-limit-its-doorstep.html
 * http://arstechnica.com/tech-policy/2014/10/in-a-first-tsa-announces-7-americans-removed-from-no-fly-list/
 * http://arstechnica.com/security/2014/10/fbi-director-to-citizens-let-us-spy-on-you/
+* http://www.economist.com/news/united-states/21643191-crop-prices-fall-farmers-grow-subsidies-instead-milking-taxpayers
 * http://www.bostonglobe.com/ideas/2014/10/18/vote-all-you-want-the-secret-government-won-change/jVSkXrENQlu8vNcBfMn9sL/story.html
 * http://www.theguardian.com/law/2014/oct/23/computer-users-damage-national-security-face-jail
 * http://managingresolutions.org/post/100917597601/the-wheels-are-falling-off-the-wagon-at-the-irs-a
@@ -84,6 +85,7 @@
 
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
 * http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/ <- an insight piece
+* http://nationalinterest.org/feature/are-submarines-about-become-obsolete-12253
 * http://www.pieria.co.uk/articles/why_the_worlds_biggest_military_keeps_losing_wars <- how politics and war intertwine
 * http://www.nytimes.com/2015/01/29/world/us-suddenly-goes-quiet-on-effort-to-bolster-afghan-forces.html
 * https://news.vice.com/article/i-didnt-join-the-taliban-because-i-was-poor-i-joined-because-i-was-angry-report-finds-injustice-not-unemployment-radicalizes-youth

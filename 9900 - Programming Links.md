@@ -52,6 +52,7 @@
 * http://bertolami.com/index.php?engine=blog&content=posts&detail=fundamentals-of-data-compression <- people should know compression
 * http://www.brentozar.com/archive/2015/02/slow-not-metric/ <- baselines, baselines, baselines
 * http://blog.samaltman.com/the-software-revolution
+* http://spin.atomicobject.com/2015/02/19/software-architect-role/
 
 
 @joshuajames Posit: the failure of most "system thinking" is in thinking the system is like a machine rather than an ecology.
@@ -145,6 +146,7 @@
 
 * http://martinfowler.com/bliki/SacrificialArchitecture.html
 * http://nerds.airbnb.com/maintaining-quality-scale/
+* http://devopschecklist.com/
 
 
 ## UI, UX, HCD
@@ -386,6 +388,8 @@
 * http://blogs.msdn.com/b/psssql/archive/2015/01/28/sql-server-and-ssds-rdorr-s-learning-notes-part-1.aspx <- has great depth.
 * http://blogs.sqlsentry.com/aaronbertrand/developers-dbas/
 * http://www.brentozar.com/archive/2015/02/9-ways-to-lose-your-data/
+* http://www.sqlteaching.com/
+* http://0a.io/0a-explains-set-theory-and-axiomatic-systems-with-pics-and-gifs
 
 <li><a href="http://t.co/ZA3MOe15" time_added="1357660034" tags="">mrdenny: Reading: http://t.co/ZA3MOe15 Selective XML Index - Secondary Sele</a></li>
 <li><a href="http://t.co/wHxcpOOC" time_added="1356371201" tags="">BrentOzarULTD: New post: sp_BlitzIndex™ Holiday Week Edition http://t.co/wH</a></li>

@@ -31,6 +31,7 @@
 * https://www.youtube.com/user/PyDataTV
 * http://orgtheory.wordpress.com/2014/12/23/what-programming-tools-should-computational-sociologists-know/
 * http://www.rstudio.com/wp-content/uploads/2015/01/data-wrangling-cheatsheet.pdf
+* https://districtdatalabs.silvrback.com/intro-to-r-for-microsoft-excel-users
 
 
 
@@ -334,6 +335,7 @@
 * http://blog.shriphani.com/2014/11/12/the-isomap-algorithm/
 * http://karpathy.github.io/neuralnets/
 * http://machinelearningmastery.com/building-a-production-machine-learning-infrastructure/
+* http://nbtest.herokuapp.com/github/fonnesbeck/Bios366/blob/master/notebooks/Section3_3-Expectation-Maximization.ipynb
 * http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 * http://datascopeanalytics.com/what-we-think/2014/09/18/hipster-classifier-icebreaker
 * http://research.microsoft.com/pubs/192769/tricks-2012.pdf
@@ -423,6 +425,7 @@
 * http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/
 * http://jmozah.github.io/links/
 * http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/
+* http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/facebook-ai-director-yann-lecun-on-deep-learning
 
 
 

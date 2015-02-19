@@ -16,10 +16,12 @@
 * https://firstlook.org/theintercept/2015/01/28/canada-cse-levitation-mass-surveillance/
 * http://securelist.com/blog/research/68732/the-great-bank-robbery-the-carbanak-apt/
 * http://thenextweb.com/insider/2015/02/19/lenovo-caught-installing-adware-new-computers/
+* http://news.lenovo.com/article_display.cfm?article_id=1929&cid=ww:social:147924660:147924659:TWITTER:lenovo:*%20Customer%20Service%20and%20Support&linkId=12450493
 * http://arstechnica.com/security/2015/02/psa-your-crypto-apps-are-useless-unless-you-check-them-for-backdoors/
 * http://cwe.mitre.org/top25/
 * http://recode.net/2015/01/12/dont-ignore-the-simple-cyber-attacks-says-security-blogger-brian-krebs-qa/
 * https://medium.com/@SwiftOnSecurity/a-story-about-jessica-and-her-computer-e400fa9fd4e
+* http://www.wired.com/2015/02/hacker-claims-feds-hit-44-felonies-refused-fbi-spy/
 * http://www.anthemfacts.com/
 * http://www.extremetech.com/mobile/197346-google-throws-nearly-a-billion-android-users-under-the-bus-refuses-to-patch-os-vulnerability
 * http://arstechnica.com/security/2014/10/dozens-of-european-atms-rooted-allowing-criminals-to-easily-cash-out/
