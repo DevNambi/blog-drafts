@@ -87,6 +87,7 @@
 * http://www.pieria.co.uk/articles/why_the_worlds_biggest_military_keeps_losing_wars <- how politics and war intertwine
 * http://www.nytimes.com/2015/01/29/world/us-suddenly-goes-quiet-on-effort-to-bolster-afghan-forces.html
 * https://news.vice.com/article/i-didnt-join-the-taliban-because-i-was-poor-i-joined-because-i-was-angry-report-finds-injustice-not-unemployment-radicalizes-youth
+* http://www.theguardian.com/us-news/2015/feb/18/guantanamo-torture-chicago-police-brutality
 * http://www.publicintegrity.org/2015/02/10/16735/lawyer-moved-halliburton-subsidiary-bribes-through-secret-swiss-hsbc-accounts
 * http://projects.wsj.com/lobotomyfiles/
 * http://www.nytimes.com/2014/12/27/us/politics/after-scrutiny-cia-mandate-is-untouched-.html
@@ -234,6 +235,7 @@
 * http://www.whas11.com/story/news/crime/2015/02/04/good-samaritan-tackles-off-duty-lmpd-officer-during-alleged-beating/22857419/
 * http://arstechnica.com/tech-policy/2015/02/video-recorded-arrest-gets-nypd-cop-indicted-on-assault-charges/
 * http://kansasexposed.org/2015/02/13/wpd-conducts-violent-no-knock-raid-guess-what-they-found/
+* http://www.theguardian.com/us-news/2015/feb/18/guantanamo-torture-chicago-police-brutality
 * http://www.dailykos.com/story/2015/02/16/1364713/-St-Louis-Police-Mayor-did-everything-they-could-for-you-to-not-see-this-video-of-police-brutality
 * http://alternativemediasyndicate.com/2015/02/08/police-bombing-residential-neighborhood-that-they-dont-want-you-to-hear-about-this-black-history-month/
 * http://fusion.net/story/41931/inside-the-prison-systems-illicit-digital-world/
