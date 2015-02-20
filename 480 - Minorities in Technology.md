@@ -27,6 +27,8 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * https://medium.com/@susanjohnson/hi-im-a-mom-and-a-start-up-founder-my-yc-story-3b8c8650ae95
 * http://www.nytimes.com/2015/01/11/opinion/sunday/speaking-while-female.html?_r=0
 * http://www.rollingstone.com/culture/features/anita-sarkeesian-gamergate-interview-20141017
+* https://medium.com/@kelseyinnis/on-the-wadhwa-within-and-leaving-4694d02111e0 <- amazing
+* https://medium.com/@nmsanchez/which-women-in-tech-371e721e71c4
 * http://kernelmag.dailydot.com/issue-sections/headline-story/11217/why-2014-was-actually-a-positive-year-for-women-in-tech/
 * http://www.rawstory.com/rs/2014/10/whites-riot-over-pumpkins-in-nh-and-twitter-turns-it-into-epic-lesson-about-ferguson/
 * https://twitter.com/BecomingDataSci/lists/women-in-data-science/members
