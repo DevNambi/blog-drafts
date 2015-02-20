@@ -17,6 +17,7 @@
 * http://securelist.com/blog/research/68732/the-great-bank-robbery-the-carbanak-apt/
 * http://thenextweb.com/insider/2015/02/19/lenovo-caught-installing-adware-new-computers/
 * http://news.lenovo.com/article_display.cfm?article_id=1929&cid=ww:social:147924660:147924659:TWITTER:lenovo:*%20Customer%20Service%20and%20Support&linkId=12450493
+* http://blog.erratasec.com/2015/02/extracting-superfish-certificate.html?m=1
 * http://arstechnica.com/security/2015/02/psa-your-crypto-apps-are-useless-unless-you-check-them-for-backdoors/
 * http://cwe.mitre.org/top25/
 * http://recode.net/2015/01/12/dont-ignore-the-simple-cyber-attacks-says-security-blogger-brian-krebs-qa/
