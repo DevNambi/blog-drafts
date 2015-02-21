@@ -136,6 +136,7 @@
 ## Poverty, Class Warfare, 'American Dream'
 
 * http://www.gallup.com/opinion/chairman/181469/big-lie-unemployment.aspx
+* http://pndblog.typepad.com/pndblog/2015/02/infographic-the-millennial-wheel-of-disengagement.html
 * http://www.nakedcapitalism.com/2015/02/wolf-richter-something-rotten-piling-economy.html
 * http://imgur.com/a/gt2Gb <- where do rich people live?
 * http://www.salon.com/2015/02/10/5_facts_that_show_half_of_america_is_seriously_struggling_partner/
