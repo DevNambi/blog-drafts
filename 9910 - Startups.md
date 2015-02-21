@@ -44,6 +44,7 @@
 * https://medium.com/matter/hunting-task-wabbits-c60679bad0f6
 * https://hbr.org/2015/01/the-sharing-economy-isnt-about-sharing-at-all
 * http://www.fastcompany.com/3042248/the-gig-economy-wont-last-because-its-being-sued-to-death
+* http://www.nytimes.com/2015/02/22/magazine/meet-the-unlikely-airbnb-hosts-of-japan.html
 
 
 "The incapacity to see structurally: what you value (in the service - freedom) is the values (f-k the law, employees) that brings you that" - https://twitter.com/camerontw

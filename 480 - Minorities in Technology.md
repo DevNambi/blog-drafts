@@ -64,6 +64,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * http://blog.jessitron.com/2015/01/systems-thinking-about-wit.html
 * http://pastebin.com/3jAQARCy <- incredibly troubling
 * http://www.reddit.com/r/IAmA/comments/2syfmu/happy_mlk_day_iama_black_computer_scientist_who/?sort=top
+* http://www.nytimes.com/2015/02/21/opinion/ilyasah-shabazz-what-would-malcolm-x-think.html?_r=0
 
 
 
