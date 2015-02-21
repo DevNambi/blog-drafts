@@ -15,9 +15,6 @@
 * https://www.schneier.com/blog/archives/2015/01/the_security_of_10.html
 * https://firstlook.org/theintercept/2015/01/28/canada-cse-levitation-mass-surveillance/
 * http://securelist.com/blog/research/68732/the-great-bank-robbery-the-carbanak-apt/
-* http://thenextweb.com/insider/2015/02/19/lenovo-caught-installing-adware-new-computers/
-* http://news.lenovo.com/article_display.cfm?article_id=1929&cid=ww:social:147924660:147924659:TWITTER:lenovo:*%20Customer%20Service%20and%20Support&linkId=12450493
-* http://blog.erratasec.com/2015/02/extracting-superfish-certificate.html?m=1
 * http://arstechnica.com/security/2015/02/psa-your-crypto-apps-are-useless-unless-you-check-them-for-backdoors/
 * http://cwe.mitre.org/top25/
 * http://recode.net/2015/01/12/dont-ignore-the-simple-cyber-attacks-says-security-blogger-brian-krebs-qa/
@@ -76,7 +73,15 @@
 <li><a href="http://t.co/HjVVa6vi" time_added="1356885103" tags="">datachick: Exclusive: Hacker nabs 3m Verizon customer records http://t.co/H</a></li>
 
 
+#### Lenovo / Superfish
 
+* http://www.wired.com/2015/02/lenovo-superfish/
+* http://blog.atomicinc.com/2015/02/20/superfish-or-stupidfish-2323/
+* http://arstechnica.com/security/2015/02/lenovo-pcs-ship-with-man-in-the-middle-adware-that-breaks-https-connections/
+* http://arstechnica.com/security/2015/02/lenovo-cto-says-we-didnt-do-enough-promises-to-wipe-superfish-off-pcs/
+* http://thenextweb.com/insider/2015/02/19/lenovo-caught-installing-adware-new-computers/
+* http://news.lenovo.com/article_display.cfm?article_id=1929&cid=ww:social:147924660:147924659:TWITTER:lenovo:*%20Customer%20Service%20and%20Support&linkId=12450493
+* http://blog.erratasec.com/2015/02/extracting-superfish-certificate.html?m=1
 
 
 
@@ -96,6 +101,7 @@
 * http://arstechnica.com/security/2015/02/how-do-i-stop-this-virus-equation-group-victim-pleaded-for-help-online/
 * http://www.theverge.com/2015/2/19/8071453/nsa-gchq-snowden-sim-phone-security
 * https://firstlook.org/theintercept/2015/02/19/great-sim-heist/
+* http://arstechnica.com/tech-policy/2015/02/sim-card-makers-hacked-by-nsa-and-gchq-leaving-cell-networks-wide-open/
 
 <li><a href="http://rt.com/usa/news/surveillance-spying-e-mail-citizens-178/" time_added="1354678483" tags="hn,important,personal tech">'Everyone in US under virtual surveillance' - NSA whistleblower — RT</a></li>
 

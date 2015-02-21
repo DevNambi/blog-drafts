@@ -266,6 +266,7 @@
 * http://andrewgelman.com/2014/12/25/common-sense-statistics/
 * https://medium.com/the-physics-arxiv-blog/cause-and-effect-the-revolutionary-new-statistical-test-that-can-tease-them-apart-ed84a988e <- causal inference
 * http://www.evanmiller.org/how-not-to-run-an-ab-test.html
+* http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego <- a great way to learn
 
 
 
