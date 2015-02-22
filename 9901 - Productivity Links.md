@@ -19,6 +19,7 @@
 * http://conversableeconomist.blogspot.co.uk/2014/12/focusing-behavioral-economics-on.html
 * http://7goldfish.com/Little%20know%20ways%20to%20think%20about%20dicipline
 * http://hollywouldifshecould.net/2012/12/15-small-ideas-to-kickstart-big-change/
+* http://www.wsj.com/articles/the-questions-we-should-ask-about-intelligence-1424275812
 * http://chronicle.com/article/Youre-Distracted-This/138079/
 * http://www.economist.com/news/christmas-specials/21636612-time-poverty-problem-partly-perception-and-partly-distribution-why?fsrc=scn/tw/te/pe/ed/whyiseveryonesobusy
 * http://arstechnica.com/staff/2014/10/harnessing-depression-one-ars-writers-journey/
