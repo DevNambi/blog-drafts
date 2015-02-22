@@ -223,6 +223,7 @@
 * http://seattletimes.com/html/nationworld/2025719637_apxpolicerestraint.html
 * http://countercurrentnews.com/2015/02/cop-threatens-journalist-arrest-for-arguing-with-him-on-facebook/
 * http://www.nytimes.com/2015/02/15/us/law-enforcement-issues-in-missouri-and-other-states-spur-unlikely-alliances.html
+* http://www.reddit.com/r/news/comments/2wpb40/2000_inmates_at_texas_prison_have_seized_control/ <- private prisons
 * http://www.cnn.com/2015/02/12/us/alabama-police-beating/index.html
 * http://www.winknews.com/2015/02/14/jail-report-details-recordings-of-attorneyclient-consultations/
 * http://www.theverge.com/2015/2/12/8028849/facebook-use-in-jail-solitary-confinement 
