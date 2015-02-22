@@ -223,6 +223,7 @@
 * http://countercurrentnews.com/2015/02/cop-threatens-journalist-arrest-for-arguing-with-him-on-facebook/
 * http://www.nytimes.com/2015/02/15/us/law-enforcement-issues-in-missouri-and-other-states-spur-unlikely-alliances.html
 * http://www.cnn.com/2015/02/12/us/alabama-police-beating/index.html
+* http://www.winknews.com/2015/02/14/jail-report-details-recordings-of-attorneyclient-consultations/
 * http://www.theverge.com/2015/2/12/8028849/facebook-use-in-jail-solitary-confinement 
 * http://www.theguardian.com/commentisfree/2015/feb/05/prosecutors-immunity-unethical-unlawful-acts
 * http://www.seattlepi.com/local/article/Man-pummeled-by-Seattle-police-Video-saved-me-6086252.php

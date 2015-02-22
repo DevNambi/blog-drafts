@@ -7,6 +7,7 @@
 * http://www.defmacro.org/2014/10/03/engman.html
 * https://gist.github.com/kylebrandt/89dc754c658340e87d97
 * http://www.slideshare.net/ericschmidt76/how-google-works-final-1
+* http://www.farnamstreetblog.com/2015/02/ben-horowitz-the-law-of-crappy-people/
 * http://www.dailykos.com/story/2014/07/08/1312523/-These-Two-Studies-Turn-Wall-Street-s-Economic-Argument-On-Its-Head
 * http://firstround.com/article/This-is-Why-People-Leave-Your-Company
 * http://the-toast.net/2014/10/27/employer-put-fml-fmla/
