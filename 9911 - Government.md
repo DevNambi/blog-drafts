@@ -216,6 +216,7 @@
 
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
+* http://www.nytimes.com/2015/02/22/nyregion/even-as-many-eyes-watch-brutality-at-rikers-island-persists.html
 * http://www.theroot.com/articles/culture/2014/02/cop_breaks_10_year_old_s_leg_for_filming_him.html
 * http://www.waaytv.com/appnews/madison-officer-charged-with-assault-for-use-of-force-incident/article_7b09d144-b2fe-11e4-a0e4-b339eed5e1af.html
 * http://voiceofsandiego.org/all-narratives/police-misconduct/their-crime-walking-into-their-own-home/
