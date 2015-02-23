@@ -17,6 +17,7 @@
 * http://www.theatlantic.com/health/archive/2015/01/the-selling-of-the-avocado/385047/?single_page=true
 * http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13793.html
 * http://qz.com/271961/the-complete-guide-to-packing-a-thrifty-lunch-thats-better-than-takeout/
+* http://digest.bps.org.uk/2015/02/the-backfire-effect-correcting-false.html
 * http://theconversation.com/the-mercury-level-in-your-tuna-is-getting-higher-37147
 * http://world.openfoodfacts.org/ <- for side business
 * http://www.vrg.org/blog/2013/03/14/why-so-many-food-label-disclaimers/
