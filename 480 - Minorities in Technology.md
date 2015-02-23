@@ -12,6 +12,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 
 * http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/#the-list
 * http://www.latimes.com/business/la-fi-women-tech-20150222-story.html#page=1
+* https://devmynd.com/blog/2015-2-mind-the-gap
 * https://www.linkedin.com/pulse/my-jaw-dropped-ah-ha-manager-moment-sallie-krawcheck
 * http://www.bustle.com/articles/63466-im-brianna-wu-and-im-risking-my-life-standing-up-to-gamergate
 * https://medium.com/@jolenecreighton/heres-what-its-like-for-a-woman-to-send-a-job-rejection-to-a-man-17af3090c501
