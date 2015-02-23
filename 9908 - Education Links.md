@@ -356,6 +356,7 @@
 * http://highereddatastories.blogspot.com/2015/02/the-race-goes-on.html
 * http://econlog.econlib.org/archives/2015/02/signaling_in_k-.html
 * http://stuartspencestuff.blogspot.com/2015/02/many-mcgill-education-students-cannot.html
+* https://www.insidehighered.com/quicktakes/2015/02/23/second-umkc-professor-resigns-ranking-scandal
 
 
 ### Student Culture, Sexual Assault, Assault
