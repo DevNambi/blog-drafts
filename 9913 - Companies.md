@@ -172,6 +172,7 @@
 ## Misc
 
 * http://www.reuters.com/article/2014/11/16/us-usa-chemicals-death-idUSKCN0J001B20141116
+* http://www.bbc.com/news/business-31596323
 * http://www.wired.com/2015/02/etsy-not-good-for-crafters/
 * http://money.cnn.com/2014/11/20/news/companies/fedex-driver-lawsuit/index.html?hpt=hp_t2
 * http://www.komonews.com/news/business/Railroads-seek-one-person-crews-for-freight-trains-286586911.html
