@@ -93,6 +93,7 @@
 * http://equitablegrowth.org/research/achievement-gap/ <- why I do what I do
 * http://www.wsj.com/articles/big-gap-in-college-graduation-rates-for-rich-and-poor-study-finds-1422997677
 * http://www.nytimes.com/2015/02/07/upshot/is-the-professor-bossy-or-brilliant-much-depends-on-gender.html?_r=0&abt=0002&abg=1
+* http://nscresearchcenter.org/signaturereport8-statesupplement/
 * http://coryliu.com/post/109988042607/a-dirty-secret-most-people-probably-shouldnt-go
 * https://www.insidehighered.com/news/2015/02/17/two-year-colleges-washington-state-expand-competency-based-project-business-degree
 * https://www.insidehighered.com/news/2015/02/19/unc-board-panel-wants-shut-down-center-poverty-led-faculty-member-who-criticizes

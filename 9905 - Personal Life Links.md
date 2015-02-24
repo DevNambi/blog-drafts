@@ -28,6 +28,7 @@
 * http://www.nytimes.com/2015/02/01/opinion/sunday/the-only-baby-book-youll-ever-need.html
 * http://www.nytimes.com/2014/10/17/us/quality-of-words-not-quantity-is-crucial-to-language-skills-study-finds.html
 * http://www.theatlantic.com/business/archive/2013/10/first-children-are-smarter-but-why/280725/
+* https://weowls.wordpress.com/2015/02/24/ikea-table-parenting/
 * http://www.newrepublic.com/article/120939/maternity-leave-policies-america-hurt-working-moms
 * http://solveforinteresting.com/offspring-edited/
 * https://medium.com/re-form/simcity-that-i-used-to-know-d5d8c49e3e1d

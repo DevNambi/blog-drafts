@@ -27,18 +27,19 @@
 * http://www.nytimes.com/2014/10/28/opinion/londons-housing-boom.html
 * http://www.nytimes.com/2014/11/27/business/international/france-has-second-thoughts-on-its-35-hour-workweek.html?_r=0
 * http://www.bbc.com/news/business-30310832
-* http://www.nakedcapitalism.com/2014/12/greece-eurozones-rescue-troika-forgive-greeces-debt.html
 * http://www.nytimes.com/2014/12/27/world/even-loyalty-no-guarantee-against-putin.html <- might makes right. But now it's at the hands of a check and not a gun.
 * http://www.theatlantic.com/international/archive/2015/01/europe-mortgage-crisis-switzerland-franc/384958/
 * http://mechanicalforex.com/2015/01/trading-a-real-market-what-the-swiss-national-bank-taught-retail-traders-today.html
 * http://www.businessinsider.com/denmark-just-followed-switzerland-and-slashed-interest-rates-as-europe-stagnates-2015-1
 * http://www.bbc.com/news/world-europe-30864088
 * http://www.balkaninsight.com/en/article/the-great-leap-rightward
+* http://www.reuters.com/article/2015/02/24/us-germany-capitalism-idUSKBN0LS1AI20150224?feedType=RSS&feedName=worldNews
 
 
 
 #### Greece
 
+* http://www.nakedcapitalism.com/2014/12/greece-eurozones-rescue-troika-forgive-greeces-debt.html
 * http://www.nytimes.com/2015/01/26/world/europe/greek-election-syriza.html?_r=0
 * http://www.nytimes.com/2015/02/17/business/international/greece-debt-eurozone-finance-ministers-meeting.html
 * http://www.nytimes.com/2015/02/16/opinion/paul-krugman-weimar-on-the-aegean.html
