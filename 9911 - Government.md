@@ -12,6 +12,7 @@
 * http://mobile.nytimes.com/2014/10/12/business/no-smoke-no-mirrors-the-dutch-pension-plan.html
 * http://www.nytimes.com/2015/02/08/magazine/the-shame-of-americas-family-detention-camps.html?_r=0
 * http://www.nybooks.com/articles/archives/2015/feb/19/james-risen-reporter-resists-his-government/
+* http://thinkprogress.org/climate/2015/02/23/3625717/duke-energy-coal-ash-charges/
 * http://boingboing.net/2015/01/22/barrettbrown.html
 * http://www.nytimes.com/2014/10/14/us/for-supreme-court-first-amendment-sometimes-has-a-limit-its-doorstep.html
 * http://arstechnica.com/tech-policy/2014/10/in-a-first-tsa-announces-7-americans-removed-from-no-fly-list/
