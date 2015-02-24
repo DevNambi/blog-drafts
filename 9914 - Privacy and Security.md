@@ -30,6 +30,7 @@
 
 * http://www.theatlantic.com/technology/archive/2014/09/why-privacy-policies-are-so-inscrutable/379615/
 * http://seattletimes.com/html/businesstechnology/2025244750_apxtecidentitytheftthehassle.html
+* http://www.theatlantic.com/technology/archive/2015/02/why-people-probably-wont-pay-to-keep-their-web-history-secret/385765/
 * https://blog.mozilla.org/security/2015/01/21/meta-referrer/
 * http://fusion.net/story/49806/beware-houseguests-cheap-home-surveillance-cameras-are-everywhere-now/
 * http://webpolicy.org/2015/01/14/turn-verizon-zombie-cookie/

@@ -52,6 +52,7 @@
 * http://www.nytimes.com/2015/02/06/education/fewer-top-graduates-want-to-join-teach-for-america.html
 * http://blogs.seattletimes.com/educationlab/2014/12/31/guest-new-math-textbooks-are-the-right-choice-for-seattle-schools/
 * http://www.psypost.org/2015/02/many-education-experts-in-news-stories-lack-expertise-study-finds-31903
+* http://www.wired.com/2015/02/kids-school-missing-tech-revolution-fault/
 * http://seattletimes.com/html/education/2025176296_edlabkentdisciplinexml.html
 * http://www.washingtonpost.com/blogs/answer-sheet/wp/2013/05/15/what-if-finlands-great-teachers-taught-in-u-s-schools-not-what-you-think/
 * http://www.chrisgiven.com/schooldebt/

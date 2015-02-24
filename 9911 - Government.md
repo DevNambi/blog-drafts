@@ -9,6 +9,8 @@
 * http://www.dailydot.com/politics/jeremy-hammond-terrorist-watchlist-fbi/
 * http://www.cnbc.com/id/102409348
 * http://wabe.org/post/how-fema-uses-waffle-house-measure-disasters
+* http://www.nytimes.com/2015/02/24/world/africa/as-tourism-sags-on-kenyan-coast-terrorists-could-lure-the-unemployed.html?_r=0
+* http://www.seattletimes.com/seattle-news/politics/loss-of-lifeline-to-somalia-shocks-immigrants-here/
 * http://mobile.nytimes.com/2014/10/12/business/no-smoke-no-mirrors-the-dutch-pension-plan.html
 * http://www.nytimes.com/2015/02/08/magazine/the-shame-of-americas-family-detention-camps.html?_r=0
 * http://www.nybooks.com/articles/archives/2015/feb/19/james-risen-reporter-resists-his-government/
@@ -19,6 +21,7 @@
 * http://arstechnica.com/security/2014/10/fbi-director-to-citizens-let-us-spy-on-you/
 * http://www.economist.com/news/united-states/21643191-crop-prices-fall-farmers-grow-subsidies-instead-milking-taxpayers
 * http://www.bostonglobe.com/ideas/2014/10/18/vote-all-you-want-the-secret-government-won-change/jVSkXrENQlu8vNcBfMn9sL/story.html
+* http://www.vox.com/2015/2/23/8052365/nasa-budget-europa
 * http://www.theguardian.com/law/2014/oct/23/computer-users-damage-national-security-face-jail
 * http://managingresolutions.org/post/100917597601/the-wheels-are-falling-off-the-wagon-at-the-irs-a
 * http://www.nytimes.com/2014/10/29/opinion/weak-oversight-deadly-cars.html
@@ -87,6 +90,8 @@
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
 * http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/ <- an insight piece
 * http://nationalinterest.org/feature/are-submarines-about-become-obsolete-12253
+* http://www.nytimes.com/2015/02/25/us/jailed-ex-army-officer-has-support-but-not-from-his-platoon.html?_r=0
+* http://www.wired.com/2015/02/edmund-clark-the-mountains-of-majeed/
 * http://www.pieria.co.uk/articles/why_the_worlds_biggest_military_keeps_losing_wars <- how politics and war intertwine
 * http://www.nytimes.com/2015/01/29/world/us-suddenly-goes-quiet-on-effort-to-bolster-afghan-forces.html
 * https://news.vice.com/article/i-didnt-join-the-taliban-because-i-was-poor-i-joined-because-i-was-angry-report-finds-injustice-not-unemployment-radicalizes-youth

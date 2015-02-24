@@ -374,9 +374,15 @@
 <li><a href="http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers" time_added="1362410741" tags="cloud,hn">My First 5 Minutes On A Server; Or, Essential Security for Linux Servers | </a></li>
 
 
+* http://www.slideshare.net/brendangregg/scale2015-linux-perfprofiling
+* http://blog.scoutapp.com/articles/2015/02/24/understanding-linuxs-cpu-stats
+
+
+
 ## SQL and Databases
 
 * http://www.andreas-dewes.de/en/2015/queens-of-the-data-age-abusing-common-table-expressions-to-solve-the-eight-queens-problem-in-sql/
+* http://citusdata.com/blog/114-how-to-build-your-distributed-database
 * https://aws.amazon.com/blogs/aws/highly-scalable-mysql-compat-rds-db-engine/
 * http://use-the-index-luke.com/blog/2015-02/modern-sql
 * https://foundationdb.com/key-value-store/white-papers/future-of-nosql

@@ -7,6 +7,7 @@
 * http://seattletimes.com/html/nationworld/2025702560_bankcyberxml.html
 * http://arstechnica.com/security/2015/02/why-even-strong-crypto-wouldnt-protect-ssns-exposed-in-anthem-breach/
 * https://www.codeandsec.com/Supreme-Leaders-Not-That-Supreme-Malwares
+* http://bits.blogs.nytimes.com/2015/02/23/linkedin-settles-class-action-suit-over-weak-password-security/
 * https://xato.net/passwords/ten-million-passwords/
 * https://www.owasp.org/index.php/Authentication_Cheat_Sheet
 * http://www.wired.com/2015/01/state-of-our-unions-data-insecure/
@@ -83,26 +84,36 @@
 * http://thenextweb.com/insider/2015/02/19/lenovo-caught-installing-adware-new-computers/
 * http://news.lenovo.com/article_display.cfm?article_id=1929&cid=ww:social:147924660:147924659:TWITTER:lenovo:*%20Customer%20Service%20and%20Support&linkId=12450493
 * http://blog.erratasec.com/2015/02/extracting-superfish-certificate.html?m=1
+* http://techreport.com/news/27849/the-rest-of-the-story-komodia-lenovo-and-superfish
+* http://arstechnica.com/security/2015/02/still-smarting-from-https-busting-superfish-debacle-lenovo-says-sorry/
+* http://qntra.net/2015/02/the-superfish-funder-list/
+
+
 
 
 
 #### NSA
 
 * http://arstechnica.com/tech-policy/2014/11/us-senate-falls-2-votes-short-of-shutting-down-nsa-phone-spying/
+* http://www.reddit.com/r/IAmA/comments/2wwdep/we_are_edward_snowden_laura_poitras_and_glenn/
 * http://blog.cryptographyengineering.com/2014/12/on-new-snowden-documents.html
 * http://arstechnica.com/security/2014/10/nsas-core-secrets-suggests-agents-inside-firms-in-us-abroad/
 * http://blog.cryptographyengineering.com/2015/01/hopefully-last-post-ill-ever-write-on.html
+* http://arstechnica.com/tech-policy/2015/02/yahoo-exec-goes-mano-a-mano-with-nsa-director-over-crypo-backdoors/
 * http://www.washingtonpost.com/world/national-security/google-says-it-fought-gag-orders-in-wikileaks-investigation/2015/01/28/e62bfd04-a5c9-11e4-a06b-9df2002b86a0_story.html
 * http://www.newscientist.com/article/dn26801-mass-surveillance-not-effective-for-finding-terrorists.html
 * http://www.spiegel.de/international/world/regin-malware-unmasked-as-nsa-tool-after-spiegel-publishes-source-code-a-1015255.html
 * http://www.nationaljournal.com/tech/edward-snowden-is-more-admired-than-president-obama-in-germany-and-russia-20150205
 * http://www.reuters.com/article/2015/02/16/us-usa-cyberspying-idUSKBN0LK1QV20150216
+* http://www.wired.com/2015/02/nsa-firmware-hacking/
 * http://arstechnica.com/security/2015/02/how-omnipotent-hackers-tied-to-the-nsa-hid-for-14-years-and-were-found-at-last/
 * http://www.pcworld.com/article/2884952/equation-cyberspies-use-unrivaled-nsastyle-techniques-to-hit-iran-russia.html
 * http://arstechnica.com/security/2015/02/how-do-i-stop-this-virus-equation-group-victim-pleaded-for-help-online/
 * http://www.theverge.com/2015/2/19/8071453/nsa-gchq-snowden-sim-phone-security
 * https://firstlook.org/theintercept/2015/02/19/great-sim-heist/
+* http://www.wired.com/2015/02/firmware-vulnerable-hacking-can-done/
 * http://arstechnica.com/tech-policy/2015/02/sim-card-makers-hacked-by-nsa-and-gchq-leaving-cell-networks-wide-open/
+* http://www.wired.com/2015/02/snowden-spy-agencies-screwed-us-hacking-crypto-keys/
 
 <li><a href="http://rt.com/usa/news/surveillance-spying-e-mail-citizens-178/" time_added="1354678483" tags="hn,important,personal tech">'Everyone in US under virtual surveillance' - NSA whistleblower — RT</a></li>
 

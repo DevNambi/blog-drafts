@@ -41,6 +41,7 @@
 
 * http://www.nakedcapitalism.com/2014/12/greece-eurozones-rescue-troika-forgive-greeces-debt.html
 * http://www.nytimes.com/2015/01/26/world/europe/greek-election-syriza.html?_r=0
+* http://www.nakedcapitalism.com/2015/02/troika-not-happy-initial-draft-greek-reforms-eurogroup-still-mix.html
 * http://www.nytimes.com/2015/02/17/business/international/greece-debt-eurozone-finance-ministers-meeting.html
 * http://www.nytimes.com/2015/02/16/opinion/paul-krugman-weimar-on-the-aegean.html
 * http://www.nakedcapitalism.com/2015/02/varoufakis-charges-eurogroup-bad-faith-dealing-negotiations.html
@@ -102,6 +103,7 @@
 * http://www.nakedcapitalism.com/2014/12/summer-rerun-exactly-lehmans-130-billion-go.html
 * http://www.nakedcapitalism.com/2014/12/airing-grievances.html
 * http://www.nakedcapitalism.com/2014/12/why-bother-with-loan-officers.html
+* http://www.nakedcapitalism.com/2015/02/bill-black-hsbc-ceo-pay-outrageous-use-tax-havens-hide-peers.html
 * http://www.nakedcapitalism.com/2014/12/climate-change-triage-protect-money-people.html
 * http://www.nakedcapitalism.com/2015/01/paper-exposing-private-equity-manipulation-electricity-prices-nixed-editor-private-equity-ties.html
 * http://www.nakedcapitalism.com/2015/01/fed-testimony-aig-bailout-trial-walks-like-perjury-quacks-like-perjury.html
@@ -131,6 +133,11 @@
 * http://www.geekwire.com/2015/hacking-housing-market-tech-teams-use-open-data-help-people-find-affordable-homes/
 * http://www.nakedcapitalism.com/2015/02/blackstoneevicts.html
 * http://mobile.nytimes.com/2015/02/13/upshot/how-mortgage-fraud-made-the-financial-crisis-worse.html
+
+
+## Subprime Cars
+
+* http://www.nakedcapitalism.com/2015/02/wolf-richter-subprime-pump-dump-frenzy-heats.html
 
 
 

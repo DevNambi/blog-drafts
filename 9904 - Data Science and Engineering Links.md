@@ -416,7 +416,9 @@
 <li><a href="http://oreillynet.com/pub/e/2538" time_added="1363282942" tags="data science,ml">Webcast: Deep Learning - The Biggest Data Science Breakthrough of the Decad</a></li>
 
 * http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
+* https://chronicle.com/article/article-content/190147/
 * http://blog.wtf.sg/
+* https://timdettmers.wordpress.com/2014/08/14/which-gpu-for-deep-learning/
 * http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
 * https://www.youtube.com/watch?v=S75EdAcXHKk
 * http://erikbern.com/?p=841
@@ -454,6 +456,7 @@
 * http://blog.udacity.com/2014/12/3-paths-first-data-analyst-job.html
 * http://crastina.se/theres-no-projects-like-side-projects/
 * http://jeremykun.com/2015/02/16/a-proofless-introduction-to-information-theory/
+* http://arstechnica.com/information-technology/2015/02/the-big-deal-about-big-data-your-guide-to-what-the-heck-it-actually-means/
 
 Peter Norvig Quote: "More data beats clever algorithms, but better data beats more data."
 
