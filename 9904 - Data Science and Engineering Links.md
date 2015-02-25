@@ -222,6 +222,7 @@
 * http://www.brianckeegan.com/2014/10/on-starting-a-new-job/
 * https://gigaom.com/2014/12/04/want-to-make-data-scientist-money-learn-data-science-tools/
 * http://pawelmhm.github.io/python/pandas/2015/01/01/python-job-analytics.html
+* http://www.quora.com/What-are-20-questions-to-detect-fake-data-scientists
 
 
 
@@ -391,6 +392,7 @@
 <li><a href="http://www.johnmyleswhite.com/notebook/2009/02/25/text-processing-in-r/" time_added="1406321391" tags="">Text Processing in R</a></li>
 
 * http://textvis.lnu.se/
+* http://bugra.github.io/work/notes/2015-02-21/topic-modeling-for-the-uninitiated/
 
 
 
