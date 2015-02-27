@@ -222,6 +222,7 @@
 
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
+* http://countercurrentnews.com/2015/02/leaked-police-department-memo-threatens-black-officers/
 * http://www.komonews.com/news/national/Video-shows-officer-pushing-slapping-man-at-Fla-bus-terminal-293855971.html
 * http://www.nytimes.com/2015/02/22/nyregion/even-as-many-eyes-watch-brutality-at-rikers-island-persists.html
 * http://www.theroot.com/articles/culture/2014/02/cop_breaks_10_year_old_s_leg_for_filming_him.html
