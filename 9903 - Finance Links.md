@@ -78,6 +78,7 @@
 * http://www.nakedcapitalism.com/2014/09/sec-coverup-private-equity-worse-tbtf-banks.html
 * http://uk.reuters.com/article/2015/02/25/uk-hsbc-tax-politics-idUKKBN0LT1L220150225
 * http://www.visir.is/iceland-jails-former-kaupthing-bank-bosses/article/2015150219597
+* http://www.dw.de/swissleaks-the-hsbc-money-laundering-machine/av-18278207
 * http://www.nakedcapitalism.com/2014/10/private-equity-at-work-rigorously-debunks-industry-mythology.html
 * http://www.nakedcapitalism.com/2014/10/dealbook-says-citi-afford-run-honest-bank-mexico.html
 * http://mobile.nytimes.com/blogs/dealbook/2015/01/26/investment-riches-built-on-auto-loans-to-poor/

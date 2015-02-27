@@ -220,6 +220,7 @@
 
 ## Police and Justice System
 
+"The holocaust was legal, slavery was legal, segregation was legal. If you use the state as a metric for ethics you'll end up disappointed." - @lex_looper
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
 * http://countercurrentnews.com/2015/02/leaked-police-department-memo-threatens-black-officers/
