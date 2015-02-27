@@ -19,6 +19,7 @@
 * http://arstechnica.com/security/2015/02/psa-your-crypto-apps-are-useless-unless-you-check-them-for-backdoors/
 * http://cwe.mitre.org/top25/
 * http://recode.net/2015/01/12/dont-ignore-the-simple-cyber-attacks-says-security-blogger-brian-krebs-qa/
+* http://arstechnica.com/information-technology/2015/02/fear-in-the-digital-city-why-the-internet-has-never-been-more-dangerous/
 * https://medium.com/@SwiftOnSecurity/a-story-about-jessica-and-her-computer-e400fa9fd4e
 * http://www.wired.com/2015/02/hacker-claims-feds-hit-44-felonies-refused-fbi-spy/
 * https://filippo.io/Badfish/
@@ -36,6 +37,7 @@
 * http://blog.nodenexus.com/2014/11/28/a-shark-on-the-network/
 * http://arstechnica.com/security/2014/12/sites-certified-as-secure-often-morevulnerable-to-hacking-scientists-find/
 * http://robertheaton.com/2014/12/08/fun-with-your-friends-facebook-and-tinder-session-tokens/
+* http://arstechnica.com/security/2015/02/more-than-1-million-wordpress-websites-imperiled-by-critical-plugin-bug/
 * https://crackstation.net/hashing-security.htm
 * http://www.wired.com/2015/01/security-predictions-2015/
 * http://www.forbes.com/sites/andygreenberg/2013/12/04/heres-the-letter-a-senator-sent-to-20-auto-makers-demanding-answers-on-car-hacking-threats/
@@ -87,6 +89,7 @@
 * http://techreport.com/news/27849/the-rest-of-the-story-komodia-lenovo-and-superfish
 * http://arstechnica.com/security/2015/02/still-smarting-from-https-busting-superfish-debacle-lenovo-says-sorry/
 * http://qntra.net/2015/02/the-superfish-funder-list/
+* http://www.extremetech.com/computing/199843-lenovo-falls-on-its-sword-as-superfish-impact-spreads
 
 
 
@@ -95,10 +98,12 @@
 #### NSA
 
 * http://arstechnica.com/tech-policy/2014/11/us-senate-falls-2-votes-short-of-shutting-down-nsa-phone-spying/
+* http://www.scribd.com/doc/256849173/Snowden-Task-Force-Damage-Reports-REDACTED
 * http://www.reddit.com/r/IAmA/comments/2wwdep/we_are_edward_snowden_laura_poitras_and_glenn/
 * http://blog.cryptographyengineering.com/2014/12/on-new-snowden-documents.html
 * http://arstechnica.com/security/2014/10/nsas-core-secrets-suggests-agents-inside-firms-in-us-abroad/
 * http://blog.cryptographyengineering.com/2015/01/hopefully-last-post-ill-ever-write-on.html
+* http://arstechnica.com/security/2015/02/gemalto-says-reports-of-its-hack-by-the-nsa-and-gchq-were-greatly-exaggerated/
 * http://arstechnica.com/tech-policy/2015/02/yahoo-exec-goes-mano-a-mano-with-nsa-director-over-crypo-backdoors/
 * http://www.washingtonpost.com/world/national-security/google-says-it-fought-gag-orders-in-wikileaks-investigation/2015/01/28/e62bfd04-a5c9-11e4-a06b-9df2002b86a0_story.html
 * http://www.newscientist.com/article/dn26801-mass-surveillance-not-effective-for-finding-terrorists.html

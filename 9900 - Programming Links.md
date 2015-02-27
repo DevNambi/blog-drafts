@@ -25,6 +25,7 @@
 <li><a href="http://feedproxy.google.com/~r/HighScalability/~3/9cHi9ieSvDQ/peter-norvigs-9-master-steps-to-improving-a-program.html" time_added="1393402417" tags="">Peter Norvig's 9 Master Steps to Improving a Program</a></li>
 
 
+* http://cbsg.sourceforge.net/cgi-bin/live <- AMAZING
 * http://erniepark.com/software/2014/08/20/10-practical-software-engineer-tips.html
 * http://blog.fogus.me/2014/12/29/the-best-things-and-stuff-of-2014/
 * http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html
@@ -94,6 +95,7 @@
 * http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
 * http://www.karllhughes.com/2014/dev-bootcamp-program/
 * http://antirez.com/news/82
+* http://dev.mikamai.com/post/112047697144/the-sorrows-of-young-developer
 * https://medium.com/the-truant-haruspex/end-user-computing-5367171478b7
 * http://kevgriffin.com/the-non-techie-guide-to-source-control/
 * http://www.bbc.com/news/technology-30054140
@@ -377,12 +379,15 @@
 
 * http://www.slideshare.net/brendangregg/scale2015-linux-perfprofiling
 * http://blog.scoutapp.com/articles/2015/02/24/understanding-linuxs-cpu-stats
+https://groups.google.com/forum/#!msg/linux-sunxi/78MbtijKraY/cZSxI_59sg4J
+
 
 
 
 ## SQL and Databases
 
 * http://www.andreas-dewes.de/en/2015/queens-of-the-data-age-abusing-common-table-expressions-to-solve-the-eight-queens-problem-in-sql/
+* http://rob.conery.io/2015/02/24/embracing-sql-in-postgres/
 * http://citusdata.com/blog/114-how-to-build-your-distributed-database
 * https://aws.amazon.com/blogs/aws/highly-scalable-mysql-compat-rds-db-engine/
 * http://use-the-index-luke.com/blog/2015-02/modern-sql

@@ -76,6 +76,7 @@
 
 
 * http://www.nakedcapitalism.com/2014/09/sec-coverup-private-equity-worse-tbtf-banks.html
+* http://uk.reuters.com/article/2015/02/25/uk-hsbc-tax-politics-idUKKBN0LT1L220150225
 * http://www.visir.is/iceland-jails-former-kaupthing-bank-bosses/article/2015150219597
 * http://www.nakedcapitalism.com/2014/10/private-equity-at-work-rigorously-debunks-industry-mythology.html
 * http://www.nakedcapitalism.com/2014/10/dealbook-says-citi-afford-run-honest-bank-mexico.html
@@ -86,6 +87,7 @@
 * http://www.nytimes.com/2014/10/29/nyregion/jpmorgan-chase-drops-plan-to-build-2-west-side-towers.html
 * http://www.reuters.com/article/2014/10/29/us-markets-sec-traders-idUSKBN0II0DC20141029
 * http://www.nakedcapitalism.com/2015/01/nismans-suspicious-death-tearing-argentina-apart.html
+* http://www.nakedcapitalism.com/2015/02/yellen-defies-congress-defends-greenspanian-general-counsel-scott-alvarez-elizabeth-warren-grilling.html
 * http://www.independent.co.uk/news/world/politics/number-of-global-billionaires-has-doubled-since-the-financial-crisis-9826345.html
 * http://dealbook.nytimes.com/2014/11/12/debts-canceled-by-bankruptcy-still-mar-consumer-credit-scores/
 * http://dealbook.nytimes.com/2014/11/13/goldman-sachs-recasts-its-reputation-to-woo-tech-talent/
@@ -144,7 +146,9 @@
 ## Poverty, Class Warfare, 'American Dream'
 
 * http://www.gallup.com/opinion/chairman/181469/big-lie-unemployment.aspx
+* http://www.theguardian.com/commentisfree/2015/feb/12/debtors-prisons-illegal-america-ferguson-missouri-incarcerated
 * http://pndblog.typepad.com/pndblog/2015/02/infographic-the-millennial-wheel-of-disengagement.html
+* http://roarmag.org/2015/02/london-middle-class-culture-poverty/ <- eloquent
 * http://www.nakedcapitalism.com/2015/02/wolf-richter-something-rotten-piling-economy.html
 * http://imgur.com/a/gt2Gb <- where do rich people live?
 * http://www.salon.com/2015/02/10/5_facts_that_show_half_of_america_is_seriously_struggling_partner/

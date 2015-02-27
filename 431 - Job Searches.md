@@ -166,6 +166,7 @@ Interviews are one of the best times to find out about a company's culture, work
 <li><a href="http://www.theatlantic.com/business/archive/2014/04/the-unexpected-benefit-of-telling-people-what-their-coworkers-make/360301/">The Unexpected Benefit of Telling People What Their Coworkers Make</a></li>
 <li><a href="http://jacobian.org/writing/unlimited-vacation/">On Unlimited Vacation</a></li>
 <li><a href="http://jacquesmattheij.com/Salary+negotiations+for+techies">Salary Negotiations for Techies</a></li>
+<li><a href="http://blog.jobbox.io/common-reasons-salaries-arent-disclosed-job-offers/">Common reasons salaries aren't disclosed</a></li>
 </ul>
 
 
@@ -228,6 +229,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="http://www.nakedcapitalism.com/2015/02/wolf-richter-search-cheap-labor-tech-behind-h1-b-visa-scenes.html">Wolf Richter: In Search of Cheap Labor in Tech – Behind the H1-B Visa Scenes</a></li>
 <li><a href="
 http://www.computerworld.com/article/2879083/southern-california-edison-it-workers-beyond-furious-over-h-1b-replacements.html">Southern California IT Workers Beyond Furious over H1B Replacements</a></li>
+<li><a href="http://www.barryclark.co/hiring-developers-h1b-visa/">Hiring H1B developers</a></li>
 </ul>
 
 

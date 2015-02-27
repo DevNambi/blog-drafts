@@ -64,7 +64,16 @@
 
 * http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/massive-worldwide-layoff-underway-at-ibm
 * http://www.endicottalliance.org/jobcutsreports.php
+
+
+
+
+## Microsoft
+
 * http://www.bloomberg.com/news/articles/2015-02-04/why-nadella-s-second-year-as-microsoft-ceo-will-be-a-lot-harder
+* http://www.seattletimes.com/business/microsoft/microsoft-pair-claim-hostess-bar-expense-queries-led-to-firing/
+
+
 
 
 ## ISPs

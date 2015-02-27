@@ -95,6 +95,7 @@
 * http://pando.com/2014/10/14/anti-burn-how-bootstrapped-zoho-survived-two-tech-bubbles-and-became-a-massive-success/
 * http://blog.samaltman.com/policy-for-growth-and-innovation
 * https://gigaom.com/2015/02/15/disrupting-reality-silicon-valley-is-busy-ignoring-the-real-world/
+* http://www.fastcompany.com/3042861/the-y-combinator-chronicles/the-secret-million-that-y-combinator-invests-in-all-its-startups <- really interesting
 * http://www.salon.com/2014/10/13/neil_degrasse_tyson_society_has_bigger_problems_than_what_can_be_solved_with_your_next_app/
 * http://www.engadget.com/2014/10/23/efi-underpaying-workers/
 * http://www.brainshave.com/blog/startcraps

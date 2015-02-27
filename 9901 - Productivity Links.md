@@ -13,6 +13,7 @@
 * http://www.smithsonianmag.com/science-nature/brains-make-decisions-way-alan-turing-cracked-codes-180954212/?no-ist
 * http://www.brainpickings.org/2014/01/22/brian-eno-visual-music-oblique-strategies/
 * http://time.com/3554741/bad-habits-mental-health/
+* https://www.youtube.com/playlist?list=PL2FF649D0C4407B30
 * http://blogs.hbr.org/2012/09/to-succeed-forget-self-esteem/
 * http://www.hanselman.com/blog/ImAPhonyAreYou.aspx
 * http://teddy.fr/2013/02/10/about-not-owning-shit/

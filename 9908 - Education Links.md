@@ -61,9 +61,11 @@
 * http://www.washingtonpost.com/local/education/majority-of-us-public-school-students-are-in-poverty/2015/01/15/df7171d0-9ce9-11e4-a7ee-526210d665b4_story.html
 * http://www.salon.com/2014/07/06/comedy_vs_anti_science_10_amazing_videos_that_show_how_humor_can_make_a_difference/
 * http://www.salon.com/2014/10/02/the_great_charter_school_rip_off_finally_the_truth_catches_up_to_education_reform_phonies/
+* http://jd-mathbio.blogspot.com/2015/02/finding-cheaters-using-multiple-choice.html
 * http://www.nytimes.com/2015/02/22/nyregion/at-new-york-private-schools-challenging-white-privilege-from-the-inside.html
 * http://news.sciencemag.org/biology/2014/10/genes-dont-just-influence-your-iq-they-determine-how-well-you-do-school
 * http://www.politico.com/magazine/story/2014/10/the-plot-against-public-education-111630.html
+* http://www.nakedcapitalism.com/2015/02/school-closure-playbook-billionaires-exploit-poor-children-chicago.html
 * http://www.salon.com/2014/10/12/google_makes_us_all_dumber_the_neuroscience_of_search_engines/
 * http://mobile.nytimes.com/2014/10/18/your-money/a-financial-aid-map-for-families-who-have-saved-nothing.html
 * http://www.washingtonpost.com/blogs/answer-sheet/wp/2014/10/24/teacher-spends-two-days-as-a-student-and-is-shocked-at-what-she-learned/
@@ -93,6 +95,7 @@
 
 * http://equitablegrowth.org/research/achievement-gap/ <- why I do what I do
 * http://www.wsj.com/articles/big-gap-in-college-graduation-rates-for-rich-and-poor-study-finds-1422997677
+* http://www.seattletimes.com/news/is-everything-ok-facebook-partners-with-uw-to-get-help-to-youth-in-distress/ 
 * http://www.nytimes.com/2015/02/07/upshot/is-the-professor-bossy-or-brilliant-much-depends-on-gender.html?_r=0&abt=0002&abg=1
 * http://nscresearchcenter.org/signaturereport8-statesupplement/
 * http://coryliu.com/post/109988042607/a-dirty-secret-most-people-probably-shouldnt-go
@@ -389,6 +392,7 @@
 * http://seattletimes.com/html/nationworld/2025012950_apxcollegecosts.html
 * http://highereddatastories.blogspot.com/2014/11/what-is-pell-grant-worth.html
 * http://www.theatlantic.com/business/archive/2015/02/the-mental-and-physical-toll-of-student-loans/385032/
+* http://www.nytimes.com/2015/02/25/opinion/how-to-make-college-cheaper.html?_r=0
 * http://highereddatastories.blogspot.com/2015/01/colleges-or-investment-firms.html
 * http://www.nytimes.com/2014/11/22/your-money/paying-for-college/college-abacus-offers-data-on-college-costs-but-some-schools-balk.html
 * http://seattletimes.com/html/opinion/2025124962_spitzeropedhighered30xml.html
