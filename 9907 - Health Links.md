@@ -6,6 +6,7 @@
 
 
 * http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0
+* http://arstechnica.com/science/2015/02/common-food-emulsifiers-may-be-linked-to-metabolic-syndrome/
 * http://www.theatlantic.com/health/archive/2015/02/the-new-best-way-to-eat/385659/ 
 * http://blog.dilbert.com/post/109880240641/sciences-biggest-fail
 * http://www.theatlantic.com/health/archive/2015/02/the-food-babe-enemy-of-chemicals/385301/

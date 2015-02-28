@@ -114,6 +114,7 @@
 * http://www.nakedcapitalism.com/2015/01/new-york-times-dealbook-throw-source-bus-tpg-suit-ex-employeeex-white-house-staffer.html <- more media corruption, really
 * http://www.ericgarland.co/2015/02/03/end-guitar-center/
 * http://www.seriouseats.com/2015/02/what-happens-when-a-restaurant-dies.html
+* http://www.washingtonpost.com/opinions/kill-the-dispute-settlement-language-in-the-trans-pacific-partnership/2015/02/25/ec7705a2-bd1e-11e4-b274-e5209a3bc9a9_story.html# <- good lord this is corrupt
 
 
 
@@ -246,6 +247,8 @@
 * https://www.mattcutts.com/blog/make-money-investing-tips/ <- super useful.
 * http://www.nerdwallet.com/
 * http://www.pbs.org/idealab/2015/01/how-crowdfunding-municipal-bonds-help-people-invest-in-communities/
+* http://www.mrmoneymustache.com/2015/02/26/my-top-questions-from-internet-strangers/
+* http://www.mrmoneymustache.com/2011/09/30/is-a-costco-membership-worth-the-cost/
 
 
 
