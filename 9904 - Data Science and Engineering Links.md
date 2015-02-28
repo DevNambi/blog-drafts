@@ -31,6 +31,7 @@
 * https://www.youtube.com/user/PyDataTV
 * http://orgtheory.wordpress.com/2014/12/23/what-programming-tools-should-computational-sociologists-know/
 * http://www.rstudio.com/wp-content/uploads/2015/01/data-wrangling-cheatsheet.pdf
+* http://blogs.aws.amazon.com/bigdata/post/TxX4BY5T1PQ7BQ/Using-IPython-Notebook-to-Analyze-Data-with-Amazon-EMR
 * https://districtdatalabs.silvrback.com/intro-to-r-for-microsoft-excel-users
 
 
