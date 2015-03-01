@@ -10,6 +10,7 @@
 * http://www.theatlantic.com/health/archive/2015/02/the-new-best-way-to-eat/385659/ 
 * http://blog.dilbert.com/post/109880240641/sciences-biggest-fail
 * http://www.theatlantic.com/health/archive/2015/02/the-food-babe-enemy-of-chemicals/385301/
+* http://www.nakedcapitalism.com/2015/02/war-genetically-modified-food-critics.html
 * http://www.scientificamerican.com/article/among-trillions-of-microbes-in-the-gut-a-few-are-special/
 * https://jawbone.com/blog/weight-loss/
 * http://america.aljazeera.com/articles/2014/12/25/kale-and-hearty-thesaladbowlofamericaturnstoxic.html
