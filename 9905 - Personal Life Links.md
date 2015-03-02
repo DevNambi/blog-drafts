@@ -16,6 +16,7 @@
 
 * http://www.businessinsider.com/use-a-fake-location-for-cheap-airfare-2014-6
 * http://www.businessinsider.com/harvard-dan-gilbert-money-happiness-principles-2014-10
+* http://stilldrinking.org/35-things-that-surprised-me-before-35
 * http://www.feelguide.com/2013/04/29/75-years-in-th-making-harvard-just-released-its-epic-study-on-what-men-require-to-live-a-happy-life/
 * http://markmanson.net/question
 * http://www.collective-evolution.com/2014/06/28/8-common-traits-of-happy-people-that-they-dont-talk-about/
@@ -147,6 +148,7 @@
 
 * http://www.komonews.com/news/local/Eerie-quiet-at-NW-fault-where-big-one-may-shake-284634851.html
 * http://www.king5.com/story/news/2015/02/24/seattle-tunnel-partners-allegations/23972785/
+* https://racketracer.wordpress.com/2015/03/02/predicting-and-plotting-crime-in-seattle/
 
 
 

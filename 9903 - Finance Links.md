@@ -40,6 +40,7 @@
 #### Greece
 
 * http://www.nakedcapitalism.com/2014/12/greece-eurozones-rescue-troika-forgive-greeces-debt.html
+* http://www.nakedcapitalism.com/2015/03/greece-kolotumbas-increasing-at-disconcerting-rate.html
 * http://www.nytimes.com/2015/01/26/world/europe/greek-election-syriza.html?_r=0
 * http://www.nakedcapitalism.com/2015/02/troika-not-happy-initial-draft-greek-reforms-eurogroup-still-mix.html
 * http://www.nytimes.com/2015/02/17/business/international/greece-debt-eurozone-finance-ministers-meeting.html
@@ -84,6 +85,7 @@
 * http://mobile.nytimes.com/blogs/dealbook/2015/01/26/investment-riches-built-on-auto-loans-to-poor/
 * http://www.nakedcapitalism.com/2015/02/geithner-end-capitalism-know.html
 * http://www.bloombergview.com/articles/2015-01-23/capital-one-fraud-researchers-may-also-have-done-some-fraud
+* http://www.nakedcapitalism.com/2015/03/new-yorks-benjamin-lawksy-and-the-secs-kara-stein-and-luis-aguilar-push-for-tougher-sanctions-against-bank-executives.html
 * http://www.nakedcapitalism.com/2014/10/serious-ny-fed-dudleys-tough-talk-fixing-banking-culture.html 
 * http://www.nytimes.com/2014/10/29/nyregion/jpmorgan-chase-drops-plan-to-build-2-west-side-towers.html
 * http://www.reuters.com/article/2014/10/29/us-markets-sec-traders-idUSKBN0II0DC20141029
@@ -149,6 +151,7 @@
 
 * http://www.gallup.com/opinion/chairman/181469/big-lie-unemployment.aspx
 * http://www.theguardian.com/commentisfree/2015/feb/12/debtors-prisons-illegal-america-ferguson-missouri-incarcerated
+* http://www.nakedcapitalism.com/2015/03/austerity-kills-economic-distress-seen-culprit-sharp-rise-suicide-rate-among-middle-aged.html
 * http://pndblog.typepad.com/pndblog/2015/02/infographic-the-millennial-wheel-of-disengagement.html
 * http://roarmag.org/2015/02/london-middle-class-culture-poverty/ <- eloquent
 * http://www.nakedcapitalism.com/2015/02/wolf-richter-something-rotten-piling-economy.html
