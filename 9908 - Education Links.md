@@ -427,6 +427,8 @@
 
 <li><a href="http://www.insidehighered.com/news/2013/02/25/survey-finds-pay-senior-administrators" time_added="1361896967" tags="academia">Survey finds pay for senior administrators is up | Inside Higher Ed</a></li>
 
+* https://www.insidehighered.com/news/2015/03/02/study-finds-gains-college-administrators-salaries
+
 
 ### Careers
 
