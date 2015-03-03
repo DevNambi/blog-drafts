@@ -56,6 +56,7 @@
 * http://arstechnica.com/business/2014/10/googles-product-strategy-make-two-of-everything/
 * http://motherboard.vice.com/read/how-bad-software-leads-to-bad-science
 * http://engineering.pinterest.com/post/109318939139/demystifying-seo-with-experiments
+* http://googleresearch.blogspot.com/2015/03/large-scale-machine-learning-for-drug.html
 
 
 ### Open Data
