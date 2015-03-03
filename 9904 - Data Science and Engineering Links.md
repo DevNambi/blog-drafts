@@ -456,6 +456,7 @@
 
 
 * http://www.boozallen.com/insights/2013/11/data-science-field-guide
+* https://leanpub.com/datastyle
 * https://civisanalytics.com/blog/data-science/2014/08/20/why-we-love-models/
 * https://github.com/jonathan-bower/DataScienceResources
 * http://www.mastersindatascience.org/blog/questions-before-choosing-data-science-program/
