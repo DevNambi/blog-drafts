@@ -363,6 +363,7 @@
 * http://econlog.econlib.org/archives/2015/02/signaling_in_k-.html
 * http://stuartspencestuff.blogspot.com/2015/02/many-mcgill-education-students-cannot.html
 * https://www.insidehighered.com/quicktakes/2015/02/23/second-umkc-professor-resigns-ranking-scandal
+* https://www.insidehighered.com/news/2015/03/03/uw-madison-chancellor-comes-under-fire-comments-about-how-she-matches-outside
 
 
 ### Student Culture, Sexual Assault, Assault

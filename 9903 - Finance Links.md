@@ -117,6 +117,7 @@
 * http://www.ericgarland.co/2015/02/03/end-guitar-center/
 * http://www.seriouseats.com/2015/02/what-happens-when-a-restaurant-dies.html
 * http://www.washingtonpost.com/opinions/kill-the-dispute-settlement-language-in-the-trans-pacific-partnership/2015/02/25/ec7705a2-bd1e-11e4-b274-e5209a3bc9a9_story.html# <- good lord this is corrupt
+* http://mobile.nytimes.com/2015/03/03/business/a-warning-from-buffett-about-banks.html?_r=0
 
 
 

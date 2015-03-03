@@ -185,6 +185,7 @@
 * http://www.methodsandtools.com/archive/archive.php?id=66
 * http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
 * https://github.com/airbnb/javascript/issues/102 <- great analogy about coding style guides
+* https://rachelbythebay.com/w/2013/06/05/duck/
 
 
 
@@ -251,6 +252,7 @@
 
 
 * http://muratbuffalo.blogspot.com/2014/07/distributed-is-not-necessarily-more.html
+* http://blog.atomicinc.com/2015/03/03/does-amazon-web-services-pricing-follow-moores-law-2350/
 * http://www.cloudcomputingpatterns.org/ <- priceless
 * http://www.devfactor.net/2014/12/30/2375-amazon-mistake/
 * https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1?wed <- comprehensive
