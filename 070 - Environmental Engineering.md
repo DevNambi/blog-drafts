@@ -90,6 +90,7 @@ Emphasize what we don't know
 * http://www.wunderground.com/blog/JeffMasters/comment.html?entrynum=2663
 * http://www.salon.com/2015/02/10/what_nobody_told_me_about_small_farming_i_cant_make_a_living/
 * http://www.nakedcapitalism.com/2015/02/cost-delaying-action-stem-climate-change.html
+* http://mobile.nytimes.com/2015/03/04/dining/efficiency-in-the-kitchen-to-reduce-food-waste.html
 * http://www.seattletimes.com/nation-world/instruments-catch-carbon-in-the-act-of-warming-sky/ 
 * https://medium.com/ted-fellows/how-to-grow-a-forest-really-really-fast-d27df202ba09
 * http://www.calgaryherald.com/news/vancouver/Ocean+waste+hits+home+Plastic+filled+fish+guts+ruins+Chilliwack/10827599/story.html

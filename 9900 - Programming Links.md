@@ -252,6 +252,7 @@
 
 
 * http://muratbuffalo.blogspot.com/2014/07/distributed-is-not-necessarily-more.html
+* http://www.brendangregg.com/blog/2015-03-03/performance-tuning-linux-instances-on-ec2.html
 * http://blog.atomicinc.com/2015/03/03/does-amazon-web-services-pricing-follow-moores-law-2350/
 * http://www.cloudcomputingpatterns.org/ <- priceless
 * http://www.devfactor.net/2014/12/30/2375-amazon-mistake/
@@ -381,7 +382,8 @@
 
 * http://www.slideshare.net/brendangregg/scale2015-linux-perfprofiling
 * http://blog.scoutapp.com/articles/2015/02/24/understanding-linuxs-cpu-stats
-https://groups.google.com/forum/#!msg/linux-sunxi/78MbtijKraY/cZSxI_59sg4J
+* https://groups.google.com/forum/#!msg/linux-sunxi/78MbtijKraY/cZSxI_59sg4J
+* http://www.brendangregg.com/blog/2015-03-03/performance-tuning-linux-instances-on-ec2.html
 
 
 
