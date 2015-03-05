@@ -212,7 +212,7 @@
 
 
 
-## Cloud Computing and Virtualization
+## Cloud Computing, Virtualization, Hardware
 
 
 <li><a href="http://www.blog.juliaferraioli.com/2014/01/julia-on-google-compute-engine-working.html" time_added="1390673210" tags="">Julia on Google Compute Engine: working with files | never a straight line</a></li>
@@ -278,6 +278,7 @@
 * https://gigaom.com/2015/01/04/verizon-cloud-warns-customers-of-2-day-maintenance-closure/
 * http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html
 * http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/
+* http://blog.serverfault.com/2015/03/05/how-we-upgrade-a-live-data-center/
 * http://danluu.com/3c-conflict/
 
 
@@ -528,6 +529,7 @@ things they believe in will keep </a></li>
 
 
 * http://s3.crashworks.org.s3-website-us-east-1.amazonaws.com/if-programming-languages-were-vehicles/
+* http://heeris.id.au/2014/if-programming-languages-were-harry-potter-characters/
 * http://tumblr.snipe.net/
 * http://arstechnica.com/information-technology/2014/10/the-devil-had-possessed-his-netbook-and-other-tales-of-it-terror/
 * http://crashworks.org/if_programming_languages_were_vehicles/ <- funny because it's true
