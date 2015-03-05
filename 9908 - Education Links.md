@@ -484,6 +484,7 @@
 
 * http://blog.mrmeyer.com/2014/what-students-do-and-dont-do-in-khan-academy/
 * https://www.class-central.com/report/moocs-stats-and-trends-2014/
+* https://www.insidehighered.com/news/2015/03/05/analysis-distance-education-enrollments-challenges-myths-about-medium
 
 
 
