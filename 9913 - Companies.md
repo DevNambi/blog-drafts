@@ -189,4 +189,6 @@
 * http://www.foreignaffairs.com/articles/142497/james-bessen/the-anti-innovators
 * http://mashable.com/2014/12/03/history-of-reddit/
 * http://www.bbc.com/news/business-30532463
+* http://www.theguardian.com/world/2015/mar/04/east-india-company-original-corporate-raiders
+* http://www.wired.com/2015/03/etsy-lost-soul-doesnt-matter-ipo/
 * http://www.aftenposten.no/webtv/serier-og-programmer/sweatshopenglish/TRAILER-SWEATSHOP---I-cant-take-any-more-7800835.html

@@ -200,6 +200,7 @@
 * https://www.insidehighered.com/news/2014/11/20/nsse-2014-finds-size-selectivity-make-little-difference-student-engagement
 * http://www.salon.com/2014/11/25/robert_reich_college_gets_you_nowhere_partner/
 * http://www.nj.com/union/index.ssf/2014/11/kean_university_students_question_need_for_219000_conference_table.html
+* http://www.npr.org/blogs/ed/2015/03/03/390167950/prepare-for-the-end-of-college-heres-what-free-higher-ed-looks-like
 * http://www.nextscientist.com/write-a-phd-thesis/
 * http://www.nytimes.com/2014/12/03/sports/ncaafootball/uab-cancels-football-program-citing-fiscal-realities.html
 * http://www.nytimes.com/2014/12/02/education/most-college-students-dont-earn-degree-in-4-years-study-finds.html
@@ -424,6 +425,7 @@
 
 * https://www.insidehighered.com/quicktakes/2015/01/28/berkeley-finds-faculty-salary-gaps-gender-and-race
 * https://medium.com/@AndrewR_Physics/enoughs-enough-6c56afe36d00
+* http://www.theglobeandmail.com/news/national/education/university-labour-strife-underscores-job-security-plight-of-contract-faculty/article23276935/
 
 ### Administration
 

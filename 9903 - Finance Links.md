@@ -158,6 +158,7 @@
 * http://www.nakedcapitalism.com/2015/02/wolf-richter-something-rotten-piling-economy.html
 * http://imgur.com/a/gt2Gb <- where do rich people live?
 * http://www.salon.com/2015/02/10/5_facts_that_show_half_of_america_is_seriously_struggling_partner/
+* https://www.propublica.org/article/the-demolition-of-workers-compensation
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2015/01/14/this-powerful-reddit-thread-reveals-how-the-poor-get-by-in-america/
 * https://news.vice.com/article/unemployment-is-killing-45000-people-each-year
 * http://www.reddit.com/r/AskReddit/comments/2sbi17/what_do_insanely_poor_people_buy_that_ordinary/

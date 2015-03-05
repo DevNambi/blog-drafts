@@ -227,6 +227,7 @@
 * https://www.facebook.com/video.php?v=1009126519115252 <- police kill a homeless man *after* holding him down. WARNING: GRAPHIC
 * http://www.nytimes.com/2015/03/03/us/cleveland-mayor-apologizes-for-language-used-to-blame-tamir-rice-for-his-death.html?_r=0
 * http://www.nytimes.com/2015/03/03/us/prosecutors-to-seek-death-penalty-in-murders-of-arab-american-students.html
+* http://arstechnica.com/tech-policy/2015/03/ferguson-cops-routinely-block-public-from-filming-them-doj-says/
 * http://theantimedia.org/4-victims-come-forward-chicago-secret-prison-man-tortured-weed/te 
 * http://www.komonews.com/news/national/Video-shows-officer-pushing-slapping-man-at-Fla-bus-terminal-293855971.html
 * http://www.nytimes.com/2015/02/22/nyregion/even-as-many-eyes-watch-brutality-at-rikers-island-persists.html

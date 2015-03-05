@@ -149,6 +149,7 @@
 * http://martinfowler.com/bliki/SacrificialArchitecture.html
 * http://nerds.airbnb.com/maintaining-quality-scale/
 * http://devopschecklist.com/
+* http://www.itworld.com/article/2891140/study-finds-that-refactoring-doesn-t-improve-code-quality.html
 
 
 ## UI, UX, HCD
