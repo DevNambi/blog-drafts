@@ -78,6 +78,7 @@
 
 * http://www.nakedcapitalism.com/2014/09/sec-coverup-private-equity-worse-tbtf-banks.html
 * http://uk.reuters.com/article/2015/02/25/uk-hsbc-tax-politics-idUKKBN0LT1L220150225
+* http://www.nakedcapitalism.com/2015/03/rebuke-cronyistic-new-york-fed-tbtf-bank-supervision-shifted-fed-board-governors.html
 * http://www.visir.is/iceland-jails-former-kaupthing-bank-bosses/article/2015150219597
 * http://www.dw.de/swissleaks-the-hsbc-money-laundering-machine/av-18278207
 * http://www.nakedcapitalism.com/2014/10/private-equity-at-work-rigorously-debunks-industry-mythology.html
@@ -97,6 +98,7 @@
 * http://mobile.nytimes.com/2014/11/16/business/borrowers-beware-the-robosigners-arent-finished-yet.html
 * http://www.nbcnews.com/business/economy/u-s-companies-now-stashing-2-trillion-overseas-n247256
 * http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13977.html
+* http://www.nakedcapitalism.com/2015/03/wolf-richter-default-monday-oil-gas-companies-face-creditors.html
 * http://www.nakedcapitalism.com/2014/11/bill-black-new-york-times-thinks-jailing-banksters-cause-bind.html
 * http://www.nakedcapitalism.com/2014/12/hedge-funds-closing-at-high-rates.html
 * http://ink.hackeress.com/2014/12/crowdfunding-is-too-expensive-payments.html
