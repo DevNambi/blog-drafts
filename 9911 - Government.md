@@ -7,6 +7,7 @@
 
 
 * http://www.dailydot.com/politics/jeremy-hammond-terrorist-watchlist-fbi/
+* http://www.theatlantic.com/politics/archive/2015/03/the-conservative-case-against-enforcing-immigration-laws/387004/
 * http://www.cnbc.com/id/102409348
 * http://wabe.org/post/how-fema-uses-waffle-house-measure-disasters
 * http://www.nytimes.com/2015/02/24/world/africa/as-tourism-sags-on-kenyan-coast-terrorists-could-lure-the-unemployed.html?_r=0
@@ -235,11 +236,13 @@
 * http://www.nytimes.com/2015/02/22/nyregion/even-as-many-eyes-watch-brutality-at-rikers-island-persists.html
 * http://www.theroot.com/articles/culture/2014/02/cop_breaks_10_year_old_s_leg_for_filming_him.html
 * http://www.theguardian.com/us-news/2015/feb/24/chicago-police-detain-americans-black-site
+* http://www.theatlantic.com/politics/archive/2015/03/The-Gangsters-Of-Ferguson/386893/
 * http://www.waaytv.com/appnews/madison-officer-charged-with-assault-for-use-of-force-incident/article_7b09d144-b2fe-11e4-a0e4-b339eed5e1af.html
 * http://www.dailykos.com/story/2015/02/25/1366754/-LAPD-shoot-kill-unarmed-mentally-ill-veteran-on-live-TV-No-charges-Guess-what-their-defense-was
 * http://voiceofsandiego.org/all-narratives/police-misconduct/their-crime-walking-into-their-own-home/
 * http://arstechnica.com/tech-policy/2015/02/powerful-stingrays-used-to-go-after-911-hangup-atm-burglary/
 * http://seattletimes.com/html/nationworld/2025719637_apxpolicerestraint.html
+* http://www.theatlantic.com/national/archive/2015/03/ferguson-as-a-criminal-conspiracy-against-its-black-residents-michael-brown-department-of-justice-report/386887/
 * http://countercurrentnews.com/2015/02/cop-threatens-journalist-arrest-for-arguing-with-him-on-facebook/
 * http://www.nytimes.com/2015/02/15/us/law-enforcement-issues-in-missouri-and-other-states-spur-unlikely-alliances.html
 * http://www.freep.com/story/news/local/michigan/2015/02/22/civil-asset-forfeiture-michigan-seizures-aclu-heritage-foundation-institute-justice/23737663/
