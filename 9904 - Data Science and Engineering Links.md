@@ -254,7 +254,7 @@
 
 
 * http://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/
-* http://www.nicebread.de/what-does-a-bayes-factor-feel-like/#.VNecs0y6FAg.twitter
+* http://www.nicebread.de/what-does-a-bayes-factor-feel-like/
 * http://kadavy.net/blog/posts/aa-testing/
 * http://www.johndcook.com/blog/2015/02/04/miscellaneous-math-resources/
 * https://medium.com/@warrenhenning/a-software-engineers-adventures-in-learning-mathematics-62140c59e5c
@@ -263,6 +263,7 @@
 * http://www.simonsfoundation.org/quanta/20141015-at-the-far-ends-of-a-new-universal-law/
 * http://scottsievert.github.io/blog/2015/01/31/the-mysterious-eigenvalue/
 * http://simplystatistics.org/2014/10/17/bayes-rule-in-a-gif/
+* http://danluu.com/percentile-latency/
 * https://github.com/twitter/BreakoutDetection
 * http://www.wired.com/2014/10/tracy-widom-mysterious-statistical-law/
 * http://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
