@@ -17,6 +17,7 @@
 * https://www.schneier.com/blog/archives/2015/01/the_security_of_10.html
 * https://firstlook.org/theintercept/2015/01/28/canada-cse-levitation-mass-surveillance/
 * http://securelist.com/blog/research/68732/the-great-bank-robbery-the-carbanak-apt/
+* http://cr.yp.to/djb.html
 * http://arstechnica.com/security/2015/02/psa-your-crypto-apps-are-useless-unless-you-check-them-for-backdoors/
 * http://cwe.mitre.org/top25/
 * http://recode.net/2015/01/12/dont-ignore-the-simple-cyber-attacks-says-security-blogger-brian-krebs-qa/
