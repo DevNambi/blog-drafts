@@ -103,7 +103,8 @@
 * http://techcrunch.com/2014/10/25/currentc/
 * http://chiefmartec.com/2015/01/system-dynamics-2000-marketing-technology-vendors/
 * http://www.head-fi.org/t/701900/schiit-happened-the-story-of-the-worlds-most-improbable-start-up/5130#post_11289247
-* http://www.theguardian.com/us-news/2014/oct/28/-sp-jobs-brokers-entrap-indian-tech-workers?CMP=share_btn_tw
+* http://www.theguardian.com/us-news/2014/oct/28/-sp-jobs-brokers-entrap-indian-tech-workers
+* http://marcobambini.com/my-y-combinator-experience/
 * https://medium.com/dima-korolev/invited-technical-co-founder-79ee1713ff25
 * http://novobrief.com/spanish-startup-ecosystem-american-pov/
 * https://medium.com/weird-future/a-utopia-of-ones-own-e6fa8f16f92b

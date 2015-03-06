@@ -31,6 +31,7 @@
 * http://technet.microsoft.com/library/cc722487.aspx <- **Priceless**
 * https://casecurity.org/2014/11/18/the-cost-of-creating-collisions-using-sha-1/
 * http://www.propublica.org/article/the-worlds-email-encryption-software-relies-on-one-guy-who-is-going-broke
+* http://www.darkreading.com/anthem-refuses-to-let-inspector-general-conduct-full-security-audit/d/d-id/1319365?_mc=RSS_DR_EDT
 * http://arstechnica.com/security/2014/11/nonprofit-effort-aims-to-encrypt-the-web/
 * https://krebsonsecurity.com/2014/12/target-hackers-hit-onestopparking-com/
 * http://www.nytimes.com/2014/12/02/technology/hackers-target-biotech-companies.html?_r=0

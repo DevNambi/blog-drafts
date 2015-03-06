@@ -12,6 +12,7 @@
 * http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004020
 * http://parenting.blogs.nytimes.com/2014/10/16/want-to-ace-that-test-get-the-right-kind-of-sleep/
 * http://www.smithsonianmag.com/science-nature/brains-make-decisions-way-alan-turing-cracked-codes-180954212/?no-ist
+* http://www.northwestern.edu/newscenter/stories/2015/03/creative-genius-driven-by-distraction.html
 * http://www.brainpickings.org/2014/01/22/brian-eno-visual-music-oblique-strategies/
 * http://time.com/3554741/bad-habits-mental-health/
 * https://www.youtube.com/playlist?list=PL2FF649D0C4407B30
