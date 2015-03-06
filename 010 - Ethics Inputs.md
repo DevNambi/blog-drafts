@@ -123,6 +123,8 @@ Link to Tweet: https://twitter.com/DevNambi/status/488397169540345856
 http://en.wikipedia.org/wiki/Not_even_wrong
 
 
+Quantify need per day/week/month/year. Maslow's hierarchy
+
 
 - Blog post - ethics & opportunities for data professionals
 	• Necessity is mother of invention
