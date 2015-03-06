@@ -96,6 +96,7 @@
 ## Higher Education
 
 * http://equitablegrowth.org/research/achievement-gap/ <- why I do what I do
+* https://www.insidehighered.com/news/2015/03/06/arizona-budget-deal-would-eliminate-all-state-funds-3-large-community-college
 * http://www.wsj.com/articles/big-gap-in-college-graduation-rates-for-rich-and-poor-study-finds-1422997677
 * http://www.seattletimes.com/news/is-everything-ok-facebook-partners-with-uw-to-get-help-to-youth-in-distress/ 
 * http://www.nytimes.com/2015/02/07/upshot/is-the-professor-bossy-or-brilliant-much-depends-on-gender.html?_r=0&abt=0002&abg=1

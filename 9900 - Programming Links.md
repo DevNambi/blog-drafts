@@ -27,6 +27,7 @@
 
 * http://cbsg.sourceforge.net/cgi-bin/live <- AMAZING
 * http://erniepark.com/software/2014/08/20/10-practical-software-engineer-tips.html
+* http://www.nomachetejuggling.com/2014/02/05/top-10-career-changing-programming-books/
 * http://blog.fogus.me/2014/12/29/the-best-things-and-stuff-of-2014/
 * http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html
 * http://search.cpan.org/dist/Locale-Maketext/lib/Locale/Maketext/TPJ13.pod?#A_Localization_Horror_Story:_It_Could_Happen_To_You

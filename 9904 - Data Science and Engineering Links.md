@@ -178,6 +178,7 @@
 * http://zeroviscosity.com/category/d3-js-step-by-step
 * http://metricsgraphicsjs.org/
 * http://nbviewer.ipython.org/gist/msund/11349097
+* http://blog.ae.be/combining-the-power-of-r-and-d3-js/?hn
 
 
 
