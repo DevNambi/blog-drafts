@@ -537,6 +537,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * https://gigaom.com/2015/01/21/netflix-is-open-sourcing-tools-for-analyzing-data-in-hadoop/
 * http://blog.confluent.io/2015/01/29/making-sense-of-stream-processing/
 * http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html
+* http://insightdataengineering.com/blog/pipeline_map.html
 * http://opensourceconnections.com/blog/2015/02/04/its-log-its-log-its-big-its-hyper-its-good/
 * http://ben.kirw.in/2014/11/28/kafka-patterns/
 * http://www.slideshare.net/deanwampler/spark-the-next-top-compute-model-39976454
