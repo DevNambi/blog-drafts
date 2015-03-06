@@ -175,6 +175,7 @@
 
 
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
+* http://www.thedailybeast.com/articles/2015/02/26/why-you-trust-the-internet-more-than-your-doctor.html
 * http://newsroom.ucla.edu/releases/memory-loss-associated-with-alzheimers-reversed-for-first-time#.VNqBsTA1Msg.facebook
 * http://www.bloomberg.com/news/features/2015-02-12/does-a-real-anti-aging-pill-already-exist-
 * http://www.bbc.com/news/health-31533559
@@ -338,6 +339,7 @@
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
 * http://www.nakedcapitalism.com/2015/03/nurses-unite-to-stop-transpacific-partnership-fast-track.html
 * http://www.slate.com/articles/health_and_science/science/2015/02/fda_inspections_fraud_fabrication_and_scientific_misconduct_are_hidden_from.single.html
+* http://hcrenewal.blogspot.com/2015/03/a-pr-pawn-confounds-public-relations.html
 * http://dadaviz.com/i/3194
 * http://hcrenewal.blogspot.com/2014/12/ehrs-and-ebola-in-texas-health.html
 * http://hcrenewal.blogspot.com/2015/01/time-to-look-for-union-label-first-us.html

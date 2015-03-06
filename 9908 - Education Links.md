@@ -1,5 +1,6 @@
 # Education
 
+
 <li><a href="http://www.nytimes.com/2013/01/03/nyregion/education-commission-recommends-core-reforms.html?src=rechp" time_added="1357279530" tags="academia">Education Commission Recommends Core Reforms - NYTimes.com</a></li>
 <li><a href="http://t.co/90KZRM22" time_added="1354850185" tags="academia">GOOD: What if schools weren't schools anymore? http://t.co/90KZRM22</a></li>
 <li><a href="http://escience.washington.edu/blog/panel-aws-reinvent-seismic-shift-education" time_added="1354886791" tags="academia,data science">Panel at AWS re:Invent: "A Seismic Shift in Education" | eScience Institute</a></li>
@@ -96,6 +97,7 @@
 ## Higher Education
 
 * http://equitablegrowth.org/research/achievement-gap/ <- why I do what I do
+* http://www.theatlantic.com/business/archive/2015/03/the-man-who-snuck-into-the-ivy-league-without-paying-a-thing/386917/
 * https://www.insidehighered.com/news/2015/03/06/arizona-budget-deal-would-eliminate-all-state-funds-3-large-community-college
 * http://www.wsj.com/articles/big-gap-in-college-graduation-rates-for-rich-and-poor-study-finds-1422997677
 * http://www.seattletimes.com/news/is-everything-ok-facebook-partners-with-uw-to-get-help-to-youth-in-distress/ 

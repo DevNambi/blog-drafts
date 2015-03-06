@@ -14,6 +14,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * https://dartthrowingchimp.wordpress.com/2015/02/11/a-tale-of-normal-failure/
 * http://www.pnas.org/content/112/6/1645.extract
 * http://www.extremetech.com/extreme/197707-twin-stars-headed-for-a-rare-super-chandra-supernova-event
+* http://boingboing.net/2015/02/25/tom-the-dancing-bug-the-first.html
 * http://www.washingtonpost.com/opinions/why-science-is-so-hard-to-believe/2015/02/12/2ff8f064-b0a0-11e4-886b-c22184f27c35_story.html
 
 

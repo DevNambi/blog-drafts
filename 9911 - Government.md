@@ -109,6 +109,7 @@
 * http://panampost.com/sabrina-martin/2015/01/29/venezuelan-army-can-shoot-protesters-effective-immediately/
 * http://militaryprofessionalreadinglists.com/
 * http://20committee.com/2015/01/15/a-pentagon-insider-speaks-on-obamas-gwow/
+* http://www.nakedcapitalism.com/2015/03/pilots-deserting-washingtons-drone-war.html
 * https://www.schneier.com/blog/archives/2015/02/obama_says_terr.html
 * http://www.amnesty.org/en/news/usa-guant-namo-911-military-hearing-halted-cia-black-site-claims-2015-02
 * http://www.computerworld.com/article/2834927/hackers-strike-defense-companies-through-real-time-ad-bidding.html
