@@ -234,6 +234,7 @@
 * http://theantimedia.org/4-victims-come-forward-chicago-secret-prison-man-tortured-weed/te 
 * http://www.komonews.com/news/national/Video-shows-officer-pushing-slapping-man-at-Fla-bus-terminal-293855971.html
 * http://www.nytimes.com/2015/02/22/nyregion/even-as-many-eyes-watch-brutality-at-rikers-island-persists.html
+* http://thefreethoughtproject.com/man-criminal-record-facing-life-prison-flashing-gang-signs-facebook/
 * http://www.theroot.com/articles/culture/2014/02/cop_breaks_10_year_old_s_leg_for_filming_him.html
 * http://www.theguardian.com/us-news/2015/feb/24/chicago-police-detain-americans-black-site
 * http://www.theatlantic.com/politics/archive/2015/03/The-Gangsters-Of-Ferguson/386893/
