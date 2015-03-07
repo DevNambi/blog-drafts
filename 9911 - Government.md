@@ -246,6 +246,7 @@
 * http://countercurrentnews.com/2015/02/cop-threatens-journalist-arrest-for-arguing-with-him-on-facebook/
 * http://www.nytimes.com/2015/02/15/us/law-enforcement-issues-in-missouri-and-other-states-spur-unlikely-alliances.html
 * http://www.freep.com/story/news/local/michigan/2015/02/22/civil-asset-forfeiture-michigan-seizures-aclu-heritage-foundation-institute-justice/23737663/
+* http://www.aulawreview.org/pdfs/64/64.2/Rogers.Off.To.Website.pdf
 * http://www.theatlantic.com/politics/archive/2015/02/This-american-life-cops-see-it-differently/385874/
 * http://www.reddit.com/r/news/comments/2wpb40/2000_inmates_at_texas_prison_have_seized_control/ <- private prisons
 * http://www.cnn.com/2015/02/12/us/alabama-police-beating/index.html
