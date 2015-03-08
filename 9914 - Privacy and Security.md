@@ -38,6 +38,7 @@
 * http://www.washingtonpost.com/blogs/the-fix/wp/2015/01/18/with-snowden-in-the-background-privacy-takes-a-back-seat-to-security/
 * https://www.kickstarter.com/projects/augustgermar/anonabox-a-tor-hardware-router
 * http://www.theguardian.com/technology/2015/feb/13/apple-ceo-tim-cook-challenges-obama-privacy
+* https://www.schneier.com/blog/archives/2015/03/data_and_goliat_3.html
 * http://www.sciencemag.org/content/347/6221.toc
 * http://bits.blogs.nytimes.com/2015/01/29/with-a-few-bits-of-data-researchers-identify-anonymous-people/?_r=1
 * http://saintsal.com/facebook/

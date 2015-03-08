@@ -226,6 +226,9 @@
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
 * http://countercurrentnews.com/2015/02/leaked-police-department-memo-threatens-black-officers/
+* http://www.seattletimes.com/seattle-news/family-military-tactics-by-cops-led-to-killing/
+* http://countercurrentnews.com/2015/03/calvon-reid-i-cant-breathe-ccpd-florida/
+* http://countercurrentnews.com/2015/03/tony-robinson-madison-police/
 * https://www.facebook.com/video.php?v=1009126519115252 <- police kill a homeless man *after* holding him down. WARNING: GRAPHIC
 * http://www.nytimes.com/2015/03/03/us/cleveland-mayor-apologizes-for-language-used-to-blame-tamir-rice-for-his-death.html?_r=0
 * http://www.nytimes.com/2015/03/03/us/prosecutors-to-seek-death-penalty-in-murders-of-arab-american-students.html

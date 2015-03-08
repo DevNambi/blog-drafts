@@ -90,6 +90,7 @@
 * http://boingboing.net/2014/12/03/in-wayzata-minnesota-a-schoo.html
 * http://www.salon.com/2013/06/03/instead_of_a_war_on_teachers_how_about_one_on_poverty/
 * http://www.nytimes.com/2014/12/31/us/school-cash-insufficient-in-kansas-court-finds-.html
+* http://www.nytimes.com/2015/03/08/education/charter-school-hailed-by-bush-ended-in-ruin.html?_r=0
 
 
 
