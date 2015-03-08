@@ -58,7 +58,7 @@ OH: "why do we call them managers? Why don't we just call them failed developers
 
 @qhardy: If the 2 guys running TNR were really of Silicon Valley, they'd know Rule 1: You're as good at the talent that leaves each nigh…
 
-
+@markleggett - "Companies want "rockstar" employees, as rockstars are known for punctuality, even-tempers, and a desire to work in a corporate environment."
 
 
 
