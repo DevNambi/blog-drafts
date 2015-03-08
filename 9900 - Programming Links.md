@@ -394,6 +394,7 @@
 ## SQL and Databases
 
 * http://www.andreas-dewes.de/en/2015/queens-of-the-data-age-abusing-common-table-expressions-to-solve-the-eight-queens-problem-in-sql/
+* http://hortonworks.com/blog/hive-0-14-cost-based-optimizer-cbo-technical-overview/
 * http://rob.conery.io/2015/02/24/embracing-sql-in-postgres/
 * http://citusdata.com/blog/114-how-to-build-your-distributed-database
 * https://aws.amazon.com/blogs/aws/highly-scalable-mysql-compat-rds-db-engine/
