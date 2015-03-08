@@ -432,6 +432,7 @@
 * https://www.insidehighered.com/quicktakes/2015/01/28/berkeley-finds-faculty-salary-gaps-gender-and-race
 * https://medium.com/@AndrewR_Physics/enoughs-enough-6c56afe36d00
 * http://www.theglobeandmail.com/news/national/education/university-labour-strife-underscores-job-security-plight-of-contract-faculty/article23276935/
+* http://www.washingtonpost.com/posteverything/wp/2015/03/06/i-was-a-professor-at-four-universities-i-still-couldnt-make-ends-meet/
 
 ### Administration
 
