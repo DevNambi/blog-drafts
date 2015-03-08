@@ -611,6 +611,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * https://speakerdeck.com/jdmaturen/towards-a-data-driven-product-techniques-and-tools-at-github
 * http://www.erinshellman.com/data-scientists-at-work/
 * http://cliffmass.blogspot.com/2015/01/forecast-lessons-from-northeast.html <- how to communicate uncertainty
+* http://www.datacommunitydc.org/blog/2013/05/recommendation-engines-why-you-shouldnt-build-one
 * http://technocalifornia.blogspot.com/2014/12/ten-lessons-learned-from-building-real.html
 * http://www.frankmcsherry.org/graph/scalability/cost/2015/01/15/COST.html
 * http://iquantny.tumblr.com/post/109370229799/does-gentrification-cause-a-reduction-in
