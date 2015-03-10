@@ -361,6 +361,7 @@
 * http://en.wikipedia.org/wiki/Contaminated_haemophilia_blood_products
 * http://mosaicscience.com/story/plutocratic-proposal
 * http://www.newsweek.com/2014/11/21/medical-science-has-data-problem-284066.html
+* http://www.seattletimes.com/seattle-news/health/vet-loses-faith-in-va-care-after-surgeries-amputation/ 
 * http://www.theatlantic.com/health/archive/2014/11/forget-antibacterial-products/382832/
 * http://www.wired.com/2014/11/mental-health-apps/
 * http://www.wired.com/2014/10/egg-freezing-risks/

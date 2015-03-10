@@ -395,8 +395,10 @@
 ## SQL and Databases
 
 * http://www.andreas-dewes.de/en/2015/queens-of-the-data-age-abusing-common-table-expressions-to-solve-the-eight-queens-problem-in-sql/
+* http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/
 * http://hortonworks.com/blog/hive-0-14-cost-based-optimizer-cbo-technical-overview/
 * http://rob.conery.io/2015/02/24/embracing-sql-in-postgres/
+* http://www.sql-workbench.net/dbms_comparison.html
 * http://citusdata.com/blog/114-how-to-build-your-distributed-database
 * https://aws.amazon.com/blogs/aws/highly-scalable-mysql-compat-rds-db-engine/
 * http://use-the-index-luke.com/blog/2015-02/modern-sql
@@ -513,6 +515,8 @@ things they believe in will keep </a></li>
 * http://danluu.com/new-cpu-features/
 * https://rachelbythebay.com/w/2015/02/16/capture/
 * http://www.cohodata.com/blog/2015/01/14/five-results-high-performance-data/
+* http://www.codelitt.com/blog/how-to-handle-client-comparing-hourly-to-cheap-overseas-development/
+
 
 ## Funny
 

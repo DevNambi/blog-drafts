@@ -11,6 +11,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 ### Resources, Links
 
 * http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/#the-list
+* http://www.blog.juliaferraioli.com/2015/03/engineering-first-run-experience.html
 * http://recode.net/2015/03/06/women-outperformed-men-and-a-sexual-predator-was-on-the-loose-kleiner-perkins-investigator-opens-up/
 * http://www.latimes.com/business/la-fi-women-tech-20150222-story.html#page=1
 * http://www.geekwire.com/2015/insights-from-a-gamergate-target-how-to-protect-yourself-from-harassment-online/
