@@ -98,6 +98,7 @@
 ## Higher Education
 
 * http://equitablegrowth.org/research/achievement-gap/ <- why I do what I do
+* http://www.p-value.info/2015/03/advice-to-graduate-students.html
 * http://www.theatlantic.com/business/archive/2015/03/the-man-who-snuck-into-the-ivy-league-without-paying-a-thing/386917/
 * https://www.insidehighered.com/news/2015/03/06/arizona-budget-deal-would-eliminate-all-state-funds-3-large-community-college
 * http://www.wsj.com/articles/big-gap-in-college-graduation-rates-for-rich-and-poor-study-finds-1422997677
