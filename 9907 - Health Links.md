@@ -16,6 +16,7 @@
 * http://america.aljazeera.com/articles/2014/12/25/kale-and-hearty-thesaladbowlofamericaturnstoxic.html
 * http://www.nytimes.com/2015/01/24/business/allergy-trigger-found-in-many-personal-care-items-comes-under-greater-scrutiny.html
 * http://www.theguardian.com/lifeandstyle/2014/dec/05/detox-myth-health-diet-science-ignorance
+* http://www.nerdfitness.com/blog/2015/03/09/why-exercise-is-the-least-important-part-of-the-equation-and-a-camp-nerd-fitness-update/
 * http://aeon.co/magazine/health/would-we-opt-out-of-food-if-given-the-chance/
 * http://www.theatlantic.com/health/archive/2015/01/the-selling-of-the-avocado/385047/?single_page=true
 * http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13793.html

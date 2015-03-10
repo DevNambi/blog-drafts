@@ -5,6 +5,7 @@
 * http://www.extremetech.com/computing/199978-samsung-is-still-lying-about-the-encryption-on-its-smart-tvs
 * http://arstechnica.com/security/2015/01/wireless-device-in-two-million-cars-wide-open-to-hacking/
 * http://www.richmond.com/business/ap/article_82e0ea54-5092-5368-8d76-cfcf654ae2c3.html
+* http://arstechnica.com/security/2015/03/cutting-edge-hack-gives-super-user-status-by-exploiting-dram-weakness/
 * http://seattletimes.com/html/nationworld/2025702560_bankcyberxml.html
 * http://arstechnica.com/security/2015/02/why-even-strong-crypto-wouldnt-protect-ssns-exposed-in-anthem-breach/
 * https://www.codeandsec.com/Supreme-Leaders-Not-That-Supreme-Malwares
@@ -98,9 +99,10 @@
 
 
 
-#### NSA
+#### NSA / CIA
 
 * http://arstechnica.com/tech-policy/2014/11/us-senate-falls-2-votes-short-of-shutting-down-nsa-phone-spying/
+* https://firstlook.org/theintercept/2015/03/10/ispy-cia-campaign-steal-apples-secrets/
 * http://www.scribd.com/doc/256849173/Snowden-Task-Force-Damage-Reports-REDACTED
 * http://www.reddit.com/r/IAmA/comments/2wwdep/we_are_edward_snowden_laura_poitras_and_glenn/
 * http://blog.cryptographyengineering.com/2014/12/on-new-snowden-documents.html

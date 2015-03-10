@@ -32,6 +32,7 @@
 * http://seattletimes.com/html/businesstechnology/2025244750_apxtecidentitytheftthehassle.html
 * http://www.theatlantic.com/technology/archive/2015/02/why-people-probably-wont-pay-to-keep-their-web-history-secret/385765/
 * https://blog.mozilla.org/security/2015/01/21/meta-referrer/
+* https://modelviewculture.com/pieces/social-networking-as-peer-surveillance
 * http://fusion.net/story/49806/beware-houseguests-cheap-home-surveillance-cameras-are-everywhere-now/
 * http://webpolicy.org/2015/01/14/turn-verizon-zombie-cookie/
 * http://techcrunch.com/2014/10/11/edward-snowden-new-yorker-festival/

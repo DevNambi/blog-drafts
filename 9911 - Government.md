@@ -234,6 +234,7 @@
 * http://www.nytimes.com/2015/03/03/us/prosecutors-to-seek-death-penalty-in-murders-of-arab-american-students.html
 * http://marginalrevolution.com/marginalrevolution/2015/03/the-ferguson-kleptocracy.html
 * http://arstechnica.com/tech-policy/2015/03/ferguson-cops-routinely-block-public-from-filming-them-doj-says/
+* http://america.aljazeera.com/articles/2015/3/9/un-expert-slams-us-as-only-nation-to-sentence-kids-to-life-without-parole.html
 * http://theantimedia.org/4-victims-come-forward-chicago-secret-prison-man-tortured-weed/te 
 * http://www.komonews.com/news/national/Video-shows-officer-pushing-slapping-man-at-Fla-bus-terminal-293855971.html
 * http://www.nytimes.com/2015/02/22/nyregion/even-as-many-eyes-watch-brutality-at-rikers-island-persists.html
