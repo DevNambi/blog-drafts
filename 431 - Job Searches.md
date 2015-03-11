@@ -100,6 +100,8 @@ Interviews are one of the best times to find out about a company's culture, work
 * (For MSFT): How much does stack ranking and annual commitments determine what you do each month? How about this month?
 
 
+
+
 **Useful Links**
 
 <ul>
@@ -125,6 +127,8 @@ Interviews are one of the best times to find out about a company's culture, work
 <li><a href="https://medium.com/apple-daily/f5f8c807d868" >I wanted to work at Apple really bad, and now not so much.</a></li>
 <li><a href="https://modelviewculture.com/pieces/hacker-mythologies-and-mismanagement">Hacker Mythologies and Mismanagement</a></li>
 </ul>
+
+@hintikka: KP (Kleiner Perkins) trial also confirms: if you have options and you clash w/ the structure of your workplace, leave. Structure will not change.
 
 
 

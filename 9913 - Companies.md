@@ -118,6 +118,7 @@
 * http://www.eastbayexpress.com/oakland/zoandeuml-keating-fights-youtube-to-control-her-music-and-reputation/Content?oid=4185350
 * http://techcrunch.com/2015/02/03/alan-eustace-google/
 * http://mobile.nytimes.com/2015/02/12/technology/personaltech/googles-time-at-the-top-may-be-nearing-its-end.html
+* http://www.newscientist.com/article/mg22530102.600-google-wants-to-rank-websites-based-on-facts-not-links.html
 
 
 ## Uber
