@@ -15,6 +15,7 @@
 * http://alexstechthoughts.com/post/106513520281/fact-checking-in-the-startup-world
 * http://blog.conspire.com/post/112700131803/if-you-have-startup-stock-options-check-your
 * http://berkeleyjournal.org/2015/01/morality-and-the-idea-of-progress-in-silicon-valley/
+* http://fusion.net/story/102544/venture-capital-has-a-self-dealing-problem/
 
 
 
@@ -22,6 +23,9 @@
 
 <li><a href="http://paulkortman.com/2012/11/21/the-problem-with-a-lean-startup-the-minimum-viable-product/" time_added="1353520454" tags="hn">The problem with a Lean Startup: the Minimum Viable Product. - Paul Kortman</a></li>
 <li><a href="http://blog.priceintelligently.com/blog/bid/192297/The-Saddest-SaaS-Pricing-Pages-of-the-Year" time_added="1388687384" tags="">The Saddest SaaS Pricing Pages of the Year</a></li>
+
+
+* http://recode.net/2015/03/11/cloud-subscription-software-player-zuora-lands-115-million/
 
 
 ## Customers

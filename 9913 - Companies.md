@@ -1,10 +1,10 @@
 # Businesses
 
+
+
 ## Amazon
 
 * The behavior of Amazon to its temp workers mirrors how various companies treated their African-American employees before the civil rights movement.
-
-
 
 <li><a href="http://publishersweekly.com/pw/by-topic/columns-and-blogs/soapbox/article/60517-life-after-amazon.html" time_added="1388860839" tags="">Life After Amazon</a></li>
 <li><a href="http://www.feld.com/archives/2014/07/amazons-scorpion-problem.html" time_added="1406658552" tags="">Amazon's Scorpion Problem - Feld Thoughts</a></li>
@@ -64,6 +64,8 @@
 
 * http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/massive-worldwide-layoff-underway-at-ibm
 * http://www.endicottalliance.org/jobcutsreports.php
+* https://medium.com/michael-dubakov-selection/enterprise-software-vendors-have-no-taste-add7e78b7f69
+* http://steveblank.com/2015/03/11/fear-of-failure-and-lack-of-speed-in-a-large-corporation/
 
 
 
@@ -112,6 +114,7 @@
 
 * http://www.webpronews.com/data-confirms-google-is-wiping-out-a-whole-category-of-websites-2015-01
 * http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube
+* http://arstechnica.com/information-technology/2015/03/google-balloons-cell-towers-in-the-sky-can-serve-4g-to-a-whole-state/
 * http://stratechery.com/2015/niches-problem-subscription-services/
 * https://www.futureofmusic.org/blog/2015/01/29/zo%C3%AB-keatings-youtube-dilemma-what-you-need-know
 * https://medium.com/message/never-trust-a-corporation-to-do-a-librarys-job-f58db4673351?repost=HN2

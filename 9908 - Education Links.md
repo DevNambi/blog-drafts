@@ -98,6 +98,7 @@
 ## Higher Education
 
 * http://equitablegrowth.org/research/achievement-gap/ <- why I do what I do
+* http://www.vikparuchuri.com/blog/i-barely-graduated-college/
 * http://www.p-value.info/2015/03/advice-to-graduate-students.html
 * http://www.theatlantic.com/business/archive/2015/03/the-man-who-snuck-into-the-ivy-league-without-paying-a-thing/386917/
 * https://www.insidehighered.com/news/2015/03/06/arizona-budget-deal-would-eliminate-all-state-funds-3-large-community-college
@@ -109,6 +110,7 @@
 * https://www.insidehighered.com/news/2015/02/17/two-year-colleges-washington-state-expand-competency-based-project-business-degree
 * https://www.insidehighered.com/news/2015/02/19/unc-board-panel-wants-shut-down-center-poverty-led-faculty-member-who-criticizes
 * http://www.nytimes.com/2015/02/05/us/more-college-freshmen-report-having-felt-depressed.html
+* http://www.seattletimes.com/seattle-news/education/student-group-seeks-end-to-uw-coal-investments/
 * http://www.salon.com/2014/10/18/give_student_loans_the_finger_a_new_solution_to_a_massive_generational_outrage/
 * http://www.vice.com/read/i-ghostwrote-hundreds-of-chinese-students-ivy-league-admissions-essays-897
 * http://www.newsweek.com/american-horror-ivy-league-edition-263448

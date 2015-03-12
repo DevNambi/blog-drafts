@@ -3,6 +3,7 @@
 
 * http://www.bloomberg.com/news/2014-10-02/jpmorgan-says-data-breach-affected-76-million-households.html
 * http://www.extremetech.com/computing/199978-samsung-is-still-lying-about-the-encryption-on-its-smart-tvs
+* http://offbeathome.com/2015/03/internet-security-tips
 * http://arstechnica.com/security/2015/01/wireless-device-in-two-million-cars-wide-open-to-hacking/
 * http://www.richmond.com/business/ap/article_82e0ea54-5092-5368-8d76-cfcf654ae2c3.html
 * http://arstechnica.com/security/2015/03/cutting-edge-hack-gives-super-user-status-by-exploiting-dram-weakness/
@@ -14,6 +15,7 @@
 * https://www.owasp.org/index.php/Authentication_Cheat_Sheet
 * http://www.wired.com/2015/01/state-of-our-unions-data-insecure/
 * https://medium.com/@thedanigrant/need-a-last-minute-flight-45af88ec8df3
+* http://blog.ircmaxell.com/2015/03/security-issue-combining-bcrypt-with.html
 * http://krebsonsecurity.com/2015/02/anthem-breach-may-have-started-in-april-2014/
 * https://www.schneier.com/blog/archives/2015/01/the_security_of_10.html
 * https://firstlook.org/theintercept/2015/01/28/canada-cse-levitation-mass-surveillance/
@@ -120,6 +122,7 @@
 * http://www.pcworld.com/article/2884952/equation-cyberspies-use-unrivaled-nsastyle-techniques-to-hit-iran-russia.html
 * http://arstechnica.com/security/2015/02/how-do-i-stop-this-virus-equation-group-victim-pleaded-for-help-online/
 * http://www.theverge.com/2015/2/19/8071453/nsa-gchq-snowden-sim-phone-security
+* http://arstechnica.com/security/2015/03/new-smoking-gun-further-ties-nsa-to-omnipotent-equation-group-hackers/
 * https://firstlook.org/theintercept/2015/02/19/great-sim-heist/
 * http://www.wired.com/2015/02/firmware-vulnerable-hacking-can-done/
 * http://arstechnica.com/tech-policy/2015/02/sim-card-makers-hacked-by-nsa-and-gchq-leaving-cell-networks-wide-open/

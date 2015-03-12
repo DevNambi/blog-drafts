@@ -9,6 +9,7 @@
 * http://www.dailydot.com/politics/jeremy-hammond-terrorist-watchlist-fbi/
 * http://www.theatlantic.com/politics/archive/2015/03/the-conservative-case-against-enforcing-immigration-laws/387004/
 * http://www.cnbc.com/id/102409348
+* http://www.theguardian.com/us-news/2015/mar/10/selma-alabama-march-confederate
 * http://wabe.org/post/how-fema-uses-waffle-house-measure-disasters
 * http://www.nytimes.com/2015/02/24/world/africa/as-tourism-sags-on-kenyan-coast-terrorists-could-lure-the-unemployed.html?_r=0
 * http://www.theatlantic.com/politics/archive/2015/03/when-government-competes-against-the-private-sector-everybody-wins/387460/
@@ -112,6 +113,7 @@
 * http://panampost.com/sabrina-martin/2015/01/29/venezuelan-army-can-shoot-protesters-effective-immediately/
 * http://militaryprofessionalreadinglists.com/
 * http://20committee.com/2015/01/15/a-pentagon-insider-speaks-on-obamas-gwow/
+* http://boingboing.net/2015/03/11/drones-and-the-rise-of-the-hig.html
 * http://www.nakedcapitalism.com/2015/03/pilots-deserting-washingtons-drone-war.html
 * https://www.schneier.com/blog/archives/2015/02/obama_says_terr.html
 * http://www.amnesty.org/en/news/usa-guant-namo-911-military-hearing-halted-cia-black-site-claims-2015-02
@@ -247,9 +249,12 @@
 * http://www.theatlantic.com/politics/archive/2015/03/The-Gangsters-Of-Ferguson/386893/
 * http://www.waaytv.com/appnews/madison-officer-charged-with-assault-for-use-of-force-incident/article_7b09d144-b2fe-11e4-a0e4-b339eed5e1af.html
 * http://www.dailykos.com/story/2015/02/25/1366754/-LAPD-shoot-kill-unarmed-mentally-ill-veteran-on-live-TV-No-charges-Guess-what-their-defense-was
+* http://boingboing.net/2015/03/09/chicagoans-fight-for-police-to.html
 * http://voiceofsandiego.org/all-narratives/police-misconduct/their-crime-walking-into-their-own-home/
 * http://arstechnica.com/tech-policy/2015/02/powerful-stingrays-used-to-go-after-911-hangup-atm-burglary/
 * http://seattletimes.com/html/nationworld/2025719637_apxpolicerestraint.html
+* http://boingboing.net/2015/03/12/aaron-swartz-and-impact-litiga.html
+* http://arstechnica.com/tech-policy/2015/03/majority-of-use-of-force-incidents-not-recorded-by-denver-cops-body-cams/
 * http://www.theatlantic.com/national/archive/2015/03/ferguson-as-a-criminal-conspiracy-against-its-black-residents-michael-brown-department-of-justice-report/386887/
 * http://countercurrentnews.com/2015/02/cop-threatens-journalist-arrest-for-arguing-with-him-on-facebook/
 * http://www.nytimes.com/2015/02/15/us/law-enforcement-issues-in-missouri-and-other-states-spur-unlikely-alliances.html
@@ -465,6 +470,7 @@
 
 
 * https://medium.com/i-m-h-o/the-world-is-socialist-c8f0a6dfffab
+* http://www.slate.com/articles/news_and_politics/low_concept/2015/03/an_open_letter_to_47_republican_senators_from_iran_s_hard_liners_we_have.html
 * http://www.salon.com/2014/11/19/house_republicans_just_passed_a_bill_forbidding_scientists_from_advising_the_epa_on_their_own_research/
 * http://www.networkworld.com/article/2837808/big-data-business-intelligence/big-data-wars-how-technology-could-tip-the-mid-term-elections.html
 * http://www.newyorker.com/humor/borowitz-report/midterms-prediction-billionaires-retain-control-government

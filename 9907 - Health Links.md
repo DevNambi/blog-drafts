@@ -6,6 +6,7 @@
 
 
 * http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0
+* http://www.economist.com/news/technology-quarterly/21645497-tech-startups-are-moving-food-business-make-sustainable-versions-meat
 * http://arstechnica.com/science/2015/02/common-food-emulsifiers-may-be-linked-to-metabolic-syndrome/
 * http://www.theatlantic.com/health/archive/2015/02/the-new-best-way-to-eat/385659/ 
 * http://blog.dilbert.com/post/109880240641/sciences-biggest-fail
@@ -185,9 +186,11 @@
 * http://www.nytimes.com/2015/02/24/opinion/how-to-develop-new-antibiotics.html?smid=tw-share&_r=1
 * http://arstechnica.com/science/2015/02/hospitals-that-track-their-performance-dont-improve-healthcare/
 * http://www.nytimes.com/2015/03/08/technology/on-the-case-at-mount-sinai-its-dr-data.html? <- my calling?
+* http://recode.net/2015/03/11/gates-foundations-new-ceo-why-we-can-eradicate-four-diseases-in-the-next-15-years/
 * http://www.extremetech.com/extreme/199602-fda-authorizes-23andme-to-market-health-related-genetic-testing
 * http://www.nytimes.com/2015/02/19/opinion/oliver-sacks-on-learning-he-has-terminal-cancer.html
 * http://news.sciencemag.org/biology/2015/02/stopping-hiv-artificial-protein
+* http://www.popsci.com/ultrasound-restores-memory-mice-alzheimers
 * http://www.nytimes.com/2015/02/18/health/doctors-strive-to-do-less-harm-by-inattentive-care.html?_r=0 <- how does this interact with EHR?
 * http://www.wired.com/2015/02/incredible-hospital-robot-saving-lives-also-hate/
 * http://www.bmj.com/content/350/bmj.h384

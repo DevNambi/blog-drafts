@@ -67,6 +67,7 @@
 * http://www.theeffectiveengineer.com/blog/hidden-costs-that-engineers-ignore
 * http://www.drmaciver.com/2013/03/what-the-fuck-are-we-doing/
 * http://gael-varoquaux.info/programming/software-design-for-maintainability.html
+* http://danluu.com/testing/
 
 
 
@@ -255,6 +256,7 @@
 
 
 * http://muratbuffalo.blogspot.com/2014/07/distributed-is-not-necessarily-more.html
+* http://engineering.pinterest.com/post/113376157699/open-sourcing-pinball
 * http://www.brendangregg.com/blog/2015-03-03/performance-tuning-linux-instances-on-ec2.html
 * http://blog.atomicinc.com/2015/03/03/does-amazon-web-services-pricing-follow-moores-law-2350/
 * http://www.cloudcomputingpatterns.org/ <- priceless
@@ -388,6 +390,7 @@
 * http://blog.scoutapp.com/articles/2015/02/24/understanding-linuxs-cpu-stats
 * https://groups.google.com/forum/#!msg/linux-sunxi/78MbtijKraY/cZSxI_59sg4J
 * http://www.brendangregg.com/blog/2015-03-03/performance-tuning-linux-instances-on-ec2.html
+* http://www.vitavonni.de/blog/201503/2015031201-the-sad-state-of-sysadmin-in-the-age-of-containers.html
 
 
 
@@ -488,6 +491,8 @@ things they believe in will keep </a></li>
 <li><a href="http://www.wired.com/opinion/2013/03/github/" time_added="1362848556" tags="brand,hiring/firing,hn,important,personal tech">The GitHub Generation: Why We're All in Open Source Now | Wired Opinion | W</a></li>
 
 * http://danluu.com/discourage-oss/
+* http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/
+* 
 
 
 
