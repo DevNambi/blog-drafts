@@ -178,7 +178,8 @@
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
 * http://www.bbc.com/news/health-31713147
 * http://www.thedailybeast.com/articles/2015/02/26/why-you-trust-the-internet-more-than-your-doctor.html
-* http://newsroom.ucla.edu/releases/memory-loss-associated-with-alzheimers-reversed-for-first-time#.VNqBsTA1Msg.facebook
+* http://newsroom.ucla.edu/releases/memory-loss-associated-with-alzheimers-reversed-for-first-time
+* http://www.latimes.com/science/sciencenow/la-sci-sn-h7n9-bird-flu-china-spread-pandemic-20150311-story.html
 * http://www.bloomberg.com/news/features/2015-02-12/does-a-real-anti-aging-pill-already-exist-
 * http://www.bbc.com/news/health-31533559
 * http://www.nytimes.com/2015/02/24/opinion/how-to-develop-new-antibiotics.html?smid=tw-share&_r=1

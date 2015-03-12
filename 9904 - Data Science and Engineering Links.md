@@ -402,6 +402,7 @@
 
 * http://textvis.lnu.se/
 * http://bugra.github.io/work/notes/2015-02-21/topic-modeling-for-the-uninitiated/
+* http://engineering.intenthq.com/2015/02/automatic-topic-modelling-with-lda/
 
 
 
@@ -533,6 +534,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://jeremykun.com/2014/10/05/on-the-computational-complexity-of-mapreduce/
 * http://thenewstack.io/airbnbs-airpal-reflects-new-ways-to-query-and-get-answers-from-hive-and-hadoop/
 * http://key-value-stories.blogspot.com/2015/02/memcached-internals-design.html
+* http://techblog.netflix.com/2015/03/can-spark-streaming-survive-chaos-monkey.html
 * http://blog.acolyer.org/2015/02/05/impala-a-modern-open-source-sql-engine-for-hadoop/
 * http://prometheus.io/
 * http://tech.adroll.com/blog/data/2013/07/10/hll-minhash.html
