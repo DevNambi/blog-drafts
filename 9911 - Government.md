@@ -246,6 +246,7 @@
 * http://www.nytimes.com/2015/02/22/nyregion/even-as-many-eyes-watch-brutality-at-rikers-island-persists.html
 * http://thefreethoughtproject.com/man-criminal-record-facing-life-prison-flashing-gang-signs-facebook/
 * http://www.theroot.com/articles/culture/2014/02/cop_breaks_10_year_old_s_leg_for_filming_him.html
+* http://arstechnica.com/tech-policy/2015/03/nypd-caught-red-handed-sanitizing-police-brutality-wikipedia-entries/
 * http://www.theguardian.com/us-news/2015/feb/24/chicago-police-detain-americans-black-site
 * http://www.theatlantic.com/politics/archive/2015/03/The-Gangsters-Of-Ferguson/386893/
 * http://www.waaytv.com/appnews/madison-officer-charged-with-assault-for-use-of-force-incident/article_7b09d144-b2fe-11e4-a0e4-b339eed5e1af.html
