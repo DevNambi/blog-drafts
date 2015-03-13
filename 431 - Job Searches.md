@@ -111,8 +111,8 @@ Interviews are one of the best times to find out about a company's culture, work
 <li><a href="http://blog.ellenchisa.com/2014/04/13/stuff-ive-screwed-up-while-interviewing/">Stuff I've Screwed Up While Interviewing</a></li>
 </ul>
 
-### Company Culture
 
+### Company Culture
 
 <ul>
 <li><a href="https://www.linkedin.com/today/post/article/20140528155249-224083-10-signs-a-company-has-a-serious-culture-problem">10 Signs a Company Has a Serious Culture Problem</a></li>
@@ -172,6 +172,7 @@ Interviews are one of the best times to find out about a company's culture, work
 <li><a href="http://jacobian.org/writing/unlimited-vacation/">On Unlimited Vacation</a></li>
 <li><a href="http://jacquesmattheij.com/Salary+negotiations+for+techies">Salary Negotiations for Techies</a></li>
 <li><a href="http://blog.jobbox.io/common-reasons-salaries-arent-disclosed-job-offers/">Common reasons salaries aren't disclosed</a></li>
+<li><a href="http://www.businessinsider.com/the-programming-and-engineering-skills-with-the-highest-salaries-2015-3">The programming and engineering skills with the highest salaries</a></li>
 </ul>
 
 
@@ -235,6 +236,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="
 http://www.computerworld.com/article/2879083/southern-california-edison-it-workers-beyond-furious-over-h-1b-replacements.html">Southern California IT Workers Beyond Furious over H1B Replacements</a></li>
 <li><a href="http://www.barryclark.co/hiring-developers-h1b-visa/">Hiring H1B developers</a></li>
+<li><a href="http://www.sandiegoreader.com/news/2015/mar/11/citylights1-scheme-lower-engineers-wages/">A scheme to lower engineers’ wages</a></li>
 </ul>
 
 

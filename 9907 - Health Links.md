@@ -17,6 +17,7 @@
 * http://america.aljazeera.com/articles/2014/12/25/kale-and-hearty-thesaladbowlofamericaturnstoxic.html
 * http://www.nytimes.com/2015/01/24/business/allergy-trigger-found-in-many-personal-care-items-comes-under-greater-scrutiny.html
 * http://www.theguardian.com/lifeandstyle/2014/dec/05/detox-myth-health-diet-science-ignorance
+* http://www.washingtonpost.com/blogs/wonkblog/wp/2015/03/11/the-sneaky-way-the-sugar-industry-shaped-government-funded-dental-research/
 * http://www.nerdfitness.com/blog/2015/03/09/why-exercise-is-the-least-important-part-of-the-equation-and-a-camp-nerd-fitness-update/
 * http://aeon.co/magazine/health/would-we-opt-out-of-food-if-given-the-chance/
 * http://www.theatlantic.com/health/archive/2015/01/the-selling-of-the-avocado/385047/?single_page=true
@@ -197,6 +198,7 @@
 * http://www.nytimes.com/2015/02/11/nyregion/doulas-the-latest-wave-in-maternity-culture-are-organizing-for-more-recognition.html?_r=0
 * http://www.impactjournals.com/oncotarget/index.php?journal=oncotarget&page=article&op=view&path%5B%5D=3174
 * http://www.huffingtonpost.com/johann-hari/the-real-cause-of-addicti_b_6506936.html
+* http://www.bbc.com/news/world-europe-31864218 <- hilarious
 * http://nautil.us/issue/21/information/your-dna-is-nothing-special
 * http://www.nytimes.com/2015/02/03/upshot/how-to-measure-a-medical-treatments-potential-for-harm.html?_r=0&abt=0002&abg=1 <- super important
 * http://mobile.nytimes.com/blogs/well/2015/02/04/infections-tied-to-lower-rheumatoid-arthritis-risk/?referrer=
@@ -420,6 +422,8 @@
 * http://fivethirtyeight.com/datalab/what-canceling-an-insurance-program-meant-for-arizonas-kids/
 * http://www.nytimes.com/2013/10/13/us/the-soaring-cost-of-a-simple-breath.html
 * http://mobile.nytimes.com/2015/02/08/sunday-review/insured-but-not-covered.html
+* http://www.geekwire.com/2015/healthcare-costs-are-devastating-education-budgets-and-computer-science-education-is-collateral-damage/
+* http://flowingdata.com/2015/03/12/health-data-breaches-and-fines/
 * http://www.theatlantic.com/health/archive/2015/02/The-Lottery-of-Healthcare-Prices/385092/
 * http://www.nytimes.com/2015/02/01/us/medical-costs-rise-as-retirees-winter-in-south.html
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2013/05/08/one-hospital-charges-8000-another-38000/

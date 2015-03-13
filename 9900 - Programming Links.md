@@ -407,6 +407,7 @@
 * http://use-the-index-luke.com/blog/2015-02/modern-sql
 * https://foundationdb.com/key-value-store/white-papers/future-of-nosql
 * http://allen-mcguire.blogspot.com/2014/06/reporting-on-spblitzcache-results.html
+* http://queue.acm.org/detail.cfm?id=2696453
 * http://www.pg-versus-ms.com/ <- brilliant, and useful.
 * http://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html
 * http://www.postgres-xl.org/

@@ -79,6 +79,7 @@
 
 
 * http://www.nakedcapitalism.com/2014/09/sec-coverup-private-equity-worse-tbtf-banks.html
+* http://www.nakedcapitalism.com/2015/03/fed-impedes-gao-audits-destroying-source-documents.html
 * http://uk.reuters.com/article/2015/02/25/uk-hsbc-tax-politics-idUKKBN0LT1L220150225
 * http://www.nakedcapitalism.com/2015/03/rebuke-cronyistic-new-york-fed-tbtf-bank-supervision-shifted-fed-board-governors.html
 * http://www.vanityfair.com/news/2015/03/michael-lewis-flash-boys-one-year-later
@@ -160,6 +161,7 @@
 
 * http://www.gallup.com/opinion/chairman/181469/big-lie-unemployment.aspx
 * http://www.theguardian.com/commentisfree/2015/feb/12/debtors-prisons-illegal-america-ferguson-missouri-incarcerated
+* http://www.nakedcapitalism.com/2015/03/bloomberg-consumers-arent-spending-even-booming-job-market.html
 * http://www.nakedcapitalism.com/2015/03/austerity-kills-economic-distress-seen-culprit-sharp-rise-suicide-rate-among-middle-aged.html
 * http://pndblog.typepad.com/pndblog/2015/02/infographic-the-millennial-wheel-of-disengagement.html
 * http://roarmag.org/2015/02/london-middle-class-culture-poverty/ <- eloquent

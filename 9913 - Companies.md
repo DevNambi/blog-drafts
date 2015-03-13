@@ -152,6 +152,7 @@
 ## Media, News
 
 * http://www.huffingtonpost.com/2014/12/05/new-republic-resignations_n_6275810.html
+* http://blog.aylien.com/post/113443039128/how-we-built-a-press-target-list-of-300-qualified
 
 
 ## Airlines
@@ -188,9 +189,10 @@
 * http://mobile.nytimes.com/2015/03/06/business/companies-turn-tables-on-human-rights-lawyers.html?_r=0
 * http://www.bbc.com/news/business-31596323
 * http://www.wired.com/2015/02/etsy-not-good-for-crafters/
-* http://money.cnn.com/2014/11/20/news/companies/fedex-driver-lawsuit/index.html?hpt=hp_t2
+* http://money.cnn.com/2014/11/20/news/companies/fedex-driver-lawsuit/index.html
 * http://www.komonews.com/news/business/Railroads-seek-one-person-crews-for-freight-trains-286586911.html
 * http://pando.com/2014/11/26/how-comcast-and-hp-are-corrupting-elections-in-america/
+* https://hbr.org/2015/03/gms-stock-buyback-is-bad-for-america-and-the-company
 * http://www.foreignaffairs.com/articles/142497/james-bessen/the-anti-innovators
 * http://mashable.com/2014/12/03/history-of-reddit/
 * http://www.bbc.com/news/business-30532463

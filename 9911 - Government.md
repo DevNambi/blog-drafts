@@ -98,6 +98,7 @@
 * http://m.apnews.com/ap/db_268798/contentdetail.htm?contentguid=fNnaocly
 * http://www.pieria.co.uk/articles/why_the_worlds_biggest_military_keeps_losing_wars <- how politics and war intertwine
 * http://www.nytimes.com/2015/01/29/world/us-suddenly-goes-quiet-on-effort-to-bolster-afghan-forces.html
+* http://blog.longreads.com/2015/03/11/interview-with-a-torturer/
 * https://news.vice.com/article/i-didnt-join-the-taliban-because-i-was-poor-i-joined-because-i-was-angry-report-finds-injustice-not-unemployment-radicalizes-youth
 * http://www.theguardian.com/us-news/2015/feb/18/guantanamo-torture-chicago-police-brutality
 * http://www.publicintegrity.org/2015/02/10/16735/lawyer-moved-halliburton-subsidiary-bribes-through-secret-swiss-hsbc-accounts

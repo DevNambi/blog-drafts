@@ -15,6 +15,7 @@
 * http://alexstechthoughts.com/post/106513520281/fact-checking-in-the-startup-world
 * http://blog.conspire.com/post/112700131803/if-you-have-startup-stock-options-check-your
 * http://berkeleyjournal.org/2015/01/morality-and-the-idea-of-progress-in-silicon-valley/
+* http://recode.net/2015/03/12/kleiner-perkins-wrote-an-hr-policy-in-wake-of-female-partner-complaints/
 * http://fusion.net/story/102544/venture-capital-has-a-self-dealing-problem/
 
 
@@ -51,6 +52,7 @@
 * https://hbr.org/2015/01/the-sharing-economy-isnt-about-sharing-at-all
 * http://www.fastcompany.com/3042248/the-gig-economy-wont-last-because-its-being-sued-to-death
 * http://www.nytimes.com/2015/02/22/magazine/meet-the-unlikely-airbnb-hosts-of-japan.html
+* http://www.slate.com/blogs/moneybox/2015/03/12/uber_lyft_employment_cases_juries_could_decide_the_legal_fate_of_the_sharing.html
 
 
 "The incapacity to see structurally: what you value (in the service - freedom) is the values (f-k the law, employees) that brings you that" - https://twitter.com/camerontw

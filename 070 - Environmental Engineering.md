@@ -94,6 +94,7 @@ Emphasize what we don't know
 * http://mobile.nytimes.com/2015/03/04/dining/efficiency-in-the-kitchen-to-reduce-food-waste.html
 * http://www.seattletimes.com/nation-world/instruments-catch-carbon-in-the-act-of-warming-sky/ 
 * https://medium.com/ted-fellows/how-to-grow-a-forest-really-really-fast-d27df202ba09
+* http://www.technologyreview.com/featuredstory/534996/megascale-desalination/
 * http://www.calgaryherald.com/news/vancouver/Ocean+waste+hits+home+Plastic+filled+fish+guts+ruins+Chilliwack/10827599/story.html
 * http://www.nytimes.com/2015/02/17/world/americas/drought-pushes-sao-paulo-brazil-toward-water-crisis.html?_r=0
 * https://ca.news.yahoo.com/brazilians-hoard-water-prepare-possible-drastic-rationing-164505818--business.html
