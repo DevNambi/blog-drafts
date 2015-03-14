@@ -153,6 +153,7 @@
 
 * http://www.huffingtonpost.com/2014/12/05/new-republic-resignations_n_6275810.html
 * http://blog.aylien.com/post/113443039128/how-we-built-a-press-target-list-of-300-qualified
+* http://www.washingtonpost.com/blogs/monkey-cage/wp/2015/03/11/the-decline-of-journalism-and-the-rise-of-public-relations/
 
 
 ## Airlines

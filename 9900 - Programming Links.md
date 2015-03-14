@@ -110,6 +110,7 @@
 * http://www.shubhro.com/2014/12/27/software-engineers-should-write/
 * http://manuel.bernhardt.io/2014/12/30/generation-javascript/
 * http://singularityhub.com/2014/12/28/future-of-work-part-ii-why-teaching-everyone-to-code-is-delusional/ 
+* https://docs.google.com/document/d/1rU5-t09tEBym1wD3NUr7s9mMgFBmfGJNBz3F8TGzDsU/preview?sle=true&pli=1
 
 
 
@@ -132,6 +133,7 @@
 * http://michaelochurch.wordpress.com/2014/10/13/it-might-be-time-for-software-engineers-especially-in-silicon-valley-to-unionize/
 * http://blog.hut8labs.com/coding-fast-and-slow.html?reddit
 * http://www.higherorderlogic.com/2010/07/bad-code-isnt-technical-debt-its-an-unhedged-call-option/
+* http://blog.stephenwyattbush.com/2012/04/07/dad-and-the-ten-commandments-of-egoless-programming
 
 
 
@@ -190,6 +192,7 @@
 * http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
 * https://github.com/airbnb/javascript/issues/102 <- great analogy about coding style guides
 * https://rachelbythebay.com/w/2013/06/05/duck/
+* https://localizejs.com/blog/startup/developer-productivity-saying-no
 
 
 
@@ -262,8 +265,10 @@
 * http://www.cloudcomputingpatterns.org/ <- priceless
 * http://www.devfactor.net/2014/12/30/2375-amazon-mistake/
 * https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1?wed <- comprehensive
+* http://blog.cr.yp.to/20150314-optimizing.html
 * http://swrveengineering.wordpress.com/2014/10/14/how-we-increased-our-ec2-event-throughput-by-50-for-free/
 * http://instagram-engineering.tumblr.com/post/100758229719/migrating-from-aws-to-aws
+* https://zwischenzugs.wordpress.com/2015/03/14/docker-in-practice-a-guide-for-engineers/
 * http://blogs.wsj.com/digits/2015/01/06/googles-cloud-loses-following-among-cios-survey-finds/
 * http://aws.amazon.com/blogs/aws/new-aws-directory-service/
 * http://www.hokstad.com/docker/patterns
@@ -284,6 +289,7 @@
 * http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/
 * http://blog.serverfault.com/2015/03/05/how-we-upgrade-a-live-data-center/
 * http://danluu.com/3c-conflict/
+* http://blog.scalyr.com/2014/05/searching-20-gbsec-systems-engineering-before-algorithms/?1
 
 
 
@@ -400,6 +406,7 @@
 * http://www.andreas-dewes.de/en/2015/queens-of-the-data-age-abusing-common-table-expressions-to-solve-the-eight-queens-problem-in-sql/
 * http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/
 * http://hortonworks.com/blog/hive-0-14-cost-based-optimizer-cbo-technical-overview/
+* http://blog.parsely.com/post/1691/lucene/
 * http://rob.conery.io/2015/02/24/embracing-sql-in-postgres/
 * http://www.sql-workbench.net/dbms_comparison.html
 * http://citusdata.com/blog/114-how-to-build-your-distributed-database
@@ -493,7 +500,6 @@ things they believe in will keep </a></li>
 
 * http://danluu.com/discourage-oss/
 * http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/
-* 
 
 
 

@@ -89,6 +89,7 @@ Interviews are one of the best times to find out about a company's culture, work
 * How do you deal with different communications' preferences amongst your developers?
 * What do you do when a PM asks for features at the last minute?
 * How do you learn from your mistakes?
+* Do you have a firewall that blocks sites/services for employees? Do you block StackOverflow?
 
 **I Ask Potential Coworkers**
 
