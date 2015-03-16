@@ -619,6 +619,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://technocalifornia.blogspot.com/2014/12/ten-lessons-learned-from-building-real.html
 * http://www.frankmcsherry.org/graph/scalability/cost/2015/01/15/COST.html
 * http://iquantny.tumblr.com/post/109370229799/does-gentrification-cause-a-reduction-in
+* http://nbviewer.ipython.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/optimal-road-trip/Computing%20the%20optimal%20road%20trip%20across%20the%20U.S..ipynb
 * http://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/
 * http://arxiv.org/pdf/1210.0530v3.pdf <- Best Practices for Scientific Computing #priceless
 * http://www.slideshare.net/xamat/10-lessons-learned-from-building-machine-learning-systems
