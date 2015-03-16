@@ -41,6 +41,7 @@ Only use active verbs.
 * http://www.fastcodesign.com/3038950/evidence/the-science-of-politely-ending-a-conversation
 * http://www.theatlantic.com/education/archive/2014/12/how-scientists-are-learning-to-write/383685/?single_page=true
 * http://www.bobpusateri.com/archive/2015/02/why-you-should-submit-for-pass-summit-2015/
+* http://www.artofmanliness.com/2012/08/22/how-to-make-small-talk/
 
 Blog meta
 	Who is my audience?
