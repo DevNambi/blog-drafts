@@ -27,6 +27,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * http://fortune.com/2015/02/17/a-female-computer-science-major-at-stanford-floored-by-the-sexism/
 * http://gutsybroads.com/2015/02/investor-wanted-give-50000-heres-said-no/
 * http://www.psmag.com/health-and-behavior/women-arent-welcome-internet-72170
+* https://medium.com/@katylevinson/sexism-in-tech-don-t-ask-me-unless-you-re-ready-to-call-somebody-a-whistleblower-e5d545e547b0
 * http://www.rawstory.com/rs/2015/02/supreme-court-lets-stand-ruling-that-firing-woman-for-breastfeeding-not-sexist-because-men-can-lactate/
 * https://github.com/cinchrb/cinch/commit/496f026439ab6c421ac229a34246bf26f2b4daa6#commitcomment-9391776
 * Image comes from http://chainsawsuit.com/wp-content/uploads/2014/10/20141015-perfectcrime.png
