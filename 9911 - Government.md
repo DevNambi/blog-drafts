@@ -248,6 +248,7 @@
 * http://www.theroot.com/articles/culture/2014/02/cop_breaks_10_year_old_s_leg_for_filming_him.html
 * http://arstechnica.com/tech-policy/2015/03/nypd-caught-red-handed-sanitizing-police-brutality-wikipedia-entries/
 * http://www.theguardian.com/us-news/2015/feb/24/chicago-police-detain-americans-black-site
+* http://www.huffingtonpost.com/nathan-robinson/the-shocking-finding-from-the-doj-ferguson_b_6858388.html
 * http://www.theatlantic.com/politics/archive/2015/03/The-Gangsters-Of-Ferguson/386893/
 * http://www.waaytv.com/appnews/madison-officer-charged-with-assault-for-use-of-force-incident/article_7b09d144-b2fe-11e4-a0e4-b339eed5e1af.html
 * http://www.dailykos.com/story/2015/02/25/1366754/-LAPD-shoot-kill-unarmed-mentally-ill-veteran-on-live-TV-No-charges-Guess-what-their-defense-was
