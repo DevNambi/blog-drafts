@@ -501,6 +501,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 
 * http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype
 * http://www.technologyreview.com/news/535041/automating-the-data-scientists/
+* http://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/
 
 
 
