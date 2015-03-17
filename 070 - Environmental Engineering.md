@@ -83,6 +83,7 @@ Emphasize what we don't know
 
 * http://forecast.io/raw/
 * http://www.nakedcapitalism.com/2014/04/gaius-publius-climate-scientist-michael-mann-dont-stop-now-well-surpass-2c-global-warming.html
+* http://arstechnica.com/science/2015/03/us-doe-examines-a-future-grid-thats-35-percent-wind/
 * http://www.rollingstone.com/politics/news/the-pentagon-climate-change-how-climate-deniers-put-national-security-at-risk-20150212
 * http://arstechnica.com/science/2015/03/recycling-in-the-us-an-off-again-on-again-love-affair/
 * http://www.nytimes.com/2015/01/29/science/new-report-urges-western-governments-to-reconsider-reliance-on-biofuels.html?_r=0

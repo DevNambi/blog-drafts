@@ -105,6 +105,7 @@
 * http://projects.wsj.com/lobotomyfiles/
 * http://www.nytimes.com/2014/12/27/us/politics/after-scrutiny-cia-mandate-is-untouched-.html
 * https://firstlook.org/theintercept/2014/12/19/senior-cia-officer-center-torture-scandals-alfreda-bikowsky/
+* http://mobile.nytimes.com/2015/03/18/world/asia/afghan-militia-leaders-empowered-by-us-to-fight-taliban-inspire-fear-in-villages.html <- generating the next generation of terrorists
 * http://www.theatlantic.com/international/archive/2014/12/america-28-billion-failure-in-pakistan-peshawar-attack-school/383919/
 * http://www.truth-out.org/art/item/27999-thought-experiment
 * http://www.nakedcapitalism.com/2014/10/john-helmer-cia-bumbling-now.html

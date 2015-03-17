@@ -29,6 +29,7 @@
 
 
 * http://www.theatlantic.com/technology/archive/2014/09/why-privacy-policies-are-so-inscrutable/379615/
+* http://arstechnica.com/security/2015/03/anti-doxing-strategy-or-how-to-avoid-50-qurans-and-287-of-chick-fil-a/ <- incredibly important read
 * http://recode.net/2015/03/10/facebook-topic-data-advertisers/
 * http://seattletimes.com/html/businesstechnology/2025244750_apxtecidentitytheftthehassle.html
 * http://www.theatlantic.com/technology/archive/2015/02/why-people-probably-wont-pay-to-keep-their-web-history-secret/385765/

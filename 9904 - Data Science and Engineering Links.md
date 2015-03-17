@@ -445,7 +445,7 @@
 * http://jmozah.github.io/links/
 * http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/
 * http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/facebook-ai-director-yann-lecun-on-deep-learning
-
+* http://benanne.github.io/2015/03/17/plankton.html <- incredibly detailed
 
 
 ## Learning
@@ -621,6 +621,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://technocalifornia.blogspot.com/2014/12/ten-lessons-learned-from-building-real.html
 * http://www.frankmcsherry.org/graph/scalability/cost/2015/01/15/COST.html
 * http://iquantny.tumblr.com/post/109370229799/does-gentrification-cause-a-reduction-in
+
 * http://nbviewer.ipython.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/optimal-road-trip/Computing%20the%20optimal%20road%20trip%20across%20the%20U.S..ipynb
 * http://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/
 * http://arxiv.org/pdf/1210.0530v3.pdf <- Best Practices for Scientific Computing #priceless

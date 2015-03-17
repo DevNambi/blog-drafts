@@ -1,4 +1,4 @@
-# Programming
+## Programming
 
 
 
@@ -406,6 +406,7 @@
 * http://www.andreas-dewes.de/en/2015/queens-of-the-data-age-abusing-common-table-expressions-to-solve-the-eight-queens-problem-in-sql/
 * http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/
 * http://hortonworks.com/blog/hive-0-14-cost-based-optimizer-cbo-technical-overview/
+* http://www.brentozar.com/archive/2015/03/five-interview-questions-to-ask-sql-server-developers/
 * http://www.jandrewrogers.com/2015/03/02/geospatial-databases-are-hard/?h
 * http://blog.parsely.com/post/1691/lucene/
 * http://rob.conery.io/2015/02/24/embracing-sql-in-postgres/
