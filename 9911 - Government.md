@@ -247,6 +247,7 @@
 * http://thefreethoughtproject.com/man-criminal-record-facing-life-prison-flashing-gang-signs-facebook/
 * http://www.theroot.com/articles/culture/2014/02/cop_breaks_10_year_old_s_leg_for_filming_him.html
 * http://arstechnica.com/tech-policy/2015/03/nypd-caught-red-handed-sanitizing-police-brutality-wikipedia-entries/
+* http://www.theguardian.com/us-news/2015/mar/16/portland-man-tortured-uae-behest-of-fbi
 * http://www.theguardian.com/us-news/2015/feb/24/chicago-police-detain-americans-black-site
 * http://www.huffingtonpost.com/nathan-robinson/the-shocking-finding-from-the-doj-ferguson_b_6858388.html
 * http://www.theatlantic.com/politics/archive/2015/03/The-Gangsters-Of-Ferguson/386893/

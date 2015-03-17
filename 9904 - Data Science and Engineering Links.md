@@ -330,6 +330,7 @@
 * http://research.microsoft.com/pubs/192769/tricks-2012.pdf
 * http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 * https://newsoffice.mit.edu/2015/better-machine-learning-kalyan-veeramachaneni-0224
+* https://outlookzen.wordpress.com/2015/03/15/life-lessons-from-machine-learning/
 * http://research.microsoft.com/en-us/projects/r2/
 * http://probabilistic-programming.org/wiki/Home
 * http://new.livestream.com/accounts/7874891/events/3565981 <- ML conf videos
@@ -430,6 +431,7 @@
 * http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
 * https://chronicle.com/article/article-content/190147/
 * http://blog.wtf.sg/
+* http://sebastianraschka.com/Articles/2015_singlelayer_neurons.html
 * http://www.extremetech.com/extreme/199814-microsoft-to-accelerate-bing-search-with-neural-network
 * http://www.rosebt.com/blog/introduction-to-deep-learning-with-python
 * https://timdettmers.wordpress.com/2014/08/14/which-gpu-for-deep-learning/
