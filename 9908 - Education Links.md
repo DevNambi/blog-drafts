@@ -377,6 +377,7 @@
 * http://stuartspencestuff.blogspot.com/2015/02/many-mcgill-education-students-cannot.html
 * https://www.insidehighered.com/quicktakes/2015/02/23/second-umkc-professor-resigns-ranking-scandal
 * https://www.insidehighered.com/news/2015/03/03/uw-madison-chancellor-comes-under-fire-comments-about-how-she-matches-outside
+* https://ed.stanford.edu/news/stanford-study-shows-success-different-learning-styles-computer-science-class <- grades are not the point. Overfitting problem
 
 
 ### Student Culture, Sexual Assault, Assault
