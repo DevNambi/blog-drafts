@@ -81,11 +81,13 @@
 * http://www.nakedcapitalism.com/2014/09/sec-coverup-private-equity-worse-tbtf-banks.html
 * http://www.nakedcapitalism.com/2015/03/fed-impedes-gao-audits-destroying-source-documents.html
 * http://uk.reuters.com/article/2015/02/25/uk-hsbc-tax-politics-idUKKBN0LT1L220150225
+* http://www.nytimes.com/2015/03/17/nyregion/state-senate-works-to-block-christie-from-settling-pollution-lawsuit-against-exxon.html
 * http://www.nakedcapitalism.com/2015/03/rebuke-cronyistic-new-york-fed-tbtf-bank-supervision-shifted-fed-board-governors.html
 * http://www.vanityfair.com/news/2015/03/michael-lewis-flash-boys-one-year-later
 * http://www.visir.is/iceland-jails-former-kaupthing-bank-bosses/article/2015150219597
 * http://www.dw.de/swissleaks-the-hsbc-money-laundering-machine/av-18278207
 * http://www.rollingstone.com/politics/news/a-whistleblowers-horror-story-20150218
+* http://www.nytimes.com/2015/03/17/business/wronged-troops-are-denied-recourse-by-arbitration-clauses.html?_r=0
 * http://www.nakedcapitalism.com/2015/03/hsbcs-money-laundering-nightmare-1-mossack-fonseca.html
 * http://www.rollingstone.com/politics/news/is-jpmorgan-chase-profiting-off-of-forced-evictions-in-china-20150210
 * http://www.nakedcapitalism.com/2014/10/private-equity-at-work-rigorously-debunks-industry-mythology.html
@@ -266,6 +268,7 @@
 * http://www.pbs.org/idealab/2015/01/how-crowdfunding-municipal-bonds-help-people-invest-in-communities/
 * http://www.mrmoneymustache.com/2015/02/26/my-top-questions-from-internet-strangers/
 * http://www.mrmoneymustache.com/2011/09/30/is-a-costco-membership-worth-the-cost/
+* http://www.nytimes.com/2015/03/15/your-money/how-many-mutual-funds-routinely-rout-the-market-zero.html
 
 
 
