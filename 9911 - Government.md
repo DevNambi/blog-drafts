@@ -91,6 +91,7 @@
 
 
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
+* http://www.washingtonpost.com/world/national-security/pentagon-loses-sight-of-500-million-in-counterterrorism-aid-given-to-yemen/2015/03/17/f4ca25ce-cbf9-11e4-8a46-b1dc9be5a8ff_story.html?hpid=z1
 * http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/ <- an insight piece
 * http://nationalinterest.org/feature/are-submarines-about-become-obsolete-12253
 * http://www.nytimes.com/2015/02/25/us/jailed-ex-army-officer-has-support-but-not-from-his-platoon.html?_r=0
@@ -251,6 +252,7 @@
 * http://arstechnica.com/tech-policy/2015/03/nypd-caught-red-handed-sanitizing-police-brutality-wikipedia-entries/
 * http://www.theguardian.com/us-news/2015/mar/16/portland-man-tortured-uae-behest-of-fbi
 * http://www.theguardian.com/us-news/2015/feb/24/chicago-police-detain-americans-black-site
+* http://www.marketplace.org/topics/business/police-dont-ask-why-are-we-getting-sued
 * http://www.huffingtonpost.com/nathan-robinson/the-shocking-finding-from-the-doj-ferguson_b_6858388.html
 * http://www.theatlantic.com/politics/archive/2015/03/The-Gangsters-Of-Ferguson/386893/
 * http://www.waaytv.com/appnews/madison-officer-charged-with-assault-for-use-of-force-incident/article_7b09d144-b2fe-11e4-a0e4-b339eed5e1af.html
