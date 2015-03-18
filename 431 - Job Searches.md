@@ -239,6 +239,7 @@ Remote Team (& How We Do It)</a></li>
 http://www.computerworld.com/article/2879083/southern-california-edison-it-workers-beyond-furious-over-h-1b-replacements.html">Southern California IT Workers Beyond Furious over H1B Replacements</a></li>
 <li><a href="http://www.barryclark.co/hiring-developers-h1b-visa/">Hiring H1B developers</a></li>
 <li><a href="http://www.sandiegoreader.com/news/2015/mar/11/citylights1-scheme-lower-engineers-wages/">A scheme to lower engineers’ wages</a></li>
+<li><a href="http://techcrunch.com/2015/03/17/the-back-office-developers/">The Back Office Developers</a></li>
 </ul>
 
 
