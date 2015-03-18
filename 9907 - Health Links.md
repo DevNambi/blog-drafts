@@ -202,6 +202,7 @@
 * http://www.bbc.com/news/world-europe-31864218 <- hilarious
 * http://nautil.us/issue/21/information/your-dna-is-nothing-special
 * http://www.nytimes.com/2015/02/03/upshot/how-to-measure-a-medical-treatments-potential-for-harm.html?_r=0&abt=0002&abg=1 <- super important
+* http://arstechnica.com/science/2015/03/a-common-over-the-counter-cough-suppressant-can-boost-insulin/
 * http://mobile.nytimes.com/blogs/well/2015/02/04/infections-tied-to-lower-rheumatoid-arthritis-risk/?referrer=
 * http://www.abc.net.au/news/2014-10-27/medication-software-likely-to-kill-patients-within-month-report/5843044
 * http://opinionator.blogs.nytimes.com/2015/01/31/dying-shouldnt-be-so-brutal/

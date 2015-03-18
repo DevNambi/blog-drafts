@@ -530,6 +530,8 @@ things they believe in will keep </a></li>
 * https://rachelbythebay.com/w/2015/02/16/capture/
 * http://www.cohodata.com/blog/2015/01/14/five-results-high-performance-data/
 * http://www.codelitt.com/blog/how-to-handle-client-comparing-hourly-to-cheap-overseas-development/
+* http://www.1024cores.net/home/lock-free-algorithms/queues
+* http://kukuruku.co/hub/cpp/lock-free-data-structures-yet-another-treatise
 
 
 ## Funny

@@ -53,6 +53,8 @@
 * http://www.fastcompany.com/3042248/the-gig-economy-wont-last-because-its-being-sued-to-death
 * http://www.nytimes.com/2015/02/22/magazine/meet-the-unlikely-airbnb-hosts-of-japan.html
 * http://www.slate.com/blogs/moneybox/2015/03/12/uber_lyft_employment_cases_juries_could_decide_the_legal_fate_of_the_sharing.html
+* http://www.cnn.com/2015/03/18/opinions/wheeler-silicon-valley-jobs/index.html
+
 
 
 "The incapacity to see structurally: what you value (in the service - freedom) is the values (f-k the law, employees) that brings you that" - https://twitter.com/camerontw
