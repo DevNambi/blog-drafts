@@ -488,6 +488,7 @@
 * http://seattletimes.com/html/localnews/2025495337_wsubellevuexml.html
 * http://blogs.seattletimes.com/educationlab/2015/02/04/uw-dream-project-getting-students-to-college-study-shows/
 * http://seattletimes.com/html/localnews/2025719148_washingtonpeacecorps1xml.html
+* https://news.cs.washington.edu/2015/03/18/uw-lands-air-force-center-of-excellence-with-help-from-cse-and-escience/
 
 
 

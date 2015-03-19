@@ -244,6 +244,7 @@
 * http://america.aljazeera.com/articles/2015/3/9/un-expert-slams-us-as-only-nation-to-sentence-kids-to-life-without-parole.html
 * http://theantimedia.org/4-victims-come-forward-chicago-secret-prison-man-tortured-weed/te 
 * http://news.streetroots.org/2015/03/06/homeless-phone-charging-thief-wanted-security
+* http://www.dailykos.com/story/2015/03/18/1371833/-University-of-Virginia-honors-student-Martese-Johnson-brutally-and-unjustly-beaten-by-police
 * http://www.komonews.com/news/national/Video-shows-officer-pushing-slapping-man-at-Fla-bus-terminal-293855971.html
 * http://www.nytimes.com/2015/02/22/nyregion/even-as-many-eyes-watch-brutality-at-rikers-island-persists.html
 * http://www.nbcbayarea.com/news/national-international/LAPD-Officer-Arrested-at-US-Mexico-Border-for-Alleged-Smuggling-296401141.html
