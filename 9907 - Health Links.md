@@ -193,6 +193,7 @@
 * http://www.nytimes.com/2015/02/19/opinion/oliver-sacks-on-learning-he-has-terminal-cancer.html
 * http://news.sciencemag.org/biology/2015/02/stopping-hiv-artificial-protein
 * http://www.popsci.com/ultrasound-restores-memory-mice-alzheimers
+* http://www.sciencealert.com/new-alzheimer-s-treatment-fully-restores-memory-function
 * http://www.nytimes.com/2015/02/18/health/doctors-strive-to-do-less-harm-by-inattentive-care.html?_r=0 <- how does this interact with EHR?
 * http://www.wired.com/2015/02/incredible-hospital-robot-saving-lives-also-hate/
 * http://www.bmj.com/content/350/bmj.h384
