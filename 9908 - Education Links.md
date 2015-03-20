@@ -52,6 +52,7 @@
 * http://www.nytimes.com/2015/03/02/nyregion/as-common-core-testing-is-ushered-in-parents-and-students-opt-out.html
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2015/03/16/virginia-school-suspends-an-11-year-old-for-one-year-over-a-leaf-that-wasnt-marijuana/
 * http://www.seattletimes.com/education-lab/stunning-surge-in-graduation-rate-as-rainier-beach-gamble-pays-off/
+* http://www.chinasmack.com/2015/stories/thousands-mourn-death-of-chinese-high-school-principal.html
 * http://bits.blogs.nytimes.com/2015/03/17/pearson-under-fire-for-monitoring-students-twitter-posts/
 * http://www.theatlantic.com/education/archive/2015/03/why-im-a-public-school-teacher-but-a-private-school-parent/386797/
 * http://truestories.gawker.com/all-the-children-are-ours-essays-from-school-teachers-1679254821/1679318066/+maxread

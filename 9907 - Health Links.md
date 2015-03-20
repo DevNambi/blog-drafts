@@ -139,6 +139,7 @@
 * http://www.scientificamerican.com/article/regular-walking-can-help-ease-depression/
 * http://www.nerdfitness.com/blog/2015/02/02/just-how-fast-can-i-get-the-body-i-want/
 * http://well.blogs.nytimes.com/2014/10/15/whats-your-fitness-age/
+* http://www.nature.com/news/the-myopia-boom-1.17120?WT.mc_id=TWT_NatureNews
 * http://kaasplateau.com/stretches.pdf
 * http://www.nytimes.com/2014/10/22/opinion/only-two-rules-for-a-good-diet.html
 * http://www.nytimes.com/2014/10/26/opinion/sunday/the-problem-with-positive-thinking.html
