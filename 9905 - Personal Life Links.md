@@ -230,6 +230,7 @@
 <li><a href="http://offbeathome.com/2014/01/homesteading-as-revolution" time_added="1391013129" tags="">Come the revolution: Homesteading as an act of radical resistance</a></li>
 
 * http://geekologie.com/2015/02/so-jealous-right-now-family-builds-treeh.php
+* http://www.seattletimes.com/pacific-nw-magazine/too-much-stuff-we-collect-it-all-our-lives-and-then-what/
 
 
 ## Seattle

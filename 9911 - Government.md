@@ -101,6 +101,7 @@
 * http://www.pieria.co.uk/articles/why_the_worlds_biggest_military_keeps_losing_wars <- how politics and war intertwine
 * http://www.nytimes.com/2015/01/29/world/us-suddenly-goes-quiet-on-effort-to-bolster-afghan-forces.html
 * http://blog.longreads.com/2015/03/11/interview-with-a-torturer/
+* http://www.nytimes.com/2015/03/21/world/asia/ghani-afghanistan-unity-government-plan.html?_r=0
 * https://news.vice.com/article/i-didnt-join-the-taliban-because-i-was-poor-i-joined-because-i-was-angry-report-finds-injustice-not-unemployment-radicalizes-youth
 * http://www.theguardian.com/us-news/2015/feb/18/guantanamo-torture-chicago-police-brutality
 * http://www.publicintegrity.org/2015/02/10/16735/lawyer-moved-halliburton-subsidiary-bribes-through-secret-swiss-hsbc-accounts
@@ -116,6 +117,8 @@
 * http://www.washingtonpost.com/wp-srv/special/national/cia-interrogation-report/word-count/ <- torture
 * http://panampost.com/sabrina-martin/2015/01/29/venezuelan-army-can-shoot-protesters-effective-immediately/
 * http://militaryprofessionalreadinglists.com/
+* http://www.nytimes.com/2015/03/21/world/africa/nigerian-army-noticeably-absent-in-town-taken-from-boko-haram.html
+* http://www.nytimes.com/2015/03/20/world/asia/more-us-troops-seen-staying-in-afghanistan.html
 * http://20committee.com/2015/01/15/a-pentagon-insider-speaks-on-obamas-gwow/
 * http://boingboing.net/2015/03/11/drones-and-the-rise-of-the-hig.html
 * http://www.nakedcapitalism.com/2015/03/pilots-deserting-washingtons-drone-war.html
@@ -494,3 +497,4 @@
 * http://www.psiru.org/reports/public-and-private-sector-efficiency
 * http://www.latimes.com/business/hiltzik/la-fi-mh-erode-the-credibility-of-budget-estimates-20141222-column.html
 * http://www.nytimes.com/2015/01/21/upshot/better-but-still-troubled-our-take-on-the-state-of-the-union.html
+* http://www.nytimes.com/2015/03/20/opinion/paul-krugman-trillion-dollar-fraudsters.html

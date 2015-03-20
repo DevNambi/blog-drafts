@@ -54,6 +54,7 @@
 * http://www.seattletimes.com/education-lab/stunning-surge-in-graduation-rate-as-rainier-beach-gamble-pays-off/
 * http://www.chinasmack.com/2015/stories/thousands-mourn-death-of-chinese-high-school-principal.html
 * http://bits.blogs.nytimes.com/2015/03/17/pearson-under-fire-for-monitoring-students-twitter-posts/
+* http://www.nytimes.com/2015/03/22/us/politics/schools-wait-to-see-what-becomes-of-no-child-left-behind-law.html
 * http://www.theatlantic.com/education/archive/2015/03/why-im-a-public-school-teacher-but-a-private-school-parent/386797/
 * http://truestories.gawker.com/all-the-children-are-ours-essays-from-school-teachers-1679254821/1679318066/+maxread
 * http://www.nytimes.com/2015/02/06/education/fewer-top-graduates-want-to-join-teach-for-america.html
@@ -102,6 +103,7 @@
 ## Higher Education
 
 * http://equitablegrowth.org/research/achievement-gap/ <- why I do what I do
+* http://www.nytimes.com/2015/03/20/education/in-the-age-of-information-specializing-to-survive.html
 * http://www.vikparuchuri.com/blog/i-barely-graduated-college/
 * http://suburbdad.blogspot.com/2015/03/public-matters-response-to-kevin-carey.html <- BRILLIANT
 * http://www.p-value.info/2015/03/advice-to-graduate-students.html
@@ -384,6 +386,7 @@
 * https://www.insidehighered.com/news/2015/03/03/uw-madison-chancellor-comes-under-fire-comments-about-how-she-matches-outside
 * https://ed.stanford.edu/news/stanford-study-shows-success-different-learning-styles-computer-science-class <- grades are not the point. Overfitting problem
 * http://www.nytimes.com/2015/03/17/nyregion/nyu-professor-is-barred-from-the-united-arab-emirates.html
+* http://www.nytimes.com/2015/03/20/business/dealbook/bar-exam-the-standard-to-become-a-lawyer-comes-under-fire.html
 
 
 ### Student Culture, Sexual Assault, Assault
