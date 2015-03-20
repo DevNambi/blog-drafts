@@ -95,6 +95,7 @@
 * http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/ <- an insight piece
 * http://nationalinterest.org/feature/are-submarines-about-become-obsolete-12253
 * http://www.nytimes.com/2015/02/25/us/jailed-ex-army-officer-has-support-but-not-from-his-platoon.html?_r=0
+* http://www.extremetech.com/extreme/201542-weapons-of-world-war-iii-how-new-technology-will-affect-the-next-great-conflict
 * http://www.wired.com/2015/02/edmund-clark-the-mountains-of-majeed/
 * http://m.apnews.com/ap/db_268798/contentdetail.htm?contentguid=fNnaocly
 * http://www.pieria.co.uk/articles/why_the_worlds_biggest_military_keeps_losing_wars <- how politics and war intertwine
@@ -247,6 +248,7 @@
 * http://www.dailykos.com/story/2015/03/18/1371833/-University-of-Virginia-honors-student-Martese-Johnson-brutally-and-unjustly-beaten-by-police
 * http://www.komonews.com/news/national/Video-shows-officer-pushing-slapping-man-at-Fla-bus-terminal-293855971.html
 * http://www.nytimes.com/2015/02/22/nyregion/even-as-many-eyes-watch-brutality-at-rikers-island-persists.html
+* http://www.cnn.com/2015/03/19/opinions/handeyside-tsa-spot-program/index.html
 * http://www.nbcbayarea.com/news/national-international/LAPD-Officer-Arrested-at-US-Mexico-Border-for-Alleged-Smuggling-296401141.html
 * http://thefreethoughtproject.com/man-criminal-record-facing-life-prison-flashing-gang-signs-facebook/
 * http://www.theroot.com/articles/culture/2014/02/cop_breaks_10_year_old_s_leg_for_filming_him.html

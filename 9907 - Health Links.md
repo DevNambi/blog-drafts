@@ -209,6 +209,7 @@
 * http://www.abc.net.au/news/2014-10-27/medication-software-likely-to-kill-patients-within-month-report/5843044
 * http://opinionator.blogs.nytimes.com/2015/01/31/dying-shouldnt-be-so-brutal/
 * https://www.insidehighered.com/news/2015/02/02/measles-outbreak-raises-issues-colleges
+* http://www.washingtonpost.com/national/health-science/how-i-discovered-an-important-question-a-doctor-should-ask-a-patient/2015/03/09/ca350634-bb9c-11e4-bdfa-b8e8f594e6ee_story.html
 * http://www.dailykos.com/story/2015/01/30/1361224/-Roald-Dahl-s-Heartbreaking-Take-on-Vaccines
 * http://www.mdnewsdaily.com/articles/3130/20150131/vast-majority-of-neurosurgeons-practice-defensive-medicine.htm
 * http://www.healthline.com/health-news/ms-patients-who-received-stem-cell-transplants-still-in-remission-010715
