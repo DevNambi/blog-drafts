@@ -103,6 +103,7 @@
 * http://blog.longreads.com/2015/03/11/interview-with-a-torturer/
 * http://www.nytimes.com/2015/03/21/world/asia/ghani-afghanistan-unity-government-plan.html?_r=0
 * https://news.vice.com/article/i-didnt-join-the-taliban-because-i-was-poor-i-joined-because-i-was-angry-report-finds-injustice-not-unemployment-radicalizes-youth
+* http://www.nytimes.com/2015/03/23/us/politics/out-of-yemen-us-is-hobbled-in-terror-fight.html?_r=0
 * http://www.theguardian.com/us-news/2015/feb/18/guantanamo-torture-chicago-police-brutality
 * http://www.publicintegrity.org/2015/02/10/16735/lawyer-moved-halliburton-subsidiary-bribes-through-secret-swiss-hsbc-accounts
 * http://projects.wsj.com/lobotomyfiles/
@@ -261,6 +262,7 @@
 * http://www.theguardian.com/us-news/2015/mar/16/portland-man-tortured-uae-behest-of-fbi
 * http://www.theguardian.com/us-news/2015/feb/24/chicago-police-detain-americans-black-site
 * http://www.marketplace.org/topics/business/police-dont-ask-why-are-we-getting-sued
+* http://papersplease.org/wp/2015/03/20/amtrak-lies-about-police-use-of-passenger-data/
 * http://www.huffingtonpost.com/nathan-robinson/the-shocking-finding-from-the-doj-ferguson_b_6858388.html
 * http://www.theatlantic.com/politics/archive/2015/03/The-Gangsters-Of-Ferguson/386893/
 * http://m.nydailynews.com/news/national/video-shows-man-dying-jail-cell-food-allergy-guards-article-1.1509408

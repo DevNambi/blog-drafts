@@ -423,7 +423,7 @@
 <li><a href="http://t.co/ZQOMUrte" time_added="1354389044" tags="data science">iSchoolSU: .@MSFTResearch is Hosting a Workshop on Analyzing Social Media D</a></li>
 
 
-#### Deep Learning
+#### Deep Learning / Neural Networks
 
 <li><a href="http://moalquraishi.wordpress.com/2013/03/17/what-hintons-google-move-says-about-the-future-of-machine-learning/" time_added="1363562363" tags="ml">What Hinton’s Google Move Says About the Future of Machine Learning « Some </a></li>
 <li><a href="http://oreillynet.com/pub/e/2538" time_added="1363282942" tags="data science,ml">Webcast: Deep Learning - The Biggest Data Science Breakthrough of the Decad</a></li>
@@ -444,6 +444,7 @@
 * http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/
 * http://jmozah.github.io/links/
 * http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/
+* http://karpathy.github.io/neuralnets/
 * http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/facebook-ai-director-yann-lecun-on-deep-learning
 * http://benanne.github.io/2015/03/17/plankton.html <- incredibly detailed
 

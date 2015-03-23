@@ -448,6 +448,8 @@
 * http://www.nytimes.com/2014/11/23/upshot/how-to-arrive-at-the-best-health-policies-.html
 * http://www.nytimes.com/2014/11/28/opinion/financial-incentives-in-health-care.html
 * http://seattletimes.com/html/localnews/2025265992_hospitalinfectionsxml.html
+* http://www.nytimes.com/2015/03/23/science/with-expansion-of-medicaid-some-states-are-identifying-more-new-diabetes-cases.html
+* http://www.nytimes.com/2015/03/23/health/taming-health-costs-by-keeping-high-maintenance-patients-out-of-the-hospital.html
 * http://www.nytimes.com/2014/12/16/health/the-odd-math-of-medical-tests-one-echocardiogram-two-prices-both-high.html
 * http://mobile.nytimes.com/2015/01/12/us/politics/new-rules-to-limit-tactics-on-hospitals-fee-collections.html?_r=0
 * http://www.businessweek.com/articles/2015-01-15/how-indias-patent-office-destroyed-gileads-global-game-plan
