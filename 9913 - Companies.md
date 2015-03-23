@@ -192,6 +192,7 @@
 ## Misc
 
 * http://www.reuters.com/article/2014/11/16/us-usa-chemicals-death-idUSKCN0J001B20141116
+* http://www.inc.com/magazine/20090101/and-the-money-comes-rolling-in.html
 * http://mobile.nytimes.com/2015/03/06/business/companies-turn-tables-on-human-rights-lawyers.html?_r=0
 * http://www.bbc.com/news/business-31596323
 * http://www.wired.com/2015/02/etsy-not-good-for-crafters/

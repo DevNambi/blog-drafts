@@ -266,6 +266,7 @@
 * http://m.nydailynews.com/news/national/video-shows-man-dying-jail-cell-food-allergy-guards-article-1.1509408
 * http://www.waaytv.com/appnews/madison-officer-charged-with-assault-for-use-of-force-incident/article_7b09d144-b2fe-11e4-a0e4-b339eed5e1af.html
 * http://www.dailykos.com/story/2015/02/25/1366754/-LAPD-shoot-kill-unarmed-mentally-ill-veteran-on-live-TV-No-charges-Guess-what-their-defense-was
+* http://talkingpointsmemo.com/edblog/me-ted
 * http://boingboing.net/2015/03/09/chicagoans-fight-for-police-to.html
 * http://voiceofsandiego.org/all-narratives/police-misconduct/their-crime-walking-into-their-own-home/
 * http://arstechnica.com/tech-policy/2015/02/powerful-stingrays-used-to-go-after-911-hangup-atm-burglary/

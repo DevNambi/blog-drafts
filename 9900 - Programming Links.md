@@ -192,6 +192,7 @@
 * http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
 * https://github.com/airbnb/javascript/issues/102 <- great analogy about coding style guides
 * https://rachelbythebay.com/w/2013/06/05/duck/
+* https://medium.com/business-erin/what-your-product-manager-really-means-429b1ad10aae
 * https://localizejs.com/blog/startup/developer-productivity-saying-no
 
 
