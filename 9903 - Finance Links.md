@@ -13,6 +13,7 @@
 * http://www.nakedcapitalism.com/2014/12/michael-pettis-china-really-turning-away-dollar.html
 * http://www.bloombergview.com/articles/2015-01-20/china-gdp-numbers-show-room-for-xi-jinping-to-reform
 * http://www.scmp.com/news/china/article/1712004/chasing-ghosts-where-chinas-next-wave-empty-new-towns
+* http://www.nakedcapitalism.com/2015/03/coming-china-crisis.html
 
 
 ## Europe
@@ -94,6 +95,7 @@
 * http://www.nakedcapitalism.com/2014/10/dealbook-says-citi-afford-run-honest-bank-mexico.html
 * http://mobile.nytimes.com/blogs/dealbook/2015/01/26/investment-riches-built-on-auto-loans-to-poor/
 * http://www.nakedcapitalism.com/2015/02/geithner-end-capitalism-know.html
+* http://www.nakedcapitalism.com/2015/03/secs-andrew-bowden-regulatory-capture-scandal-hits-the-major-leagues-with-los-angeles-times-column.html
 * http://www.bloombergview.com/articles/2015-01-23/capital-one-fraud-researchers-may-also-have-done-some-fraud
 * http://www.nakedcapitalism.com/2015/03/new-yorks-benjamin-lawksy-and-the-secs-kara-stein-and-luis-aguilar-push-for-tougher-sanctions-against-bank-executives.html
 * http://www.nakedcapitalism.com/2014/10/serious-ny-fed-dudleys-tough-talk-fixing-banking-culture.html 
@@ -174,6 +176,7 @@
 * https://www.propublica.org/article/the-demolition-of-workers-compensation
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2015/01/14/this-powerful-reddit-thread-reveals-how-the-poor-get-by-in-america/
 * https://news.vice.com/article/unemployment-is-killing-45000-people-each-year
+* http://www.reddit.com/r/AskReddit/comments/2zwirb/what_is_the_worst_example_of_rich_people_problems/
 * http://www.reddit.com/r/AskReddit/comments/2sbi17/what_do_insanely_poor_people_buy_that_ordinary/
 * http://opinionator.blogs.nytimes.com/2013/11/02/poverty-in-america-is-mainstream/
 * http://en.wikipedia.org/wiki/South_Fork_Fishing_and_Hunting_Club
