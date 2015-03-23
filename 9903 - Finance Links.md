@@ -189,6 +189,7 @@
 * http://www.gatesnotes.com/Books/Why-Inequality-Matters-Capital-in-21st-Century-Review?new#
 * http://www.nakedcapitalism.com/2014/10/mixed-international-picture-poverty-inequality.html
 * http://www.marketwatch.com/story/the-average-american-pays-280000-in-interest-2015-01-14
+* http://www.imf.org/external/pubs/ft/fandd/2015/03/jaumotte.htm
 * http://www.npr.org/blogs/money/2014/10/16/356176018/the-most-popular-jobs-for-the-rich-middle-class-and-poor
 * http://mobile.nytimes.com/2014/10/19/opinion/sunday/a-rate-cap-for-all-consumer-loans.html
 * http://www.nytimes.com/2014/10/23/world/asia/amid-clamor-over-democracy-hong-kongs-tycoons-keeping-quiet.html
