@@ -45,6 +45,7 @@
 * http://www.sciencemag.org/content/347/6221.toc
 * http://bits.blogs.nytimes.com/2015/01/29/with-a-few-bits-of-data-researchers-identify-anonymous-people/?_r=1
 * http://saintsal.com/facebook/
+* http://www.pewinternet.org/2015/03/16/Americans-Privacy-Strategies-Post-Snowden/
 * http://arstechnica.com/security/2015/03/freak-flaw-in-android-and-apple-devices-cripples-https-crypto-protection/
 * http://www.theguardian.com/technology/2015/feb/18/the-right-be-forgotten-google-search
 * http://www.extremetech.com/electronics/199499-samsungs-smart-tvs-dont-just-spy-they-transmit-your-speech-in-unencrypted-plaintext

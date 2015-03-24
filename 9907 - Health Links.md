@@ -6,6 +6,7 @@
 
 
 * http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0
+* http://www.vox.com/2015/3/23/8264355/research-study-hype
 * http://www.economist.com/news/technology-quarterly/21645497-tech-startups-are-moving-food-business-make-sustainable-versions-meat
 * http://arstechnica.com/science/2015/02/common-food-emulsifiers-may-be-linked-to-metabolic-syndrome/
 * http://www.theatlantic.com/health/archive/2015/02/the-new-best-way-to-eat/385659/ 
@@ -436,6 +437,7 @@
 * http://www.nytimes.com/interactive/2014/12/18/health/cost-of-health-care-poll.html
 * http://mobile.nytimes.com/2015/01/15/opinion/why-drugs-cost-so-much.html <- http://mobile.nytimes.com/2015/01/15/opinion/why-drugs-cost-so-much.html
 * http://seattletimes.com/html/nationworld/2021065979_employeehealthxml.html
+* http://www.nytimes.com/2015/03/24/upshot/why-hospitals-are-wrong-about-shifting-costs-to-private-insurers.html
 * http://seattletimes.com/html/localnews/2021250318_hospitalcostsxml.html
 * http://www.npr.org/blogs/health/2014/10/21/357780794/more-insurers-put-spending-limits-on-medical-treatments
 * http://www.usatoday.com/story/news/health/2014/11/05/ozy-abraham-flaxman-public-health/18529009/

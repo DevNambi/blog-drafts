@@ -96,6 +96,7 @@
 * https://keen.io/blog/103052402741/how-the-culture-of-overwork-is-killing-entrepreneurs
 * http://www.getdigsy.com/blog/startups/7-things-corporate-wont-tell-startup-jobs/
 * http://www.geekwire.com/2015/cheezburger-ceo-ben-huh-fears-leadership-greatest-lie-thats-told-entrepreneurs/
+* https://medium.com/everything-about-startups-and-entrepreneurship/how-quitting-my-corporate-job-for-my-startup-dream-f-cked-my-life-up-3b6b3e29b318
 
 
 ## Misc

@@ -21,6 +21,7 @@
 <li><a href="http://www.nytimes.com/2013/03/18/business/global/facing-bailout-tax-cypriots-rush-to-get-their-money-out-of-banks.html?hp&pagewanted=all&_r=0" time_added="1363565145" tags="finance,important">Cypriot Bailout Sends Shivers Throughout the Euro Zone - NYTimes.com</a></li>
 
 * http://www.nytimes.com/2014/10/17/world/europe/bloc-in-europe-starts-to-balk-over-austerity-.html
+* http://www.nytimes.com/2015/03/23/opinion/paul-krugman-britains-terrible-no-good-economic-discourse.html
 * http://www.nakedcapitalism.com/2015/02/john-helmer-the-political-motivation-of-chancellor-merkels-embrace-of-yulia-tymoshenko-and-war.html
 * http://www.nytimes.com/2015/01/08/business/international/europe-economy-deflation.html
 * http://www.nakedcapitalism.com/2014/10/revolt-starting-in-uk-over-private-equity-fee-secrecy.html
@@ -198,6 +199,7 @@
 * http://www.nytimes.com/2014/10/23/world/asia/amid-clamor-over-democracy-hong-kongs-tycoons-keeping-quiet.html
 * http://www.theawl.com/2014/10/how-amazon-solved-the-problem-of-work
 * http://www.usatoday.com/story/money/personalfinance/2014/10/25/cheat-sheet-middle-class-cant-afford/17730223/
+* http://www.nytimes.com/2015/03/24/us/first-amendment-patron-saint-of-protesters-is-embraced-by-corporations.html
 * http://www.nytimes.com/2014/10/26/opinion/sunday/nicholas-kristof-the-american-dream-is-leaving-america.html
 * http://www.nakedcapitalism.com/2015/03/debunking-claim-inequality-fell-crisis.html
 * http://m.tickld.com/x/capitalism-explained-this-is-so-accurate-it-hurts

@@ -161,6 +161,7 @@ Embrace awkwardness more
 * http://www.productchart.com/smartphones/
 * http://arstechnica.com/business/2015/02/starting-today-wireless-carriers-have-to-unlock-your-phone/
 * http://spin.atomicobject.com/2015/02/15/cheap-long-term-backup-amazon-glacier-storage/
+* http://www.wired.com/?p=1663621&preview_id=1663621%2F
 
 
 

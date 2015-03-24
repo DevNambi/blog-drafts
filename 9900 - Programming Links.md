@@ -324,6 +324,7 @@
 * http://nbviewer.ipython.org/github/chrisalbon/code_py/tree/master/ <- HOLY CRAP THAT'S AMAZING
 * http://blog.yhathq.com/posts/11-python-libraries-you-might-not-know.html
 * http://nb.bianp.net/sort/views/
+* https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/
 
 
 * AWS IPython: Start IPYNB on EC2 machine. ssh -L 8889:localhost:8888 user@awsip.com. Go to localhost:8889 in local browser. Super quick IPYNB cloud
