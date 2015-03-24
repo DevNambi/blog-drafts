@@ -6,6 +6,7 @@
 * http://offbeathome.com/2015/03/internet-security-tips
 * http://arstechnica.com/security/2015/01/wireless-device-in-two-million-cars-wide-open-to-hacking/
 * http://www.richmond.com/business/ap/article_82e0ea54-5092-5368-8d76-cfcf654ae2c3.html
+* http://www.wired.com/2015/03/stealing-data-computers-using-heat/
 * http://arstechnica.com/security/2015/03/google-warns-of-unauthorized-tls-certificates-trusted-by-almost-all-oses/
 * http://arstechnica.com/security/2015/03/cutting-edge-hack-gives-super-user-status-by-exploiting-dram-weakness/
 * http://seattletimes.com/html/nationworld/2025702560_bankcyberxml.html
@@ -106,6 +107,7 @@
 
 * http://arstechnica.com/tech-policy/2014/11/us-senate-falls-2-votes-short-of-shutting-down-nsa-phone-spying/
 * https://firstlook.org/theintercept/2015/03/10/ispy-cia-campaign-steal-apples-secrets/
+* https://threatpost.com/equation-apt-group-attack-platform-a-study-in-stealth/111550
 * http://www.scribd.com/doc/256849173/Snowden-Task-Force-Damage-Reports-REDACTED
 * http://www.reddit.com/r/IAmA/comments/2wwdep/we_are_edward_snowden_laura_poitras_and_glenn/
 * http://blog.cryptographyengineering.com/2014/12/on-new-snowden-documents.html
