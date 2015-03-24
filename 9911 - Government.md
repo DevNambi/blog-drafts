@@ -255,6 +255,7 @@
 * http://www.komonews.com/news/national/Video-shows-officer-pushing-slapping-man-at-Fla-bus-terminal-293855971.html
 * http://www.nytimes.com/2015/02/22/nyregion/even-as-many-eyes-watch-brutality-at-rikers-island-persists.html
 * http://www.cnn.com/2015/03/19/opinions/handeyside-tsa-spot-program/index.html
+* http://www.seattlepi.com/local/article/Walking-in-white-Westlake-crowd-black-Seattle-6153916.php
 * http://www.nbcbayarea.com/news/national-international/LAPD-Officer-Arrested-at-US-Mexico-Border-for-Alleged-Smuggling-296401141.html
 * http://thefreethoughtproject.com/man-criminal-record-facing-life-prison-flashing-gang-signs-facebook/
 * http://www.theroot.com/articles/culture/2014/02/cop_breaks_10_year_old_s_leg_for_filming_him.html

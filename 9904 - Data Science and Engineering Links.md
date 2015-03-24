@@ -403,6 +403,7 @@
 
 * http://textvis.lnu.se/
 * http://bugra.github.io/work/notes/2015-02-21/topic-modeling-for-the-uninitiated/
+* http://nbviewer.ipython.org/github/sgsinclair/alta/blob/master/ipynb/DocumentSimilarity.ipynb
 * http://engineering.intenthq.com/2015/02/automatic-topic-modelling-with-lda/
 
 
