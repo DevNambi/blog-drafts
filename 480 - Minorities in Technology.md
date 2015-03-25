@@ -19,6 +19,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * https://www.linkedin.com/pulse/my-jaw-dropped-ah-ha-manager-moment-sallie-krawcheck
 * http://www.bustle.com/articles/63466-im-brianna-wu-and-im-risking-my-life-standing-up-to-gamergate
 * http://www.fastcompany.com/3043082/most-creative-people/why-software-maker-fog-creek-is-helping-its-competitors-hire-women
+* http://recode.net/2015/03/24/what-happens-when-women-speak-up/
 * http://sysadmin1138.net/mt/blog/2015/03/silence-is-as-much-social-lubrication-as-lying.shtml
 * https://medium.com/@jolenecreighton/heres-what-its-like-for-a-woman-to-send-a-job-rejection-to-a-man-17af3090c501
 * http://blog.ameliagreenhall.com/post/quiet-ladies.-wadhwa-is-speaking-now

@@ -96,6 +96,7 @@ Industries
 * http://graphics.latimes.com/product-of-mexico-camps/
 * http://www.iflscience.com/health-and-medicine/cheap-smartphone-dongle-diagnoses-hiv-and-syphilis-15-minutes
 * http://leancrew.com/all-this/2015/02/engineering-ethics/
+* http://www.seattletimes.com/nation-world/ap-investigation-slavery-taints-global-supply-of-seafood-2/
 
 Work-Life Balance: List the good and bad things, and why
 • How to make good things easier
