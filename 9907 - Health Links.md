@@ -353,6 +353,7 @@
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://www.theverge.com/2015/3/24/8282651/registered-nurse-pay-gap-women-earn-less
 * http://www.nakedcapitalism.com/2015/03/nurses-unite-to-stop-transpacific-partnership-fast-track.html
 * http://www.slate.com/articles/health_and_science/science/2015/02/fda_inspections_fraud_fabrication_and_scientific_misconduct_are_hidden_from.single.html
 * http://hcrenewal.blogspot.com/2015/03/a-pr-pawn-confounds-public-relations.html
