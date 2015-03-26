@@ -107,6 +107,7 @@
 * http://equitablegrowth.org/research/achievement-gap/ <- why I do what I do
 * http://www.nytimes.com/2015/03/20/education/in-the-age-of-information-specializing-to-survive.html
 * http://www.vikparuchuri.com/blog/i-barely-graduated-college/
+* http://america.aljazeera.com/opinions/2015/3/for-pearson-common-core-is-private-profit.html
 * http://www.economist.com/news/books-and-arts/21646708-social-mobility-depends-what-happens-first-years-life-minding-nurture-gap?fsrc=scn/tw/te/pe/ed/mindingnurturegap
 * http://suburbdad.blogspot.com/2015/03/public-matters-response-to-kevin-carey.html <- BRILLIANT
 * https://www.insidehighered.com/news/2015/03/23/anger-over-state-boards-decision-not-renew-u-mississippi-chancellor
@@ -443,6 +444,7 @@
 * https://www.insidehighered.com/news/2015/02/04/guaranty-agency-buys-half-corinthian-colleges-and-forgives-480-million-student-debt
 * https://debtcollective.org/studentstrike
 * https://www.insidehighered.com/quicktakes/2015/03/23/umass-faces-3b-debt
+* http://www.huffingtonpost.com/2012/09/17/russian-diamonds-siberian-meteorite-crater-carats_n_1891691.html
 
 
 #### Adjuncts
@@ -470,6 +472,8 @@
 
 <li><a href="http://www.insidehighered.com/news/2014/02/26/provosts-business-leaders-disagree-graduates-career-readiness" time_added="1393425452" tags="">Big disparities in how business leaders and the public view higher educatio</a></li>
 <li><a href="http://arstechnica.com/science/2014/05/universities-cant-fulfil-the-myth-but-they-cant-become-a-vocational-school-either/" time_added="1401577129" tags="">http://arstechnica.com/science/2014/05/universities-cant-fulfil-the-myth-but-they-cant-become-a-vocational-school-either/</a></li>
+
+* http://www.nature.com/news/2011/110420/full/472276a.html
 
 
 ## Sports

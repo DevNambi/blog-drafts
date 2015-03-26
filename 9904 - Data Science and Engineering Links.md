@@ -385,6 +385,7 @@
 <li><a href="http://www.r-bloggers.com/visualizing-principal-components/" time_added="1356371205" tags="">Visualizing Principal Components | (R news & tutorials)</a></li>
 
 * http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html
+* http://technology.stitchfix.com/blog/2015/03/17/grammar-of-data-science/
 
 
 
@@ -550,6 +551,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html
 * http://queue.acm.org/detail.cfm?id=2745385
 * http://insightdataengineering.com/blog/pipeline_map.html
+* http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/
 * http://opensourceconnections.com/blog/2015/02/04/its-log-its-log-its-big-its-hyper-its-good/
 * http://ben.kirw.in/2014/11/28/kafka-patterns/
 * http://www.slideshare.net/deanwampler/spark-the-next-top-compute-model-39976454
