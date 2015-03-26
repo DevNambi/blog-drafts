@@ -82,6 +82,7 @@
 
 * http://www.nakedcapitalism.com/2014/09/sec-coverup-private-equity-worse-tbtf-banks.html
 * http://www.nakedcapitalism.com/2015/03/fed-impedes-gao-audits-destroying-source-documents.html
+* http://www.nakedcapitalism.com/2015/03/matt-taibbi-takes-up-secs-andrew-bowden-regulatory-capture-scandal.html
 * http://uk.reuters.com/article/2015/02/25/uk-hsbc-tax-politics-idUKKBN0LT1L220150225
 * http://www.nytimes.com/2015/03/17/nyregion/state-senate-works-to-block-christie-from-settling-pollution-lawsuit-against-exxon.html
 * http://www.nakedcapitalism.com/2015/03/rebuke-cronyistic-new-york-fed-tbtf-bank-supervision-shifted-fed-board-governors.html
