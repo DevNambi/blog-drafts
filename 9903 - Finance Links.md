@@ -23,6 +23,7 @@
 * http://www.nytimes.com/2014/10/17/world/europe/bloc-in-europe-starts-to-balk-over-austerity-.html
 * http://www.nytimes.com/2015/03/23/opinion/paul-krugman-britains-terrible-no-good-economic-discourse.html
 * http://www.nakedcapitalism.com/2015/02/john-helmer-the-political-motivation-of-chancellor-merkels-embrace-of-yulia-tymoshenko-and-war.html
+* http://www.nytimes.com/2015/03/27/world/europe/many-in-ireland-vow-not-to-pay-a-new-water-tax.html
 * http://www.nytimes.com/2015/01/08/business/international/europe-economy-deflation.html
 * http://www.nakedcapitalism.com/2014/10/revolt-starting-in-uk-over-private-equity-fee-secrecy.html
 * http://www.nakedcapitalism.com/2014/10/ilargi-europe-redefines-stress-bank-boosterist-stress-tests.html

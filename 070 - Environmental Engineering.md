@@ -92,6 +92,7 @@ Emphasize what we don't know
 * http://seattletimes.com/html/nationworld/2025688459_apxsciworsedroughts.html
 * http://www.bbc.com/news/magazine-30583512
 * http://www.seattletimes.com/nation-world/un-warns-world-could-have-40-percent-water-shortfall-by-2030/
+* http://arstechnica.com/science/2015/03/massive-antarctic-glacier-more-vulnerable-than-previously-thought/
 * http://nautil.us/issue/101/in-our-nature/ants-go-marching-rp
 * http://www.wunderground.com/blog/JeffMasters/comment.html?entrynum=2663
 * http://www.salon.com/2015/02/10/what_nobody_told_me_about_small_farming_i_cant_make_a_living/

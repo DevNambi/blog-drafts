@@ -79,6 +79,7 @@ Industries
 
 * http://www.nakedcapitalism.com/2013/10/ethics-and-complex-systems.html
 * https://nplusonemag.com/online-only/help-desk/bank-robbin-in-brooklyn/
+* http://berkeleyjournal.org/2015/01/morality-and-the-idea-of-progress-in-silicon-valley/
 * http://africasacountry.com/kenyas-first-mockumentary-takes-on-the-ngo-world/
 * http://www.wired.com/2014/02/outsourcing-humanity-apps/
 * https://www.techdirt.com/articles/20150204/07310329906/yes-major-record-labels-are-keeping-nearly-all-money-they-get-spotify-rather-than-giving-it-to-artists.shtml

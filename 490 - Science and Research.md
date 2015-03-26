@@ -5,6 +5,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 
 * http://blogs.lse.ac.uk/impactofsocialsciences/2014/12/28/shorter-better-faster-free/
 * http://www.americanscientist.org/issues/feature/2014/6/the-statistical-crisis-in-science/99999
+* http://www.fiercebiotech.com/story/who-really-controls-revolutionary-new-crispr-cas9-technology/2014-12-05
 * http://www.nytimes.com/2015/03/24/science/when-science-is-lost-in-a-legal-maze.html?ref=science&_r=0
 * https://medium.com/starts-with-a-bang/science-by-democracy-doesnt-work-ea74d160daa4
 * http://pipeline.corante.com/archives/2015/03/12/the_end_of_synthesis.php
