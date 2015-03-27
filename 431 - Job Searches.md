@@ -45,6 +45,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://t.co/San3fw3cvt">Ex-Microsoft employees say company did not prepare them for startup life</a></li>
 <li><a href="https://medium.com/tech-london/how-i-hack-the-job-research-ecc87f8b9127">How to hack the job hunt</a></li>
 <li><a href="https://modelviewculture.com/pieces/technical-interviews-are-bullshit">Technical Interviews Are Bullshit</a></li>
+<li><a href="http://www.jasonondesign.com/2014/07/09/how-to-get-hired-this-is-how-i-narrow-down-applicants/">How to get hired. This is how I narrow down applicants.</a></li>
 </ul>
 
 
