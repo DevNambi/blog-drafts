@@ -107,6 +107,7 @@ ortant,personal tech">Kill the Password: Why a String of Characters Can't Protec
 * http://nafiulis.me/making-a-static-blog-with-pelican.html
 * https://bryce.fisher-fleig.org/blog/setting-up-ssl-on-aws-cloudfront-and-s3/
 * https://support.cloudflare.com/hc/en-us/articles/200168926-How-do-I-use-CloudFlare-with-Amazon-s-S3-Service-
+* http://www.gregreda.com/2015/03/26/static-site-deployments/
 * http://serverfault.com/questions/512706/cloudflare-cdn-and-static-site-with-root-on-amazon-s3
 * http://engagingcomms.com/Easy-way-to-Configure-SSL-for-Amazon-S3-bucket-via-Cloudflare-115
 * http://stackoverflow.com/questions/8312162/static-hosting-on-amazon-s3-dns-configuration

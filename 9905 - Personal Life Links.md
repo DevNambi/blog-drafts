@@ -255,6 +255,7 @@
 * http://seattletransitblog.com/2013/02/12/zipcar-vs-car2go/
 * http://seattletimes.com/html/localnews/2025481542_westneat18xml.html
 * http://seattletimes.com/html/localnews/2025494924_citywalkoutxml.html
+* http://www.seattletimes.com/seattle-news/data/priced-out-has-the-king-county-diaspora-begun/
 
 
 
