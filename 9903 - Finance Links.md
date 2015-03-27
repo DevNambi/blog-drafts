@@ -51,6 +51,7 @@
 * http://www.nytimes.com/2015/02/16/opinion/paul-krugman-weimar-on-the-aegean.html
 * http://www.nakedcapitalism.com/2015/02/varoufakis-charges-eurogroup-bad-faith-dealing-negotiations.html
 * http://www.nakedcapitalism.com/2015/02/greece-still-defiant-ecb-mugging.html
+* http://www.bloomberg.com/news/articles/2015-03-26/here-are-the-most-important-dates-ahead-in-the-greek-crisis
 * http://www.nakedcapitalism.com/2015/02/eurogroup-ministers-to-syriza-drop-dead.html
 * http://www.nytimes.com/2014/12/30/world/europe/greek-patience-with-austerity-nears-its-limit-.html?_r=0
 * http://www.nakedcapitalism.com/2015/02/the-ecb-ready-to-put-a-choke-chain-on-syriza.html
@@ -156,6 +157,7 @@
 * https://www.youtube.com/watch?v=y-1Gh4ewklY&feature=youtu.be
 * http://america.aljazeera.com/watch/shows/america-tonight/articles/2015/2/6/florida-condo-law.html
 * http://www.geekwire.com/2015/hacking-housing-market-tech-teams-use-open-data-help-people-find-affordable-homes/
+* http://www.bloombergview.com/articles/2015-03-26/americans-are-house-rich-land-poor
 * http://www.nakedcapitalism.com/2015/02/blackstoneevicts.html
 * http://mobile.nytimes.com/2015/02/13/upshot/how-mortgage-fraud-made-the-financial-crisis-worse.html
 

@@ -328,6 +328,7 @@
 * http://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/
 * http://blog.dato.com/choosing-a-recommender-model
 * http://research.microsoft.com/pubs/192769/tricks-2012.pdf
+* http://arxiv.org/pdf/1503.01331v1.pdf
 * http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 * https://newsoffice.mit.edu/2015/better-machine-learning-kalyan-veeramachaneni-0224
 * https://outlookzen.wordpress.com/2015/03/15/life-lessons-from-machine-learning/
@@ -559,6 +560,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://databricks.com/blog/2015/01/07/ml-pipelines-a-new-high-level-api-for-mllib.html
 * http://citusdata.com/blog/90-sql-scaling-and-whats-unique-about-postgres
 * http://blog.rescale.com/the-real-cost-of-high-performance-computing/
+* http://blog.amplitude.com/2015/03/27/why-we-chose-redshift/
 * http://byterot.blogspot.com/2015/01/future-of-programming-rise-of-the-scientific-developer-bigdata-datascience-machine-learning-and-fall-of-the-craftsman.html
 * http://harry.me/blog/2014/12/27/neat-algorithms-paxos/
 * http://techblog.netflix.com/2014/10/using-presto-in-our-big-data-platform.html

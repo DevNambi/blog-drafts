@@ -139,6 +139,7 @@
 
 
 * http://www.scientificamerican.com/article/regular-walking-can-help-ease-depression/
+* http://nautil.us/issue/22/slow/the-impossible-physiology-of-the-free-diver
 * http://www.nerdfitness.com/blog/2015/02/02/just-how-fast-can-i-get-the-body-i-want/
 * http://well.blogs.nytimes.com/2014/10/15/whats-your-fitness-age/
 * http://www.nature.com/news/the-myopia-boom-1.17120?WT.mc_id=TWT_NatureNews
@@ -590,6 +591,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 
 * http://www.collective-evolution.com/2014/10/02/your-ancestors-didnt-sleep-like-you-are-were-doing-it-wrong/
 * http://parenting.blogs.nytimes.com/2014/10/16/want-to-ace-that-test-get-the-right-kind-of-sleep/
+* http://www.fastcompany.com/3043128/sleep-inequality
 
 
 <li><a href="http://www.bbc.co.uk/news/health-21572686" time_added="1361898585" tags="health,hn,important">BBC News - Bad sleep 'dramatically' alters body</a></li>
