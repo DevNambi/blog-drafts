@@ -1,6 +1,4 @@
-
-
-#### Privacy & Security
+## Privacy & Security
 
 
 <li><a href="http://www.technologyreview.com/news/516156/a-popular-ad-blocker-also-helps-the-ad-industry/" time_added="1401305589" tags="">http://www.technologyreview.com/news/516156/a-popular-ad-blocker-also-helps-the-ad-industry/</a></li>
@@ -126,7 +124,15 @@
 * http://www.neowin.net/news/gogo-inflight-internet-is-intentionally-issuing-fake-ssl-certificates
 * http://blog.cryptographyengineering.com/2014/12/on-new-snowden-documents.html
 
+#### Premera
 
+* http://www.seattletimes.com/seattle-news/premera-negligent-in-data-breach-5-lawsuits-claim/
+* http://www.wired.com/2015/03/hackers-may-taken-medical-records-insurer-premera/
+
+
+
+
+#### Other Notes
 
 "Governments & corporations should not have a right to privacy, people should. So, essentially, the opposite of what we have now #futureshock"
 
