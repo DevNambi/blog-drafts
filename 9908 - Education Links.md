@@ -76,6 +76,7 @@
 * http://news.sciencemag.org/biology/2014/10/genes-dont-just-influence-your-iq-they-determine-how-well-you-do-school
 * http://www.politico.com/magazine/story/2014/10/the-plot-against-public-education-111630.html
 * http://www.nakedcapitalism.com/2015/02/school-closure-playbook-billionaires-exploit-poor-children-chicago.html
+http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.salon.com/2014/10/12/google_makes_us_all_dumber_the_neuroscience_of_search_engines/
 * http://mobile.nytimes.com/2014/10/18/your-money/a-financial-aid-map-for-families-who-have-saved-nothing.html
 * http://www.washingtonpost.com/blogs/answer-sheet/wp/2014/10/24/teacher-spends-two-days-as-a-student-and-is-shocked-at-what-she-learned/

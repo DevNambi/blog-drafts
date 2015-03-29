@@ -11,6 +11,7 @@
 * http://www.inc.com/magazine/20090401/how-hard-could-it-be-employees-negotiate-pay-raises.html
 * http://www.dailykos.com/story/2014/07/08/1312523/-These-Two-Studies-Turn-Wall-Street-s-Economic-Argument-On-Its-Head
 * http://firstround.com/article/This-is-Why-People-Leave-Your-Company
+* https://michaelochurch.wordpress.com/2014/02/06/if-you-stop-promoting-from-within-soon-you-cant/
 * http://the-toast.net/2014/10/27/employer-put-fml-fmla/
 * http://queue.acm.org/detail.cfm?id=2685692
 * http://michaelochurch.wordpress.com/2014/02/06/if-you-stop-promoting-from-within-soon-you-cant/
