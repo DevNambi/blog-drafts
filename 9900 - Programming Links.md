@@ -218,6 +218,7 @@
 * http://thinkfaster.co/2015/02/so-you-want-to-be-a-developer-rockstar
 * http://envisage-project.eu/proving-android-java-and-python-sorting-algorithm-is-broken-and-how-to-fix-it/#sec2
 * http://wesmckinney.com/blog/whats-changed/
+* http://www.furtherfield.org/features/articles/why-arent-we-reading-turing
 
 
 
