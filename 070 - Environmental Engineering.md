@@ -83,6 +83,7 @@ Emphasize what we don't know
 
 * http://forecast.io/raw/
 * http://www.nakedcapitalism.com/2014/04/gaius-publius-climate-scientist-michael-mann-dont-stop-now-well-surpass-2c-global-warming.html
+* http://www.atlasobscura.com/places/the-great-green-wall-of-africa
 * http://arstechnica.com/science/2015/03/us-doe-examines-a-future-grid-thats-35-percent-wind/
 * http://www.wired.com/2015/03/californias-run-water-act-now/
 * http://www.bloomberg.com/news/articles/2015-03-20/who-classifies-monsanto-s-glyphosate-as-probably-carcinogenic-

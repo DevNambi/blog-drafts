@@ -6,6 +6,7 @@
 
 * http://www.newyorker.com/tech/elements/walking-helps-us-think
 * http://www.acuriousmix.com/2014/09/03/designing-a-personal-knowledgebase/
+* http://danluu.com/dunning-kruger/
 * http://7goldfish.com/Little%20know%20ways%20to%20think%20about%20dicipline
 * http://www.npr.org/blogs/health/2015/01/05/371894919/what-heroin-addiction-tells-us-about-changing-bad-habits
 * http://www.theguardian.com/education/2014/feb/27/musicians-better-language-learners

@@ -14,6 +14,7 @@
 * http://www.bloombergview.com/articles/2015-01-20/china-gdp-numbers-show-room-for-xi-jinping-to-reform
 * http://www.scmp.com/news/china/article/1712004/chasing-ghosts-where-chinas-next-wave-empty-new-towns
 * http://www.nakedcapitalism.com/2015/03/coming-china-crisis.html
+* http://www.newyorker.com/magazine/2015/04/06/born-red
 
 
 ## Europe

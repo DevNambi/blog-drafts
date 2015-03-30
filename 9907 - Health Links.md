@@ -439,6 +439,7 @@
 * http://www.theatlantic.com/health/archive/2015/02/The-Lottery-of-Healthcare-Prices/385092/
 * http://www.nytimes.com/2015/02/01/us/medical-costs-rise-as-retirees-winter-in-south.html
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2013/05/08/one-hospital-charges-8000-another-38000/
+* http://www.vox.com/2015/3/23/8280207/hospital-billing-terrible-insane
 * http://www.nytimes.com/interactive/2014/12/18/health/cost-of-health-care-poll.html
 * http://mobile.nytimes.com/2015/01/15/opinion/why-drugs-cost-so-much.html <- http://mobile.nytimes.com/2015/01/15/opinion/why-drugs-cost-so-much.html
 * http://seattletimes.com/html/nationworld/2021065979_employeehealthxml.html
