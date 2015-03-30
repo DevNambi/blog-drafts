@@ -1,6 +1,13 @@
 # Education
 
 
+
+### The Goals of Education
+
+* Civic: Create an informed citizenry
+* Vocational: Preparation for a career (vocational)
+* Personal: Growth and fulfillment.
+
 <li><a href="http://www.nytimes.com/2013/01/03/nyregion/education-commission-recommends-core-reforms.html?src=rechp" time_added="1357279530" tags="academia">Education Commission Recommends Core Reforms - NYTimes.com</a></li>
 <li><a href="http://t.co/90KZRM22" time_added="1354850185" tags="academia">GOOD: What if schools weren't schools anymore? http://t.co/90KZRM22</a></li>
 <li><a href="http://escience.washington.edu/blog/panel-aws-reinvent-seismic-shift-education" time_added="1354886791" tags="academia,data science">Panel at AWS re:Invent: "A Seismic Shift in Education" | eScience Institute</a></li>
