@@ -179,6 +179,7 @@
 
 * http://www.sfgate.com/business/article/State-let-oil-companies-taint-drinkable-water-in-6054242.php
 * http://seattletimes.com/html/localnews/2025649226_prostitutionforfeituresxml.html
+* http://www.nakedcapitalism.com/2015/03/bill-black-homophobic-law-indiana-governor-dares-not-speak-purpose.html
 * http://www.nakedcapitalism.com/2015/02/corporate-welfare-queens-shocking-development-program-failure-rate-north-carolina.html 
 * http://www.adn.com/article/20150207/alaska-government-spent-nearly-28-million-database-project-it-was-scrapped
 * http://www.wvgazette.com/article/20150209/GZ01/150209182/1419
@@ -503,6 +504,7 @@
 * http://projects.aljazeera.com/2014/double-voters/index.html
 * http://boingboing.net/2014/10/31/secret-recording-of-corporate.html
 * http://mobile.nytimes.com/2014/11/08/opinion/pregnant-and-no-civil-rights.html
+* http://mobile.nytimes.com/2015/03/31/sports/in-boston-olympic-bid-vote-more-at-stake-than-games.html
 * http://westleyargentum.github.io/112th-influence-vis/
 * http://america.aljazeera.com/opinions/2014/12/laffer-curve-taxcutshikeseconomics.html
 * http://www.psiru.org/reports/public-and-private-sector-efficiency

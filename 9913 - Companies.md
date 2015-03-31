@@ -63,6 +63,7 @@
 <li><a href="https://www.facebook.com/photo.php?v=145548785606529" time_added="1363184788" tags="">This is such a beautiful video!</a></li>
 
 * http://time.com/3647800/facebook-apologizes-year-review-post-pain/
+* http://www.wired.com/2015/03/robber-barons-loved-facebooks-employee-housing/
 
 
 ## IBM and other large IT companies

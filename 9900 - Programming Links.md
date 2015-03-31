@@ -27,6 +27,7 @@
 
 * http://cbsg.sourceforge.net/cgi-bin/live <- AMAZING
 * http://erniepark.com/software/2014/08/20/10-practical-software-engineer-tips.html
+* https://www.innoq.com/en/blog/thoughts-on-a-canonical-data-model/
 * http://blog.prof.so/2015/03/tools.html
 * http://www.nomachetejuggling.com/2014/02/05/top-10-career-changing-programming-books/
 * http://blog.fogus.me/2014/12/29/the-best-things-and-stuff-of-2014/
