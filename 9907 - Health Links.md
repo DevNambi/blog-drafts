@@ -625,6 +625,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 
 
 * http://www.nytimes.com/2013/01/06/realestate/relocation-therapy.html
+* http://arstechnica.com/tech-policy/2015/03/top-uk-doctors-call-for-ban-on-inherently-risky-fracking/
 
 
 

@@ -32,6 +32,7 @@
 * http://www.theguardian.com/money/2014/nov/28/being-homeless-is-better-than-working-for-amazon
 * http://seattletimes.com/html/businesstechnology/2025138315_amazonkivaxml.html
 * http://www.wired.com/2014/12/amazon-reveals-robots-heart-epic-cyber-monday-operation/
+* http://arstechnica.com/business/2015/03/amazon-launches-home-services-business-wants-to-give-you-drum-lessons/
 * http://www.theatlantic.com/business/archive/2014/12/meet-the-people-and-robots-who-pack-your-online-orders/383536/?single_page=true
 * http://www.theverge.com/2015/3/26/8280309/amazon-warehouse-jobs-exclusive-noncompete-contracts
 * http://www.fastcompany.com/3039887/under-fire
@@ -106,6 +107,7 @@
 * http://arstechnica.com/business/2014/11/fcc-calls-atts-fiber-bluff-demands-detailed-construction-plans/
 * http://arstechnica.com/business/2015/01/fcc-chairman-mocks-industry-claims-that-customers-dont-need-faster-internet/
 * http://arstechnica.com/business/2014/12/att-wins-right-to-intervene-in-citys-fiber-broadband-plan/
+* http://arstechnica.com/tech-policy/2015/03/man-who-sued-comcast-now-wants-over-5m-says-isp-shouldnt-have-smeared-him/
 * http://www.loomcom.com/blog/2015/02/22/its-comcastic-or-i-accidentally-bought-a-house-without-internet/
 * http://www.wired.com/2015/02/fcc-chairman-wheeler-net-neutrality/
 * https://www.yahoo.com/tech/s/google-fiber-latest-fcc-filing-comcast-nightmare-come-161549827.html
