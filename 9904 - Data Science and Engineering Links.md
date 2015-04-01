@@ -193,6 +193,7 @@
 
 * http://opr.princeton.edu/workshops/201401/ggplot2Jan2014DawnKoffman.pdf
 * http://www.exegetic.biz/blog/2014/11/creating-more-effective-graphs/
+* https://github.com/jrnold/ggthemes
 
 
 #### Tableau
