@@ -549,6 +549,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://prometheus.io/
 * http://tech.adroll.com/blog/data/2013/07/10/hll-minhash.html
 * http://ianozsvald.com/2015/02/19/spark-1-2-pyspark-elasticsearch-pypy/
+* https://gist.github.com/debasishg/8172796
 * https://gigaom.com/2015/01/21/netflix-is-open-sourcing-tools-for-analyzing-data-in-hadoop/
 * http://blog.confluent.io/2015/01/29/making-sense-of-stream-processing/
 * http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html
