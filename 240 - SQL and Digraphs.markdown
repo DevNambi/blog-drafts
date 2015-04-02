@@ -8,3 +8,5 @@ Decision Trees / Regression Trees
 Linear Regression
 K-Means
 Association rules
+
+Apache Spark uses a DAG

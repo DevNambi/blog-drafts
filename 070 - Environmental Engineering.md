@@ -117,6 +117,7 @@ Emphasize what we don't know
 * http://www.bbc.com/news/science-environment-31434030
 * http://thinkprogress.org/climate/2015/01/22/3614256/hottest-year-ocean-warming/
 * http://www.technologyreview.com/news/534266/hawaiis-solar-push-strains-the-grid/
+* http://thinkprogress.org/climate/2015/04/02/3641790/german-fracking-law-close-to-ban/
 * http://discovermagazine.com/1998/feb/americancannibal1407
 * http://www.jsonline.com/news/wisconsin/The-man-with-the-salmon-plan-b99397807z1-284550491.html
 * http://www.washingtonpost.com/news/morning-mix/wp/2014/12/16/the-secret-ingredient-behind-romes-lasting-monuments/
