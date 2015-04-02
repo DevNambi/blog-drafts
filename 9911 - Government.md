@@ -241,6 +241,7 @@
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
 * http://countercurrentnews.com/2015/02/leaked-police-department-memo-threatens-black-officers/
+* http://www.reddit.com/r/news/comments/314z1z/woman_arrested_for_resisting_arrest_after_putting/
 * http://www.seattletimes.com/seattle-news/family-military-tactics-by-cops-led-to-killing/
 * http://countercurrentnews.com/2015/03/calvon-reid-i-cant-breathe-ccpd-florida/
 * http://countercurrentnews.com/2015/03/tony-robinson-madison-police/

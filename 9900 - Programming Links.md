@@ -186,6 +186,7 @@
 
 
 * http://www.oliverlehmann.com/project-management-sources/Nasa-Hundred-Rules-for-Project-Managers.pdf
+* http://arstechnica.com/gaming/2015/04/play-the-game-that-shows-how-hard-it-is-to-make-a-good-game/
 * http://www.arguingwithalgorithms.com/posts/14-12-02-architecture-reviews
 * http://stilldrinking.org/programming-sucks
 * http://research.gigaom.com/2014/07/part-1-what-makes-teams-successful/
