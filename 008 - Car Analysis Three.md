@@ -107,3 +107,9 @@ DEMO - ROI, diminishing returns, cost:value
 
 
 *Note: I did not mention Uber because of their recent behavior towards journalists. I don't believe companies that abuse their power should be given anything but scorn.*
+
+
+
+* http://www.nytimes.com/2015/03/27/automobiles/their-ranks-thinned-the-surviving-car-dealerships-thrive.html?ref=automobiles
+* http://www.nytimes.com/2015/03/31/business/dealbook/prosecutors-scrutinize-minorities-auto-loans.html?ref=automobiles
+* http://www.nytimes.com/2015/04/02/business/us-auto-sales-march.html?ref=automobiles
