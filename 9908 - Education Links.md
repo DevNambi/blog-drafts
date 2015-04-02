@@ -135,7 +135,6 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2015/02/05/us/more-college-freshmen-report-having-felt-depressed.html
 * http://www.seattletimes.com/seattle-news/education/student-group-seeks-end-to-uw-coal-investments/
 * http://www.salon.com/2014/10/18/give_student_loans_the_finger_a_new_solution_to_a_massive_generational_outrage/
-* http://www.vice.com/read/i-ghostwrote-hundreds-of-chinese-students-ivy-league-admissions-essays-897
 * http://www.newsweek.com/american-horror-ivy-league-edition-263448
 * http://www.bloomberg.com/news/2014-09-04/secret-network-connects-harvard-money-to-payday-loans.html
 * http://strategyandanalytics.com/hardship-professions-unhappy-suicidal-alcoholic-job-lists/
@@ -228,7 +227,6 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://levinotik.com/why-college-is-a-poor-choice-for-a-lot-of-people/
 * http://online.wsj.com/articles/the-genius-of-mits-football-team-1415663452
 * https://www.insidehighered.com/quicktakes/2014/11/14/west-virginia-u-suspends-all-greek-activities
-* http://blogs.seattletimes.com/educationlab/2014/10/24/how-i-got-into-college-students-will-share-stories-nov-15/
 * http://www.nytimes.com/2014/11/16/nyregion/at-college-where-alumni-pockets-are-shallow-a-struggle-to-raise-money.html
 * http://highereddatastories.blogspot.com/2014/11/four-ways-to-look-at-college-tuition-in.html
 * http://seattletimes.com/html/localnews/2025040516_internationalstudentsxml.html
@@ -378,6 +376,10 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 ### Admissions
 
 * http://www.theatlantic.com/business/archive/2015/04/the-3-percent-crisis/389396/
+* http://highereddatastories.blogspot.com/2015/03/how-admissions-has-changed-in-one-chart.html
+* http://www.vice.com/read/i-ghostwrote-hundreds-of-chinese-students-ivy-league-admissions-essays-897
+* http://blogs.seattletimes.com/educationlab/2014/10/24/how-i-got-into-college-students-will-share-stories-nov-15/
+
 
 
 ### Science and Research
