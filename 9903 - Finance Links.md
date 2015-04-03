@@ -97,6 +97,7 @@
 * http://www.visir.is/iceland-jails-former-kaupthing-bank-bosses/article/2015150219597
 * http://www.dw.de/swissleaks-the-hsbc-money-laundering-machine/av-18278207
 * http://www.rollingstone.com/politics/news/a-whistleblowers-horror-story-20150218
+* http://www.nakedcapitalism.com/2015/04/ex-tpg-employee-adam-levine-countersues-charges-private-equity-firm-cheating-misleading-investors-retaliation.html
 * http://www.nytimes.com/2015/03/17/business/wronged-troops-are-denied-recourse-by-arbitration-clauses.html?_r=0
 * http://www.nakedcapitalism.com/2015/03/hsbcs-money-laundering-nightmare-1-mossack-fonseca.html
 * http://www.rollingstone.com/politics/news/is-jpmorgan-chase-profiting-off-of-forced-evictions-in-china-20150210
