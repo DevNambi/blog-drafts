@@ -83,6 +83,8 @@ Emphasize what we don't know
 
 * http://forecast.io/raw/
 * http://www.extremetech.com/extreme/202579-global-investment-in-renewable-energy-skyrockets
+* http://enenews.com/times-worst-possible-result-revealed-fukushima-plant-chief-centuries-pass-before-humans-invent-deal-molten-fuel-videos
+* https://medium.com/@lesliejz/don-t-stop-showering-california-lay-off-the-burgers-and-nuts-and-pick-up-some-crickets-eb63bddf0277
 * http://www.nakedcapitalism.com/2014/04/gaius-publius-climate-scientist-michael-mann-dont-stop-now-well-surpass-2c-global-warming.html
 * http://www.washingtonpost.com/news/energy-environment/wp/2015/04/01/the-arctic-climate-threat-that-nobodys-even-talking-about-yet/
 * http://www.atlasobscura.com/places/the-great-green-wall-of-africa
