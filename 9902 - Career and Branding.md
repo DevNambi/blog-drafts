@@ -30,6 +30,7 @@
 * http://www.business2community.com/blogging/11-google-analytics-metrics-bloggers-track-01064673
 * https://rowfeeder.com/
 * http://embed.ly/extract
+* http://www.newyorker.com/humor/daily-shouts/honest-linkedin-recommendations
 * http://www.economist.com/node/21639500/print
 * http://www.geekwire.com/2015/15-habits-ineffective-networker-not-next-event/
 * http://www.marketsforgood.org/smarter-nonprofit-networking2/

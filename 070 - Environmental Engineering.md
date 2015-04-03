@@ -112,8 +112,11 @@ Emphasize what we don't know
 * http://www.calgaryherald.com/news/vancouver/Ocean+waste+hits+home+Plastic+filled+fish+guts+ruins+Chilliwack/10827599/story.html
 * http://www.nytimes.com/2015/02/17/world/americas/drought-pushes-sao-paulo-brazil-toward-water-crisis.html?_r=0
 * https://ca.news.yahoo.com/brazilians-hoard-water-prepare-possible-drastic-rationing-164505818--business.html
+* http://www.wired.com/2015/04/benedikt-partenheimer-particulate-matter/
+* http://www.wired.com/2015/04/human-powered-machines/
 * https://www.youtube.com/watch?v=m0HL4L6Pa-4
 * http://www.reddit.com/r/videos/comments/30lq00/nebraska_man_offers_fracking_polluted_water_to/
+* http://mobile.nytimes.com/2015/04/04/us/as-quakes-rattle-oklahoma-fingers-point-to-oil-and-gas-industry.html?_r=0
 * http://seattletimes.com/html/localnews/2025709135_oceanxprizexml.html
 * http://www.lowtechmagazine.com/2015/02/heating-people-not-spaces.html
 * http://www.nytimes.com/2014/04/20/magazine/its-the-end-of-the-world-as-we-know-it-and-he-feels-fine.html?hp&_r=0
