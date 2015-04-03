@@ -543,6 +543,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 
 * http://jeremykun.com/2014/10/05/on-the-computational-complexity-of-mapreduce/
 * http://thenewstack.io/airbnbs-airpal-reflects-new-ways-to-query-and-get-answers-from-hive-and-hadoop/
+* http://grigory.us/blog/rdbms-mapreduce/
 * http://key-value-stories.blogspot.com/2015/02/memcached-internals-design.html
 * http://techblog.netflix.com/2015/03/can-spark-streaming-survive-chaos-monkey.html
 * http://blog.acolyer.org/2015/02/05/impala-a-modern-open-source-sql-engine-for-hadoop/

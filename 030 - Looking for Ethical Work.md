@@ -81,6 +81,7 @@ Industries
 * http://www.nakedcapitalism.com/2013/10/ethics-and-complex-systems.html
 * https://nplusonemag.com/online-only/help-desk/bank-robbin-in-brooklyn/
 * http://berkeleyjournal.org/2015/01/morality-and-the-idea-of-progress-in-silicon-valley/
+* http://america.aljazeera.com/multimedia/2015/4/building-miniature-dream-houses-for-the-homeless.html
 * http://www.seattletimes.com/education-lab/from-it-intern-to-it-chief-and-now-the-northwests-top-education-technology-leader-of-the-year/
 * http://africasacountry.com/kenyas-first-mockumentary-takes-on-the-ngo-world/
 * http://www.wired.com/2014/02/outsourcing-humanity-apps/

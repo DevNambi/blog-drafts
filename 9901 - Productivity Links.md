@@ -10,6 +10,7 @@
 * http://7goldfish.com/Little%20know%20ways%20to%20think%20about%20dicipline
 * http://www.npr.org/blogs/health/2015/01/05/371894919/what-heroin-addiction-tells-us-about-changing-bad-habits
 * http://www.theguardian.com/education/2014/feb/27/musicians-better-language-learners
+* http://arstechnica.com/science/2015/04/the-internet-doesnt-make-you-smarter-you-only-think-it-does/
 * http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004020
 * http://parenting.blogs.nytimes.com/2014/10/16/want-to-ace-that-test-get-the-right-kind-of-sleep/
 * http://www.smithsonianmag.com/science-nature/brains-make-decisions-way-alan-turing-cracked-codes-180954212/?no-ist
