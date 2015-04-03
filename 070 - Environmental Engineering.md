@@ -83,6 +83,7 @@ Emphasize what we don't know
 
 * http://forecast.io/raw/
 * http://www.nakedcapitalism.com/2014/04/gaius-publius-climate-scientist-michael-mann-dont-stop-now-well-surpass-2c-global-warming.html
+* http://www.washingtonpost.com/news/energy-environment/wp/2015/04/01/the-arctic-climate-threat-that-nobodys-even-talking-about-yet/
 * http://www.atlasobscura.com/places/the-great-green-wall-of-africa
 * http://arstechnica.com/science/2015/03/us-doe-examines-a-future-grid-thats-35-percent-wind/
 * http://www.wired.com/2015/03/californias-run-water-act-now/

@@ -516,6 +516,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 <li><a href="http://t.co/SfR3UWC5" time_added="1359131339" tags="">dhh: Eight programming positions open on the 37signals Job Board specifical</a></li>
 
 * http://www.washington.edu/news/2014/11/20/cost-of-meeting-basic-needs-rising-faster-than-wages-in-washington-state/
+* http://www.seattletimes.com/opinion/editorials/freeze-or-cut-college-tuition-but-make-up-for-lost-revenue/
 * http://seattletimes.com/html/education/2025132186_edlabacademicredshirtxml.html
 * http://blogs.seattletimes.com/educationlab/2015/01/05/report-uw-accounting-is-confusing-lacks-consistency/ <- OPB is hosed
 * https://news.cs.washington.edu/2015/01/06/uw-cse-introductory-course-enrollment-continues-to-explode/
