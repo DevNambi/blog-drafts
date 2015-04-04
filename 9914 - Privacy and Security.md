@@ -37,6 +37,7 @@
 * http://webpolicy.org/2015/01/14/turn-verizon-zombie-cookie/
 * http://techcrunch.com/2014/10/11/edward-snowden-new-yorker-festival/
 * http://www.washingtonpost.com/blogs/the-fix/wp/2015/01/18/with-snowden-in-the-background-privacy-takes-a-back-seat-to-security/
+* http://crashoverridenetwork.tumblr.com/post/113748237272/guide-talking-to-family-police
 * https://www.kickstarter.com/projects/augustgermar/anonabox-a-tor-hardware-router
 * http://www.theguardian.com/technology/2015/feb/13/apple-ceo-tim-cook-challenges-obama-privacy
 * http://arstechnica.com/tech-policy/2015/03/we-know-where-youve-been-ars-acquires-4-6m-license-plate-scans-from-the-cops/

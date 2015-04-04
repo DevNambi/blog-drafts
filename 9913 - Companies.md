@@ -27,6 +27,7 @@
 <li><a href="http://spectrum.ieee.org/podcast/geek-life/tools-toys/can-you-trust-an-amazon-review" time_added="1361368520" tags="">Can You Trust an Amazon Review? - IEEE Spectrum</a></li>
 
 * http://www.nytimes.com/2014/10/20/opinion/paul-krugman-amazons-monopsony-is-not-ok.html
+* http://smerity.com/articles/2015/amazon_information_leakage.html
 * http://www.economist.com/blogs/freeexchange/2014/10/market-power?fsrc=scn/fb/wl/bl/bigbadamazon
 * https://www.scribd.com/embeds/245561031/content?start_page=1&view_mode=scroll&access_key=key-UEZdQ4D9zd883gw8tn3D&show_recommendations=true
 * http://www.theguardian.com/money/2014/nov/28/being-homeless-is-better-than-working-for-amazon
@@ -165,6 +166,7 @@
 * http://blog.aylien.com/post/113443039128/how-we-built-a-press-target-list-of-300-qualified
 * http://www.washingtonpost.com/blogs/monkey-cage/wp/2015/03/11/the-decline-of-journalism-and-the-rise-of-public-relations/
 * http://www.thebaffler.com/salvos/purple-reign
+* http://www.seattletimes.com/nation-world/world/fishermen-rush-to-be-rescued-amid-indonesian-slavery-probe/
 
 
 ## Airlines

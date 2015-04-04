@@ -24,6 +24,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * http://sysadmin1138.net/mt/blog/2015/03/silence-is-as-much-social-lubrication-as-lying.shtml
 * https://medium.com/@jolenecreighton/heres-what-its-like-for-a-woman-to-send-a-job-rejection-to-a-man-17af3090c501
 * http://blog.ameliagreenhall.com/post/quiet-ladies.-wadhwa-is-speaking-now
+* http://www.midnightdba.com/Jen/2015/04/the-real-secret-of-why-so-few-women-are-in-it/
 * http://www.theverge.com/2015/2/9/8004101/sexism-and-consequences-at-techcrunch-s-annual-award-show
 * https://medium.com/backchannel/techs-high-barrier-to-entry-for-the-underprivileged-da254356547d
 * http://fortune.com/2015/02/17/a-female-computer-science-major-at-stanford-floored-by-the-sexism/
