@@ -468,6 +468,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://debtcollective.org/studentstrike
 * https://www.insidehighered.com/quicktakes/2015/03/23/umass-faces-3b-debt
 * http://www.huffingtonpost.com/2012/09/17/russian-diamonds-siberian-meteorite-crater-carats_n_1891691.html
+* http://www.theatlantic.com/business/archive/2015/04/for-profit-colleges-here-to-stay/389045/
 
 
 #### Adjuncts

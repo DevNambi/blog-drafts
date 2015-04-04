@@ -179,6 +179,7 @@
 ## State
 
 * http://www.sfgate.com/business/article/State-let-oil-companies-taint-drinkable-water-in-6054242.php
+* http://www.theatlantic.com/politics/archive/2015/03/how-red-states-learned-to-love-the-gas-tax/389084/
 * http://seattletimes.com/html/localnews/2025649226_prostitutionforfeituresxml.html
 * http://www.nakedcapitalism.com/2015/03/bill-black-homophobic-law-indiana-governor-dares-not-speak-purpose.html
 * http://www.nakedcapitalism.com/2015/02/corporate-welfare-queens-shocking-development-program-failure-rate-north-carolina.html 
