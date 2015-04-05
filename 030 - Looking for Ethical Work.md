@@ -69,6 +69,7 @@ Industries
 * https://medium.com/backchannel/the-man-who-made-the-uk-say-im-sorry-for-what-we-did-to-turing-8fc468dcea6b
 * https://www.eff.org/deeplinks/2015/02/eff-files-amicus-brief-case-seeks-hold-ibm-responsible-facilitating-apartheid
 * http://www.path.org/blog/2015/02/remembering-gaetano/
+* http://www.cnn.com/2012/10/18/travel/australia-yacht-rescue/
 
 ### Support real work, and disrupt everything else
 

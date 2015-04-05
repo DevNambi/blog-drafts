@@ -264,6 +264,7 @@
 * http://www.nbcbayarea.com/news/national-international/LAPD-Officer-Arrested-at-US-Mexico-Border-for-Alleged-Smuggling-296401141.html
 * http://thefreethoughtproject.com/man-criminal-record-facing-life-prison-flashing-gang-signs-facebook/
 * http://www.theroot.com/articles/culture/2014/02/cop_breaks_10_year_old_s_leg_for_filming_him.html
+* http://www.theguardian.com/world/2015/apr/04/alabama-death-row-anthony-ray-hilton?CMP=fb_gu
 * http://mobile.nytimes.com/2015/03/24/us/justice-dept-criticizing-philadelphia-police-finds-shootings-by-officers-are-common.html
 * http://www.nytimes.com/2015/04/04/us/racist-emails-by-ferguson-officials-released.html
 * http://www.theguardian.com/us-news/2015/mar/30/floyd-dent-police-inkster-michigan-beating
