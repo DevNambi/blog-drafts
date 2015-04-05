@@ -36,6 +36,7 @@ We believe we are working to make our society, our world, a better place. At the
 * http://www.law.nyu.edu/centers/ili/AlgorithmsConference
 * http://mobile.nytimes.com/blogs/bits/2014/12/23/data-broker-is-charged-with-selling-consumers-financial-details-to-fraudsters/
 * http://gigaom.com/2014/02/22/data-privacy-machine-learning-and-the-destruction-of-mysterious-humanity/
+* http://www.nakedcapitalism.com/2015/04/big-data-watching-work.html
 * http://www.marketsforgood.org/the-lake-washington-declaration/
 * http://www.infoworld.com/article/2687499/techology-business/silicon-valley-is-making-american-manufacturing-more-competitive.html
 * http://www.theglobeandmail.com/report-on-business/small-business/sb-growth/day-to-day/farms-factories-and-film-sets-startups-bring-big-data-to-inefficient-industries/article20574000/
