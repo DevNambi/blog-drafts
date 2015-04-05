@@ -119,6 +119,7 @@
 * http://www.nytimes.com/2015/04/04/world/asia/retired-japanese-fighter-pilot-sees-an-old-danger-on-the-horizon.html?_r=0
 * http://www.salon.com/2004/07/15/hersh_7/
 * http://www.washingtonpost.com/wp-srv/special/national/cia-interrogation-report/word-count/ <- torture
+* http://www.washingtonpost.com/world/middle_east/the-hidden-hand-behind-the-islamic-state-militants-saddam-husseins/2015/04/04/aa97676c-cc32-11e4-8730-4f473416e759_story.html?hpid=z1 <- blowback
 * http://panampost.com/sabrina-martin/2015/01/29/venezuelan-army-can-shoot-protesters-effective-immediately/
 * http://militaryprofessionalreadinglists.com/
 * http://www.nytimes.com/2015/03/21/world/africa/nigerian-army-noticeably-absent-in-town-taken-from-boko-haram.html
@@ -278,6 +279,7 @@
 * http://m.nydailynews.com/news/national/video-shows-man-dying-jail-cell-food-allergy-guards-article-1.1509408
 * http://www.waaytv.com/appnews/madison-officer-charged-with-assault-for-use-of-force-incident/article_7b09d144-b2fe-11e4-a0e4-b339eed5e1af.html
 * http://www.dailykos.com/story/2015/02/25/1366754/-LAPD-shoot-kill-unarmed-mentally-ill-veteran-on-live-TV-No-charges-Guess-what-their-defense-was
+* http://thinkprogress.org/justice/2015/04/02/3642252/madison-police-shooting-eviction-landlord/
 * http://talkingpointsmemo.com/edblog/me-ted
 * http://boingboing.net/2015/03/09/chicagoans-fight-for-police-to.html
 * http://voiceofsandiego.org/all-narratives/police-misconduct/their-crime-walking-into-their-own-home/

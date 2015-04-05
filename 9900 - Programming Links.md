@@ -34,6 +34,7 @@
 * http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html
 * http://mcfunley.com/choose-boring-technology
 * http://search.cpan.org/dist/Locale-Maketext/lib/Locale/Maketext/TPJ13.pod?#A_Localization_Horror_Story:_It_Could_Happen_To_You
+* http://www.catonmat.net/blog/programming-competitions-work-performance/
 * https://www.fastcompany.com/28121/they-write-right-stuff <- how I want things to be like
 * http://hacksoflife.blogspot.com/2015/01/the-four-horsemen-of-performance.html
 * http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/
