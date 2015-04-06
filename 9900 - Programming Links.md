@@ -272,6 +272,7 @@
 * http://engineering.pinterest.com/post/113376157699/open-sourcing-pinball
 * http://www.brendangregg.com/blog/2015-03-03/performance-tuning-linux-instances-on-ec2.html
 * http://blog.atomicinc.com/2015/03/03/does-amazon-web-services-pricing-follow-moores-law-2350/
+* http://us10.campaign-archive1.com/?u=5dfb7b5de8e42c2633c06b3a8&id=36227f3963
 * http://www.cloudcomputingpatterns.org/ <- priceless
 * http://www.devfactor.net/2014/12/30/2375-amazon-mistake/
 * https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1?wed <- comprehensive
