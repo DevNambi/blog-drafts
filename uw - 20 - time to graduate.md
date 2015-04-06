@@ -1,7 +1,9 @@
 # UW - Time to Graduate
 
-In my [last post](http://blogs.uw.edu/fractals/introduction/), I introduced myself and gave some background into data science in academia. Now, let's look at one big 
+In my [last post](http://blogs.uw.edu/fractals/introduction/), I introduced myself and gave some background into data science in academia. This time, I want to look at a single big challenge: time to graduate.
 
+
+## Leverage
 
 *"Always work on the thing with the highest leverage" - Aaron Swartz* (FIX_QUOTE)
 
@@ -9,7 +11,7 @@ Student debt is one of the big stories of our time. There are several broad disc
 
 * Recognize that the very idea of student debt is repugnant, both morally and pragmatically. 
 * Add more money, usually in the form of additional state/federal funding. However, I don't know of any examples of when doing so made tuition or student debt *decrease*. (LINKS)
-* Privatize higher education, letting 'the market' solve the problem. Unfortunately, this has been tried with for-profit colleges, and the results are terrifyingly bad. Students see an inferior academic experience, learn less, have fewer career opportunities and higher debt loads. (ADD LINKS).
+* Privatize higher education, letting 'the market' solve the problem. Unfortunately, this has been tried with for-profit colleges, with terrifyingly bad results. Students see an inferior academic experience, learn less, have fewer career opportunities and higher debt loads. (ADD LINKS).
 * Trust to MOOCs and online learning, which scale far better than traditional, in-person education. Funny, though, the results aren't very impressive yet (LINK). I wonder what about the in-person, doesn't-scale part of education that is hard/impossible to duplicate on a computer. (ADD LINKS)
 
 I have no particular preference or aversion to any of these on principle, but they darn well better **make the situation better**. 
@@ -21,11 +23,12 @@ I wonder if public universities can be [made more efficient](https://www.insideh
 
 **It's About Time**
 
-Colleges don't have a fixed price for a degree; they charge for each day/quarter/year you're enrolled. Each year, students have to adjust their finances to handle different sets of loans, grants, and tuition rates. State funding is similar: public institutions are often funded by giving a certain amount per student, per year.
+Colleges don't have fixed prices for degrees; they charge for each day/quarter/year you're enrolled. Students adjust their finances each year to handle different combinations of loans, scholarships, grants, and tuition. State funding is similar: public institutions are often funded by giving a certain amount per student, per year.
 
-If students could graduate faster without sacrificing the quality of their education, then everyone would benefit. Students would graduate with less debt and more time in their lives. Federal and state coffers would pay less per student, allowing scarce government funds to go further. Universities could admit more students with their increased capacity.
+Everyone would benefit if students graduate faster without sacrificing the quality of their education. Students would have less debt, governments would spend less per student, and universities would have a greater capacity to admit students. 
 
-Let's ask a broad question: **what are the barriers, good and bad, that prevent students from graduating quickly?**
+
+**What are the barriers, good and bad, that prevent students from graduating quickly?**
 
 ### Hoops and Hurdles
 
