@@ -143,6 +143,7 @@
 
 * http://www.reddit.com/r/DataVizRequests/top/?sort=top&t=all
 * http://textvis.lnu.se/
+* http://homes.cs.washington.edu/~jheer/talks/RaisingTheBar-OpenVisConf.pdf <- AMAZING
 * http://www.bbc.com/news/magazine-29915801
 * http://queue.acm.org/detail.cfm?id=1805128
 * http://nbviewer.ipython.org/github/mwaskom/seaborn/blob/master/examples/plotting_distributions.ipynb
