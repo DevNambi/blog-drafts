@@ -542,6 +542,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 
 
 * http://jeremykun.com/2014/10/05/on-the-computational-complexity-of-mapreduce/
+* http://thislongrun.blogspot.com/2015/04/the-unclear-cp-vs-ca-case-in-cap.html
 * http://thenewstack.io/airbnbs-airpal-reflects-new-ways-to-query-and-get-answers-from-hive-and-hadoop/
 * http://grigory.us/blog/rdbms-mapreduce/
 * http://key-value-stories.blogspot.com/2015/02/memcached-internals-design.html

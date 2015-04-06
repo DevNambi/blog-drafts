@@ -26,6 +26,7 @@
 * http://www.nytimes.com/2014/12/21/magazine/what-happened-when-marissa-mayer-tried-to-be-steve-jobs.html?_r=1
 * http://www.reddit.com/r/AskReddit/comments/2q9yb7/what_is_the_most_evil_thing_your_company_didis/
 * http://www.devbattles.com/en/sand/post-490-Why+India+outsourcing+is+Doomed
+* http://firstround.com/review/this-is-how-coursera-competes-against-google-and-facebook-for-the-best-talent/
 * https://hbr.org/2012/04/the-new-science-of-building-great-teams
 * http://www.itworld.com/article/2875112/ibm-is-about-to-get-hit-with-a-massive-reorg-and-layoffs.html <- how to do it wrong
 * https://www.linkedin.com/pulse/what-like-watch-worst-firing-ever-paul-petrone?trk=tod-home-art-list-large_0 <- how to do it wrong, again

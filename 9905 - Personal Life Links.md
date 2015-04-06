@@ -22,6 +22,7 @@
 * http://markmanson.net/question
 * http://www.collective-evolution.com/2014/06/28/8-common-traits-of-happy-people-that-they-dont-talk-about/
 * http://www.washingtonpost.com/news/storyline/wp/2014/12/04/people-around-you-control-your-mind-the-latest-evidence/
+* http://www.bakadesuyo.com/2015/04/frustrated/ <- AMAZING
 
 
 
