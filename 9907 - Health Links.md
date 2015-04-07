@@ -10,6 +10,7 @@
 * http://www.vox.com/2015/3/23/8264355/research-study-hype
 * http://www.economist.com/news/technology-quarterly/21645497-tech-startups-are-moving-food-business-make-sustainable-versions-meat
 * http://arstechnica.com/science/2015/02/common-food-emulsifiers-may-be-linked-to-metabolic-syndrome/
+* http://gawker.com/the-food-babe-blogger-is-full-of-shit-1694902226
 * http://www.theatlantic.com/health/archive/2015/02/the-new-best-way-to-eat/385659/ 
 * http://mobile.nytimes.com/2015/03/31/upshot/red-meat-is-not-the-enemy.html?_r=0
 * http://blog.dilbert.com/post/109880240641/sciences-biggest-fail
@@ -21,6 +22,7 @@
 * http://america.aljazeera.com/articles/2014/12/25/kale-and-hearty-thesaladbowlofamericaturnstoxic.html
 * http://www.nytimes.com/2015/01/24/business/allergy-trigger-found-in-many-personal-care-items-comes-under-greater-scrutiny.html
 * http://www.theguardian.com/lifeandstyle/2014/dec/05/detox-myth-health-diet-science-ignorance
+* http://www.seattletimes.com/life/wellness/new-science-on-cholesterol-eggs-and-vegetarian-diets/
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2015/03/11/the-sneaky-way-the-sugar-industry-shaped-government-funded-dental-research/
 * http://www.nerdfitness.com/blog/2015/03/09/why-exercise-is-the-least-important-part-of-the-equation-and-a-camp-nerd-fitness-update/
 * http://aeon.co/magazine/health/would-we-opt-out-of-food-if-given-the-chance/

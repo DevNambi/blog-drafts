@@ -328,12 +328,15 @@
 * http://www.dataschool.io/comparing-supervised-learning-algorithms/
 * http://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/
 * http://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/
+* http://www.gregreda.com/2015/03/30/beer-review-markov-chains/
 * http://blog.dato.com/choosing-a-recommender-model
 * http://research.microsoft.com/pubs/192769/tricks-2012.pdf
 * http://arxiv.org/pdf/1503.01331v1.pdf
 * http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+* http://blog.fractalanalytics.com/institutionalizing-analytics/online-machine-learning-2/
 * https://newsoffice.mit.edu/2015/better-machine-learning-kalyan-veeramachaneni-0224
 * https://outlookzen.wordpress.com/2015/03/15/life-lessons-from-machine-learning/
+* http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
 * http://research.microsoft.com/en-us/projects/r2/
 * http://probabilistic-programming.org/wiki/Home
 * http://new.livestream.com/accounts/7874891/events/3565981 <- ML conf videos
@@ -545,6 +548,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://jeremykun.com/2014/10/05/on-the-computational-complexity-of-mapreduce/
 * http://thislongrun.blogspot.com/2015/04/the-unclear-cp-vs-ca-case-in-cap.html
 * http://thenewstack.io/airbnbs-airpal-reflects-new-ways-to-query-and-get-answers-from-hive-and-hadoop/
+* http://www.dursi.ca/hpc-is-dying-and-mpi-is-killing-it/
 * http://grigory.us/blog/rdbms-mapreduce/
 * http://key-value-stories.blogspot.com/2015/02/memcached-internals-design.html
 * http://techblog.netflix.com/2015/03/can-spark-streaming-survive-chaos-monkey.html

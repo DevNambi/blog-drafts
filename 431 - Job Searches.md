@@ -157,6 +157,7 @@ Interviews are one of the best times to find out about a company's culture, work
 <li><a href="http://www.minyanville.com/sectors/technology/articles/AMZN-AAPL-WMT-GOOG-MSFT-Amazon/10/10/2013/id/52177">Amazon's Stressed Out Culture Is Burning Out Employees</a></li>
 <li><a href="http://www.theatlantic.com/business/archive/2014/12/which-jobs-have-the-highest-rate-of-depression/383947/">Which Jobs Have the Highest Rates of Depression?</a></li>
 <li><a href="http://swizec.github.io/h1b-software-salaries/" >Developer salaries adjusted for cost of living</a></li>
+<li><a href="http://www.nytimes.com/2015/04/08/upshot/silicon-valley-perks-for-some-workers-struggles-for-parents.html?_r=0&abt=0002&abg=1">Silicon Valley: Perks for Some Workers, Struggles for Parents</a></li>
 </ul>
 
 

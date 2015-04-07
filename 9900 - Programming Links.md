@@ -188,6 +188,7 @@
 
 * http://www.oliverlehmann.com/project-management-sources/Nasa-Hundred-Rules-for-Project-Managers.pdf
 * http://arstechnica.com/gaming/2015/04/play-the-game-that-shows-how-hard-it-is-to-make-a-good-game/
+* https://medium.com/@pawel_niznik/13-principles-of-next-generation-enterprise-software-technology-b8a3a324ee32
 * http://www.arguingwithalgorithms.com/posts/14-12-02-architecture-reviews
 * http://stilldrinking.org/programming-sucks
 * http://research.gigaom.com/2014/07/part-1-what-makes-teams-successful/
@@ -269,6 +270,7 @@
 
 
 * http://muratbuffalo.blogspot.com/2014/07/distributed-is-not-necessarily-more.html
+* http://blog.textit.in/why-buying-provisioned-iops-on-rds-may-be-a-mistake
 * http://engineering.pinterest.com/post/113376157699/open-sourcing-pinball
 * http://www.brendangregg.com/blog/2015-03-03/performance-tuning-linux-instances-on-ec2.html
 * http://blog.atomicinc.com/2015/03/03/does-amazon-web-services-pricing-follow-moores-law-2350/

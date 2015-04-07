@@ -4,6 +4,7 @@
 * http://www.bloomberg.com/news/2014-10-02/jpmorgan-says-data-breach-affected-76-million-households.html
 * http://blog.cryptographyengineering.com/2015/04/truecrypt-report.html
 * http://www.scmagazine.com/the-failure-of-the-security-industry/article/403261/
+* https://www.eff.org/deeplinks/2015/04/whitehouses-new-executive-order-cyber-crime-unfortunately-no-joke
 * http://blog.codinghorror.com/given-enough-money-all-bugs-are-shallow/
 * http://www.extremetech.com/computing/199978-samsung-is-still-lying-about-the-encryption-on-its-smart-tvs
 * http://offbeathome.com/2015/03/internet-security-tips

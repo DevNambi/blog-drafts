@@ -104,6 +104,7 @@
 
 * http://www.wired.com/2012/12/mf-tim-oreilly-qa/2/
 * http://www.nytimes.com/2014/10/15/upshot/how-jean-tiroles-work-helps-explain-the-internet-economy.html
+* http://www.talkingquickly.co.uk/2015/04/what-id-tell-myself-about-startups/
 * http://pando.com/2014/10/14/anti-burn-how-bootstrapped-zoho-survived-two-tech-bubbles-and-became-a-massive-success/
 * http://blog.samaltman.com/policy-for-growth-and-innovation
 * https://gigaom.com/2015/02/15/disrupting-reality-silicon-valley-is-busy-ignoring-the-real-world/
@@ -134,6 +135,7 @@
 * http://evhead.com/2005/11/ten-rules-for-web-startups.asp?hn=true
 * http://www.technologyreview.com/qa/533096/a-feminist-critique-of-silicon-valley/
 * https://angel.co/salaries
+* https://startupblog.wordpress.com/2015/04/07/the-best-single-lesson-bill-gates-gave-every-startup-product-manager/
 * http://seattletimes.com/html/businesstechnology/2025258312_agtechfuturexml.html
 * http://www.theatlantic.com/business/archive/2014/12/how-to-create-a-tech-start-up-scene-if-youre-not-in-silicon-valley/384024/?single_page=true
 

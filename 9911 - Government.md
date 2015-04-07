@@ -9,6 +9,7 @@
 * http://www.dailydot.com/politics/jeremy-hammond-terrorist-watchlist-fbi/
 * http://www.theatlantic.com/politics/archive/2015/03/the-conservative-case-against-enforcing-immigration-laws/387004/
 * http://www.cnbc.com/id/102409348
+* https://www.eff.org/deeplinks/2015/04/whitehouses-new-executive-order-cyber-crime-unfortunately-no-joke
 * http://www.theguardian.com/us-news/2015/mar/10/selma-alabama-march-confederate
 * http://wabe.org/post/how-fema-uses-waffle-house-measure-disasters
 * http://www.nytimes.com/2015/02/24/world/africa/as-tourism-sags-on-kenyan-coast-terrorists-could-lure-the-unemployed.html?_r=0
@@ -91,6 +92,7 @@
 
 
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
+* http://www.huffingtonpost.ca/2015/04/05/former-spy-cia-employees_n_7006852.html
 * http://www.washingtonpost.com/world/national-security/pentagon-loses-sight-of-500-million-in-counterterrorism-aid-given-to-yemen/2015/03/17/f4ca25ce-cbf9-11e4-8a46-b1dc9be5a8ff_story.html?hpid=z1
 * http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/ <- an insight piece
 * http://nationalinterest.org/feature/are-submarines-about-become-obsolete-12253
