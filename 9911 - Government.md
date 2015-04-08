@@ -255,6 +255,7 @@
 * http://www.nytimes.com/2015/03/03/us/prosecutors-to-seek-death-penalty-in-murders-of-arab-american-students.html
 * http://marginalrevolution.com/marginalrevolution/2015/03/the-ferguson-kleptocracy.html
 * http://www.oregonlive.com/today/index.ssf/2015/03/pennsylvania_officer_charged_w.html
+* http://www.thedailybeast.com/articles/2015/04/07/walter-scott-s-killing-is-the-sum-of-every-black-nightmare-about-white-cops.html
 * http://arstechnica.com/tech-policy/2015/03/ferguson-cops-routinely-block-public-from-filming-them-doj-says/
 * http://america.aljazeera.com/articles/2015/3/9/un-expert-slams-us-as-only-nation-to-sentence-kids-to-life-without-parole.html
 * http://theantimedia.org/4-victims-come-forward-chicago-secret-prison-man-tortured-weed/te 
