@@ -28,6 +28,7 @@ That said, I'm not a climate scientist. I do read a lot of their research papers
 ### What Problems Will We Face?
 
 * Lack of clean water
+	* Consider condensation technology as a possible way forward. All of that agricultural water goes somewhere, and it's not into the food. 
 * Not enough food
 	* Drought in agricultural areas
 * Ocean acidification
