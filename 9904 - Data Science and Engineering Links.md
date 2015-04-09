@@ -89,6 +89,7 @@
 
 * https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * https://github.com/caesar0301/awesome-public-datasets
+* http://jakeaustwick.me/python-web-scraping-resource/
 
 
 

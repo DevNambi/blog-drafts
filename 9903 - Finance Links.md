@@ -125,6 +125,7 @@
 * http://ink.hackeress.com/2014/12/crowdfunding-is-too-expensive-payments.html
 * http://www.economist.com/news/finance-and-economics/21635078-high-frequency-trading-might-reduce-liquidity-not-boost-it-its-defenders
 * http://www.nakedcapitalism.com/2014/12/bill-black-obama-holder-choose-banksters-whistleblowers.html
+* http://www.nytimes.com/2015/04/09/nyregion/wall-street-fees-wipe-out-2-5-billion-in-new-york-city-pension-gains.html?_r=1
 * http://www.nakedcapitalism.com/2014/12/new-yorks-benjamin-lawsky-forces-resignation-ceo-mortgage-servicer-ocwen-wrongful-foreclosures-shoddy-records-systems.html <- when regulators do their job
 * http://mobile.nytimes.com/blogs/dealbook/2014/12/25/unsolved-shooting-accentuates-problems-at-doral-one-of-puerto-ricos-biggest-lenders/
 * http://www.nakedcapitalism.com/2014/12/stephen-roach-takes-the-fed-to-the-woodshed.html

@@ -15,6 +15,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://www.emc.ncep.noaa.gov/GFS/code.php
 * http://nautil.us/issue/5/fame/fame-is-fortune-in-sino_science
 * http://qz.com/336504/a-massive-data-dive-proves-that-languages-and-genes-evolve-together/
+* http://www.nytimes.com/2015/04/10/business/dealbook/peltzs-attacks-on-dupont-threaten-americas-research-edge.html?_r=0
 * https://medium.com/the-physics-arxiv-blog/the-paradoxes-that-threaten-to-tear-modern-cosmology-apart-d334a7fcfdb6
 * https://dartthrowingchimp.wordpress.com/2015/02/11/a-tale-of-normal-failure/
 * http://www.pnas.org/content/112/6/1645.extract

@@ -17,6 +17,7 @@
 * http://time.com/3746047/diet-soda-bad-belly-fat/?xid=tcoshare
 * http://www.theatlantic.com/health/archive/2015/02/the-food-babe-enemy-of-chemicals/385301/
 * http://www.nakedcapitalism.com/2015/02/war-genetically-modified-food-critics.html
+* http://onlinelibrary.wiley.com/doi/10.1002/dta.1793/full
 * http://www.scientificamerican.com/article/among-trillions-of-microbes-in-the-gut-a-few-are-special/
 * https://jawbone.com/blog/weight-loss/
 * http://america.aljazeera.com/articles/2014/12/25/kale-and-hearty-thesaladbowlofamericaturnstoxic.html
