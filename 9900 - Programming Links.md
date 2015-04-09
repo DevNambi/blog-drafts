@@ -303,6 +303,8 @@
 * http://blog.serverfault.com/2015/03/05/how-we-upgrade-a-live-data-center/
 * http://danluu.com/3c-conflict/
 * http://blog.scalyr.com/2014/05/searching-20-gbsec-systems-engineering-before-algorithms/?1
+* http://windowsitpro.com/cloud/hp-cloud-were-all-out
+* http://bits.blogs.nytimes.com/2015/04/07/hp-comes-to-terms-with-the-cloud/?_r=0
 
 
 

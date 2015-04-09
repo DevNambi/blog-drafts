@@ -341,6 +341,7 @@
 * http://probabilistic-programming.org/wiki/Home
 * http://new.livestream.com/accounts/7874891/events/3565981 <- ML conf videos
 * http://hunch.net/?p=224
+* http://allenai.org/videos.html
 * http://jasonkolb.com/ill-be-back-how-the-internet-of-things-is-giving-birth-to-an-ai-renaissance/
 * http://katrinaeg.com/simulated-annealing.html
 * http://pralab.diee.unica.it/en/AdversariaLib
