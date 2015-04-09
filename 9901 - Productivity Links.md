@@ -18,6 +18,7 @@
 * http://www.northwestern.edu/newscenter/stories/2015/03/creative-genius-driven-by-distraction.html
 * http://www.brainpickings.org/2014/01/22/brian-eno-visual-music-oblique-strategies/
 * http://calnewport.com/blog/2015/03/27/isaac-asimovs-advice-for-being-creative-hint-dont-brainstorm/
+* http://nautil.us/issue/23/dominoes/fear-in-the-cockpit
 * http://time.com/3554741/bad-habits-mental-health/
 * https://www.youtube.com/playlist?list=PL2FF649D0C4407B30
 * http://blogs.hbr.org/2012/09/to-succeed-forget-self-esteem/

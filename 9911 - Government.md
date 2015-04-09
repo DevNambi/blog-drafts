@@ -85,6 +85,7 @@
 * http://seattletimes.com/html/nationworld/2025614214_saudiqaidaxml.html
 * http://www.theguardian.com/world/2015/feb/03/petition-putin-free-russian-svetlana-davydova-treason
 * http://news.yahoo.com/ukraine-leader-shows-off-captured-russian-military-ids-160048355.html
+* http://arstechnica.com/tech-policy/2015/04/pepper-spraying-drones-will-be-used-on-indian-protesters/
 
 
 

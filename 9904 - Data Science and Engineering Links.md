@@ -33,7 +33,7 @@
 * http://www.rstudio.com/wp-content/uploads/2015/01/data-wrangling-cheatsheet.pdf
 * http://blogs.aws.amazon.com/bigdata/post/TxX4BY5T1PQ7BQ/Using-IPython-Notebook-to-Analyze-Data-with-Amazon-EMR
 * https://districtdatalabs.silvrback.com/intro-to-r-for-microsoft-excel-users
-
+* http://www.labri.fr/perso/nrougier/teaching/numpy.100/
 
 
 
@@ -356,6 +356,8 @@
 * http://karpathy.github.io/neuralnets/
 * http://machinelearningmastery.com/building-a-production-machine-learning-infrastructure/
 * http://nbtest.herokuapp.com/github/fonnesbeck/Bios366/blob/master/notebooks/Section3_3-Expectation-Maximization.ipynb
+* https://aws.amazon.com/machine-learning/
+* https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/
 * http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 * http://datascopeanalytics.com/what-we-think/2014/09/18/hipster-classifier-icebreaker
 * http://research.microsoft.com/pubs/192769/tricks-2012.pdf

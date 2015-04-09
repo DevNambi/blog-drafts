@@ -25,6 +25,7 @@
 * http://www.paperplanes.de/2014/12/10/from-open-to-minimum-vacation-policy.html
 * http://www.nytimes.com/2014/12/21/magazine/what-happened-when-marissa-mayer-tried-to-be-steve-jobs.html?_r=1
 * http://www.reddit.com/r/AskReddit/comments/2q9yb7/what_is_the_most_evil_thing_your_company_didis/
+* http://thestack.com/workday-netflix-algorithm-employee-leave-090415
 * http://www.devbattles.com/en/sand/post-490-Why+India+outsourcing+is+Doomed
 * http://firstround.com/review/this-is-how-coursera-competes-against-google-and-facebook-for-the-best-talent/
 * https://hbr.org/2012/04/the-new-science-of-building-great-teams
