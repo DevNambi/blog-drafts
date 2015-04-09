@@ -68,6 +68,10 @@
 * http://www.wired.com/2015/03/robber-barons-loved-facebooks-employee-housing/
 
 
+## Apple
+
+* http://roadlesstravelled.me/2015/04/06/why-steve-jobs-motivated-me-to-quit-apple/
+
 ## IBM and other large IT companies
 
 * http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/massive-worldwide-layoff-underway-at-ibm
