@@ -14,6 +14,7 @@
 * http://arstechnica.com/science/2015/04/the-internet-doesnt-make-you-smarter-you-only-think-it-does/
 * http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004020
 * http://parenting.blogs.nytimes.com/2014/10/16/want-to-ace-that-test-get-the-right-kind-of-sleep/
+* https://medium.com/i-dont-know-a-thing/the-complete-and-logical-guide-to-winning-at-your-own-life-in-19-super-difficult-steps-135a17b3c5c6#4f22--share-0-116
 * http://www.smithsonianmag.com/science-nature/brains-make-decisions-way-alan-turing-cracked-codes-180954212/?no-ist
 * http://www.northwestern.edu/newscenter/stories/2015/03/creative-genius-driven-by-distraction.html
 * http://www.brainpickings.org/2014/01/22/brian-eno-visual-music-oblique-strategies/
