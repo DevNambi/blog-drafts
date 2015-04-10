@@ -432,6 +432,7 @@
 
 
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/?mbid=social_fb
+* http://blogs.wsj.com/washwire/2015/04/08/why-low-growth-in-health-costs-still-stings/
 * http://www.nytimes.com/interactive/2015/02/22/sunday-review/steven-rattner-for-tens-of-millions-obamacare-is-working.html
 * http://www.nytimes.com/2015/02/23/business/economy/health-care-opens-middle-class-path-taken-mainly-by-women.html
 * http://www.nytimes.com/2015/02/17/us/success-proves-undoing-of-health-insurance-co-op.html <- no mention of why medicine is so expensive in the article

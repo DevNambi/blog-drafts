@@ -144,6 +144,7 @@
 <li><a href="http://www.newyorker.com/online/blogs/newsdesk/2013/03/the-cost-of-ubers-free-rides.html?currentPage=all" time_added="1363563038" tags="hn">The Cost of Uber's Free Rides : The New Yorker</a></li>
 
 * http://www.slate.com/articles/business/moneybox/2014/10/uber_driver_salary_the_ride_sharing_company_says_its_drivers_make_great.single.html
+* http://www.yesmagazine.org/new-economy/uber-unionized-worker-owned-co-op-denver-cabbies
 * http://www.theverge.com/2014/11/4/7150225/uber-is-recruiting-50000-veterans
 * http://www.modernluxury.com/san-francisco/story/the-smartest-bro-the-room
 * http://www.geekwire.com/2014/uber-exec-wanted-dig-dirt-expose-journalist-critical-column/
