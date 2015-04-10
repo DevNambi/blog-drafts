@@ -20,6 +20,7 @@
 * http://arstechnica.com/security/2015/02/why-even-strong-crypto-wouldnt-protect-ssns-exposed-in-anthem-breach/
 * https://www.codeandsec.com/Supreme-Leaders-Not-That-Supreme-Malwares
 * http://bits.blogs.nytimes.com/2015/02/23/linkedin-settles-class-action-suit-over-weak-password-security/
+* http://arstechnica.com/security/2015/04/hacked-french-network-exposed-its-own-passwords-during-tv-interview/ <- hilarious. 
 * https://xato.net/passwords/ten-million-passwords/
 * https://www.owasp.org/index.php/Authentication_Cheat_Sheet
 * http://www.wired.com/2015/01/state-of-our-unions-data-insecure/
