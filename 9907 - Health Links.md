@@ -361,6 +361,7 @@
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://www.nytimes.com/2015/04/08/opinion/yes-we-were-warned-about-ebola.html?_r=0 <- science behind a paywall
 * http://www.theverge.com/2015/3/24/8282651/registered-nurse-pay-gap-women-earn-less
 * http://hcrenewal.blogspot.com/2015/03/times-american-boards-are-exceptional.html
 * http://www.nakedcapitalism.com/2015/03/nurses-unite-to-stop-transpacific-partnership-fast-track.html

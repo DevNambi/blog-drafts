@@ -259,6 +259,8 @@
 * http://www.oregonlive.com/today/index.ssf/2015/03/pennsylvania_officer_charged_w.html
 * http://www.thedailybeast.com/articles/2015/04/07/walter-scott-s-killing-is-the-sum-of-every-black-nightmare-about-white-cops.html
 * http://arstechnica.com/tech-policy/2015/03/ferguson-cops-routinely-block-public-from-filming-them-doj-says/
+* http://www.theguardian.com/us-news/2015/apr/10/california-deputies-frank-pusok-helicopter-video
+* http://www.abqjournal.com/567598/politics/civil-asset-forfeiture-bill-signed-into-law-by-gov-susana-martinez.html
 * http://www.alternet.org/news-amp-politics/map-shows-exact-location-every-black-person-killed-cops-2014
 * http://www.pri.org/stories/2015-04-10/how-kicking-trash-can-became-criminal-6th-grader
 * http://america.aljazeera.com/articles/2015/3/9/un-expert-slams-us-as-only-nation-to-sentence-kids-to-life-without-parole.html
