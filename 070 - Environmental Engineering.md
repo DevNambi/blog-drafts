@@ -109,6 +109,7 @@ Emphasize what we don't know
 * http://mobile.nytimes.com/2015/03/04/dining/efficiency-in-the-kitchen-to-reduce-food-waste.html
 * http://www.washingtonpost.com/news/to-your-health/wp/2015/04/09/rise-of-deadly-radon-gas-in-pennsylvania-buildings-linked-to-fracking-industry/
 * http://www.seattletimes.com/nation-world/instruments-catch-carbon-in-the-act-of-warming-sky/ 
+* http://blog.seattlepi.com/seattlepolitics/2015/04/10/vancouver-b-c-mayor-oil-spill-response-totally-inadequate/
 * https://medium.com/ted-fellows/how-to-grow-a-forest-really-really-fast-d27df202ba09
 * http://www.technologyreview.com/featuredstory/534996/megascale-desalination/
 * http://www.calgaryherald.com/news/vancouver/Ocean+waste+hits+home+Plastic+filled+fish+guts+ruins+Chilliwack/10827599/story.html
