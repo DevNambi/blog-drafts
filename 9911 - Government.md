@@ -253,6 +253,7 @@
 * http://countercurrentnews.com/2015/03/calvon-reid-i-cant-breathe-ccpd-florida/
 * http://countercurrentnews.com/2015/03/tony-robinson-madison-police/
 * https://www.facebook.com/video.php?v=1009126519115252 <- police kill a homeless man *after* holding him down. WARNING: GRAPHIC
+* http://www.slate.com/blogs/future_tense/2015/04/10/florida_middle_schooler_arrested_charged_with_hacking_cybercrimes.html
 * http://www.nytimes.com/2015/03/03/us/cleveland-mayor-apologizes-for-language-used-to-blame-tamir-rice-for-his-death.html?_r=0
 * http://www.nytimes.com/2015/03/03/us/prosecutors-to-seek-death-penalty-in-murders-of-arab-american-students.html
 * http://marginalrevolution.com/marginalrevolution/2015/03/the-ferguson-kleptocracy.html

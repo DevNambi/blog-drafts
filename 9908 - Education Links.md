@@ -189,6 +189,8 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.bloombergview.com/articles/2014-07-14/turning-college-into-a-no-thought-zone
 * http://www.nytimes.com/2014/07/18/upshot/some-universities-crack-code-in-drawing-women-to-computer-science.html
 * http://www.reddit.com/r/AskReddit/comments/2c679a/if_your_college_major_had_a_slogan_what_would_it/
+* http://www.bloomberg.com/news/articles/2015-03-26/yale-will-bolster-computer-science-faculty-after-student-outcry
+* https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/htmlview?usp=sharing&sle=true
 * http://www.forbes.com/sites/lutzfinger/2014/08/19/3-data-products-you-need-to-know/
 * http://jakevdp.github.io/blog/2014/08/22/hacking-academia/
 * http://www.nytimes.com/2014/08/28/technology/personaltech/bringing-tech-culture-to-the-staid-college-quad.html

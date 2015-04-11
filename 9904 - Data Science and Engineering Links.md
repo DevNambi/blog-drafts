@@ -34,6 +34,7 @@
 * http://blogs.aws.amazon.com/bigdata/post/TxX4BY5T1PQ7BQ/Using-IPython-Notebook-to-Analyze-Data-with-Amazon-EMR
 * https://districtdatalabs.silvrback.com/intro-to-r-for-microsoft-excel-users
 * http://www.labri.fr/perso/nrougier/teaching/numpy.100/
+* https://plot.ly/ipython-notebooks/big-data-analytics-with-pandas-and-sqlite/
 
 
 

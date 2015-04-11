@@ -5,6 +5,7 @@
 * http://blog.cryptographyengineering.com/2015/04/truecrypt-report.html
 * http://www.scmagazine.com/the-failure-of-the-security-industry/article/403261/
 * https://www.eff.org/deeplinks/2015/04/whitehouses-new-executive-order-cyber-crime-unfortunately-no-joke
+* http://www.wired.com/2015/04/want-see-domestic-spyings-future-follow-drug-war/
 * http://blog.codinghorror.com/given-enough-money-all-bugs-are-shallow/
 * http://www.extremetech.com/computing/199978-samsung-is-still-lying-about-the-encryption-on-its-smart-tvs
 * http://offbeathome.com/2015/03/internet-security-tips
@@ -15,6 +16,7 @@
 * https://digitalsecurity.intel.com/5habits/
 * http://arstechnica.com/security/2015/03/google-warns-of-unauthorized-tls-certificates-trusted-by-almost-all-oses/
 * https://freedom-to-tinker.com/blog/jbonneau/be-wary-of-one-time-pads-and-other-crypto-unicorns/
+* http://www.washingtonpost.com/world/national-security/as-encryption-spreads-us-worries-about-access-to-data-for-investigations/2015/04/10/7c1c7518-d401-11e4-a62f-ee745911a4ff_story.html
 * http://arstechnica.com/security/2015/03/cutting-edge-hack-gives-super-user-status-by-exploiting-dram-weakness/
 * http://seattletimes.com/html/nationworld/2025702560_bankcyberxml.html
 * http://arstechnica.com/security/2015/02/why-even-strong-crypto-wouldnt-protect-ssns-exposed-in-anthem-breach/

@@ -173,6 +173,7 @@
 * http://www.washingtonpost.com/blogs/monkey-cage/wp/2015/03/11/the-decline-of-journalism-and-the-rise-of-public-relations/
 * http://www.thebaffler.com/salvos/purple-reign
 * http://www.seattletimes.com/nation-world/world/fishermen-rush-to-be-rescued-amid-indonesian-slavery-probe/
+* http://mobile.nytimes.com/blogs/publiceditor/2015/04/10/a-darker-narrative-of-prints-future-from-clay-shirky/
 
 
 ## Airlines

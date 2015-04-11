@@ -19,3 +19,4 @@ Risk vs. reward. Risk aversion.
 * http://pando.com/2014/10/18/gms-hit-and-run-how-a-lawyer-mechanic-and-engineer-blew-the-lid-off-the-worst-auto-scandal-in-history/
 * http://www.wired.com/2012/10/ff-why-products-fail/all/
 * http://www.theatlantic.com/features/archive/2014/03/the-toxins-that-threaten-our-brains/284466/
+* http://www.nytimes.com/2015/04/10/opinion/why-pilots-still-matter.html?_r=0
