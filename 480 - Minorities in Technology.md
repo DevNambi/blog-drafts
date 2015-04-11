@@ -14,6 +14,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * http://fortune.com/2015/03/26/the-resume-gap-women-tell-stories-men-stick-to-facts-and-get-the-advantage/
 * http://www.blog.juliaferraioli.com/2015/03/engineering-first-run-experience.html
 * http://recode.net/2015/03/06/women-outperformed-men-and-a-sexual-predator-was-on-the-loose-kleiner-perkins-investigator-opens-up/
+* http://arstechnica.com/science/2015/04/gender-balance-in-small-groups-makes-a-big-difference-for-women-in-stem/
 * http://www.latimes.com/business/la-fi-women-tech-20150222-story.html#page=1
 * http://www.geekwire.com/2015/insights-from-a-gamergate-target-how-to-protect-yourself-from-harassment-online/
 * https://devmynd.com/blog/2015-2-mind-the-gap

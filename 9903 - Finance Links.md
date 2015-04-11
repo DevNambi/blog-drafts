@@ -93,6 +93,7 @@
 * http://uk.reuters.com/article/2015/02/25/uk-hsbc-tax-politics-idUKKBN0LT1L220150225
 * http://www.nytimes.com/2015/03/17/nyregion/state-senate-works-to-block-christie-from-settling-pollution-lawsuit-against-exxon.html
 * http://www.nakedcapitalism.com/2015/03/rebuke-cronyistic-new-york-fed-tbtf-bank-supervision-shifted-fed-board-governors.html
+* http://mobile.nytimes.com/2015/04/12/business/dealbook/insurers-bypass-rules-to-add-hidden-risk.html?_r=0
 * http://www.vanityfair.com/news/2015/03/michael-lewis-flash-boys-one-year-later
 * http://www.visir.is/iceland-jails-former-kaupthing-bank-bosses/article/2015150219597
 * http://www.dw.de/swissleaks-the-hsbc-money-laundering-machine/av-18278207
@@ -179,6 +180,7 @@
 * http://www.gallup.com/opinion/chairman/181469/big-lie-unemployment.aspx
 * http://www.theguardian.com/commentisfree/2015/feb/12/debtors-prisons-illegal-america-ferguson-missouri-incarcerated
 * http://www.nakedcapitalism.com/2015/03/bloomberg-consumers-arent-spending-even-booming-job-market.html
+* http://mobile.nytimes.com/2015/04/11/business/economy/middle-class-but-feeling-economically-insecure.html
 * http://www.nakedcapitalism.com/2015/03/austerity-kills-economic-distress-seen-culprit-sharp-rise-suicide-rate-among-middle-aged.html
 * http://www.nytimes.com/2015/03/20/opinion/traitors-to-their-class.html
 * http://pndblog.typepad.com/pndblog/2015/02/infographic-the-millennial-wheel-of-disengagement.html
