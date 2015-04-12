@@ -120,6 +120,7 @@ Work-Life Balance: List the good and bad things, and why
 Bad ethics + privilege = intense dislike. Contempt.
    More control/influence = more dislike
 
+tikkun olam
 
 * Cost vs. benefit
    * Matrix prioritization
