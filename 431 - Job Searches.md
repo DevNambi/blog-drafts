@@ -217,6 +217,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="http://www.theatlantic.com/business/archive/2014/10/how-companies-kill-their-employees-job-searches/381437/">How Companies Kill Their Employees' Job Searches</a></li>
 <li><a href="http://www.bloomberg.com/news/2014-11-19/apple-google-no-poaching-evidence-triggers-more-lawsuits.html">Evidence of Alleged Apple-Google No-Poaching Deal Triggers More Lawsuits</a></li>
 <li><a href="http://arstechnica.com/tech-policy/2015/01/apple-google-give-high-tech-workers-an-extra-90-million-in-no-poach-suit/">Apple, Google give high tech workers an extra $90 million in “no-poach” suit</a></li>
+<li><a href="http://improvingsoftware.com/2009/05/19/programmers-before-you-turn-40-get-a-plan-b/">Programmers: Before you turn 40, get a plan B</a></li>
 </ul>
 
 

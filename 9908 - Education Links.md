@@ -534,6 +534,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://blogs.seattletimes.com/educationlab/2015/02/04/uw-dream-project-getting-students-to-college-study-shows/
 * http://seattletimes.com/html/localnews/2025719148_washingtonpeacecorps1xml.html
 * https://news.cs.washington.edu/2015/03/18/uw-lands-air-force-center-of-excellence-with-help-from-cse-and-escience/
+* http://www.seattletimes.com/seattle-news/the-party-that-wants-to-put-public-back-into-public-education/
 
 
 

@@ -283,6 +283,7 @@
 * http://www.nytimes.com/2015/04/04/us/racist-emails-by-ferguson-officials-released.html
 * http://www.theguardian.com/us-news/2015/mar/30/floyd-dent-police-inkster-michigan-beating
 * http://arstechnica.com/tech-policy/2015/03/nypd-caught-red-handed-sanitizing-police-brutality-wikipedia-entries/
+* http://www.cnn.com/2015/04/10/us/south-carolina-police-shooting/
 * http://www.theguardian.com/us-news/2015/mar/16/portland-man-tortured-uae-behest-of-fbi
 * http://www.theguardian.com/us-news/2015/feb/24/chicago-police-detain-americans-black-site
 * http://www.marketplace.org/topics/business/police-dont-ask-why-are-we-getting-sued
