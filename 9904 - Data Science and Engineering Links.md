@@ -404,7 +404,7 @@
 
 #### NLP
 
-<li><a href="http://www.puffinwarellc.com/index.php/news-and-articles/articles/33.html?showall=1&utm_medium=referral&utm_source=pulsenews" time_added="1349095672" tags="data science,ml">Latent Semantic Analysis (LSA) Tutorial</a></li>
+<li><a href="http://www.puffinwarellc.com/index.php/news-and-articles/articles/33.html?showall=1" time_added="1349095672" tags="data science,ml">Latent Semantic Analysis (LSA) Tutorial</a></li>
 <li><a href="http://www-nlp.stanford.edu/fsnlp/" time_added="1356708592" tags="ml">Foundations of Statistical Natural Language Processing</a></li>
 <li><a href="http://t.co/YxlCR2zI" time_added="1357393998" tags="side biz">peteskomoroch: English Letter Frequency Counts: Mayzner Revisited http://t.</a></li>
 <li><a href="http://blog.newsle.com/2013/02/01/text-classification-and-feature-hashing-sparse-matrix-vector-multiplication-with-cython/" time_added="1359735538" tags="ml">Text Classification and Feature Hashing: Sparse Matrix-Vector Multiplicatio</a></li>
@@ -416,6 +416,7 @@
 * http://textvis.lnu.se/
 * http://bugra.github.io/work/notes/2015-02-21/topic-modeling-for-the-uninitiated/
 * http://nbviewer.ipython.org/github/sgsinclair/alta/blob/master/ipynb/DocumentSimilarity.ipynb
+* http://fotiad.is/blog/sentiment-analysis-comparison/
 * http://engineering.intenthq.com/2015/02/automatic-topic-modelling-with-lda/
 
 
