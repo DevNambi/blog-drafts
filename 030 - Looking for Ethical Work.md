@@ -70,6 +70,7 @@ Industries
 * https://www.eff.org/deeplinks/2015/02/eff-files-amicus-brief-case-seeks-hold-ibm-responsible-facilitating-apartheid
 * http://www.path.org/blog/2015/02/remembering-gaetano/
 * http://www.cnn.com/2012/10/18/travel/australia-yacht-rescue/
+* http://www.wired.com/2015/04/inside-chinese-factories/
 
 ### Support real work, and disrupt everything else
 
