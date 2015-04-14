@@ -10,6 +10,7 @@
 * http://www.extremetech.com/computing/199978-samsung-is-still-lying-about-the-encryption-on-its-smart-tvs
 * http://offbeathome.com/2015/03/internet-security-tips
 * http://arstechnica.com/security/2015/01/wireless-device-in-two-million-cars-wide-open-to-hacking/
+* http://www.thoughtcrime.org/blog/the-cryptographic-doom-principle/
 * http://www.richmond.com/business/ap/article_82e0ea54-5092-5368-8d76-cfcf654ae2c3.html
 * http://www.wired.com/2015/03/60-gadget-thatll-make-car-hacking-easier-ever/
 * http://www.wired.com/2015/03/stealing-data-computers-using-heat/
