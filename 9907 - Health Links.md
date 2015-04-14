@@ -10,6 +10,7 @@
 * http://www.vox.com/2015/3/23/8264355/research-study-hype
 * http://www.economist.com/news/technology-quarterly/21645497-tech-startups-are-moving-food-business-make-sustainable-versions-meat
 * http://arstechnica.com/science/2015/02/common-food-emulsifiers-may-be-linked-to-metabolic-syndrome/
+* http://www.nytimes.com/interactive/2015/04/14/dining/field-guide-to-the-sandwich.html
 * http://gawker.com/the-food-babe-blogger-is-full-of-shit-1694902226
 * http://www.theatlantic.com/health/archive/2015/02/the-new-best-way-to-eat/385659/ 
 * http://mobile.nytimes.com/2015/03/31/upshot/red-meat-is-not-the-enemy.html?_r=0
@@ -361,6 +362,7 @@
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://www.nytimes.com/2015/04/15/business/as-nursing-homes-chase-lucrative-patients-quality-of-care-is-said-to-lag.html
 * http://www.nytimes.com/2015/04/08/opinion/yes-we-were-warned-about-ebola.html?_r=0 <- science behind a paywall
 * http://www.theverge.com/2015/3/24/8282651/registered-nurse-pay-gap-women-earn-less
 * http://hcrenewal.blogspot.com/2015/03/times-american-boards-are-exceptional.html
