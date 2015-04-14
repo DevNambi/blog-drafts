@@ -180,6 +180,7 @@
 * http://www.gallup.com/opinion/chairman/181469/big-lie-unemployment.aspx
 * http://www.theguardian.com/commentisfree/2015/feb/12/debtors-prisons-illegal-america-ferguson-missouri-incarcerated
 * http://www.nakedcapitalism.com/2015/03/bloomberg-consumers-arent-spending-even-booming-job-market.html
+* http://www.washingtonpost.com/news/morning-mix/wp/2015/04/13/study-when-companies-pay-low-wages-taxpayers-end-up-with-the-rest-of-the-bill/
 * http://mobile.nytimes.com/2015/04/11/business/economy/middle-class-but-feeling-economically-insecure.html
 * http://www.nakedcapitalism.com/2015/03/austerity-kills-economic-distress-seen-culprit-sharp-rise-suicide-rate-among-middle-aged.html
 * http://www.nytimes.com/2015/03/20/opinion/traitors-to-their-class.html
