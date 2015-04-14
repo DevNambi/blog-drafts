@@ -83,7 +83,9 @@ Emphasize what we don't know
 
 
 * http://forecast.io/raw/
+* http://www.bloomberg.com/news/articles/2015-04-12/saudi-arabia-s-plan-to-extend-the-age-of-oil
 * http://www.extremetech.com/extreme/202579-global-investment-in-renewable-energy-skyrockets
+* http://www.wsj.com/articles/google-gets-into-battery-arms-race-1428694613
 * http://enenews.com/times-worst-possible-result-revealed-fukushima-plant-chief-centuries-pass-before-humans-invent-deal-molten-fuel-videos
 * https://medium.com/@lesliejz/don-t-stop-showering-california-lay-off-the-burgers-and-nuts-and-pick-up-some-crickets-eb63bddf0277
 * http://www.nakedcapitalism.com/2014/04/gaius-publius-climate-scientist-michael-mann-dont-stop-now-well-surpass-2c-global-warming.html

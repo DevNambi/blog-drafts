@@ -96,6 +96,7 @@
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
 * http://www.huffingtonpost.ca/2015/04/05/former-spy-cia-employees_n_7006852.html
 * http://www.washingtonpost.com/world/national-security/pentagon-loses-sight-of-500-million-in-counterterrorism-aid-given-to-yemen/2015/03/17/f4ca25ce-cbf9-11e4-8a46-b1dc9be5a8ff_story.html?hpid=z1
+* http://www.nytimes.com/2015/04/14/world/asia/afghan-army-is-tested-by-the-taliban-as-fighting-season-begins.html?_r=0
 * http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/ <- an insight piece
 * http://nationalinterest.org/feature/are-submarines-about-become-obsolete-12253
 * http://www.nytimes.com/2015/02/25/us/jailed-ex-army-officer-has-support-but-not-from-his-platoon.html?_r=0

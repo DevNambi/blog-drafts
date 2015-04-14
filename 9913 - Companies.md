@@ -122,6 +122,7 @@
 * http://arstechnica.com/business/2015/02/verizon-is-mad-that-its-huge-net-neutrality-gamble-backfired/
 * http://www.businessinsider.com/att-gigapower-tackles-google-fiber-in-kansas-city--but-its-charging-more-for-privacy-2015-2
 * http://arstechnica.com/business/2015/02/time-warner-cable-calls-customer-ct-after-she-reports-cable-box-problem/
+* http://arstechnica.com/business/2015/04/google-fiber-plans-expansion-then-twc-makes-speeds-six-times-faster/
 
 
 ## Google
