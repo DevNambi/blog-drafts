@@ -475,6 +475,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://www.insidehighered.com/quicktakes/2015/03/23/umass-faces-3b-debt
 * http://www.huffingtonpost.com/2012/09/17/russian-diamonds-siberian-meteorite-crater-carats_n_1891691.html
 * http://www.theatlantic.com/business/archive/2015/04/for-profit-colleges-here-to-stay/389045/
+* http://www.nakedcapitalism.com/2015/04/possible-board-directors-cooper-union-not-resigned-shame.html
 
 
 #### Adjuncts
@@ -496,6 +497,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://www.insidehighered.com/news/2015/03/02/study-finds-gains-college-administrators-salaries
 * https://news.cs.washington.edu/2013/06/16/forget-moocs-lets-use-mooa/
 * http://www.nytimes.com/2015/04/05/opinion/sunday/the-real-reason-college-tuition-costs-so-much.html
+* http://simplystatistics.org/2015/04/13/why-is-there-so-much-university-administration-we-kind-of-asked-for-it/
 * http://www.mindingthecampus.com/2013/06/forget_moocslets_use_mooa/
 * http://bigthink.com/rightly-understood/big-silly-idea-the-mooa
 
