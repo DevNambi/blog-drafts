@@ -7,6 +7,7 @@
 * http://www.scmagazine.com/the-failure-of-the-security-industry/article/403261/
 * https://www.eff.org/deeplinks/2015/04/whitehouses-new-executive-order-cyber-crime-unfortunately-no-joke
 * http://www.wired.com/2015/04/want-see-domestic-spyings-future-follow-drug-war/
+* http://www.nytimes.com/2015/04/16/style/keeping-your-car-safe-from-electronic-thieves.html?_r=0
 * http://blog.codinghorror.com/given-enough-money-all-bugs-are-shallow/
 * http://www.extremetech.com/computing/199978-samsung-is-still-lying-about-the-encryption-on-its-smart-tvs
 * http://offbeathome.com/2015/03/internet-security-tips
