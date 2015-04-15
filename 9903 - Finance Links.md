@@ -94,6 +94,7 @@
 * http://www.nytimes.com/2015/03/17/nyregion/state-senate-works-to-block-christie-from-settling-pollution-lawsuit-against-exxon.html
 * http://www.nakedcapitalism.com/2015/03/rebuke-cronyistic-new-york-fed-tbtf-bank-supervision-shifted-fed-board-governors.html
 * http://mobile.nytimes.com/2015/04/12/business/dealbook/insurers-bypass-rules-to-add-hidden-risk.html?_r=0
+* http://www.seattletimes.com/seattle-news/us-house-oks-cutting-safeguards-for-mobile-home-buyers/
 * http://www.vanityfair.com/news/2015/03/michael-lewis-flash-boys-one-year-later
 * http://www.visir.is/iceland-jails-former-kaupthing-bank-bosses/article/2015150219597
 * http://www.dw.de/swissleaks-the-hsbc-money-laundering-machine/av-18278207

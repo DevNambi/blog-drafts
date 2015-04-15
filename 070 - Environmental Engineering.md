@@ -92,6 +92,7 @@ Emphasize what we don't know
 * http://www.washingtonpost.com/news/energy-environment/wp/2015/04/01/the-arctic-climate-threat-that-nobodys-even-talking-about-yet/
 * http://www.atlasobscura.com/places/the-great-green-wall-of-africa
 * http://arstechnica.com/science/2015/03/us-doe-examines-a-future-grid-thats-35-percent-wind/
+* http://arstechnica.com/science/2015/04/us-energy-future-looks-like-independence-efficiency-and-renewables/
 * http://www.wired.com/2015/03/californias-run-water-act-now/
 * http://www.bloomberg.com/news/articles/2015-03-20/who-classifies-monsanto-s-glyphosate-as-probably-carcinogenic-
 * http://www.rollingstone.com/politics/news/the-pentagon-climate-change-how-climate-deniers-put-national-security-at-risk-20150212
@@ -101,6 +102,7 @@ Emphasize what we don't know
 * http://seattletimes.com/html/nationworld/2025688459_apxsciworsedroughts.html
 * http://www.bbc.com/news/magazine-30583512
 * http://www.seattletimes.com/nation-world/un-warns-world-could-have-40-percent-water-shortfall-by-2030/
+* http://mobile.nytimes.com/2015/04/15/business/an-environmentalist-call-to-look-past-sustainable-development.html?_r=0
 * http://arstechnica.com/science/2015/03/massive-antarctic-glacier-more-vulnerable-than-previously-thought/
 * http://nautil.us/issue/101/in-our-nature/ants-go-marching-rp
 * http://www.wunderground.com/blog/JeffMasters/comment.html?entrynum=2663

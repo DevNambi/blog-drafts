@@ -259,7 +259,10 @@
 * http://www.slate.com/blogs/future_tense/2015/04/10/florida_middle_schooler_arrested_charged_with_hacking_cybercrimes.html
 * http://www.nytimes.com/2015/03/03/us/cleveland-mayor-apologizes-for-language-used-to-blame-tamir-rice-for-his-death.html?_r=0
 * http://arstechnica.com/security/2015/04/lawyer-representing-whistle-blowers-finds-malware-on-drive-supplied-by-cops/
+* http://www.washingtonpost.com/local/education/free-range-parents-plan-to-file-lawsuit-after-police-pick-up-children/2015/04/14/ed4f7658-e2b7-11e4-b510-962fcfabc310_story.html?postshare=7531429036953332
 * http://www.nytimes.com/2015/03/03/us/prosecutors-to-seek-death-penalty-in-murders-of-arab-american-students.html
+* http://bigstory.ap.org/article/4f0e2a7d5a884274a7798bbdfd79d3c4/ex-drug-officer-says-he-stole-cash-planted-drugs-many-times
+* http://mashable.com/2015/04/14/dash-cam-video/
 * http://marginalrevolution.com/marginalrevolution/2015/03/the-ferguson-kleptocracy.html
 * http://www.oregonlive.com/today/index.ssf/2015/03/pennsylvania_officer_charged_w.html
 * http://www.thedailybeast.com/articles/2015/04/07/walter-scott-s-killing-is-the-sum-of-every-black-nightmare-about-white-cops.html

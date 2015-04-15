@@ -43,6 +43,7 @@ Come up with the cost-effectiveness of different sports & physical exercises.
 
 
 * http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=1
+* http://www.cookbrite.com/index.html
 * http://mobile.nytimes.com/2014/09/02/health/low-carb-vs-low-fat-diet.html
 * http://www.theatlantic.com/health/archive/2014/09/access-to-real-food-as-privilege/379482/
 * http://www.nytimes.com/2014/06/18/opinion/mark-bittmanthe-food-industrys-solution-to-obesity.html?src=me&ref=general

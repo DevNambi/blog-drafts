@@ -128,6 +128,7 @@
 ## Google
 
 * http://www.webpronews.com/data-confirms-google-is-wiping-out-a-whole-category-of-websites-2015-01
+* http://mobile.nytimes.com/2015/04/16/business/international/european-union-google-antitrust-case.html?_r=0
 * http://www.datajustice.org/blog/ftc-report-revealed-clash-between-googles-public-statements-and-internal-documents
 * http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube
 * http://arstechnica.com/information-technology/2015/03/google-balloons-cell-towers-in-the-sky-can-serve-4g-to-a-whole-state/

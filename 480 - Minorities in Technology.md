@@ -12,6 +12,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 
 * http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/#the-list
 * http://fortune.com/2015/03/26/the-resume-gap-women-tell-stories-men-stick-to-facts-and-get-the-advantage/
+* http://verysmartbrothas.com/100-days-ablackman-silicon-valley/
 * http://www.blog.juliaferraioli.com/2015/03/engineering-first-run-experience.html
 * http://recode.net/2015/03/06/women-outperformed-men-and-a-sexual-predator-was-on-the-loose-kleiner-perkins-investigator-opens-up/
 * http://arstechnica.com/science/2015/04/gender-balance-in-small-groups-makes-a-big-difference-for-women-in-stem/

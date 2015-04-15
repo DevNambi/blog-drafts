@@ -150,6 +150,7 @@
 * http://well.blogs.nytimes.com/2014/10/15/whats-your-fitness-age/
 * http://www.nature.com/news/the-myopia-boom-1.17120?WT.mc_id=TWT_NatureNews
 * http://kaasplateau.com/stretches.pdf
+* http://mobile.nytimes.com/blogs/well/2015/04/15/the-right-dose-of-exercise-for-a-longer-life/
 * http://www.nytimes.com/2014/10/22/opinion/only-two-rules-for-a-good-diet.html
 * http://www.nytimes.com/2014/10/26/opinion/sunday/the-problem-with-positive-thinking.html
 * http://well.blogs.nytimes.com/2014/12/17/how-exercise-changes-our-dna/?_r=0
