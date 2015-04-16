@@ -479,13 +479,14 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nakedcapitalism.com/2015/04/possible-board-directors-cooper-union-not-resigned-shame.html
 
 
-#### Adjuncts
+#### Adjuncts and Grad Students
 
 <li><a href="http://www.insidehighered.com/news/2014/04/10/new-survey-data-suggests-governing-boards-still-arent-paying-much-attention-adjunct" time_added="1397134629" tags="">Survey data suggest boards aren't paying much attention to adjunct issues: </a></li>
 <li><a href="http://www.theatlantic.com/business/archive/2014/04/the-adjunct-professor-crisis/361336/" time_added="1398722559" tags="">The Adjunct Revolt: How Poor Professors Are Fighting Back - Elizabeth Segra</a></li>
 <li><a href="http://www.salon.com/2014/03/17/professors_in_homeless_shelters_it_is_time_to_talk_seriously_about_adjuncts/" time_added="1395115790" tags="">Professors in homeless shelters: It is time to talk seriously about adjunct</a></li>
 
 * https://www.insidehighered.com/quicktakes/2015/01/28/berkeley-finds-faculty-salary-gaps-gender-and-race
+* http://www.theatlantic.com/education/archive/2015/04/graduate-students-of-the-world-unite/390261/
 * https://medium.com/@AndrewR_Physics/enoughs-enough-6c56afe36d00
 * http://www.theglobeandmail.com/news/national/education/university-labour-strife-underscores-job-security-plight-of-contract-faculty/article23276935/
 * http://www.washingtonpost.com/posteverything/wp/2015/03/06/i-was-a-professor-at-four-universities-i-still-couldnt-make-ends-meet/

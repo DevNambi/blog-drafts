@@ -264,6 +264,7 @@
 * http://bigstory.ap.org/article/4f0e2a7d5a884274a7798bbdfd79d3c4/ex-drug-officer-says-he-stole-cash-planted-drugs-many-times
 * http://mashable.com/2015/04/14/dash-cam-video/
 * http://marginalrevolution.com/marginalrevolution/2015/03/the-ferguson-kleptocracy.html
+* http://www.theatlantic.com/politics/archive/2015/04/the-myth-of-police-reform/390057/
 * http://www.oregonlive.com/today/index.ssf/2015/03/pennsylvania_officer_charged_w.html
 * http://www.thedailybeast.com/articles/2015/04/07/walter-scott-s-killing-is-the-sum-of-every-black-nightmare-about-white-cops.html
 * http://arstechnica.com/tech-policy/2015/03/ferguson-cops-routinely-block-public-from-filming-them-doj-says/
