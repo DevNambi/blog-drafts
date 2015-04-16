@@ -552,6 +552,7 @@ things they believe in will keep </a></li>
 * http://www.codelitt.com/blog/how-to-handle-client-comparing-hourly-to-cheap-overseas-development/
 * http://www.1024cores.net/home/lock-free-algorithms/queues
 * http://kukuruku.co/hub/cpp/lock-free-data-structures-yet-another-treatise
+* http://research.google.com/pubs/pub43438.html
 
 
 ## Funny

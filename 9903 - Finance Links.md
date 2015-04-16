@@ -88,6 +88,9 @@
 * http://www.nakedcapitalism.com/2015/03/bill-black-meet-citis-ethical-underwriter-fought-won-sherry-hunt.html
 * http://boingboing.net/2015/03/26/tpp-leak-states-give-companie.html
 * http://www.nakedcapitalism.com/2015/03/bill-black-fcic-spurned-one-chance-greatness.html
+* http://www.nakedcapitalism.com/2015/04/investors-like-calpers-and-new-york-city-in-the-dark-about-private-equity-fees.html
+* http://www.nakedcapitalism.com/2015/04/bill-black-super-crunchers-became-super-torturers-finance-data.html
+* http://www.nytimes.com/2015/04/16/upshot/big-money-from-super-pacs-is-eroding-the-power-of-parties.html?abt=0002&abg=0
 * http://www.nakedcapitalism.com/2015/03/fed-impedes-gao-audits-destroying-source-documents.html
 * http://www.nakedcapitalism.com/2015/03/matt-taibbi-takes-up-secs-andrew-bowden-regulatory-capture-scandal.html
 * http://uk.reuters.com/article/2015/02/25/uk-hsbc-tax-politics-idUKKBN0LT1L220150225
@@ -181,6 +184,7 @@
 * http://www.gallup.com/opinion/chairman/181469/big-lie-unemployment.aspx
 * http://www.theguardian.com/commentisfree/2015/feb/12/debtors-prisons-illegal-america-ferguson-missouri-incarcerated
 * http://www.nakedcapitalism.com/2015/03/bloomberg-consumers-arent-spending-even-booming-job-market.html
+* http://robertreich.org/post/109894095095
 * http://www.washingtonpost.com/news/morning-mix/wp/2015/04/13/study-when-companies-pay-low-wages-taxpayers-end-up-with-the-rest-of-the-bill/
 * http://mobile.nytimes.com/2015/04/11/business/economy/middle-class-but-feeling-economically-insecure.html
 * http://www.nakedcapitalism.com/2015/03/austerity-kills-economic-distress-seen-culprit-sharp-rise-suicide-rate-among-middle-aged.html
