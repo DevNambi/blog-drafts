@@ -190,6 +190,8 @@
 
 
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
+* https://news.vice.com/article/seattle-is-helping-drug-addicts-instead-of-locking-them-up-and-so-far-its-working
+* http://www.independent.co.uk/life-style/health-and-families/health-news/alzheimers-breakthrough-scientists-may-have-found-potential-cause-of-the-disease-in-the-behaviour-of-immune-cells--giving-new-hope-to-millions-10176652.html
 * http://www.scientificamerican.com/article/common-parasite-could-manipulate-our-behavior/
 * http://www.bbc.com/news/health-31713147
 * http://www.thedailybeast.com/articles/2015/02/26/why-you-trust-the-internet-more-than-your-doctor.html
