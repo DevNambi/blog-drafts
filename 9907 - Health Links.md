@@ -17,6 +17,7 @@
 * http://blog.dilbert.com/post/109880240641/sciences-biggest-fail
 * http://time.com/3746047/diet-soda-bad-belly-fat/?xid=tcoshare
 * http://www.theatlantic.com/health/archive/2015/02/the-food-babe-enemy-of-chemicals/385301/
+* http://nautil.us/issue/23/dominoes/yes-you-can-catch-insanity
 * http://www.nakedcapitalism.com/2015/02/war-genetically-modified-food-critics.html
 * http://onlinelibrary.wiley.com/doi/10.1002/dta.1793/full
 * http://www.scientificamerican.com/article/among-trillions-of-microbes-in-the-gut-a-few-are-special/
@@ -192,6 +193,7 @@
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
 * https://news.vice.com/article/seattle-is-helping-drug-addicts-instead-of-locking-them-up-and-so-far-its-working
 * http://www.independent.co.uk/life-style/health-and-families/health-news/alzheimers-breakthrough-scientists-may-have-found-potential-cause-of-the-disease-in-the-behaviour-of-immune-cells--giving-new-hope-to-millions-10176652.html
+* https://medium.com/war-is-boring/eating-too-much-rice-almost-sank-the-japanese-navy-f985772c81a6
 * http://www.scientificamerican.com/article/common-parasite-could-manipulate-our-behavior/
 * http://www.bbc.com/news/health-31713147
 * http://www.thedailybeast.com/articles/2015/02/26/why-you-trust-the-internet-more-than-your-doctor.html
@@ -365,6 +367,7 @@
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://www.reddit.com/r/AskReddit/comments/32qbk5/doctors_of_reddit_what_is_the_most_unethical/ <- good god this is horrifying
 * http://www.nakedcapitalism.com/2015/04/lousy-electronic-medical-records-fuel-successful-lawsuits.html
 * http://www.nytimes.com/2015/04/15/business/as-nursing-homes-chase-lucrative-patients-quality-of-care-is-said-to-lag.html
 * http://www.nytimes.com/2015/04/08/opinion/yes-we-were-warned-about-ebola.html?_r=0 <- science behind a paywall

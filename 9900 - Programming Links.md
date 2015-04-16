@@ -279,6 +279,7 @@
 * http://www.cloudcomputingpatterns.org/ <- priceless
 * http://www.devfactor.net/2014/12/30/2375-amazon-mistake/
 * https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1?wed <- comprehensive
+* http://yosefk.com/blog/how-fpgas-work-and-why-youll-buy-one.html
 * http://blog.cr.yp.to/20150314-optimizing.html
 * http://swrveengineering.wordpress.com/2014/10/14/how-we-increased-our-ec2-event-throughput-by-50-for-free/
 * http://instagram-engineering.tumblr.com/post/100758229719/migrating-from-aws-to-aws
