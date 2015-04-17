@@ -9,6 +9,7 @@
 * http://www.wired.com/2015/04/want-see-domestic-spyings-future-follow-drug-war/
 * http://recode.net/2015/04/13/cyber-crime-still-on-the-rise-using-nine-basic-attack-methods/
 * http://www.nytimes.com/2015/04/16/style/keeping-your-car-safe-from-electronic-thieves.html?_r=0
+http://www.foxnews.com/us/2015/04/16/security-expert-pulled-off-flight-by-fbi-after-exposing-airline-tech/
 * http://blog.codinghorror.com/given-enough-money-all-bugs-are-shallow/
 * http://www.extremetech.com/computing/199978-samsung-is-still-lying-about-the-encryption-on-its-smart-tvs
 * http://offbeathome.com/2015/03/internet-security-tips

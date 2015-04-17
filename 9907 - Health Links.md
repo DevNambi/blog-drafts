@@ -667,6 +667,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://pando.com/2013/05/04/screw-you-papa-john-i-dont-understand-american-healthcare-but-thats-no-excuse/
 * http://seattletimes.com/html/nationworld/2025023705_apxhealthoverhaulcontraceptives.html
 * http://www.huffingtonpost.com/2014/12/22/erdogan-birth-control-treason_n_6366446.html
+* http://www.vox.com/2015/4/15/8420311/sex-ed-abstinence-only
 
 
 
