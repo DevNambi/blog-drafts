@@ -38,7 +38,8 @@
 * http://www.businessinsider.com/denmark-just-followed-switzerland-and-slashed-interest-rates-as-europe-stagnates-2015-1
 * http://www.bbc.com/news/world-europe-30864088
 * http://www.balkaninsight.com/en/article/the-great-leap-rightward
-* http://www.reuters.com/article/2015/02/24/us-germany-capitalism-idUSKBN0LS1AI20150224?feedType=RSS&feedName=worldNews
+* http://www.reuters.com/article/2015/02/24/us-germany-capitalism-idUSKBN0LS1AI20150224
+* http://wolfstreet.com/2015/03/04/austria-pulls-ripcord-on-bailouts-lets-bottomless-pit-hypo-alpe-bank-drag-state-of-carinthia-into-bankruptcy/
 
 
 
@@ -49,6 +50,7 @@
 * http://www.nytimes.com/2015/01/26/world/europe/greek-election-syriza.html?_r=0
 * http://www.nakedcapitalism.com/2015/02/troika-not-happy-initial-draft-greek-reforms-eurogroup-still-mix.html
 * http://www.nytimes.com/2015/02/17/business/international/greece-debt-eurozone-finance-ministers-meeting.html
+* http://www.nakedcapitalism.com/2015/04/greece-default-grexit.html
 * http://www.nytimes.com/2015/02/16/opinion/paul-krugman-weimar-on-the-aegean.html
 * http://www.nakedcapitalism.com/2015/02/varoufakis-charges-eurogroup-bad-faith-dealing-negotiations.html
 * http://www.nakedcapitalism.com/2015/02/greece-still-defiant-ecb-mugging.html
@@ -63,6 +65,7 @@
 * http://www.nakedcapitalism.com/2015/02/obama-administration-throws-greece-bus-ecb-leak-recommends-capital-controls-greece-weighing-capitulation.html
 * http://www.nakedcapitalism.com/2015/03/troika-tightening-the-noose-on-greece-as-government-cash-crunch-worsens.html
 * http://www.nakedcapitalism.com/2015/03/troikas-leverage-greece-ongoing-bank-run.html
+* http://www.nakedcapitalism.com/2015/04/greece-plans-miss-imf-payment-issues-drachma-threat.html
 
 
 
@@ -146,6 +149,7 @@
 * http://www.ericgarland.co/2015/02/03/end-guitar-center/
 * http://www.seriouseats.com/2015/02/what-happens-when-a-restaurant-dies.html
 * http://www.washingtonpost.com/opinions/kill-the-dispute-settlement-language-in-the-trans-pacific-partnership/2015/02/25/ec7705a2-bd1e-11e4-b274-e5209a3bc9a9_story.html# <- good lord this is corrupt
+* http://www.nakedcapitalism.com/2015/04/don-quijones-bad-bank-mania-spreads-europe.html
 * http://mobile.nytimes.com/2015/03/03/business/a-warning-from-buffett-about-banks.html?_r=0
 
 
