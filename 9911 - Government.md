@@ -263,6 +263,7 @@
 * http://www.nytimes.com/2015/03/03/us/prosecutors-to-seek-death-penalty-in-murders-of-arab-american-students.html
 * http://bigstory.ap.org/article/4f0e2a7d5a884274a7798bbdfd79d3c4/ex-drug-officer-says-he-stole-cash-planted-drugs-many-times
 * http://mashable.com/2015/04/14/dash-cam-video/
+* http://arstechnica.com/tech-policy/2015/04/guest-op-ed-what-if-mlks-letter-from-birmingham-jail-had-been-on-facebook/
 * http://marginalrevolution.com/marginalrevolution/2015/03/the-ferguson-kleptocracy.html
 * http://www.theatlantic.com/politics/archive/2015/04/the-myth-of-police-reform/390057/
 * http://www.oregonlive.com/today/index.ssf/2015/03/pennsylvania_officer_charged_w.html
