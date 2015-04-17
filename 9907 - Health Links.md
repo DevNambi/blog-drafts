@@ -191,6 +191,7 @@
 
 
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
+* http://www.thestranger.com/features/feature/2015/04/15/22062331/i-sat-in-on-my-sons-sex-ed-class-and-i-was-shocked-by-what-i-heard
 * https://news.vice.com/article/seattle-is-helping-drug-addicts-instead-of-locking-them-up-and-so-far-its-working
 * http://www.independent.co.uk/life-style/health-and-families/health-news/alzheimers-breakthrough-scientists-may-have-found-potential-cause-of-the-disease-in-the-behaviour-of-immune-cells--giving-new-hope-to-millions-10176652.html
 * https://medium.com/war-is-boring/eating-too-much-rice-almost-sank-the-japanese-navy-f985772c81a6
@@ -442,6 +443,8 @@
 
 
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/?mbid=social_fb
+* http://www.seattletimes.com/nation-world/nation/government-clarifies-rules-for-wellness-programs-at-work/
+* http://www.seattletimes.com/seattle-news/health/women-seeking-birth-control-coverage-get-wrong-messages-from-insurers-survey-finds/
 * http://blogs.wsj.com/washwire/2015/04/08/why-low-growth-in-health-costs-still-stings/
 * http://www.nytimes.com/interactive/2015/02/22/sunday-review/steven-rattner-for-tens-of-millions-obamacare-is-working.html
 * http://www.nytimes.com/2015/02/23/business/economy/health-care-opens-middle-class-path-taken-mainly-by-women.html

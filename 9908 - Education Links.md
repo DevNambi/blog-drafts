@@ -417,6 +417,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2015/03/17/nyregion/nyu-professor-is-barred-from-the-united-arab-emirates.html
 * http://www.nytimes.com/2015/03/20/business/dealbook/bar-exam-the-standard-to-become-a-lawyer-comes-under-fire.html
 * http://www.washingtonpost.com/opinions/why-stem-wont-make-us-successful/2015/03/26/5f4604f2-d2a5-11e4-ab77-9646eea6a4c7_story.html?hpid=z3
+* http://mobile.nytimes.com/2015/04/17/nyregion/nyu-labor-rules-failed-to-protect-10000-workers-in-abu-dhabi.html?_r=0
 
 
 ### Student Culture, Sexual Assault, Assault
