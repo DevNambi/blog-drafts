@@ -159,6 +159,7 @@ Interviews are one of the best times to find out about a company's culture, work
 <li><a href="http://swizec.github.io/h1b-software-salaries/" >Developer salaries adjusted for cost of living</a></li>
 <li><a href="http://www.nytimes.com/2015/04/08/upshot/silicon-valley-perks-for-some-workers-struggles-for-parents.html">Silicon Valley: Perks for Some Workers, Struggles for Parents</a></li>
 <li><a href="https://medium.com/digital-nomad-stories/the-cult-of-work-you-never-meant-to-join-cd965fb9ea1a">The Cult of Work You Never Meant to Join</a></li>
+<li><a href="http://journal.code4lib.org/articles/10409">How to Hack it as a Working Parent</a></li>
 </ul>
 
 

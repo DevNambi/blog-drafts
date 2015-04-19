@@ -60,6 +60,7 @@
 * http://www.nytimes.com/2015/03/23/nyregion/cuomo-fights-rating-system-in-which-few-teachers-are-bad.html
 * http://www.nytimes.com/2015/03/02/nyregion/as-common-core-testing-is-ushered-in-parents-and-students-opt-out.html
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2015/03/16/virginia-school-suspends-an-11-year-old-for-one-year-over-a-leaf-that-wasnt-marijuana/
+* http://www.usatoday.com/story/news/nation/2015/04/16/parents-opt-out-standardized-tests/25896607/
 * http://iquantny.tumblr.com/post/114374455289/safe-hallways-successful-tests
 * http://www.seattletimes.com/education-lab/stunning-surge-in-graduation-rate-as-rainier-beach-gamble-pays-off/
 * http://www.chinasmack.com/2015/stories/thousands-mourn-death-of-chinese-high-school-principal.html
