@@ -271,6 +271,8 @@
 * http://www.thedailybeast.com/articles/2015/04/07/walter-scott-s-killing-is-the-sum-of-every-black-nightmare-about-white-cops.html
 * http://arstechnica.com/tech-policy/2015/03/ferguson-cops-routinely-block-public-from-filming-them-doj-says/
 * http://www.theguardian.com/us-news/2015/apr/10/california-deputies-frank-pusok-helicopter-video
+* http://www.nytimes.com/2015/04/18/opinion/why-we-let-prison-rape-go-on.html
+* http://www.nytimes.com/2015/04/19/us/police-unions-facing-public-anger-rethink-how-to-address-shootings.html
 * http://www.abqjournal.com/567598/politics/civil-asset-forfeiture-bill-signed-into-law-by-gov-susana-martinez.html
 * http://www.alternet.org/news-amp-politics/map-shows-exact-location-every-black-person-killed-cops-2014
 * http://www.pri.org/stories/2015-04-10/how-kicking-trash-can-became-criminal-6th-grader
@@ -532,6 +534,8 @@
 * http://www.salon.com/2014/11/19/house_republicans_just_passed_a_bill_forbidding_scientists_from_advising_the_epa_on_their_own_research/
 * http://www.networkworld.com/article/2837808/big-data-business-intelligence/big-data-wars-how-technology-could-tip-the-mid-term-elections.html
 * http://www.newyorker.com/humor/borowitz-report/midterms-prediction-billionaires-retain-control-government
+* http://www.salon.com/2015/04/17/why_gwyneths_snap_challenge_bombed/
+* http://www.salon.com/2015/04/16/sean_hannity_gets_schooled_in_immigration_debate_people_wont_vote_for_a_candidate_who_will_deport_your_father/
 * http://www.nytimes.com/2015/03/26/business/trans-pacific-partnership-seen-as-door-for-foreign-suits-against-us.html?_r=0
 * http://www.commondreams.org/views/2014/11/10/peasants-still-have-their-pitchforks
 * http://projects.aljazeera.com/2014/double-voters/index.html

@@ -103,6 +103,7 @@
 * http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
 * http://www.karllhughes.com/2014/dev-bootcamp-program/
 * http://antirez.com/news/82
+* http://visualgo.net/
 * http://dev.mikamai.com/post/112047697144/the-sorrows-of-young-developer
 * https://medium.com/the-truant-haruspex/end-user-computing-5367171478b7
 * http://kevgriffin.com/the-non-techie-guide-to-source-control/
