@@ -104,6 +104,7 @@ Emphasize what we don't know
 * http://www.seattletimes.com/nation-world/un-warns-world-could-have-40-percent-water-shortfall-by-2030/
 * http://www.nytimes.com/2015/04/19/us/california-releases-revised-water-consumption-rules-for-drought.html
 * http://arstechnica.com/science/2015/04/understanding-greenlands-wild-climate-swings/
+* http://www.nytimes.com/2015/04/19/business/energy-environment/solar-power-battle-puts-hawaii-at-forefront-of-worldwide-changes.html?_r=0
 * http://mobile.nytimes.com/2015/04/15/business/an-environmentalist-call-to-look-past-sustainable-development.html?_r=0
 * http://arstechnica.com/science/2015/03/massive-antarctic-glacier-more-vulnerable-than-previously-thought/
 * http://nautil.us/issue/101/in-our-nature/ants-go-marching-rp
