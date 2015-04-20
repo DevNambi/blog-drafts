@@ -94,6 +94,13 @@
 
 ## Military, CIA, Foreign Wars
 
+**Whistleblowers**
+
+* http://www.lawfareblog.com/2015/04/keeping-track-of-the-us-intelligence-communitys-leakers/
+
+
+“Security is a most seductive thing,” he tells his daughter. “I’ve come to the conclusion that it’s the greatest evil there is.” - http://www.wsj.com/articles/a-new-wrinkle-in-time-1429219305/
+
 
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
 * http://www.huffingtonpost.ca/2015/04/05/former-spy-cia-employees_n_7006852.html
@@ -272,6 +279,7 @@
 * http://arstechnica.com/tech-policy/2015/03/ferguson-cops-routinely-block-public-from-filming-them-doj-says/
 * http://www.theguardian.com/us-news/2015/apr/10/california-deputies-frank-pusok-helicopter-video
 * http://www.nytimes.com/2015/04/18/opinion/why-we-let-prison-rape-go-on.html
+* https://www.eff.org/deeplinks/2015/04/justice-charging-eight-grader-felony-hacking
 * http://www.nytimes.com/2015/04/19/us/police-unions-facing-public-anger-rethink-how-to-address-shootings.html
 * http://www.abqjournal.com/567598/politics/civil-asset-forfeiture-bill-signed-into-law-by-gov-susana-martinez.html
 * http://www.alternet.org/news-amp-politics/map-shows-exact-location-every-black-person-killed-cops-2014

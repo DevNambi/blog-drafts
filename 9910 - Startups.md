@@ -84,6 +84,7 @@
 * https://twitter.com/Javi/status/539345489725251585
 * http://blog.zumper.com/2014/12/san-francisco-apartment-rents-rose-by-13-5-in-2014/
 * http://www.psmag.com/business-economics/night-school-failed-because-it-followed-law
+* http://kernelmag.dailydot.com/issue-sections/staff-editorials/12637/tech-bubble-venture-capital/
 
 
 
