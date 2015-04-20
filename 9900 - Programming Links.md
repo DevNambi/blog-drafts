@@ -30,6 +30,7 @@
 * https://www.innoq.com/en/blog/thoughts-on-a-canonical-data-model/
 * http://blog.prof.so/2015/03/tools.html
 * https://hbr.org/1990/07/reengineering-work-dont-automate-obliterate/ar/1
+* http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/
 * http://www.nomachetejuggling.com/2014/02/05/top-10-career-changing-programming-books/
 * http://blog.fogus.me/2014/12/29/the-best-things-and-stuff-of-2014/
 * http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html
@@ -277,6 +278,7 @@
 * http://www.brendangregg.com/blog/2015-03-03/performance-tuning-linux-instances-on-ec2.html
 * http://blog.atomicinc.com/2015/03/03/does-amazon-web-services-pricing-follow-moores-law-2350/
 * http://us10.campaign-archive1.com/?u=5dfb7b5de8e42c2633c06b3a8&id=36227f3963
+* https://yourbunnywrote.org/2015/04/19/google-cloud/
 * http://www.cloudcomputingpatterns.org/ <- priceless
 * http://www.devfactor.net/2014/12/30/2375-amazon-mistake/
 * https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1?wed <- comprehensive

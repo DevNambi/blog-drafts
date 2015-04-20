@@ -28,6 +28,7 @@
 * http://arstechnica.com/tech-policy/2014/11/startups-can-now-buy-insurance-against-threat-of-patent-trolls/
 * http://www.theatlantic.com/entertainment/archive/2015/03/the-free-potentially-legal-site-for-streaming-everything/386680/
 * http://arstechnica.com/tech-policy/2014/11/gnome-open-source-project-fights-groupon-over-gnome-trademark/
+* http://www.newyorker.com/magazine/2015/04/27/the-man-who-broke-the-music-business
 * http://www.theguardian.com/music/2014/nov/17/steve-albinis-keynote-address-at-face-the-music-in-full
 * http://boingboing.net/2014/11/18/aaron-swartz-was-no-criminal.html
 * http://arstechnica.com/tech-policy/2014/11/novembers-stupid-patent-of-the-month-brought-to-you-by-penn-state/
