@@ -107,6 +107,7 @@ Emphasize what we don't know
 * http://www.nytimes.com/2015/04/19/business/energy-environment/solar-power-battle-puts-hawaii-at-forefront-of-worldwide-changes.html?_r=0
 * http://mobile.nytimes.com/2015/04/15/business/an-environmentalist-call-to-look-past-sustainable-development.html?_r=0
 * http://arstechnica.com/science/2015/03/massive-antarctic-glacier-more-vulnerable-than-previously-thought/
+* http://newscenter.lbl.gov/2015/04/16/major-advance-in-artificial-photosynthesis/
 * http://nautil.us/issue/101/in-our-nature/ants-go-marching-rp
 * http://www.wunderground.com/blog/JeffMasters/comment.html?entrynum=2663
 * http://www.salon.com/2015/02/10/what_nobody_told_me_about_small_farming_i_cant_make_a_living/
