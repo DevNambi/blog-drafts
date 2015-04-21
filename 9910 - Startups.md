@@ -41,6 +41,7 @@
 * https://gigaom.com/2014/12/05/whats-happening-with-secret/
 * http://hatchery.io/how-to-do-mvps-right.html
 * http://rkoutnik.com/articles/Valley-Talent.html
+* https://medium.com/@kwindla/a-technical-founder-s-notes-on-sales-team-management-60e1a93d4648
 
 
 ## Renting/Access (not Sharing) Economy

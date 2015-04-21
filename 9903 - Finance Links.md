@@ -195,6 +195,7 @@
 * http://mobile.nytimes.com/2015/04/11/business/economy/middle-class-but-feeling-economically-insecure.html
 * http://www.nakedcapitalism.com/2015/03/austerity-kills-economic-distress-seen-culprit-sharp-rise-suicide-rate-among-middle-aged.html
 * http://www.nytimes.com/2015/03/20/opinion/traitors-to-their-class.html
+* http://jeremycai.com/labor.html
 * http://pndblog.typepad.com/pndblog/2015/02/infographic-the-millennial-wheel-of-disengagement.html
 * http://www.seattletimes.com/seattle-news/studies-look-at-what-happened-when-cities-raised-minimum-wage/
 * http://roarmag.org/2015/02/london-middle-class-culture-poverty/ <- eloquent
@@ -297,6 +298,7 @@
 
 * http://www.dailyfinance.com/on/man-writes-own-credit-card-contract-sues-bank-for-breaking-term/
 * http://www.seattletimes.com/business/major-credit-agencies-agree-to-changes/
+* https://medium.com/@CharlynKeating/if-you-re-an-app-developer-who-isn-t-making-a-decent-living-from-the-app-stores-there-s-someone-ac5082d8de47
 * http://www.slate.com/articles/business/moneybox/2014/11/duke_economist_campbell_harvey_most_research_on_why_investments_do_well.html
 * https://www.mattcutts.com/blog/make-money-investing-tips/ <- super useful.
 * http://www.nerdwallet.com/
