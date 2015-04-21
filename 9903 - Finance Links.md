@@ -175,6 +175,8 @@
 * http://www.nakedcapitalism.com/2015/02/blackstoneevicts.html
 * http://mobile.nytimes.com/2015/02/13/upshot/how-mortgage-fraud-made-the-financial-crisis-worse.html
 * http://www.seattletimes.com/business/real-estate/the-mobile-home-trap-how-a-warren-buffett-empire-preys-on-the-poor/
+* http://www.bloombergview.com/articles/2015-04-17/new-starter-homes-hit-a-dead-stop
+
 
 
 ## Subprime Cars

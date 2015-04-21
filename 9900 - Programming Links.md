@@ -288,9 +288,11 @@
 * http://instagram-engineering.tumblr.com/post/100758229719/migrating-from-aws-to-aws
 * https://zwischenzugs.wordpress.com/2015/03/14/docker-in-practice-a-guide-for-engineers/
 * http://blogs.wsj.com/digits/2015/01/06/googles-cloud-loses-following-among-cios-survey-finds/
+* http://curtis.io/others-work/open-tooling-for-fpgas
 * http://aws.amazon.com/blogs/aws/new-aws-directory-service/
 * http://www.hokstad.com/docker/patterns
 * https://www.backblaze.com/blog/petabytes-on-a-budget-how-to-build-cheap-cloud-storage-2/
+* http://techcrunch.com/2015/04/20/microsoft-announces-azure-service-fabric-a-new-framework-for-building-scalable-cloud-services/
 * http://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time
 * http://cloudacademy.com/blog/google-cloud-vs-aws-a-comparison/
 * http://tech.forter.com/comparing-message-queue-architectures-on-aws/
@@ -326,6 +328,7 @@
 * https://github.com/alexandru/scala-best-practices/
 * https://fatiherikli.github.io/programming-language-network/#language:C
 * http://techblog.netflix.com/2014/11/nodejs-in-flames.html
+* https://www.loggly.com/blog/the-most-popular-programming-languages-in-to-github-since-2012/
 
 
 
