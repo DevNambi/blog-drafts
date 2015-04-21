@@ -11,6 +11,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 ### Resources, Links
 
 * http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/#the-list
+* https://medium.com/backchannel/how-one-hardware-startup-solved-silicon-valley-s-woman-problem-76e3ee581534
 * http://fortune.com/2015/03/26/the-resume-gap-women-tell-stories-men-stick-to-facts-and-get-the-advantage/
 * http://verysmartbrothas.com/100-days-ablackman-silicon-valley/
 * http://www.blog.juliaferraioli.com/2015/03/engineering-first-run-experience.html

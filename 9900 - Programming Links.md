@@ -74,6 +74,7 @@
 * http://www.drmaciver.com/2013/03/what-the-fuck-are-we-doing/
 * http://gael-varoquaux.info/programming/software-design-for-maintainability.html
 * http://danluu.com/testing/
+* http://motherboard.vice.com/read/the-simple-elegant-algorithm-that-makes-google-maps-possible
 
 
 
