@@ -275,10 +275,13 @@
 * http://marginalrevolution.com/marginalrevolution/2015/03/the-ferguson-kleptocracy.html
 * http://www.theatlantic.com/politics/archive/2015/04/the-myth-of-police-reform/390057/
 * http://www.oregonlive.com/today/index.ssf/2015/03/pennsylvania_officer_charged_w.html
+* http://www.washingtonpost.com/national/for-tiny-orting-wash-a-foundational-shift/2015/04/18/14e1e098-dc6e-11e4-acfe-cd057abefa9a_story.html
+* http://www.nytimes.com/interactive/2015/04/20/upshot/missing-black-men.html?abt=0002&abg=0
 * http://www.thedailybeast.com/articles/2015/04/07/walter-scott-s-killing-is-the-sum-of-every-black-nightmare-about-white-cops.html
 * http://arstechnica.com/tech-policy/2015/03/ferguson-cops-routinely-block-public-from-filming-them-doj-says/
 * http://www.theguardian.com/us-news/2015/apr/10/california-deputies-frank-pusok-helicopter-video
 * http://www.nytimes.com/2015/04/18/opinion/why-we-let-prison-rape-go-on.html
+* http://www.seattletimes.com/nation-world/lawyer-no-answer-on-why-man-who-died-in-custody-was-stopped/
 * https://www.eff.org/deeplinks/2015/04/justice-charging-eight-grader-felony-hacking
 * http://www.nytimes.com/2015/04/19/us/police-unions-facing-public-anger-rethink-how-to-address-shootings.html
 * http://www.abqjournal.com/567598/politics/civil-asset-forfeiture-bill-signed-into-law-by-gov-susana-martinez.html

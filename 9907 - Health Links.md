@@ -6,6 +6,7 @@
 
 
 * http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0
+* http://www.nytimes.com/2015/04/21/upshot/simple-rules-for-healthy-eating.html
 * http://www.health.harvard.edu/blog/folic-acid-a-b-vitamin-lowers-stroke-risk-in-people-with-high-blood-pressure-201503187810
 * http://www.vox.com/2015/3/23/8264355/research-study-hype
 * http://www.economist.com/news/technology-quarterly/21645497-tech-startups-are-moving-food-business-make-sustainable-versions-meat

@@ -537,6 +537,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://blogs.seattletimes.com/educationlab/2015/01/05/report-uw-accounting-is-confusing-lacks-consistency/ <- OPB is hosed
 * https://news.cs.washington.edu/2015/01/06/uw-cse-introductory-course-enrollment-continues-to-explode/
 * http://m.kuow.org/post/uw-president-michael-young-likely-leaving-texas-am
+* http://www.seattletimes.com/seattle-news/education/dispute-between-uw-student-teachers-heats-up/ <- Bravo, students
 * http://seattletimes.com/html/localnews/2025495337_wsubellevuexml.html
 * http://blogs.seattletimes.com/educationlab/2015/02/04/uw-dream-project-getting-students-to-college-study-shows/
 * http://seattletimes.com/html/localnews/2025719148_washingtonpeacecorps1xml.html
