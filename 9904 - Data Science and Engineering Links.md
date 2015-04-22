@@ -521,6 +521,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 
 * http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype
 * http://www.technologyreview.com/news/535041/automating-the-data-scientists/
+* http://www.21stclub.com/blog/2015/4/22/can-analytics-help-a-last-placed-team-avoid-relegation
 * http://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/
 
 
@@ -555,6 +556,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 
 
 * http://jeremykun.com/2014/10/05/on-the-computational-complexity-of-mapreduce/
+* http://thomaswdinsmore.com/2015/04/21/spark-too-big-to-fail/
 * http://thislongrun.blogspot.com/2015/04/the-unclear-cp-vs-ca-case-in-cap.html
 * http://thenewstack.io/airbnbs-airpal-reflects-new-ways-to-query-and-get-answers-from-hive-and-hadoop/
 * http://www.dursi.ca/hpc-is-dying-and-mpi-is-killing-it/
