@@ -63,6 +63,7 @@ Industries
 
 * http://www.theatlantic.com/health/archive/2012/10/why-were-still-waiting-on-the-yelpification-of-health-care/263815/
 * http://www.businessinsider.com/super-cheap-genome-sequencing-by-2020-2014-10
+* http://www.propublica.org/article/the-whistleblowers-tale-how-an-accountant-took-on-halliburton
 * http://markmanson.net/question
 * http://curbed.com/archives/2015/03/25/ikea-refugee-housing-production.php
 * http://digitheadslabnotebook.blogspot.com/2014/11/the-dream-recomb-conference-2014.html
