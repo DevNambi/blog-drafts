@@ -18,6 +18,7 @@
 * http://www.theatlantic.com/politics/archive/2015/03/when-government-competes-against-the-private-sector-everybody-wins/387460/
 * http://www.seattletimes.com/seattle-news/politics/loss-of-lifeline-to-somalia-shocks-immigrants-here/
 * http://mobile.nytimes.com/2014/10/12/business/no-smoke-no-mirrors-the-dutch-pension-plan.html
+* http://www.seattletimes.com/nation-world/us-lets-in-thai-fish-caught-by-slaves-despite-law-2/
 * http://www.nytimes.com/2015/02/08/magazine/the-shame-of-americas-family-detention-camps.html?_r=0
 * http://www.nybooks.com/articles/archives/2015/feb/19/james-risen-reporter-resists-his-government/
 * http://thinkprogress.org/climate/2015/02/23/3625717/duke-energy-coal-ash-charges/
