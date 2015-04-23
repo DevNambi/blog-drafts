@@ -279,6 +279,7 @@
 * http://www.oregonlive.com/today/index.ssf/2015/03/pennsylvania_officer_charged_w.html
 * http://www.theatlantic.com/politics/archive/2015/04/the-brutality-of-police-culture-in-baltimore/391158/
 * http://www.washingtonpost.com/national/for-tiny-orting-wash-a-foundational-shift/2015/04/18/14e1e098-dc6e-11e4-acfe-cd057abefa9a_story.html
+* http://chicagoist.com/2015/04/21/a_lawsuit_alleging_that_police.php
 * http://www.nytimes.com/interactive/2015/04/20/upshot/missing-black-men.html?abt=0002&abg=0
 * http://www.thedailybeast.com/articles/2015/04/07/walter-scott-s-killing-is-the-sum-of-every-black-nightmare-about-white-cops.html
 * http://arstechnica.com/tech-policy/2015/03/ferguson-cops-routinely-block-public-from-filming-them-doj-says/

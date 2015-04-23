@@ -52,6 +52,7 @@
 * http://media.ccc.de/browse/congress/2014/31c3_-_6258_-_en_-_saal_1_-_201412282030_-_reconstructing_narratives_-_jacob_-_laura_poitras.html#video
 * http://arstechnica.com/tech-policy/2015/01/going-postal-reporter-sues-government-for-spying-from-usps-network/
 * http://www.theverge.com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-you
+* http://www.petri.com/infographic-us-data-breaches-in-2014.htm
 * http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html
 * http://www.weforum.org/sessions/summary/brave-new-world <- bad incentives?
 * http://arstechnica.com/information-technology/2015/01/under-the-hood-of-i2p-the-tor-alternative-that-reloaded-silk-road/
