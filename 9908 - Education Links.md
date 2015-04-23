@@ -134,6 +134,8 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2015/02/07/upshot/is-the-professor-bossy-or-brilliant-much-depends-on-gender.html?_r=0&abt=0002&abg=1
 * http://nscresearchcenter.org/signaturereport8-statesupplement/
 * http://coryliu.com/post/109988042607/a-dirty-secret-most-people-probably-shouldnt-go
+* http://www.theatlantic.com/magazine/archive/2015/05/the-upwardly-mobile-barista/389513/
+* http://www.seattletimes.com/seattle-news/uws-stars-helps-low-income-students-shine/
 * https://www.insidehighered.com/news/2015/02/17/two-year-colleges-washington-state-expand-competency-based-project-business-degree
 * https://www.insidehighered.com/news/2015/02/19/unc-board-panel-wants-shut-down-center-poverty-led-faculty-member-who-criticizes
 * http://www.nytimes.com/2015/02/05/us/more-college-freshmen-report-having-felt-depressed.html
