@@ -113,3 +113,5 @@ DEMO - ROI, diminishing returns, cost:value
 * http://www.nytimes.com/2015/03/27/automobiles/their-ranks-thinned-the-surviving-car-dealerships-thrive.html?ref=automobiles
 * http://www.nytimes.com/2015/03/31/business/dealbook/prosecutors-scrutinize-minorities-auto-loans.html?ref=automobiles
 * http://www.nytimes.com/2015/04/02/business/us-auto-sales-march.html?ref=automobiles
+* http://www.nytimes.com/2015/04/23/technology/personaltech/an-online-tune-up-for-the-used-car-marketplace.html
+

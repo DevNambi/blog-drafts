@@ -453,6 +453,7 @@
 * http://blogs.sqlsentry.com/aaronbertrand/developers-dbas/
 * http://www.brentozar.com/archive/2015/02/9-ways-to-lose-your-data/
 * http://www.sqlteaching.com/
+* https://aphyr.com/posts/322-call-me-maybe-mongodb-stale-reads
 * http://0a.io/0a-explains-set-theory-and-axiomatic-systems-with-pics-and-gifs
 
 <li><a href="http://t.co/ZA3MOe15" time_added="1357660034" tags="">mrdenny: Reading: http://t.co/ZA3MOe15 Selective XML Index - Secondary Sele</a></li>
