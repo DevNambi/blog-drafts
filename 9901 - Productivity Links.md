@@ -17,6 +17,7 @@
 * https://medium.com/i-dont-know-a-thing/the-complete-and-logical-guide-to-winning-at-your-own-life-in-19-super-difficult-steps-135a17b3c5c6#4f22--share-0-116
 * http://www.smithsonianmag.com/science-nature/brains-make-decisions-way-alan-turing-cracked-codes-180954212/?no-ist
 * http://www.northwestern.edu/newscenter/stories/2015/03/creative-genius-driven-by-distraction.html
+* https://hbr.org/2015/04/time-management-training-doesnt-work
 * http://www.brainpickings.org/2014/01/22/brian-eno-visual-music-oblique-strategies/
 * http://calnewport.com/blog/2015/03/27/isaac-asimovs-advice-for-being-creative-hint-dont-brainstorm/
 * http://nautil.us/issue/23/dominoes/fear-in-the-cockpit

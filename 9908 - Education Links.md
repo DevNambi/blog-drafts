@@ -495,6 +495,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.theglobeandmail.com/news/national/education/university-labour-strife-underscores-job-security-plight-of-contract-faculty/article23276935/
 * http://www.washingtonpost.com/posteverything/wp/2015/03/06/i-was-a-professor-at-four-universities-i-still-couldnt-make-ends-meet/
 * http://www.slate.com/blogs/moneybox/2015/04/13/adjunct_pay_a_quarter_of_part_time_college_faculty_receive_public_assistance.html?wpsrc=fol_tw
+* https://www.insidehighered.com/news/2015/04/22/berkeley-study-finds-high-levels-depression-among-graduate-students
 
 ### Administration
 
