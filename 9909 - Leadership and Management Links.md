@@ -39,6 +39,7 @@
 * https://www.linkedin.com/pulse/what-like-watch-worst-firing-ever-paul-petrone?trk=tod-home-art-list-large_0 <- how to do it wrong, again
 * http://techcrunch.com/2015/04/04/the-work-family-imbalance/
 * http://www.atrixnet.com/bs-generator.html <- don't be this guy
+* http://www.washingtonpost.com/blogs/wonkblog/wp/2015/04/23/how-to-seem-smart-in-meetings-without-really-trying/ <- hilarious and cynical
 
 
 <li><a href="http://lifehacker.com/5936493/want-to-be-a-great-leader-start-reading" time_added="1348860619" tags="hn">Want to Be a Great Leader? Start Reading</a></li>

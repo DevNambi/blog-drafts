@@ -279,6 +279,7 @@
 * http://engineering.pinterest.com/post/113376157699/open-sourcing-pinball
 * http://www.brendangregg.com/blog/2015-03-03/performance-tuning-linux-instances-on-ec2.html
 * http://blog.atomicinc.com/2015/03/03/does-amazon-web-services-pricing-follow-moores-law-2350/
+* http://www.infoq.com/news/2015/04/vogels-patterns-cloud-adoption
 * http://www.wired.com/2015/04/kevin-mcelvaney-agbogbloshie/
 * http://us10.campaign-archive1.com/?u=5dfb7b5de8e42c2633c06b3a8&id=36227f3963
 * https://yourbunnywrote.org/2015/04/19/google-cloud/

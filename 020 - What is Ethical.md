@@ -212,6 +212,9 @@ So what's our impact? I like to assume everyone contributes equally, at least to
 
 http://www.reddit.com/r/AskReddit/comments/23lgxz/what_about_your_job_would_shock_the_everyday/
 
+
+http://www.popularmechanics.com/military/research/a15233/liquidpiston-darpa-contract/
+
 Total Team Contribution = SUM(Each Person's Contribution)
 
 

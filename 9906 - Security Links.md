@@ -148,6 +148,7 @@
 * http://arstechnica.com/tech-policy/2015/02/sim-card-makers-hacked-by-nsa-and-gchq-leaving-cell-networks-wide-open/
 * http://www.wired.com/2015/02/snowden-spy-agencies-screwed-us-hacking-crypto-keys/
 * http://www.gemalto.com/press/Pages/Gemalto-presents-the-findings-of-its-investigations-into-the-alleged-hacking-of-SIM-card-encryption-keys.aspx
+* http://arstechnica.com/tech-policy/2015/04/former-cia-directors-no-jail-sentence-for-leaking-decried-as-gross-hypocrisy/
 
 <li><a href="http://rt.com/usa/news/surveillance-spying-e-mail-citizens-178/" time_added="1354678483" tags="hn,important,personal tech">'Everyone in US under virtual surveillance' - NSA whistleblower — RT</a></li>
 
