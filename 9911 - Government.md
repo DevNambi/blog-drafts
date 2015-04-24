@@ -270,6 +270,7 @@
 * http://arstechnica.com/security/2015/04/lawyer-representing-whistle-blowers-finds-malware-on-drive-supplied-by-cops/
 * http://www.washingtonpost.com/local/education/free-range-parents-plan-to-file-lawsuit-after-police-pick-up-children/2015/04/14/ed4f7658-e2b7-11e4-b510-962fcfabc310_story.html?postshare=7531429036953332
 * http://www.nytimes.com/2015/03/03/us/prosecutors-to-seek-death-penalty-in-murders-of-arab-american-students.html
+* http://reason.com/blog/2015/04/23/town-where-us-marshal-smashed-citizens-c
 * http://bigstory.ap.org/article/4f0e2a7d5a884274a7798bbdfd79d3c4/ex-drug-officer-says-he-stole-cash-planted-drugs-many-times
 * http://mashable.com/2015/04/14/dash-cam-video/
 * http://arstechnica.com/tech-policy/2015/04/guest-op-ed-what-if-mlks-letter-from-birmingham-jail-had-been-on-facebook/

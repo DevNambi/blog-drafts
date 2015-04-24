@@ -110,6 +110,7 @@ Interviews are one of the best times to find out about a company's culture, work
 <ul>
 <li><a href="http://www.smattie.com/2012/12/11/preparing-for-interview-loops/" time_added="1355381235" tags="brand">Preparing for interview loops</a></li>
 <li><a href="http://www.brentozar.com/archive/2009/06/top-10-developer-interview-questions-about-sql-server/">Top 10 Developer Interview Questions About SQL Server</a></li>
+<li><a href="http://theoatmeal.com/comics/interviewees">The 10 Types of Crappy Interviewees</a></li>
 <li><a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">Front-end Job Interview Questions</a></li>
 <li><a href="http://blog.ellenchisa.com/2014/04/13/stuff-ive-screwed-up-while-interviewing/">Stuff I've Screwed Up While Interviewing</a></li>
 </ul>
@@ -229,6 +230,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="http://brianstorms.com/2014/05/googles-so-called-diversity-makes-no-mention-of-age.html">Google's So-Called Diversity Makes No Mention of Age</a></li>
 <li><a href="https://medium.com/@dfeldman/discrimination-in-tech-runs-deep-f134420f0aef">Discrimination in Tech Runs Deep</a></li>
 <li><a href="http://anewdomain.net/2014/12/11/dont-hire-anyone-30-ageism-silicon-valley/">Don’t Hire Anyone Over 30: Ageism in Silicon Valley</a></li>
+<li><a href="http://blogs.wsj.com/digits/2015/04/23/google-sued-by-job-candidate-for-age-discrimination/">Google Sued by Job Candidate for Age Discrimination</a></li>
 </ul>
 
 **The 'STEM' shortage, and H1B Visas**
