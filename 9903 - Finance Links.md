@@ -91,6 +91,7 @@
 * http://www.nakedcapitalism.com/2015/03/bill-black-meet-citis-ethical-underwriter-fought-won-sherry-hunt.html
 * http://boingboing.net/2015/03/26/tpp-leak-states-give-companie.html
 * http://www.nakedcapitalism.com/2015/03/bill-black-fcic-spurned-one-chance-greatness.html
+* http://www.theatlantic.com/magazine/archive/2015/05/can-bankers-behave/389558/
 * http://www.nakedcapitalism.com/2015/04/investors-like-calpers-and-new-york-city-in-the-dark-about-private-equity-fees.html
 * http://www.nakedcapitalism.com/2015/04/bill-black-super-crunchers-became-super-torturers-finance-data.html
 * http://www.nytimes.com/2015/04/16/upshot/big-money-from-super-pacs-is-eroding-the-power-of-parties.html?abt=0002&abg=0
