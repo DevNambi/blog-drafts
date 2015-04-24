@@ -38,6 +38,7 @@
 * http://www.theverge.com/2015/3/26/8280309/amazon-warehouse-jobs-exclusive-noncompete-contracts
 * http://www.fastcompany.com/3039887/under-fire
 * http://recode.net/2015/01/13/how-amazon-tricks-you-into-thinking-it-always-has-the-lowest-prices/
+* http://www.bloomberg.com/news/articles/2015-04-23/amazon-finally-discloses-cloud-services-sales-showing-49-jump
 
 
 
@@ -176,6 +177,7 @@
 * http://www.thebaffler.com/salvos/purple-reign
 * http://www.seattletimes.com/nation-world/world/fishermen-rush-to-be-rescued-amid-indonesian-slavery-probe/
 * http://mobile.nytimes.com/blogs/publiceditor/2015/04/10/a-darker-narrative-of-prints-future-from-clay-shirky/
+* https://medium.com/@harrisj/leaving-the-new-york-times-bb3e73adc61f
 
 
 ## Airlines
@@ -218,6 +220,7 @@
 * http://money.cnn.com/2014/11/20/news/companies/fedex-driver-lawsuit/index.html
 * http://www.komonews.com/news/business/Railroads-seek-one-person-crews-for-freight-trains-286586911.html
 * http://pando.com/2014/11/26/how-comcast-and-hp-are-corrupting-elections-in-america/
+* https://medium.com/@ralf/4-reasons-why-we-are-leaving-dropbox-126e79f3a49
 * https://hbr.org/2015/03/gms-stock-buyback-is-bad-for-america-and-the-company
 * http://www.foreignaffairs.com/articles/142497/james-bessen/the-anti-innovators
 * http://mashable.com/2014/12/03/history-of-reddit/

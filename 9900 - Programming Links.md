@@ -75,6 +75,7 @@
 * http://gael-varoquaux.info/programming/software-design-for-maintainability.html
 * http://danluu.com/testing/
 * http://motherboard.vice.com/read/the-simple-elegant-algorithm-that-makes-google-maps-possible
+* https://software.intel.com/en-us/blogs/2015/04/22/the-last-line-effect
 
 
 
@@ -278,6 +279,7 @@
 * http://engineering.pinterest.com/post/113376157699/open-sourcing-pinball
 * http://www.brendangregg.com/blog/2015-03-03/performance-tuning-linux-instances-on-ec2.html
 * http://blog.atomicinc.com/2015/03/03/does-amazon-web-services-pricing-follow-moores-law-2350/
+* http://www.wired.com/2015/04/kevin-mcelvaney-agbogbloshie/
 * http://us10.campaign-archive1.com/?u=5dfb7b5de8e42c2633c06b3a8&id=36227f3963
 * https://yourbunnywrote.org/2015/04/19/google-cloud/
 * http://www.cloudcomputingpatterns.org/ <- priceless
@@ -312,6 +314,7 @@
 * http://danluu.com/3c-conflict/
 * http://blog.scalyr.com/2014/05/searching-20-gbsec-systems-engineering-before-algorithms/?1
 * http://windowsitpro.com/cloud/hp-cloud-were-all-out
+* http://kubernetesio.blogspot.com/2015/04/borg-predecessor-to-kubernetes.html
 * http://bits.blogs.nytimes.com/2015/04/07/hp-comes-to-terms-with-the-cloud/?_r=0
 
 
@@ -330,6 +333,7 @@
 * https://fatiherikli.github.io/programming-language-network/#language:C
 * http://techblog.netflix.com/2014/11/nodejs-in-flames.html
 * https://www.loggly.com/blog/the-most-popular-programming-languages-in-to-github-since-2012/
+* http://mikecavaliere.com/dont-get-attached-programming-languages/
 
 
 

@@ -31,6 +31,7 @@
 * http://www.newyorker.com/magazine/2015/04/27/the-man-who-broke-the-music-business
 * http://www.wired.com/2015/04/dmca-ownership-john-deere/?mbid=social_fb
 * http://www.theguardian.com/music/2014/nov/17/steve-albinis-keynote-address-at-face-the-music-in-full
+* https://www.yahoo.com/autos/s/gm-ford-others-want-working-own-car-illegal-160000229.html
 * http://boingboing.net/2014/11/18/aaron-swartz-was-no-criminal.html
 * http://arstechnica.com/tech-policy/2014/11/novembers-stupid-patent-of-the-month-brought-to-you-by-penn-state/
 * https://www.techdirt.com/articles/20141212/12142629419/leaked-emails-reveal-mpaa-plans-to-pay-elected-officials-to-attack-google.shtml

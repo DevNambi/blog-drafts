@@ -201,6 +201,7 @@
 * http://aeon.co/magazine/culture/why-the-traditional-wedding-isnt-as-traditional-as-it-seems/
 * http://dilbert.com/strips/2015-01-05/ <- hilarious
 * http://mobile.nytimes.com/2015/01/11/fashion/modern-love-to-fall-in-love-with-anyone-do-this.html
+* http://mobile.nytimes.com/2015/04/26/style/the-art-of-being-apart.html
 
 
 

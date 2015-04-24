@@ -397,6 +397,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.dcscience.net/2014/12/01/publish-and-perish-at-imperial-college-london-the-death-of-stefan-grimm/
 * http://lemire.me/blog/archives/2014/12/05/academia-as-an-anxiety-machine/
 * http://news.sciencemag.org/scientific-community/2014/12/study-massive-preprint-archive-hints-geography-plagiarism
+* http://crypto.junod.info/2013/09/09/an-aspiring-scientists-frustration-with-modern-day-academia-a-resignation/
 
 
 ### Mismeasurement, Incentives
@@ -423,6 +424,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.washingtonpost.com/opinions/why-stem-wont-make-us-successful/2015/03/26/5f4604f2-d2a5-11e4-ab77-9646eea6a4c7_story.html?hpid=z3
 * http://mobile.nytimes.com/2015/04/17/nyregion/nyu-labor-rules-failed-to-protect-10000-workers-in-abu-dhabi.html?_r=0
 * http://www.economist.com/news/united-states/21646220-it-depends-what-you-study-not-where
+* https://chronicle.com/article/The-Slow-Death-of-the/228991/
 
 
 ### Student Culture, Sexual Assault, Assault
