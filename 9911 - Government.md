@@ -268,6 +268,7 @@
 * http://www.slate.com/blogs/future_tense/2015/04/10/florida_middle_schooler_arrested_charged_with_hacking_cybercrimes.html
 * http://www.nytimes.com/2015/03/03/us/cleveland-mayor-apologizes-for-language-used-to-blame-tamir-rice-for-his-death.html?_r=0
 * http://arstechnica.com/security/2015/04/lawyer-representing-whistle-blowers-finds-malware-on-drive-supplied-by-cops/
+* http://www.seattletimes.com/seattle-news/spd-back-after-closing-up-shop/
 * http://www.washingtonpost.com/local/education/free-range-parents-plan-to-file-lawsuit-after-police-pick-up-children/2015/04/14/ed4f7658-e2b7-11e4-b510-962fcfabc310_story.html?postshare=7531429036953332
 * http://www.nytimes.com/2015/03/03/us/prosecutors-to-seek-death-penalty-in-murders-of-arab-american-students.html
 * http://reason.com/blog/2015/04/23/town-where-us-marshal-smashed-citizens-c
