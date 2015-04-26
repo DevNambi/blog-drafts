@@ -104,6 +104,7 @@
 
 
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
+* http://www.nytimes.com/2015/04/26/us/politics/deep-support-in-washington-for-cias-drone-missions.html <- horrifying
 * http://www.huffingtonpost.ca/2015/04/05/former-spy-cia-employees_n_7006852.html
 * http://www.washingtonpost.com/world/national-security/pentagon-loses-sight-of-500-million-in-counterterrorism-aid-given-to-yemen/2015/03/17/f4ca25ce-cbf9-11e4-8a46-b1dc9be5a8ff_story.html?hpid=z1
 * http://www.nytimes.com/2015/04/15/opinion/is-there-any-hope-left-for-yemen.html?_r=0
