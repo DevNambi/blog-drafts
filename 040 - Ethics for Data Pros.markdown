@@ -53,6 +53,7 @@ We believe we are working to make our society, our world, a better place. At the
 * https://itsinsiderunplugged.wordpress.com/2014/11/12/big-mountain-data-heads-to-san-francisco/
 * http://www.drivendata.org/competitions/4/
 * https://github.com/nmkridler/bayeshackmining
+* http://bits.blogs.nytimes.com/2015/04/26/envisioning-a-future-when-sensors-are-scooping-up-data-on-everything/?_r=0
 * http://mashable.com/2014/11/17/data-hackathon/
 * http://www.theatlantic.com/magazine/archive/2014/12/the-shazam-effect/382237/?single_page=true
 * http://www.wired.com/2014/11/algorithms-great-can-also-ruin-lives/
