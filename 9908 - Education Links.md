@@ -59,6 +59,7 @@
 * http://www.nytimes.com/2015/04/07/nyregion/at-success-academy-charter-schools-polarizing-methods-and-superior-results.html
 * http://www.nytimes.com/2015/03/23/nyregion/cuomo-fights-rating-system-in-which-few-teachers-are-bad.html
 * http://www.nytimes.com/2015/03/02/nyregion/as-common-core-testing-is-ushered-in-parents-and-students-opt-out.html
+* http://www.10tv.com/content/stories/2015/04/24/mi-girl-who-battled-cancer-is-dismissed-for-missing-school.html
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2015/03/16/virginia-school-suspends-an-11-year-old-for-one-year-over-a-leaf-that-wasnt-marijuana/
 * http://www.usatoday.com/story/news/nation/2015/04/16/parents-opt-out-standardized-tests/25896607/
 * http://iquantny.tumblr.com/post/114374455289/safe-hallways-successful-tests
@@ -453,6 +454,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://www.insidehighered.com/news/2015/03/16/brown-u-sexual-assault-investigation-draws-criticism-accused-and-accusers
 * http://fivethirtyeight.com/datalab/college-presidents-appear-to-be-delusional-about-sexual-assault-on-their-campuses/
 * http://www.nytimes.com/2015/04/12/education/edlife/first-generation-students-unite.html
+* http://flathatnews.com/2015/04/24/dont-bite-the-hand-that-feeds-you-activists-scrap-open-letter/
 
 
 ### Finance, Debt
