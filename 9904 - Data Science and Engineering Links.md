@@ -486,6 +486,7 @@
 * http://www.boozallen.com/insights/2013/11/data-science-field-guide
 * http://blog.mikiobraun.de/2015/03/three-things-about-data-science.html
 * https://leanpub.com/datastyle
+* http://su3su2u1.tumblr.com/post/114728408943/if-your-results-are-highly-counterintuitive
 * https://civisanalytics.com/blog/data-science/2014/08/20/why-we-love-models/
 * https://github.com/jonathan-bower/DataScienceResources
 * http://www.mastersindatascience.org/blog/questions-before-choosing-data-science-program/

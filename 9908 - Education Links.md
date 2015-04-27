@@ -463,6 +463,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://seattletimes.com/html/nationworld/2025012950_apxcollegecosts.html
 * http://highereddatastories.blogspot.com/2014/11/what-is-pell-grant-worth.html
 * https://www.insidehighered.com/news/2015/03/31/education-department-names-most-colleges-facing-heightened-scrutiny-federal
+* http://www.latimes.com/business/la-fi-corinthian-shutdown-20150427-story.html#page=1
 * http://www.thenation.com/blog/202849/campaign-refuse-student-debt-about-kick-overdrive
 * https://www.insidehighered.com/news/2015/03/30/education-department-will-release-list-colleges-found-be-risky-students-taxpayers
 * http://www.theatlantic.com/business/archive/2015/02/the-mental-and-physical-toll-of-student-loans/385032/

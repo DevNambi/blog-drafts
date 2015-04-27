@@ -9,6 +9,7 @@
 * http://www.wired.com/2015/04/want-see-domestic-spyings-future-follow-drug-war/
 * http://recode.net/2015/04/13/cyber-crime-still-on-the-rise-using-nine-basic-attack-methods/
 * http://www.nytimes.com/2015/04/16/style/keeping-your-car-safe-from-electronic-thieves.html?_r=0
+* https://krebsonsecurity.com/2015/04/whats-your-security-maturity-level/
 * http://www.foxnews.com/us/2015/04/16/security-expert-pulled-off-flight-by-fbi-after-exposing-airline-tech/
 * http://www.nationaljournal.com/tech/mcconnell-introduces-bill-to-reauthorize-patriot-act-until-2020-20150421
 * http://blog.codinghorror.com/given-enough-money-all-bugs-are-shallow/
@@ -16,6 +17,7 @@
 * http://www.extremetech.com/computing/199978-samsung-is-still-lying-about-the-encryption-on-its-smart-tvs
 * http://offbeathome.com/2015/03/internet-security-tips
 * http://arstechnica.com/security/2015/01/wireless-device-in-two-million-cars-wide-open-to-hacking/
+* http://blogs.technet.com/b/johnla/archive/2015/04/26/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win.aspx
 * http://www.thoughtcrime.org/blog/the-cryptographic-doom-principle/
 * http://www.richmond.com/business/ap/article_82e0ea54-5092-5368-8d76-cfcf654ae2c3.html
 * http://www.wired.com/2015/03/60-gadget-thatll-make-car-hacking-easier-ever/

@@ -104,6 +104,7 @@
 * http://www.nakedcapitalism.com/2015/03/rebuke-cronyistic-new-york-fed-tbtf-bank-supervision-shifted-fed-board-governors.html
 * http://mobile.nytimes.com/2015/04/12/business/dealbook/insurers-bypass-rules-to-add-hidden-risk.html?_r=0
 * http://www.seattletimes.com/seattle-news/us-house-oks-cutting-safeguards-for-mobile-home-buyers/
+* http://www.theatlantic.com/politics/archive/2015/04/fergusons-fortune-500-company/390492/
 * http://www.vanityfair.com/news/2015/03/michael-lewis-flash-boys-one-year-later
 * http://www.visir.is/iceland-jails-former-kaupthing-bank-bosses/article/2015150219597
 * http://www.dw.de/swissleaks-the-hsbc-money-laundering-machine/av-18278207
@@ -154,6 +155,7 @@
 * http://www.washingtonpost.com/opinions/kill-the-dispute-settlement-language-in-the-trans-pacific-partnership/2015/02/25/ec7705a2-bd1e-11e4-b274-e5209a3bc9a9_story.html# <- good lord this is corrupt
 * http://www.nakedcapitalism.com/2015/04/don-quijones-bad-bank-mania-spreads-europe.html
 * http://mobile.nytimes.com/2015/03/03/business/a-warning-from-buffett-about-banks.html?_r=0
+* http://www.nakedcapitalism.com/2015/04/war-cash-10-spine-chilling-quotes.html
 
 
 
