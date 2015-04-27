@@ -20,6 +20,7 @@
 * http://stilldrinking.org/35-things-that-surprised-me-before-35
 * http://www.feelguide.com/2013/04/29/75-years-in-th-making-harvard-just-released-its-epic-study-on-what-men-require-to-live-a-happy-life/
 * http://markmanson.net/question
+* http://www.nytimes.com/2015/04/25/your-money/as-cognitivity-slips-financial-skills-are-often-the-first-to-go.html
 * http://www.collective-evolution.com/2014/06/28/8-common-traits-of-happy-people-that-they-dont-talk-about/
 * http://www.washingtonpost.com/news/storyline/wp/2014/12/04/people-around-you-control-your-mind-the-latest-evidence/
 * http://www.addictinginfo.org/2014/12/22/atheist-ten-commandments/
