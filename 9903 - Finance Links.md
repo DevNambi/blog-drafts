@@ -50,6 +50,7 @@
 * http://www.nytimes.com/2015/01/26/world/europe/greek-election-syriza.html?_r=0
 * http://www.nakedcapitalism.com/2015/02/troika-not-happy-initial-draft-greek-reforms-eurogroup-still-mix.html
 * http://www.nakedcapitalism.com/2015/04/wolf-richter-greek-people-just-destroyed-syrizas-strategy.html
+* http://www.nakedcapitalism.com/2015/04/eurogroup-demands-varoufakis-ouster-trajectory-toward-default-continues.html
 * http://www.nytimes.com/2015/02/17/business/international/greece-debt-eurozone-finance-ministers-meeting.html
 * http://www.nakedcapitalism.com/2015/04/greece-default-grexit.html
 * http://www.nytimes.com/2015/02/16/opinion/paul-krugman-weimar-on-the-aegean.html
