@@ -374,6 +374,7 @@
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
 * http://www.reddit.com/r/AskReddit/comments/32qbk5/doctors_of_reddit_what_is_the_most_unethical/ <- good god this is horrifying
+* http://www.dailydot.com/lifestyle/forced-episiotomy-lawyer/
 * http://www.nakedcapitalism.com/2015/04/lousy-electronic-medical-records-fuel-successful-lawsuits.html
 * http://www.nytimes.com/2015/04/15/business/as-nursing-homes-chase-lucrative-patients-quality-of-care-is-said-to-lag.html
 * http://www.nytimes.com/2015/04/08/opinion/yes-we-were-warned-about-ebola.html?_r=0 <- science behind a paywall
