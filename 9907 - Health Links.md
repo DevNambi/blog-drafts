@@ -619,6 +619,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://www.collective-evolution.com/2014/10/02/your-ancestors-didnt-sleep-like-you-are-were-doing-it-wrong/
 * http://parenting.blogs.nytimes.com/2014/10/16/want-to-ace-that-test-get-the-right-kind-of-sleep/
 * http://www.fastcompany.com/3043128/sleep-inequality
+* http://www.bbc.com/earth/story/20150415-apes-reveal-sleep-secrets
 
 
 <li><a href="http://www.bbc.co.uk/news/health-21572686" time_added="1361898585" tags="health,hn,important">BBC News - Bad sleep 'dramatically' alters body</a></li>
