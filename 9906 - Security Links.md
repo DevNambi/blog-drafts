@@ -15,9 +15,12 @@
 * http://blog.codinghorror.com/given-enough-money-all-bugs-are-shallow/
 * http://www.wsj.com/articles/the-man-who-hacks-your-people-1429499479
 * http://www.extremetech.com/computing/199978-samsung-is-still-lying-about-the-encryption-on-its-smart-tvs
+* http://krebsonsecurity.com/2015/04/a-day-in-the-life-of-a-stolen-healthcare-record/
 * http://offbeathome.com/2015/03/internet-security-tips
 * http://arstechnica.com/security/2015/01/wireless-device-in-two-million-cars-wide-open-to-hacking/
 * http://blogs.technet.com/b/johnla/archive/2015/04/26/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win.aspx
+* http://www.tripwire.com/state-of-security/security-data-protection/the-four-most-common-evasive-techniques-used-by-malware/
+
 * http://www.thoughtcrime.org/blog/the-cryptographic-doom-principle/
 * http://www.richmond.com/business/ap/article_82e0ea54-5092-5368-8d76-cfcf654ae2c3.html
 * http://www.wired.com/2015/03/60-gadget-thatll-make-car-hacking-easier-ever/
