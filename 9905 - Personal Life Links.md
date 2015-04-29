@@ -242,6 +242,7 @@
 
 * http://geekologie.com/2015/02/so-jealous-right-now-family-builds-treeh.php
 * http://www.seattletimes.com/pacific-nw-magazine/too-much-stuff-we-collect-it-all-our-lives-and-then-what/
+* http://www.nytimes.com/2015/04/24/realestate/the-10-most-cost-effective-renovations.html
 
 
 ## Seattle
