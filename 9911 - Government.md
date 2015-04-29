@@ -7,6 +7,7 @@
 
 
 * http://www.dailydot.com/politics/jeremy-hammond-terrorist-watchlist-fbi/
+* http://www.theatlantic.com/politics/archive/2015/04/loving-v-marriage/391730/
 * http://www.theatlantic.com/politics/archive/2015/03/the-conservative-case-against-enforcing-immigration-laws/387004/
 * http://www.theatlantic.com/politics/archive/2015/04/too-vague-to-be-constitutional/390762/
 * http://www.seattletimes.com/seattle-news/federal-ruling-may-free-many-immigrants-without-posting-bonds/
@@ -290,6 +291,7 @@
 * http://www.theguardian.com/us-news/2015/apr/10/california-deputies-frank-pusok-helicopter-video
 * http://www.seattletimes.com/seattle-news/wsp-deputy-ran-stop-sign-caused-crash-that-cost-man-his-legs/
 * http://www.nytimes.com/2015/04/18/opinion/why-we-let-prison-rape-go-on.html
+* http://www.theatlantic.com/technology/archive/2015/04/thank-god-for-cellphone-video-cameras/391688/
 * http://www.seattletimes.com/nation-world/lawyer-no-answer-on-why-man-who-died-in-custody-was-stopped/
 * https://www.eff.org/deeplinks/2015/04/justice-charging-eight-grader-felony-hacking
 * http://www.nytimes.com/2015/04/19/us/police-unions-facing-public-anger-rethink-how-to-address-shootings.html
