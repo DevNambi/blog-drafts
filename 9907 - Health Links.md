@@ -375,6 +375,7 @@
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://mobile.nytimes.com/2015/05/01/us/report-says-american-psychological-association-collaborated-on-torture-justification.html
 * http://www.reddit.com/r/AskReddit/comments/32qbk5/doctors_of_reddit_what_is_the_most_unethical/ <- good god this is horrifying
 * http://www.dailydot.com/lifestyle/forced-episiotomy-lawyer/
 * http://www.nakedcapitalism.com/2015/04/lousy-electronic-medical-records-fuel-successful-lawsuits.html
@@ -451,6 +452,7 @@
 
 
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/?mbid=social_fb
+* http://www.reuters.com/investigates/special-report/usa-medicaid-fraud/
 * http://www.seattletimes.com/nation-world/nation/government-clarifies-rules-for-wellness-programs-at-work/
 * http://www.seattletimes.com/seattle-news/health/women-seeking-birth-control-coverage-get-wrong-messages-from-insurers-survey-finds/
 * http://blogs.wsj.com/washwire/2015/04/08/why-low-growth-in-health-costs-still-stings/

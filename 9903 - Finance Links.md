@@ -15,6 +15,7 @@
 * http://www.scmp.com/news/china/article/1712004/chasing-ghosts-where-chinas-next-wave-empty-new-towns
 * http://www.nakedcapitalism.com/2015/03/coming-china-crisis.html
 * http://www.newyorker.com/magazine/2015/04/06/born-red
+* http://mobile.nytimes.com/2015/05/01/business/dealbook/china-rethinks-safety-net-for-its-banking-system.html
 
 
 ## Europe
