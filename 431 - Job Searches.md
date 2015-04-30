@@ -47,6 +47,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="https://modelviewculture.com/pieces/technical-interviews-are-bullshit">Technical Interviews Are Bullshit</a></li>
 <li><a href="http://www.jasonondesign.com/2014/07/09/how-to-get-hired-this-is-how-i-narrow-down-applicants/">How to get hired. This is how I narrow down applicants.</a></li>
 <li><a href="http://www.nextavenue.org/blog/no-1-thing-do-when-job-hunting">The No. 1 Thing to Do When Job Hunting</a></li>
+<li><a href="http://www.bloomberg.com/news/articles/2015-04-27/the-best-and-worst-fonts-to-use-on-your-r-sum-">The Best and Worst Fonts to Use on Your Résumé</a></li>
 </ul>
 
 
