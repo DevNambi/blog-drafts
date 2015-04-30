@@ -119,6 +119,7 @@
 * http://www.shubhro.com/2014/12/27/software-engineers-should-write/
 * http://manuel.bernhardt.io/2014/12/30/generation-javascript/
 * http://singularityhub.com/2014/12/28/future-of-work-part-ii-why-teaching-everyone-to-code-is-delusional/ 
+* http://www.joshbarczak.com/blog/?m=201501
 * https://docs.google.com/document/d/1rU5-t09tEBym1wD3NUr7s9mMgFBmfGJNBz3F8TGzDsU/preview?sle=true&pli=1
 
 

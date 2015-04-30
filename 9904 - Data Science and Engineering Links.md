@@ -330,6 +330,7 @@
 * http://www.dataschool.io/comparing-supervised-learning-algorithms/
 * http://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/
 * http://nbviewer.ipython.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb
+* https://www.kaggle.com/users/195999/henning-sperr/otto-group-product-classification-challenge/finding-ensamble-weights
 * http://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/
 * http://www.gregreda.com/2015/03/30/beer-review-markov-chains/
 * http://blog.dato.com/choosing-a-recommender-model

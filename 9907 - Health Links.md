@@ -196,6 +196,7 @@
 * http://www.thestranger.com/features/feature/2015/04/15/22062331/i-sat-in-on-my-sons-sex-ed-class-and-i-was-shocked-by-what-i-heard
 * http://well.blogs.nytimes.com/2015/04/27/admitted-to-your-bedroom-some-hospitals-try-treating-patients-at-home/
 * http://mobile.nytimes.com/blogs/well/2015/04/13/board-certification-and-fees-anger-doctors/
+* http://www.wired.com/2015/04/epic-measures
 * http://www.reuters.com/article/2015/04/20/us-health-depression-idUSKBN0NB2KO20150420
 * https://news.vice.com/article/seattle-is-helping-drug-addicts-instead-of-locking-them-up-and-so-far-its-working
 * http://www.independent.co.uk/life-style/health-and-families/health-news/alzheimers-breakthrough-scientists-may-have-found-potential-cause-of-the-disease-in-the-behaviour-of-immune-cells--giving-new-hope-to-millions-10176652.html

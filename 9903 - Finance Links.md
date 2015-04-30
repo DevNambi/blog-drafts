@@ -46,6 +46,8 @@
 #### Greece
 
 * http://www.nakedcapitalism.com/2014/12/greece-eurozones-rescue-troika-forgive-greeces-debt.html
+* http://www.nakedcapitalism.com/2015/04/syriza-failed.html
+* http://www.nakedcapitalism.com/2015/04/coming-defaults-greece.html
 * http://www.nakedcapitalism.com/2015/03/greece-kolotumbas-increasing-at-disconcerting-rate.html
 * http://www.nytimes.com/2015/01/26/world/europe/greek-election-syriza.html?_r=0
 * http://www.nakedcapitalism.com/2015/02/troika-not-happy-initial-draft-greek-reforms-eurogroup-still-mix.html

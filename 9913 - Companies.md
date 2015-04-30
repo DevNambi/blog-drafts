@@ -117,6 +117,7 @@
 * http://www.loomcom.com/blog/2015/02/22/its-comcastic-or-i-accidentally-bought-a-house-without-internet/
 * http://www.wired.com/2015/02/fcc-chairman-wheeler-net-neutrality/
 * https://www.yahoo.com/tech/s/google-fiber-latest-fcc-filing-comcast-nightmare-come-161549827.html
+* http://arstechnica.com/information-technology/2015/04/29/verizon-warns-fios-user-over-excessive-use-of-unlimited-data/
 * http://arstechnica.com/business/2015/01/fcc-chair-broadband-must-be-25mbps-and-isps-are-failing-to-deliver/
 * http://arstechnica.com/business/2015/01/sprint-goes-off-script-says-title-ii-wont-hurt-wireless-investment/
 * http://www.theverge.com/2015/1/29/7932653/fcc-changed-definition-broadband-25mbps
