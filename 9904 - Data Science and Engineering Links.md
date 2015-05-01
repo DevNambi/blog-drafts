@@ -467,6 +467,7 @@
 * http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/facebook-ai-director-yann-lecun-on-deep-learning
 * http://benanne.github.io/2015/03/17/plankton.html <- incredibly detailed
 * http://www.thestar.com/news/world/2015/04/17/how-a-toronto-professors-research-revolutionized-artificial-intelligence.html
+* http://blog.dato.com/practical-text-analysis-using-deep-learning
 
 
 ## Learning

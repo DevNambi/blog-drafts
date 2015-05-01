@@ -40,6 +40,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/
 * https://medium.com/@susanjohnson/hi-im-a-mom-and-a-start-up-founder-my-yc-story-3b8c8650ae95
 * http://www.nytimes.com/2015/01/11/opinion/sunday/speaking-while-female.html?_r=0
+* http://allthingsd.com/20091019/yahoo-sorry-about-lap-dancers-at-hack-day-in-taiwan-so-whats-the-excuse-for-last-years-go-go-girls/
 * http://www.rollingstone.com/culture/features/anita-sarkeesian-gamergate-interview-20141017
 * https://medium.com/@kelseyinnis/on-the-wadhwa-within-and-leaving-4694d02111e0 <- amazing
 * http://www.sfweekly.com/thesnitch/2015/03/07/former-google-engineer-claims-she-was-sexually-harassed-google-did-nothing-about-it
