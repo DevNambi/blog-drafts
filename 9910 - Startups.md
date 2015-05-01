@@ -87,6 +87,7 @@
 * http://www.psmag.com/business-economics/night-school-failed-because-it-followed-law
 * http://kernelmag.dailydot.com/issue-sections/staff-editorials/12637/tech-bubble-venture-capital/
 * http://recode.net/2015/04/21/silicon-valleys-maturity-problem/
+* https://medium.com/backchannel/why-silicon-valley-will-continue-to-rule-c0cbb441e22f
 
 
 
