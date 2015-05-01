@@ -109,6 +109,7 @@
 * http://www.nakedcapitalism.com/2015/03/rebuke-cronyistic-new-york-fed-tbtf-bank-supervision-shifted-fed-board-governors.html
 * http://mobile.nytimes.com/2015/04/12/business/dealbook/insurers-bypass-rules-to-add-hidden-risk.html?_r=0
 * http://www.seattletimes.com/seattle-news/us-house-oks-cutting-safeguards-for-mobile-home-buyers/
+* http://www.nakedcapitalism.com/2015/04/ridiculing-concerns-tpp-tyranny.html
 * http://www.theatlantic.com/politics/archive/2015/04/fergusons-fortune-500-company/390492/
 * http://www.vanityfair.com/news/2015/03/michael-lewis-flash-boys-one-year-later
 * http://www.visir.is/iceland-jails-former-kaupthing-bank-bosses/article/2015150219597
