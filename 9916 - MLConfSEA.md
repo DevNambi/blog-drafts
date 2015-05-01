@@ -1,5 +1,81 @@
 # MLConf Seattle
 
+
+## Ivy Zhu, Intel Labs
+
+* Real-time brain decoding. 
+* Uses fMRI, collects metabolic activity in the brain by looking at blood flow.
+* There's a terrifingly bad overfitting problem.
+* Uses voxels (3D pixel)
+* Have to use sophisticated pre-processing to reduce noise
+* This is not a problem I want *at all*
+* Uses GLM models
+* Brain network activity is complicated and dynamic for memory tasks, ressting, music, and subtraction tasks. 
+* Model to represent global & local brain networks, as well as brain networks? 
+* Currently using Topographical Factor Analysis
+* Instead of using TFA, uses Hierarchial Topic Factor analysis. 
+* Algo works pretty well with lots of factors (.04)
+* Lots of clever engineering to speed it up. 
+
+
+
+## Netflix
+
+* Generate ranking of items w/ respect to different items: topic-sensitive PageRank
+* LDA
+
+#### Graph Diffusion algorithms
+
+* Capture vertex importance w/ regards to a particular vertex. 
+* e.g. for the topic 'Seattle'
+
+
+#### Distributed Clustering Algorithms
+
+* LDA
+* Discovers clusters/topics of related videos from Netflix data. 
+* Solution: read conditional dependencies in the model. Most graphical algos use this.
+* Use Gibbs sampler
+* Now it's over my head. 
+
+## Carlos Guestrin
+
+* Working on ML for 20 years
+* Pipeline in 2013: data -> ML algo -> better curve -> write a paper
+* Production ML Pipeline 2015: data -> data cleaning / feature eng -> ML algo -> eval -> deploy model -> user interaction
+* Dato is betting on columnar representation of data. 
+* Data eng is mostly column transformations. 
+* Recommender model on 20-billion user-item ratings.
+* PageRank on 128 billion edges. 
+* SFrame design principles: 
+
+1. Graceful degradation
+2. Rich datatypes. Some strong schema types (ints, strings) than 
+3. Columnar architecture. Immutable columns. Vectorized feature operators. Lazy eval. 
+
+
+#### SFrames
+
+* They kick ass.
+
+
+#### Deployments
+
+* Deploy requirements
+* Easy to integrate
+* Scalable
+* Fault tolerant
+* Any Python model
+* DIY, or use Dato Predictive Services
+
+
+### For ME
+
+* Use GraphLab, which is free for academic use.
+* Easy to build recommender. 
+* DAMN that's impressive.
+
+
 ## Josh Wills, from Cloudera
 
 * Feature Engineering
