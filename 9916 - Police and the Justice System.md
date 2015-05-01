@@ -219,6 +219,7 @@
 * http://www.dailykos.com/story/2014/11/20/1346374/-BREAKING-VIDEO-Police-Lied-Mike-Brown-was-killed-148-feet-away-from-Darren-Wilson-s-SUV
 * http://www.wired.com/2014/11/from-440-years-to-misdemeanor/
 * http://kdvr.com/2014/11/24/denver-police-accused-of-excessive-force-illegal-search/1/
+* http://www.independent.co.uk/news/world/americas/the-man-who-filmed-freddie-gray-video-has-been-arrested-at-gunpoint-10217973.html
 * http://www.govtech.com/public-safety/Anonymous-Requester-Turns-Police-Body-Camera-Programs-Upside-Down.html
 * http://news.yahoo.com/freed-texas-day-care-owners-still-want-exoneration-185406771.html
 * http://countercurrentnews.com/2014/11/aiyana-stanley-jones/#
