@@ -195,6 +195,7 @@
 * http://www.addictinginfo.org/2015/01/09/united-replaces-unionized-baggage-handlers-with-minimum-wage-contractors-things-instantly-fall-apart/
 * http://www.wsj.com/articles/the-best-and-worst-airlines-1421254623
 * http://www.economist.com/blogs/gulliver/2015/02/united-airlines-0
+* http://www.theregister.co.uk/2015/05/01/787_software_bug_can_shut_down_planes_generators <- well, that's awkward
 
 
 ## Energy Companies
