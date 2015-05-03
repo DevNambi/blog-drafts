@@ -7,6 +7,7 @@
 * http://www.reddit.com/r/news/comments/314z1z/woman_arrested_for_resisting_arrest_after_putting/
 * http://www.seattletimes.com/seattle-news/family-military-tactics-by-cops-led-to-killing/
 * http://countercurrentnews.com/2015/03/calvon-reid-i-cant-breathe-ccpd-florida/
+* https://popehat.com/2015/04/29/cops-we-need-rights-more-than-you-citizen/
 * http://countercurrentnews.com/2015/03/tony-robinson-madison-police/
 * https://www.facebook.com/video.php?v=1009126519115252 <- police kill a homeless man *after* holding him down. WARNING: GRAPHIC
 * http://www.slate.com/blogs/future_tense/2015/04/10/florida_middle_schooler_arrested_charged_with_hacking_cybercrimes.html
