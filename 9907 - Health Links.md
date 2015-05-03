@@ -471,6 +471,7 @@
 * http://www.vox.com/2015/3/23/8280207/hospital-billing-terrible-insane
 * http://www.nytimes.com/interactive/2014/12/18/health/cost-of-health-care-poll.html
 * http://mobile.nytimes.com/2015/01/15/opinion/why-drugs-cost-so-much.html <- http://mobile.nytimes.com/2015/01/15/opinion/why-drugs-cost-so-much.html
+* http://www.propublica.org/article/government-releases-massive-trove-of-data-on-doctors-prescribing-patterns
 * http://seattletimes.com/html/nationworld/2021065979_employeehealthxml.html
 * http://www.nytimes.com/2015/03/24/upshot/why-hospitals-are-wrong-about-shifting-costs-to-private-insurers.html
 * http://seattletimes.com/html/localnews/2021250318_hospitalcostsxml.html
