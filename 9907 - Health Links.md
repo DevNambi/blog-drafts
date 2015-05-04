@@ -451,7 +451,8 @@
 #### Health Insurance, Health Costs
 
 
-* http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/?mbid=social_fb
+* http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
+* http://www.newyorker.com/magazine/2015/05/11/overkill-atul-gawande
 * http://www.reuters.com/investigates/special-report/usa-medicaid-fraud/
 * http://www.seattletimes.com/nation-world/nation/government-clarifies-rules-for-wellness-programs-at-work/
 * http://www.seattletimes.com/seattle-news/health/women-seeking-birth-control-coverage-get-wrong-messages-from-insurers-survey-finds/

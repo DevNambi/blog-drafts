@@ -230,6 +230,7 @@
 * https://gigaom.com/2014/12/04/want-to-make-data-scientist-money-learn-data-science-tools/
 * http://pawelmhm.github.io/python/pandas/2015/01/01/python-job-analytics.html
 * http://www.quora.com/What-are-20-questions-to-detect-fake-data-scientists
+* http://www.wsj.com/article_email/artificial-intelligence-experts-are-in-high-demand-1430472782-lMyQjAxMTA1MzA2MTMwNTEyWj
 
 
 

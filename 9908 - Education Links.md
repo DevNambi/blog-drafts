@@ -56,6 +56,7 @@
 
 
 * http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html
+* http://www.wired.com/2015/05/altschool/
 * http://www.nytimes.com/2015/04/07/nyregion/at-success-academy-charter-schools-polarizing-methods-and-superior-results.html
 * http://www.nytimes.com/2015/03/23/nyregion/cuomo-fights-rating-system-in-which-few-teachers-are-bad.html
 * http://www.nytimes.com/2015/03/02/nyregion/as-common-core-testing-is-ushered-in-parents-and-students-opt-out.html
