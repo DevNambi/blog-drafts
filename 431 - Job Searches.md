@@ -184,6 +184,7 @@ Interviews are one of the best times to find out about a company's culture, work
 <li><a href="http://blog.jobbox.io/common-reasons-salaries-arent-disclosed-job-offers/">Common reasons salaries aren't disclosed</a></li>
 <li><a href="http://www.businessinsider.com/the-programming-and-engineering-skills-with-the-highest-salaries-2015-3">The programming and engineering skills with the highest salaries</a></li>
 <li><a href="http://www.theatlantic.com/business/archive/2015/04/ask-a-hostage-negotiator-whats-the-best-way-to-talk-about-a-raise/391943/">The Hostage Negotiator's Guide to Talking About a Raise</a></li>
+<li><a href="https://medium.com/@prlambert/software-engineering-vs-product-manager-salaries-9564cd7e665f">Software Engineering vs. Product Manager Salaries</a></li>
 </ul>
 
 

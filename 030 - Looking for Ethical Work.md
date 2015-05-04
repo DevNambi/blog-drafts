@@ -86,6 +86,7 @@ Industries
 * http://www.nakedcapitalism.com/2013/10/ethics-and-complex-systems.html
 * https://nplusonemag.com/online-only/help-desk/bank-robbin-in-brooklyn/
 * http://berkeleyjournal.org/2015/01/morality-and-the-idea-of-progress-in-silicon-valley/
+* http://mobile.nytimes.com/2015/05/03/magazine/want-a-steady-income-theres-an-app-for-that.html
 * http://america.aljazeera.com/multimedia/2015/4/building-miniature-dream-houses-for-the-homeless.html
 * http://www.jackhagley.com/The-World-as-100-People
 * http://www.seattletimes.com/education-lab/from-it-intern-to-it-chief-and-now-the-northwests-top-education-technology-leader-of-the-year/
