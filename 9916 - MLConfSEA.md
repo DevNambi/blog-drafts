@@ -1,6 +1,52 @@
 # MLConf Seattle
 
 
+## Microsoft - Misha
+
+* Leads ML algo team for Azure ML
+* Big learning vs. big data - training & prediction bottlenecks
+* A big area for academic innovation. 
+* Walks through the "Learning from Counts" approach, http://blogs.technet.com/b/machinelearning/archive/2015/02/17/big-learning-made-easy-with-counts.aspx . 
+	* This was also the approach to pattern tables when looking at CPU branch prediction back in the day.
+	* It's a way to deal with high-dimensional data.
+* The traditional ways are:
+	* Binary features, including one-hot approaches
+	* Hashing algorithms
+	* But they don't support temporal changes well, run into scale issues, and only work for linear learners (unless you use kernel tricks)
+* This algorithm is used extensively in online advertising, intrusion detection, fraud detection
+
+
+## Managing ML Projects/Teams in Industry
+
+* Eva D, manager at Facebook
+* Be careful when picking a lead. Traditional approaches are pick the most senior researcher, which always fails.
+* You need somebody with a combination of research, engineering and human-management experience, even if they're weak in all 3 areas.
+* Centralized research is necessary - embedded research nearly always fails.
+* Think about certain kinds of statistical significance - seasonality and novelty play a big role.
+* Lots and lots of discussions around A/B testing and significance
+* How to make an impact: plan for failure tobe valuable, and figure out how to measure long-term effects
+
+
+## Xavier A, from Quora
+
+* Mission is to share/grow the world's answers. A Q&A site, competes with Wikipedia
+* Good answers have a combination of relevance, quality and demand.
+* "Interesting" = topically relevant, socially relevant and timely.
+* Duplicate questions are fiendishly hard to detect
+* Trust/expertise propagates through a network. 
+* "Trending" is a good discovery mechanism
+* Best way to get high-accuracy results: moderation queues, with ML feeding the queue priority.
+* Models used
+	* Elastic nets, neural nets
+	* Lambdamart, for ranking questions
+	* LDA
+	* Matrix factorization
+	* Random forests
+	* Logistic regression
+	* Gradient-boosted trees
+* Quora is staffed by 110 people, 75 in engineering. 
+
+
 ## Ivy Zhu, Intel Labs
 
 * Real-time brain decoding. 

@@ -232,6 +232,7 @@
 * http://www.quora.com/What-are-20-questions-to-detect-fake-data-scientists
 * http://www.wsj.com/article_email/artificial-intelligence-experts-are-in-high-demand-1430472782-lMyQjAxMTA1MzA2MTMwNTEyWj
 * http://treycausey.com/hiring_data_scientists.html
+* http://www.gallamine.com/2015/05/a-day-in-life-of-data-scientist-part-1.html
 
 
 
