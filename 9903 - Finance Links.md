@@ -16,6 +16,7 @@
 * http://www.nakedcapitalism.com/2015/03/coming-china-crisis.html
 * http://www.newyorker.com/magazine/2015/04/06/born-red
 * http://mobile.nytimes.com/2015/05/01/business/dealbook/china-rethinks-safety-net-for-its-banking-system.html
+* http://www.nakedcapitalism.com/2015/04/wolf-richter-australia-runs-luck-now-needs-miracle.html
 
 
 ## Europe
@@ -71,6 +72,7 @@
 * http://www.nakedcapitalism.com/2015/03/troika-tightening-the-noose-on-greece-as-government-cash-crunch-worsens.html
 * http://www.nakedcapitalism.com/2015/03/troikas-leverage-greece-ongoing-bank-run.html
 * http://www.nakedcapitalism.com/2015/04/greece-plans-miss-imf-payment-issues-drachma-threat.html
+* http://www.nakedcapitalism.com/2015/05/syriza-emulates-nixon-going-china-bad-way.html
 
 
 
@@ -213,6 +215,7 @@
 * http://roarmag.org/2015/02/london-middle-class-culture-poverty/ <- eloquent
 * http://www.nakedcapitalism.com/2015/02/wolf-richter-something-rotten-piling-economy.html
 * http://www.scientificamerican.com/article/economic-inequality-it-s-far-worse-than-you-think/
+* http://www.nakedcapitalism.com/2015/05/ilargi-sucking-spoilt-milk-bloated-dead-sow.html
 * http://imgur.com/a/gt2Gb <- where do rich people live?
 * http://www.salon.com/2015/02/10/5_facts_that_show_half_of_america_is_seriously_struggling_partner/
 * https://www.propublica.org/article/the-demolition-of-workers-compensation

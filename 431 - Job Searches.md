@@ -64,6 +64,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://blog.ketyov.com/2014/03/the-passion-trap.html">The Passion Trap</a></li>
 <li><a href="http://markmanson.net/question">The Most Important Question of Your Life</a></li>
 <li><a href="http://sectorexplorer.com/">Sector Explorer</a></li>
+<li><a href="http://www.bloombergview.com/articles/2015-05-04/goldman-s-self-defeating-case-against-serge-aleynikov">Don't Work For Wall Street</a></li>
 </ul>
 
 

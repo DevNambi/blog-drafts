@@ -391,6 +391,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://highereddatastories.blogspot.com/2015/03/how-admissions-has-changed-in-one-chart.html
 * http://www.vice.com/read/i-ghostwrote-hundreds-of-chinese-students-ivy-league-admissions-essays-897
 * http://blogs.seattletimes.com/educationlab/2014/10/24/how-i-got-into-college-students-will-share-stories-nov-15/
+* http://www.nytimes.com/2015/05/05/opinion/the-big-problem-with-the-new-sat.html?_r=0
 
 
 
@@ -494,6 +495,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.theatlantic.com/business/archive/2015/04/for-profit-colleges-here-to-stay/389045/
 * http://www.nakedcapitalism.com/2015/04/possible-board-directors-cooper-union-not-resigned-shame.html
 * https://www.insidehighered.com/news/2015/05/01/sanders-enters-presidential-campaign-and-touts-free-tuition-plan
+* http://www.nytimes.com/2015/05/04/education/for-profit-colleges-face-a-loan-strike-by-thousands-claiming-trickery.html
 
 
 #### Adjuncts and Grad Students

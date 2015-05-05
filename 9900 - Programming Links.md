@@ -231,6 +231,7 @@
 * http://envisage-project.eu/proving-android-java-and-python-sorting-algorithm-is-broken-and-how-to-fix-it/#sec2
 * http://wesmckinney.com/blog/whats-changed/
 * http://www.furtherfield.org/features/articles/why-arent-we-reading-turing
+* http://lwn.net/SubscriberLink/641779/474137b50693725a/
 
 
 
@@ -298,6 +299,7 @@
 * http://aws.amazon.com/blogs/aws/new-aws-directory-service/
 * http://www.hokstad.com/docker/patterns
 * https://www.backblaze.com/blog/petabytes-on-a-budget-how-to-build-cheap-cloud-storage-2/
+* http://www.cringely.com/2015/04/27/aws-shows-cloud-is-not-a-high-margin-business/
 * http://techcrunch.com/2015/04/20/microsoft-announces-azure-service-fabric-a-new-framework-for-building-scalable-cloud-services/
 * http://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time
 * http://www.extremetech.com/mobile/204340-did-tsmcs-20nm-process-harm-qualcomms-snapdragon-810

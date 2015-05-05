@@ -5,6 +5,7 @@
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
 * http://countercurrentnews.com/2015/02/leaked-police-department-memo-threatens-black-officers/
 * http://www.reddit.com/r/news/comments/314z1z/woman_arrested_for_resisting_arrest_after_putting/
+* http://www.nytimes.com/2015/05/05/us/negative-view-of-us-race-relations-grows-poll-finds.html
 * http://www.seattletimes.com/seattle-news/family-military-tactics-by-cops-led-to-killing/
 * http://countercurrentnews.com/2015/03/calvon-reid-i-cant-breathe-ccpd-florida/
 * https://popehat.com/2015/04/29/cops-we-need-rights-more-than-you-citizen/
@@ -16,6 +17,7 @@
 * http://www.seattletimes.com/seattle-news/spd-back-after-closing-up-shop/
 * http://www.washingtonpost.com/local/education/free-range-parents-plan-to-file-lawsuit-after-police-pick-up-children/2015/04/14/ed4f7658-e2b7-11e4-b510-962fcfabc310_story.html?postshare=7531429036953332
 * http://www.nytimes.com/2015/03/03/us/prosecutors-to-seek-death-penalty-in-murders-of-arab-american-students.html
+* http://arstechnica.com/tech-policy/2015/05/04/video-of-cop-killing-man-wont-be-public-until-footage-is-played-at-trial/
 * https://twitter.com/kreiggers/status/594004370431217665
 * http://reason.com/blog/2015/04/23/town-where-us-marshal-smashed-citizens-c
 * http://bigstory.ap.org/article/4f0e2a7d5a884274a7798bbdfd79d3c4/ex-drug-officer-says-he-stole-cash-planted-drugs-many-times
