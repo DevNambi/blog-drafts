@@ -208,6 +208,7 @@
 * https://medium.com/business-erin/what-your-product-manager-really-means-429b1ad10aae
 * https://teamgantt.com/guide-to-project-management/
 * https://localizejs.com/blog/startup/developer-productivity-saying-no
+* https://unwiredcouch.com/2015/05/04/project-management.html
 
 
 

@@ -18,7 +18,6 @@
 * Lots of clever engineering to speed it up. 
 
 
-
 ## Netflix
 
 * Generate ranking of items w/ respect to different items: topic-sensitive PageRank
@@ -36,7 +35,8 @@
 * Discovers clusters/topics of related videos from Netflix data. 
 * Solution: read conditional dependencies in the model. Most graphical algos use this.
 * Use Gibbs sampler
-* Now it's over my head. 
+* Now it's over my head.
+* This is a great here's-how-I-did-it presentation
 
 ## Carlos Guestrin
 
@@ -149,4 +149,5 @@
 
 ## Sergei Razin, SIOS
 
-* Using ML to run a data center. 
+* Using ML to run a data center.
+* Doesn't talk about ML to predict VM utilization, dense-packing. Performance isolation is a thing. 

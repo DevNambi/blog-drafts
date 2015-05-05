@@ -11,6 +11,7 @@
 * http://blog.karma.wiki/post/116870055382/the-curious-case-of-artem-andreenko
 * https://hbr.org/2013/12/how-google-sold-its-engineers-on-management/ar/1
 * https://hbr.org/2015/04/heres-how-managers-can-be-replaced-by-software <- AWESOME. Payback is divine.
+* https://hbr.org/2014/11/the-hard-data-on-being-a-nice-boss
 * http://www.inc.com/magazine/20090401/how-hard-could-it-be-employees-negotiate-pay-raises.html
 * http://www.dailykos.com/story/2014/07/08/1312523/-These-Two-Studies-Turn-Wall-Street-s-Economic-Argument-On-Its-Head
 * http://tim.dreamwidth.org/1890351.html
