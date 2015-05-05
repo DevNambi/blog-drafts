@@ -17,6 +17,8 @@
 * http://www.wsj.com/articles/the-man-who-hacks-your-people-1429499479
 * http://www.extremetech.com/computing/199978-samsung-is-still-lying-about-the-encryption-on-its-smart-tvs
 * http://krebsonsecurity.com/2015/04/a-day-in-the-life-of-a-stolen-healthcare-record/
+* http://arstechnica.com/information-technology/2015/05/04/microsoft-bangs-the-cybersecurity-drum-with-advanced-threat-analytics/
+* http://arstechnica.com/security/2015/05/04/super-secretive-malware-wipes-hard-drive-to-prevent-analysis/
 * http://offbeathome.com/2015/03/internet-security-tips
 * http://arstechnica.com/security/2015/01/wireless-device-in-two-million-cars-wide-open-to-hacking/
 * http://blogs.technet.com/b/johnla/archive/2015/04/26/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win.aspx

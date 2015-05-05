@@ -28,6 +28,7 @@
 * http://www.washingtonpost.com/blogs/the-fix/wp/2015/01/18/with-snowden-in-the-background-privacy-takes-a-back-seat-to-security/
 * http://crashoverridenetwork.tumblr.com/post/113748237272/guide-talking-to-family-police
 * https://www.kickstarter.com/projects/augustgermar/anonabox-a-tor-hardware-router
+* http://www.extremetech.com/internet/180485-the-ultimate-guide-to-staying-anonymous-and-protecting-your-privacy-online
 * http://www.theguardian.com/technology/2015/feb/13/apple-ceo-tim-cook-challenges-obama-privacy
 * http://arstechnica.com/tech-policy/2015/03/we-know-where-youve-been-ars-acquires-4-6m-license-plate-scans-from-the-cops/
 * https://www.schneier.com/blog/archives/2015/03/data_and_goliat_3.html
