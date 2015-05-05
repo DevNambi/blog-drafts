@@ -617,6 +617,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://deepdive.stanford.edu/ <- AMAZING
 * https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/ <- AMAZINGLY GOOD
 * https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/ <- critical!
+* https://aphyr.com/posts/324-call-me-maybe-aerospike <- amazing
 
 
 
