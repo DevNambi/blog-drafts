@@ -501,6 +501,7 @@
 * http://crastina.se/theres-no-projects-like-side-projects/
 * http://jeremykun.com/2015/02/16/a-proofless-introduction-to-information-theory/
 * http://arstechnica.com/information-technology/2015/02/the-big-deal-about-big-data-your-guide-to-what-the-heck-it-actually-means/
+* http://www.marketingdistillery.com/2015/05/03/the-inconvenient-truth-about-data-science/
 
 Peter Norvig Quote: "More data beats clever algorithms, but better data beats more data."
 
