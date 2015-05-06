@@ -83,6 +83,8 @@ Emphasize what we don't know
 
 
 * http://forecast.io/raw/
+* http://arstechnica.com/science/2015/05/three-pennsylvania-wells-likely-contaminated-by-fracking/
+* http://arstechnica.com/science/2015/05/how-we-cut-carbon-emissions-influences-our-health/
 * http://www.bloomberg.com/news/articles/2015-04-12/saudi-arabia-s-plan-to-extend-the-age-of-oil
 * http://arstechnica.com/science/2015/04/30/salty-groundwater-supports-life-in-antarcticas-extreme-dry-valleys/
 * http://www.extremetech.com/extreme/202579-global-investment-in-renewable-energy-skyrockets
