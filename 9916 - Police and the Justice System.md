@@ -6,6 +6,7 @@
 * http://www.nytimes.com/2015/05/06/us/police-struggle-with-loss-of-privileged-position.html
 * http://www.nytimes.com/2015/05/07/us/mayor-stephanie-rawlings-blake-asks-justice-department-to-review-baltmore-police.html
 * http://www.nytimes.com/2015/05/10/magazine/our-demand-is-simple-stop-killing-us.html
+* http://www.thestranger.com/news/feature/2015/05/06/22172178/what-two-programmers-have-revealed-so-far-about-seattle-police-officers-who-are-still-in-uniform
 * http://countercurrentnews.com/2015/02/leaked-police-department-memo-threatens-black-officers/
 * http://www.reddit.com/r/news/comments/314z1z/woman_arrested_for_resisting_arrest_after_putting/
 * http://www.nytimes.com/2015/05/05/us/negative-view-of-us-race-relations-grows-poll-finds.html
