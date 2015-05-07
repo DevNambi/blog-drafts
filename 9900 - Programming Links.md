@@ -323,6 +323,8 @@
 * http://windowsitpro.com/cloud/hp-cloud-were-all-out
 * http://kubernetesio.blogspot.com/2015/04/borg-predecessor-to-kubernetes.html
 * http://bits.blogs.nytimes.com/2015/04/07/hp-comes-to-terms-with-the-cloud/?_r=0
+* http://arstechnica.com/gadgets/2015/05/amd-admits-it-cant-be-the-cheaper-solution-will-refocus-on-performance/
+
 
 
 

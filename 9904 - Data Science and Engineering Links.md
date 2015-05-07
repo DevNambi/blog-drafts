@@ -387,6 +387,7 @@
 * http://setosa.io/ev/eigenvectors-and-eigenvalues/
 * http://techeffigytutorials.blogspot.com/2015/02/the-genetic-algorithm-explained.html
 * http://www.machinedlearnings.com/2015/02/adversarial-scenarios-and-economies-of.html
+* http://radar.oreilly.com/2015/05/the-tensor-renaissance-in-data-science.html
 
 
 
