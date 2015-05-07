@@ -103,6 +103,7 @@
 * http://www.geekwire.com/2015/cheezburger-ceo-ben-huh-fears-leadership-greatest-lie-thats-told-entrepreneurs/
 * https://medium.com/everything-about-startups-and-entrepreneurship/how-quitting-my-corporate-job-for-my-startup-dream-f-cked-my-life-up-3b6b3e29b318
 * https://medium.com/matter/the-shut-in-economy-ec3ec1294816
+* http://www.theawl.com/2015/05/leaving-new-york-and-also-technology
 
 
 ## Misc

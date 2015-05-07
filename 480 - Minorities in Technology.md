@@ -19,6 +19,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * http://arstechnica.com/science/2015/04/gender-balance-in-small-groups-makes-a-big-difference-for-women-in-stem/
 * http://www.latimes.com/business/la-fi-women-tech-20150222-story.html#page=1
 * http://www.geekwire.com/2015/insights-from-a-gamergate-target-how-to-protect-yourself-from-harassment-online/
+* http://www.thenation.com/blog/206025/capitalism-and-slavery
 * https://devmynd.com/blog/2015-2-mind-the-gap
 * https://www.linkedin.com/pulse/my-jaw-dropped-ah-ha-manager-moment-sallie-krawcheck
 * http://www.bustle.com/articles/63466-im-brianna-wu-and-im-risking-my-life-standing-up-to-gamergate

@@ -137,6 +137,7 @@
 * https://threatpost.com/equation-apt-group-attack-platform-a-study-in-stealth/111550
 * http://www.scribd.com/doc/256849173/Snowden-Task-Force-Damage-Reports-REDACTED
 * http://www.reddit.com/r/IAmA/comments/2wwdep/we_are_edward_snowden_laura_poitras_and_glenn/
+* http://arstechnica.com/uncategorized/2015/05/phone-metadata-spying-not-authorized-by-patriot-act-appeals-court-says/
 * http://blog.cryptographyengineering.com/2014/12/on-new-snowden-documents.html
 * http://arstechnica.com/security/2014/10/nsas-core-secrets-suggests-agents-inside-firms-in-us-abroad/
 * http://blog.cryptographyengineering.com/2015/01/hopefully-last-post-ill-ever-write-on.html
@@ -144,6 +145,7 @@
 * http://arstechnica.com/tech-policy/2015/02/yahoo-exec-goes-mano-a-mano-with-nsa-director-over-crypo-backdoors/
 * http://www.washingtonpost.com/world/national-security/google-says-it-fought-gag-orders-in-wikileaks-investigation/2015/01/28/e62bfd04-a5c9-11e4-a06b-9df2002b86a0_story.html
 * http://www.newscientist.com/article/dn26801-mass-surveillance-not-effective-for-finding-terrorists.html
+* http://www.reuters.com/article/2015/05/07/us-usa-security-nsa-idUSKBN0NS1IN20150507
 * http://www.spiegel.de/international/world/regin-malware-unmasked-as-nsa-tool-after-spiegel-publishes-source-code-a-1015255.html
 * http://www.nationaljournal.com/tech/edward-snowden-is-more-admired-than-president-obama-in-germany-and-russia-20150205
 * http://www.reuters.com/article/2015/02/16/us-usa-cyberspying-idUSKBN0LK1QV20150216

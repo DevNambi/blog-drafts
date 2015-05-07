@@ -233,6 +233,7 @@
 * http://www.wsj.com/article_email/artificial-intelligence-experts-are-in-high-demand-1430472782-lMyQjAxMTA1MzA2MTMwNTEyWj
 * http://treycausey.com/hiring_data_scientists.html
 * http://www.gallamine.com/2015/05/a-day-in-life-of-data-scientist-part-1.html
+* http://mashable.com/2015/05/07/hiring-a-data-scientist/
 
 
 
@@ -437,6 +438,7 @@
 * http://totems.co/blog/comparison-image-hashing-libraries/
 * http://cs.stanford.edu/people/karpathy/deepimagesent/
 * http://blog.yhathq.com/posts/image-processing-with-scikit-image.html
+* http://karpathy.github.io/2012/10/22/state-of-computer-vision/
 
 
 
@@ -472,6 +474,7 @@
 * http://benanne.github.io/2015/03/17/plankton.html <- incredibly detailed
 * http://www.thestar.com/news/world/2015/04/17/how-a-toronto-professors-research-revolutionized-artificial-intelligence.html
 * http://blog.dato.com/practical-text-analysis-using-deep-learning
+* http://www.slideshare.net/dato-inc/strata-london-deep-learning-052015
 
 
 ## Learning

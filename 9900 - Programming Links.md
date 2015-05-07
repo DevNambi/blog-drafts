@@ -324,6 +324,7 @@
 * http://kubernetesio.blogspot.com/2015/04/borg-predecessor-to-kubernetes.html
 * http://bits.blogs.nytimes.com/2015/04/07/hp-comes-to-terms-with-the-cloud/?_r=0
 * http://arstechnica.com/gadgets/2015/05/amd-admits-it-cant-be-the-cheaper-solution-will-refocus-on-performance/
+* http://www.extremetech.com/gaming/203590-amd-takes-a-beating-in-q1-abandons-seamicro-dense-server-business
 
 
 
@@ -363,6 +364,7 @@
 * https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/
 * https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ
 * https://speakerdeck.com/jakevdp/losing-your-loops-fast-numerical-computing-with-numpy-pycon-2015
+* https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python
 
 
 * AWS IPython: Start IPYNB on EC2 machine. ssh -L 8889:localhost:8888 user@awsip.com. Go to localhost:8889 in local browser. Super quick IPYNB cloud
