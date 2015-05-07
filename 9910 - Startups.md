@@ -27,6 +27,7 @@
 
 
 * http://recode.net/2015/03/11/cloud-subscription-software-player-zuora-lands-115-million/
+* http://www.nickkolenda.com/psychological-pricing-strategies/
 
 
 ## Customers
