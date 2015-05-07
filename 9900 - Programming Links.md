@@ -575,6 +575,9 @@ things they believe in will keep </a></li>
 * http://www.1024cores.net/home/lock-free-algorithms/queues
 * http://kukuruku.co/hub/cpp/lock-free-data-structures-yet-another-treatise
 * http://research.google.com/pubs/pub43438.html
+* http://kukuruku.co/hub/cpp/lock-free-data-structures-exploring-queues
+* http://julesjacobs.github.io/2015/05/06/exponentially-decaying-likes.html
+
 
 
 ## Funny

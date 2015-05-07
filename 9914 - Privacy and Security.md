@@ -27,6 +27,7 @@
 * http://techcrunch.com/2014/10/11/edward-snowden-new-yorker-festival/
 * http://www.washingtonpost.com/blogs/the-fix/wp/2015/01/18/with-snowden-in-the-background-privacy-takes-a-back-seat-to-security/
 * http://crashoverridenetwork.tumblr.com/post/113748237272/guide-talking-to-family-police
+* http://passcode.csmonitor.com/identity-trade
 * https://www.kickstarter.com/projects/augustgermar/anonabox-a-tor-hardware-router
 * http://www.extremetech.com/internet/180485-the-ultimate-guide-to-staying-anonymous-and-protecting-your-privacy-online
 * http://www.theguardian.com/technology/2015/feb/13/apple-ceo-tim-cook-challenges-obama-privacy
