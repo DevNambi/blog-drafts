@@ -72,6 +72,7 @@
 ## Apple
 
 * http://roadlesstravelled.me/2015/04/06/why-steve-jobs-motivated-me-to-quit-apple/
+* http://words.hunzekerhesed.com/i-am-thinking-of-returning-my-apple-watch
 
 ## IBM and other large IT companies
 
