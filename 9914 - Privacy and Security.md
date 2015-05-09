@@ -30,6 +30,7 @@
 * http://passcode.csmonitor.com/identity-trade
 * https://www.kickstarter.com/projects/augustgermar/anonabox-a-tor-hardware-router
 * http://www.extremetech.com/internet/180485-the-ultimate-guide-to-staying-anonymous-and-protecting-your-privacy-online
+* http://peter-whittaker.com/the-right-time-to-refuse/
 * http://www.theguardian.com/technology/2015/feb/13/apple-ceo-tim-cook-challenges-obama-privacy
 * http://arstechnica.com/tech-policy/2015/03/we-know-where-youve-been-ars-acquires-4-6m-license-plate-scans-from-the-cops/
 * https://www.schneier.com/blog/archives/2015/03/data_and_goliat_3.html

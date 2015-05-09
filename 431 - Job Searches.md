@@ -268,6 +268,7 @@ http://www.computerworld.com/article/2879083/southern-california-edison-it-worke
 <li><a href="http://blog.alinelerner.com/why-talent-agents-for-engineers-dont-exist/">Why talent agents for engineers don’t exist</a></li>
 <li><a href="http://howtowriteabusinessplan.com/2012/12/engineering-salaries-at-silicon-valley-startups/" time_added="1354482705" tags="brand,hn">Engineering salaries at silicon valley startups</a></li>
 <li><a href="https://unicornhunt.io/jobs/rockstar-ninja-samurai-folk-developer-at-be-more-unicorn">Rockstar Ninja Samurai Folk Developer - Be More Unicorn</a></li>
+<li><a href="https://medium.com/@oscargodson/how-zenefits-just-lost-an-engineer-3f09898dbcf9">How Zenefits just lost an engineer</a></li>
 </ul>
 
 **Other**
