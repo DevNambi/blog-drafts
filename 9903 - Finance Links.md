@@ -327,6 +327,7 @@
 * http://www.mrmoneymustache.com/2011/09/30/is-a-costco-membership-worth-the-cost/
 * http://www.nytimes.com/2015/03/15/your-money/how-many-mutual-funds-routinely-rout-the-market-zero.html
 * http://www.seattletimes.com/seattle-news/data/credit-unions-still-gaining-fans-long-after-switch-from-big-banks/
+* http://www.nytimes.com/2015/05/09/your-money/some-new-math-for-the-4-percent-retirement-rule.html
 
 
 

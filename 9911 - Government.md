@@ -294,3 +294,4 @@
 * http://www.nytimes.com/2015/03/20/opinion/paul-krugman-trillion-dollar-fraudsters.html
 * http://www.nakedcapitalism.com/2015/03/new-american-order.html
 * http://www.kansascity.com/opinion/editorials/article19411242.html#/tabPane=tabs-b0710947-1-1
+* http://www.nytimes.com/2015/05/10/us/billionaire-lifts-marco-rubio-politically-and-personally.html

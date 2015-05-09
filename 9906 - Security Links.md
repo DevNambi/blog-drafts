@@ -163,6 +163,7 @@
 * http://arstechnica.com/tech-policy/2015/04/former-cia-directors-no-jail-sentence-for-leaking-decried-as-gross-hypocrisy/
 * http://arstechnica.com/tech-policy/2015/04/30/irate-congressman-gives-cops-easy-rule-just-follow-the-damn-constitution/
 * https://www.eff.org/deeplinks/2015/04/new-usa-freedom-act-step-right-direction-more-must-be-done
+* http://www.wired.com/2015/05/nsa-actual-skynet-program/
 
 <li><a href="http://rt.com/usa/news/surveillance-spying-e-mail-citizens-178/" time_added="1354678483" tags="hn,important,personal tech">'Everyone in US under virtual surveillance' - NSA whistleblower — RT</a></li>
 
