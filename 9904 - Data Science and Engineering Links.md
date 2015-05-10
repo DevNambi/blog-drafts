@@ -235,6 +235,13 @@
 * http://www.gallamine.com/2015/05/a-day-in-life-of-data-scientist-part-1.html
 * http://mashable.com/2015/05/07/hiring-a-data-scientist/
 
+**Hiring at Dropbox**
+
+* Give a data set
+* Any two hours you want, whatever tools you want
+* Present at the end of it.
+* Key to make money in life: people will pay you money to do things they find tedious and boring and un-fun. Do it, and that's your career.
+
 
 
 ## Stats
