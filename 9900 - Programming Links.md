@@ -76,6 +76,7 @@
 * http://danluu.com/testing/
 * http://motherboard.vice.com/read/the-simple-elegant-algorithm-that-makes-google-maps-possible
 * https://software.intel.com/en-us/blogs/2015/04/22/the-last-line-effect
+* http://kevinlondon.com/2015/05/05/code-review-best-practices.html
 
 
 
