@@ -516,6 +516,11 @@
 
 Peter Norvig Quote: "More data beats clever algorithms, but better data beats more data."
 
+* All problems in computer science can be solved by another level of indirection
+* All problems in ML can be solved by another level of dimensionality, except for the problem of too many dimensions.
+* All problems in ML can be solved by higher order processing, except for the problem of higher order processing.
+
+
 
 ## Funny
 
