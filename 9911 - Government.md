@@ -296,3 +296,4 @@
 * http://www.nakedcapitalism.com/2015/03/new-american-order.html
 * http://www.kansascity.com/opinion/editorials/article19411242.html#/tabPane=tabs-b0710947-1-1
 * http://www.nytimes.com/2015/05/10/us/billionaire-lifts-marco-rubio-politically-and-personally.html
+* http://mobile.nytimes.com/2015/05/12/us/politics/as-middle-class-fades-so-does-use-of-term-on-campaign-trail.html

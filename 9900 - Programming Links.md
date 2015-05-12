@@ -68,7 +68,7 @@
 
 @dhh: “Coding isn’t the poor handmaiden of design or analysis. Coding is where your fuzzy ideas awaken in the harsh dawn of reality”
 
-### Complexity
+### Complexity, Code Reviews
 
 * http://www.theeffectiveengineer.com/blog/hidden-costs-that-engineers-ignore
 * http://www.drmaciver.com/2013/03/what-the-fuck-are-we-doing/
@@ -77,6 +77,7 @@
 * http://motherboard.vice.com/read/the-simple-elegant-algorithm-that-makes-google-maps-possible
 * https://software.intel.com/en-us/blogs/2015/04/22/the-last-line-effect
 * http://kevinlondon.com/2015/05/05/code-review-best-practices.html
+* http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
 
 
 

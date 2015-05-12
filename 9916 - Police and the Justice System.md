@@ -12,6 +12,7 @@
 * http://www.reddit.com/r/news/comments/314z1z/woman_arrested_for_resisting_arrest_after_putting/
 * http://www.nytimes.com/2015/05/05/us/negative-view-of-us-race-relations-grows-poll-finds.html
 * http://www.seattletimes.com/seattle-news/family-military-tactics-by-cops-led-to-killing/
+* http://www.seattletimes.com/nation-world/records-thousands-too-injured-to-enter-baltimore-jail/
 * https://www.aclu.org/blog/free-future/mysterious-planes-over-baltimore-spark-surveillance-suspicions
 * http://countercurrentnews.com/2015/03/calvon-reid-i-cant-breathe-ccpd-florida/
 * https://popehat.com/2015/04/29/cops-we-need-rights-more-than-you-citizen/
