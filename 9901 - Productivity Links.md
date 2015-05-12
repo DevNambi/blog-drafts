@@ -177,6 +177,7 @@ Embrace awkwardness more
 * http://www.wired.com/?p=1663621&preview_id=1663621%2F
 * http://techreport.com/review/28111/tr-april-2015-peripheral-staff-picks
 * http://www.extremetech.com/extreme/175089-who-makes-the-most-reliable-hard-drives
+* http://techreport.com/review/28198/the-tech-report-system-guide-may-2015-edition
 
 
 

@@ -39,6 +39,7 @@
 * http://www.fastcompany.com/3039887/under-fire
 * http://recode.net/2015/01/13/how-amazon-tricks-you-into-thinking-it-always-has-the-lowest-prices/
 * http://www.bloomberg.com/news/articles/2015-04-23/amazon-finally-discloses-cloud-services-sales-showing-49-jump
+* http://arstechnica.com/gadgets/2015/05/google-temporarily-shuts-down-map-maker-due-to-vandalism/
 
 
 

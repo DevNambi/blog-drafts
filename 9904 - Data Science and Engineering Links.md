@@ -234,6 +234,7 @@
 * http://treycausey.com/hiring_data_scientists.html
 * http://www.gallamine.com/2015/05/a-day-in-life-of-data-scientist-part-1.html
 * http://mashable.com/2015/05/07/hiring-a-data-scientist/
+* http://www.datascienceassn.org/content/demand-data-scientists-data-engineers
 
 **Hiring at Dropbox**
 

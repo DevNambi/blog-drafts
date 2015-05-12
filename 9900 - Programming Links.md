@@ -123,6 +123,7 @@
 * http://singularityhub.com/2014/12/28/future-of-work-part-ii-why-teaching-everyone-to-code-is-delusional/ 
 * http://www.joshbarczak.com/blog/?m=201501
 * https://docs.google.com/document/d/1rU5-t09tEBym1wD3NUr7s9mMgFBmfGJNBz3F8TGzDsU/preview?sle=true&pli=1
+* https://www.google.com/about/careers/students/guide-to-technical-development.html <- great
 
 
 
@@ -327,6 +328,10 @@
 * http://bits.blogs.nytimes.com/2015/04/07/hp-comes-to-terms-with-the-cloud/?_r=0
 * http://arstechnica.com/gadgets/2015/05/amd-admits-it-cant-be-the-cheaper-solution-will-refocus-on-performance/
 * http://www.extremetech.com/gaming/203590-amd-takes-a-beating-in-q1-abandons-seamicro-dense-server-business
+* http://arstechnica.com/gadgets/2015/05/mediatek-escalates-the-multicore-madness-with-a-10-core-smartphone-soc/
+* http://www.extremetech.com/computing/205382-ssds-can-lose-data-in-as-little-as-7-days-without-power
+* http://www.extremetech.com/extreme/205231-memristors-linked-into-neural-network-arrays
+
 
 
 
@@ -474,6 +479,7 @@
 * http://www.sqlteaching.com/
 * https://aphyr.com/posts/322-call-me-maybe-mongodb-stale-reads
 * http://0a.io/0a-explains-set-theory-and-axiomatic-systems-with-pics-and-gifs
+* http://cs-blog.khanacademy.org/2015/05/just-released-full-introductory-sql.html
 
 <li><a href="http://t.co/ZA3MOe15" time_added="1357660034" tags="">mrdenny: Reading: http://t.co/ZA3MOe15 Selective XML Index - Secondary Sele</a></li>
 <li><a href="http://t.co/wHxcpOOC" time_added="1356371201" tags="">BrentOzarULTD: New post: sp_BlitzIndex™ Holiday Week Edition http://t.co/wH</a></li>
