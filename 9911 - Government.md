@@ -170,6 +170,7 @@
 * http://mobile.nytimes.com/2014/12/26/us/politics/high-level-knowledge-before-veterans-affairs-scandal.html?_r=0
 * http://www.theatlantic.com/features/archive/2014/12/the-tragedy-of-the-american-military/383516/
 * http://www.laphamsquarterly.org/foreigners/enemy-aliens
+* http://www.nakedcapitalism.com/2015/05/cia-whistleblower-sentenced-to-42-months-based-on-metadata.html
 
 
 <li><a href="https://medium.com/war-is-boring/db72a8a23ccf" time_added="1405546931" tags="">Your Periodic Reminder That the V-22 Is a Piece of Junk — War is Boring — M</a></li>

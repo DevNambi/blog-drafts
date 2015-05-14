@@ -18,6 +18,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://www.washingtonpost.com/news/morning-mix/wp/2015/03/27/fabricated-peer-reviews-prompt-scientific-journal-to-retract-43-papers-systematic-scheme-may-affect-other-journals/?postshare=5031427452343393
 * http://pipeline.corante.com/archives/2015/03/12/the_end_of_synthesis.php
 * http://arstechnica.com/science/2015/01/new-survey-shows-extent-of-scientists-divide-with-the-public/
+* http://www.extremetech.com/extreme/205515-astronomers-bypass-visible-light-to-map-our-galaxys-structure
 * http://cliffmass.blogspot.com/2015/04/media-miscommunication-about-blob.html
 * http://www.wired.com/?p=1268781&preview_id=1268781%2F
 * http://www.emc.ncep.noaa.gov/GFS/code.php

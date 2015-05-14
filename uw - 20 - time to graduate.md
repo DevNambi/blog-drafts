@@ -3,6 +3,8 @@
 In my [last post](http://blogs.uw.edu/fractals/introduction/), I introduced myself and gave some background into data science in academia. This time, I want to look at a single big challenge: time to graduate.
 
 
+http://www.thetakeaway.org/story/access-and-excellence-campus/
+
 ## Leverage
 
 *"Always work on the thing with the highest leverage" - Aaron Swartz* (FIX_QUOTE)

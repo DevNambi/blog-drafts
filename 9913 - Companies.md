@@ -128,6 +128,7 @@
 * http://www.businessinsider.com/att-gigapower-tackles-google-fiber-in-kansas-city--but-its-charging-more-for-privacy-2015-2
 * http://arstechnica.com/business/2015/02/time-warner-cable-calls-customer-ct-after-she-reports-cable-box-problem/
 * http://arstechnica.com/business/2015/04/google-fiber-plans-expansion-then-twc-makes-speeds-six-times-faster/
+* http://blog.longreads.com/2015/05/12/a-brief-history-of-aol/
 
 
 ## Google

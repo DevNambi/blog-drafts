@@ -49,6 +49,7 @@
 * http://www.nytimes.com/2014/10/17/opinion/the-dark-market-for-personal-data.html
 * http://techcrunch.com/2014/12/28/mining-the-hive-mind/
 * http://arstechnica.com/security/2015/01/survey-says-security-products-waste-our-time/
+* http://techreport.com/news/28261/bittorrent-bleep-brings-encrypted-messaging-to-multiple-platforms
 * http://www.truste.com/us-consumer-confidence-index-2015/
 * http://www.theguardian.com/media/2014/oct/17/-sp-whisper-tracking-location-users-facts-response
 * https://medium.com/backchannel/how-bitcoins-blockchain-could-power-an-alternate-internet-bb501855af67
