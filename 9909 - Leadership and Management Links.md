@@ -17,6 +17,7 @@
 * http://tim.dreamwidth.org/1890351.html
 * http://firstround.com/article/This-is-Why-People-Leave-Your-Company
 * https://michaelochurch.wordpress.com/2014/02/06/if-you-stop-promoting-from-within-soon-you-cant/
+* http://blog.fogcreek.com/how-to-find-hire-and-retain-developers-interview-with-cal-evans/
 * http://the-toast.net/2014/10/27/employer-put-fml-fmla/
 * http://queue.acm.org/detail.cfm?id=2685692
 * http://michaelochurch.wordpress.com/2014/02/06/if-you-stop-promoting-from-within-soon-you-cant/

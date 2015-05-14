@@ -90,6 +90,7 @@
 * http://recode.net/2015/04/21/silicon-valleys-maturity-problem/
 * https://medium.com/backchannel/why-silicon-valley-will-continue-to-rule-c0cbb441e22f
 * http://recode.net/2015/05/07/searching-for-the-next-stanford-silicon-valley-turns-its-eyes-to-berkeley/
+* https://stories.californiasunday.com/2015-06-07/real-teenagers-silicon-valley
 
 
 
