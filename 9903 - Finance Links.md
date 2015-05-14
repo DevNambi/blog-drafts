@@ -17,6 +17,7 @@
 * http://www.newyorker.com/magazine/2015/04/06/born-red
 * http://mobile.nytimes.com/2015/05/01/business/dealbook/china-rethinks-safety-net-for-its-banking-system.html
 * http://www.nakedcapitalism.com/2015/04/wolf-richter-australia-runs-luck-now-needs-miracle.html
+* http://wolfstreet.com/2015/05/12/us-automakers-sag-in-chinas-downturn/
 
 
 ## Europe
@@ -345,6 +346,7 @@
 * http://mobile.nytimes.com/2014/11/16/opinion/sunday/warning-signs-from-commodity-prices.html
 * http://www.nakedcapitalism.com/2014/12/saudis-tell-shale-industry-will-break-plans-keep-pumping-even-20-barrel.html
 * http://www.theguardian.com/environment/earth-insight/2014/mar/14/nasa-civilisation-irreversible-collapse-study-scientists
+* http://www.nakedcapitalism.com/2015/05/wolf-richter-why-the-heck-is-the-trucking-business-slowing-down.html
 
 ## Misc
 
