@@ -81,6 +81,7 @@
 ## Elsewhere in the World
 
 * http://www.nakedcapitalism.com/2014/12/don-quijones-mexico-verge-new-tequila-crisis.html
+* http://wolfstreet.com/2015/05/14/brazil-just-getting-worse-and-worse-threatens-macro-and-financial-stability/
 
 
 ## Bank & Regulatory Corruption
