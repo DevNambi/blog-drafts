@@ -62,6 +62,7 @@
 * http://www.brentozar.com/archive/2015/02/slow-not-metric/ <- baselines, baselines, baselines
 * http://blog.samaltman.com/the-software-revolution
 * http://spin.atomicobject.com/2015/02/19/software-architect-role/
+* http://arstechnica.com/information-technology/2015/05/the-discovery-of-apache-zookeepers-poison-packet/ <- brilliant troubleshooting & debugging
 
 
 @joshuajames Posit: the failure of most "system thinking" is in thinking the system is like a machine rather than an ecology.

@@ -487,6 +487,11 @@
 * http://www.slideshare.net/dato-inc/strata-london-deep-learning-052015
 
 
+#### ML Tools
+
+* https://blog.onliquid.com/machine-learning-service-benchmark/
+
+
 ## Learning
 
 <li><a href="http://www-nlp.stanford.edu/IR-book/" time_added="1356708613" tags="data science,ml">Introduction to Information Retrieval</a></li>
