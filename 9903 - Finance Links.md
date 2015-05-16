@@ -350,6 +350,7 @@
 * http://www.nakedcapitalism.com/2014/12/saudis-tell-shale-industry-will-break-plans-keep-pumping-even-20-barrel.html
 * http://www.theguardian.com/environment/earth-insight/2014/mar/14/nasa-civilisation-irreversible-collapse-study-scientists
 * http://www.nakedcapitalism.com/2015/05/wolf-richter-why-the-heck-is-the-trucking-business-slowing-down.html
+* https://medium.com/basic-income/self-driving-trucks-are-going-to-hit-us-like-a-human-driven-truck-b8507d9c5961
 
 ## Misc
 

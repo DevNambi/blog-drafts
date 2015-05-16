@@ -18,6 +18,7 @@
 * http://www.extremetech.com/computing/199978-samsung-is-still-lying-about-the-encryption-on-its-smart-tvs
 * http://krebsonsecurity.com/2015/04/a-day-in-the-life-of-a-stolen-healthcare-record/
 * http://www.extremetech.com/computing/205000-rombertik-malware-attacks-hard-drives-wipes-mbr-if-detected
+* http://arstechnica.com/security/2015/05/fbi-researcher-admitted-to-hacking-plane-in-flight-causing-it-to-climb/
 * http://arstechnica.com/security/2015/05/penn-state-severs-engineering-network-after-incredibly-serious-intrusion/
 * http://www.bbc.com/news/technology-32607618
 * http://arstechnica.com/information-technology/2015/05/04/microsoft-bangs-the-cybersecurity-drum-with-advanced-threat-analytics/

@@ -49,6 +49,7 @@
 * http://www.washingtonpost.com/lifestyle/magazine/how-to-raise-successful-children--advice-from-parents-lucky-enough-to-know/2014/12/30/54785c3c-7fe9-11e4-9f38-95a187e4c1f7_story.html
 * http://www.huffingtonpost.com/kelly-pietrangeli/how-to-get-your-child-to-listen-to-you-the-first-time_b_6572268.html
 * http://www.nytimes.com/2015/05/10/opinion/sunday/judith-shulevitz-mom-the-designated-worrier.html
+* http://qz.com/405960/most-children-are-happy-no-matter-what-but-materialism-catches-up-eventually/
 
 <li><a href="http://www.economist.com/news/united-states/21608779-there-large-class-divide-how-americans-raise-their-children-rich-parents-can" time_added="1406589833" tags="">Parenting in America: Choose your parents wisely | The Economist</a><li>
 <li><a href="http://www.nytimes.com/2014/01/15/us/as-asian-americans-age-their-children-face-cultural-hurdles.html?hp&_r=0" time_added="1389749845" tags="">As Parents Age, Asian-Americans Struggle to Obey A Cultural Code - NYTimes.</a><li>
