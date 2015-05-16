@@ -43,6 +43,7 @@
 * http://www.balkaninsight.com/en/article/the-great-leap-rightward
 * http://www.reuters.com/article/2015/02/24/us-germany-capitalism-idUSKBN0LS1AI20150224
 * http://wolfstreet.com/2015/03/04/austria-pulls-ripcord-on-bailouts-lets-bottomless-pit-hypo-alpe-bank-drag-state-of-carinthia-into-bankruptcy/
+* http://www.nakedcapitalism.com/2015/05/bill-black-new-labour-leaders-want-to-go-back-to-blairs-policies-that-blew-up-the-uk.html
 
 
 
@@ -75,6 +76,7 @@
 * http://www.nakedcapitalism.com/2015/04/greece-plans-miss-imf-payment-issues-drachma-threat.html
 * http://www.nakedcapitalism.com/2015/05/syriza-emulates-nixon-going-china-bad-way.html
 * http://www.nakedcapitalism.com/2015/05/greece-says-it-will-make-imf-payment-next-week-as-stalemate-continues.html
+* http://www.nakedcapitalism.com/2015/05/why-syriza-will-blink.html
 
 
 

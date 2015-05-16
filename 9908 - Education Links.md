@@ -434,6 +434,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://chronicle.com/article/The-Slow-Death-of-the/228991/
 * http://www.nakedcapitalism.com/2015/04/control-fraud-profit-universities-et-tu-bill-clinton.html
 * http://www.gradeinflation.com/
+* http://www.artandeducation.net/school_watch/entire-usc-mfa-1st-year-class-is-dropping-out/
 
 
 ### Student Culture, Sexual Assault, Assault
@@ -501,6 +502,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nakedcapitalism.com/2015/04/possible-board-directors-cooper-union-not-resigned-shame.html
 * https://www.insidehighered.com/news/2015/05/01/sanders-enters-presidential-campaign-and-touts-free-tuition-plan
 * http://www.nytimes.com/2015/05/04/education/for-profit-colleges-face-a-loan-strike-by-thousands-claiming-trickery.html
+* http://www.nytimes.com/2015/05/15/us/in-california-budget-plan-brown-wins-deal-on-tuition-freeze-for-in-state-students.html
 
 
 #### Adjuncts and Grad Students
