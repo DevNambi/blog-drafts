@@ -25,6 +25,7 @@
 * http://www.washingtonpost.com/news/storyline/wp/2014/12/04/people-around-you-control-your-mind-the-latest-evidence/
 * http://www.addictinginfo.org/2014/12/22/atheist-ten-commandments/
 * http://www.bakadesuyo.com/2015/04/frustrated/ <- AMAZING
+* http://www.washingtonpost.com/blogs/wonkblog/wp/2015/05/02/why-you-should-really-start-doing-more-things-alone/?tid=sm_tw
 
 
 
@@ -161,6 +162,7 @@
 * http://www.komonews.com/news/local/Eerie-quiet-at-NW-fault-where-big-one-may-shake-284634851.html
 * http://www.king5.com/story/news/2015/02/24/seattle-tunnel-partners-allegations/23972785/
 * https://racketracer.wordpress.com/2015/03/02/predicting-and-plotting-crime-in-seattle/
+* http://www.seattletimes.com/seattle-news/520-toll-gouging-stories-get-more-preposterous/
 
 
 
