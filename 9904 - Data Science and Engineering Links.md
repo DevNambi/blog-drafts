@@ -289,6 +289,7 @@
 * http://www.evanmiller.org/how-not-to-run-an-ab-test.html
 * http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego <- a great way to learn
 * http://www.benkuhn.net/squared
+* http://www.stats.org/super-learning-and-the-revolution-in-knowledge/
 
 
 

@@ -22,6 +22,7 @@ The assumption is that they were more than just smart. They also had a process a
 * http://nautil.us/issue/18/genius/if-you-think-youre-a-genius-youre-crazy
 * http://nautil.us/issue/19/illusions/the-loneliest-genius
 * http://seekingintellect.com/2014/12/17/practical-advice-from-leonardo-da-vinci-on-learning-and-honing-your-craft.html
+* http://ethanwiner.com/adultbeg.html
 
 Lessons learned from Genius
 

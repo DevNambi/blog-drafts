@@ -50,6 +50,7 @@
 * http://torrentfreak.com/in-europe-pirates-are-writing-the-copyright-law-150104/
 * http://www.politico.com/magazine/story/2015/01/you-bought-it-but-dont-own-it-and-thats-wrong-114163.html <- DRM is an attack on property rights
 * http://www.extremetech.com/computing/199152-samsung-smart-tvs-inject-ads-where-they-dont-belong
+* https://stallman.org/stallman-computing.html
 
 
 "Any time someone puts a lock on something that belongs to you and won't give you the key, the lock isn't there for your benefit" - Cory Doctorow

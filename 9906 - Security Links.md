@@ -12,6 +12,7 @@
 * http://www.nytimes.com/2015/04/16/style/keeping-your-car-safe-from-electronic-thieves.html?_r=0
 * https://krebsonsecurity.com/2015/04/whats-your-security-maturity-level/
 * http://www.foxnews.com/us/2015/04/16/security-expert-pulled-off-flight-by-fbi-after-exposing-airline-tech/
+* http://trilema.com/2015/full-disclosure-4096-rsa-key-in-the-strongset-factored/
 * http://www.nationaljournal.com/tech/mcconnell-introduces-bill-to-reauthorize-patriot-act-until-2020-20150421
 * http://blog.codinghorror.com/given-enough-money-all-bugs-are-shallow/
 * http://www.wsj.com/articles/the-man-who-hacks-your-people-1429499479
@@ -132,9 +133,10 @@
 
 
 
-#### NSA / CIA
+#### NSA / CIA / GCHQ
 
 * http://arstechnica.com/tech-policy/2014/11/us-senate-falls-2-votes-short-of-shutting-down-nsa-phone-spying/
+* http://arstechnica.co.uk/tech-policy/2015/05/uk-government-quietly-rewrites-hacking-laws-to-grant-gchq-immunity/
 * https://firstlook.org/theintercept/2015/03/10/ispy-cia-campaign-steal-apples-secrets/
 * https://threatpost.com/equation-apt-group-attack-platform-a-study-in-stealth/111550
 * http://www.scribd.com/doc/256849173/Snowden-Task-Force-Damage-Reports-REDACTED

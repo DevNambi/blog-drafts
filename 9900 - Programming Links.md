@@ -79,6 +79,7 @@
 * https://software.intel.com/en-us/blogs/2015/04/22/the-last-line-effect
 * http://kevinlondon.com/2015/05/05/code-review-best-practices.html
 * http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
+* http://nautil.us/blog/why-our-genome-and-technology-are-both-riddled-with-crawling-horrors
 
 
 
