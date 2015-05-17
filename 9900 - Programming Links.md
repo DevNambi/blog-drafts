@@ -63,6 +63,7 @@
 * http://blog.samaltman.com/the-software-revolution
 * http://spin.atomicobject.com/2015/02/19/software-architect-role/
 * http://arstechnica.com/information-technology/2015/05/the-discovery-of-apache-zookeepers-poison-packet/ <- brilliant troubleshooting & debugging
+* http://www.javaworld.com/article/2894748/core-java/7-timeless-lessons-of-programming-graybeards.html
 
 
 @joshuajames Posit: the failure of most "system thinking" is in thinking the system is like a machine rather than an ecology.
