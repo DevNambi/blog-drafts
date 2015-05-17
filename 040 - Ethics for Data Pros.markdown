@@ -63,6 +63,7 @@ We believe we are working to make our society, our world, a better place. At the
 * http://en.wikipedia.org/wiki/Precautionary_principle
 * http://www.washingtonpost.com/posteverything/wp/2014/12/29/the-relatively-simple-fix-that-could-prevent-planes-like-airasia-qz8501-from-disappearing/
 * http://arstechnica.com/science/2015/01/the-math-of-organ-donation-kidneys-are-an-np-hard-problem/
+* http://rrherr.com/2015/05/15/if-predictions-are-too-precise-is-insurance-not-insurance/ - If predictions are too precise, is insurance not insurance?
 
 
 
