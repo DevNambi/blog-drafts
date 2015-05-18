@@ -347,6 +347,7 @@
 * http://www.dataschool.io/comparing-supervised-learning-algorithms/
 * http://nbviewer.ipython.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb
 * http://www.dailyuw.com/science/article_078a3b74-eef3-11e4-b1b5-b3a9ae4725b9.html
+* http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 * https://www.kaggle.com/users/195999/henning-sperr/otto-group-product-classification-challenge/finding-ensamble-weights
 * http://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/
 * http://www.gregreda.com/2015/03/30/beer-review-markov-chains/
