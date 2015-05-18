@@ -404,7 +404,7 @@
 * http://radar.oreilly.com/2015/05/the-tensor-renaissance-in-data-science.html
 
 
-
+"ML tip: train a model to distinguish between your training set & unlabeled data. If it works, your training data may be incomplete!" - Jake Vanderplas
 
 
 
