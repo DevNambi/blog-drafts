@@ -9,6 +9,7 @@
 * http://arstechnica.com/tech-policy/2015/05/cops-must-now-get-a-warrant-to-use-stingrays-in-washington-state/
 * http://arstechnica.com/tech-policy/2015/05/warrantless-airport-search-of-laptop-cannot-be-justified-judge-rules/
 * http://www.nytimes.com/2015/05/10/magazine/our-demand-is-simple-stop-killing-us.html
+* http://watchdog.org/218867/civil-forfeiture/
 * http://www.thestranger.com/news/feature/2015/05/06/22172178/what-two-programmers-have-revealed-so-far-about-seattle-police-officers-who-are-still-in-uniform
 * http://countercurrentnews.com/2015/02/leaked-police-department-memo-threatens-black-officers/
 * http://www.washingtonpost.com/national/in-fresno-police-focus-on-building-relationships-not-making-arrests/2015/05/06/3c396f04-eab9-11e4-9a6a-c1ab95a0600b_story.html

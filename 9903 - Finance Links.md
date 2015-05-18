@@ -272,6 +272,7 @@
 * http://www.theatlantic.com/business/archive/2015/01/compared-to-previous-generations-how-bad-are-millennials-finances/384050/
 * http://www.nakedcapitalism.com/2015/05/resilience-is-the-new-black.html
 * http://www.nytimes.com/2015/05/17/upshot/dont-be-so-sure-the-economy-will-return-to-normal.html
+* http://www.fastcoexist.com/3041841/change-generation/4-things-you-probably-know-about-poverty-that-bill-and-melinda-gates-dont
 
 
 
