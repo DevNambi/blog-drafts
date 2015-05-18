@@ -12,6 +12,7 @@
 * http://www.nytimes.com/2015/04/16/style/keeping-your-car-safe-from-electronic-thieves.html?_r=0
 * https://krebsonsecurity.com/2015/04/whats-your-security-maturity-level/
 * http://www.foxnews.com/us/2015/04/16/security-expert-pulled-off-flight-by-fbi-after-exposing-airline-tech/
+* http://www.nytimes.com/2015/05/18/opinion/surveillance-without-borders.html
 * http://trilema.com/2015/full-disclosure-4096-rsa-key-in-the-strongset-factored/
 * http://www.nationaljournal.com/tech/mcconnell-introduces-bill-to-reauthorize-patriot-act-until-2020-20150421
 * http://blog.codinghorror.com/given-enough-money-all-bugs-are-shallow/
