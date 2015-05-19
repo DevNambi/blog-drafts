@@ -99,6 +99,7 @@
 ## What It Does To Your Life
 
 * http://blogs.reuters.com/felix-salmon/2014/04/21/the-most-expensive-lottery-ticket-in-the-world/
+* http://rogerhuang.co/when-you-should-quit-a-startup-job/
 * http://tiempoapp.com/y-combinator-a-two-year-old-and-a-pregnant-wife
 * http://www.wired.com/2014/04/no-exit/?hn
 * https://keen.io/blog/103052402741/how-the-culture-of-overwork-is-killing-entrepreneurs

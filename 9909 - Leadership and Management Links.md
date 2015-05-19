@@ -8,6 +8,7 @@
 * https://gist.github.com/kylebrandt/89dc754c658340e87d97
 * http://www.slideshare.net/ericschmidt76/how-google-works-final-1
 * http://www.farnamstreetblog.com/2015/02/ben-horowitz-the-law-of-crappy-people/
+* http://zachholman.com/posts/0x-engineers/
 * http://blog.karma.wiki/post/116870055382/the-curious-case-of-artem-andreenko
 * https://hbr.org/2013/12/how-google-sold-its-engineers-on-management/ar/1
 * https://hbr.org/2015/04/heres-how-managers-can-be-replaced-by-software <- AWESOME. Payback is divine.
