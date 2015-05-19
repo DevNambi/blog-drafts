@@ -22,6 +22,7 @@
 * http://www.theatlantic.com/technology/archive/2014/09/why-privacy-policies-are-so-inscrutable/379615/
 * http://arstechnica.com/security/2015/03/anti-doxing-strategy-or-how-to-avoid-50-qurans-and-287-of-chick-fil-a/ <- incredibly important read
 * http://seattletimes.com/html/businesstechnology/2025244750_apxtecidentitytheftthehassle.html
+* http://www.antipope.org/charlie/blog-static/2015/05/thoughtcrime.html
 * https://modelviewculture.com/pieces/social-networking-as-peer-surveillance
 * http://fusion.net/story/49806/beware-houseguests-cheap-home-surveillance-cameras-are-everywhere-now/
 * http://techcrunch.com/2014/10/11/edward-snowden-new-yorker-festival/

@@ -81,6 +81,7 @@
 * http://www.endicottalliance.org/jobcutsreports.php
 * https://medium.com/michael-dubakov-selection/enterprise-software-vendors-have-no-taste-add7e78b7f69
 * http://steveblank.com/2015/03/11/fear-of-failure-and-lack-of-speed-in-a-large-corporation/
+* http://www.bloomberg.com/news/articles/2015-05-19/iowa-spent-50-million-to-lure-ibm-then-the-firings-started
 
 
 
@@ -239,3 +240,8 @@
 * http://www.theguardian.com/world/2015/mar/04/east-india-company-original-corporate-raiders
 * http://www.wired.com/2015/03/etsy-lost-soul-doesnt-matter-ipo/
 * http://www.aftenposten.no/webtv/serier-og-programmer/sweatshopenglish/TRAILER-SWEATSHOP---I-cant-take-any-more-7800835.html
+
+
+
+
+"Abundantly clear that THE big trend of SaaS and software eating the world is that operating leverage goes from the consumer to corporate" - @Nemo_Incognito

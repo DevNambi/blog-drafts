@@ -326,6 +326,7 @@
 
 * http://www.dailyfinance.com/on/man-writes-own-credit-card-contract-sues-bank-for-breaking-term/
 * http://www.seattletimes.com/business/major-credit-agencies-agree-to-changes/
+* http://www.bloomberg.com/news/articles/2015-05-18/nobel-winner-s-math-shows-s-p-500-unhinged-from-reality-or-not
 * https://medium.com/@CharlynKeating/if-you-re-an-app-developer-who-isn-t-making-a-decent-living-from-the-app-stores-there-s-someone-ac5082d8de47
 * http://www.slate.com/articles/business/moneybox/2014/11/duke_economist_campbell_harvey_most_research_on_why_investments_do_well.html
 * https://www.mattcutts.com/blog/make-money-investing-tips/ <- super useful.
