@@ -173,6 +173,8 @@
 * http://www.theatlantic.com/features/archive/2014/12/the-tragedy-of-the-american-military/383516/
 * http://www.laphamsquarterly.org/foreigners/enemy-aliens
 * http://www.nakedcapitalism.com/2015/05/cia-whistleblower-sentenced-to-42-months-based-on-metadata.html
+* http://www.mcclatchydc.com/2015/05/17/266937/islamic-state-routs-last-elite.html
+* http://www.mcclatchydc.com/2015/05/18/267090/experts-us-claims-ramadi-a-mere.html
 
 
 <li><a href="https://medium.com/war-is-boring/db72a8a23ccf" time_added="1405546931" tags="">Your Periodic Reminder That the V-22 Is a Piece of Junk — War is Boring — M</a></li>

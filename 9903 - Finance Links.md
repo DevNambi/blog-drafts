@@ -173,6 +173,7 @@
 * http://www.nakedcapitalism.com/2015/05/latest-award-of-frederic-mishkin-iceland-prize-for-intellectual-integrity-former-cbo-director-holtz-eakins-garbage-in-garbage-out-attack-on-dodd-frank.html
 * http://www.nakedcapitalism.com/2015/05/belvedere-management-and-its-16bn-now-looking-more-like-a-huge-collapsing-scam.html
 * http://www.nakedcapitalism.com/2015/05/former-greenspan-fan-paul-krugman-now-calls-greenspan-worst-fed-chairman-ever.html
+* http://mobile.nytimes.com/2015/05/19/business/dealbook/many-on-wall-street-say-it-remains-untamed.html <- nothing has changed
 
 
 
