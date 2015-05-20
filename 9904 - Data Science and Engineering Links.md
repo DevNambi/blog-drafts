@@ -467,6 +467,7 @@
 <li><a href="http://oreillynet.com/pub/e/2538" time_added="1363282942" tags="data science,ml">Webcast: Deep Learning - The Biggest Data Science Breakthrough of the Decad</a></li>
 
 * http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
+* http://deepdish.io/2015/02/24/network-initialization/
 * https://chronicle.com/article/article-content/190147/
 * http://blog.wtf.sg/
 * http://sebastianraschka.com/Articles/2015_singlelayer_neurons.html
