@@ -378,6 +378,7 @@
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://www.cnn.com/2015/05/19/us/scam-charity-investigation/index.html
 * http://hcrenewal.blogspot.com/2015/05/second-order-generic-management.html
 * http://mobile.nytimes.com/2015/05/01/us/report-says-american-psychological-association-collaborated-on-torture-justification.html
 * http://www.reddit.com/r/AskReddit/comments/32qbk5/doctors_of_reddit_what_is_the_most_unethical/ <- good god this is horrifying

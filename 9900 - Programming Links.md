@@ -337,6 +337,7 @@
 * http://arstechnica.com/gadgets/2015/05/mediatek-escalates-the-multicore-madness-with-a-10-core-smartphone-soc/
 * http://www.extremetech.com/computing/205382-ssds-can-lose-data-in-as-little-as-7-days-without-power
 * http://www.extremetech.com/extreme/205231-memristors-linked-into-neural-network-arrays
+* http://www.rightscale.com/blog/cloud-cost-analysis/google-vs-aws-pricing-google-cuts-are-first-2015
 
 
 
@@ -595,6 +596,7 @@ things they believe in will keep </a></li>
 * http://research.google.com/pubs/pub43438.html
 * http://kukuruku.co/hub/cpp/lock-free-data-structures-exploring-queues
 * http://julesjacobs.github.io/2015/05/06/exponentially-decaying-likes.html
+* http://www.datanami.com/2015/05/18/how-machine-learning-is-eating-the-software-world/
 
 
 
