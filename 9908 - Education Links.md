@@ -508,6 +508,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2015/05/04/education/for-profit-colleges-face-a-loan-strike-by-thousands-claiming-trickery.html
 * http://www.nytimes.com/2015/05/15/us/in-california-budget-plan-brown-wins-deal-on-tuition-freeze-for-in-state-students.html
 * https://www.insidehighered.com/news/2015/05/20/education-department-inspector-general-slams-agency%E2%80%99s-estimates-erroneous-pell-grant
+* http://www.thenation.com/article/198521/its-time-end-tuition-public-universities-and-abolish-student-debt
 
 
 #### Adjuncts and Grad Students
