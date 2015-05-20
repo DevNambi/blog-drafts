@@ -1,6 +1,6 @@
 # UW - Time to Graduate
 
-In my [last post](http://blogs.uw.edu/fractals/introduction/), I introduced myself and gave some background into data science in academia. This time, I want to look at a single big challenge: time to graduate.
+In my [last post](http://blogs.uw.edu/fractals/introduction/), I introduced myself and gave some background about data science in academia. This time, I want to look at one challenge: the time to graduate.
 
 
 http://www.thetakeaway.org/story/access-and-excellence-campus/
@@ -9,18 +9,7 @@ http://www.thetakeaway.org/story/access-and-excellence-campus/
 
 *"Always work on the thing with the highest leverage" - Aaron Swartz* (FIX_QUOTE)
 
-Student debt is one of the big stories of our time. There are several broad discussions happening now:
-
-* Recognize that the very idea of student debt is repugnant, both morally and pragmatically. 
-* Add more money, usually in the form of additional state/federal funding. However, I don't know of any examples of when doing so made tuition or student debt *decrease*. (LINKS)
-* Privatize higher education, letting 'the market' solve the problem. Unfortunately, this has been tried with for-profit colleges, with terrifyingly bad results. Students see an inferior academic experience, learn less, have fewer career opportunities and higher debt loads. (ADD LINKS).
-* Trust to MOOCs and online learning, which scale far better than traditional, in-person education. Funny, though, the results aren't very impressive yet (LINK). I wonder what about the in-person, doesn't-scale part of education that is hard/impossible to duplicate on a computer. (ADD LINKS)
-
-I have no particular preference or aversion to any of these on principle, but they darn well better **make the situation better**. 
-
-## And Now for Something Completely Different
-
-I wonder if public universities can be [made more efficient](https://www.insidehighered.com/news/2014/08/20/consultants-best-case-scenarios-rarely-reality). Can a university reduce the time to graduate for its students? Can it reduce the price of tuition by better allocating existing resources?
+I wonder if public universities can be [made more efficient](https://www.insidehighered.com/news/2014/08/20/consultants-best-case-scenarios-rarely-reality). Can a university reduce the time to graduate for its students? Can it reduce the total price of a degree by better allocating existing resources?
 
 
 **It's About Time**
@@ -28,6 +17,22 @@ I wonder if public universities can be [made more efficient](https://www.insideh
 Colleges don't have fixed prices for degrees; they charge for each day/quarter/year you're enrolled. Students adjust their finances each year to handle different combinations of loans, scholarships, grants, and tuition. State funding is similar: public institutions are often funded by giving a certain amount per student, per year.
 
 Everyone would benefit if students graduate faster without sacrificing the quality of their education. Students would have less debt, governments would spend less per student, and universities would have a greater capacity to admit students. 
+
+
+### The Six-Year Metric
+
+Universities are often judged by the percentage of 4-year students who graduate within *six* years.
+
+Think about that for a minute. Why would a 4-year degree take six years? And why on earth are universities given 50% slack?
+
+* 30-year mortgages paid off within 45 years
+* 30 mpg cars that get at least 20 miles a gallon
+* The % of 2-hour flights that don't take longer than 3 hours
+* Cooking?
+* Commuting?
+* 8-hour workdays that finish in less than 12 hours
+* 40-hour workweeks that take less than 60 hours/week
+* 
 
 
 **What are the barriers, good and bad, that prevent students from graduating quickly?**
