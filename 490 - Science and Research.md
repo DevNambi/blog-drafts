@@ -10,6 +10,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://www.civilbeat.com/2015/04/mauna-kea-is-a-special-place-in-humanitys-quest-for-knowledge/
 * http://www.nytimes.com/2015/03/24/science/when-science-is-lost-in-a-legal-maze.html
 * http://bjoern.brembs.net/2015/04/what-should-a-modern-scientific-infrastructure-look-like/
+* http://kernelmag.dailydot.com/issue-sections/features-issue-sections/13000/kerbal-space-program-game/
 * https://medium.com/starts-with-a-bang/science-by-democracy-doesnt-work-ea74d160daa4
 * http://www.bloomberg.com/news/articles/2015-05-15/oil-tycoon-harold-hamm-wanted-scientists-dismissed-dean-s-e-mail-says <- this is why intellectual freedom is important
 * https://lists.w3.org/Archives/Public/www-tag/2015Apr/0027.html

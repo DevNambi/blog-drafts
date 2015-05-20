@@ -402,6 +402,7 @@
 * http://techeffigytutorials.blogspot.com/2015/02/the-genetic-algorithm-explained.html
 * http://www.machinedlearnings.com/2015/02/adversarial-scenarios-and-economies-of.html
 * http://radar.oreilly.com/2015/05/the-tensor-renaissance-in-data-science.html
+* http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html <- beautifully illustrated
 
 
 "ML tip: train a model to distinguish between your training set & unlabeled data. If it works, your training data may be incomplete!" - Jake Vanderplas

@@ -4,7 +4,9 @@
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
 * http://www.nytimes.com/2015/05/06/us/police-struggle-with-loss-of-privileged-position.html
+* http://www.theatlantic.com/national/archive/2015/05/the-texas-biker-shootout-is-too-much-for-waco-to-handle/393689/
 * http://mobile.nytimes.com/2015/05/19/us/politics/obama-to-limit-military-style-equipment-for-police-forces.html?_r=0
+* http://www.seattletimes.com/seattle-news/northwest/tacoma-ice-center-faces-new-criticism-over-alleged-beating/
 * http://www.nytimes.com/2015/05/07/us/mayor-stephanie-rawlings-blake-asks-justice-department-to-review-baltmore-police.html
 * http://arstechnica.com/tech-policy/2015/05/cops-must-now-get-a-warrant-to-use-stingrays-in-washington-state/
 * http://arstechnica.com/tech-policy/2015/05/warrantless-airport-search-of-laptop-cannot-be-justified-judge-rules/

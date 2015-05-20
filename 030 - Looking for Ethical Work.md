@@ -74,6 +74,7 @@ Industries
 * http://motherboard.vice.com/read/the-operators
 * http://www.cnn.com/2012/10/18/travel/australia-yacht-rescue/
 * http://www.wired.com/2015/04/inside-chinese-factories/
+* http://kernelmag.dailydot.com/issue-sections/features-issue-sections/13000/kerbal-space-program-game/
 
 ### Support real work, and disrupt everything else
 
