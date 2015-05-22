@@ -453,6 +453,7 @@
 **Learning from the Best**
 
 * http://seattletimes.com/html/nationworld/2024799588_eboladecontaminatexml.html
+* http://www.vox.com/2015/5/20/8621527/health-tips-reporter
 
 
 #### Health Insurance, Health Costs
@@ -624,6 +625,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://well.blogs.nytimes.com/2014/09/08/prediabetes-blood-sugar/?_php=true&_type=blogs&_r=0
 * http://www.salon.com/2014/09/23/the_real_reason_americans_are_increasingly_overweight_partner/
 * http://www.usatoday.com/story/news/nation/2012/10/15/sleep-deprivation-fat-cells/1630289/
+* http://www.nerdfitness.com/blog/2015/05/21/how-steve-the-software-architect-dropped-110-lbs/
 
 
 

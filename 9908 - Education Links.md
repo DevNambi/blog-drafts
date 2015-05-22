@@ -439,6 +439,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.gradeinflation.com/
 * http://www.artandeducation.net/school_watch/entire-usc-mfa-1st-year-class-is-dropping-out/
 * http://mobile.nytimes.com/2015/05/20/opinion/frank-bruni-platinum-pay-in-ivory-towers.html?_r=0
+* https://www.insidehighered.com/news/2015/05/21/bipartisan-agreement-risk-sharing-concept-only
 
 
 ### Student Culture, Sexual Assault, Assault
@@ -525,6 +526,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.washingtonpost.com/posteverything/wp/2015/03/06/i-was-a-professor-at-four-universities-i-still-couldnt-make-ends-meet/
 * http://www.slate.com/blogs/moneybox/2015/04/13/adjunct_pay_a_quarter_of_part_time_college_faculty_receive_public_assistance.html?wpsrc=fol_tw
 * https://www.insidehighered.com/news/2015/04/22/berkeley-study-finds-high-levels-depression-among-graduate-students
+* http://www.timeshighereducation.co.uk/features/phd-is-the-doctoral-thesis-obsolete/2020255.fullarticle
 
 ### Administration
 

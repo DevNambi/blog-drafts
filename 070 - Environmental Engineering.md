@@ -83,6 +83,7 @@ Emphasize what we don't know
 
 
 * http://forecast.io/raw/
+* http://www.newyorker.com/magazine/2015/05/25/the-disappearing-river
 * http://www.theguardian.com/environment/climate-consensus-97-per-cent/2015/may/15/new-study-finds-a-hot-spot-in-the-atmosphere
 * http://arstechnica.com/science/2015/05/three-pennsylvania-wells-likely-contaminated-by-fracking/
 * http://arstechnica.com/science/2015/05/how-we-cut-carbon-emissions-influences-our-health/

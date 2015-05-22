@@ -10,6 +10,7 @@
 * http://www.nytimes.com/2015/05/07/us/mayor-stephanie-rawlings-blake-asks-justice-department-to-review-baltmore-police.html
 * http://arstechnica.com/tech-policy/2015/05/cops-must-now-get-a-warrant-to-use-stingrays-in-washington-state/
 * http://arstechnica.com/tech-policy/2015/05/warrantless-airport-search-of-laptop-cannot-be-justified-judge-rules/
+* http://mobile.nytimes.com/2015/05/22/world/americas/police-killings-brazil-rio.html?_r=0
 * http://www.nytimes.com/2015/05/10/magazine/our-demand-is-simple-stop-killing-us.html
 * http://watchdog.org/218867/civil-forfeiture/
 * http://www.thestranger.com/news/feature/2015/05/06/22172178/what-two-programmers-have-revealed-so-far-about-seattle-police-officers-who-are-still-in-uniform

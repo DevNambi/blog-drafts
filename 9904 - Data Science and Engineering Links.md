@@ -363,6 +363,7 @@
 * http://probabilistic-programming.org/wiki/Home
 * http://new.livestream.com/accounts/7874891/events/3565981 <- ML conf videos
 * http://hunch.net/?p=224
+* http://blogs.technet.com/b/machinelearning/archive/2015/05/20/choosing-a-learning-algorithm-in-azure-ml.aspx
 * http://allenai.org/videos.html
 * http://jasonkolb.com/ill-be-back-how-the-internet-of-things-is-giving-birth-to-an-ai-renaissance/
 * http://katrinaeg.com/simulated-annealing.html
@@ -467,6 +468,7 @@
 <li><a href="http://oreillynet.com/pub/e/2538" time_added="1363282942" tags="data science,ml">Webcast: Deep Learning - The Biggest Data Science Breakthrough of the Decad</a></li>
 
 * http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
+* http://karpathy.github.io/2015/05/21/rnn-effectiveness/ <- great
 * http://deepdish.io/2015/02/24/network-initialization/
 * https://chronicle.com/article/article-content/190147/
 * http://blog.wtf.sg/

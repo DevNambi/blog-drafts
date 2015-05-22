@@ -66,6 +66,7 @@
 * http://www.javaworld.com/article/2894748/core-java/7-timeless-lessons-of-programming-graybeards.html
 * http://boyd.multerer.com/posts/2015/05/curious_programmer
 * http://www.upedu.org/papers/ICSE2015_OrganizationalFactors/LavalleeRobillard_ICSE2015_WhyGoodDevelopersWriteBadCode.pdf
+* http://regexr.com/
 
 
 @joshuajames Posit: the failure of most "system thinking" is in thinking the system is like a machine rather than an ecology.
@@ -379,6 +380,8 @@
 * https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ
 * https://speakerdeck.com/jakevdp/losing-your-loops-fast-numerical-computing-with-numpy-pycon-2015
 * https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python
+* http://blog.quantifiedcode.com/python-code-analysis-tools-overview/
+
 
 
 * AWS IPython: Start IPYNB on EC2 machine. ssh -L 8889:localhost:8888 user@awsip.com. Go to localhost:8889 in local browser. Super quick IPYNB cloud

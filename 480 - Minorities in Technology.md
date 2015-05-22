@@ -14,6 +14,8 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * https://medium.com/backchannel/how-one-hardware-startup-solved-silicon-valley-s-woman-problem-76e3ee581534
 * http://fortune.com/2015/03/26/the-resume-gap-women-tell-stories-men-stick-to-facts-and-get-the-advantage/
 * http://blog.melchua.com/2015/04/28/on-the-diversity-readiness-of-stem-environments-its-almost-as-if-i-could-only-enter-the-makerspace-as-a-janitor/
+* http://arstechnica.com/business/2015/05/gamergate-critic-posts-death-threat-voicemail-after-inaction-by-prosecutor/
+* http://www.nytimes.com/2015/05/22/upshot/making-computer-science-more-inviting-a-look-at-what-works.html?abt=0002&abg=1
 * http://verysmartbrothas.com/100-days-ablackman-silicon-valley/
 * http://www.blog.juliaferraioli.com/2015/03/engineering-first-run-experience.html
 * http://recode.net/2015/03/06/women-outperformed-men-and-a-sexual-predator-was-on-the-loose-kleiner-perkins-investigator-opens-up/

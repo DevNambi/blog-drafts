@@ -70,6 +70,7 @@ Industries
 * https://medium.com/backchannel/the-man-who-made-the-uk-say-im-sorry-for-what-we-did-to-turing-8fc468dcea6b
 * http://mobile.nytimes.com/2015/04/28/world/europe/pope-francis-steps-up-campaign-on-climate-change-to-conservatives-alarm.html?_r=0
 * https://www.eff.org/deeplinks/2015/02/eff-files-amicus-brief-case-seeks-hold-ibm-responsible-facilitating-apartheid
+* http://www.ocregister.com/articles/jeon-62174-nguyen-captain.html
 * http://www.path.org/blog/2015/02/remembering-gaetano/
 * http://motherboard.vice.com/read/the-operators
 * http://www.cnn.com/2012/10/18/travel/australia-yacht-rescue/

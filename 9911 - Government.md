@@ -93,6 +93,7 @@
 * http://news.yahoo.com/ukraine-leader-shows-off-captured-russian-military-ids-160048355.html
 * http://arstechnica.com/tech-policy/2015/04/pepper-spraying-drones-will-be-used-on-indian-protesters/
 * http://mobile.nytimes.com/2015/04/10/world/middleeast/yemen-fighting.html?_r=0
+* https://www.eff.org/deeplinks/2015/05/africas-worst-new-internet-censorship-law-could-be-coming-south-africa
 
 
 
@@ -208,6 +209,7 @@
 * http://www.theatlantic.com/politics/archive/2015/03/how-red-states-learned-to-love-the-gas-tax/389084/
 * http://seattletimes.com/html/localnews/2025649226_prostitutionforfeituresxml.html
 * http://www.nakedcapitalism.com/2015/03/bill-black-homophobic-law-indiana-governor-dares-not-speak-purpose.html
+* http://arstechnica.com/cars/2015/05/bill-to-allow-tesla-to-sell-cars-in-texas-dies-in-committee/
 * http://www.nakedcapitalism.com/2015/02/corporate-welfare-queens-shocking-development-program-failure-rate-north-carolina.html 
 * http://www.adn.com/article/20150207/alaska-government-spent-nearly-28-million-database-project-it-was-scrapped
 * http://www.wvgazette.com/article/20150209/GZ01/150209182/1419
