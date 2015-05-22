@@ -29,6 +29,7 @@
 * http://blogs.hbr.org/2012/09/to-succeed-forget-self-esteem/
 * http://www.hanselman.com/blog/ImAPhonyAreYou.aspx
 * http://teddy.fr/2013/02/10/about-not-owning-shit/
+* http://radar.oreilly.com/2015/05/mind-if-i-interrupt-you.html
 * http://conversableeconomist.blogspot.co.uk/2014/12/focusing-behavioral-economics-on.html
 * http://7goldfish.com/Little%20know%20ways%20to%20think%20about%20dicipline
 * http://hollywouldifshecould.net/2012/12/15-small-ideas-to-kickstart-big-change/
