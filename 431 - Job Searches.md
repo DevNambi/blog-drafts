@@ -260,6 +260,7 @@ http://www.computerworld.com/article/2879083/southern-california-edison-it-worke
 <li><a href="http://www.sandiegoreader.com/news/2015/mar/11/citylights1-scheme-lower-engineers-wages/">A scheme to lower engineers’ wages</a></li>
 <li><a href="http://techcrunch.com/2015/03/17/the-back-office-developers/">The Back Office Developers</a></li>
 <li><a href="http://timesofindia.indiatimes.com/tech/tech-news/Infosys-whistleblower-H-1B-workers-have-minimal-skills/articleshow/46609164.cms">Infosys whistleblower: H-1B workers have minimal skills</a></li>
+<li><a href="http://data.jobsintech.io/">U.S. Work Visa Explorer</a></li>
 </ul>
 
 
