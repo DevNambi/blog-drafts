@@ -4,7 +4,7 @@
 
 ### Food
 
-
+* http://www.nytimes.com/interactive/2015/05/19/dining/summer-dinner-ideas.html <- AMAZING
 * http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0
 * http://www.nytimes.com/2015/04/25/opinion/sunday/how-i-got-converted-to-gmo-food.html?_r=0
 * http://www.nytimes.com/2015/04/21/upshot/simple-rules-for-healthy-eating.html

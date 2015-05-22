@@ -17,6 +17,7 @@
 * http://berkeleyjournal.org/2015/01/morality-and-the-idea-of-progress-in-silicon-valley/
 * http://recode.net/2015/03/12/kleiner-perkins-wrote-an-hr-policy-in-wake-of-female-partner-complaints/
 * http://fusion.net/story/102544/venture-capital-has-a-self-dealing-problem/
+* http://www.nytimes.com/2015/05/23/technology/overvalued-in-silicon-valley-but-not-the-word-that-must-not-be-uttered.html
 
 
 

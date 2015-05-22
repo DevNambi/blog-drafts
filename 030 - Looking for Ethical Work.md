@@ -90,6 +90,7 @@ Industries
 * http://berkeleyjournal.org/2015/01/morality-and-the-idea-of-progress-in-silicon-valley/
 * http://mobile.nytimes.com/2015/05/03/magazine/want-a-steady-income-theres-an-app-for-that.html
 * https://medium.com/@chrisloer/join-the-engineering-leisure-class-b3083c09a78e
+* http://opinionator.blogs.nytimes.com/2015/05/22/allying-choice-and-nutrition-at-food-pantries/?_r=0
 * http://www.theguardian.com/media/2015/may/07/how-friendship-became-tool-of-powerfuls
 * http://america.aljazeera.com/multimedia/2015/4/building-miniature-dream-houses-for-the-homeless.html
 * http://www.wired.com/2015/05/the-open-source-maps-that-made-rescues-in-nepal-possible/
