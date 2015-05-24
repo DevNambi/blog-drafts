@@ -23,6 +23,7 @@
 
 
 * http://www.newyorker.com/magazine/2014/10/20/crooner-rights-spat
+* http://consumerist.com/2015/05/20/gm-that-car-you-bought-were-really-the-ones-who-own-it/
 * http://arstechnica.com/tech-policy/2015/03/one-apartment-complexs-rule-you-write-a-bad-review-we-fine-you-10k/
 * http://arstechnica.com/business/2014/10/verizon-bankrolled-news-site-bans-stories-on-spying-and-net-neutrality/
 * http://arstechnica.com/tech-policy/2014/11/startups-can-now-buy-insurance-against-threat-of-patent-trolls/

@@ -10,6 +10,7 @@
 * http://www.theatlantic.com/politics/archive/2015/04/loving-v-marriage/391730/
 * http://ben.balter.com/2015/04/21/why-technologists-dont-want-to-work-at-your-agency/
 * http://www.theatlantic.com/politics/archive/2015/03/the-conservative-case-against-enforcing-immigration-laws/387004/
+* http://www.huffingtonpost.com/2015/05/22/senate-passes-fast-track_n_7425614.html
 * http://www.theatlantic.com/politics/archive/2015/04/too-vague-to-be-constitutional/390762/
 * http://www.seattletimes.com/seattle-news/federal-ruling-may-free-many-immigrants-without-posting-bonds/
 * http://www.cnbc.com/id/102409348

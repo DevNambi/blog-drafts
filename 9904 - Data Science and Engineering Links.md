@@ -704,3 +704,4 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://scatter.wordpress.com/2015/01/03/beckieball-and-the-study-of-not-quite-elite-selected-groups/
 * http://www.slideshare.net/MrChrisJohnson/scala-data-pipelines-for-music-recommendations
 * https://gigaom.com/2015/01/24/why-data-science-matters-and-how-technology-makes-it-possible/
+* http://blog.dominodatalab.com/reflections-on-buy-vs-build/?hn=1

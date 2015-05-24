@@ -304,3 +304,5 @@ http://www.nakedcapitalism.com/2014/04/tom-engelhardt-big-jail-kidnapping-tortur
 http://www.vancouversun.com/technology/Ottawa+removing+North+Pacific+humpback+whales+from+list+threatened+species/9760778/story.html
 
 http://www.networkworld.com/article/2692556/careers/blowing-the-whistle-without-blowing-your-career.html
+
+http://mobile.nytimes.com/2015/05/24/world/europe/popes-focus-on-poor-revives-scorned-theology.html?_r=1

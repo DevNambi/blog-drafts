@@ -41,6 +41,7 @@ I'll add one more truth, a psychological one:
 http://tradeinqualityindex.com <- HOLY CRAP, THIS IS AMAZING
 http://www.mrmoneymustache.com/2011/09/30/is-a-costco-membership-worth-the-cost/
 http://arstechnica.com/cars/2015/05/meta-analysis-finds-self-braking-cars-reduce-collisions-by-38-percent/
+http://consumerist.com/2015/05/20/gm-that-car-you-bought-were-really-the-ones-who-own-it/
 
 
 ## Safe and Unsafe Cars

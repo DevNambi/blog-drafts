@@ -217,6 +217,7 @@
 * http://robertreich.org/post/109894095095
 * http://www.washingtonpost.com/news/morning-mix/wp/2015/04/13/study-when-companies-pay-low-wages-taxpayers-end-up-with-the-rest-of-the-bill/
 * http://mobile.nytimes.com/2015/04/11/business/economy/middle-class-but-feeling-economically-insecure.html
+* http://www.motherjones.com/politics/2014/01/blackstone-rental-homes-bundled-derivatives
 * http://www.nakedcapitalism.com/2015/03/austerity-kills-economic-distress-seen-culprit-sharp-rise-suicide-rate-among-middle-aged.html
 * http://www.nytimes.com/2015/03/20/opinion/traitors-to-their-class.html
 * http://jeremycai.com/labor.html
@@ -274,6 +275,9 @@
 * http://www.nakedcapitalism.com/2015/05/resilience-is-the-new-black.html
 * http://www.nytimes.com/2015/05/17/upshot/dont-be-so-sure-the-economy-will-return-to-normal.html
 * http://www.fastcoexist.com/3041841/change-generation/4-things-you-probably-know-about-poverty-that-bill-and-melinda-gates-dont
+* http://www.overcomingbias.com/2015/05/elite-evaluator-rents.html
+* http://priceonomics.com/how-employers-get-out-of-paying-their-workers/
+* http://www.theguardian.com/lifeandstyle/2015/may/03/owning-trailer-parks-mobile-home-university-investment
 
 
 
