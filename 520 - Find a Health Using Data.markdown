@@ -49,6 +49,7 @@ Come up with the cost-effectiveness of different sports & physical exercises.
 * http://www.nytimes.com/2014/06/18/opinion/mark-bittmanthe-food-industrys-solution-to-obesity.html?src=me&ref=general
 * http://www.wired.com/2014/09/ex-googler-using-big-data-model-creation-new-foods/
 * http://www.nytimes.com/2015/03/22/opinion/sunday/why-health-care-tech-is-still-so-bad.html
+* https://www.youtube.com/watch?v=GgzDOSgwZXU
 
 ### Health from Work
 * What's the benefit of a standing desk?

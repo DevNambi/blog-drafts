@@ -100,6 +100,7 @@ Industries
 * http://www.wired.com/2014/02/outsourcing-humanity-apps/
 * https://www.techdirt.com/articles/20150204/07310329906/yes-major-record-labels-are-keeping-nearly-all-money-they-get-spotify-rather-than-giving-it-to-artists.shtml
 * http://www.bbc.co.uk/news/science-environment-24538078
+* http://www.bbc.com/news/magazine-32736366
 * http://www.nakedcapitalism.com/2014/12/joe-firestone-lawless-society.html
 * http://rein.pk/replacing-middle-management-with-apis/
 * http://www.brainpickings.org/2014/02/11/brockman-what-should-we-be-worried-about/
