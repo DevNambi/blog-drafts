@@ -290,6 +290,7 @@
 * http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego <- a great way to learn
 * http://www.benkuhn.net/squared
 * http://www.stats.org/super-learning-and-the-revolution-in-knowledge/
+* https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf
 
 
 
@@ -346,6 +347,7 @@
 * https://medium.com/@mikedewar/recommendation-engines-aren-t-for-maximising-metrics-they-are-for-designing-experiences-b2cb3395092c
 * http://www.dataschool.io/comparing-supervised-learning-algorithms/
 * http://nbviewer.ipython.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb
+* http://fastml.com/real-time-interactive-movie-recommendation/
 * http://www.dailyuw.com/science/article_078a3b74-eef3-11e4-b1b5-b3a9ae4725b9.html
 * http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 * https://www.kaggle.com/users/195999/henning-sperr/otto-group-product-classification-challenge/finding-ensamble-weights
@@ -470,6 +472,7 @@
 * http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
 * http://karpathy.github.io/2015/05/21/rnn-effectiveness/ <- great
 * http://deepdish.io/2015/02/24/network-initialization/
+* http://nbviewer.ipython.org/gist/yoavg/d76121dfde2618422139
 * https://chronicle.com/article/article-content/190147/
 * http://blog.wtf.sg/
 * http://sebastianraschka.com/Articles/2015_singlelayer_neurons.html
@@ -705,3 +708,4 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://www.slideshare.net/MrChrisJohnson/scala-data-pipelines-for-music-recommendations
 * https://gigaom.com/2015/01/24/why-data-science-matters-and-how-technology-makes-it-possible/
 * http://blog.dominodatalab.com/reflections-on-buy-vs-build/?hn=1
+* http://firstround.com/review/everything-we-wish-wed-known-about-building-data-products/

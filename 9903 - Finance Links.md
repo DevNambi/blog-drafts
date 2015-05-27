@@ -77,6 +77,7 @@
 * http://www.nakedcapitalism.com/2015/05/syriza-emulates-nixon-going-china-bad-way.html
 * http://www.nakedcapitalism.com/2015/05/greece-says-it-will-make-imf-payment-next-week-as-stalemate-continues.html
 * http://www.nakedcapitalism.com/2015/05/why-syriza-will-blink.html
+* http://www.nakedcapitalism.com/2015/05/a-parallel-currency-for-greece-part-ii.html
 
 
 

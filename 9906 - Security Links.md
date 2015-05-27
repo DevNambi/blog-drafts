@@ -6,6 +6,7 @@
 * http://blog.cryptographyengineering.com/2015/04/truecrypt-report.html
 * http://www.scmagazine.com/the-failure-of-the-security-industry/article/403261/
 * https://www.eff.org/deeplinks/2015/04/whitehouses-new-executive-order-cyber-crime-unfortunately-no-joke
+* http://arstechnica.com/security/2015/05/the-moose-is-loose-linux-based-worm-turns-routers-into-social-network-bots/
 * http://www.wired.com/2015/04/want-see-domestic-spyings-future-follow-drug-war/
 * http://recode.net/2015/04/13/cyber-crime-still-on-the-rise-using-nine-basic-attack-methods/
 * http://www.cringely.com/2015/05/02/your-pbx-has-been-hacked/
@@ -57,6 +58,7 @@
 * http://securelist.com/blog/research/68732/the-great-bank-robbery-the-carbanak-apt/
 * http://cr.yp.to/djb.html
 * http://arstechnica.com/security/2015/02/psa-your-crypto-apps-are-useless-unless-you-check-them-for-backdoors/
+* http://www.darkreading.com/attacks-breaches/11-million-hit-in-another-bluecross-blueshield-breach/d/d-id/1320513
 * http://cwe.mitre.org/top25/
 * http://recode.net/2015/01/12/dont-ignore-the-simple-cyber-attacks-says-security-blogger-brian-krebs-qa/
 * http://arstechnica.com/information-technology/2015/02/fear-in-the-digital-city-why-the-internet-has-never-been-more-dangerous/

@@ -44,7 +44,7 @@
 * https://www.eff.org/deeplinks/2015/02/go-prison-sharing-files-thats-what-hollywood-wants-secret-tpp-deal
 * http://blog.opendns.com/2014/12/30/sony-reveals-even-bigger-attack-internet-time-mpaa-behind/
 * http://timesofindia.indiatimes.com/tech/tech-news/Pastebin-Dailymotion-Github-blocked-after-DoT-order-Report/articleshow/45701713.cms
-* http://arstechnica.com/tech-policy/2015/01/the-nfl-wants-you-to-think-these-things-are-illegal/
+* http://arstechnica.com/tech-policy/2015/01/the-nfl-wants-you-to-think-thsee-things-are-illegal/
 * https://www.eff.org/deeplinks/2015/04/remembering-case-established-code-speech/
 * http://www.theverge.com/2015/1/2/7481409/the-mpaa-has-a-new-plan-to-stop-copyright-violations-at-the-border
 * https://www.techdirt.com/articles/20150416/17252230680/chris-dodds-email-reveals-what-mpaa-really-thinks-fair-use-extremely-controversial.shtml
@@ -52,6 +52,7 @@
 * http://www.politico.com/magazine/story/2015/01/you-bought-it-but-dont-own-it-and-thats-wrong-114163.html <- DRM is an attack on property rights
 * http://www.extremetech.com/computing/199152-samsung-smart-tvs-inject-ads-where-they-dont-belong
 * https://stallman.org/stallman-computing.html
+* http://www.washingtonpost.com/blogs/style-blog/wp/2015/05/25/a-reminder-that-your-instagram-photos-arent-really-yours-someone-else-can-sell-them-for-90000/
 
 
 "Any time someone puts a lock on something that belongs to you and won't give you the key, the lock isn't there for your benefit" - Cory Doctorow

@@ -4,6 +4,7 @@
 ## Priceless
 
 * http://welcometobusinesstown.tumblr.com/ <- this is amazing
+* http://www.nakedcapitalism.com/2015/05/the-happiness-industry-how-government-and-big-businesses-manipulate-your-moods-for-profit.html
 
 
 ## Amazon

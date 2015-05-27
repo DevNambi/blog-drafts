@@ -44,6 +44,9 @@
 * http://hatchery.io/how-to-do-mvps-right.html
 * http://rkoutnik.com/articles/Valley-Talent.html
 * https://medium.com/@kwindla/a-technical-founder-s-notes-on-sales-team-management-60e1a93d4648
+* http://andrewchen.co/why-investors-dont-fund-dating/
+* http://qz.com/411330/the-mystery-of-the-power-bank-phone-taking-over-ghana/
+
 
 
 ## Renting/Access (not Sharing) Economy
@@ -57,6 +60,7 @@
 * http://www.nytimes.com/2015/02/22/magazine/meet-the-unlikely-airbnb-hosts-of-japan.html
 * http://www.slate.com/blogs/moneybox/2015/03/12/uber_lyft_employment_cases_juries_could_decide_the_legal_fate_of_the_sharing.html
 * http://www.cnn.com/2015/03/18/opinions/wheeler-silicon-valley-jobs/index.html
+* http://www.nakedcapitalism.com/2015/05/the-shafting-um-sharing-economy.html
 
 
 
@@ -109,6 +113,7 @@
 * https://medium.com/everything-about-startups-and-entrepreneurship/how-quitting-my-corporate-job-for-my-startup-dream-f-cked-my-life-up-3b6b3e29b318
 * https://medium.com/matter/the-shut-in-economy-ec3ec1294816
 * http://www.theawl.com/2015/05/leaving-new-york-and-also-technology
+* http://niki.zone/personal/my-first-job-burnout/
 
 
 ## Misc

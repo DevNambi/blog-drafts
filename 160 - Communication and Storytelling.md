@@ -44,6 +44,8 @@ Only use active verbs.
 * http://www.bobpusateri.com/archive/2015/02/why-you-should-submit-for-pass-summit-2015/
 * http://www.bbc.com/future/story/20150324-the-hidden-tricks-of-persuasion
 * http://www.artofmanliness.com/2012/08/22/how-to-make-small-talk/
+* http://www.washingtonpost.com/posteverything/wp/2015/05/26/powerpoint-should-be-banned-this-powerpoint-presentation-explains-why/?tid=pm_pop_b
+
 
 Blog meta
 	Who is my audience?

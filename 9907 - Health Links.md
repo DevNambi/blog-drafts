@@ -6,6 +6,7 @@
 
 * http://www.nytimes.com/interactive/2015/05/19/dining/summer-dinner-ideas.html <- AMAZING
 * http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0
+* http://arstechnica.com/tech-policy/2015/05/eu-dropped-plans-for-safer-pesticides-because-of-ttip-and-pressure-from-us/
 * http://www.nytimes.com/2015/04/25/opinion/sunday/how-i-got-converted-to-gmo-food.html?_r=0
 * http://www.nytimes.com/2015/04/21/upshot/simple-rules-for-healthy-eating.html
 * http://www.health.harvard.edu/blog/folic-acid-a-b-vitamin-lowers-stroke-risk-in-people-with-high-blood-pressure-201503187810
@@ -200,6 +201,7 @@
 * http://www.wired.com/2015/04/epic-measures
 * http://www.reuters.com/article/2015/04/20/us-health-depression-idUSKBN0NB2KO20150420
 * https://news.vice.com/article/seattle-is-helping-drug-addicts-instead-of-locking-them-up-and-so-far-its-working
+* http://www.nytimes.com/2015/05/26/health/rural-nebraska-offers-stark-view-of-nursing-autonomy-debate.html
 * http://www.independent.co.uk/life-style/health-and-families/health-news/alzheimers-breakthrough-scientists-may-have-found-potential-cause-of-the-disease-in-the-behaviour-of-immune-cells--giving-new-hope-to-millions-10176652.html
 * https://medium.com/war-is-boring/eating-too-much-rice-almost-sank-the-japanese-navy-f985772c81a6
 * http://www.scientificamerican.com/article/common-parasite-could-manipulate-our-behavior/
@@ -378,6 +380,7 @@
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://www.nytimes.com/2015/05/26/opinion/the-university-of-minnesotas-medical-research-mess.html
 * http://www.cnn.com/2015/05/19/us/scam-charity-investigation/index.html
 * http://hcrenewal.blogspot.com/2015/05/second-order-generic-management.html
 * http://mobile.nytimes.com/2015/05/01/us/report-says-american-psychological-association-collaborated-on-torture-justification.html
