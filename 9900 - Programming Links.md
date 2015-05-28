@@ -131,6 +131,8 @@
 * http://www.joshbarczak.com/blog/?m=201501
 * https://docs.google.com/document/d/1rU5-t09tEBym1wD3NUr7s9mMgFBmfGJNBz3F8TGzDsU/preview?sle=true&pli=1
 * https://www.google.com/about/careers/students/guide-to-technical-development.html <- great
+* http://hackershelf.com/browse/?popular=1
+
 
 
 
