@@ -30,12 +30,14 @@
 * http://www.washingtonpost.com/blogs/the-fix/wp/2015/01/18/with-snowden-in-the-background-privacy-takes-a-back-seat-to-security/
 * http://crashoverridenetwork.tumblr.com/post/113748237272/guide-talking-to-family-police
 * http://thenextweb.com/insider/2015/05/17/adblockers-are-immoral-and-mobile-networks-should-know-better/
+* http://www.computerworld.com/article/2926775/security0/data-breach-costs-now-average-154-per-record.html
 * http://passcode.csmonitor.com/identity-trade
 * https://www.kickstarter.com/projects/augustgermar/anonabox-a-tor-hardware-router
 * http://www.extremetech.com/internet/180485-the-ultimate-guide-to-staying-anonymous-and-protecting-your-privacy-online
 * http://peter-whittaker.com/the-right-time-to-refuse/
 * http://www.theguardian.com/technology/2015/feb/13/apple-ceo-tim-cook-challenges-obama-privacy
 * http://arstechnica.com/tech-policy/2015/03/we-know-where-youve-been-ars-acquires-4-6m-license-plate-scans-from-the-cops/
+* https://medium.com/@arankhanna/stalking-your-friends-with-facebook-messenger-9da8820bd27d
 * http://gothamist.com/2015/05/24/pro_bono_nsa_agents_are_listening_t.php
 * https://www.schneier.com/blog/archives/2015/03/data_and_goliat_3.html
 * http://www.sciencemag.org/content/347/6221.toc

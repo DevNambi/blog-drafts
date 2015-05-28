@@ -53,6 +53,9 @@
 * http://www.extremetech.com/computing/199152-samsung-smart-tvs-inject-ads-where-they-dont-belong
 * https://stallman.org/stallman-computing.html
 * http://www.washingtonpost.com/blogs/style-blog/wp/2015/05/25/a-reminder-that-your-instagram-photos-arent-really-yours-someone-else-can-sell-them-for-90000/
+* http://fortune.com/2015/05/26/google-oracle-api-supremecourt-obama-appeal/
+* https://www.eff.org/deeplinks/2015/05/supreme-court-rejects-attempt-expand-patent-liability-limits-defenses
+* https://www.eff.org/deeplinks/2015/05/tisa-yet-another-leaked-treaty-youve-never-heard-makes-secret-rules-internet
 
 
 "Any time someone puts a lock on something that belongs to you and won't give you the key, the lock isn't there for your benefit" - Cory Doctorow

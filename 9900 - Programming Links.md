@@ -67,6 +67,7 @@
 * http://boyd.multerer.com/posts/2015/05/curious_programmer
 * http://www.upedu.org/papers/ICSE2015_OrganizationalFactors/LavalleeRobillard_ICSE2015_WhyGoodDevelopersWriteBadCode.pdf
 * http://regexr.com/
+* http://www.stilldrinking.org/programming-sucks
 
 
 @joshuajames Posit: the failure of most "system thinking" is in thinking the system is like a machine rather than an ecology.
@@ -185,7 +186,7 @@
 
 
 
-## Programming Teams,  Large Projects, Project Management
+Programming Teams,  Large Projects, Project Management
 
 
 <li><a href="https://community.uservoice.com/blog/trello-google-docs-product-management/" time_added="1390416673" tags="">How we use Trello & Google Docs to make UserVoice better every day | UserCe</a></li>

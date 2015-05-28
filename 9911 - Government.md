@@ -177,6 +177,7 @@
 * http://www.nakedcapitalism.com/2015/05/cia-whistleblower-sentenced-to-42-months-based-on-metadata.html
 * http://www.mcclatchydc.com/2015/05/17/266937/islamic-state-routs-last-elite.html
 * http://www.mcclatchydc.com/2015/05/18/267090/experts-us-claims-ramadi-a-mere.html
+* https://medium.com/war-is-boring/the-u-s-navy-s-big-mistake-building-tons-of-supercarriers-79cb42029b8
 
 
 <li><a href="https://medium.com/war-is-boring/db72a8a23ccf" time_added="1405546931" tags="">Your Periodic Reminder That the V-22 Is a Piece of Junk — War is Boring — M</a></li>

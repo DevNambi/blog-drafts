@@ -44,6 +44,7 @@
 * http://www.reuters.com/article/2015/02/24/us-germany-capitalism-idUSKBN0LS1AI20150224
 * http://wolfstreet.com/2015/03/04/austria-pulls-ripcord-on-bailouts-lets-bottomless-pit-hypo-alpe-bank-drag-state-of-carinthia-into-bankruptcy/
 * http://www.nakedcapitalism.com/2015/05/bill-black-new-labour-leaders-want-to-go-back-to-blairs-policies-that-blew-up-the-uk.html
+* http://www.nakedcapitalism.com/2015/05/sec-vindicates-deutsche-bank-derivatives-whistleblowers-eric-ben-artzi-and-matthew-simpson.html
 
 
 
@@ -175,6 +176,7 @@
 * http://www.nakedcapitalism.com/2015/05/belvedere-management-and-its-16bn-now-looking-more-like-a-huge-collapsing-scam.html
 * http://www.nakedcapitalism.com/2015/05/former-greenspan-fan-paul-krugman-now-calls-greenspan-worst-fed-chairman-ever.html
 * http://mobile.nytimes.com/2015/05/19/business/dealbook/many-on-wall-street-say-it-remains-untamed.html <- nothing has changed
+* http://www.bloombergview.com/articles/2015-05-26/deutsche-bank-ignored-its-cds-problems-until-they-went-away
 
 
 
@@ -279,6 +281,8 @@
 * http://www.overcomingbias.com/2015/05/elite-evaluator-rents.html
 * http://priceonomics.com/how-employers-get-out-of-paying-their-workers/
 * http://www.theguardian.com/lifeandstyle/2015/may/03/owning-trailer-parks-mobile-home-university-investment
+* http://www.datajustice.org/blog/great-decoupling-wages-and-productivity-driven-new-technology
+* http://www.nakedcapitalism.com/2015/05/americas-first-black-president-throwing-slaves-under-the-bus-on-tpp.html
 
 
 

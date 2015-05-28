@@ -11,3 +11,6 @@ Student debt is one of the big stories of our time. There are several broad disc
 * Trust to MOOCs and online learning, which scale far better than traditional, in-person education. Funny, though, the results aren't very impressive yet (LINK). I wonder what about the in-person, doesn't-scale part of education that is hard/impossible to duplicate on a computer. (ADD LINKS)
 
 I have no particular preference or aversion to any of these ideas, but they darn well better **make the situation better**. 
+
+
+Viz idea - revenue vs. professor income for each class. 

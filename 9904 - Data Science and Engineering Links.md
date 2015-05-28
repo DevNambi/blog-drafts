@@ -291,6 +291,8 @@
 * http://www.benkuhn.net/squared
 * http://www.stats.org/super-learning-and-the-revolution-in-knowledge/
 * https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf
+* http://technology.stitchfix.com/blog/2015/05/26/significant-sample/
+
 
 
 
@@ -406,6 +408,8 @@
 * http://www.machinedlearnings.com/2015/02/adversarial-scenarios-and-economies-of.html
 * http://radar.oreilly.com/2015/05/the-tensor-renaissance-in-data-science.html
 * http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html <- beautifully illustrated
+* http://www.mbmlbook.com/toc.html
+
 
 
 "ML tip: train a model to distinguish between your training set & unlabeled data. If it works, your training data may be incomplete!" - Jake Vanderplas
@@ -495,6 +499,9 @@
 * http://www.thestar.com/news/world/2015/04/17/how-a-toronto-professors-research-revolutionized-artificial-intelligence.html
 * http://blog.dato.com/practical-text-analysis-using-deep-learning
 * http://www.slideshare.net/dato-inc/strata-london-deep-learning-052015
+* http://www.extremetech.com/extreme/206521-thought-vectors-could-revolutionize-artificial-intelligence
+* http://maximusandme.blogspot.com/2015/05/thought-vector-deep-learning-progress.html
+
 
 
 #### ML Tools

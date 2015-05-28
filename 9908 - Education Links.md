@@ -57,6 +57,7 @@
 
 * http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html
 * http://www.seattletimes.com/education-lab/new-discipline-data-allows-comparisons-among-districts/
+* http://www.seattletimes.com/seattle-news/testing-cutting-into-class-time/
 * http://www.wired.com/2015/05/altschool/
 * http://www.nytimes.com/2015/04/07/nyregion/at-success-academy-charter-schools-polarizing-methods-and-superior-results.html
 * http://www.nytimes.com/2015/03/23/nyregion/cuomo-fights-rating-system-in-which-few-teachers-are-bad.html
@@ -413,6 +414,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 ### Mismeasurement, Incentives
 
 * http://blogs.seattletimes.com/northwestvoices/2014/10/27/uw-innovation-dont-lose-sight-of-academic-goals-by-building-new-buildings/
+* http://www.theguardian.com/world/2015/may/27/pakistan-arrests-axact-shoaib-shaikh-fake-degrees
 * http://www.economist.com/news/special-report/21646988-americas-higher-education-system-no-longer-delivering-all-it-should-flagging-model
 * http://jobs.timeshighereducation.co.uk/jobs_jobdetails.asp?ac=123947 <- "This represents everything that has gone wrong with university administration"
 * http://www.nytimes.com/2015/02/08/education/edlife/how-to-raise-a-universitys-profile-pricing-and-packaging.html
@@ -440,6 +442,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.artandeducation.net/school_watch/entire-usc-mfa-1st-year-class-is-dropping-out/
 * http://mobile.nytimes.com/2015/05/20/opinion/frank-bruni-platinum-pay-in-ivory-towers.html?_r=0
 * https://www.insidehighered.com/news/2015/05/21/bipartisan-agreement-risk-sharing-concept-only
+* http://www.bloomberg.com/news/articles/2015-05-26/ivy-league-pay-soars-taking-cue-from-corporate-america
 
 
 ### Student Culture, Sexual Assault, Assault
@@ -528,6 +531,8 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.slate.com/blogs/moneybox/2015/04/13/adjunct_pay_a_quarter_of_part_time_college_faculty_receive_public_assistance.html?wpsrc=fol_tw
 * https://www.insidehighered.com/news/2015/04/22/berkeley-study-finds-high-levels-depression-among-graduate-students
 * http://www.timeshighereducation.co.uk/features/phd-is-the-doctoral-thesis-obsolete/2020255.fullarticle
+* http://www.theatlantic.com/education/archive/2015/05/the-cost-of-an-adjunct/394091/?single_page=true
+
 
 ### Administration
 
