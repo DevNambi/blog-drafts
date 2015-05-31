@@ -20,6 +20,7 @@
 
 
 * http://www.theatlantic.com/technology/archive/2014/09/why-privacy-policies-are-so-inscrutable/379615/
+* https://medium.com/message/the-hypocrisy-of-the-internet-journalist-587d33f6279e
 * http://arstechnica.com/security/2015/03/anti-doxing-strategy-or-how-to-avoid-50-qurans-and-287-of-chick-fil-a/ <- incredibly important read
 * http://monica-at-mozilla.blogspot.com/2015/05/tracking-protection-for-firefox-at-web.html <- priceless
 * http://seattletimes.com/html/businesstechnology/2025244750_apxtecidentitytheftthehassle.html
