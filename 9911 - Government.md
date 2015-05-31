@@ -10,6 +10,7 @@
 * http://www.theatlantic.com/politics/archive/2015/04/loving-v-marriage/391730/
 * http://ben.balter.com/2015/04/21/why-technologists-dont-want-to-work-at-your-agency/
 * http://www.theatlantic.com/politics/archive/2015/03/the-conservative-case-against-enforcing-immigration-laws/387004/
+* http://www.nakedcapitalism.com/2015/05/delusional-thinking-in-washington-the-desperate-plight-of-a-declining-superpower.html
 * http://www.huffingtonpost.com/2015/05/22/senate-passes-fast-track_n_7425614.html
 * http://www.theatlantic.com/politics/archive/2015/04/too-vague-to-be-constitutional/390762/
 * http://www.seattletimes.com/seattle-news/federal-ruling-may-free-many-immigrants-without-posting-bonds/
@@ -23,6 +24,7 @@
 * http://mobile.nytimes.com/2014/10/12/business/no-smoke-no-mirrors-the-dutch-pension-plan.html
 * http://www.seattletimes.com/nation-world/us-lets-in-thai-fish-caught-by-slaves-despite-law-2/
 * http://www.nytimes.com/2015/02/08/magazine/the-shame-of-americas-family-detention-camps.html?_r=0
+* http://www.latimes.com/nation/la-na-hastert-misconduct-20150529-story.html <- happening during the Clinton impeachment, cynically enough
 * http://www.cio.com/article/2919053/lawmakers-want-to-protect-the-online-freedom-to-yelp.html
 * http://www.nybooks.com/articles/archives/2015/feb/19/james-risen-reporter-resists-his-government/
 * http://thinkprogress.org/climate/2015/02/23/3625717/duke-energy-coal-ash-charges/
