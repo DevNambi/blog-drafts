@@ -67,6 +67,7 @@
 * http://www.abqjournal.com/567598/politics/civil-asset-forfeiture-bill-signed-into-law-by-gov-susana-martinez.html
 * http://www.alternet.org/news-amp-politics/map-shows-exact-location-every-black-person-killed-cops-2014
 * http://www.pri.org/stories/2015-04-10/how-kicking-trash-can-became-criminal-6th-grader
+* http://denver.cbslocal.com/2015/05/29/denver-sheriff-whistleblower-i-was-ordered-to-destroy-videotape/
 * http://america.aljazeera.com/articles/2015/3/9/un-expert-slams-us-as-only-nation-to-sentence-kids-to-life-without-parole.html
 * http://theantimedia.org/4-victims-come-forward-chicago-secret-prison-man-tortured-weed/te 
 * http://www.nj.com/politics/index.ssf/2015/04/no_criminal_charges_for_nj_trooper_who_offered_to.html
