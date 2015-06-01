@@ -79,6 +79,7 @@
 * http://www.nakedcapitalism.com/2015/05/greece-says-it-will-make-imf-payment-next-week-as-stalemate-continues.html
 * http://www.nakedcapitalism.com/2015/05/why-syriza-will-blink.html
 * http://www.nakedcapitalism.com/2015/05/a-parallel-currency-for-greece-part-ii.html
+* http://www.nakedcapitalism.com/2015/06/greeces-shortening-negotiating-runway-and-possible-erroneous-assumptions.html
 
 
 
@@ -177,6 +178,7 @@
 * http://www.nakedcapitalism.com/2015/05/former-greenspan-fan-paul-krugman-now-calls-greenspan-worst-fed-chairman-ever.html
 * http://mobile.nytimes.com/2015/05/19/business/dealbook/many-on-wall-street-say-it-remains-untamed.html <- nothing has changed
 * http://www.bloombergview.com/articles/2015-05-26/deutsche-bank-ignored-its-cds-problems-until-they-went-away
+* http://www.nakedcapitalism.com/2015/06/a-unifying-approach-to-preventing-asset-price-bubbles.html
 
 
 
@@ -283,6 +285,7 @@
 * http://www.theguardian.com/lifeandstyle/2015/may/03/owning-trailer-parks-mobile-home-university-investment
 * http://www.datajustice.org/blog/great-decoupling-wages-and-productivity-driven-new-technology
 * http://www.nakedcapitalism.com/2015/05/americas-first-black-president-throwing-slaves-under-the-bus-on-tpp.html
+* http://www.nakedcapitalism.com/2015/06/cathy-oneil-if-you-redefine-performance-magical-things-happen.html
 
 
 
