@@ -9,6 +9,7 @@
 * http://arstechnica.com/tech-policy/2015/05/eu-dropped-plans-for-safer-pesticides-because-of-ttip-and-pressure-from-us/
 * http://www.nytimes.com/2015/04/25/opinion/sunday/how-i-got-converted-to-gmo-food.html?_r=0
 * http://www.nytimes.com/2015/04/21/upshot/simple-rules-for-healthy-eating.html
+* http://www.seattletimes.com/seattle-news/can-organic-be-profitable-if-the-price-is-right-study-says/ <- 5% more for organic, rather than 35%.
 * http://www.health.harvard.edu/blog/folic-acid-a-b-vitamin-lowers-stroke-risk-in-people-with-high-blood-pressure-201503187810
 * http://www.vox.com/2015/3/23/8264355/research-study-hype
 * http://www.economist.com/news/technology-quarterly/21645497-tech-startups-are-moving-food-business-make-sustainable-versions-meat
