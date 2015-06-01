@@ -444,6 +444,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://mobile.nytimes.com/2015/05/20/opinion/frank-bruni-platinum-pay-in-ivory-towers.html?_r=0
 * https://www.insidehighered.com/news/2015/05/21/bipartisan-agreement-risk-sharing-concept-only
 * http://www.bloomberg.com/news/articles/2015-05-26/ivy-league-pay-soars-taking-cue-from-corporate-america
+* http://www.theatlantic.com/education/archive/2015/05/american-universities-are-addicted-to-chinese-students/394517/
 
 
 ### Student Culture, Sexual Assault, Assault
@@ -605,6 +606,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://blog.mrmeyer.com/2014/what-students-do-and-dont-do-in-khan-academy/
 * https://www.class-central.com/report/moocs-stats-and-trends-2014/
 * https://www.insidehighered.com/news/2015/03/05/analysis-distance-education-enrollments-challenges-myths-about-medium
+* https://courserajunkie.wordpress.com/2015/05/26/courseras-free-statements-of-accomplisments-die-a-quiet-death/
 
 
 

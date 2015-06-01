@@ -49,6 +49,8 @@ Let's think of some examples:
 * Kidnapping
 * Bribery and extortion
 
+http://www.gdrc.org/uem/1000-village.html
+
 All of these have a few common elements:
 
 * They put *your desires* ahead of the desires of others. 

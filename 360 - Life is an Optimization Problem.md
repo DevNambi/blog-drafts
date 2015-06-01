@@ -8,6 +8,7 @@ Life is an optimization problem
 
 * https://nplusonemag.com/issue-21/the-intellectual-situation/too-fast-too-furious/
 * http://www.kpcb.com/design/how-to-be-happy-in-business-by-bud-cadell
+* http://www.seattletimes.com/opinion/living-the-small-happy-life-surprisingly-important-to-many/
 
 ### Examples
 
