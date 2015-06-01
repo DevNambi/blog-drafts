@@ -2,6 +2,8 @@
 
 "The holocaust was legal, slavery was legal, segregation was legal. If you use the state as a metric for ethics you'll end up disappointed." - @lex_looper
 
+* http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-map-us-police-killings <- amazingly useful, and disturbing
+
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
 * http://www.nytimes.com/2015/05/06/us/police-struggle-with-loss-of-privileged-position.html
 * http://www.theatlantic.com/national/archive/2015/05/the-texas-biker-shootout-is-too-much-for-waco-to-handle/393689/

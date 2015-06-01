@@ -347,6 +347,7 @@
 * http://www.seattletimes.com/seattle-news/data/credit-unions-still-gaining-fans-long-after-switch-from-big-banks/
 * http://www.nytimes.com/2015/05/09/your-money/some-new-math-for-the-4-percent-retirement-rule.html
 * http://mobile.nytimes.com/2015/05/10/upshot/unless-you-are-spock-irrelevant-things-matter-in-economic-behavior.html?_r=0
+* http://blog.dilbert.com/post/120441834951/knowledge-as-a-financial-asset
 
 
 
