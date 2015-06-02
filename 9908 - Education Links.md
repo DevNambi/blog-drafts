@@ -517,6 +517,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://www.insidehighered.com/news/2015/05/20/education-department-inspector-general-slams-agency%E2%80%99s-estimates-erroneous-pell-grant
 * http://www.thenation.com/article/198521/its-time-end-tuition-public-universities-and-abolish-student-debt
 * http://college.usatoday.com/2015/05/19/bernie-sanders-issues-bill-to-make-4-year-colleges-tuition-free/
+* http://www.seattletimes.com/seattle-news/education/gop-tuition-cut-would-hurt-state-get-program-treasurer-says/
 
 
 #### Adjuncts and Grad Students

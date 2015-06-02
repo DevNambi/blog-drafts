@@ -5,6 +5,7 @@
 ### Food
 
 * http://www.nytimes.com/interactive/2015/05/19/dining/summer-dinner-ideas.html <- AMAZING
+* http://www.seattletimes.com/life/food-drink/push-boundaries-of-flavor-by-cooking-with-tea/
 * http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0
 * http://arstechnica.com/tech-policy/2015/05/eu-dropped-plans-for-safer-pesticides-because-of-ttip-and-pressure-from-us/
 * http://www.nytimes.com/2015/04/25/opinion/sunday/how-i-got-converted-to-gmo-food.html?_r=0
@@ -640,6 +641,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://parenting.blogs.nytimes.com/2014/10/16/want-to-ace-that-test-get-the-right-kind-of-sleep/
 * http://www.fastcompany.com/3043128/sleep-inequality
 * http://www.bbc.com/earth/story/20150415-apes-reveal-sleep-secrets
+* http://www.seattletimes.com/seattle-news/health/snooze-away-adults-need-7-hours-of-sleep-a-night-new-guidelines-say/
 
 
 <li><a href="http://www.bbc.co.uk/news/health-21572686" time_added="1361898585" tags="health,hn,important">BBC News - Bad sleep 'dramatically' alters body</a></li>
