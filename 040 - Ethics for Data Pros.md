@@ -65,6 +65,7 @@ We believe we are working to make our society, our world, a better place. At the
 * http://arstechnica.com/science/2015/01/the-math-of-organ-donation-kidneys-are-an-np-hard-problem/
 * http://rrherr.com/2015/05/15/if-predictions-are-too-precise-is-insurance-not-insurance/ - If predictions are too precise, is insurance not insurance?
 * http://nonprofitwithballs.com/2015/05/weaponized-data-how-the-obsession-with-data-has-been-hurting-marginalized-communities/
+* http://mastercardcenter.org/insights/volunteering-sparks-innovation-data-good/
 
 
 

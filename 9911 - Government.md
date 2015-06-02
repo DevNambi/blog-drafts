@@ -97,6 +97,7 @@
 * http://arstechnica.com/tech-policy/2015/04/pepper-spraying-drones-will-be-used-on-indian-protesters/
 * http://mobile.nytimes.com/2015/04/10/world/middleeast/yemen-fighting.html?_r=0
 * https://www.eff.org/deeplinks/2015/05/africas-worst-new-internet-censorship-law-could-be-coming-south-africa
+* http://www.nytimes.com/2015/06/07/magazine/the-agency.html
 
 
 
@@ -210,6 +211,7 @@
 ## State
 
 * http://www.sfgate.com/business/article/State-let-oil-companies-taint-drinkable-water-in-6054242.php
+* http://www.wired.com/2015/06/fire-season-prep/
 * http://www.theatlantic.com/politics/archive/2015/03/how-red-states-learned-to-love-the-gas-tax/389084/
 * http://seattletimes.com/html/localnews/2025649226_prostitutionforfeituresxml.html
 * http://www.nakedcapitalism.com/2015/03/bill-black-homophobic-law-indiana-governor-dares-not-speak-purpose.html

@@ -112,6 +112,7 @@
 
 
 * https://education.github.com/pack
+* http://www.catonmat.net/blog/top-100-books-part-three/
 * http://zedshaw.com/archive/programmers-need-to-learn-statistics-or-i-will-kill-them-all/
 * http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
 * http://www.karllhughes.com/2014/dev-bootcamp-program/
@@ -343,6 +344,7 @@ Programming Teams,  Large Projects, Project Management
 * http://www.extremetech.com/computing/205382-ssds-can-lose-data-in-as-little-as-7-days-without-power
 * http://www.extremetech.com/extreme/205231-memristors-linked-into-neural-network-arrays
 * http://www.rightscale.com/blog/cloud-cost-analysis/google-vs-aws-pricing-google-cuts-are-first-2015
+* https://laur.ie/blog/2015/06/ssds-a-gift-and-a-curse/
 
 
 
@@ -605,6 +607,7 @@ things they believe in will keep </a></li>
 * http://kukuruku.co/hub/cpp/lock-free-data-structures-exploring-queues
 * http://julesjacobs.github.io/2015/05/06/exponentially-decaying-likes.html
 * http://www.datanami.com/2015/05/18/how-machine-learning-is-eating-the-software-world/
+* https://news.ycombinator.com/item?id=9643628
 
 
 

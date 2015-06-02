@@ -2,8 +2,11 @@
 
 
 * http://www.bloomberg.com/news/2014-10-02/jpmorgan-says-data-breach-affected-76-million-households.html
+* http://www.wired.com/2015/06/united-flights-grounded-mysterious-problem/
 * https://ma.ttias.be/remote-code-execution-via-http-request-in-iis-on-windows/
+* http://arstechnica.com/security/2015/06/new-remote-exploit-leaves-most-macs-vulnerable-to-permanent-backdooring/
 * http://blog.cryptographyengineering.com/2015/04/truecrypt-report.html
+* https://blog.benjojo.co.uk/post/auditing-github-users-keys
 * http://www.scmagazine.com/the-failure-of-the-security-industry/article/403261/
 * https://www.eff.org/deeplinks/2015/04/whitehouses-new-executive-order-cyber-crime-unfortunately-no-joke
 * http://arstechnica.com/security/2015/05/the-moose-is-loose-linux-based-worm-turns-routers-into-social-network-bots/

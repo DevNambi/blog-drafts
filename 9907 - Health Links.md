@@ -465,6 +465,7 @@
 
 
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
+* http://www.nakedcapitalism.com/2015/06/obamacares-problems-continue-to-fester-cost-complexity-quality-coverage-covered-california.html
 * http://mobile.nytimes.com/2015/06/02/business/seeking-rate-increases-insurers-use-guesswork.html
 * http://mobile.nytimes.com/2015/06/02/business/medicare-payments-billing-hospitals-doctors.html
 * http://www.nytimes.com/2015/05/06/business/rescued-by-an-air-ambulance-but-stunned-at-the-sky-high-bill.html

@@ -87,6 +87,7 @@
 
 * http://www.nakedcapitalism.com/2014/12/don-quijones-mexico-verge-new-tequila-crisis.html
 * http://wolfstreet.com/2015/05/14/brazil-just-getting-worse-and-worse-threatens-macro-and-financial-stability/
+* http://www.bloomberg.com/news/articles/2015-06-01/the-meaninglessness-of-ending-extreme-poverty-
 
 
 ## Bank & Regulatory Corruption
@@ -369,6 +370,11 @@
 * http://www.theguardian.com/environment/earth-insight/2014/mar/14/nasa-civilisation-irreversible-collapse-study-scientists
 * http://www.nakedcapitalism.com/2015/05/wolf-richter-why-the-heck-is-the-trucking-business-slowing-down.html
 * https://medium.com/basic-income/self-driving-trucks-are-going-to-hit-us-like-a-human-driven-truck-b8507d9c5961
+* http://www.nakedcapitalism.com/2015/06/wolf-richter-last-two-times-this-happened-stocks-crashed.html
+* http://www.nakedcapitalism.com/2015/06/the-notion-of-the-competitiveness-of-countries-is-nonsense.html
+
+
+
 
 ## Misc
 
