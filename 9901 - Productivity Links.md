@@ -8,6 +8,7 @@
 * http://www.acuriousmix.com/2014/09/03/designing-a-personal-knowledgebase/
 * http://danluu.com/dunning-kruger/
 * http://blog.donnywals.com/consistency-and-discipline-over-motivation/
+* http://www.theatlantic.com/business/archive/2015/06/the-office-sounds-that-make-us-more-productive/394541/
 * http://www.theatlantic.com/magazine/archive/2013/06/the-art-of-paying-attention/309312/
 * http://7goldfish.com/Little%20know%20ways%20to%20think%20about%20dicipline
 * http://www.npr.org/blogs/health/2015/01/05/371894919/what-heroin-addiction-tells-us-about-changing-bad-habits
