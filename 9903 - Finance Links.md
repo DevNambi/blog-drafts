@@ -104,6 +104,8 @@
 
 
 * http://www.nakedcapitalism.com/2014/09/sec-coverup-private-equity-worse-tbtf-banks.html
+* http://www.nakedcapitalism.com/2015/06/memo-to-readers-if-you-want-to-beat-big-finance-you-need-to-be-able-to-take-the-fight-to-their-terrain.html
+* http://www.nakedcapitalism.com/2015/06/sorkin-on-the-streets-surge-of-suicides-ignoring-the-obvious.html
 * http://www.nakedcapitalism.com/2015/03/bill-black-meet-citis-ethical-underwriter-fought-won-sherry-hunt.html
 * http://boingboing.net/2015/03/26/tpp-leak-states-give-companie.html
 * http://www.nakedcapitalism.com/2015/03/bill-black-fcic-spurned-one-chance-greatness.html

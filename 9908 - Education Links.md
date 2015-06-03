@@ -69,6 +69,7 @@
 * http://iquantny.tumblr.com/post/114374455289/safe-hallways-successful-tests
 * http://www.seattletimes.com/education-lab/stunning-surge-in-graduation-rate-as-rainier-beach-gamble-pays-off/
 * http://www.nytimes.com/2015/04/26/sunday-review/push-dont-crush-the-students.html
+* http://www.seattletimes.com/education-lab/seattle-sets-high-bar-for-substitutes-by-requiring-teaching-license/
 * http://www.chinasmack.com/2015/stories/thousands-mourn-death-of-chinese-high-school-principal.html
 * http://bits.blogs.nytimes.com/2015/03/17/pearson-under-fire-for-monitoring-students-twitter-posts/
 * http://www.nytimes.com/2015/03/22/us/politics/schools-wait-to-see-what-becomes-of-no-child-left-behind-law.html
