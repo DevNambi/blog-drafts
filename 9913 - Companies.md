@@ -242,6 +242,7 @@
 * http://www.theguardian.com/world/2015/mar/04/east-india-company-original-corporate-raiders
 * http://www.wired.com/2015/03/etsy-lost-soul-doesnt-matter-ipo/
 * http://www.aftenposten.no/webtv/serier-og-programmer/sweatshopenglish/TRAILER-SWEATSHOP---I-cant-take-any-more-7800835.html
+* http://www.washingtonpost.com/blogs/the-switch/wp/2015/06/03/a-horrible-new-paypal-policy-opts-you-into-getting-robocalls/
 
 
 

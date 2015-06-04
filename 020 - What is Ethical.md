@@ -213,6 +213,7 @@ We are rarely in total control of everything. Software engineering and IT ops ar
 So what's our impact? I like to assume everyone contributes equally, at least to start with. It's not true, but it's a simplying assumption that makes a lot of the math simpler. (If anyone knows a way of scientifically measuring individual contribution, *please* let me know).
 
 http://www.reddit.com/r/AskReddit/comments/23lgxz/what_about_your_job_would_shock_the_everyday/
+* http://www.wired.com/2015/06/i-made-an-untraceable-ar-15-ghost-gun/
 
 
 http://www.popularmechanics.com/military/research/a15233/liquidpiston-darpa-contract/
