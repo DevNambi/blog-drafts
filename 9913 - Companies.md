@@ -83,6 +83,7 @@
 * https://medium.com/michael-dubakov-selection/enterprise-software-vendors-have-no-taste-add7e78b7f69
 * http://steveblank.com/2015/03/11/fear-of-failure-and-lack-of-speed-in-a-large-corporation/
 * http://www.bloomberg.com/news/articles/2015-05-19/iowa-spent-50-million-to-lure-ibm-then-the-firings-started
+* http://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/
 
 
 

@@ -224,6 +224,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html?_r=0
 * http://www.payscale.com/index/US/Degree
 * http://www.payscale.com/college-salary-report-2013/majors-that-pay-you-back
+* https://www.insidehighered.com/news/2015/06/04/colleges-arts-and-sciences-struggle-deficits-enrollment-declines
 * http://www.nytimes.com/2014/04/13/education/edlife/10-courses-with-a-twist.html
 * http://blogs.seattletimes.com/educationlab/2014/07/07/chart-here-are-the-default-rates-for-every-college-in-the-state/
 * http://www.npr.org/blogs/ed/2014/04/08/300587823/putting-student-data-to-the-test-to-identify-struggling-kids?ft=1
@@ -521,6 +522,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.thenation.com/article/198521/its-time-end-tuition-public-universities-and-abolish-student-debt
 * http://college.usatoday.com/2015/05/19/bernie-sanders-issues-bill-to-make-4-year-colleges-tuition-free/
 * http://www.seattletimes.com/seattle-news/education/gop-tuition-cut-would-hurt-state-get-program-treasurer-says/
+* http://www.bbc.com/news/magazine-32821678
 
 
 #### Adjuncts and Grad Students
