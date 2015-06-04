@@ -163,6 +163,7 @@
 * http://www.king5.com/story/news/2015/02/24/seattle-tunnel-partners-allegations/23972785/
 * https://racketracer.wordpress.com/2015/03/02/predicting-and-plotting-crime-in-seattle/
 * http://www.seattletimes.com/seattle-news/520-toll-gouging-stories-get-more-preposterous/
+* http://grist.org/cities/in-seattle-the-rent-is-too-damn-high/
 
 
 

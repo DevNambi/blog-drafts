@@ -20,6 +20,7 @@
 
 
 * http://www.theatlantic.com/technology/archive/2014/09/why-privacy-policies-are-so-inscrutable/379615/
+* http://m.thenation.com/article/208593-you-can-be-prosecuted-clearing-your-browser-history
 * https://bananas.liberty.me/youre-a-criminal-in-a-mass-surveillance-world-how-to-not-get-caught/ <- critically important
 * https://medium.com/message/the-hypocrisy-of-the-internet-journalist-587d33f6279e
 * http://arstechnica.com/security/2015/03/anti-doxing-strategy-or-how-to-avoid-50-qurans-and-287-of-chick-fil-a/ <- incredibly important read

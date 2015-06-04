@@ -575,6 +575,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://www.technologyreview.com/news/535041/automating-the-data-scientists/
 * http://www.21stclub.com/blog/2015/4/22/can-analytics-help-a-last-placed-team-avoid-relegation
 * http://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/
+* https://hbr.org/2015/05/data-scientists-dont-scale
 
 
 
