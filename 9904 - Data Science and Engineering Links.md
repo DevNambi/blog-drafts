@@ -183,6 +183,7 @@
 * http://metricsgraphicsjs.org/
 * http://nbviewer.ipython.org/gist/msund/11349097
 * http://blog.ae.be/combining-the-power-of-r-and-d3-js/?hn
+* https://beta.oreilly.com/learning/data-visualization-with-seaborn
 
 
 
