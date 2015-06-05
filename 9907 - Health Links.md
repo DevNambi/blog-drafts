@@ -15,6 +15,7 @@
 * http://www.vox.com/2015/3/23/8264355/research-study-hype
 * http://www.economist.com/news/technology-quarterly/21645497-tech-startups-are-moving-food-business-make-sustainable-versions-meat
 * http://arstechnica.com/science/2015/02/common-food-emulsifiers-may-be-linked-to-metabolic-syndrome/
+* http://www.nerdfitness.com/blog/2015/06/04/in-case-of-emergency-follow-this-workout-strategy/
 * http://www.nytimes.com/interactive/2015/04/14/dining/field-guide-to-the-sandwich.html
 * http://gawker.com/the-food-babe-blogger-is-full-of-shit-1694902226
 * http://www.theatlantic.com/health/archive/2015/02/the-new-best-way-to-eat/385659/ 

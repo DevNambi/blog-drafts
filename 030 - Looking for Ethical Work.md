@@ -70,6 +70,7 @@ Industries
 * https://medium.com/backchannel/the-man-who-made-the-uk-say-im-sorry-for-what-we-did-to-turing-8fc468dcea6b
 * http://mobile.nytimes.com/2015/04/28/world/europe/pope-francis-steps-up-campaign-on-climate-change-to-conservatives-alarm.html?_r=0
 * https://www.eff.org/deeplinks/2015/02/eff-files-amicus-brief-case-seeks-hold-ibm-responsible-facilitating-apartheid
+* http://www.businessinsider.com/technology-is-destroying-jobs-and-it-could-spur-a-global-crisis-2015-6
 * http://www.ocregister.com/articles/jeon-62174-nguyen-captain.html
 * http://www.path.org/blog/2015/02/remembering-gaetano/
 * http://motherboard.vice.com/read/the-operators
@@ -87,6 +88,7 @@ Industries
 
 * http://www.nakedcapitalism.com/2013/10/ethics-and-complex-systems.html
 * https://nplusonemag.com/online-only/help-desk/bank-robbin-in-brooklyn/
+* http://www.npr.org/2015/06/03/411524156/in-search-of-the-red-cross-500-million-in-haiti-relief
 * http://berkeleyjournal.org/2015/01/morality-and-the-idea-of-progress-in-silicon-valley/
 * http://mobile.nytimes.com/2015/05/03/magazine/want-a-steady-income-theres-an-app-for-that.html
 * https://medium.com/@chrisloer/join-the-engineering-leisure-class-b3083c09a78e

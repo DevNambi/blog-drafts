@@ -387,6 +387,7 @@ Programming Teams,  Large Projects, Project Management
 * https://speakerdeck.com/jakevdp/losing-your-loops-fast-numerical-computing-with-numpy-pycon-2015
 * https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python
 * http://blog.quantifiedcode.com/python-code-analysis-tools-overview/
+* https://github.com/s16h/py-must-watch
 
 
 

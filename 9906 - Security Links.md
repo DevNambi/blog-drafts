@@ -24,6 +24,7 @@
 * http://blog.codinghorror.com/given-enough-money-all-bugs-are-shallow/
 * http://www.wsj.com/articles/the-man-who-hacks-your-people-1429499479
 * http://www.extremetech.com/computing/199978-samsung-is-still-lying-about-the-encryption-on-its-smart-tvs
+* http://www.washingtonpost.com/blogs/the-switch/wp/2015/06/04/fbi-official-companies-should-help-us-prevent-encryption-above-all-else/
 * http://krebsonsecurity.com/2015/04/a-day-in-the-life-of-a-stolen-healthcare-record/
 * http://www.extremetech.com/computing/205000-rombertik-malware-attacks-hard-drives-wipes-mbr-if-detected
 * http://arstechnica.com/security/2015/05/fbi-researcher-admitted-to-hacking-plane-in-flight-causing-it-to-climb/

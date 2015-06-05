@@ -369,6 +369,7 @@
 * http://visadoor.com/h1bvisa-database
 * http://mobile.nytimes.com/2014/11/16/opinion/sunday/warning-signs-from-commodity-prices.html
 * http://www.nakedcapitalism.com/2014/12/saudis-tell-shale-industry-will-break-plans-keep-pumping-even-20-barrel.html
+* http://www.businessinsider.com/technology-is-destroying-jobs-and-it-could-spur-a-global-crisis-2015-6
 * http://www.theguardian.com/environment/earth-insight/2014/mar/14/nasa-civilisation-irreversible-collapse-study-scientists
 * http://www.nakedcapitalism.com/2015/05/wolf-richter-why-the-heck-is-the-trucking-business-slowing-down.html
 * https://medium.com/basic-income/self-driving-trucks-are-going-to-hit-us-like-a-human-driven-truck-b8507d9c5961
