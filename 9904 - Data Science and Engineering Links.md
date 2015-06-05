@@ -666,6 +666,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * https://aphyr.com/posts/324-call-me-maybe-aerospike <- amazing
 * https://aws.amazon.com/blogs/aws/quickly-filter-data-in-amazon-redshift-using-interleaved-sorting/
 * https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html
+* http://blog.parsely.com/post/1928/cass/
 
 
 
