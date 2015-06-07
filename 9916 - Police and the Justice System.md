@@ -11,6 +11,7 @@
 * http://arstechnica.com/tech-policy/2015/06/lapd-officer-convicted-in-videotaped-beating-of-handcuffed-suspect/
 * http://mobile.nytimes.com/2015/05/19/us/politics/obama-to-limit-military-style-equipment-for-police-forces.html?_r=0
 * http://www.seattletimes.com/seattle-news/northwest/tacoma-ice-center-faces-new-criticism-over-alleged-beating/
+* http://mashable.com/2015/06/07/texas-cop-video/
 * http://www.nytimes.com/2015/05/07/us/mayor-stephanie-rawlings-blake-asks-justice-department-to-review-baltmore-police.html
 * http://arstechnica.com/tech-policy/2015/05/cops-must-now-get-a-warrant-to-use-stingrays-in-washington-state/
 * http://arstechnica.com/tech-policy/2015/05/warrantless-airport-search-of-laptop-cannot-be-justified-judge-rules/
