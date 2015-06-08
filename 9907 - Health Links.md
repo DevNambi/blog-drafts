@@ -198,6 +198,8 @@
 
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
 * http://insightmine.com/i-dont-care-if-you-dont-need-to-know-about-cancer-we-all-do/ <- amazing
+* http://www.psmag.com/health-and-behavior/worst-possible-surgery-scenarios
+    * http://www.surgjournal.com/article/S0039-6060(15)00315-3/abstract?cc=y=
 * http://www.thestranger.com/features/feature/2015/04/15/22062331/i-sat-in-on-my-sons-sex-ed-class-and-i-was-shocked-by-what-i-heard
 * http://well.blogs.nytimes.com/2015/04/27/admitted-to-your-bedroom-some-hospitals-try-treating-patients-at-home/
 * http://mobile.nytimes.com/blogs/well/2015/04/13/board-certification-and-fees-anger-doctors/
