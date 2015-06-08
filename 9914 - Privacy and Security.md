@@ -34,6 +34,7 @@
 * http://techcrunch.com/2014/10/11/edward-snowden-new-yorker-festival/
 * http://www.washingtonpost.com/blogs/the-fix/wp/2015/01/18/with-snowden-in-the-background-privacy-takes-a-back-seat-to-security/
 * http://crashoverridenetwork.tumblr.com/post/113748237272/guide-talking-to-family-police
+* https://krebsonsecurity.com/2015/06/how-i-learned-to-stop-worrying-and-embrace-the-security-freeze/
 * http://thenextweb.com/insider/2015/05/17/adblockers-are-immoral-and-mobile-networks-should-know-better/
 * http://www.computerworld.com/article/2926775/security0/data-breach-costs-now-average-154-per-record.html
 * http://mobile.nytimes.com/2015/06/05/opinion/edward-snowden-the-world-says-no-to-surveillance.html?_r=0
