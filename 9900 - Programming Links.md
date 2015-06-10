@@ -159,6 +159,7 @@
 * http://blog.hut8labs.com/coding-fast-and-slow.html?reddit
 * http://www.higherorderlogic.com/2010/07/bad-code-isnt-technical-debt-its-an-unhedged-call-option/
 * http://blog.stephenwyattbush.com/2012/04/07/dad-and-the-ten-commandments-of-egoless-programming
+* http://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/
 
 
 

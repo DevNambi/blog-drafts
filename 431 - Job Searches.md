@@ -138,6 +138,7 @@ Interviews are one of the best times to find out about a company's culture, work
 <li><a href="http://www.vox.com/2015/5/22/8639717/reid-hoffman-the-alliance">The biggest lie employers tell employees</a></li>
 <li><a href="http://www.quora.com/What-are-some-red-flags-that-signal-you-should-walk-away-from-a-start-up-job?share=1">What are some red flags that signal you should walk away from a start-up job?</a></li>
 <li><a href="http://america.aljazeera.com/articles/2015/5/26/worker-owned-tech-cooperatives-find-a-niche-near-silicon-valley.html">Worker-owned tech cooperatives find a niche near Silicon Valley</a></li>
+<li><a href="http://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/">I quit the tech industry</a></li>
 </ul>
 
 @hintikka: KP (Kleiner Perkins) trial also confirms: if you have options and you clash w/ the structure of your workplace, leave. Structure will not change.
