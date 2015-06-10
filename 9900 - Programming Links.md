@@ -27,6 +27,7 @@
 
 * http://cbsg.sourceforge.net/cgi-bin/live <- AMAZING
 * http://erniepark.com/software/2014/08/20/10-practical-software-engineer-tips.html
+* http://blog.fogcreek.com/going-beyond-code-to-become-a-better-programmer-interview-with-pete-goodliffe/
 * https://www.innoq.com/en/blog/thoughts-on-a-canonical-data-model/
 * http://blog.prof.so/2015/03/tools.html
 * https://hbr.org/1990/07/reengineering-work-dont-automate-obliterate/ar/1
