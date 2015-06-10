@@ -7,6 +7,7 @@
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
 * http://www.komonews.com/news/national/FBI-flying-surveillance-aircraft-over-Seattle-other-cities-305830401.html
 * http://www.nytimes.com/2015/05/06/us/police-struggle-with-loss-of-privileged-position.html
+* http://www.seattletimes.com/seattle-news/mayor-at-odds-with-civilian-panel-over-its-power-in-forming-police-policies/
 * http://www.theatlantic.com/national/archive/2015/05/the-texas-biker-shootout-is-too-much-for-waco-to-handle/393689/
 * http://arstechnica.com/tech-policy/2015/06/lapd-officer-convicted-in-videotaped-beating-of-handcuffed-suspect/
 * http://mobile.nytimes.com/2015/05/19/us/politics/obama-to-limit-military-style-equipment-for-police-forces.html?_r=0
