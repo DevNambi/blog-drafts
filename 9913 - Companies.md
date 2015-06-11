@@ -114,6 +114,7 @@
 
 * http://www.infoworld.com/article/2840959/data-security/mobile-payments-fraud-opportunities.html
 * https://corp.sonic.net/ceo/2014/11/12/neutrality-is-just-a-symptom/
+* http://arstechnica.com/business/2015/06/internet-nightmare-att-sells-broadband-to-your-neighbors-but-not-to-you/
 * http://www.philly.com/philly/blogs/trending/Comcast-cashes-elderly-womans-rent-check-offers-credit-in-return.html
 * http://arstechnica.com/business/2014/11/fcc-calls-atts-fiber-bluff-demands-detailed-construction-plans/
 * http://arstechnica.com/business/2015/01/fcc-chairman-mocks-industry-claims-that-customers-dont-need-faster-internet/

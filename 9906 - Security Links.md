@@ -12,6 +12,7 @@
 * http://arstechnica.com/security/2015/05/the-moose-is-loose-linux-based-worm-turns-routers-into-social-network-bots/
 * http://www.wired.com/2015/04/want-see-domestic-spyings-future-follow-drug-war/
 * http://recode.net/2015/04/13/cyber-crime-still-on-the-rise-using-nine-basic-attack-methods/
+* https://www.schneier.com/blog/archives/2015/06/reassessing_air.html
 * http://www.cringely.com/2015/05/02/your-pbx-has-been-hacked/
 * http://www.nytimes.com/2015/04/16/style/keeping-your-car-safe-from-electronic-thieves.html?_r=0
 * https://krebsonsecurity.com/2015/04/whats-your-security-maturity-level/

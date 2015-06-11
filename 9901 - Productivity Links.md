@@ -180,6 +180,7 @@ Embrace awkwardness more
 * http://techreport.com/review/28111/tr-april-2015-peripheral-staff-picks
 * http://www.extremetech.com/extreme/175089-who-makes-the-most-reliable-hard-drives
 * http://techreport.com/review/28198/the-tech-report-system-guide-may-2015-edition
+* https://support.skype.com/en/faq/FA142/how-can-i-delete-my-skype-account
 
 
 

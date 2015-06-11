@@ -32,6 +32,7 @@
 ## Parenting
 
 * http://www.nytimes.com/2015/02/01/opinion/sunday/the-only-baby-book-youll-ever-need.html
+* http://fivethirtyeight.com/features/putting-a-price-tag-on-the-stress-of-having-a-child/
 * http://www.theatlantic.com/health/archive/2015/04/millenials-not-having-babies/391721/
 * http://www.theatlantic.com/health/archive/2015/04/the-quantified-baby/389009/?single_page=true
 * http://minusbat.livejournal.com/180556.html
