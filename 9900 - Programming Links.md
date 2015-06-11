@@ -369,6 +369,7 @@ Programming Teams,  Large Projects, Project Management
 * https://www.loggly.com/blog/the-most-popular-programming-languages-in-to-github-since-2012/
 * http://mikecavaliere.com/dont-get-attached-programming-languages/
 * http://www.technologyreview.com/review/536356/toolkits-for-the-mind/
+* http://www.codersnotes.com/notes/the-death-of-the-von-neumann-architecture
 
 
 
