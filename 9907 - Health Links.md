@@ -198,6 +198,7 @@
 
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
 * https://vanwinkles.com/bedtime-for-benzodiazepines-addicted-drug-most-popular-sleeping-pills
+* http://arstechnica.com/science/2015/06/personal-vaccine-exemptions-under-fire-in-california-and-by-ama/
 * http://insightmine.com/i-dont-care-if-you-dont-need-to-know-about-cancer-we-all-do/ <- amazing
 * http://www.psmag.com/health-and-behavior/worst-possible-surgery-scenarios
     * http://www.surgjournal.com/article/S0039-6060(15)00315-3/abstract?cc=y=

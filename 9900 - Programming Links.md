@@ -160,6 +160,7 @@
 * http://www.higherorderlogic.com/2010/07/bad-code-isnt-technical-debt-its-an-unhedged-call-option/
 * http://blog.stephenwyattbush.com/2012/04/07/dad-and-the-ten-commandments-of-egoless-programming
 * http://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/
+* http://techcrunch.com/2015/06/10/indian-programmer-exposes-code-injection-gets-a-cease-and-desist-from-the-injectors/
 
 
 

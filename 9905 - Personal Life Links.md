@@ -36,6 +36,7 @@
 * http://www.theatlantic.com/health/archive/2015/04/the-quantified-baby/389009/?single_page=true
 * http://minusbat.livejournal.com/180556.html
 * http://www.seattletimes.com/seattle-news/health/autism-could-be-linked-with-moms-diabetes-during-pregnancy/
+* http://www.realityprose.com/what-happened-with-lego/
 * http://www.theatlantic.com/health/archive/2015/04/babies-learn-through-being-surprised/389420/
 * http://www.nytimes.com/2014/10/17/us/quality-of-words-not-quantity-is-crucial-to-language-skills-study-finds.html
 * http://www.theatlantic.com/business/archive/2013/10/first-children-are-smarter-but-why/280725/
