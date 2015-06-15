@@ -249,6 +249,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://www.insidehighered.com/quicktakes/2014/11/14/west-virginia-u-suspends-all-greek-activities
 * http://www.nytimes.com/2014/11/16/nyregion/at-college-where-alumni-pockets-are-shallow-a-struggle-to-raise-money.html
 * http://highereddatastories.blogspot.com/2014/11/four-ways-to-look-at-college-tuition-in.html
+* http://www.washingtonpost.com/local/education/colleges-are-using-big-data-to-identify-when-students-are-likely-to-flame-out/2015/06/14/b2cc68f8-03e4-11e5-bc72-f3e16bf50bb6_story.html?hpid=z5&utm_content=buffera1bfc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 * http://seattletimes.com/html/localnews/2025040516_internationalstudentsxml.html
 * https://www.insidehighered.com/news/2014/11/20/nsse-2014-finds-size-selectivity-make-little-difference-student-engagement
 * http://www.salon.com/2014/11/25/robert_reich_college_gets_you_nowhere_partner/
@@ -348,7 +349,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 <li><a href="http://eepurl.com/wG6Yj" time_added="1363186742" tags="">Inside Higher Ed: Outsourcing Public Higher Ed / Dueling Plans on Federal S</a></li>
 <li><a href="http://seattletimes.com/html/businesstechnology/2022886387_earningsgapxml.html" time_added="1392174700" tags="">Earnings linked ever tighter to college diploma</a></li>
 <li><a href="http://www.artofmanliness.com/2014/03/24/is-college-for-everyone-part-ii-the-pros-and-cons-of-attending-a-4-year-college/" time_added="1396306038" tags="">Is College for Everyone? Part II: The Pros and Cons of Attending a 4-Year C</a></li>
-<li><a href="http://www.nytimes.com/2014/05/04/opinion/sunday/douthat-college-the-great-unequalizer.html?hp&rref=opinion" time_added="1399160749" tags="">College, the Great Unequalizer - NYTimes.com</a></li>
+<li><a href="http://www.nytimes.com/2014/05/04/opinion/sunday/douthat-college-the-great-unequalizer.html" time_added="1399160749" tags="">College, the Great Unequalizer - NYTimes.com</a></li>
 <li><a href="http://www.vox.com/2014/7/21/5921595/young-college-grads-wage-growth-is-falling-farther-and-farther-behind" time_added="1406578683" tags="">Young college grads’ wage growth is falling farther and farther behind</a></li>
 <li><a href="http://dangerousminds.net/comments/boomerang_kids_images_of_college_graduates_with_huge_debts_who_live_with_th?onswipe_redirect=no&oswrr=1" time_added="1406756669" tags="">‘Boomerang Kids’: Images of college graduates with huge debts who live with</a></li>
 <li><a href="http://www.salon.com/2014/08/02/how_the_middle_class_got_screwed_college_costs_globalization_and_our_new_insecurity_economy/" time_added="1407016966" tags="">How the middle class got screwed: College costs, globalization and our new </a></li>
@@ -450,6 +451,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://www.insidehighered.com/news/2015/05/21/bipartisan-agreement-risk-sharing-concept-only
 * http://www.bloomberg.com/news/articles/2015-05-26/ivy-league-pay-soars-taking-cue-from-corporate-america
 * http://www.theatlantic.com/education/archive/2015/05/american-universities-are-addicted-to-chinese-students/394517/
+* https://www.insidehighered.com/news/2015/06/15/are-lazy-rivers-and-climbing-walls-driving-cost-college
 
 
 ### Student Culture, Sexual Assault, Assault
