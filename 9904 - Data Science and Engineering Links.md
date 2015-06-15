@@ -356,6 +356,7 @@
 * http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 * https://www.kaggle.com/users/195999/henning-sperr/otto-group-product-classification-challenge/finding-ensamble-weights
 * http://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/
+* http://mlwave.com/kaggle-ensembling-guide/
 * http://www.gregreda.com/2015/03/30/beer-review-markov-chains/
 * http://blog.dato.com/choosing-a-recommender-model
 * http://research.microsoft.com/pubs/192769/tricks-2012.pdf
@@ -570,6 +571,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 
 "So you're telling me that the most highly paid people in an organisation can only process information as complex as a traffic light?" - @ballantine70
 
+Promising #bigdata decency heuristic from @timoreilly : can worker see the data (and therefore get agency from it)? #SparkSummit
 
 * http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype
 * http://www.technologyreview.com/news/535041/automating-the-data-scientists/

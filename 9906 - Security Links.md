@@ -6,6 +6,7 @@
 * https://ma.ttias.be/remote-code-execution-via-http-request-in-iis-on-windows/
 * http://arstechnica.com/security/2015/06/new-remote-exploit-leaves-most-macs-vulnerable-to-permanent-backdooring/
 * http://blog.cryptographyengineering.com/2015/04/truecrypt-report.html
+* https://blog.lastpass.com/2015/06/lastpass-security-notice.html/
 * https://blog.benjojo.co.uk/post/auditing-github-users-keys
 * http://www.scmagazine.com/the-failure-of-the-security-industry/article/403261/
 * https://www.eff.org/deeplinks/2015/04/whitehouses-new-executive-order-cyber-crime-unfortunately-no-joke

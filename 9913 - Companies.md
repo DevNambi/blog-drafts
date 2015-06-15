@@ -84,6 +84,8 @@
 * http://steveblank.com/2015/03/11/fear-of-failure-and-lack-of-speed-in-a-large-corporation/
 * http://www.bloomberg.com/news/articles/2015-05-19/iowa-spent-50-million-to-lure-ibm-then-the-firings-started
 * http://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/
+* http://www.quora.com/Why-did-Borland-fail/answer/Danny-Thorpe?share=1&
+
 
 
 
@@ -138,6 +140,7 @@
 ## Google
 
 * http://www.webpronews.com/data-confirms-google-is-wiping-out-a-whole-category-of-websites-2015-01
+* https://medium.com/@tommycm/what-it-s-really-like-to-work-for-a-tech-giant-4462fd18ce19
 * http://mobile.nytimes.com/2015/04/16/business/international/european-union-google-antitrust-case.html?_r=0
 * http://www.datajustice.org/blog/ftc-report-revealed-clash-between-googles-public-statements-and-internal-documents
 * http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube
