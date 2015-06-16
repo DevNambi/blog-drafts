@@ -290,6 +290,7 @@
 * http://www.nakedcapitalism.com/2015/05/americas-first-black-president-throwing-slaves-under-the-bus-on-tpp.html
 * http://www.nakedcapitalism.com/2015/06/cathy-oneil-if-you-redefine-performance-magical-things-happen.html
 * http://www.washingtonpost.com/news/storyline/wp/2014/10/16/she-bought-a-sofa-on-installment-payments-now-its-straining-her-life/?src=longreads
+* http://www.theatlantic.com/business/archive/2015/06/teenagers-are-losing-confidence-in-the-american-dream/395780/
 
 
 

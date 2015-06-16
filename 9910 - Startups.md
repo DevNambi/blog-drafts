@@ -114,6 +114,7 @@
 * https://medium.com/matter/the-shut-in-economy-ec3ec1294816
 * http://www.theawl.com/2015/05/leaving-new-york-and-also-technology
 * http://niki.zone/personal/my-first-job-burnout/
+* http://www.theatlantic.com/entertainment/archive/2015/06/hbo-silicon-valley-season-2-finale/395750/
 
 
 ## Misc
