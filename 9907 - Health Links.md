@@ -5,6 +5,7 @@
 ### Food
 
 * http://www.nytimes.com/interactive/2015/05/19/dining/summer-dinner-ideas.html <- AMAZING
+* http://www.nerdfitness.com/blog/2015/06/15/11-most-common-workout-questions-answered/
 * http://www.seattletimes.com/life/food-drink/push-boundaries-of-flavor-by-cooking-with-tea/
 * http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0
 * http://arstechnica.com/tech-policy/2015/05/eu-dropped-plans-for-safer-pesticides-because-of-ttip-and-pressure-from-us/
