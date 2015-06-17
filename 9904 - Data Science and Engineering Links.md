@@ -277,6 +277,7 @@
 * http://www.johndcook.com/blog/2015/02/04/miscellaneous-math-resources/
 * https://medium.com/@warrenhenning/a-software-engineers-adventures-in-learning-mathematics-62140c59e5c
 * http://sujitpal.blogspot.com/2014/05/ipython-notebooks-for-statlearning.html
+* https://umich.app.box.com/s/aov81sye5qxlx0yyonhy23itstsjp4t4 <- Linear optimization (pdf)
 * http://svds.com/post/avoiding-common-mistake-time-series
 * http://www.simonsfoundation.org/quanta/20141015-at-the-far-ends-of-a-new-universal-law/
 * http://scottsievert.github.io/blog/2015/01/31/the-mysterious-eigenvalue/

@@ -204,6 +204,7 @@
 <li><a href="http://www.marcandangel.com/2013/04/15/9-things-your-relationships-need-from-you/" time_added="1367350446" tags="domestic">9 Things Your Relationships Need From You</a></li>
 
 * http://www.theatlantic.com/health/archive/2014/06/why-we-sleep-together/371477/
+* http://goodmenproject.com/featured-content/why-readers-scientifically-are-the-best-people-to-fall-in-love-with-dg/
 * http://www.randalolson.com/2014/11/06/what-makes-for-a-stable-marriage-part-2/
 * http://pamelaclark.tumblr.com/post/87113711124/35-practical-tools-for-men-to-further-feminist
 * http://www.sciencedaily.com/releases/2015/04/150406144600.htm

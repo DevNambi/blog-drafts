@@ -46,6 +46,8 @@
 
 ## Wal-Mart
 
+* http://www.bloomberg.com/news/articles/2015-06-17/wal-mart-has-76-billion-in-overseas-tax-havens-report-says
+
 <li><a href="http://gawker.com/walmarts-anti-union-dialogue-is-great-you-bet-1506493461" time_added="1390407737" tags="">Walmart's Leaked Anti-Union Scripts Are Great, "You Bet!!" gawker.com/walma</a></li>
 <li><a href="http://www.salon.com/2014/06/25/walmart_flunks_its_fact_check_the_truth_behind_its_sarcastic_response_to_the_times/" time_added="1403736455" tags="">http://www.salon.com/2014/06/25/walmart_flunks_its_fact_check_the_truth_behind_its_sarcastic_response_to_the_times/</a></li>
 
@@ -160,6 +162,7 @@
 <li><a href="http://www.newyorker.com/online/blogs/newsdesk/2013/03/the-cost-of-ubers-free-rides.html?currentPage=all" time_added="1363563038" tags="hn">The Cost of Uber's Free Rides : The New Yorker</a></li>
 
 * http://www.slate.com/articles/business/moneybox/2014/10/uber_driver_salary_the_ride_sharing_company_says_its_drivers_make_great.single.html
+* http://techcrunch.com/2015/06/17/uber-drivers-deemed-employees-by-california-labor-commission/
 * http://www.thedailybeast.com/articles/2015/05/21/uber-disability-laws-don-t-apply-to-us.html
 * http://www.yesmagazine.org/new-economy/uber-unionized-worker-owned-co-op-denver-cabbies
 * http://www.theverge.com/2014/11/4/7150225/uber-is-recruiting-50000-veterans
