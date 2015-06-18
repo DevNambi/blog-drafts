@@ -32,6 +32,7 @@
 * https://emailselfdefense.fsf.org/en/
 * http://www.antipope.org/charlie/blog-static/2015/05/thoughtcrime.html
 * https://modelviewculture.com/pieces/social-networking-as-peer-surveillance
+* https://www.privateinternetaccess.com/blog/2015/06/google-chrome-listening-in-to-your-room-shows-the-importance-of-privacy-defense-in-depth/
 * http://fusion.net/story/49806/beware-houseguests-cheap-home-surveillance-cameras-are-everywhere-now/
 * http://techcrunch.com/2014/10/11/edward-snowden-new-yorker-festival/
 * http://www.washingtonpost.com/blogs/the-fix/wp/2015/01/18/with-snowden-in-the-background-privacy-takes-a-back-seat-to-security/
