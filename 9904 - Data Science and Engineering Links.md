@@ -237,6 +237,8 @@
 * http://www.gallamine.com/2015/05/a-day-in-life-of-data-scientist-part-1.html
 * http://mashable.com/2015/05/07/hiring-a-data-scientist/
 * http://www.datascienceassn.org/content/demand-data-scientists-data-engineers
+* http://www.bloomberg.com/news/articles/2015-06-04/help-wanted-black-belts-in-data
+
 
 **Hiring at Dropbox**
 
@@ -272,6 +274,7 @@
 
 
 * http://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/
+* https://plot.ly/ipython-notebooks/survival-analysis-r-vs-python/
 * http://www.nicebread.de/what-does-a-bayes-factor-feel-like/
 * http://kadavy.net/blog/posts/aa-testing/
 * http://www.johndcook.com/blog/2015/02/04/miscellaneous-math-resources/
@@ -346,6 +349,7 @@
 
 
 * http://punkrockor.wordpress.com/2014/08/12/in-defense-of-model-simplicity/
+* http://www.startup.ml/blog/hyperparam
 * http://www.infoq.com/presentations/machine-learning-general-programming <- brilliant
 * http://www.dataschool.io/comparing-supervised-learning-algorithms/
 * http://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/
@@ -505,6 +509,11 @@
 * http://www.slideshare.net/dato-inc/strata-london-deep-learning-052015
 * http://www.extremetech.com/extreme/206521-thought-vectors-could-revolutionize-artificial-intelligence
 * http://maximusandme.blogspot.com/2015/05/thought-vector-deep-learning-progress.html
+
+
+#### Network Optimization, Linear Algebra, NP-hard 
+
+* http://mortada.net/drafts/the-traveling-tesla-salesman.html
 
 
 

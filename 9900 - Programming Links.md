@@ -478,6 +478,7 @@ Programming Teams,  Large Projects, Project Management
 * http://www.andreas-dewes.de/en/2015/queens-of-the-data-age-abusing-common-table-expressions-to-solve-the-eight-queens-problem-in-sql/
 * http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/
 * http://hortonworks.com/blog/hive-0-14-cost-based-optimizer-cbo-technical-overview/
+* https://www.periscope.io/blog/better-sql-schema.html
 * http://blogs.barrons.com/techtraderdaily/2015/03/30/michael-stonebraker-describes-oracles-obsolescence-facebooks-enormous-challenge/
 * http://www.pg-versus-ms.com/ <- amazing
 * http://www.brentozar.com/archive/2015/03/five-interview-questions-to-ask-sql-server-developers/
