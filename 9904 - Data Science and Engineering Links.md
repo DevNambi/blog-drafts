@@ -230,6 +230,7 @@
 
 * http://www.brianckeegan.com/2014/10/on-starting-a-new-job/
 * https://gigaom.com/2014/12/04/want-to-make-data-scientist-money-learn-data-science-tools/
+* https://medium.com/@D33B/interview-questions-for-data-scientist-positions-5ad3c5d5b8bd
 * http://pawelmhm.github.io/python/pandas/2015/01/01/python-job-analytics.html
 * http://www.quora.com/What-are-20-questions-to-detect-fake-data-scientists
 * http://www.wsj.com/article_email/artificial-intelligence-experts-are-in-high-demand-1430472782-lMyQjAxMTA1MzA2MTMwNTEyWj
@@ -487,6 +488,7 @@
 * http://nbviewer.ipython.org/gist/yoavg/d76121dfde2618422139
 * https://chronicle.com/article/article-content/190147/
 * http://blog.wtf.sg/
+* https://timdettmers.wordpress.com/2015/03/09/deep-learning-hardware-guide/
 * http://sebastianraschka.com/Articles/2015_singlelayer_neurons.html
 * http://www.extremetech.com/extreme/199814-microsoft-to-accelerate-bing-search-with-neural-network
 * http://www.rosebt.com/blog/introduction-to-deep-learning-with-python
