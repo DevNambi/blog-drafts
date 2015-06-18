@@ -275,6 +275,7 @@
 
 
 * http://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/
+* http://pymc-devs.github.io/pymc3/getting_started/
 * https://plot.ly/ipython-notebooks/survival-analysis-r-vs-python/
 * http://www.nicebread.de/what-does-a-bayes-factor-feel-like/
 * http://kadavy.net/blog/posts/aa-testing/
