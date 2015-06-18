@@ -520,9 +520,10 @@
 
 
 
-#### ML Tools
+#### ML Tools, Hyperparameters
 
 * https://blog.onliquid.com/machine-learning-service-benchmark/
+* blog.dato.com/a-hyperparameter-search-tool-built-for-data-science
 
 
 ## Learning
