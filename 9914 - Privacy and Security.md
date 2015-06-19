@@ -28,6 +28,7 @@
 * http://arstechnica.com/security/2015/03/anti-doxing-strategy-or-how-to-avoid-50-qurans-and-287-of-chick-fil-a/ <- incredibly important read
 * http://monica-at-mozilla.blogspot.com/2015/05/tracking-protection-for-firefox-at-web.html <- priceless
 * http://seattletimes.com/html/businesstechnology/2025244750_apxtecidentitytheftthehassle.html
+* https://www.eff.org/deeplinks/2015/06/why-facebook-failed-our-censorship-test
 * http://arstechnica.com/tech-policy/2015/06/fake-mobile-phone-towers-discovered-in-london-stingrays-come-to-the-uk/
 * https://emailselfdefense.fsf.org/en/
 * http://www.antipope.org/charlie/blog-static/2015/05/thoughtcrime.html

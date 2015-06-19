@@ -27,6 +27,7 @@
 * http://arstechnica.com/tech-policy/2015/03/one-apartment-complexs-rule-you-write-a-bad-review-we-fine-you-10k/
 * http://arstechnica.com/business/2014/10/verizon-bankrolled-news-site-bans-stories-on-spying-and-net-neutrality/
 * http://arstechnica.com/tech-policy/2014/11/startups-can-now-buy-insurance-against-threat-of-patent-trolls/
+* http://arstechnica.com/tech-policy/2015/06/from-quote-to-retraction-request-imaxs-absurd-attempt-to-censor-ars/
 * http://www.theatlantic.com/entertainment/archive/2015/03/the-free-potentially-legal-site-for-streaming-everything/386680/
 * http://arstechnica.com/tech-policy/2014/11/gnome-open-source-project-fights-groupon-over-gnome-trademark/
 * http://www.newyorker.com/magazine/2015/04/27/the-man-who-broke-the-music-business

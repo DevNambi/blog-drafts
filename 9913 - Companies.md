@@ -121,6 +121,7 @@
 * http://arstechnica.com/business/2015/06/internet-nightmare-att-sells-broadband-to-your-neighbors-but-not-to-you/
 * http://www.philly.com/philly/blogs/trending/Comcast-cashes-elderly-womans-rent-check-offers-credit-in-return.html
 * http://arstechnica.com/business/2014/11/fcc-calls-atts-fiber-bluff-demands-detailed-construction-plans/
+* http://arstechnica.com/business/2015/06/verizon-ordered-to-finish-fiber-build-that-it-promised-but-didnt-deliver/
 * http://arstechnica.com/business/2015/01/fcc-chairman-mocks-industry-claims-that-customers-dont-need-faster-internet/
 * http://arstechnica.com/business/2014/12/att-wins-right-to-intervene-in-citys-fiber-broadband-plan/
 * http://arstechnica.com/tech-policy/2015/03/man-who-sued-comcast-now-wants-over-5m-says-isp-shouldnt-have-smeared-him/
