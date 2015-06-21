@@ -7,6 +7,7 @@
 * http://www.defmacro.org/2014/10/03/engman.html
 * https://gist.github.com/kylebrandt/89dc754c658340e87d97
 * http://www.slideshare.net/ericschmidt76/how-google-works-final-1
+* https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf
 * http://www.farnamstreetblog.com/2015/02/ben-horowitz-the-law-of-crappy-people/
 * http://zachholman.com/posts/0x-engineers/
 * http://blog.karma.wiki/post/116870055382/the-curious-case-of-artem-andreenko
