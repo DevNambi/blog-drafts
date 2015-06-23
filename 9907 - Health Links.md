@@ -646,6 +646,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://www.salon.com/2014/09/23/the_real_reason_americans_are_increasingly_overweight_partner/
 * http://www.usatoday.com/story/news/nation/2012/10/15/sleep-deprivation-fat-cells/1630289/
 * http://www.nerdfitness.com/blog/2015/05/21/how-steve-the-software-architect-dropped-110-lbs/
+* http://desinutritionauthority.com/2015/06/why-young-slim-vegetarian-non-smoking-indians-are-struggling-with-cardiac-blockages-heart-attacks-and-diabetes/
 
 
 

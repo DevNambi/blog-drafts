@@ -80,6 +80,7 @@
 * http://www.nakedcapitalism.com/2015/05/why-syriza-will-blink.html
 * http://www.nakedcapitalism.com/2015/05/a-parallel-currency-for-greece-part-ii.html
 * http://www.nakedcapitalism.com/2015/06/greeces-shortening-negotiating-runway-and-possible-erroneous-assumptions.html
+* http://www.nakedcapitalism.com/2015/06/deal-with-greece-still-looks-wobbly.html
 
 
 
@@ -121,6 +122,7 @@
 * http://uk.reuters.com/article/2015/02/25/uk-hsbc-tax-politics-idUKKBN0LT1L220150225
 * http://www.nytimes.com/2015/03/17/nyregion/state-senate-works-to-block-christie-from-settling-pollution-lawsuit-against-exxon.html
 * http://www.nakedcapitalism.com/2015/03/rebuke-cronyistic-new-york-fed-tbtf-bank-supervision-shifted-fed-board-governors.html
+* http://avc.com/2015/06/the-coming-change-in-monetary-policy/
 * http://mobile.nytimes.com/2015/04/12/business/dealbook/insurers-bypass-rules-to-add-hidden-risk.html?_r=0
 * http://www.seattletimes.com/seattle-news/us-house-oks-cutting-safeguards-for-mobile-home-buyers/
 * http://www.nakedcapitalism.com/2015/04/ridiculing-concerns-tpp-tyranny.html

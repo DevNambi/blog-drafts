@@ -83,6 +83,7 @@ Emphasize what we don't know
 
 
 * http://forecast.io/raw/
+* http://www.bloomberg.com/news/articles/2015-06-23/the-way-humans-get-electricity-is-about-to-change-forever
 * http://nautil.us/issue/25/water/the-real-landscapes-of-the-great-flood-myths
 * http://www.nytimes.com/2015/05/31/opinion/sunday/holding-your-breath-in-india.html?_r=0
 * http://www.newyorker.com/magazine/2015/05/25/the-disappearing-river

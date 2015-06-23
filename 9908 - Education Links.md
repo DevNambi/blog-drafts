@@ -550,6 +550,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://www.insidehighered.com/news/2015/04/22/berkeley-study-finds-high-levels-depression-among-graduate-students
 * http://www.timeshighereducation.co.uk/features/phd-is-the-doctoral-thesis-obsolete/2020255.fullarticle
 * http://www.theatlantic.com/education/archive/2015/05/the-cost-of-an-adjunct/394091/?single_page=true
+* http://www.theguardian.com/commentisfree/2015/jun/22/adjunct-professor-earn-less-than-pet-sitter
 
 
 ### Administration

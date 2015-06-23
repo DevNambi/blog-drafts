@@ -635,6 +635,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://techblog.netflix.com/2015/03/can-spark-streaming-survive-chaos-monkey.html
 * http://blog.acolyer.org/2015/02/05/impala-a-modern-open-source-sql-engine-for-hadoop/
 * http://prometheus.io/
+* http://blog.kismatic.com/qa-with-malte-schwarzkopf-on-distributed-systems-orchestration-in-the-modern-data-center/
 * http://tech.adroll.com/blog/data/2013/07/10/hll-minhash.html
 * http://ianozsvald.com/2015/02/19/spark-1-2-pyspark-elasticsearch-pypy/
 * https://gist.github.com/debasishg/8172796

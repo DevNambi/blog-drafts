@@ -37,6 +37,7 @@
 * http://fusion.net/story/49806/beware-houseguests-cheap-home-surveillance-cameras-are-everywhere-now/
 * http://techcrunch.com/2014/10/11/edward-snowden-new-yorker-festival/
 * http://www.washingtonpost.com/blogs/the-fix/wp/2015/01/18/with-snowden-in-the-background-privacy-takes-a-back-seat-to-security/
+* https://www.eff.org/deeplinks/2015/06/supreme-court-strikes-down-warrantless-searches-hotel-records-reaffirms-fourth
 * http://crashoverridenetwork.tumblr.com/post/113748237272/guide-talking-to-family-police
 * https://krebsonsecurity.com/2015/06/how-i-learned-to-stop-worrying-and-embrace-the-security-freeze/
 * http://thenextweb.com/insider/2015/05/17/adblockers-are-immoral-and-mobile-networks-should-know-better/

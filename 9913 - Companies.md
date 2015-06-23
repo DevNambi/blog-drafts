@@ -30,7 +30,8 @@
 * http://www.nytimes.com/2014/10/20/opinion/paul-krugman-amazons-monopsony-is-not-ok.html
 * http://smerity.com/articles/2015/amazon_information_leakage.html
 * http://www.economist.com/blogs/freeexchange/2014/10/market-power?fsrc=scn/fb/wl/bl/bigbadamazon
-* https://www.scribd.com/embeds/245561031/content?start_page=1&view_mode=scroll&access_key=key-UEZdQ4D9zd883gw8tn3D&show_recommendations=true
+* https://www.scribd.com/embeds/245561031/content
+* http://www.nytimes.com/2015/06/24/business/amazon-big-retailers-remove-confederate-flag-merchandise.html?_r=0
 * http://www.theguardian.com/money/2014/nov/28/being-homeless-is-better-than-working-for-amazon
 * http://seattletimes.com/html/businesstechnology/2025138315_amazonkivaxml.html
 * http://www.wired.com/2014/12/amazon-reveals-robots-heart-epic-cyber-monday-operation/
@@ -252,6 +253,8 @@
 * http://www.wired.com/2015/03/etsy-lost-soul-doesnt-matter-ipo/
 * http://www.aftenposten.no/webtv/serier-og-programmer/sweatshopenglish/TRAILER-SWEATSHOP---I-cant-take-any-more-7800835.html
 * http://www.washingtonpost.com/blogs/the-switch/wp/2015/06/03/a-horrible-new-paypal-policy-opts-you-into-getting-robocalls/
+* http://www.nytimes.com/2015/06/23/business/takata-is-said-to-have-stopped-safety-audits-as-cost-saving-move.html
+* http://techcrunch.com/2015/06/23/reddit-turns-ten-years-old-releases-treasure-trove-of-cool-stats/
 
 
 
