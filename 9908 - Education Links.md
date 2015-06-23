@@ -249,7 +249,8 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://www.insidehighered.com/quicktakes/2014/11/14/west-virginia-u-suspends-all-greek-activities
 * http://www.nytimes.com/2014/11/16/nyregion/at-college-where-alumni-pockets-are-shallow-a-struggle-to-raise-money.html
 * http://highereddatastories.blogspot.com/2014/11/four-ways-to-look-at-college-tuition-in.html
-* http://www.washingtonpost.com/local/education/colleges-are-using-big-data-to-identify-when-students-are-likely-to-flame-out/2015/06/14/b2cc68f8-03e4-11e5-bc72-f3e16bf50bb6_story.html?hpid=z5&utm_content=buffera1bfc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+* http://www.washingtonpost.com/local/education/colleges-are-using-big-data-to-identify-when-students-are-likely-to-flame-out/2015/06/14/b2cc68f8-03e4-11e5-bc72-f3e16bf50bb6_story.html
+* https://www.distractify.com/the-major-project-1197927180.html
 * http://seattletimes.com/html/localnews/2025040516_internationalstudentsxml.html
 * https://www.insidehighered.com/news/2014/11/20/nsse-2014-finds-size-selectivity-make-little-difference-student-engagement
 * http://www.salon.com/2014/11/25/robert_reich_college_gets_you_nowhere_partner/
