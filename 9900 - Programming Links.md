@@ -88,6 +88,7 @@
 * http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
 * http://nautil.us/blog/why-our-genome-and-technology-are-both-riddled-with-crawling-horrors
 * http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-“spaghetti”-code
+* http://www.fastcompany.com/3047642/tech-forecast/do-the-simple-thing-first-the-engineering-behind-instagram
 
 
 
@@ -194,7 +195,7 @@
 
 
 
-Programming Teams,  Large Projects, Project Management
+## Programming Teams,  Large Projects, Project Management
 
 
 <li><a href="https://community.uservoice.com/blog/trello-google-docs-product-management/" time_added="1390416673" tags="">How we use Trello & Google Docs to make UserVoice better every day | UserCe</a></li>
@@ -227,6 +228,7 @@ Programming Teams,  Large Projects, Project Management
 * https://teamgantt.com/guide-to-project-management/
 * https://localizejs.com/blog/startup/developer-productivity-saying-no
 * https://unwiredcouch.com/2015/05/04/project-management.html
+* http://www.infoq.com/news/2015/06/Steve-Smith-Continuous-Delivery
 
 
 
@@ -296,6 +298,7 @@ Programming Teams,  Large Projects, Project Management
 
 
 * http://muratbuffalo.blogspot.com/2014/07/distributed-is-not-necessarily-more.html
+* https://aws.amazon.com/blogs/aws/focusing-on-spot-instances-lets-talk-about-best-practices/
 * http://blog.textit.in/why-buying-provisioned-iops-on-rds-may-be-a-mistake
 * http://engineering.pinterest.com/post/113376157699/open-sourcing-pinball
 * http://www.brendangregg.com/blog/2015-03-03/performance-tuning-linux-instances-on-ec2.html

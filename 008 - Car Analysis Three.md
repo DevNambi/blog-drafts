@@ -43,6 +43,7 @@ http://www.mrmoneymustache.com/2011/09/30/is-a-costco-membership-worth-the-cost/
 http://arstechnica.com/cars/2015/05/meta-analysis-finds-self-braking-cars-reduce-collisions-by-38-percent/
 http://consumerist.com/2015/05/20/gm-that-car-you-bought-were-really-the-ones-who-own-it/
 * http://money.usnews.com/money/personal-finance/articles/2015/06/09/startups-offer-new-ways-to-buy-and-sell-used-cars
+* http://www.nytimes.com/2015/06/24/business/senate-commerce-hearing-takata-airbag-nhtsa-general-motors.html
 
 
 ## Safe and Unsafe Cars

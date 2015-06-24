@@ -104,6 +104,7 @@ Emphasize what we don't know
 * http://www.washingtonpost.com/news/energy-environment/wp/2015/04/01/the-arctic-climate-threat-that-nobodys-even-talking-about-yet/
 * http://www.atlasobscura.com/places/the-great-green-wall-of-africa
 * http://arstechnica.com/science/2015/03/us-doe-examines-a-future-grid-thats-35-percent-wind/
+* http://blogs.wsj.com/japanrealtime/2015/06/24/japan-building-giant-battery-systems-to-store-solar-power/?mod=e2fb
 * http://arstechnica.com/science/2015/04/us-energy-future-looks-like-independence-efficiency-and-renewables/
 * http://www.wired.com/2015/03/californias-run-water-act-now/
 * http://www.bloomberg.com/news/articles/2015-03-20/who-classifies-monsanto-s-glyphosate-as-probably-carcinogenic-

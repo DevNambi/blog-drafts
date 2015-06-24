@@ -5,6 +5,7 @@
 * http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-map-us-police-killings <- amazingly useful, and disturbing
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
+* http://www.seattletimes.com/seattle-news/politics/police-reform-monitor-asks-harrell-to-wait-on-legislation/
 * http://www.komonews.com/news/national/FBI-flying-surveillance-aircraft-over-Seattle-other-cities-305830401.html
 * http://www.nytimes.com/2015/05/06/us/police-struggle-with-loss-of-privileged-position.html
 * http://www.seattletimes.com/seattle-news/mayor-at-odds-with-civilian-panel-over-its-power-in-forming-police-policies/

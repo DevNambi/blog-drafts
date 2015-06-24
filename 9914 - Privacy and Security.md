@@ -175,5 +175,8 @@
 
 
 
+"All WHOIS data changes are logged by various companies. If your WHOIS privacy breaks, even for a day, you are unmasked forever. It's bad."
+
+
 
 Galperin's Law: "once you build a backdoor, you don't get to decide who walks through it."

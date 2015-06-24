@@ -93,6 +93,7 @@
 * http://jakeaustwick.me/python-web-scraping-resource/
 * http://googleresearch.blogspot.com/2015/06/a-multilingual-corpus-of-automatically.html
 * http://blog.yhathq.com/posts/7-funny-datasets.html
+* http://googleresearch.blogspot.com/2015/06/a-multilingual-corpus-of-automatically.html
 
 
 
@@ -685,7 +686,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://aws.amazon.com/blogs/aws/quickly-filter-data-in-amazon-redshift-using-interleaved-sorting/
 * https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html
 * http://blog.parsely.com/post/1928/cass/
-
+* http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR
 
 
 

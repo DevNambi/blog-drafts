@@ -8,6 +8,7 @@
 
 * http://arstechnica.com/science/2014/10/why-chinas-economic-growth-hasnt-been-getting-cleaner/
 * http://mobile.nytimes.com/2014/10/19/world/asia/hong-kong-officials-offer-fresh-talks-with-protesters-.html
+* http://www.nytimes.com/2015/06/11/opinion/chinas-troubling-robot-revolution.html
 * http://seattletimes.com/html/nationworld/2024816652_factoryfirexml.html
 * http://www.nytimes.com/2014/10/27/technology/using-cash-and-pressure-china-builds-its-chip-industry.html
 * http://www.nakedcapitalism.com/2014/12/michael-pettis-china-really-turning-away-dollar.html
@@ -293,6 +294,7 @@
 * http://www.nakedcapitalism.com/2015/06/cathy-oneil-if-you-redefine-performance-magical-things-happen.html
 * http://www.washingtonpost.com/news/storyline/wp/2014/10/16/she-bought-a-sofa-on-installment-payments-now-its-straining-her-life/?src=longreads
 * http://www.theatlantic.com/business/archive/2015/06/teenagers-are-losing-confidence-in-the-american-dream/395780/
+* http://blogs.wsj.com/economics/2015/06/22/top-ceo-pay-isnt-driven-by-talent-new-study-says/
 
 
 

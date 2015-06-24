@@ -43,6 +43,12 @@ CPU speed, on the other hand, varies dramatically.
 * https://cloud.google.com/compute/docs/local-ssd#pricing_and_quota
 
 
+
+
+https://aws.amazon.com/blogs/aws/focusing-on-spot-instances-lets-talk-about-best-practices/
+
+
+
 **Resources**
 
 * http://www.citeworld.com/article/2113976/cloud-computing/ultimate-cloud-speed-tests-amazon-vs-google-vs-windows-azure.html
