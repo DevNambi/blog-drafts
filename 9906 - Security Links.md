@@ -8,6 +8,7 @@
 * http://blog.cryptographyengineering.com/2015/04/truecrypt-report.html
 * http://arstechnica.com/security/2015/06/encryption-would-not-have-helped-at-opm-says-dhs-official/
 * https://blog.lastpass.com/2015/06/lastpass-security-notice.html/
+* http://20committee.com/2015/06/08/hacking-as-offensive-counterintelligence/
 * https://blog.benjojo.co.uk/post/auditing-github-users-keys
 * http://mobile.nytimes.com/2015/06/21/us/attack-gave-chinese-hackers-privileged-access-to-us-systems.html?_r=0
 * http://www.scmagazine.com/the-failure-of-the-security-industry/article/403261/
