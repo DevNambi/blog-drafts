@@ -2,6 +2,8 @@
 
 "The holocaust was legal, slavery was legal, segregation was legal. If you use the state as a metric for ethics you'll end up disappointed." - @lex_looper
 
+“An unjust law is itself a species of violence. Arrest for its breach is more so.” Gandhi
+
 * http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-map-us-police-killings <- amazingly useful, and disturbing
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.

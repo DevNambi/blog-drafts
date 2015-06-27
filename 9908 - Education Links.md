@@ -498,7 +498,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://highereddatastories.blogspot.com/2014/11/what-is-pell-grant-worth.html
 * http://fivethirtyeight.com/datalab/loan-forgiveness-for-bad-faith-not-bad-bargain-schools/
 * https://www.insidehighered.com/news/2015/03/31/education-department-names-most-colleges-facing-heightened-scrutiny-federal
-* http://www.nytimes.com/2015/04/27/business/dealbook/burdened-with-debt-law-school-graduates-struggle-in-job-market.html?_r=0
+* http://www.nytimes.com/2015/04/27/business/dealbook/burdened-with-debt-law-school-graduates-struggle-in-job-market.html
 * http://www.latimes.com/business/la-fi-corinthian-shutdown-20150427-story.html#page=1
 * http://www.fastcoexist.com/3045598/forget-harvard-heres-where-to-go-to-college-if-you-want-a-high-paying-job
 * http://www.thenation.com/blog/202849/campaign-refuse-student-debt-about-kick-overdrive
@@ -509,14 +509,14 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2014/11/22/your-money/paying-for-college/college-abacus-offers-data-on-college-costs-but-some-schools-balk.html
 * http://seattletimes.com/html/opinion/2025124962_spitzeropedhighered30xml.html
 * http://www.finaid.org/loans/studentloandebtclock.phtml
-* http://www.nytimes.com/2015/01/25/upshot/a-quiet-revolution-in-helping-lift-the-burden-of-student-debt.html?abt=0002&abg=1
+* http://www.nytimes.com/2015/01/25/upshot/a-quiet-revolution-in-helping-lift-the-burden-of-student-debt.html
 * https://www.americanprogress.org/issues/higher-education/report/2014/12/03/102407/state-disinvestment-in-higher-education-has-led-to-an-explosion-of-student-loan-debt/
 * https://www.insidehighered.com/news/2014/12/12/cfpb-accuses-two-debt-relief-companies-predatory-practices
 * https://www.insidehighered.com/news/2014/12/15/federal-audit-faults-education-department-lack-plan-prevent-student-loan-defaults
 * http://www.theatlantic.com/business/archive/2014/12/mfas-an-increasingly-popular-increasingly-bad-financial-decision/383706/
 * http://www.salon.com/2015/01/02/another_college_tuition_nightmare_even_free_college_isnt_free_anymore/
 * http://occupythebookstore.com/
-* http://www.nytimes.com/2015/01/18/upshot/helping-the-poor-in-higher-education-the-power-of-a-simple-nudge.html?abt=0002&abg=0
+* http://www.nytimes.com/2015/01/18/upshot/helping-the-poor-in-higher-education-the-power-of-a-simple-nudge.html
 * http://www.nytimes.com/2015/01/18/nyregion/cuomo-to-offer-plan-to-cut-college-graduates-debt.html
 * http://kristiculpepper.tumblr.com/post/108127738567/student-loan-myths-and-implications-for-taxpayers
 * http://www.nakedcapitalism.com/2015/01/department-of-education-sides-against-students-to-feather-its-own-bed-in-for-profit-corinthian-colleges-debacle.html
@@ -534,7 +534,8 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://college.usatoday.com/2015/05/19/bernie-sanders-issues-bill-to-make-4-year-colleges-tuition-free/
 * http://www.seattletimes.com/seattle-news/education/gop-tuition-cut-would-hurt-state-get-program-treasurer-says/
 * http://www.bbc.com/news/magazine-32821678
-* http://www.nytimes.com/2015/06/07/opinion/sunday/why-i-defaulted-on-my-student-loans.html?smid=tw-nytopinion&_r=0 <- BRAVO
+* http://www.nytimes.com/2015/06/07/opinion/sunday/why-i-defaulted-on-my-student-loans.html <- BRAVO
+* http://www.jefftk.com/p/how-to-get-a-massive-discount-on-college
 
 
 #### Adjuncts and Grad Students

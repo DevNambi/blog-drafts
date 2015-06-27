@@ -23,6 +23,7 @@
 * http://www.foxnews.com/us/2015/04/16/security-expert-pulled-off-flight-by-fbi-after-exposing-airline-tech/
 * http://mobile.nytimes.com/2015/06/06/us/chinese-hackers-may-be-behind-anthem-premera-attacks.html
 * http://arstechnica.com/security/2015/05/https-crippling-attack-threatens-tens-of-thousands-of-web-and-mail-servers/
+* http://hexatomium.github.io/2015/06/26/ms-very-quietly-adds-18-new-trusted-root-certs/
 * http://www.nytimes.com/2015/05/18/opinion/surveillance-without-borders.html
 * http://trilema.com/2015/full-disclosure-4096-rsa-key-in-the-strongset-factored/
 * http://www.nationaljournal.com/tech/mcconnell-introduces-bill-to-reauthorize-patriot-act-until-2020-20150421
