@@ -82,6 +82,9 @@
 * http://www.nakedcapitalism.com/2015/05/a-parallel-currency-for-greece-part-ii.html
 * http://www.nakedcapitalism.com/2015/06/greeces-shortening-negotiating-runway-and-possible-erroneous-assumptions.html
 * http://www.nakedcapitalism.com/2015/06/deal-with-greece-still-looks-wobbly.html
+* http://www.telegraph.co.uk/news/worldnews/europe/greece/11704818/Greece-crisis-Bank-Under-the-Bed-becomes-last-hope-for-many-as-ATMs-run-dry.html
+* http://www.nakedcapitalism.com/2015/06/why-greek-banks-are-likely-to-be-toast-no-deposit-insurance.html
+* http://www.nakedcapitalism.com/2015/06/consent-governed-tsipras-style.html
 
 
 
@@ -185,6 +188,8 @@
 * http://mobile.nytimes.com/2015/05/19/business/dealbook/many-on-wall-street-say-it-remains-untamed.html <- nothing has changed
 * http://www.bloombergview.com/articles/2015-05-26/deutsche-bank-ignored-its-cds-problems-until-they-went-away
 * http://www.nakedcapitalism.com/2015/06/a-unifying-approach-to-preventing-asset-price-bubbles.html
+* http://www.nakedcapitalism.com/2015/06/top-private-equity-reporter-calpers-is-either-lying-or-has-a-massive-breakdown-in-financial-controls.html
+
 
 
 
@@ -395,6 +400,7 @@
 * http://www.futuresmag.com/2014/11/01/how-power-peg-brought-down-a-knight
 * http://dealbook.nytimes.com/2014/12/13/small-bank-in-kansas-is-a-financial-testing-ground/
 * http://www.realclearmarkets.com/articles/2015/01/16/amid_bitcoins_bloodbath_silence_from_silicon_valley_press_101490.html
+* http://www.nakedcapitalism.com/2015/06/the-standard-definition-of-money-is-in-error.html
 
 
 <li><a href="http://www.ecommercebytes.com/cab/abu/y201/m09/abu0047/s03" time_added="1354918107" tags="domestic,finance">Sniping Tools - Making Sure You Win the Auction</a></li>

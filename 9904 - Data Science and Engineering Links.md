@@ -372,6 +372,7 @@
 * http://research.microsoft.com/pubs/192769/tricks-2012.pdf
 * http://arxiv.org/pdf/1503.01331v1.pdf
 * http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+* http://www.quora.com/What-are-the-advantages-of-different-classification-algorithms
 * http://blog.fractalanalytics.com/institutionalizing-analytics/online-machine-learning-2/
 * https://newsoffice.mit.edu/2015/better-machine-learning-kalyan-veeramachaneni-0224
 * https://outlookzen.wordpress.com/2015/03/15/life-lessons-from-machine-learning/
@@ -649,6 +650,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/
 * http://opensourceconnections.com/blog/2015/02/04/its-log-its-log-its-big-its-hyper-its-good/
 * http://ben.kirw.in/2014/11/28/kafka-patterns/
+* http://www.slideshare.net/SarahGuido/data-science-at-scale-using-apache-spark-for-data-science-at-bitly
 * http://www.slideshare.net/deanwampler/spark-the-next-top-compute-model-39976454
 * http://databricks.com/blog/2015/01/07/ml-pipelines-a-new-high-level-api-for-mllib.html
 * http://citusdata.com/blog/90-sql-scaling-and-whats-unique-about-postgres

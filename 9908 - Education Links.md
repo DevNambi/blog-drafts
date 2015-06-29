@@ -456,6 +456,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.theatlantic.com/education/archive/2015/05/american-universities-are-addicted-to-chinese-students/394517/
 * https://www.insidehighered.com/news/2015/06/15/are-lazy-rivers-and-climbing-walls-driving-cost-college
 * http://www.nakedcapitalism.com/2015/06/college-is-wildly-exploitative-why-arent-students-raising-hell.html
+* https://firstlook.org/theintercept/2015/06/27/child-left-un-mined/
 
 
 ### Student Culture, Sexual Assault, Assault
@@ -567,6 +568,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.mindingthecampus.com/2013/06/forget_moocslets_use_mooa/
 * http://bigthink.com/rightly-understood/big-silly-idea-the-mooa
 * https://www.insidehighered.com/news/2015/05/05/report-says-administrative-bloat-construction-booms-not-largely-responsible-tuition <- think about this in detail
+* http://www.reviewjournal.com/news/education/nevada-higher-ed-officials-quashed-report-critical-their-management <- wow this is screwed up
 
 
 ### Careers
