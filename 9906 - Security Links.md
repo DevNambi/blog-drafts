@@ -158,6 +158,7 @@
 * https://firstlook.org/theintercept/2015/03/10/ispy-cia-campaign-steal-apples-secrets/
 * https://threatpost.com/equation-apt-group-attack-platform-a-study-in-stealth/111550
 * http://www.scribd.com/doc/256849173/Snowden-Task-Force-Damage-Reports-REDACTED
+* https://www.techdirt.com/articles/20150629/16134031494/nsa-despite-claiming-it-doesnt-engage-economic-espionage-engaged-economic-espionage.shtml
 * http://www.reddit.com/r/IAmA/comments/2wwdep/we_are_edward_snowden_laura_poitras_and_glenn/
 * http://arstechnica.com/uncategorized/2015/05/phone-metadata-spying-not-authorized-by-patriot-act-appeals-court-says/
 * http://blog.cryptographyengineering.com/2014/12/on-new-snowden-documents.html

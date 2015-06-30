@@ -186,6 +186,7 @@
 * http://nbviewer.ipython.org/gist/msund/11349097
 * http://blog.ae.be/combining-the-power-of-r-and-d3-js/?hn
 * https://beta.oreilly.com/learning/data-visualization-with-seaborn
+* https://github.com/wbkd/awesome-d3
 
 
 
@@ -691,6 +692,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html
 * http://blog.parsely.com/post/1928/cass/
 * http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR
+* http://ampcamp.berkeley.edu/
 
 
 

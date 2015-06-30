@@ -201,13 +201,14 @@
 
 
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
+* http://stm.sciencemag.org/content/7/278/278ra33.full
 * https://vanwinkles.com/bedtime-for-benzodiazepines-addicted-drug-most-popular-sleeping-pills
 * http://www.sciencealert.com/new-alzheimer-s-treatment-fully-restores-memory-function
 * http://www.seattletimes.com/nation-world/some-acid-reflux-drugs-safety-questioned/
 * http://arstechnica.com/science/2015/06/personal-vaccine-exemptions-under-fire-in-california-and-by-ama/
 * http://insightmine.com/i-dont-care-if-you-dont-need-to-know-about-cancer-we-all-do/ <- amazing
 * http://www.psmag.com/health-and-behavior/worst-possible-surgery-scenarios
-    * http://www.surgjournal.com/article/S0039-6060(15)00315-3/abstract?cc=y=
+    * http://www.surgjournal.com/article/S0039-6060(15)00315-3/abstract
 * http://www.thestranger.com/features/feature/2015/04/15/22062331/i-sat-in-on-my-sons-sex-ed-class-and-i-was-shocked-by-what-i-heard
 * http://well.blogs.nytimes.com/2015/04/27/admitted-to-your-bedroom-some-hospitals-try-treating-patients-at-home/
 * http://mobile.nytimes.com/blogs/well/2015/04/13/board-certification-and-fees-anger-doctors/
@@ -225,7 +226,7 @@
 * http://www.bloomberg.com/news/features/2015-02-12/does-a-real-anti-aging-pill-already-exist-
 * https://gravityandlevity.wordpress.com/2009/07/08/your-body-wasnt-built-to-last-a-lesson-from-human-mortality-rates/
 * http://www.bbc.com/news/health-31533559
-* http://www.nytimes.com/2015/02/24/opinion/how-to-develop-new-antibiotics.html?smid=tw-share&_r=1
+* http://www.nytimes.com/2015/02/24/opinion/how-to-develop-new-antibiotics.html
 * http://arstechnica.com/science/2015/02/hospitals-that-track-their-performance-dont-improve-healthcare/
 * http://www.nytimes.com/2015/03/08/technology/on-the-case-at-mount-sinai-its-dr-data.html? <- my calling?
 * http://recode.net/2015/03/11/gates-foundations-new-ceo-why-we-can-eradicate-four-diseases-in-the-next-15-years/
@@ -235,19 +236,19 @@
 * http://news.sciencemag.org/biology/2015/02/stopping-hiv-artificial-protein
 * http://www.popsci.com/ultrasound-restores-memory-mice-alzheimers
 * http://www.sciencealert.com/new-alzheimer-s-treatment-fully-restores-memory-function
-* http://www.nytimes.com/2015/02/18/health/doctors-strive-to-do-less-harm-by-inattentive-care.html?_r=0 <- how does this interact with EHR?
+* http://www.nytimes.com/2015/02/18/health/doctors-strive-to-do-less-harm-by-inattentive-care.html <- how does this interact with EHR?
 * http://www.wired.com/2015/02/incredible-hospital-robot-saving-lives-also-hate/
 * http://www.bmj.com/content/350/bmj.h384
-* http://www.nytimes.com/2015/02/11/nyregion/doulas-the-latest-wave-in-maternity-culture-are-organizing-for-more-recognition.html?_r=0
+* http://www.nytimes.com/2015/02/11/nyregion/doulas-the-latest-wave-in-maternity-culture-are-organizing-for-more-recognition.html
 * http://www.impactjournals.com/oncotarget/index.php?journal=oncotarget&page=article&op=view&path%5B%5D=3174
 * http://www.pri.org/stories/2015-04-30/do-we-all-have-alzhemers-completely-wrong-man-says-yes
-* http://www.npr.org/blogs/goatsandsoda/2015/05/07/404963436/scientists-crack-a-50-year-old-mystery-about-the-measles-vaccine?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20150508
+* http://www.npr.org/blogs/goatsandsoda/2015/05/07/404963436/scientists-crack-a-50-year-old-mystery-about-the-measles-vaccine
 * http://www.huffingtonpost.com/johann-hari/the-real-cause-of-addicti_b_6506936.html
 * http://www.bbc.com/news/world-europe-31864218 <- hilarious
 * http://nautil.us/issue/21/information/your-dna-is-nothing-special
-* http://www.nytimes.com/2015/02/03/upshot/how-to-measure-a-medical-treatments-potential-for-harm.html?_r=0&abt=0002&abg=1 <- super important
+* http://www.nytimes.com/2015/02/03/upshot/how-to-measure-a-medical-treatments-potential-for-harm.html <- super important
 * http://arstechnica.com/science/2015/03/a-common-over-the-counter-cough-suppressant-can-boost-insulin/
-* http://mobile.nytimes.com/blogs/well/2015/02/04/infections-tied-to-lower-rheumatoid-arthritis-risk/?referrer=
+* http://mobile.nytimes.com/blogs/well/2015/02/04/infections-tied-to-lower-rheumatoid-arthritis-risk/
 * http://www.abc.net.au/news/2014-10-27/medication-software-likely-to-kill-patients-within-month-report/5843044
 * http://opinionator.blogs.nytimes.com/2015/01/31/dying-shouldnt-be-so-brutal/
 * https://www.insidehighered.com/news/2015/02/02/measles-outbreak-raises-issues-colleges
@@ -274,11 +275,11 @@
 * http://zoekeating.tumblr.com/post/105883712804/hospitals-and-blogging
 * https://medium.com/backchannel/should-surgeons-keep-score-8b3f890a7d4c
 * http://www.wired.com/2014/10/number-needed-to-treat/ <- USE THIS FOR A BLOG POST
-* http://www.nytimes.com/2015/01/27/upshot/can-this-treatment-help-me-theres-a-statistic-for-that.html?abt=0002&abg=1
+* http://www.nytimes.com/2015/01/27/upshot/can-this-treatment-help-me-theres-a-statistic-for-that.html
 * http://www.medhistorian.com/2014/08/surgeons-at-war.html
 * http://www.huffingtonpost.com/2014/11/18/marijuana-brain-cancer_n_6181060.html
 * http://www.bloomberg.com/news/2014-12-15/huge-u-s-child-health-study-canceled-after-1-3-billion.html
-* http://mobile.nytimes.com/2014/09/21/us/drive-by-doctoring-surprise-medical-bills.html?_r=1
+* http://mobile.nytimes.com/2014/09/21/us/drive-by-doctoring-surprise-medical-bills.html
 * http://newoldage.blogs.nytimes.com/2014/09/24/study-links-anxiety-drugs-to-alzheimers-disease/
 * http://www.abc.net.au/news/2014-10-07/queensland-scientists-discover-cancer-fighting-berry/5796106
 * http://www.nytimes.com/2014/10/07/upshot/the-placebo-effect-doesnt-apply-just-to-pills.html
@@ -301,7 +302,7 @@
 * http://time.com/3643841/medicine-gets-personal/
 * http://arstechnica.com/tech-policy/2014/10/feds-examining-medical-devices-for-fatal-cybersecurity-flaws/
 * http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html
-* http://www.nytimes.com/2014/10/28/world/africa/wish-to-do-more-in-ebola-fight-meets-reality-in-liberia.html?_r=0
+* http://www.nytimes.com/2014/10/28/world/africa/wish-to-do-more-in-ebola-fight-meets-reality-in-liberia.html
 * http://seattletimes.com/html/localnews/2024939773_jdlcolumn03xml.html
 * http://seattletimes.com/html/nationworld/2025041126_apxebolaomahapatient.html
 * http://patch.com/california/berkeley/alzheimers-game-changer-scientists-find-changing-one-molecule-reverses-memory-loss
@@ -310,10 +311,10 @@
 * http://www.technologyreview.com/featuredstory/532421/the-search-for-exceptional-genomes/
 * http://arstechnica.com/science/2014/11/finding-the-ebola-virus-vulnerable-points/
 * http://www.nytimes.com/2014/12/01/us/federal-study-finds-55-percent-of-infants-sleep-with-soft-bedding-raising-risk-of-death.html
-* http://www.nytimes.com/2014/11/30/opinion/sunday/the-downside-of-resilience.html?_r=0
+* http://www.nytimes.com/2014/11/30/opinion/sunday/the-downside-of-resilience.html
 * https://twitter.com/conradhackett/status/551621551682904064
 * http://www.nature.com/news/antibiotic-resistance-the-last-resort-1.13426
-* http://www.nytimes.com/2014/12/04/world/asia/superbugs-kill-indias-babies-and-pose-an-overseas-threat.html?_r=0
+* http://www.nytimes.com/2014/12/04/world/asia/superbugs-kill-indias-babies-and-pose-an-overseas-threat.html
 * http://www.wired.com/2015/01/2015-diseases-borders/
 * http://www.theatlantic.com/health/archive/2015/01/the-new-antibiotics-might-be-essential-oils/384247/
 
@@ -322,7 +323,7 @@
 <li><a href="http://www.theatlantic.com/national/archive/2014/01/the-missing-voices-in-the-contraception-mandate-cases/283452/" time_added="1391151159" tags="">The Missing Voices in the Contraception Mandate Cases - Garrett Epps - The </a></li>
 <li><a href="http://www.withings.com/en/bloodpressuremonitor" time_added="1388678862" tags="">Withings - Blood Pressure Monitor - Introduction</a></li>
 <li><a href="http://www.theatlantic.com/health/archive/2013/12/living-sick-and-dying-young-in-rich-america/282495/" time_added="1387476107" tags="health">Living Sick and Dying Young in Rich America Chronic illness is the new firs</a></li>
-<li><a href="http://www.nytimes.com/2013/11/14/opinion/dont-give-more-patients-statins.html?src=me&ref=general" time_added="1384437671" tags="health">Don’t Give More Patients Statins</a></li>
+<li><a href="http://www.nytimes.com/2013/11/14/opinion/dont-give-more-patients-statins.html time_added="1384437671" tags="health">Don’t Give More Patients Statins</a></li>
 <li><a href="http://www.wired.com/wiredscience/2013/11/end-abx/" time_added="1384985149" tags="health,important">When We Lose Antibiotics, Here's Everything Else We'll Lose Too - Wired Sci</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/11/obamacare-tina-medical-ethics-and-the-health-care-economist.html" time_added="1385152482" tags="finance,health">ObamaCare, TINA, Medical Ethics, and the Health Care Economist « naked capi</a></li>
 <li><a href="http://www.extremetech.com/extreme/171873-naked-dna-gene-therapy-used-to-non-invasively-cure-heart-disease" time_added="1386091362" tags="health">Naked DNA gene therapy used to non-invasively cure heart disease | ExtremeT</a></li>
@@ -336,19 +337,19 @@
 <li><a href="http://blogs.seattletimes.com/monica-guzman/2013/01/19/new-tech-tools-aim-to-bring-health-care-home/" time_added="1358748568" tags="health,hn">New tech tools aim to bring health care home | Mónica Guzmán | Seattle Time</a></li>
 <li><a href="http://www.washingtonpost.com/blogs/wonkblog/wp/2013/03/15/why-an-mri-costs-1080-in-america-and-280-in-france/" time_added="1363374859" tags="health">Why an MRI costs $1,080 in America and $280 in France</a></li>
 <li><a href="http://arstechnica.com/tech-policy/2013/03/majority-of-doctors-opposed-to-full-access-to-your-own-electronic-records/" time_added="1362841294" tags="data ethics,health">Majority of doctors opposed to full access to your own electronic records |</a></li>
-<li><a href="http://www.nytimes.com/2013/03/07/science/unreported-side-effects-of-drugs-found-using-internet-data-study-finds.html?_r=0" time_added="1362617081" tags="data science,health">Unreported Side Effects of Drugs Are Found Using Internet Search Data, Stud</a></li>
+<li><a href="http://www.nytimes.com/2013/03/07/science/unreported-side-effects-of-drugs-found-using-internet-data-study-finds.html time_added="1362617081" tags="data science,health">Unreported Side Effects of Drugs Are Found Using Internet Search Data, Stud</a></li>
 <li><a href="http://refer.ly/superbugs-capable-of-resisting-the-strongest-drugs-are-spreading-through-us-hospitals/c/922bb802867c11e2bfbf22000a1db8fa" time_added="1362596547" tags="health,important">Superbugs Capable of Resisting the Strongest Drugs are Spreading Through US</a></li>
 <li><a href="http://www.nytimes.com/2012/12/12/opinion/the-2000-year-old-wonder-drug.html" time_added="1355330293" tags="health,important">The 2,000-Year-Old Wonder Drug - NYTimes.com</a></li>
 <li><a href="http://www.moneytrendsresearch.com/scientists-cure-cancer-but-no-one-takes-notice/" time_added="1348860235" tags="health">Scientists Cure Cancer, But No One Takes Notice | MTR</a></li>
 <li><a href="http://www.zocalopublicsquare.org/2011/11/30/how-doctors-die/ideas/nexus/" time_added="1358977840" tags="health">Zócalo Public Square :: How Doctors Die</a></li>
-<li><a href="http://news.sciencemag.org/sciencenow/2012/03/one-drug-to-shrink-all-tumors.html?ref=hp" time_added="1364491052" tags="health,important">http://news.sciencemag.org/sciencenow/2012/03/one-drug-to-shrink-all-tumors</a></li>
+<li><a href="http://news.sciencemag.org/sciencenow/2012/03/one-drug-to-shrink-all-tumors.html time_added="1364491052" tags="health,important">http://news.sciencemag.org/sciencenow/2012/03/one-drug-to-shrink-all-tumors</a></li>
 <li><a href="http://www.theatlantic.com/health/archive/2013/04/the-decline-of-emergency-care/275306/" time_added="1367193363" tags="finance,health">The Decline of Emergency Care - Jason Silverstein - The Atlantic</a></li>
 <li><a href="http://blogs.scientificamerican.com/psi-vid/2013/04/24/india-drowning-in-its-own-excreta/" time_added="1367241878" tags="health">India is Drowning in its Own Excreta-Can Science and Engineering Come to th</a></li>
 <li><a href="http://online.wsj.com/article/SB10001424127887323798104578453123376765286.html" time_added="1367340130" tags="health,important">Heart-Attack Risk Starts Younger - WSJ.com</a></li>
 <li><a href="http://www.randomhacks.net/articles/2007/02/22/bayes-rule-and-drug-tests" time_added="1367510806" tags="health,ml,stats">Bayes' rule in Haskell, or why drug tests don't work</a></li>
 <li><a href="http://www.the-scientist.com/?articles.view/articleNo/34759/title/The-Cancer-Test-Kid/" time_added="1368716704" tags="health">The Cancer-Test Kid | The Scientist Magazine®</a></li>
-<li><a href="http://www.nytimes.com/2013/05/19/magazine/say-hello-to-the-100-trillion-bacteria-that-make-up-your-microbiome.html?src=me&ref=general" time_added="1368627786" tags="health">Some of My Best Friends Are Germs</a></li>
-<li><a href="http://www.nytimes.com/2013/11/13/health/new-guidelines-redefine-use-of-statins.html?src=me&ref=general" time_added="1384437675" tags="health">Experts Reshape Treatment Guide for Cholesterol</a></li>
+<li><a href="http://www.nytimes.com/2013/05/19/magazine/say-hello-to-the-100-trillion-bacteria-that-make-up-your-microbiome.html time_added="1368627786" tags="health">Some of My Best Friends Are Germs</a></li>
+<li><a href="http://www.nytimes.com/2013/11/13/health/new-guidelines-redefine-use-of-statins.html time_added="1384437675" tags="health">Experts Reshape Treatment Guide for Cholesterol</a></li>
 <li><a href="http://seattletimes.com/html/localnews/2021696947_ghcabortionxml.html" time_added="1377698496" tags="domestic,health">Group Health to omit abortion in some plans</a></li>
 <li><a href="http://www.slate.com/articles/health_and_science/medical_examiner/2013/05/portland_fluoride_vote_will_medical_science_trump_fear_and_doubt.single.html#pagebreak_anchor_3" time_added="1369090197" tags="funny,health">Portland fluoride vote: Will medical science trump fear and doubt? - Slate </a></li>
 <li><a href="http://www.sciencenewsline.com/articles/2013052019400030.html" time_added="1369183382" tags="health,important,to_read">Molecular Trigger for Alzheimer's Disease Identified</a></li>
@@ -362,8 +363,8 @@
 <li><a href="http://j.mp/18jlDCQ" time_added="1385394053" tags="health,hn">In which 23andMe runs afoul of the FDA: 11/22/13 j.mp/18jlDCQ</a></li>
 <li><a href="http://dailyinfographic.com/are-you-vitamin-d-deficient-infographic" time_added="1372257737" tags="health">Are You Vitamin D Deficient? dailyinfographic.com/are-you-vitami…</a></li>
 <li><a href="http://www.nature.com/news/antibiotic-resistance-the-last-resort-1.13426" time_added="1374949873" tags="domestic,health,important">Antibiotic resistance: The last resort : Nature News & Comment</a></li>
-<li><a href="http://www.nytimes.com/2013/08/12/business/economy/long-slog-for-foreign-doctors-to-practice-in-us.html?src=me&ref=general" time_added="1376314002" tags="health">Path to United States Practice Is Long Slog to Foreign Doctors</a></li>
-<li><a href="http://www.nytimes.com/2013/08/12/world/europe/medical-students-head-to-eastern-Europe.html?hpw" time_added="1376314050" tags="health">Medical Students Head to Eastern Europe</a></li>
+<li><a href="http://www.nytimes.com/2013/08/12/business/economy/long-slog-for-foreign-doctors-to-practice-in-us.html time_added="1376314002" tags="health">Path to United States Practice Is Long Slog to Foreign Doctors</a></li>
+<li><a href="http://www.nytimes.com/2013/08/12/world/europe/medical-students-head-to-eastern-Europe.html time_added="1376314050" tags="health">Medical Students Head to Eastern Europe</a></li>
 <li><a href="http://wp.me/p5oiR-180" time_added="1376317503" tags="data science,health">If you need surgery, scheduling it for a Monday can make a big difference, </a></li>
 <li><a href="http://arstechnica.com/science/2013/08/stem-cells-turned-into-cancer-killing-immune-cells/" time_added="1376422372" tags="health">Stem cells turned into cancer-killing immune cells | Ars Technica</a></li>
 <li><a href="http://phenomena.nationalgeographic.com/2013/11/13/killing-sleeper-cells-and-superbugs-with-assassin-janitors/" time_added="1384444951" tags="health">Killing Sleeper Cells and Superbugs with Assassin Janitors – Phenomena: Not</a></li>
@@ -377,7 +378,7 @@
 <li><a href="http://www.salon.com/2013/09/24/americans_are_clueless_about_tylenols_risks_partner/" time_added="1380037261" tags="health">Americans are clueless about Tylenol’s risks</a></li>
 <li><a href="http://www.wired.com/wiredscience/2013/09/cdc-amr-rpt1/" time_added="1379442785" tags="health,important">CDC Threat Report: 'We Will Soon Be in a Post-Antibiotic Era' - Wired Scien</a></li>
 <li><a href="http://opinionator.blogs.nytimes.com/2013/10/02/who-will-heal-the-doctors/?hp" time_added="1380747230" tags="corruption,finance,health">Who Will Heal the Doctors? - NYTimes.com</a></li>
-<li><a href="http://www.nytimes.com/2013/11/20/your-money/how-doctors-die.html?src=me&ref=general" time_added="1384993738" tags="domestic,health,important,parenting">How Doctors Die: Showing Others the Way</a></li>
+<li><a href="http://www.nytimes.com/2013/11/20/your-money/how-doctors-die.html" time_added="1384993738" tags="domestic,health,important,parenting">How Doctors Die: Showing Others the Way</a></li>
 <li><a href="http://www.bbc.co.uk/news/health-24524027" time_added="1384976861" tags="health,hn,important">The engineer who fixed his own heart</a></li>
 <li><a href="http://www.thedailybeast.com/articles/2014/03/13/thanks-anti-vaxxers-you-just-brought-back-measles-in-nyc.html" time_added="1394829343" tags="">Thanks, Anti-Vaxxers. You Just Brought Back Measles in NYC. - The Daily Bea</a></li>
 <li><a href="http://www.washingtonsblog.com/2013/04/study-almost-one-third-of-babies-born-after-fukushima-in-alaska-california-hawaii-oregon-and-washington-have-thyroid-problems.html" time_added="1365013518" tags="to_read">Study: 28% Increase In Thyroid Problems In Babies Born After Fukushima in A</a></li>
@@ -401,7 +402,7 @@
 * http://www.dailydot.com/lifestyle/forced-episiotomy-lawyer/
 * http://www.nakedcapitalism.com/2015/04/lousy-electronic-medical-records-fuel-successful-lawsuits.html
 * http://www.nytimes.com/2015/04/15/business/as-nursing-homes-chase-lucrative-patients-quality-of-care-is-said-to-lag.html
-* http://www.nytimes.com/2015/04/08/opinion/yes-we-were-warned-about-ebola.html?_r=0 <- science behind a paywall
+* http://www.nytimes.com/2015/04/08/opinion/yes-we-were-warned-about-ebola.html <- science behind a paywall
 * http://www.theverge.com/2015/3/24/8282651/registered-nurse-pay-gap-women-earn-less
 * http://hcrenewal.blogspot.com/2015/03/times-american-boards-are-exceptional.html
 * http://www.nakedcapitalism.com/2015/03/nurses-unite-to-stop-transpacific-partnership-fast-track.html
@@ -415,7 +416,7 @@
 * http://seattletimes.com/html/nationworld/2024804039_apxmedwhoebolamistakes.html
 * http://arstechnica.com/science/2013/01/profits-over-your-dead-body/
 * http://seattletimes.com/html/localnews/2021065664_uwreactsxml.html
-* http://www.nytimes.com/2013/07/05/opinion/diagnosis-insufficient-outrage.html?hp&_r=0
+* http://www.nytimes.com/2013/07/05/opinion/diagnosis-insufficient-outrage.html
 * http://hcrenewal.blogspot.com/2015/05/politico-electronic-record-errors.html
 * http://www.cancerletter.com/articles/20150109_1
 * http://blogs.scientificamerican.com/cross-check/2013/11/02/a-dig-through-old-files-reminds-me-why-im-so-critical-of-science/
@@ -432,17 +433,17 @@
 * http://www.wired.com/2014/10/egg-freezing-risks/
 * http://www.nytimes.com/2014/11/28/business/drug-maker-gave-large-payments-to-doctors-with-troubled-track-records.html
 * http://www.nytimes.com/2014/12/21/us/military-hospital-care-is-questioned-next-reprisals.html
-* http://mobile.nytimes.com/2015/05/17/magazine/the-last-day-of-her-life.html?from=promo
+* http://mobile.nytimes.com/2015/05/17/magazine/the-last-day-of-her-life.html
 
 <li><a href="http://www.rand.org/pubs/research_briefs/RB9744.html" time_added="1395001792" tags="">Do Workplace Wellness Programs Save Employers Money? | RAND</a></li>
-<li><a href="http://www.nytimes.com/2013/09/03/opinion/how-a-cabal-keeps-generics-scarce.html?_r=0" time_added="1388678022" tags="">How a Cabal Keeps Generics Scarce - NYTimes.com</a></li>
+<li><a href="http://www.nytimes.com/2013/09/03/opinion/how-a-cabal-keeps-generics-scarce.html" time_added="1388678022" tags="">How a Cabal Keeps Generics Scarce - NYTimes.com</a></li>
 <li><a href="http://blogs.seattletimes.com/northwestvoices/2013/12/03/keep-political-corruption-and-bankruptcy-out-of-health-care/" time_added="1386091354" tags="corruption,finance,government,health">Keep political corruption and bankruptcy out of health care | Northwest Voi</a></li>
 <li><a href="http://www.theatlantic.com/magazine/archive/2013/12/the-home-remedy-for-old-age/354680/" time_added="1385916847" tags="finance,health">The Hospital Is No Place for the Elderly - Jonathan Rauch - The Atlantic</a></li>
 <li><a href="http://apps.seattletimes.com/reports/pharma-windfall/2013/nov/9/mining-rare-diseases/" time_added="1384113396" tags="corruption,finance,government,health">The mining of rare diseases | Pharma's Windfall | The Seattle Times</a></li>
 <li><a href="http://www.pbs.org/newshour/rundown/2013/11/mishaps-and-deaths-caused-by-surgical-robots-going-underreported-to-fda.html" time_added="1383659106" tags="health">Mishaps and deaths caused by surgical robots going underreported to FDA</a></li>
 <li><a href="http://www.theatlantic.com/national/archive/2013/10/these-journalists-spent-two-years-and-750-000-covering-one-story/280151/" time_added="1380747646" tags="data ethics,health,important">These Journalists Spent Two Years and $750,000 Covering One Story - Peter O</a></li>
 <li><a href="http://globaleconomicanalysis.blogspot.com/2013/10/unnecessary-surgeries-you-bet-doctors.html" time_added="1383499209" tags="corruption,finance,health,important">Unnecessary Surgeries? You Bet! Doctors Treat Patients as ATMs; US Healthca</a></li>
-<li><a href="http://www.nytimes.com/2013/04/28/magazine/our-feel-good-war-on-breast-cancer.html?hp&_r=0" time_added="1366918110" tags="domestic,health">Our Feel-Good War on Breast Cancer - NYTimes.com</a></li>
+<li><a href="http://www.nytimes.com/2013/04/28/magazine/our-feel-good-war-on-breast-cancer.html" time_added="1366918110" tags="domestic,health">Our Feel-Good War on Breast Cancer - NYTimes.com</a></li>
 <li><a href="http://www.mergerwatch.org/" time_added="1367196172" tags="finance,health">MergerWatch.org - Home</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/04/medical-journal-editorial-blasts-obamacare-for-increasing-underinsurance.html" time_added="1367210601" tags="corruption,finance,health">Medical Journal Editorial Blasts Obamacare for Increasing Underinsurance « </a></li>
 <li><a href="http://seattletimes.com/html/localnews/2020875885_catholichealthxml.html" time_added="1367196155" tags="domestic,health">Hospitals’ proposed affiliation with Catholic systems opposed | Local News </a></li>
@@ -519,20 +520,20 @@
 * http://www.nytimes.com/2015/03/23/science/with-expansion-of-medicaid-some-states-are-identifying-more-new-diabetes-cases.html
 * http://www.nytimes.com/2015/03/23/health/taming-health-costs-by-keeping-high-maintenance-patients-out-of-the-hospital.html
 * http://www.nytimes.com/2014/12/16/health/the-odd-math-of-medical-tests-one-echocardiogram-two-prices-both-high.html
-* http://mobile.nytimes.com/2015/01/12/us/politics/new-rules-to-limit-tactics-on-hospitals-fee-collections.html?_r=0
+* http://mobile.nytimes.com/2015/01/12/us/politics/new-rules-to-limit-tactics-on-hospitals-fee-collections.html
 * http://www.businessweek.com/articles/2015-01-15/how-indias-patent-office-destroyed-gileads-global-game-plan
 
 <li><a href="http://t.co/IG6Jdn4S" time_added="1357788683" tags="">lazowska: NY Times: US is an outlier in relying on the private sector to fu</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/11/another-lurking-obamacare-problem-balance-billing.html" time_added="1384907393" tags="corruption,finance,health,important,to_read">Another Lurking Obamacare Problem: Balance Billing « naked capitalism</a></li>
-<li><a href="http://www.npr.org/blogs/alltechconsidered/2013/11/19/246132770/this-slide-shows-why-healthcare-gov-wouldnt-work-at-launch?ft=3&f=1001" time_added="1384999144" tags="government,health,hn">This Slide Shows Why HealthCare.gov Wouldn't Work At Launch : All Tech Cons</a></li>
+<li><a href="http://www.npr.org/blogs/alltechconsidered/2013/11/19/246132770/this-slide-shows-why-healthcare-gov-wouldnt-work-at-launch" time_added="1384999144" tags="government,health,hn">This Slide Shows Why HealthCare.gov Wouldn't Work At Launch : All Tech Cons</a></li>
 <li><a href="http://digital.vpr.net/post/analysis-can-man-figure-out-how-fund-single-payer" time_added="1384999307" tags="finance,health">Analysis: Can This Man Figure Out How To Fund Single Payer? | Vermont Publi</a></li>
-<li><a href="http://www.linkedin.com/today/post/article/20131111144944-205372152-medical-cost-control-is-a-patriotic-duty?trk=tod-home-art-list-large_0" time_added="1384297727" tags="finance,health">Medical Cost Control is a Patriotic Duty | LinkedIn</a></li>
+<li><a href="http://www.linkedin.com/today/post/article/20131111144944-205372152-medical-cost-control-is-a-patriotic-duty" time_added="1384297727" tags="finance,health">Medical Cost Control is a Patriotic Duty | LinkedIn</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/11/michael-olenick-comprehensive-review-of-obamacare-plans-reveals-not-only-high-cost-for-atrocious-coverage-but-also-apparent-violations-of-aca-requirements.html" time_added="1384437810" tags="corruption,finance,health">Michael Olenick: Comprehensive Review of ObamaCare Plans Reveals Not Only H</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/10/46940.html" time_added="1382978048" tags="finance,health">Paul Krugman’s Shocking, Revisionist, and Obscurantist Views on Single Paye</a></li>
 <li><a href="http://www.nytimes.com/2013/10/17/opinion/the-myth-of-the-medical-device-tax.html?hp" time_added="1381979065" tags="health">The Myth of the Medical-Device Tax - NYTimes.com</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/10/obamacare-rollout-will-insurers-be-hoist-on-the-enrollment-petard.html" time_added="1382102415" tags="funny,health">Obamacare Rollout: Will Insurers Be Hoist on the Enrollment Petard? « naked</a></li>
 <li><a href="http://www.salon.com/2013/09/23/why_nobody_without_insurance_should_skip_obamacare/" time_added="1380037170" tags="finance,health">I'm young and healthy, and having health insurance saved me $200,000 when I</a></li>
-<li><a href="http://www.nytimes.com/2013/08/13/us/a-limit-on-consumer-costs-is-delayed-in-health-care-law.html?src=me&ref=general" time_added="1376486677" tags="corruption,finance,health">A Limit on Consumer Costs Is Delayed in Health Care Law</a></li>
+<li><a href="http://www.nytimes.com/2013/08/13/us/a-limit-on-consumer-costs-is-delayed-in-health-care-law.html" time_added="1376486677" tags="corruption,finance,health">A Limit on Consumer Costs Is Delayed in Health Care Law</a></li>
 <li><a href="http://blogs.seattletimes.com/jontalton/2013/07/01/a-health-care-boom-or-bubble/" time_added="1372704706" tags="finance,health">A health-care boom or bubble? | Jon Talton</a></li>
 <li><a href="http://www.nytimes.com/2013/07/01/health/american-way-of-birth-costliest-in-the-world.html?hp" time_added="1372681807" tags="domestic,finance,health,important">The American Way of Birth Is the Costliest in the World</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/05/why-are-people-with-health-insurance-going-bankrupt.html" time_added="1367590472" tags="domestic,finance,health,important,personal">Why Are People with Health Insurance Going Bankrupt? « naked capitalism</a></li>
@@ -573,11 +574,11 @@
 <li><a href="http://www.salon.com/2013/09/04/gops_heartless_new_scheme_to_prevent_uninsured_from_getting_care/" time_added="1378328582" tags="corruption,health">GOP’s heartless new scheme to prevent uninsured from getting care</a></li>
 <li><a href="http://www.bloomberg.com/news/2013-07-28/heart-surgery-in-india-for-1-583-costs-106-385-in-u-s-.html" time_added="1375094031" tags="finance,health">Heart Surgery in India for $1,583 Costs $106,385 in U.S.</a></li>
 <li><a href="http://www.nytimes.com/2013/11/04/business/under-health-care-act-millions-eligible-for-free-policies.html?hp" time_added="1383572633" tags="finance,government,health">Under Health Act, Millions Eligible for Free Policies</a></li>
-<li><a href="http://opinionator.blogs.nytimes.com/2013/07/31/a-new-health-care-approach-dont-hide-the-price/?src=me&ref=general" time_added="1375385546" tags="finance,health">http://opinionator.blogs.nytimes.com/2013/07/31/a-new-health-care-approach-</a></li>
+<li><a href="http://opinionator.blogs.nytimes.com/2013/07/31/a-new-health-care-approach-dont-hide-the-price/" time_added="1375385546" tags="finance,health">http://opinionator.blogs.nytimes.com/2013/07/31/a-new-health-care-approach-</a></li>
 <li><a href="http://www.nytimes.com/2013/08/04/health/for-medical-tourists-simple-math.html?hp" time_added="1375567690" tags="finance,health">In Need of a Hip, but Priced Out of the U.S.</a></li>
 <li><a href="http://theincidentaleconomist.com/wordpress/about-singapore/" time_added="1377269590" tags="finance,funny,health">Conservative wonks love Singapore's healthcare system, but Singapore is cha</a></li>
 <li><a href="http://seattletimes.com/html/localnews/2021661375_acaplanvotexml.html" time_added="1377184609" tags="finance,health">State board pushing to give public more insurance choices</a></li>
-<li><a href="http://www.nytimes.com/2013/08/27/health/exploring-salines-secret-costs.html?src=me&ref=general" time_added="1377550734" tags="corruption,finance,health,important">How to Charge $546 for Six Liters of Saltwater</a></li>
+<li><a href="http://www.nytimes.com/2013/08/27/health/exploring-salines-secret-costs.html" time_added="1377550734" tags="corruption,finance,health,important">How to Charge $546 for Six Liters of Saltwater</a></li>
 <li><a href="http://www.theatlantic.com/health/archive/2013/08/why-doctors-are-reluctant-to-take-responsibility-for-rising-medical-costs/278623/" time_added="1376510959" tags="corruption,data ethics,health">Why Doctors Are Reluctant to Take Responsibility for Rising Medical Costs</a></li>
 <li><a href="http://www.technologyreview.com/news/516176/app-will-let-health-insurer-track-customer-behavior/" time_added="1371510073" tags="data ethics,health">Linking cell phone data w/health records for insurers. I'm unsure of model </a></li>
 <li><a href="http://www.wired.com/business/2013/04/hacking-worker-health-with-coupons/" time_added="1365423555" tags="data ethics,health,hn">To Hack Health Care Costs, Employers Can Now Track How You Grocery Shop wir</a></li>
@@ -610,11 +611,11 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 <li><a href="http://www.sqlskills.com/blogs/paul/dont-forget-your-system-health/" time_added="1359089410" tags="health">Don't forget *your* system health! - Paul S. Randal</a></li>
 <li><a href="http://thecodist.com/article/why_i_don_39_t_do_unpaid_overtime_and_neither_should_you" time_added="1359221335" tags="health,hn,important,life hacker">The Codist</a></li>
 <li><a href="http://sciencenordic.com/we-should-only-work-25-hours-week-argues-professor" time_added="1359943310" tags="domestic,health,hn,important,life hacker,personal">We should only work 25 hours a week, argues professor | ScienceNordic</a></li>
-<li><a href="http://www.nytimes.com/2013/05/12/business/soothing-back-pain-by-learning-how-to-sit-again.html?pagewanted=all&_r=1&" time_added="1368377048" tags="health,hn">Soothing Back Pain by Learning How to Sit Again - NYTimes.com</a></li>
+<li><a href="http://www.nytimes.com/2013/05/12/business/soothing-back-pain-by-learning-how-to-sit-again.html" time_added="1368377048" tags="health,hn">Soothing Back Pain by Learning How to Sit Again - NYTimes.com</a></li>
 <li><a href="http://offbeathome.com/2013/05/at-work-outs" time_added="1368752531" tags="health">10 healthy, brain-stimulating "at work"-outs you can do at your desk | Offb</a></li>
 <li><a href="http://www.latimes.com/health/la-he-dont-sit-20130525,0,3673157.story" time_added="1369697906" tags="health,important">http://www.latimes.com/health/la-he-dont-sit-20130525,0,3673157.story</a></li>
 <li><a href="http://www.tlnt.com/2013/08/12/see-you-in-a-month-why-americans-need-to-get-serious-about-vacations/" time_added="1376327247" tags="brand,health,hiring/firing">See You in a Month: Why Americans Need to Get Serious About Vacations</a></li>
-<li><a href="http://www.nytimes.com/2013/08/28/dining/bring-your-lunch-to-work.html?src=me&ref=general" time_added="1377782289" tags="health">Bring Your Lunch to Work</a></li>
+<li><a href="http://www.nytimes.com/2013/08/28/dining/bring-your-lunch-to-work.html" time_added="1377782289" tags="health">Bring Your Lunch to Work</a></li>
 <li><a href="http://deanproxy.com/blog/posts/2013/08/13-what-happens-when-you-sit-at-a-desk-for-13-years---and-actually-exercise-.html" time_added="1377717183" tags="health,personal">http://deanproxy.com/blog/posts/2013/08/13-what-happens-when-you-sit-at-a-d</a></li>
 <li><a href="http://randomdrake.com/2014/01/09/never-going-back-a-week-of-not-eating-lunch-at-my-desk/" time_added="1389389057" tags="">Never Going Back – A Week of Not Eating Lunch at My Desk | Random Drake</a></li>
 
@@ -642,7 +643,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 
 
 
-* http://well.blogs.nytimes.com/2014/09/08/prediabetes-blood-sugar/?_php=true&_type=blogs&_r=0
+* http://well.blogs.nytimes.com/2014/09/08/prediabetes-blood-sugar/
 * http://www.salon.com/2014/09/23/the_real_reason_americans_are_increasingly_overweight_partner/
 * http://www.usatoday.com/story/news/nation/2012/10/15/sleep-deprivation-fat-cells/1630289/
 * http://www.nerdfitness.com/blog/2015/05/21/how-steve-the-software-architect-dropped-110-lbs/
@@ -661,7 +662,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 
 
 <li><a href="http://www.bbc.co.uk/news/health-21572686" time_added="1361898585" tags="health,hn,important">BBC News - Bad sleep 'dramatically' alters body</a></li>
-<li><a href="http://www.nytimes.com/2013/08/15/technology/personaltech/turning-to-your-phone-for-a-better-nights-sleep.html?src=me&ref=general" time_added="1376673568" tags="health,personal tech">Turning to Your Phone for a Better Night’s Sleep</a></li>
+<li><a href="http://www.nytimes.com/2013/08/15/technology/personaltech/turning-to-your-phone-for-a-better-nights-sleep.html" time_added="1376673568" tags="health,personal tech">Turning to Your Phone for a Better Night’s Sleep</a></li>
 <li><a href="http://huff.to/1eCDqX7" time_added="1380026009" tags="health">Got sleep apnea? New recommendations on treating the sleep disorder have ju</a></li>
 <li><a href="http://www.theatlantic.com/health/archive/2014/01/study-believing-you-ve-slept-well-even-if-you-haven-t-improves-performance/283305/" time_added="1390588490" tags="">Alyssa L. Miller/flickr The Positive Effects of 'Placebo Sleep'</a></li>
 
@@ -678,7 +679,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 
 
 <li><a href="http://www.theatlantic.com/health/archive/2013/02/the-lovely-hill-where-people-live-longer-and-happier/272798/" time_added="1360032289" tags="health">The Lovely Hill: Where People Live Longer and Happier - Emily Esfahani Smit</a></li>
-<li><a href="http://www.smithsonianmag.com/science-nature/The-Unintended-and-Deadly-Consequences-of-Living-in-the-Industrialized-World-199164051.html?c=y&page=1" time_added="1364011817" tags="health">The Unintended (and Deadly) Consequences of Living in the Industrialized Wo</a></li>
+<li><a href="http://www.smithsonianmag.com/science-nature/The-Unintended-and-Deadly-Consequences-of-Living-in-the-Industrialized-World-199164051.html" time_added="1364011817" tags="health">The Unintended (and Deadly) Consequences of Living in the Industrialized Wo</a></li>
 <li><a href="http://www.mdpi.com/1099-4300/15/4/1416" time_added="1367377712" tags="health">Entropy | Free Full-Text | Glyphosate’s Suppression of Cytochrome P450 Enzy</a></li>
 <li><a href="http://seattletimes.com/html/nationworld/2020930259_valleyfeverincreasexml.html" time_added="1367845112" tags="health">Potentially deadly valley fever on rise in parched West farm regions | Nati</a></li>
 <li><a href="http://go.usa.gov/bqjJ" time_added="1369078101" tags="health">1 in 5 Americans will get skin cancer according to current trends. The PNW </a></li>
@@ -695,7 +696,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 #### Government
 
 
-<li><a href="http://www.nytimes.com/2013/11/24/us/dont-dare-call-the-health-law-redistribution.html?hp" time_added="1385334714" tags="health">Don’t Dare Call the Health Law ‘Redistribution’</a></li>
+<li><a href="http://www.nytimes.com/2013/11/24/us/dont-dare-call-the-health-law-redistribution.html" time_added="1385334714" tags="health">Don’t Dare Call the Health Law ‘Redistribution’</a></li>
 <li><a href="http://apps.npr.org/unfit-for-work/" time_added="1364011450" tags="health">Unfit for Work: The startling rise of disability in America | Planet Money</a></li>
 <li><a href="http://mylocalhealthguide.com/2013/03/23/who-are-the-uninsured-the-feds-parse-the-numbers/" time_added="1364103200" tags="health">Who Are The Uninsured? | Seattle/LocalHealthGuide</a></li>
 <li><a href="http://ow.ly/j6Jme" time_added="1363627603" tags="health,important">RT @cascadia: check out how King County (govt) was able to get 90% of emplo</a></li>
@@ -724,7 +725,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 # To Sort
 
 
-* http://m.theatlantic.com/magazine/archive/2014/11/doctors-tell-all-and-its-bad/380785/?single_page=true
+* http://m.theatlantic.com/magazine/archive/2014/11/doctors-tell-all-and-its-bad/380785/
 * http://www.nakedcapitalism.com/2014/10/the-tragedy-of-electronic-medical-records.html
 
 
@@ -744,15 +745,15 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 <li><a href="http://feedproxy.google.com/~r/NerdFitnessBlog/~3/Pbno5m7z21w/" time_added="1349968696" tags="health">Meet Veronica: A Super Mom’s 4-Month Transformation | Nerd Fitness</a></li>
 <li><a href="http://www.technologyreview.com/demo/429609/super-cheap-health-tests/" time_added="1350313429" tags="hn">Super-Cheap Health Tests - Technology Review</a></li>
 <li><a href="http://t.co/fZzk3Ibe" time_added="1358602797" tags="health">avantgame: Sitting Is the Smoking of Our Generation - @HarvardBiz http://t.</a></li>
-<li><a href="http://www.cnn.com/2012/11/25/opinion/iaconesi-cure-open-source/index.html?hpt=hp_c2" time_added="1353897804" tags="health,hn">My open source cure for brain cancer - CNN.com</a></li>
+<li><a href="http://www.cnn.com/2012/11/25/opinion/iaconesi-cure-open-source/index.html" time_added="1353897804" tags="health,hn">My open source cure for brain cancer - CNN.com</a></li>
 <li><a href="http://arstechnica.com/information-technology/2012/12/robots-iphones-and-windows-xp-a-personal-journey-through-hospital-it/" time_added="1355944215" tags="health,hn,life hacker">Robots, iPhones, and Windows XP—a personal journey through hospital IT | Ar</a></li>
 <li><a href="http://www.nerdfitness.com/blog/2012/12/17/end-of-the-world/" time_added="1355768407" tags="health">How to Survive the End of the World | Nerd Fitness</a></li>
 <li><a href="http://well.blogs.nytimes.com/2013/01/09/to-keep-the-brain-benefits-of-exercise-keep-exercising/" time_added="1357868534" tags="domestic,health">Do the Brain Benefits of Exercise Last? - NYTimes.com</a></li>
-<li><a href="http://www.cjr.org/cover_story/survival_of_the_wrongest.php?page=all&print=true" time_added="1358574491" tags="health">'Survival of the wrongest' : Columbia Journalism Review</a></li>
+<li><a href="http://www.cjr.org/cover_story/survival_of_the_wrongest.php" time_added="1358574491" tags="health">'Survival of the wrongest' : Columbia Journalism Review</a></li>
 <li><a href="http://duruk.net/progress-of-happiness/" time_added="1356928864" tags="health">Progress of Happiness · Can Duruk</a></li>
 <li><a href="http://alexblandford.tumblr.com/post/38725722842/blood-sugar" time_added="1356380914" tags="health">Alex Blandford: Blood Sugar</a></li>
 <li><a href="http://dilbert.com/blog/entry/i_hope_my_father_dies_soon/" time_added="1385313222" tags="health,important">Scott Adams Blog: I Hope My Father Dies Soon 11/23/2013</a></li>
-<li><a href="http://www.nytimes.com/2014/02/14/us/salaried-doctors-may-not-lead-to-cheaper-health-care.html?src=me&ref=general" time_added="1392342967" tags="">Apprehensive, Many Doctors Shift to Jobs With Salaries - NYTimes.com</a></li>
+<li><a href="http://www.nytimes.com/2014/02/14/us/salaried-doctors-may-not-lead-to-cheaper-health-care.html" time_added="1392342967" tags="">Apprehensive, Many Doctors Shift to Jobs With Salaries - NYTimes.com</a></li>
 <li><a href="http://info.healthways.com/wbi2013" time_added="1392993518" tags="">Our new State of American Well-Being report is out (joint project with Heal</a></li>
 <li><a href="http://t.co/0qHf2q8AjF" time_added="1387462680" tags="health">http://well.blogs.nytimes.com/2013/12/11/exercise-as-potent-medicine/ …</a></li>
 <li><a href="http://www.slate.com/articles/technology/future_tense/2013/11/quantified_self_self_tracking_data_we_need_a_right_to_use_it.html" time_added="1384366117" tags="health,hn,important,personal tech">' “right to use” our personal data: I should be able to access and make use</a></li>
@@ -762,7 +763,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 <li><a href="http://blogs.smithsonianmag.com/food/2013/11/its-the-umami-stupid-why-the-truth-about-msg-is-so-easy-to-swallow/" time_added="1384032040" tags="health,important">It's the Umami, Stupid. Why the Truth About MSG is So Easy to Swallow | Foo</a></li>
 <li><a href="http://seattletimes.com/html/health/2022209465_apxfdatransfats.html" time_added="1383847164" tags="health">FDA to ban artery-clogging trans fats</a></li>
 <li><a href="http://www.protectpatientsblog.com/2013/10/osteoporosis_drugs_might_carry.html" time_added="1382621998" tags="health">Osteoporosis Drugs Might Carry Risk of Atrial Fibrillation</a></li>
-<li><a href="http://www.nytimes.com/2013/10/23/opinion/bittman-now-this-is-natural-food.html?adxnnl=1&ref=general&src=me&adxnnlx=1382629130-X3cUvqLuOE2VxBUbWaghsQ" time_added="1382629248" tags="health">Now This Is Natural Food - NYTimes.com</a></li>
+<li><a href="http://www.nytimes.com/2013/10/23/opinion/bittman-now-this-is-natural-food.html" time_added="1382629248" tags="health">Now This Is Natural Food - NYTimes.com</a></li>
 <li><a href="http://wapo.st/17qpQNX" time_added="1381412260" tags="corruption,government,hn">I'm reading all the time... "Some say health-care site’s problems highlight</a></li>
 <li><a href="http://www.bbc.co.uk/news/magazine-24444634" time_added="1381346958" tags="health,important,life hacker">BBC News - How much can an extra hour's sleep change you?</a></li>
 <li><a href="http://www.tricorderproject.org/blog/towards-an-inexpensive-open-source-desktop-ct-scanner/" time_added="1382665899" tags="finance,health,hn,important">Towards an inexpensive open-source desktop CT scanner | the Tricorder proje</a></li>

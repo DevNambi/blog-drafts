@@ -300,7 +300,7 @@
 * http://www.washingtonpost.com/news/storyline/wp/2014/10/16/she-bought-a-sofa-on-installment-payments-now-its-straining-her-life/?src=longreads
 * http://www.theatlantic.com/business/archive/2015/06/teenagers-are-losing-confidence-in-the-american-dream/395780/
 * http://blogs.wsj.com/economics/2015/06/22/top-ceo-pay-isnt-driven-by-talent-new-study-says/
-
+* http://www.theguardian.com/uk-news/2015/jun/28/london-the-city-that-ate-itself-rowan-moore
 
 
 
