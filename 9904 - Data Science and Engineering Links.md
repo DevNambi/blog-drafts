@@ -629,6 +629,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 
 
 * http://jeremykun.com/2014/10/05/on-the-computational-complexity-of-mapreduce/
+* http://martinfowler.com/bliki/DataLake.html
 * http://thomaswdinsmore.com/2015/04/21/spark-too-big-to-fail/
 * http://thislongrun.blogspot.com/2015/04/the-unclear-cp-vs-ca-case-in-cap.html
 * http://thenewstack.io/airbnbs-airpal-reflects-new-ways-to-query-and-get-answers-from-hive-and-hadoop/

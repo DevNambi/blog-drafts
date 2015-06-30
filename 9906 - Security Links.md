@@ -189,6 +189,8 @@
 * http://www.nakedcapitalism.com/2015/05/new-example-of-the-pentagon-dea-and-private-companies-conspiring-to-beat-encryption-track-everything-you-do.html
 * https://firstlook.org/theintercept/2015/05/12/intelligence-industry-cash-flows-media-echo-chamber-defending-nsa-surveillance/
 * https://www.techdirt.com/articles/20150615/11565531344/reporter-who-wrote-sunday-times-snowden-propaganda-admits-that-hes-just-writing-what-uk-govt-told-him.shtml
+* http://techcrunch.com/2015/06/29/new-wikileaks-documents-reveal-nsa-spied-on-top-french-companies/
+
 
 <li><a href="http://rt.com/usa/news/surveillance-spying-e-mail-citizens-178/" time_added="1354678483" tags="hn,important,personal tech">'Everyone in US under virtual surveillance' - NSA whistleblower — RT</a></li>
 

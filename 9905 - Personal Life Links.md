@@ -216,6 +216,7 @@
 * http://mobile.nytimes.com/2015/01/11/fashion/modern-love-to-fall-in-love-with-anyone-do-this.html
 * http://mobile.nytimes.com/2015/04/26/style/the-art-of-being-apart.html
 * http://priceonomics.com/what-people-say-on-a-good-first-date/
+* http://mobile.nytimes.com/2015/06/30/science/for-couples-time-can-upend-the-laws-of-attraction.html
 
 
 
