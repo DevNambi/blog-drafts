@@ -194,6 +194,7 @@ Interviews are one of the best times to find out about a company's culture, work
 <li><a href="http://www.businessinsider.com/the-programming-and-engineering-skills-with-the-highest-salaries-2015-3">The programming and engineering skills with the highest salaries</a></li>
 <li><a href="http://www.theatlantic.com/business/archive/2015/04/ask-a-hostage-negotiator-whats-the-best-way-to-talk-about-a-raise/391943/">The Hostage Negotiator's Guide to Talking About a Raise</a></li>
 <li><a href="https://medium.com/@prlambert/software-engineering-vs-product-manager-salaries-9564cd7e665f">Software Engineering vs. Product Manager Salaries</a></li>
+<li><a href="http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/">The Software Engineer’s Guide to Negotiating a Raise</a></li>
 </ul>
 
 
@@ -267,6 +268,7 @@ http://www.computerworld.com/article/2879083/southern-california-edison-it-worke
 <li><a href="http://timesofindia.indiatimes.com/tech/tech-news/Infosys-whistleblower-H-1B-workers-have-minimal-skills/articleshow/46609164.cms">Infosys whistleblower: H-1B workers have minimal skills</a></li>
 <li><a href="http://data.jobsintech.io/">U.S. Work Visa Explorer</a></li>
 <li><a href="http://www.nytimes.com/2015/06/04/us/last-task-after-layoff-at-disney-train-foreign-replacements.html">The last task after layoff at Disney: train foreign replacements</a></li>
+<li><a href="http://www.infoworld.com/article/2942208/h1b/a-california-backlash-rises-over-foreign-it-worker-replacements.html">A California backlash rises over foreign IT worker replacements</a></li>
 </ul>
 
 

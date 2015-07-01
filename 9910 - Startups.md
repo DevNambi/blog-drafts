@@ -46,6 +46,7 @@
 * https://medium.com/@kwindla/a-technical-founder-s-notes-on-sales-team-management-60e1a93d4648
 * http://andrewchen.co/why-investors-dont-fund-dating/
 * http://qz.com/411330/the-mystery-of-the-power-bank-phone-taking-over-ghana/
+* http://www.wired.com/2015/07/tech-upended-banks-stock-trading-insurance-next/
 
 
 

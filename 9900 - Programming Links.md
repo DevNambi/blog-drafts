@@ -34,6 +34,7 @@
 * https://hbr.org/1990/07/reengineering-work-dont-automate-obliterate/ar/1
 * http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/
 * http://www.nomachetejuggling.com/2014/02/05/top-10-career-changing-programming-books/
+* http://martinfowler.com/articles/microservice-trade-offs.html
 * http://blog.fogus.me/2014/12/29/the-best-things-and-stuff-of-2014/
 * http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html
 * http://mcfunley.com/choose-boring-technology

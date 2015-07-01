@@ -23,6 +23,7 @@ This is an information problem. It's also a FUD problem.
 * http://www.wired.com/2014/02/smart-jerks-old-people-hard-things-company/
 * https://www.linkedin.com/today/post/article/20140527132535-50510-interviewing-engineers-is-a-team-sport
 * http://michaelochurch.wordpress.com/2014/02/06/if-you-stop-promoting-from-within-soon-you-cant/
+* http://blog.landing.jobs/why-hunting-for-unicorns-is-bullshit-and-how-to-hire-a-great-ux-designer/
 * http://www.huffingtonpost.com/susan-p-joyce/job-search-tips_b_4834361.html
 * http://firstround.com/article/Mine-Your-Network-for-Early-Stage-Hiring-Gold
 * http://blog.triplebyte.com/three-hundred-programming-interviews-in-thirty-days

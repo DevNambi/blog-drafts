@@ -417,6 +417,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://lemire.me/blog/archives/2014/12/05/academia-as-an-anxiety-machine/
 * http://news.sciencemag.org/scientific-community/2014/12/study-massive-preprint-archive-hints-geography-plagiarism
 * http://crypto.junod.info/2013/09/09/an-aspiring-scientists-frustration-with-modern-day-academia-a-resignation/
+* http://www.cbc.ca/news/technology/academic-publishers-reap-huge-profits-as-libraries-go-broke-1.3111535
 
 
 ### Mismeasurement, Incentives
