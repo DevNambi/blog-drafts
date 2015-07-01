@@ -52,6 +52,7 @@
 #### Greece
 
 * http://www.nakedcapitalism.com/2014/12/greece-eurozones-rescue-troika-forgive-greeces-debt.html
+* http://www.spiegel.de/international/europe/greek-debt-crisis-how-goldman-sachs-helped-greece-to-mask-its-true-debt-a-676634.html
 * http://www.nakedcapitalism.com/2015/04/syriza-failed.html
 * http://www.nakedcapitalism.com/2015/04/coming-defaults-greece.html
 * http://www.nakedcapitalism.com/2015/03/greece-kolotumbas-increasing-at-disconcerting-rate.html

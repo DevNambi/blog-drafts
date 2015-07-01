@@ -508,6 +508,7 @@
 * http://techtv.mit.edu/collections/bcs/videos/30698-what-s-wrong-with-convolutional-nets
 * http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/
 * http://jmozah.github.io/links/
+* http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
 * http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/
 * http://karpathy.github.io/neuralnets/
 * http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/facebook-ai-director-yann-lecun-on-deep-learning
@@ -729,6 +730,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://speakerdeck.com/jdmaturen/towards-a-data-driven-product-techniques-and-tools-at-github
 * http://www.erinshellman.com/data-scientists-at-work/
 * http://cliffmass.blogspot.com/2015/01/forecast-lessons-from-northeast.html <- how to communicate uncertainty
+* http://instagram-engineering.tumblr.com/post/122961624217/trending-at-instagram
 * http://www.datacommunitydc.org/blog/2013/05/recommendation-engines-why-you-shouldnt-build-one
 * http://technocalifornia.blogspot.com/2014/12/ten-lessons-learned-from-building-real.html
 * http://www.frankmcsherry.org/graph/scalability/cost/2015/01/15/COST.html
