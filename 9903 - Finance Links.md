@@ -85,6 +85,7 @@
 * http://www.telegraph.co.uk/news/worldnews/europe/greece/11704818/Greece-crisis-Bank-Under-the-Bed-becomes-last-hope-for-many-as-ATMs-run-dry.html
 * http://www.nakedcapitalism.com/2015/06/why-greek-banks-are-likely-to-be-toast-no-deposit-insurance.html
 * http://www.nakedcapitalism.com/2015/06/consent-governed-tsipras-style.html
+* https://medium.com/@zizip/fear-and-loathing-in-greece-beb1a26ef4c6
 
 
 
@@ -301,6 +302,7 @@
 * http://www.theatlantic.com/business/archive/2015/06/teenagers-are-losing-confidence-in-the-american-dream/395780/
 * http://blogs.wsj.com/economics/2015/06/22/top-ceo-pay-isnt-driven-by-talent-new-study-says/
 * http://www.theguardian.com/uk-news/2015/jun/28/london-the-city-that-ate-itself-rowan-moore
+* https://www.economy.com/dismal/analysis/datapoints/255258/We-Are-Not-a-Nation-of-Freelancers/
 
 
 

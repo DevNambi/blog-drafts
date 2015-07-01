@@ -15,6 +15,7 @@
 * https://www.eff.org/deeplinks/2015/04/whitehouses-new-executive-order-cyber-crime-unfortunately-no-joke
 * http://arstechnica.com/security/2015/05/the-moose-is-loose-linux-based-worm-turns-routers-into-social-network-bots/
 * http://www.wired.com/2015/04/want-see-domestic-spyings-future-follow-drug-war/
+* http://www.itnews.com/disaster-recovery/94529/fbi-alert-discloses-malware-tied-opm-and-anthem-attacks?utm_source=dlvr.it&utm_medium=twitter
 * http://recode.net/2015/04/13/cyber-crime-still-on-the-rise-using-nine-basic-attack-methods/
 * https://www.schneier.com/blog/archives/2015/06/reassessing_air.html
 * http://www.cringely.com/2015/05/02/your-pbx-has-been-hacked/
