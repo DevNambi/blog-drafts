@@ -173,6 +173,7 @@ Interviews are one of the best times to find out about a company's culture, work
 <li><a href="https://hbr.org/2015/04/why-some-men-pretend-to-work-80-hour-weeks">Why Some Men Pretend to Work 80-Hour Weeks</a></li>
 <li><a href="http://www.washingtonpost.com/local/millennials-want-a-work-life-balance-their-bosses-just-dont-get-why/2015/05/05/1859369e-f376-11e4-84a6-6d7c67c50db0_story.html">Millennials want a work-life balance. Their bosses just don’t get why.</a></li>
 <li><a href="http://qz.com/241043/i-quit-working-full-time-years-ago-heres-why-i-recommend-it-highly/">I quit working full-time years ago—here’s why I recommend it highly</a></li>
+<li><a href="http://joelklettke.com/freelancing-2-years-230000-and-9-big-lessons-later/">FREELANCING: 2 YEARS, $230,000+ AND 9 BIG LESSONS LATER</a></li>
 </ul>
 
 
@@ -269,6 +270,8 @@ http://www.computerworld.com/article/2879083/southern-california-edison-it-worke
 <li><a href="http://data.jobsintech.io/">U.S. Work Visa Explorer</a></li>
 <li><a href="http://www.nytimes.com/2015/06/04/us/last-task-after-layoff-at-disney-train-foreign-replacements.html">The last task after layoff at Disney: train foreign replacements</a></li>
 <li><a href="http://www.infoworld.com/article/2942208/h1b/a-california-backlash-rises-over-foreign-it-worker-replacements.html">A California backlash rises over foreign IT worker replacements</a></li>
+<li><a href="http://www.nybooks.com/articles/archives/2015/jul/09/frenzy-about-high-tech-talent/">The Frenzy About High-Tech Talent
+</a></li>
 </ul>
 
 
