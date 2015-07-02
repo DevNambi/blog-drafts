@@ -424,6 +424,8 @@
 * http://radar.oreilly.com/2015/05/the-tensor-renaissance-in-data-science.html
 * http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html <- beautifully illustrated
 * http://www.mbmlbook.com/toc.html
+* http://recode.net/2015/06/30/machine-learning-is-hard-google-photos-has-egregious-facial-recognition-error/
+* http://www.wired.com/2015/07/trained-googles-chatbot-mein-kampf/
 
 
 

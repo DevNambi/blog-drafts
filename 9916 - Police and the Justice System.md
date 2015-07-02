@@ -32,6 +32,7 @@
 * http://www.washingtonpost.com/local/crime/fbi-overstated-forensic-hair-matches-in-nearly-all-criminal-trials-for-decades/2015/04/18/39c8d8c6-e515-11e4-b510-962fcfabc310_story.html
 * http://www.reddit.com/r/news/comments/314z1z/woman_arrested_for_resisting_arrest_after_putting/
 * http://www.dailykos.com/story/2015/05/29/1388819/-Judge-disqualifies-all-250-prosecutors-in-Orange-County-CA-because-of-widespread-corruption
+* http://www.thestranger.com/news/feature/2015/07/01/22478845/time-to-get-rid-of-the-seattle-police-departments-bad-cops
 * http://priceonomics.com/americas-peculiar-bail-system/
 * http://www.nytimes.com/2015/05/05/us/negative-view-of-us-race-relations-grows-poll-finds.html
 * http://www.seattletimes.com/seattle-news/family-military-tactics-by-cops-led-to-killing/

@@ -136,6 +136,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://blog.longreads.com/2015/03/11/interview-with-a-torturer/
 * http://www.nytimes.com/2015/03/21/world/asia/ghani-afghanistan-unity-government-plan.html?_r=0
 * https://news.vice.com/article/i-didnt-join-the-taliban-because-i-was-poor-i-joined-because-i-was-angry-report-finds-injustice-not-unemployment-radicalizes-youth
+* http://www.wired.com/2015/07/a-10-thunderbolt/
 * http://www.nytimes.com/2015/03/23/us/politics/out-of-yemen-us-is-hobbled-in-terror-fight.html?_r=0
 * http://www.theguardian.com/us-news/2015/feb/18/guantanamo-torture-chicago-police-brutality
 * http://www.publicintegrity.org/2015/02/10/16735/lawyer-moved-halliburton-subsidiary-bribes-through-secret-swiss-hsbc-accounts

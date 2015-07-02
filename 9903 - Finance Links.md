@@ -128,6 +128,7 @@
 * http://uk.reuters.com/article/2015/02/25/uk-hsbc-tax-politics-idUKKBN0LT1L220150225
 * http://www.nytimes.com/2015/03/17/nyregion/state-senate-works-to-block-christie-from-settling-pollution-lawsuit-against-exxon.html
 * http://www.nakedcapitalism.com/2015/03/rebuke-cronyistic-new-york-fed-tbtf-bank-supervision-shifted-fed-board-governors.html
+* http://www.nakedcapitalism.com/2015/07/calpers-scrambles-to-get-private-equity-carry-fee-info-after-we-break-story-that-they-had-no-clue-what-they-were-paying.html
 * http://avc.com/2015/06/the-coming-change-in-monetary-policy/
 * http://mobile.nytimes.com/2015/04/12/business/dealbook/insurers-bypass-rules-to-add-hidden-risk.html?_r=0
 * http://www.seattletimes.com/seattle-news/us-house-oks-cutting-safeguards-for-mobile-home-buyers/
