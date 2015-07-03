@@ -123,6 +123,7 @@
 * http://www.nytimes.com/2015/04/16/upshot/big-money-from-super-pacs-is-eroding-the-power-of-parties.html?abt=0002&abg=0
 * http://www.nakedcapitalism.com/2015/03/fed-impedes-gao-audits-destroying-source-documents.html
 * http://www.bloomberg.com/news/articles/2015-04-23/negative-interest-rates-may-spark-existential-crisis-for-cash
+* http://www.nakedcapitalism.com/2015/07/sacramento-bee-reports-on-calpers-fee-lapses.html
 * http://www.commondreams.org/news/2015/04/24/big-bank-crime-century-results-guess-what-no-jail-time-anyone
 * http://www.nakedcapitalism.com/2015/03/matt-taibbi-takes-up-secs-andrew-bowden-regulatory-capture-scandal.html
 * http://uk.reuters.com/article/2015/02/25/uk-hsbc-tax-politics-idUKKBN0LT1L220150225
