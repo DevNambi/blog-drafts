@@ -66,6 +66,7 @@ Industries
 * http://www.businessinsider.com/super-cheap-genome-sequencing-by-2020-2014-10
 * http://www.propublica.org/article/the-whistleblowers-tale-how-an-accountant-took-on-halliburton
 * http://markmanson.net/question
+* http://mathbabe.org/2015/07/03/what-kind-of-happiness-should-we-strive-for/
 * https://insouciant.org/tech/back-to-sf-after-usds/
 * http://curbed.com/archives/2015/03/25/ikea-refugee-housing-production.php
 * http://digitheadslabnotebook.blogspot.com/2014/11/the-dream-recomb-conference-2014.html
