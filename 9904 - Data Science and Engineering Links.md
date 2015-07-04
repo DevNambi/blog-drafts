@@ -367,6 +367,7 @@
 * http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 * https://www.kaggle.com/users/195999/henning-sperr/otto-group-product-classification-challenge/finding-ensamble-weights
 * http://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/
+* https://kartikkukreja.wordpress.com/2015/07/04/adversarial-search/
 * http://mlwave.com/kaggle-ensembling-guide/
 * http://www.gregreda.com/2015/03/30/beer-review-markov-chains/
 * http://blog.dato.com/choosing-a-recommender-model
