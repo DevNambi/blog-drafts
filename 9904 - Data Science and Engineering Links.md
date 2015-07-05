@@ -501,6 +501,7 @@
 * http://sebastianraschka.com/Articles/2015_singlelayer_neurons.html
 * http://www.extremetech.com/extreme/199814-microsoft-to-accelerate-bing-search-with-neural-network
 * http://www.rosebt.com/blog/introduction-to-deep-learning-with-python
+* https://charlesmartin14.wordpress.com/2015/04/01/why-deep-learning-works-ii-the-renormalization-group/
 * https://timdettmers.wordpress.com/2014/08/14/which-gpu-for-deep-learning/
 * http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
 * https://www.youtube.com/watch?v=S75EdAcXHKk

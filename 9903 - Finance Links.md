@@ -19,6 +19,7 @@
 * http://mobile.nytimes.com/2015/05/01/business/dealbook/china-rethinks-safety-net-for-its-banking-system.html
 * http://www.nakedcapitalism.com/2015/04/wolf-richter-australia-runs-luck-now-needs-miracle.html
 * http://wolfstreet.com/2015/05/12/us-automakers-sag-in-chinas-downturn/
+* http://www.nytimes.com/2015/07/06/business/international/chinas-market-rout-is-a-double-threat.html?_r=0
 
 
 ## Europe
