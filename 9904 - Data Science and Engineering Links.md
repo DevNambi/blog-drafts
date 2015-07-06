@@ -366,6 +366,7 @@
 * http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 * https://www.kaggle.com/users/195999/henning-sperr/otto-group-product-classification-challenge/finding-ensamble-weights
 * http://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/
+* https://kartikkukreja.wordpress.com/2015/07/04/adversarial-search/
 * http://mlwave.com/kaggle-ensembling-guide/
 * http://www.gregreda.com/2015/03/30/beer-review-markov-chains/
 * http://blog.dato.com/choosing-a-recommender-model
@@ -499,6 +500,7 @@
 * http://sebastianraschka.com/Articles/2015_singlelayer_neurons.html
 * http://www.extremetech.com/extreme/199814-microsoft-to-accelerate-bing-search-with-neural-network
 * http://www.rosebt.com/blog/introduction-to-deep-learning-with-python
+* https://charlesmartin14.wordpress.com/2015/04/01/why-deep-learning-works-ii-the-renormalization-group/
 * https://timdettmers.wordpress.com/2014/08/14/which-gpu-for-deep-learning/
 * http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
 * https://www.youtube.com/watch?v=S75EdAcXHKk
@@ -600,6 +602,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://www.21stclub.com/blog/2015/4/22/can-analytics-help-a-last-placed-team-avoid-relegation
 * http://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/
 * https://hbr.org/2015/05/data-scientists-dont-scale
+* http://thedataminimalist.com/post/123338121239/are-you-in-a-data-project-bottleneck-situation
 
 
 

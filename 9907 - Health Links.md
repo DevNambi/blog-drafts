@@ -480,6 +480,7 @@
 
 
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
+* http://www.latimes.com/business/la-fi-blue-shield-audit-20150705-story.html#page=1
 * http://www.nakedcapitalism.com/2015/06/obamacares-problems-continue-to-fester-cost-complexity-quality-coverage-covered-california.html
 * http://mobile.nytimes.com/2015/06/02/business/seeking-rate-increases-insurers-use-guesswork.html
 * http://www.bloomberg.com/news/articles/2015-06-01/this-cancer-doctor-is-leading-the-attack-on-astronomical-drug-prices

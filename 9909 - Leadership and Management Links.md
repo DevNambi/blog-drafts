@@ -9,6 +9,7 @@
 * http://www.slideshare.net/ericschmidt76/how-google-works-final-1
 * https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf
 * http://www.farnamstreetblog.com/2015/02/ben-horowitz-the-law-of-crappy-people/
+* https://pando.com/2015/07/03/holacracy-dunces/e5d42015bc13e7597bcb8936efb287511aab5cfd/
 * http://zachholman.com/posts/0x-engineers/
 * http://blog.karma.wiki/post/116870055382/the-curious-case-of-artem-andreenko
 * https://hbr.org/2013/12/how-google-sold-its-engineers-on-management/ar/1
