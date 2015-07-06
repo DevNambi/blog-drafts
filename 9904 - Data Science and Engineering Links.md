@@ -602,6 +602,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://www.21stclub.com/blog/2015/4/22/can-analytics-help-a-last-placed-team-avoid-relegation
 * http://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/
 * https://hbr.org/2015/05/data-scientists-dont-scale
+* http://thedataminimalist.com/post/123338121239/are-you-in-a-data-project-bottleneck-situation
 
 
 
