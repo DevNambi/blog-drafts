@@ -7,6 +7,7 @@
 * http://arstechnica.com/security/2015/06/new-remote-exploit-leaves-most-macs-vulnerable-to-permanent-backdooring/
 * http://blog.cryptographyengineering.com/2015/04/truecrypt-report.html
 * http://arstechnica.com/security/2015/06/encryption-would-not-have-helped-at-opm-says-dhs-official/
+* https://www.insidehighered.com/news/2015/07/06/pennsylvania-state-u-cyberattacks-possibly-part-larger-trend-experts-say
 * https://blog.lastpass.com/2015/06/lastpass-security-notice.html/
 * http://20committee.com/2015/06/08/hacking-as-offensive-counterintelligence/
 * https://blog.benjojo.co.uk/post/auditing-github-users-keys
@@ -33,6 +34,7 @@
 * http://blog.codinghorror.com/given-enough-money-all-bugs-are-shallow/
 * http://www.wsj.com/articles/the-man-who-hacks-your-people-1429499479
 * http://www.extremetech.com/computing/199978-samsung-is-still-lying-about-the-encryption-on-its-smart-tvs
+* http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html
 * http://www.washingtonpost.com/blogs/the-switch/wp/2015/06/04/fbi-official-companies-should-help-us-prevent-encryption-above-all-else/
 * http://krebsonsecurity.com/2015/04/a-day-in-the-life-of-a-stolen-healthcare-record/
 * http://www.extremetech.com/computing/205000-rombertik-malware-attacks-hard-drives-wipes-mbr-if-detected
@@ -49,6 +51,7 @@
 * https://securityledger.com/2015/05/the-unbalanced-negative-externalities-of-cybersecurity/
 * http://www.thoughtcrime.org/blog/the-cryptographic-doom-principle/
 * http://www.richmond.com/business/ap/article_82e0ea54-5092-5368-8d76-cfcf654ae2c3.html
+* https://www.lvh.io/posts/they-do-take-security-seriously.html
 * http://www.wired.com/2015/03/60-gadget-thatll-make-car-hacking-easier-ever/
 * http://www.wired.com/2015/03/stealing-data-computers-using-heat/
 * https://digitalsecurity.intel.com/5habits/

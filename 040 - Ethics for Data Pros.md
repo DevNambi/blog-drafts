@@ -42,6 +42,8 @@ We believe we are working to make our society, our world, a better place. At the
 * http://www.infoworld.com/article/2687499/techology-business/silicon-valley-is-making-american-manufacturing-more-competitive.html
 * http://mathbabe.org/2015/04/22/four-political-camps-in-the-big-data-world/
 * http://www.theglobeandmail.com/report-on-business/small-business/sb-growth/day-to-day/farms-factories-and-film-sets-startups-bring-big-data-to-inefficient-industries/article20574000/
+* http://www.drivendata.org/competitions/
+* http://blog.datalook.io/definitive-guide-data-science-good/
 * http://blogs.scientificamerican.com/guest-blog/2014/12/12/forecasting-the-suns-fury-how-artificial-intelligence-can-predict-solar-flares/
 * https://www.adbusters.org/magazine/115/datacide-total-annihilation-life-we-know-it.html
 * http://www.datasociety.net/initiatives/council-for-big-data-ethics-and-society/

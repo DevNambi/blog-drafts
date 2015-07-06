@@ -87,6 +87,7 @@ Emphasize what we don't know
 * http://www.bloomberg.com/news/articles/2015-06-23/the-way-humans-get-electricity-is-about-to-change-forever
 * http://nautil.us/issue/25/water/the-real-landscapes-of-the-great-flood-myths
 * http://www.nytimes.com/2015/05/31/opinion/sunday/holding-your-breath-in-india.html?_r=0
+* http://www.nytimes.com/2015/07/06/us/california-drought-sends-us-water-agency-back-to-drawing-board.html?_r=0
 * http://www.newyorker.com/magazine/2015/05/25/the-disappearing-river
 * http://www.independent.co.uk/environment/fracking-poses-significant-risk-to-humans-and-should-be-temporarily-banned-across-eu-says-new-report-10334080.html
 * http://www.theguardian.com/environment/climate-consensus-97-per-cent/2015/may/15/new-study-finds-a-hot-spot-in-the-atmosphere

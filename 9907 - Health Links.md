@@ -76,6 +76,8 @@
 * http://www.nytimes.com/2015/01/20/dining/animal-welfare-at-risk-in-experiments-for-meat-industry.html
 * http://seattletimes.com/html/nationworld/2025500513_pizzaobesexml.html
 * http://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html
+* http://blog.dato.com//bringing-deep-learning-to-the-grocery-store
+* http://www.lift-heavy.com/intermittent-fasting/
 
 
 <li><a href="http://offbeathome.com/2014/06/freezing-summers-bounty" time_added="1406322092" tags="">The ultimate guide to freezing summer's bounty</a></li>
@@ -203,6 +205,7 @@
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
 * http://stm.sciencemag.org/content/7/278/278ra33.full
 * https://vanwinkles.com/bedtime-for-benzodiazepines-addicted-drug-most-popular-sleeping-pills
+* http://www.scientificamerican.com/article/supercharged-tuberculosis-made-in-india1/
 * http://www.sciencealert.com/new-alzheimer-s-treatment-fully-restores-memory-function
 * http://www.seattletimes.com/nation-world/some-acid-reflux-drugs-safety-questioned/
 * http://arstechnica.com/science/2015/06/personal-vaccine-exemptions-under-fire-in-california-and-by-ama/

@@ -111,6 +111,7 @@
 * http://www.wired.com/2014/11/protection-from-hackers/
 * https://resistsurveillance.org/
 * http://www.theguardian.com/world/2014/nov/21/gchq-whistleblower-public-interest-defence?CMP=share_btn_tw
+* http://www.extremetech.com/extreme/209201-uks-cameron-wants-to-ban-encryption
 * http://fusion.net/story/29489/surveillance-cameras-are-everywhere-even-on-your-smartphone/
 * http://www.troyhunt.com/2014/11/ransom-is-new-black-increasing-trend-of.html
 * http://krebsonsecurity.com/2014/11/skimmer-innovation-wiretapping-atms/

@@ -166,6 +166,8 @@
 * http://blog.stephenwyattbush.com/2012/04/07/dad-and-the-ten-commandments-of-egoless-programming
 * http://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/
 * http://techcrunch.com/2015/06/10/indian-programmer-exposes-code-injection-gets-a-cease-and-desist-from-the-injectors/
+* https://medium.com/@leeb/why-invest-in-tools-3240ce289930
+* https://medium.com/@johnslegers/the-decline-of-stack-overflow-7cb69faa575d
 
 
 
@@ -187,6 +189,7 @@
 * http://nerds.airbnb.com/maintaining-quality-scale/
 * http://devopschecklist.com/
 * http://www.itworld.com/article/2891140/study-finds-that-refactoring-doesn-t-improve-code-quality.html
+* https://medium.com/@Smrimell/escape-the-trap-avoiding-traps-in-software-development-with-systems-thinking-cbc20af7c719
 
 
 ## UI, UX, HCD

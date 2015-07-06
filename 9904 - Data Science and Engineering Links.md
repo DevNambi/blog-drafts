@@ -360,7 +360,6 @@
 * http://www.dataschool.io/comparing-supervised-learning-algorithms/
 * http://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/
 * https://medium.com/@mikedewar/recommendation-engines-aren-t-for-maximising-metrics-they-are-for-designing-experiences-b2cb3395092c
-* http://www.dataschool.io/comparing-supervised-learning-algorithms/
 * http://nbviewer.ipython.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb
 * http://fastml.com/real-time-interactive-movie-recommendation/
 * http://www.dailyuw.com/science/article_078a3b74-eef3-11e4-b1b5-b3a9ae4725b9.html
@@ -376,6 +375,8 @@
 * http://www.quora.com/What-are-the-advantages-of-different-classification-algorithms
 * http://blog.fractalanalytics.com/institutionalizing-analytics/online-machine-learning-2/
 * https://newsoffice.mit.edu/2015/better-machine-learning-kalyan-veeramachaneni-0224
+* https://jakevdp.github.io/blog/2015/07/06/model-complexity-myth/
+* http://googleresearch.blogspot.com/2015/07/icml-2015-and-machine-learning-research.html
 * https://outlookzen.wordpress.com/2015/03/15/life-lessons-from-machine-learning/
 * http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
 * http://research.microsoft.com/en-us/projects/r2/
@@ -390,7 +391,6 @@
 * https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 * http://ppaml.galois.com/wiki/
 * http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/
-* http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 * http://timdettmers.wordpress.com/2014/09/21/how-to-build-and-use-a-multi-gpu-system-for-deep-learning/
 * http://www.newyorker.com/tech/elements/deepmind-artificial-intelligence-video-games
 * http://blog.shriphani.com/2014/11/12/the-isomap-algorithm/
@@ -401,15 +401,10 @@
 * https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/
 * http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 * http://datascopeanalytics.com/what-we-think/2014/09/18/hipster-classifier-icebreaker
-* http://research.microsoft.com/pubs/192769/tricks-2012.pdf
 * http://www.mimno.org/articles/hdp/
-* http://techcrunch.com/2014/10/26/elon-musk-compares-building-artificial-intelligence-to-summoning-the-demon/
-* http://www.wired.com/2014/10/future-of-artificial-intelligence/
-* http://karpathy.github.io/neuralnets/
 * http://www.i-programmer.info/news/105-artificial-intelligence/7352-the-flaw-lurking-in-every-deep-neural-net.html
 * http://randyzwitch.com/twitter-breakoutdetection-r-package-evaluation/
 * http://www.infoq.com/news/2015/04/aws-launches-machine-learning
-* http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 * http://blogs.nvidia.com/blog/2014/11/17/microsoft-gpu-learn-faster/
 * http://spectrum.ieee.org/robotics/artificial-intelligence/the-unknown-startup-that-built-googles-first-selfdriving-ca
 * http://www.dataschool.io/roc-curves-and-auc-explained/
@@ -425,15 +420,19 @@
 * http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html <- beautifully illustrated
 * http://www.mbmlbook.com/toc.html
 * http://recode.net/2015/06/30/machine-learning-is-hard-google-photos-has-egregious-facial-recognition-error/
-* http://www.wired.com/2015/07/trained-googles-chatbot-mein-kampf/
+
 
 
 
 "ML tip: train a model to distinguish between your training set & unlabeled data. If it works, your training data may be incomplete!" - Jake Vanderplas
 
 
+#### Strong AI
 
-
+* http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881
+* http://techcrunch.com/2014/10/26/elon-musk-compares-building-artificial-intelligence-to-summoning-the-demon/
+* http://www.wired.com/2014/10/future-of-artificial-intelligence/
+* http://www.wired.com/2015/07/trained-googles-chatbot-mein-kampf/
 
 #### R
 
@@ -520,6 +519,7 @@
 * http://www.slideshare.net/dato-inc/strata-london-deep-learning-052015
 * http://www.extremetech.com/extreme/206521-thought-vectors-could-revolutionize-artificial-intelligence
 * http://maximusandme.blogspot.com/2015/05/thought-vector-deep-learning-progress.html
+* https://charlesmartin14.wordpress.com/2015/04/01/why-deep-learning-works-ii-the-renormalization-group/
 
 
 #### Network Optimization, Linear Algebra, NP-hard 
@@ -648,6 +648,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://ianozsvald.com/2015/02/19/spark-1-2-pyspark-elasticsearch-pypy/
 * https://gist.github.com/debasishg/8172796
 * https://gigaom.com/2015/01/21/netflix-is-open-sourcing-tools-for-analyzing-data-in-hadoop/
+* http://insightdataengineering.com/blog/hadoopdevops/
 * http://blog.confluent.io/2015/01/29/making-sense-of-stream-processing/
 * http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html
 * http://queue.acm.org/detail.cfm?id=2745385
@@ -746,6 +747,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://getprismatic.com/story/1416932925939
 * http://www.slate.com/articles/health_and_science/new_scientist/2012/12/kaggle_president_jeremy_howard_amateurs_beat_specialists_in_data_prediction.html
 * http://scatter.wordpress.com/2015/01/03/beckieball-and-the-study-of-not-quite-elite-selected-groups/
+* http://blog.dato.com//bringing-deep-learning-to-the-grocery-store
 * http://www.slideshare.net/MrChrisJohnson/scala-data-pipelines-for-music-recommendations
 * https://gigaom.com/2015/01/24/why-data-science-matters-and-how-technology-makes-it-possible/
 * http://blog.dominodatalab.com/reflections-on-buy-vs-build/?hn=1

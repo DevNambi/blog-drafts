@@ -133,6 +133,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://m.apnews.com/ap/db_268798/contentdetail.htm?contentguid=fNnaocly
 * http://www.pieria.co.uk/articles/why_the_worlds_biggest_military_keeps_losing_wars <- how politics and war intertwine
 * http://www.nytimes.com/2015/01/29/world/us-suddenly-goes-quiet-on-effort-to-bolster-afghan-forces.html
+* https://firstlook.org/theintercept/2015/07/04/ghost-fleet-welcome-world-post-snowden-techno-thrillers/
 * http://blog.longreads.com/2015/03/11/interview-with-a-torturer/
 * http://www.nytimes.com/2015/03/21/world/asia/ghani-afghanistan-unity-government-plan.html?_r=0
 * https://news.vice.com/article/i-didnt-join-the-taliban-because-i-was-poor-i-joined-because-i-was-angry-report-finds-injustice-not-unemployment-radicalizes-youth

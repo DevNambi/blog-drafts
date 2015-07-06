@@ -43,6 +43,7 @@
 * http://arstechnica.com/tech-policy/2015/02/music-service-uses-copyright-extortion-tactics-on-youtube-suit-says/
 * http://www.wired.com/2015/02/new-high-tech-farm-equipment-nightmare-farmers/
 * https://www.eff.org/deeplinks/2015/02/go-prison-sharing-files-thats-what-hollywood-wants-secret-tpp-deal
+* http://www.bloomberg.com/news/articles/2015-07-06/-flash-boys-programmer-in-goldman-theft-has-charges-tossed-out-ibrz5tyj
 * http://blog.opendns.com/2014/12/30/sony-reveals-even-bigger-attack-internet-time-mpaa-behind/
 * http://timesofindia.indiatimes.com/tech/tech-news/Pastebin-Dailymotion-Github-blocked-after-DoT-order-Report/articleshow/45701713.cms
 * http://arstechnica.com/tech-policy/2015/01/the-nfl-wants-you-to-think-thsee-things-are-illegal/
