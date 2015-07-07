@@ -1,13 +1,16 @@
 # Data Science & Engineering
 
 ## Data Languages
+
 <li><a href="http://www.theswarmlab.com/r-vs-python-round-2/" time_added="1389671723" tags="">R vs Python – Round 2 - The Swarm Lab @ NJIT</a></li>
 <li><a href="http://r4stats.com/2012/05/09/beginning-of-the-end/" time_added="1389663551" tags="">The comments at the end of this analysis of the academic popularity of R, S</a></li>
 <li><a href="http://continuum.io/blog/blaze" time_added="1355810222" tags="big data">A Python Compiler for Big Data</a></li>
 <li><a href="http://t.co/vsW3xsQE" time_added="1355874308" tags="big data">lynnlangit: A programmer’s guide to big data: 12 tools to know http://t.co/</a></li>
 <li><a href="http://www.revolutionanalytics.com/downloads/free-academic.php" time_added="1357790517" tags="big data,data science,ml,stats">Download Revolution R - Free for Academia - Revolution Analytics</a></li>
 <li><a href="http://www.quantumforest.com/2013/12/using-processing-and-r-together/" time_added="1388381715" tags="">Neeeaato RT @golan: Processing R on OSX: quantumforest.com/2013/12/using-… </a></li>
+
 "Sort of astounding how much dplyr/tidyr/magrittr have changed my R code. Can hardly read my old stuff anymore. #nerdtwitter @hadleywickham" - Ben Casselman
+
 * http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/
 * http://learnds.com/
 * http://www.dataschool.io/python-or-r-for-data-science/
@@ -28,7 +31,10 @@
 * https://districtdatalabs.silvrback.com/intro-to-r-for-microsoft-excel-users
 * http://www.labri.fr/perso/nrougier/teaching/numpy.100/
 * https://plot.ly/ipython-notebooks/big-data-analytics-with-pandas-and-sqlite/
+
 ## Experiments & Research
+
+
 <li><a href="http://visualwebsiteoptimizer.com/split-testing-blog/seven-ab-testing-mistakes-to-stop-in-2013/" time_added="1357243322" tags="brand,data science">Seven A/B testing mistakes you need to stop making in 2013 « I love split t</a></li>
 <li><a href="http://www.hilarymason.com/blog/how-do-you-prioritize-research/" time_added="1348860821" tags="data science">» How do you prioritize research? hilarymason.com</a></li>
 <li><a href="http://stevehanov.ca/blog/index.php?id=132&utm_medium=referral&utm_source=pulsenews" time_added="1349321949" tags="data science">20 lines of code that will beat A/B testing every time - Steve Hanov's Prog</a></li>
@@ -36,16 +42,23 @@
 <li><a href="http://strata.oreilly.com/2012/07/the-dark-side-of-data.html#more-49588" time_added="1348860826" tags="data science">The dark side of data - Strata</a></li>
 <li><a href="http://bentilly.blogspot.com/2012/10/ab-testing-scale-cheat-sheet.html" time_added="1351534808" tags="big data,data science">Random Observations: A/B testing scale cheat sheet</a></li>
 <li><a href="http://online.wsj.com/article/SB10001424127887323539804578261780648285770.html" time_added="1359220062" tags="academia,data ethics,data science,hn">Bill Gates on the Importance of Measurement - WSJ.com</a></li>
+
+
 * https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging-in-json/ 
 * http://arstechnica.com/business/2014/10/googles-product-strategy-make-two-of-everything/
 * http://motherboard.vice.com/read/how-bad-software-leads-to-bad-science
 * http://engineering.pinterest.com/post/109318939139/demystifying-seo-with-experiments
 * http://googleresearch.blogspot.com/2015/03/large-scale-machine-learning-for-drug.html
+
 ### Open Data
+
 <li><a href="http://mathbabe.org/2012/12/29/open-data-is-not-a-panacea/" time_added="1356836290" tags="data science,hn,important">Open data is not a panacea « mathbabe</a></li>
+
 * https://medium.com/@sahuguet/p-b-d-c-1218ee894400
 * http://www.clean-sheet.org/
+
 ## Data Acquisition, Sources
+
 <li><a href="http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public?share=1" time_added="1399828602" tags="">Where can I find large datasets open to the public? - Quora</a></li>
 <li><a href="http://www.datatau.com/item?id=1001" time_added="1389717031" tags="">Web scraping 101 with Python: datatau.com/item?id=1001</a></li>
 <li><a href="http://googleresearch.blogspot.com/2012/10/ngram-viewer-20.html" time_added="1350571122" tags="data science,viz">Research Blog: Ngram Viewer 2.0</a></li>
@@ -60,15 +73,19 @@
 <li><a href="http://codecr.am/blog/post/7/" time_added="1362969821" tags="data sources">Let's Scrape the Web with Python 3 - codecr.am</a></li>
 <li><a href="http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/" time_added="1362969640" tags="data sources">Greg Reda | Web Scraping 101 with Python</a></li>
 <li><a href="http://t.co/WFldJbZY7P" time_added="1362406131" tags="data sources">Some friends wanted to learn how to scrape data, so I wrote a very basic in</a></li>
+
 * https://dreamtolearn.com/doc/2HDNJH3XJU6CVGKZ7SDM4MCSW
 * https://github.com/caesar0301/awesome-public-datasets
 * http://jakeaustwick.me/python-web-scraping-resource/
 * http://googleresearch.blogspot.com/2015/06/a-multilingual-corpus-of-automatically.html
 * http://blog.yhathq.com/posts/7-funny-datasets.html
+
 ## Data Cleaning/Munging
+
 <li><a href="http://code.google.com/p/google-refine/" time_added="1349104008" tags="data science">google-refine - Google Refine, a power tool for working with messy data (fo</a></li>
 <li><a href="http://vis.stanford.edu/wrangler/" time_added="1349104004" tags="data science">Data Wrangler</a></li>
 * http://radar.oreilly.com/2014/10/challenges-facing-predictive-apis.html
+
 ## Data Viz
 <li><a href="http://homes.cs.washington.edu/~jheer/talks/Heer-VIZBI-2014.pdf" time_added="1394032888" tags="">homes.cs.washington.edu/~jheer/talks/Heer-VIZBI-2014.pdf</a></li>
 <li><a href="http://civilstat.com/?p=974" time_added="1354808210" tags="viz">Graph Design for the Eye and Mind, Stephen Kosslyn | Civil Statistician</a></li>
@@ -106,6 +123,7 @@
 <li><a href="http://prsm.tc/yruZT0" time_added="1363150588" tags="viz">Blowing the whistle at bubble charts prsm.tc/yruZT0 via @prismatic</a></li>
 <li><a href="http://flowingdata.com/2013/03/14/feltron-2012-annual-report/" time_added="1363308419" tags="viz">Feltron 2012 Annual Report</a></li>
 <li><a href="http://www.periscopic.com/" time_added="1362805100" tags="data ethics,data science,important,viz">Periscopic: Do good with data</a></li>
+
 * http://www.reddit.com/r/DataVizRequests/top/?sort=top&t=all
 * http://textvis.lnu.se/
 * http://homes.cs.washington.edu/~jheer/talks/RaisingTheBar-OpenVisConf.pdf <- AMAZING
@@ -114,6 +132,7 @@
 * http://nbviewer.ipython.org/github/mwaskom/seaborn/blob/master/examples/plotting_distributions.ipynb
 * http://mbtaviz.github.io/ <- amazing example
 * https://www.mapbox.com/blog/stickshift/ <- seems incredibly useful
+
 #### D3 and related
 <li><a href="http://dimplejs.org/" time_added="1389289052" tags="">dimple - A simple charting API for d3 data visualisations</a></li>
 <li><a href="https://github.com/jakevdp/mpld3" time_added="1389401658" tags="">Coming from a matplotlib disliker and author of a Python->D3 tool: @jakevdp</a></li>
@@ -138,6 +157,7 @@
 * http://blog.ae.be/combining-the-power-of-r-and-d3-js/?hn
 * https://beta.oreilly.com/learning/data-visualization-with-seaborn
 * https://github.com/wbkd/awesome-d3
+
 #### GGPlot2
 <li><a href="http://t.co/w8h1JL26" time_added="1354908232" tags="viz">RobbyMeals: new post visualizing #Baltimore with #rstats and #ggplot2: http</a></li>
 <li><a href="http://t.co/HRl42Kx3" time_added="1357199998" tags="viz">chlalanne: Nice tutorial on #ggplot2, http://t.co/HRl42Kx3 #rstats</a></li>
@@ -148,7 +168,9 @@
 * http://opr.princeton.edu/workshops/201401/ggplot2Jan2014DawnKoffman.pdf
 * http://www.exegetic.biz/blog/2014/11/creating-more-effective-graphs/
 * https://github.com/jrnold/ggthemes
+
 #### Tableau
+
 <li><a href="http://t.co/pBE0aGD6" time_added="1354668143" tags="viz">TableauDataNerd: Great #Tableau performance tips from @Odbin that complemen</a></li>
 <li><a href="http://t.co/KWYSiAs9" time_added="1354739534" tags="viz">sqlbelle: 25 amazing Interactive graphics created with tableau | Design New</a></li>
 <li><a href="http://t.co/lhwA79BK" time_added="1349394276" tags="big data,data science">DGM885: Hey data geeks and Tableau vizzers.  This looks both fun and intere</a></li>
@@ -156,10 +178,14 @@
 <li><a href="http://t.co/lsMlKFOu" time_added="1361205105" tags="viz">More @Tableau data connectors... lnkd.in/6bBMQh</a></li>
 * http://tableaulove.tumblr.com/post/100325738425/which-ec2-instance-type-should-i-run-tableau-server-on
 * http://tableaulove.tumblr.com/post/101512010275/which-aws-ec2-instance-type-should-i-run-tableau-server
+
 ## Developer Help
+
 <li><a href="http://dennyglee.com/2012/05/08/installing-hadoop-on-osx-lion-10-7/" time_added="1348860726" tags="big data,data science">Installing Hadoop on OSX Lion (10.7) « Denny Lee</a></li>
 <li><a href="http://blog.andrewhays.net/love-your-terminal" time_added="1354290033" tags="data science,personal tech">Love Your Terminal - Programming and Productivity</a></li>
+
 ## Hiring/Firing
+
 <li><a href="http://www.forbes.com/sites/gilpress/2012/12/01/big-data-news-of-the-week-beautiful-300000-minds/" time_added="1355414578" tags="big data,data science,finance,hn,important">Big Data News of the Week: Beautiful $300,000 Minds - Forbes</a></li>
 <li><a href="http://www.hilarymason.com/blog/interview-questions-for-data-scientists/" time_added="1357239077" tags="data science">» Interview Questions for Data Scientists hilarymason.com</a></li>
 * http://www.brianckeegan.com/2014/10/on-starting-a-new-job/
@@ -178,7 +204,9 @@
 * Any two hours you want, whatever tools you want
 * Present at the end of it.
 * Key to make money in life: people will pay you money to do things they find tedious and boring and un-fun. Do it, and that's your career.
+
 ## Stats
+
 <li><a href="http://alumni.media.mit.edu/~tpminka/statlearn/glossary/" time_added="1351210052" tags="data science,ml">A Statistical Learning/Pattern Recognition Glossary</a></li>
 <li><a href="http://t.co/uGySkaRQ" time_added="1351168563" tags="data science,ml">johnmyleswhite: Stumbled upon this nice looking book on statistical distrib</a></li>
 <li><a href="http://civilstat.com/?p=758" time_added="1350838827" tags="data science,ml">Carl Morris Symposium on Large-Scale Data Inference (2/3) | Civil Statistic</a></li>
@@ -225,7 +253,9 @@
 * http://www.stats.org/super-learning-and-the-revolution-in-knowledge/
 * https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf
 * http://technology.stitchfix.com/blog/2015/05/26/significant-sample/
+
 ## ML / AI
+
 <li><a href="http://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/" time_added="1400014328" tags="">The Curse of Dimensionality in Classification</a></li>
 <li><a href="http://www.wired.com/2014/08/deep-learning-yann-lecun/?" time_added="1408053431" tags="">Facebook’s Quest to Build an Artificial Brain Depends on This Guy | Enterpr</a></li>
 <li><a href="https://scottlocklin.wordpress.com/2014/07/22/neglected-machine-learning-ideas/" time_added="1407220696" tags="">https://scottlocklin.wordpress.com/2014/07/22/neglected-machine-learning-ideas/</a></li>
@@ -334,21 +364,30 @@
 * http://www.mbmlbook.com/toc.html
 * http://recode.net/2015/06/30/machine-learning-is-hard-google-photos-has-egregious-facial-recognition-error/
 "ML tip: train a model to distinguish between your training set & unlabeled data. If it works, your training data may be incomplete!" - Jake Vanderplas
+
+
 #### Strong AI
+
 * http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881
 * http://techcrunch.com/2014/10/26/elon-musk-compares-building-artificial-intelligence-to-summoning-the-demon/
 * http://www.wired.com/2014/10/future-of-artificial-intelligence/
 * http://www.wired.com/2015/07/trained-googles-chatbot-mein-kampf/
+
 #### Agent Systems
+
 * http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14604.html
+
 #### R
+
 <li><a href="http://t.co/vWTW9con" time_added="1358868193" tags="ml">kaggle: Medley: new R package for blending regression models, developed by </a></li>
 <li><a href="http://t.co/xTsyCQ92" time_added="1361257089" tags="">Free SignalR book: campusmvp.net/signalr-ebook/ #mvp13 #mvpbuzz</a></li>
 <li><a href="http://t.co/y9De8Gt1" time_added="1358258443" tags="">eddelbuettel: A first and simple Boost example with Rcpp at the Rcpp Galler</a></li>
 <li><a href="http://www.r-bloggers.com/visualizing-principal-components/" time_added="1356371205" tags="">Visualizing Principal Components | (R news & tutorials)</a></li>
 * http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html
 * http://technology.stitchfix.com/blog/2015/03/17/grammar-of-data-science/
+
 #### NLP
+
 <li><a href="http://www.puffinwarellc.com/index.php/news-and-articles/articles/33.html?showall=1" time_added="1349095672" tags="data science,ml">Latent Semantic Analysis (LSA) Tutorial</a></li>
 <li><a href="http://www-nlp.stanford.edu/fsnlp/" time_added="1356708592" tags="ml">Foundations of Statistical Natural Language Processing</a></li>
 <li><a href="http://t.co/YxlCR2zI" time_added="1357393998" tags="side biz">peteskomoroch: English Letter Frequency Counts: Mayzner Revisited http://t.</a></li>
@@ -361,16 +400,24 @@
 * http://nbviewer.ipython.org/github/sgsinclair/alta/blob/master/ipynb/DocumentSimilarity.ipynb
 * http://fotiad.is/blog/sentiment-analysis-comparison/
 * http://engineering.intenthq.com/2015/02/automatic-topic-modelling-with-lda/
+
 #### Image Processing
+
+
 <li><a href="http://t.co/i7v6M5eO" time_added="1356487869" tags="ml">hmason: An algorithmic exploration of finding interesting parts of an image</a></li>
 <li><a href="http://blog.yhathq.com/posts/image-processing-with-scikit-image.html" time_added="1391111958" tags="">Image Processing with scikit-image</a></li>
 * http://totems.co/blog/comparison-image-hashing-libraries/
 * http://cs.stanford.edu/people/karpathy/deepimagesent/
 * http://blog.yhathq.com/posts/image-processing-with-scikit-image.html
 * http://karpathy.github.io/2012/10/22/state-of-computer-vision/
+
 #### Social Media
+
 <li><a href="http://t.co/ZQOMUrte" time_added="1354389044" tags="data science">iSchoolSU: .@MSFTResearch is Hosting a Workshop on Analyzing Social Media D</a></li>
+
+
 #### Deep Learning / Neural Networks
+
 <li><a href="http://moalquraishi.wordpress.com/2013/03/17/what-hintons-google-move-says-about-the-future-of-machine-learning/" time_added="1363562363" tags="ml">What Hinton’s Google Move Says About the Future of Machine Learning « Some </a></li>
 <li><a href="http://oreillynet.com/pub/e/2538" time_added="1363282942" tags="data science,ml">Webcast: Deep Learning - The Biggest Data Science Breakthrough of the Decad</a></li>
 * http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
@@ -403,7 +450,9 @@
 * http://www.slideshare.net/dato-inc/strata-london-deep-learning-052015
 * http://www.extremetech.com/extreme/206521-thought-vectors-could-revolutionize-artificial-intelligence
 * http://maximusandme.blogspot.com/2015/05/thought-vector-deep-learning-progress.html
+
 #### Network Optimization, Linear Algebra, NP-hard 
+
 * http://mortada.net/drafts/the-traveling-tesla-salesman.html
 #### ML Tools, Hyperparameters
 * https://blog.onliquid.com/machine-learning-service-benchmark/
@@ -439,11 +488,14 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * All problems in computer science can be solved by another level of indirection
 * All problems in ML can be solved by another level of dimensionality, except for the problem of too many dimensions.
 * All problems in ML can be solved by higher order processing, except for the problem of higher order processing.
+
 ## Funny
+
 * http://www.bigdata-madesimple.com/dilberts-20-funniest-cartoons-on-big-data/
 * http://www.cafepress.com/+statistics+mugs
 * http://bigdatapix.tumblr.com/
 * Storytelling w/ data - Precision bullsh*tting
+
 ## Data Adoption and Data-Friendly Organizations
 <li><a href="http://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics" time_added="1357774737" tags="sql">Dan McKinley :: Whom the Gods Would Destroy, They First Give Real-time Anal</a></li>
 <li><a href="http://t.co/u7gM3ggF" time_added="1353294895" tags="data science">datachick: How to Organize a Data Science Team http://t.co/u7gM3ggF</a></li>
@@ -460,6 +512,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/
 * https://hbr.org/2015/05/data-scientists-dont-scale
 * http://thedataminimalist.com/post/123338121239/are-you-in-a-data-project-bottleneck-situation
+
 ## Data Stacks, Engineering
 <li><a href="https://github.com/rickysaltzer/impala-in-action" time_added="1389815401" tags="">rickysaltzer/impala-in-action · GitHub</a></li>
 <li><a href="http://tepid.org/tech/01-aurora-mesos-cluster/" time_added="1390924821" tags="">"Setting up an Apache Aurora/Mesos Cluster with Vagrant" blog post by @Nutt</a></li>
@@ -550,7 +603,9 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://blog.parsely.com/post/1928/cass/
 * http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR
 * http://ampcamp.berkeley.edu/
+
 ## How-I-Did-It
+
 <li><a href="http://www.brentozar.com/archive/2013/07/on-bobcats-per-100-orders-and-other-spurious-metrics/" time_added="1388673406" tags="">http://www.brentozar.com/archive/2013/07/on-bobcats-per-100-orders-and-othe</a></li>
 <li><a href="http://t.co/4QHgFG70Ag" time_added="1362377628" tags="data science">How and why LinkedIn is becoming an engineering powerhouse dlvr.it/324Dbg</a></li>
 <li><a href="http://blog.luckyoyster.com/post/33592990831/data-mining-the-web-100-worth-of-priceless" time_added="1350492020" tags="big data,data science">Lucky Oyster - Thought Pearls — Data Mining the Web: $100 Worth of Priceles</a></li>
@@ -595,3 +650,4 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://gigaom.com/2015/01/24/why-data-science-matters-and-how-technology-makes-it-possible/
 * http://blog.dominodatalab.com/reflections-on-buy-vs-build/?hn=1
 * http://firstround.com/review/everything-we-wish-wed-known-about-building-data-products/
+* http://www.pindropsecurity.com/data-science-how-do-we-get-started-part-three/
