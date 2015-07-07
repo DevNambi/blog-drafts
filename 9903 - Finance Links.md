@@ -21,6 +21,8 @@
 * http://wolfstreet.com/2015/05/12/us-automakers-sag-in-chinas-downturn/
 * http://www.bloomberg.com/news/articles/2015-07-06/timeline-china-s-efforts-to-stem-3-2-trillion-stock-rout
 * http://www.nytimes.com/2015/07/06/business/international/chinas-market-rout-is-a-double-threat.html?_r=0
+* http://www.smh.com.au/business/china/chinas-new-rules-risk-creating-subprime-economy-20150706-gi6jm1.html
+* http://www.macrobusiness.com.au/2015/07/shanghai-opens-crashes-3/
 
 
 ## Europe
@@ -196,6 +198,7 @@
 * http://www.nakedcapitalism.com/2015/06/a-unifying-approach-to-preventing-asset-price-bubbles.html
 * http://www.nakedcapitalism.com/2015/06/top-private-equity-reporter-calpers-is-either-lying-or-has-a-massive-breakdown-in-financial-controls.html
 * http://www.nakedcapitalism.com/2015/07/obama-in-retreat-thanks-to-elizabeth-warren-led-opposition-to-plan-to-appoint-another-corporate-stooge-as-sec-commissioner.html
+* http://www.bloomberg.com/news/articles/2015-07-07/sealed-hsbc-report-shows-u-s-managers-battling-clean-up-squad
 
 
 
