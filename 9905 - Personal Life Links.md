@@ -32,6 +32,7 @@
 ## Parenting
 
 * http://www.nytimes.com/2015/02/01/opinion/sunday/the-only-baby-book-youll-ever-need.html
+* http://well.blogs.nytimes.com/2015/07/06/screen-addiction-is-taking-a-toll-on-children/
 * http://fivethirtyeight.com/features/putting-a-price-tag-on-the-stress-of-having-a-child/
 * http://www.theatlantic.com/health/archive/2015/04/millenials-not-having-babies/391721/
 * http://www.theatlantic.com/health/archive/2015/04/the-quantified-baby/389009/?single_page=true

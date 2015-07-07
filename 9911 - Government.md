@@ -282,7 +282,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 
 
 
-## Politics and Taxes
+## Politics, Voting, and Taxes
 
 <li><a href="http://www.npr.org/2012/10/03/162103368/how-politicians-get-away-with-dodging-the-question" time_added="1350313283" tags="hn">Debate Pivots: How Politicians Get Away With Dodging The Question : NPR</a></li>
 <li><a href="http://www.madinamerica.com/2012/02/why-anti-authoritarians-are-diagnosed-as-mentally-ill/" time_added="1368039570" tags="corruption,health">Why Anti-Authoritarians are Diagnosed as Mentally Ill</a></li>
@@ -320,3 +320,4 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.kansascity.com/opinion/editorials/article19411242.html#/tabPane=tabs-b0710947-1-1
 * http://www.nytimes.com/2015/05/10/us/billionaire-lifts-marco-rubio-politically-and-personally.html
 * http://mobile.nytimes.com/2015/05/12/us/politics/as-middle-class-fades-so-does-use-of-term-on-campaign-trail.html
+* http://www.washingtonpost.com/blogs/plum-line/wp/2015/07/07/morning-plum-voting-access-sucks-throughout-the-south-new-report-finds/

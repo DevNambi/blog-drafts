@@ -195,6 +195,7 @@
 * http://www.bloombergview.com/articles/2015-05-26/deutsche-bank-ignored-its-cds-problems-until-they-went-away
 * http://www.nakedcapitalism.com/2015/06/a-unifying-approach-to-preventing-asset-price-bubbles.html
 * http://www.nakedcapitalism.com/2015/06/top-private-equity-reporter-calpers-is-either-lying-or-has-a-massive-breakdown-in-financial-controls.html
+* http://www.nakedcapitalism.com/2015/07/obama-in-retreat-thanks-to-elizabeth-warren-led-opposition-to-plan-to-appoint-another-corporate-stooge-as-sec-commissioner.html
 
 
 
