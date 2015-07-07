@@ -97,6 +97,8 @@
 * https://medium.com/backchannel/why-silicon-valley-will-continue-to-rule-c0cbb441e22f
 * http://recode.net/2015/05/07/searching-for-the-next-stanford-silicon-valley-turns-its-eyes-to-berkeley/
 * https://stories.californiasunday.com/2015-06-07/real-teenagers-silicon-valley
+* https://medium.com/backchannel/how-the-tech-press-forces-a-narrative-on-companies-it-covers-5f89fdb7793e
+
 
 
 

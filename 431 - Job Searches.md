@@ -198,6 +198,7 @@ Interviews are one of the best times to find out about a company's culture, work
 <li><a href="http://www.theatlantic.com/business/archive/2015/04/ask-a-hostage-negotiator-whats-the-best-way-to-talk-about-a-raise/391943/">The Hostage Negotiator's Guide to Talking About a Raise</a></li>
 <li><a href="https://medium.com/@prlambert/software-engineering-vs-product-manager-salaries-9564cd7e665f">Software Engineering vs. Product Manager Salaries</a></li>
 <li><a href="http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/">The Software Engineer’s Guide to Negotiating a Raise</a></li>
+<li><a href="http://thinkfaster.co/2015/07/how-to-avoid-the-software-salary-ceiling"></a></li>
 </ul>
 
 
