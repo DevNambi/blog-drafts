@@ -134,6 +134,7 @@
 * https://www.mapbox.com/blog/stickshift/ <- seems incredibly useful
 
 #### D3 and related
+
 <li><a href="http://dimplejs.org/" time_added="1389289052" tags="">dimple - A simple charting API for d3 data visualisations</a></li>
 <li><a href="https://github.com/jakevdp/mpld3" time_added="1389401658" tags="">Coming from a matplotlib disliker and author of a Python->D3 tool: @jakevdp</a></li>
 <li><a href="http://t.co/h53PyVW2" time_added="1354664624" tags="viz">TrestleJeff: My new Shiny App with custom D3 network output for gene networ</a></li>
@@ -159,6 +160,7 @@
 * https://github.com/wbkd/awesome-d3
 
 #### GGPlot2
+
 <li><a href="http://t.co/w8h1JL26" time_added="1354908232" tags="viz">RobbyMeals: new post visualizing #Baltimore with #rstats and #ggplot2: http</a></li>
 <li><a href="http://t.co/HRl42Kx3" time_added="1357199998" tags="viz">chlalanne: Nice tutorial on #ggplot2, http://t.co/HRl42Kx3 #rstats</a></li>
 <li><a href="http://t.co/iL6PXHQq" time_added="1354388964" tags="viz">hadleywickham: fast histograms for big data with ggplot2 and rcpp: http://t</a></li>
@@ -454,10 +456,15 @@
 #### Network Optimization, Linear Algebra, NP-hard 
 
 * http://mortada.net/drafts/the-traveling-tesla-salesman.html
+* https://developers.google.com/optimization/
+
 #### ML Tools, Hyperparameters
+
 * https://blog.onliquid.com/machine-learning-service-benchmark/
 * blog.dato.com/a-hyperparameter-search-tool-built-for-data-science
+
 ## Learning
+
 <li><a href="http://www-nlp.stanford.edu/IR-book/" time_added="1356708613" tags="data science,ml">Introduction to Information Retrieval</a></li>
 <li><a href="http://escience.washington.edu/blog/insight-data-science-fellows-program" time_added="1355205791" tags="big data">Insight Data Science Fellows Program | eScience Institute</a></li>
 <li><a href="http://www.hilarymason.com/blog/getting-started-with-data-science/" time_added="1356728201" tags="data science">» Getting Started with Data Science hilarymason.com</a></li>
@@ -470,6 +477,7 @@
 <li><a href="http://www.p-value.info/2012/11/free-datascience-books.html" time_added="1356677077" tags="data science">p-value.info: Free Datascience books</a></li>
 <li><a href="http://www.josephmisiti.com/why-becoming-a-data-scientist-is-not-actually" time_added="1350412108" tags="data science">Why becoming a data scientist is NOT actually easier than you think - josep</a></li>
 <li><a href="http://www.bigdatarepublic.com/author.asp?section_id=2809&doc_id=257527&" time_added="1358794770" tags="data science,important">Free Big Data Education: A Data Science Perspective - Daniel D. Gutierrez |</a></li>
+
 * http://www.boozallen.com/insights/2013/11/data-science-field-guide
 * http://blog.mikiobraun.de/2015/03/three-things-about-data-science.html
 * https://leanpub.com/datastyle
@@ -497,6 +505,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * Storytelling w/ data - Precision bullsh*tting
 
 ## Data Adoption and Data-Friendly Organizations
+
 <li><a href="http://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics" time_added="1357774737" tags="sql">Dan McKinley :: Whom the Gods Would Destroy, They First Give Real-time Anal</a></li>
 <li><a href="http://t.co/u7gM3ggF" time_added="1353294895" tags="data science">datachick: How to Organize a Data Science Team http://t.co/u7gM3ggF</a></li>
 <li><a href="http://blog.bright.com/2012/11/13/how-to-hire-a-data-scientist/" time_added="1352874046" tags="data science">How To Hire A Data Scientist « Bright Insights</a></li>
@@ -514,6 +523,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://thedataminimalist.com/post/123338121239/are-you-in-a-data-project-bottleneck-situation
 
 ## Data Stacks, Engineering
+
 <li><a href="https://github.com/rickysaltzer/impala-in-action" time_added="1389815401" tags="">rickysaltzer/impala-in-action · GitHub</a></li>
 <li><a href="http://tepid.org/tech/01-aurora-mesos-cluster/" time_added="1390924821" tags="">"Setting up an Apache Aurora/Mesos Cluster with Vagrant" blog post by @Nutt</a></li>
 <li><a href="http://www.michaelnielsen.org/ddi/why-bloom-filters-work-the-way-they-do/" time_added="1391273974" tags="">Why Bloom filters work the way they do | DDI</a></li>
@@ -537,6 +547,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 <li><a href="http://www.cattell.net/datastores/index.html" time_added="1357334547" tags="big data,cloud">Scalable Datastores</a></li>
 <li><a href="http://t.co/9U4LVDJM" time_added="1359309842" tags="big data,sql">datachick: Microsoft's PolyBase mashes up SQL Server and Hadoop | ZDNet | @</a></li>
 <li><a href="http://hackingdistributed.com/2013/03/07/partition-tolerance-myth/" time_added="1362689122" tags="big data,hn">The NoSQL Partition Tolerance Myth :: Hacking, Distributed</a></li>
+
 * http://jeremykun.com/2014/10/05/on-the-computational-complexity-of-mapreduce/
 * http://martinfowler.com/bliki/DataLake.html
 * http://thomaswdinsmore.com/2015/04/21/spark-too-big-to-fail/
@@ -627,6 +638,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 <li><a href="http://blog.kaggle.com/2012/12/19/1st-place-observing-dark-worlds/" time_added="1355991561" tags="viz">1st Place: Observing Dark Worlds | no free hunch</a></li>
 <li><a href="http://t.co/4yyDlKHl" time_added="1355605607" tags="big data,data science">drelu: Amex is using Mahout/Hadoop to model customer behavior to prevent fr</a></li>
 <li><a href="http://t.co/7QCCwutj" time_added="1355320956" tags="viz">DGM885: Interesting interview w/ Robert Kosara at Data Stories.  His resear</a></li>
+
 * http://www.newyorker.com/magazine/2014/10/13/planning-machine
 * https://speakerdeck.com/jdmaturen/towards-a-data-driven-product-techniques-and-tools-at-github
 * http://www.erinshellman.com/data-scientists-at-work/

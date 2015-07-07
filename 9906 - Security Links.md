@@ -13,6 +13,8 @@
 * https://blog.benjojo.co.uk/post/auditing-github-users-keys
 * http://mobile.nytimes.com/2015/06/21/us/attack-gave-chinese-hackers-privileged-access-to-us-systems.html?_r=0
 * http://www.scmagazine.com/the-failure-of-the-security-industry/article/403261/
+* http://www.defenseone.com/technology/2015/07/someone-just-leaked-price-list-cyberwar/117043/
+* http://www.bloomberg.com/graphics/2015-mob-technology-consultants-help-drug-traffickers/
 * https://www.eff.org/deeplinks/2015/04/whitehouses-new-executive-order-cyber-crime-unfortunately-no-joke
 * http://arstechnica.com/security/2015/05/the-moose-is-loose-linux-based-worm-turns-routers-into-social-network-bots/
 * http://www.wired.com/2015/04/want-see-domestic-spyings-future-follow-drug-war/
