@@ -25,7 +25,8 @@
 * http://www.washingtonpost.com/news/storyline/wp/2014/12/04/people-around-you-control-your-mind-the-latest-evidence/
 * http://www.addictinginfo.org/2014/12/22/atheist-ten-commandments/
 * http://www.bakadesuyo.com/2015/04/frustrated/ <- AMAZING
-* http://www.washingtonpost.com/blogs/wonkblog/wp/2015/05/02/why-you-should-really-start-doing-more-things-alone/?tid=sm_tw
+* http://www.washingtonpost.com/blogs/wonkblog/wp/2015/05/02/why-you-should-really-start-doing-more-things-alone/
+* http://captainawkward.com/2014/06/29/guest-post/
 
 
 
