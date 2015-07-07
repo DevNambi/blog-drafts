@@ -8,7 +8,7 @@
 * Vocational: Preparation for a career (vocational)
 * Personal: Growth and fulfillment.
 
-<li><a href="http://www.nytimes.com/2013/01/03/nyregion/education-commission-recommends-core-reforms.html?src=rechp" time_added="1357279530" tags="academia">Education Commission Recommends Core Reforms - NYTimes.com</a></li>
+<li><a href="http://www.nytimes.com/2013/01/03/nyregion/education-commission-recommends-core-reforms.html" time_added="1357279530" tags="academia">Education Commission Recommends Core Reforms - NYTimes.com</a></li>
 <li><a href="http://t.co/90KZRM22" time_added="1354850185" tags="academia">GOOD: What if schools weren't schools anymore? http://t.co/90KZRM22</a></li>
 <li><a href="http://escience.washington.edu/blog/panel-aws-reinvent-seismic-shift-education" time_added="1354886791" tags="academia,data science">Panel at AWS re:Invent: "A Seismic Shift in Education" | eScience Institute</a></li>
 <li><a href="http://www.greatschools.org/washington/seattle/" time_added="1354400554" tags="academia,brand">Seattle Schools - Seattle Washington School Ratings - Public and Private</a></li>
@@ -27,7 +27,7 @@
 <li><a href="http://www.nytimes.com/2012/12/20/opinion/asians-too-smart-for-their-own-good.html" time_added="1356111931" tags="academia,finance,important,personal">Asians - Too Smart for Their Own Good? - NYTimes.com</a></li>
 <li><a href="http://seattletimes.com/html/politics/2020539884_apusschoolmaintenance.html" time_added="1363108934" tags="academia,personal">Report: Half trillion needed to update schools | Education | The Seattle Ti</a></li>
 <li><a href="http://seattletimes.com/html/education/2023475542_edlabgildoreyxml.html" time_added="1398702422" tags="">High poverty, high test scores: Auburn school is a shouting success | Educa</a></li>
-<li><a href="http://www.nytimes.com/2013/02/02/opinion/more-lessons-about-charter-schools.html?src=me&ref=general&gwh=743D5DE1507C1C205F3C7574D9C667AC" time_added="1359837571" tags="academia,domestic">More Lessons About Charter Schools - NYTimes.com</a></li>
+<li><a href="http://www.nytimes.com/2013/02/02/opinion/more-lessons-about-charter-schools.html" time_added="1359837571" tags="academia,domestic">More Lessons About Charter Schools - NYTimes.com</a></li>
 <li><a href="http://seattletimes.com/html/localnews/2021731344_westneat1xml.html" time_added="1378003481" tags="domestic">Striking news: Seattle schools now booming | Danny Westneat</a></li>
 <li><a href="http://seattletimes.com/html/opinion/2021715558_douglascollinsopedschoolsupplies30xml.html" time_added="1377871699" tags="academia,domestic">Guest: School-supply fees have gotten out of hand</a></li>
 <li><a href="http://seattletimes.com/html/localnews/2021743055_alldaykindergartenxml.html" time_added="1378230314" tags="academia,domestic">Extra state aid for kindergarten a mixed blessing for districts</a></li>
@@ -36,7 +36,7 @@
 <li><a href="http://seattletimes.com/html/localnews/2023615692_citypreschoolxml.html" time_added="1400293639" tags="">Preschool for all in Seattle: Murray’s big plan starts small | Local News |</a></li>
 <li><a href="http://www.salon.com/2010/08/07/teacher_who_replaced_me/" time_added="1406899340" tags="">http://www.salon.com/2010/08/07/teacher_who_replaced_me/</a></li>
 <li><a href="http://mathbabe.org/2014/06/13/getting-rid-of-teacher-tenure-does-not-solve-the-problem/" time_added="1402669714" tags="">http://mathbabe.org/2014/06/13/getting-rid-of-teacher-tenure-does-not-solve-the-problem/</a></li>
-<li><a href="http://www.nytimes.com/2014/06/13/opinion/california-ruling-on-teacher-tenure-is-not-whole-picture.html?src=me&ref=general" time_added="1402700387" tags="">http://www.nytimes.com/2014/06/13/opinion/california-ruling-on-teacher-tenure-is-not-whole-picture.html?src=me&ref=general</a></li>
+<li><a href="http://www.nytimes.com/2014/06/13/opinion/california-ruling-on-teacher-tenure-is-not-whole-picture.html" time_added="1402700387" tags="">http://www.nytimes.com/2014/06/13/opinion/california-ruling-on-teacher-tenure-is-not-whole-picture.html</a></li>
 <li><a href="http://www.newyorker.com/reporting/2014/07/21/140721fa_fact_aviv" time_added="1405347663" tags="">Rachel Aviv: A Middle-School Cheating Scandal Raises Questions About No Chi</a></li>
 <li><a href="http://www.outsideonline.com/outdoor-adventure/nature/Unschooling-The-Case-for-Setting-Your-Kids-Into-the-Wild.html" time_added="1408252621" tags="">Unschooling: The Case for Setting Your Kids Into the Wild | Nature | Outsid</a></li>
 <li><a href="https://www.hackerschool.com/blog/30-words-are-hard" time_added="1389327249" tags="">Words are hard - Blog - Hacker School</a></li>
@@ -134,7 +134,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.vikparuchuri.com/blog/i-barely-graduated-college/
 * http://america.aljazeera.com/opinions/2015/3/for-pearson-common-core-is-private-profit.html
 * http://www.seattletimes.com/seattle-news/education/evergreen-a-state-college-too-few-know-about/
-* http://www.economist.com/news/books-and-arts/21646708-social-mobility-depends-what-happens-first-years-life-minding-nurture-gap?fsrc=scn/tw/te/pe/ed/mindingnurturegap
+* http://www.economist.com/news/books-and-arts/21646708-social-mobility-depends-what-happens-first-years-life-minding-nurture-gap
 * http://suburbdad.blogspot.com/2015/03/public-matters-response-to-kevin-carey.html <- BRILLIANT
 * https://www.insidehighered.com/news/2015/03/23/anger-over-state-boards-decision-not-renew-u-mississippi-chancellor
 * http://www.p-value.info/2015/03/advice-to-graduate-students.html
@@ -142,7 +142,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://www.insidehighered.com/news/2015/03/06/arizona-budget-deal-would-eliminate-all-state-funds-3-large-community-college
 * http://www.wsj.com/articles/big-gap-in-college-graduation-rates-for-rich-and-poor-study-finds-1422997677
 * http://www.seattletimes.com/news/is-everything-ok-facebook-partners-with-uw-to-get-help-to-youth-in-distress/ 
-* http://www.nytimes.com/2015/02/07/upshot/is-the-professor-bossy-or-brilliant-much-depends-on-gender.html?_r=0&abt=0002&abg=1
+* http://www.nytimes.com/2015/02/07/upshot/is-the-professor-bossy-or-brilliant-much-depends-on-gender.html
 * http://nscresearchcenter.org/signaturereport8-statesupplement/
 * http://coryliu.com/post/109988042607/a-dirty-secret-most-people-probably-shouldnt-go
 * http://www.theatlantic.com/magazine/archive/2015/05/the-upwardly-mobile-barista/389513/
@@ -234,16 +234,16 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://blogs.hbr.org/2014/04/why-your-analytics-are-failing-you/
 * http://anothersb.blogspot.com/2014/04/dear-academia-i-loved-you-but-im.html?m=1
 * http://www.bloomberg.com/news/2014-04-14/small-u-s-colleges-battle-death-spiral-as-enrollment-drops.html
-* http://www.economist.com/news/united-states/21646220-it-depends-what-you-study-not-where?fsrc=scn/tw/te/pe/ed/Isyourdegreeworthit
+* http://www.economist.com/news/united-states/21646220-it-depends-what-you-study-not-where
 * http://www.washingtonpost.com/posteverything/wp/2014/12/22/id-like-to-take-this-opportunity-to-triple-dog-dare-peter-thiel/
 * http://avc.com/2014/12/finding-roi-in-higher-education/
 * http://online.wsj.com/article/PR-CO-20140612-906571.html
-* http://www.nytimes.com/2014/10/20/upshot/where-young-college-graduates-are-choosing-to-live.html?abt=0002&abg=1
+* http://www.nytimes.com/2014/10/20/upshot/where-young-college-graduates-are-choosing-to-live.html
 * http://www.theatlantic.com/education/archive/2014/10/does-england-have-the-solution-to-the-grade-inflation-problem/381571/
 * http://seattletimes.com/html/nationworld/2024881991_apxcollegesearchbigdata.html
 * http://www.eurekalert.org/pub_releases/2014-10/puww-wdf102814.php
 * http://www.reddit.com/r/dataisbeautiful/comments/2l2jh4/outstanding_student_loan_debt_in_the_usa/
-* http://www.nytimes.com/2014/10/28/upshot/a-new-push-to-get-low-income-students-through-college.html?abt=0002&abg=1
+* http://www.nytimes.com/2014/10/28/upshot/a-new-push-to-get-low-income-students-through-college.html
 * http://levinotik.com/why-college-is-a-poor-choice-for-a-lot-of-people/
 * http://online.wsj.com/articles/the-genius-of-mits-football-team-1415663452
 * https://www.insidehighered.com/quicktakes/2014/11/14/west-virginia-u-suspends-all-greek-activities
@@ -276,8 +276,8 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 <li><a href="http://www.theatlantic.com/education/archive/2014/04/what-s-behind-america-s-soaring-college-costs/360462/" time_added="1397494581" tags="">What’s Behind America’s Soaring College Costs? - Ronan Keenan - The Atlanti</a></li>
 <li><a href="http://norvig.com/speech.html" time_added="1357663275" tags="academia,hn,important,personal">My Speech to the Graduates</a></li>
 <li><a href="http://money.cnn.com/2013/01/01/pf/college/college-salary.moneymag/index.html?iid=HP_LN" time_added="1357713454" tags="academia">Will your kid's B.A. pay off? - Jan. 8, 2013</a></li>
-<li><a href="http://www.nytimes.com/2012/12/05/business/energy-environment/to-fight-climate-change-college-students-take-aim-at-the-endowment-portfolio.html?pagewanted=1&hpw&gwh=BCCA257894B7A954E2EDE332401227F6" time_added="1354809635" tags="personal">To Fight Climate Change, College Students Take Aim at the Endowment Portfol</a></li>
-<li><a href="http://chronicle.com/blogs/wiredcampus/khan-academy-founder-proposes-a-new-type-of-college/41160?cid=wc&utm_source=wc&utm_medium=en" time_added="1354290630" tags="academia">Khan Academy Founder Proposes a New Type of College - Wired Campus - The Ch</a></li>
+<li><a href="http://www.nytimes.com/2012/12/05/business/energy-environment/to-fight-climate-change-college-students-take-aim-at-the-endowment-portfolio.html" time_added="1354809635" tags="personal">To Fight Climate Change, College Students Take Aim at the Endowment Portfol</a></li>
+<li><a href="http://chronicle.com/blogs/wiredcampus/khan-academy-founder-proposes-a-new-type-of-college/41160" time_added="1354290630" tags="academia">Khan Academy Founder Proposes a New Type of College - Wired Campus - The Ch</a></li>
 <li><a href="http://t.co/O30L6UVc" time_added="1353347385" tags="hn">kcnews: Taxpayers to save $13 million from King County’s refinancing of @UW</a></li>
 <li><a href="http://t.co/rme1Lfvk" time_added="1353302130" tags="academia">mrdenny: Reading: http://t.co/rme1Lfvk How Free Speech Died On Campus</a></li>
 <li><a href="http://www.kiplinger.com//tools/colleges/index.php?table=public&state_code[]=ALL&id[]=none&sortby=ug_class_avg_debt_d&sortorder=ASC#colleges" time_added="1356676674" tags="academia">Best Values in Public Colleges, 2013</a></li>
@@ -352,7 +352,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 <li><a href="http://www.artofmanliness.com/2014/03/24/is-college-for-everyone-part-ii-the-pros-and-cons-of-attending-a-4-year-college/" time_added="1396306038" tags="">Is College for Everyone? Part II: The Pros and Cons of Attending a 4-Year C</a></li>
 <li><a href="http://www.nytimes.com/2014/05/04/opinion/sunday/douthat-college-the-great-unequalizer.html" time_added="1399160749" tags="">College, the Great Unequalizer - NYTimes.com</a></li>
 <li><a href="http://www.vox.com/2014/7/21/5921595/young-college-grads-wage-growth-is-falling-farther-and-farther-behind" time_added="1406578683" tags="">Young college grads’ wage growth is falling farther and farther behind</a></li>
-<li><a href="http://dangerousminds.net/comments/boomerang_kids_images_of_college_graduates_with_huge_debts_who_live_with_th?onswipe_redirect=no&oswrr=1" time_added="1406756669" tags="">‘Boomerang Kids’: Images of college graduates with huge debts who live with</a></li>
+<li><a href="http://dangerousminds.net/comments/boomerang_kids_images_of_college_graduates_with_huge_debts_who_live_with_th" time_added="1406756669" tags="">‘Boomerang Kids’: Images of college graduates with huge debts who live with</a></li>
 <li><a href="http://www.salon.com/2014/08/02/how_the_middle_class_got_screwed_college_costs_globalization_and_our_new_insecurity_economy/" time_added="1407016966" tags="">How the middle class got screwed: College costs, globalization and our new </a></li>
 <li><a href="http://www.salon.com/2014/05/25/the_1_percents_college_scam/" time_added="1401214611" tags="">The trigger warning we need: “College is a scam meant to perpetuate the 1 p</a></li>
 <li><a href="http://www.npr.org/blogs/ed/2014/07/08/329889370/how-private-colleges-are-like-cheap-sushi" time_added="1405274683" tags="">How Private Colleges Are Like Cheap Sushi : NPR Ed : NPR</a></li>
@@ -384,7 +384,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 <li><a href="http://shar.es/11a2fC" time_added="1409066891" tags="">Intriguing plan to judge #4profit colleges by extent to which they benefit </a></li>
 <li><a href="http://www.washingtonpost.com/blogs/wonkblog/wp/2014/08/26/the-college-majors-most-and-least-likely-to-lead-to-underemployment/" time_added="1409082359" tags="">The college majors most and least likely to lead to underemployment - The W</a></li>
 <li><a href="http://fakeisthenewreal.org/reform/" time_added="1360869774" tags="">Electoral college reform (fifty states with equal population) – fake is the</a></li>
-<li><a href="http://www.nytimes.com/2013/02/17/business/in-china-families-bet-it-all-on-a-child-in-college.html?pagewanted=4&ref=business&pagewanted=all" time_added="1361124259" tags="">In China, Families Bet It All on a Child in College - NYTimes.com</a></li>
+<li><a href="http://www.nytimes.com/2013/02/17/business/in-china-families-bet-it-all-on-a-child-in-college.html" time_added="1361124259" tags="">In China, Families Bet It All on a Child in College - NYTimes.com</a></li>
 <li><a href="http://bit.ly/WRm80Z" time_added="1363650313" tags="">College of the Ozarks, a work college, won't certify students' private loan</a></li>
 <li><a href="http://www.theatlantic.com/business/archive/2014/01/heres-exactly-how-much-the-government-would-have-to-spend-to-make-public-college-tuition-free/282803/" time_added="1388872004" tags="">http://www.theatlantic.com/business/archive/2014/01/heres-exactly-how-much-</a></li>
 
@@ -552,7 +552,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://medium.com/@AndrewR_Physics/enoughs-enough-6c56afe36d00
 * http://www.theglobeandmail.com/news/national/education/university-labour-strife-underscores-job-security-plight-of-contract-faculty/article23276935/
 * http://www.washingtonpost.com/posteverything/wp/2015/03/06/i-was-a-professor-at-four-universities-i-still-couldnt-make-ends-meet/
-* http://www.slate.com/blogs/moneybox/2015/04/13/adjunct_pay_a_quarter_of_part_time_college_faculty_receive_public_assistance.html?wpsrc=fol_tw
+* http://www.slate.com/blogs/moneybox/2015/04/13/adjunct_pay_a_quarter_of_part_time_college_faculty_receive_public_assistance.html
 * https://www.insidehighered.com/news/2015/04/22/berkeley-study-finds-high-levels-depression-among-graduate-students
 * http://www.timeshighereducation.co.uk/features/phd-is-the-doctoral-thesis-obsolete/2020255.fullarticle
 * http://www.theatlantic.com/education/archive/2015/05/the-cost-of-an-adjunct/394091/?single_page=true
@@ -830,8 +830,8 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 <li><a href="http://onforb.es/ZG2gx9" time_added="1370960304" tags="academia">MOOCs For Teachers: They're Learners, Too. onforb.es/ZG2gx9</a></li>
 <li><a href="http://ideas.foreignpolicy.com/posts/2013/06/11/the_academic_paper_that_predicted_the_nsa_scandal" time_added="1371094745" tags="academia,corruption">The academic paper that predicted the NSA scandal</a></li>
 <li><a href="https://blog.mozilla.org/blog/2013/06/14/5992/" time_added="1371235691" tags="academia,hn">Introducing the Mozilla Science Lab</a></li>
-<li><a href="http://online.wsj.com/article/SB10001424127887323683504578567970958195656.html?mod=WSJ_NY_LEFTTopStories" time_added="1372278337" tags="academia">Evaluate the evaluators!! You should know you're in trouble when you exclai</a></li>
-<li><a href="http://online.wsj.com/article_email/SB10001424127887324688404578541372861440606-lMyQjAxMTAzMDIwNzEyNDcyWj.html?mod=wsj_valettop_email" time_added="1372395129" tags="academia,corruption,finance">Glenn Harlan Reynolds: What's Really 'Immoral' About Student Loans - WSJ.co</a></li>
+<li><a href="http://online.wsj.com/article/SB10001424127887323683504578567970958195656.html" time_added="1372278337" tags="academia">Evaluate the evaluators!! You should know you're in trouble when you exclai</a></li>
+<li><a href="http://online.wsj.com/article_email/SB10001424127887324688404578541372861440606-lMyQjAxMTAzMDIwNzEyNDcyWj.html" time_added="1372395129" tags="academia,corruption,finance">Glenn Harlan Reynolds: What's Really 'Immoral' About Student Loans - WSJ.co</a></li>
 <li><a href="http://bit.ly/1224tzE" time_added="1372341294" tags="academia">The on-campus politics of early college high school programs  bit.ly/1224tz</a></li>
 <li><a href="https://medium.com/i-m-h-o/138c5efd45e9" time_added="1372636526" tags="academia,finance,important">Don’t go to art school — I.M.H.O. — Medium</a></li>
 <li><a href="http://t.co/55kBQP2Y2r" time_added="1372516335" tags="academia">http://t.co/55kBQP2Y2r</a></li>
@@ -858,7 +858,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 <li><a href="https://blog.wealthfront.com/online-open-courses/" time_added="1376663345" tags="academia">MOOCs create legitimacy around the idea that people must constantly acquire</a></li>
 <li><a href="http://techcrunch.com/2013/07/25/stanford-university-hacked/" time_added="1376955438" tags="academia">Stanford University Is Investigating An Apparent Security Breach, Urges Com</a></li>
 <li><a href="http://www.theatlantic.com/national/archive/2013/08/where-should-i-go-to-college/278731/" time_added="1376938156" tags="academia,important">'Where Should I Go to College?'</a></li>
-<li><a href="http://www.nytimes.com/2013/08/18/education/masters-degree-is-new-frontier-of-study-online.html?smid=fb-share" time_added="1376930699" tags="academia">http://www.nytimes.com/2013/08/18/education/masters-degree-is-new-frontier-</a></li>
+<li><a href="http://www.nytimes.com/2013/08/18/education/masters-degree-is-new-frontier-of-study-online.html" time_added="1376930699" tags="academia">http://www.nytimes.com/2013/08/18/education/masters-degree-is-new-frontier-</a></li>
 <li><a href="http://www.nytimes.com/2013/08/23/opinion/a-federal-prod-to-lower-college-costs.html?hp" time_added="1377262890" tags="academia,finance">The arms race for educational modeling gets turned up a notch by Obama nyti</a></li>
 <li><a href="http://blogs.seattletimes.com/today/2013/08/4-state-universities-make-best-bang-for-buck-list/" time_added="1377353588" tags="academia,finance">4 state universities make best-deal list</a></li>
 <li><a href="http://www.sfgate.com/news/article/Audit-on-how-universities-deal-with-sex-assaults-4751565.php" time_added="1377196976" tags="academia,corruption">http://www.sfgate.com/news/article/Audit-on-how-universities-deal-with-sex-</a></li>
@@ -870,7 +870,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 <li><a href="http://seattletimes.com/html/localnews/2021731164_edfundingreportxml.html" time_added="1378003479" tags="academia,finance">Schools advocates critical of Legislature’s education funding</a></li>
 <li><a href="http://www.fastcoexist.com/3017459/these-tiny-wooden-houses-are-the-college-dorm-of-the-future?partner=newsletter#4" time_added="1379642174" tags="academia,finance">4 | These Tiny Wooden Houses Are The College Dorm Of The Future | Co.Exist </a></li>
 <li><a href="http://www.air.org/news/index.cfm?fa=viewContent&content_id=2731" time_added="1379641799" tags="academia,finance">Higher Education Pays: But a Lot More for Some Graduates Than for Others | </a></li>
-<li><a href="http://www.johnskylar.com/post/61507282912/why-you-dont-fucking-love-science?lulz=grid+strike+Metro&dear_nsa=Dear%20NSA%2C%20Have%20fun%20with%20this." time_added="1379618780" tags="academia">The Anachronist, Why You DON'T "Fucking Love Science"</a></li>
+<li><a href="http://www.johnskylar.com/post/61507282912/why-you-dont-fucking-love-science" time_added="1379618780" tags="academia">The Anachronist, Why You DON'T "Fucking Love Science"</a></li>
 <li><a href="http://seattletimes.com/html/editorials/2021844098_uwstatesupportedit18xml.html" time_added="1379544322" tags="academia">Editorial: Good ideas to make the UW a stronger powerhouse | Editorials | T</a></li>
 <li><a href="http://seattletimes.com/html/opinion/2021820440_schooleditorialnotebook14xml.html" time_added="1379191663" tags="academia">Editorial notebook: What’s behind Rainier Beach High School’s rising test s</a></li>
 <li><a href="http://priceonomics.com/the-supersizing-of-american-colleges/#truth" time_added="1379187022" tags="academia,corruption,finance">The Supersizing of American Colleges</a></li>
@@ -904,7 +904,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 <li><a href="http://www.voxeu.org/article/do-elite-universities-admit-academically-best-students" time_added="1365967539" tags="academia">Do elite universities admit the academically best students? | vox</a></li>
 <li><a href="http://www.nytimes.com/2013/04/10/science/panel-calls-for-broad-changes-in-science-education.html?src=me&ref=general" time_added="1365600955" tags="academia">New Guidelines Call for Broad Changes in Science Education</a></li>
 <li><a href="http://seattletimes.com/html/localnews/2020713314_higheredbudgetxml.html" time_added="1365185906" tags="academia">Higher-ed funding idea: Charge international students more | Local News | T</a></li>
-<li><a href="http://www.nytimes.com/2013/04/05/opinion/Brooks-The-Practical-University.html?src=me&ref=general&_r=0&gwh=BA08D9E40173F467EDF87216AE8C8D4F" time_added="1365185800" tags="academia">The Practical University - NYTimes.com</a></li>
+<li><a href="http://www.nytimes.com/2013/04/05/opinion/Brooks-The-Practical-University.html" time_added="1365185800" tags="academia">The Practical University - NYTimes.com</a></li>
 <li><a href="http://www.washingtonpost.com/blogs/answer-sheet/wp/2013/04/06/teachers-resignation-letter-my-profession-no-longer-exists/" time_added="1365452008" tags="academia,important">Teacher’s resignation letter: ‘My profession … no longer exists’</a></li>
 <li><a href="http://www.slate.com/articles/life/culturebox/2013/04/there_are_no_academic_jobs_and_getting_a_ph_d_will_make_you_into_a_horrible.single.html" time_added="1365173915" tags="academia">There are no academic jobs and getting a Ph.D. will make you into a horribl</a></li>
 <li><a href="http://rein.pk/online-educations-dirty-secret-awful-retention/" time_added="1364764731" tags="academia,important,personal tech">Online Education's Dirty Secret — Awful Retention by Peter Reinhardt</a></li>
@@ -914,7 +914,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 <li><a href="http://bit.ly/WRm1T2" time_added="1363627568" tags="academia">.@tressiemc sees California bill to require colleges to accept online credi</a></li>
 <li><a href="http://bit.ly/XKIhNd" time_added="1363265822" tags="academia">Higher Ed, Innovation, and "How Stella Saved the Farm" bit.ly/XKIhNd</a></li>
 <li><a href="http://www.washingtonpost.com/local/education/appeal-for-md-7-year-old-suspended-for-nibbling-pastry-into-shape-of-gun/2013/03/14/2be8bc3a-8cca-11e2-9f54-f3fdd70acad2_story.html?hpid=z4" time_added="1363312055" tags="academia">Sometimes the actions of school administrators leads me to believe they've </a></li>
-<li><a href="http://www.nytimes.com/2013/03/17/education/scholarly-poor-often-overlook-better-colleges.html?src=me&ref=general&gwh=92F6ADBD7FBC717C890D1A5D3057D429" time_added="1363566382" tags="academia">Better Colleges Failing to Lure Talented Poor - NYTimes.com</a></li>
+<li><a href="http://www.nytimes.com/2013/03/17/education/scholarly-poor-often-overlook-better-colleges.html" time_added="1363566382" tags="academia">Better Colleges Failing to Lure Talented Poor - NYTimes.com</a></li>
 <li><a href="http://pandodaily.com/2013/02/28/why-yammer-believes-the-traditional-engineering-organizational-structure-is-dead/" time_added="1362978394" tags="academia,hn,important">Why Yammer believes the traditional engineering organizational structure is</a></li>
 <li><a href="http://bit.ly/15Hbz0Z" time_added="1363011182" tags="academia">Minimal Gains in Faculty Pay: bit.ly/15Hbz0Z</a></li>
 <li><a href="http://bit.ly/ZhY5Vz" time_added="1363090639" tags="academia">Why MOOCs May Drive Up Higher Ed Costs bit.ly/ZhY5Vz</a></li>
@@ -950,7 +950,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 <li><a href="http://t.co/IROojg5iLt" time_added="1378473467" tags="academia">http://t.co/IROojg5iLt</a></li>
 <li><a href="http://thinkprogress.org/economy/2013/08/27/2535211/child-hunger-common-quarters-teachers-report-hungry-students/" time_added="1377713692" tags="academia,corruption,finance">Child Hunger So Common That Three-Quarters Of Teachers Have Hungry Students</a></li>
 <li><a href="http://escience.washington.edu/blog/uc-berkeley-bootcamp-aims-convert-scientific-programmers-python" time_added="1377556290" tags="academia,hn">UC Berkeley Bootcamp Aims to Convert Scientific Programmers to Python</a></li>
-<li><a href="http://online.wsj.com/news/articles/SB10001424052702303531204579204201833906182?mod=WSJ_Opinion_LEFTTopOpinion" time_added="1388174356" tags="academia">Geoffrey L. Collier: We Pretend to Teach, They Pretend to Learn - WSJ.com</a></li>
+<li><a href="http://online.wsj.com/news/articles/SB10001424052702303531204579204201833906182" time_added="1388174356" tags="academia">Geoffrey L. Collier: We Pretend to Teach, They Pretend to Learn - WSJ.com</a></li>
 <li><a href="http://www.camden.rutgers.edu/news/nursing-scholar-sheds-light-bullying-academia" time_added="1388022249" tags="academia">Nursing Scholar Sheds Light on Bullying in Academia</a></li>
 <li><a href="http://nocturnalstudies.org" time_added="1388012251" tags="academia">we just launched nocturnalstudies.org you can share and make your study not</a></li>
 <li><a href="http://bit.ly/1fVfkoQ" time_added="1387954078" tags="academia">16 transparency principles to maintain RT @DrAnneEllis: Defining Legit Open</a></li>
