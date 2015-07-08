@@ -124,6 +124,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 ## Higher Education
 
 * http://equitablegrowth.org/research/achievement-gap/ <- why I do what I do
+* http://www.seattletimes.com/nation-world/study-more-than-a-third-of-us-college-students-transferred/
 * http://www.theatlantic.com/education/archive/2015/06/denmark-pushes-college-students-graduate/395666/
 * http://www.fastcompany.com/3046299/the-new-rules-of-work/this-is-the-future-of-college
 * http://www.washingtonpost.com/opinions/peter-thiel-thinking-too-highly-of-higher-ed/2014/11/21/f6758fba-70d4-11e4-893f-86bd390a3340_story.html
