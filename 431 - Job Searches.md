@@ -118,6 +118,7 @@ Interviews are one of the best times to find out about a company's culture, work
 <li><a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">Front-end Job Interview Questions</a></li>
 <li><a href="http://blog.ellenchisa.com/2014/04/13/stuff-ive-screwed-up-while-interviewing/">Stuff I've Screwed Up While Interviewing</a></li>
 <li><a href="http://www.washingtonpost.com/news/the-intersect/wp/2015/07/06/googles-algorithm-shows-prestigious-job-ads-to-men-but-not-to-women-heres-why-that-should-worry-you/">Google’s algorithm shows prestigious job ads to men, but not to women. Here’s why that should worry you.</a></li>
+<li><a href="http://blog.fogcreek.com/technical-hiring-and-cultural-fit-interview-with-johanna-rothman/">Technical Hiring and Cultural Fit – Interview with Johanna Rothman</a></li>
 </ul>
 
 

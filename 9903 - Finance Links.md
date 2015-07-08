@@ -23,6 +23,7 @@
 * http://www.nytimes.com/2015/07/06/business/international/chinas-market-rout-is-a-double-threat.html?_r=0
 * http://www.smh.com.au/business/china/chinas-new-rules-risk-creating-subprime-economy-20150706-gi6jm1.html
 * http://www.macrobusiness.com.au/2015/07/shanghai-opens-crashes-3/
+* http://www.nakedcapitalism.com/2015/07/chinese-stock-market-rout-continues-trading-halted-in-over-half-of-listed-stocks.html
 
 
 ## Europe
@@ -91,6 +92,7 @@
 * http://www.nakedcapitalism.com/2015/06/why-greek-banks-are-likely-to-be-toast-no-deposit-insurance.html
 * http://www.nakedcapitalism.com/2015/06/consent-governed-tsipras-style.html
 * https://medium.com/@zizip/fear-and-loathing-in-greece-beb1a26ef4c6
+* http://www.nakedcapitalism.com/2015/07/greece-told-to-submit-proposal-by-thursday-complete-deal-by-sunday-or-ecb-shoots-its-banks-and-forces-grexit.html
 
 
 
