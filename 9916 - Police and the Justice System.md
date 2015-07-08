@@ -8,6 +8,7 @@
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
 * https://www.washingtonpost.com/blogs/wonkblog/wp/2015/06/30/drug-cops-took-a-college-kids-life-savings-and-now-13-police-departments-want-a-cut/?tid=sm_fb
+* http://mathbabe.org/2015/07/08/what-are-prisons-for/
 * http://www.seattletimes.com/seattle-news/politics/police-reform-monitor-asks-harrell-to-wait-on-legislation/
 * http://boingboing.net/2015/07/06/michigan-cop-charges-black-gra.html
 * http://www.charlespetzold.com/blog/2015/07/De-Obfuscating-the-Statistics-of-Mass-Shootings.html
