@@ -7,10 +7,12 @@
 * http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-map-us-police-killings <- amazingly useful, and disturbing
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
-* https://www.washingtonpost.com/blogs/wonkblog/wp/2015/06/30/drug-cops-took-a-college-kids-life-savings-and-now-13-police-departments-want-a-cut/?tid=sm_fb
+* http://www.seattletimes.com/nation-world/baltimore-mayor-fires-police-commissioner/
+* https://www.washingtonpost.com/blogs/wonkblog/wp/2015/06/30/drug-cops-took-a-college-kids-life-savings-and-now-13-police-departments-want-a-cut/
 * http://mathbabe.org/2015/07/08/what-are-prisons-for/
 * http://www.seattletimes.com/seattle-news/politics/police-reform-monitor-asks-harrell-to-wait-on-legislation/
 * http://boingboing.net/2015/07/06/michigan-cop-charges-black-gra.html
+* http://www.nytimes.com/2015/07/09/us/girls-in-juvenile-facilities-often-abused-report-says.html
 * http://www.charlespetzold.com/blog/2015/07/De-Obfuscating-the-Statistics-of-Mass-Shootings.html
 * http://www.theguardian.com/us-news/2015/jul/01/gary-younge-farewell-to-america
 * http://aeon.co/magazine/society/game-theorys-cure-for-corruption-make-us-all-cops/

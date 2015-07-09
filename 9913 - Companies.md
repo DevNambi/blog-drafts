@@ -72,6 +72,7 @@
 
 * http://time.com/3647800/facebook-apologizes-year-review-post-pain/
 * http://www.wired.com/2015/03/robber-barons-loved-facebooks-employee-housing/
+* http://www.slate.com/articles/technology/technology/2015/07/freebooting_stolen_youtube_videos_going_viral_on_facebook.html
 
 
 ## Apple
@@ -144,6 +145,7 @@
 ## Google
 
 * http://www.webpronews.com/data-confirms-google-is-wiping-out-a-whole-category-of-websites-2015-01
+* http://www.wired.com/2015/07/googles-ad-system-become-big-control/
 * https://medium.com/@tommycm/what-it-s-really-like-to-work-for-a-tech-giant-4462fd18ce19
 * http://mobile.nytimes.com/2015/04/16/business/international/european-union-google-antitrust-case.html?_r=0
 * http://www.datajustice.org/blog/ftc-report-revealed-clash-between-googles-public-statements-and-internal-documents

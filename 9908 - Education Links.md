@@ -72,6 +72,7 @@
 * http://www.nytimes.com/2015/04/26/sunday-review/push-dont-crush-the-students.html
 * http://www.seattletimes.com/education-lab/seattle-sets-high-bar-for-substitutes-by-requiring-teaching-license/
 * http://www.chinasmack.com/2015/stories/thousands-mourn-death-of-chinese-high-school-principal.html
+* http://www.nytimes.com/2015/07/09/nyregion/principal-to-be-fired-over-investigation-into-grade-fixing-at-a-brooklyn-school.html
 * http://bits.blogs.nytimes.com/2015/03/17/pearson-under-fire-for-monitoring-students-twitter-posts/
 * http://www.nytimes.com/2015/03/22/us/politics/schools-wait-to-see-what-becomes-of-no-child-left-behind-law.html
 * http://www.theatlantic.com/education/archive/2015/03/why-im-a-public-school-teacher-but-a-private-school-parent/386797/
@@ -541,6 +542,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.bbc.com/news/magazine-32821678
 * http://www.nytimes.com/2015/06/07/opinion/sunday/why-i-defaulted-on-my-student-loans.html <- BRAVO
 * http://www.jefftk.com/p/how-to-get-a-massive-discount-on-college
+* http://www.seattletimes.com/education-lab/not-all-college-debt-is-bad-study-says/
 
 
 #### Adjuncts and Grad Students

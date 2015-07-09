@@ -93,6 +93,7 @@
 * http://www.nakedcapitalism.com/2015/06/consent-governed-tsipras-style.html
 * https://medium.com/@zizip/fear-and-loathing-in-greece-beb1a26ef4c6
 * http://www.nakedcapitalism.com/2015/07/greece-told-to-submit-proposal-by-thursday-complete-deal-by-sunday-or-ecb-shoots-its-banks-and-forces-grexit.html
+* http://www.nytimes.com/2015/07/09/world/europe/greeks-spend-droves-afraid-losing-savings-bailout.html?_r=0
 
 
 
@@ -228,6 +229,7 @@
 * http://www.seattletimes.com/business/real-estate/the-mobile-home-trap-how-a-warren-buffett-empire-preys-on-the-poor/
 * http://www.bloombergview.com/articles/2015-04-17/new-starter-homes-hit-a-dead-stop
 * http://www.theguardian.com/society/2015/apr/30/experimental-victorian-scheme-could-virtually-eradicate-homelessness
+* http://www.citylab.com/housing/2015/07/mapping-the-us-by-property-value-instead-of-land-area/397841/
 
 
 
