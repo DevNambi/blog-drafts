@@ -121,6 +121,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://mobile.nytimes.com/2015/06/17/us/as-stress-drives-off-drone-operators-air-force-must-cut-flights.html?_r=0
 * http://www.huffingtonpost.ca/2015/04/05/former-spy-cia-employees_n_7006852.html
 * https://medium.com/war-is-boring/test-pilot-admits-the-f-35-can-t-dogfight-cdb9d11a875
+* http://www.buzzfeed.com/azmatkhan/the-big-lie-that-helped-justify-americas-war-in-afghanistan
 * http://www.washingtonpost.com/world/national-security/pentagon-loses-sight-of-500-million-in-counterterrorism-aid-given-to-yemen/2015/03/17/f4ca25ce-cbf9-11e4-8a46-b1dc9be5a8ff_story.html?hpid=z1
 * http://www.theatlantic.com/politics/archive/2015/06/these-21-republicans-voted-against-a-torture-ban/396095/
 * http://www.nytimes.com/2015/04/15/opinion/is-there-any-hope-left-for-yemen.html?_r=0
