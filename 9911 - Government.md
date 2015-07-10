@@ -191,6 +191,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.mcclatchydc.com/2015/05/17/266937/islamic-state-routs-last-elite.html
 * http://www.mcclatchydc.com/2015/05/18/267090/experts-us-claims-ramadi-a-mere.html
 * https://medium.com/war-is-boring/the-u-s-navy-s-big-mistake-building-tons-of-supercarriers-79cb42029b8
+* http://arstechnica.com/business/2015/07/disastrous-f-35-vs-f-16-face-off-was-also-a-battle-of-philosophies/
 
 
 <li><a href="https://medium.com/war-is-boring/db72a8a23ccf" time_added="1405546931" tags="">Your Periodic Reminder That the V-22 Is a Piece of Junk — War is Boring — M</a></li>

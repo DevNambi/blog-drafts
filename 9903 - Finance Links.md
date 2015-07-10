@@ -374,6 +374,7 @@
 * http://www.nerdwallet.com/
 * http://www.pbs.org/idealab/2015/01/how-crowdfunding-municipal-bonds-help-people-invest-in-communities/
 * http://www.mrmoneymustache.com/2015/02/26/my-top-questions-from-internet-strangers/
+* http://mathbabe.org/2015/07/10/the-heriff-tool-detect-price-discrimination-while-you-shop/
 * http://www.mrmoneymustache.com/2011/09/30/is-a-costco-membership-worth-the-cost/
 * http://www.nytimes.com/2015/03/15/your-money/how-many-mutual-funds-routinely-rout-the-market-zero.html
 * http://www.seattletimes.com/seattle-news/data/credit-unions-still-gaining-fans-long-after-switch-from-big-banks/

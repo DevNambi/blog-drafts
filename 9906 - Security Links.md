@@ -6,6 +6,7 @@
 * https://ma.ttias.be/remote-code-execution-via-http-request-in-iis-on-windows/
 * http://arstechnica.com/security/2015/06/new-remote-exploit-leaves-most-macs-vulnerable-to-permanent-backdooring/
 * http://blog.cryptographyengineering.com/2015/04/truecrypt-report.html
+* http://www.wired.com/2015/07/massive-opm-hack-actually-affected-25-million/
 * http://arstechnica.com/security/2015/06/encryption-would-not-have-helped-at-opm-says-dhs-official/
 * https://www.insidehighered.com/news/2015/07/06/pennsylvania-state-u-cyberattacks-possibly-part-larger-trend-experts-say
 * https://blog.lastpass.com/2015/06/lastpass-security-notice.html/
@@ -28,10 +29,12 @@
 * http://mobile.nytimes.com/2015/06/06/us/chinese-hackers-may-be-behind-anthem-premera-attacks.html
 * http://arstechnica.com/security/2015/05/https-crippling-attack-threatens-tens-of-thousands-of-web-and-mail-servers/
 * http://hexatomium.github.io/2015/06/26/ms-very-quietly-adds-18-new-trusted-root-certs/
+* http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/key-study-report.html
 * http://www.nytimes.com/2015/05/18/opinion/surveillance-without-borders.html
 * http://trilema.com/2015/full-disclosure-4096-rsa-key-in-the-strongset-factored/
 * http://www.nationaljournal.com/tech/mcconnell-introduces-bill-to-reauthorize-patriot-act-until-2020-20150421
 * http://www.forbes.com/sites/thomasbrewster/2015/05/26/security-pro-fury-on-exploit-export-rules/
+* http://arstechnica.com/tech-policy/2015/07/opm-director-resigns-after-news-that-hack-affected-21-5-million-people/
 * http://arstechnica.com/security/2015/06/stepson-of-stuxnet-stalked-kaspersky-for-months-tapped-iran-nuke-talks/
 * http://blog.codinghorror.com/given-enough-money-all-bugs-are-shallow/
 * http://www.wsj.com/articles/the-man-who-hacks-your-people-1429499479
