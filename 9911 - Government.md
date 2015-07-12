@@ -129,6 +129,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/ <- an insight piece
 * http://nationalinterest.org/feature/are-submarines-about-become-obsolete-12253
 * http://www.latimes.com/opinion/op-ed/la-oe-0706-zimmerman-ptsd-20150706-story.html
+* http://www.businessinsider.com/the-military-tested-bacterial-weapons-in-san-francisco-2015-7
 * http://www.nytimes.com/2015/02/25/us/jailed-ex-army-officer-has-support-but-not-from-his-platoon.html?_r=0
 * http://www.extremetech.com/extreme/201542-weapons-of-world-war-iii-how-new-technology-will-affect-the-next-great-conflict
 * http://www.wired.com/2015/02/edmund-clark-the-mountains-of-majeed/

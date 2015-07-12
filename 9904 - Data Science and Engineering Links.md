@@ -452,6 +452,7 @@
 * http://www.slideshare.net/dato-inc/strata-london-deep-learning-052015
 * http://www.extremetech.com/extreme/206521-thought-vectors-could-revolutionize-artificial-intelligence
 * http://maximusandme.blogspot.com/2015/05/thought-vector-deep-learning-progress.html
+* https://github.com/JohnMount/CaffeECSExample
 
 #### Network Optimization, Linear Algebra, NP-hard 
 
