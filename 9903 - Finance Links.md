@@ -202,6 +202,7 @@
 * http://www.nakedcapitalism.com/2015/06/top-private-equity-reporter-calpers-is-either-lying-or-has-a-massive-breakdown-in-financial-controls.html
 * http://www.nakedcapitalism.com/2015/07/obama-in-retreat-thanks-to-elizabeth-warren-led-opposition-to-plan-to-appoint-another-corporate-stooge-as-sec-commissioner.html
 * http://www.bloomberg.com/news/articles/2015-07-07/sealed-hsbc-report-shows-u-s-managers-battling-clean-up-squad
+* http://www.nakedcapitalism.com/2015/07/bill-black-libor-historys-largest-financial-crime-that-the-wsj-and-nyt-would-like-you-to-forget.html
 
 
 
