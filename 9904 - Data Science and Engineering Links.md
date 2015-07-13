@@ -207,7 +207,7 @@
 * Present at the end of it.
 * Key to make money in life: people will pay you money to do things they find tedious and boring and un-fun. Do it, and that's your career.
 
-## Stats
+## Stats and Metrics
 
 <li><a href="http://alumni.media.mit.edu/~tpminka/statlearn/glossary/" time_added="1351210052" tags="data science,ml">A Statistical Learning/Pattern Recognition Glossary</a></li>
 <li><a href="http://t.co/uGySkaRQ" time_added="1351168563" tags="data science,ml">johnmyleswhite: Stumbled upon this nice looking book on statistical distrib</a></li>
@@ -255,6 +255,7 @@
 * http://www.stats.org/super-learning-and-the-revolution-in-knowledge/
 * https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf
 * http://technology.stitchfix.com/blog/2015/05/26/significant-sample/
+* http://efavdb.com/ranking-revisited/
 
 ## ML / AI
 
