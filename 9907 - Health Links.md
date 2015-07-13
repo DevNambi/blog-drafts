@@ -633,6 +633,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://realsqlguy.com/vital-statistics-and-health-checks/
 * http://www.benjamincburns.com/2014/11/30/from-hacker-to-hospice-in-seven-weeks.html
 * https://jawbone.com/blog/sleep-deprived-inactive-must-commuter/
+* http://www.nerdfitness.com/blog/2015/07/13/how-to-survive-sitting-all-day/
 
 
 

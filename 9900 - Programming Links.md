@@ -513,6 +513,7 @@
 * https://aphyr.com/posts/322-call-me-maybe-mongodb-stale-reads
 * http://0a.io/0a-explains-set-theory-and-axiomatic-systems-with-pics-and-gifs
 * http://cs-blog.khanacademy.org/2015/05/just-released-full-introductory-sql.html
+* http://www.brentozar.com/archive/2015/07/questions-to-ask-before-you-touch-a-database-server/
 
 <li><a href="http://t.co/ZA3MOe15" time_added="1357660034" tags="">mrdenny: Reading: http://t.co/ZA3MOe15 Selective XML Index - Secondary Sele</a></li>
 <li><a href="http://t.co/wHxcpOOC" time_added="1356371201" tags="">BrentOzarULTD: New post: sp_BlitzIndex™ Holiday Week Edition http://t.co/wH</a></li>
