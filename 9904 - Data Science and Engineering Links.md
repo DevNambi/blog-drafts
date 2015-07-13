@@ -647,7 +647,9 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://cliffmass.blogspot.com/2015/01/forecast-lessons-from-northeast.html <- how to communicate uncertainty
 * http://instagram-engineering.tumblr.com/post/122961624217/trending-at-instagram
 * http://www.datacommunitydc.org/blog/2013/05/recommendation-engines-why-you-shouldnt-build-one
+* https://medium.com/3-to-read/hacking-journalism-data-science-in-the-newsroom-15d7d1b73218
 * http://technocalifornia.blogspot.com/2014/12/ten-lessons-learned-from-building-real.html
+* http://www.marketsforgood.org/frontlinesms-environmental-sensor/
 * http://www.frankmcsherry.org/graph/scalability/cost/2015/01/15/COST.html
 * http://iquantny.tumblr.com/post/109370229799/does-gentrification-cause-a-reduction-in
 * https://civisanalytics.com/products/end-to-end-data-science/
