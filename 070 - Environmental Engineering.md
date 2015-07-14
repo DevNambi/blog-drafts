@@ -86,6 +86,7 @@ Emphasize what we don't know
 * https://johncarlosbaez.wordpress.com/2015/06/19/on-care-for-our-common-home/
 * http://www.bloomberg.com/news/articles/2015-06-23/the-way-humans-get-electricity-is-about-to-change-forever
 * http://nautil.us/issue/25/water/the-real-landscapes-of-the-great-flood-myths
+* http://www.vox.com/2015/7/13/8949701/carbon-removal
 * http://www.nytimes.com/2015/05/31/opinion/sunday/holding-your-breath-in-india.html?_r=0
 * http://www.nytimes.com/2015/07/06/us/california-drought-sends-us-water-agency-back-to-drawing-board.html?_r=0
 * http://www.newyorker.com/magazine/2015/05/25/the-disappearing-river
