@@ -16,6 +16,7 @@
 * http://www.scmagazine.com/the-failure-of-the-security-industry/article/403261/
 * http://www.defenseone.com/technology/2015/07/someone-just-leaked-price-list-cyberwar/117043/
 * http://www.bloomberg.com/graphics/2015-mob-technology-consultants-help-drug-traffickers/
+* http://www.troyhunt.com/2015/07/how-i-got-xssd-by-my-ad-network.html
 * https://www.eff.org/deeplinks/2015/04/whitehouses-new-executive-order-cyber-crime-unfortunately-no-joke
 * http://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html
 * http://arstechnica.com/security/2015/05/the-moose-is-loose-linux-based-worm-turns-routers-into-social-network-bots/
