@@ -530,6 +530,7 @@
 * http://mobile.nytimes.com/2015/01/12/us/politics/new-rules-to-limit-tactics-on-hospitals-fee-collections.html
 * http://www.businessweek.com/articles/2015-01-15/how-indias-patent-office-destroyed-gileads-global-game-plan
 * http://readersupportednews.org/opinion2/277-75/31145-the-choice-ahead-a-private-health-insurance-monopoly-or-a-single-payer
+* http://motherboard.vice.com/read/why-i-had-to-buy-my-wifes-inhaler-on-the-dark-web
 
 <li><a href="http://t.co/IG6Jdn4S" time_added="1357788683" tags="">lazowska: NY Times: US is an outlier in relying on the private sector to fu</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/11/another-lurking-obamacare-problem-balance-billing.html" time_added="1384907393" tags="corruption,finance,health,important,to_read">Another Lurking Obamacare Problem: Balance Billing « naked capitalism</a></li>

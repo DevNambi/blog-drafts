@@ -379,6 +379,7 @@
 #### Agent Systems
 
 * http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14604.html
+* https://github.com/projectmesa/mesa
 
 #### R
 
@@ -647,6 +648,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://www.erinshellman.com/data-scientists-at-work/
 * http://cliffmass.blogspot.com/2015/01/forecast-lessons-from-northeast.html <- how to communicate uncertainty
 * http://instagram-engineering.tumblr.com/post/122961624217/trending-at-instagram
+* http://blog.yhathq.com/posts/decision-making-under-uncertainty.html
 * http://www.datacommunitydc.org/blog/2013/05/recommendation-engines-why-you-shouldnt-build-one
 * https://medium.com/3-to-read/hacking-journalism-data-science-in-the-newsroom-15d7d1b73218
 * http://technocalifornia.blogspot.com/2014/12/ten-lessons-learned-from-building-real.html

@@ -320,6 +320,7 @@
 * http://blogs.wsj.com/economics/2015/06/22/top-ceo-pay-isnt-driven-by-talent-new-study-says/
 * http://www.theguardian.com/uk-news/2015/jun/28/london-the-city-that-ate-itself-rowan-moore
 * https://www.economy.com/dismal/analysis/datapoints/255258/We-Are-Not-a-Nation-of-Freelancers/
+* http://www.robertmanduca.com/projects/jobs.html
 
 
 
