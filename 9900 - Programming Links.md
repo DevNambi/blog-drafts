@@ -380,6 +380,7 @@
 * http://mikecavaliere.com/dont-get-attached-programming-languages/
 * http://www.technologyreview.com/review/536356/toolkits-for-the-mind/
 * http://www.codersnotes.com/notes/the-death-of-the-von-neumann-architecture
+* http://mtov.github.io/github-popularity-growth-patterns/
 
 
 
@@ -514,6 +515,7 @@
 * http://0a.io/0a-explains-set-theory-and-axiomatic-systems-with-pics-and-gifs
 * http://cs-blog.khanacademy.org/2015/05/just-released-full-introductory-sql.html
 * http://www.brentozar.com/archive/2015/07/questions-to-ask-before-you-touch-a-database-server/
+* http://wp.sigmod.org/?p=1629
 
 <li><a href="http://t.co/ZA3MOe15" time_added="1357660034" tags="">mrdenny: Reading: http://t.co/ZA3MOe15 Selective XML Index - Secondary Sele</a></li>
 <li><a href="http://t.co/wHxcpOOC" time_added="1356371201" tags="">BrentOzarULTD: New post: sp_BlitzIndex™ Holiday Week Edition http://t.co/wH</a></li>
@@ -625,6 +627,8 @@ things they believe in will keep </a></li>
 * http://julesjacobs.github.io/2015/05/06/exponentially-decaying-likes.html
 * http://www.datanami.com/2015/05/18/how-machine-learning-is-eating-the-software-world/
 * https://news.ycombinator.com/item?id=9643628
+* http://caseysoftware.com/blog/dont-attend-a-hackathon
+
 
 
 
