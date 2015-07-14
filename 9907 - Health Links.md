@@ -207,6 +207,7 @@
 * https://vanwinkles.com/bedtime-for-benzodiazepines-addicted-drug-most-popular-sleeping-pills
 * http://www.scientificamerican.com/article/supercharged-tuberculosis-made-in-india1/
 * http://www.sciencealert.com/new-alzheimer-s-treatment-fully-restores-memory-function
+* http://www.nytimes.com/2015/07/12/health/modern-doctors-house-calls-skype-chat-and-fast-diagnosis.html
 * http://www.seattletimes.com/nation-world/some-acid-reflux-drugs-safety-questioned/
 * http://arstechnica.com/science/2015/06/personal-vaccine-exemptions-under-fire-in-california-and-by-ama/
 * http://insightmine.com/i-dont-care-if-you-dont-need-to-know-about-cancer-we-all-do/ <- amazing

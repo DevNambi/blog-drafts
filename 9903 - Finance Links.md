@@ -94,6 +94,8 @@
 * https://medium.com/@zizip/fear-and-loathing-in-greece-beb1a26ef4c6
 * http://www.nakedcapitalism.com/2015/07/greece-told-to-submit-proposal-by-thursday-complete-deal-by-sunday-or-ecb-shoots-its-banks-and-forces-grexit.html
 * http://www.nytimes.com/2015/07/09/world/europe/greeks-spend-droves-afraid-losing-savings-bailout.html?_r=0
+* http://www.nakedcapitalism.com/2015/07/tentative-deal-strips-greece-of-sovereignty-makes-debt-relief-dependent-on-compliance.html
+* http://www.nakedcapitalism.com/2015/07/greece-brought-a-latte-to-a-gunfight.html
 
 
 
@@ -203,6 +205,7 @@
 * http://www.nakedcapitalism.com/2015/07/obama-in-retreat-thanks-to-elizabeth-warren-led-opposition-to-plan-to-appoint-another-corporate-stooge-as-sec-commissioner.html
 * http://www.bloomberg.com/news/articles/2015-07-07/sealed-hsbc-report-shows-u-s-managers-battling-clean-up-squad
 * http://www.nakedcapitalism.com/2015/07/bill-black-libor-historys-largest-financial-crime-that-the-wsj-and-nyt-would-like-you-to-forget.html
+* http://www.nakedcapitalism.com/2015/07/california-state-treasurer-takes-up-calpers-private-equity-carry-fee-reporting-lapse-after-nc-readers-press-him.html
 
 
 

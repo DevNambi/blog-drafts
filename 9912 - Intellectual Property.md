@@ -59,6 +59,7 @@
 * https://www.eff.org/deeplinks/2015/05/supreme-court-rejects-attempt-expand-patent-liability-limits-defenses
 * https://www.eff.org/deeplinks/2015/05/tisa-yet-another-leaked-treaty-youve-never-heard-makes-secret-rules-internet
 * http://arstechnica.co.uk/tech-policy/2015/06/software-companies-are-leaving-the-uk-because-of-governments-surveillance-plans/
+* https://www.reddit.com/r/europe/comments/3d0ftu/this_is_the_biggest_leak_of_ttip_documents_yet/
 
 
 "Any time someone puts a lock on something that belongs to you and won't give you the key, the lock isn't there for your benefit" - Cory Doctorow

@@ -17,7 +17,10 @@
 * http://www.defenseone.com/technology/2015/07/someone-just-leaked-price-list-cyberwar/117043/
 * http://www.bloomberg.com/graphics/2015-mob-technology-consultants-help-drug-traffickers/
 * https://www.eff.org/deeplinks/2015/04/whitehouses-new-executive-order-cyber-crime-unfortunately-no-joke
+* http://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html
 * http://arstechnica.com/security/2015/05/the-moose-is-loose-linux-based-worm-turns-routers-into-social-network-bots/
+* http://blog.trendmicro.com/pawn-storm-first-java-zero-day-attack-in-two-years-targets-nato-us-defense-organizations/
+* http://blog.dripstat.com/removal-of-sun-misc-unsafe-a-disaster-in-the-making/
 * http://www.wired.com/2015/04/want-see-domestic-spyings-future-follow-drug-war/
 * http://www.itnews.com/disaster-recovery/94529/fbi-alert-discloses-malware-tied-opm-and-anthem-attacks?utm_source=dlvr.it&utm_medium=twitter
 * http://recode.net/2015/04/13/cyber-crime-still-on-the-rise-using-nine-basic-attack-methods/
