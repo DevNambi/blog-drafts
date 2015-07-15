@@ -211,6 +211,8 @@
 * http://www.bloomberg.com/news/articles/2015-07-07/sealed-hsbc-report-shows-u-s-managers-battling-clean-up-squad
 * http://www.nakedcapitalism.com/2015/07/bill-black-libor-historys-largest-financial-crime-that-the-wsj-and-nyt-would-like-you-to-forget.html
 * http://www.nakedcapitalism.com/2015/07/california-state-treasurer-takes-up-calpers-private-equity-carry-fee-reporting-lapse-after-nc-readers-press-him.html
+* http://www.bloombergview.com/articles/2015-07-14/banks-forgot-who-was-supposed-to-own-dell-shares
+
 
 
 
@@ -327,6 +329,8 @@
 * https://www.economy.com/dismal/analysis/datapoints/255258/We-Are-Not-a-Nation-of-Freelancers/
 * http://www.robertmanduca.com/projects/jobs.html
 * https://www.vice.com/read/driving-uber-as-an-iraqi-war-veteran
+* http://www.theatlantic.com/business/archive/2015/07/millennials-with-rich-parents/398501/?single_page=true
+
 
 
 

@@ -11,6 +11,7 @@
 * http://www.nytimes.com/2015/06/15/opinion/paul-krugman-democrats-being-democrats.html
 * http://www.theatlantic.com/politics/archive/2015/04/loving-v-marriage/391730/
 * http://ben.balter.com/2015/04/21/why-technologists-dont-want-to-work-at-your-agency/
+* http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html
 * http://www.theatlantic.com/politics/archive/2015/03/the-conservative-case-against-enforcing-immigration-laws/387004/
 * http://www.salon.com/2015/06/12/this_is_the_nras_worst_nightmare_the_new_gun_safety_study_that_gun_nuts_dont_want_you_to_hear_about/
 * http://www.nakedcapitalism.com/2015/05/delusional-thinking-in-washington-the-desperate-plight-of-a-declining-superpower.html

@@ -257,6 +257,7 @@
 * https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf
 * http://technology.stitchfix.com/blog/2015/05/26/significant-sample/
 * http://efavdb.com/ranking-revisited/
+* http://phdp.github.io/posts/2015-07-13-srl-code.html
 
 ## ML / AI
 
