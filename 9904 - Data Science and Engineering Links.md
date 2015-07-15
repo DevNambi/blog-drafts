@@ -324,6 +324,7 @@
 * https://jakevdp.github.io/blog/2015/07/06/model-complexity-myth/
 * http://googleresearch.blogspot.com/2015/07/icml-2015-and-machine-learning-research.html
 * https://outlookzen.wordpress.com/2015/03/15/life-lessons-from-machine-learning/
+* http://www.machinedlearnings.com/2015/07/icml-2015-review.html
 * http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
 * http://research.microsoft.com/en-us/projects/r2/
 * http://probabilistic-programming.org/wiki/Home
@@ -457,6 +458,7 @@
 * http://www.extremetech.com/extreme/206521-thought-vectors-could-revolutionize-artificial-intelligence
 * http://maximusandme.blogspot.com/2015/05/thought-vector-deep-learning-progress.html
 * https://github.com/JohnMount/CaffeECSExample
+* http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
 
 #### Network Optimization, Linear Algebra, NP-hard 
 
