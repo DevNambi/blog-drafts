@@ -326,6 +326,7 @@
 * http://www.theguardian.com/uk-news/2015/jun/28/london-the-city-that-ate-itself-rowan-moore
 * https://www.economy.com/dismal/analysis/datapoints/255258/We-Are-Not-a-Nation-of-Freelancers/
 * http://www.robertmanduca.com/projects/jobs.html
+* https://www.vice.com/read/driving-uber-as-an-iraqi-war-veteran
 
 
 
