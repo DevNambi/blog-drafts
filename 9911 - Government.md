@@ -7,6 +7,7 @@
 
 
 * http://www.dailydot.com/politics/jeremy-hammond-terrorist-watchlist-fbi/
+* http://www.politico.com/story/2015/07/longer-airport-lines-likely-as-tsa-tries-to-plug-security-holes-120117.html?hp=t4_r
 * http://www.nytimes.com/2015/06/15/opinion/paul-krugman-democrats-being-democrats.html
 * http://www.theatlantic.com/politics/archive/2015/04/loving-v-marriage/391730/
 * http://ben.balter.com/2015/04/21/why-technologists-dont-want-to-work-at-your-agency/
