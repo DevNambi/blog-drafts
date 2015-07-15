@@ -96,6 +96,9 @@
 * http://www.nytimes.com/2015/07/09/world/europe/greeks-spend-droves-afraid-losing-savings-bailout.html?_r=0
 * http://www.nakedcapitalism.com/2015/07/tentative-deal-strips-greece-of-sovereignty-makes-debt-relief-dependent-on-compliance.html
 * http://www.nakedcapitalism.com/2015/07/greece-brought-a-latte-to-a-gunfight.html
+* http://www.nakedcapitalism.com/2015/07/odds-favor-a-greece-deal-failure-and-defacto-grexit.html
+* http://www.nakedcapitalism.com/2015/07/imf-throws-a-spanner-in-proposed-greece-deal-says-financing-may-not-be-enough.html
+* https://www.jacobinmag.com/2015/07/tsipras-varoufakis-kouvelakis-syriza-euro-debt/
 
 
 
@@ -104,6 +107,8 @@
 * http://www.nakedcapitalism.com/2014/12/don-quijones-mexico-verge-new-tequila-crisis.html
 * http://wolfstreet.com/2015/05/14/brazil-just-getting-worse-and-worse-threatens-macro-and-financial-stability/
 * http://www.bloomberg.com/news/articles/2015-06-01/the-meaninglessness-of-ending-extreme-poverty-
+* http://www.theguardian.com/business/2015/jul/11/beyond-greece-world-filled-debt-crises
+* http://jubileedebt.org.uk/wp-content/uploads/2015/07/The-new-debt-trap_07.15.pdf
 
 
 ## Bank & Regulatory Corruption

@@ -7,6 +7,7 @@
 * http://www.nytimes.com/interactive/2015/05/19/dining/summer-dinner-ideas.html <- AMAZING
 * http://www.truth-out.org/news/item/31193-four-decades-of-the-wrong-dietary-advice-has-paved-the-way-for-the-diabetes-epidemic-time-to-change-course
 * http://www.nature.com/news/the-rise-of-africa-s-super-vegetables-1.17712 
+* http://qz.com/433750/the-world-eats-cheap-bacon-at-the-expense-of-north-carolinas-rural-poor/
 * http://www.nerdfitness.com/blog/2015/06/15/11-most-common-workout-questions-answered/
 * http://www.seattletimes.com/life/food-drink/push-boundaries-of-flavor-by-cooking-with-tea/
 * http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0
@@ -531,6 +532,7 @@
 * http://www.businessweek.com/articles/2015-01-15/how-indias-patent-office-destroyed-gileads-global-game-plan
 * http://readersupportednews.org/opinion2/277-75/31145-the-choice-ahead-a-private-health-insurance-monopoly-or-a-single-payer
 * http://motherboard.vice.com/read/why-i-had-to-buy-my-wifes-inhaler-on-the-dark-web
+* http://www.nakedcapitalism.com/2015/07/health-insurance-prices-take-off-worker-pay-stagnant.html
 
 <li><a href="http://t.co/IG6Jdn4S" time_added="1357788683" tags="">lazowska: NY Times: US is an outlier in relying on the private sector to fu</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/11/another-lurking-obamacare-problem-balance-billing.html" time_added="1384907393" tags="corruption,finance,health,important,to_read">Another Lurking Obamacare Problem: Balance Billing « naked capitalism</a></li>
