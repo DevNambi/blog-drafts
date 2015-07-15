@@ -31,6 +31,7 @@
 * https://districtdatalabs.silvrback.com/intro-to-r-for-microsoft-excel-users
 * http://www.labri.fr/perso/nrougier/teaching/numpy.100/
 * https://plot.ly/ipython-notebooks/big-data-analytics-with-pandas-and-sqlite/
+* http://www.galvanize.com/blog/2015/07/14/seven-python-tools-all-data-scientists-should-know-how-to-use/
 
 ## Experiments & Research
 
