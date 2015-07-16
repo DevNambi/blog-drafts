@@ -543,6 +543,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2015/06/07/opinion/sunday/why-i-defaulted-on-my-student-loans.html <- BRAVO
 * http://www.jefftk.com/p/how-to-get-a-massive-discount-on-college
 * http://www.seattletimes.com/education-lab/not-all-college-debt-is-bad-study-says/
+* http://www.npr.org/sections/money/2015/07/15/422590257/medicine-law-business-which-grad-students-borrow-the-most
 
 
 #### Adjuncts and Grad Students
@@ -561,6 +562,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.timeshighereducation.co.uk/features/phd-is-the-doctoral-thesis-obsolete/2020255.fullarticle
 * http://www.theatlantic.com/education/archive/2015/05/the-cost-of-an-adjunct/394091/?single_page=true
 * http://www.theguardian.com/commentisfree/2015/jun/22/adjunct-professor-earn-less-than-pet-sitter
+* http://www.npr.org/sections/money/2015/07/15/422590257/medicine-law-business-which-grad-students-borrow-the-most
 
 
 ### Administration
@@ -615,6 +617,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://news.cs.washington.edu/2015/03/18/uw-lands-air-force-center-of-excellence-with-help-from-cse-and-escience/
 * http://www.seattletimes.com/seattle-news/the-party-that-wants-to-put-public-back-into-public-education/
 * http://www.thetakeaway.org/story/access-and-excellence-campus/
+* http://www.seattletimes.com/education-lab/uw-bothell-again-bests-uw-seattle-in-rating-of-college-value/ <- because they don't have certain high-cost expenses?
 
 
 
