@@ -405,7 +405,13 @@
 * https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python
 * http://blog.quantifiedcode.com/python-code-analysis-tools-overview/
 * https://github.com/s16h/py-must-watch
+* http://docs.python-guide.org/en/latest/
 
+**Examples of good Python codebases**
+* https://github.com/kennethreitz/requests
+* https://github.com/mitsuhiko/flask
+* https://github.com/mitsuhiko/markupsafe
+* https://github.com/zzzeek/sqlalchemy
 
 
 * AWS IPython: Start IPYNB on EC2 machine. ssh -L 8889:localhost:8888 user@awsip.com. Go to localhost:8889 in local browser. Super quick IPYNB cloud
