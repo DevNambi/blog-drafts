@@ -360,6 +360,7 @@
 * http://www.extremetech.com/extreme/205231-memristors-linked-into-neural-network-arrays
 * http://www.rightscale.com/blog/cloud-cost-analysis/google-vs-aws-pricing-google-cuts-are-first-2015
 * https://laur.ie/blog/2015/06/ssds-a-gift-and-a-curse/
+* http://www.allthingsdistributed.com/2015/07/under-the-hood-of-the-amazon-ec2-container-service.html
 
 
 

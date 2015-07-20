@@ -625,6 +625,9 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR
 * http://ampcamp.berkeley.edu/
 * http://newsoffice.mit.edu/2015/cutting-cost-power-big-data-0710
+* http://eugenezhulenev.com/blog/2015/07/15/interactive-audience-analytics-with-spark-and-hyperloglog/
+
+
 
 ## How-I-Did-It
 

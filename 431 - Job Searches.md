@@ -254,6 +254,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="http://anewdomain.net/2014/12/11/dont-hire-anyone-30-ageism-silicon-valley/">Don’t Hire Anyone Over 30: Ageism in Silicon Valley</a></li>
 <li><a href="http://blogs.wsj.com/digits/2015/04/23/google-sued-by-job-candidate-for-age-discrimination/">Google Sued by Job Candidate for Age Discrimination</a></li>
 <li><a href="https://news.ycombinator.com/item?id=9497721">Ask HN: Programmers Above 50 , Is It Possible to Have a Career Past Your 50s?</a></li>
+<li><a href="https://www.quora.com/Why-arent-there-a-lot-of-old-programmers-at-software-companies/answer/Michael-O-Church">Why aren't there a lot of old programmers at software companies?</a></li>
 </ul>
 
 **The 'STEM' shortage, and H1B Visas**
