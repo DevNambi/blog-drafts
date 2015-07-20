@@ -501,6 +501,7 @@
 * http://blogs.barrons.com/techtraderdaily/2015/03/30/michael-stonebraker-describes-oracles-obsolescence-facebooks-enormous-challenge/
 * http://www.pg-versus-ms.com/ <- amazing
 * http://www.brentozar.com/archive/2015/03/five-interview-questions-to-ask-sql-server-developers/
+* http://cryto.net/~joepie91/blog/2015/07/19/why-you-should-never-ever-ever-use-mongodb/
 * http://www.jandrewrogers.com/2015/03/02/geospatial-databases-are-hard/?h
 * http://blog.parsely.com/post/1691/lucene/
 * http://rob.conery.io/2015/02/24/embracing-sql-in-postgres/

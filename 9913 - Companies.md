@@ -160,6 +160,7 @@
 * http://mobile.nytimes.com/2015/02/12/technology/personaltech/googles-time-at-the-top-may-be-nearing-its-end.html
 * http://www.newscientist.com/article/mg22530102.600-google-wants-to-rank-websites-based-on-facts-not-links.html
 * http://adage.com/article/digital/inside-google-s-secret-war-ad-fraud/298652/
+* https://mobile.twitter.com/EricaJoy/status/622079372367781888
 
 
 ## Uber

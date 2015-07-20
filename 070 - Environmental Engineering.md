@@ -105,6 +105,7 @@ Emphasize what we don't know
 * http://arstechnica.com/science/2015/04/30/the-inadvertent-hilarity-of-the-heartland-institute-vs-pope-francis/
 * http://www.nakedcapitalism.com/2014/04/gaius-publius-climate-scientist-michael-mann-dont-stop-now-well-surpass-2c-global-warming.html
 * http://www.washingtonpost.com/news/energy-environment/wp/2015/04/01/the-arctic-climate-threat-that-nobodys-even-talking-about-yet/
+* http://www.nakedcapitalism.com/2015/07/gaius-publius-california-drought-the-bigger-water-crisis-the-consumer-economy%E2%80%8B.html
 * http://www.atlasobscura.com/places/the-great-green-wall-of-africa
 * http://arstechnica.com/science/2015/03/us-doe-examines-a-future-grid-thats-35-percent-wind/
 * http://blogs.wsj.com/japanrealtime/2015/06/24/japan-building-giant-battery-systems-to-store-solar-power/?mod=e2fb

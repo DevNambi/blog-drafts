@@ -24,6 +24,7 @@
 * http://www.smh.com.au/business/china/chinas-new-rules-risk-creating-subprime-economy-20150706-gi6jm1.html
 * http://www.macrobusiness.com.au/2015/07/shanghai-opens-crashes-3/
 * http://www.nakedcapitalism.com/2015/07/chinese-stock-market-rout-continues-trading-halted-in-over-half-of-listed-stocks.html
+* http://www.nytimes.com/2015/07/20/world/asia/in-china-a-supercity-rises-around-beijing.html
 
 
 ## Europe
@@ -99,6 +100,8 @@
 * http://www.nakedcapitalism.com/2015/07/odds-favor-a-greece-deal-failure-and-defacto-grexit.html
 * http://www.nakedcapitalism.com/2015/07/imf-throws-a-spanner-in-proposed-greece-deal-says-financing-may-not-be-enough.html
 * https://www.jacobinmag.com/2015/07/tsipras-varoufakis-kouvelakis-syriza-euro-debt/
+* http://www.nytimes.com/2015/07/21/business/international/greece-debt-crisis-banks-reopen.html?_r=0
+* http://www.nakedcapitalism.com/2015/07/bank-it-grexit-and-systemic-risk.html
 
 
 
@@ -109,6 +112,7 @@
 * http://www.bloomberg.com/news/articles/2015-06-01/the-meaninglessness-of-ending-extreme-poverty-
 * http://www.theguardian.com/business/2015/jul/11/beyond-greece-world-filled-debt-crises
 * http://jubileedebt.org.uk/wp-content/uploads/2015/07/The-new-debt-trap_07.15.pdf
+* http://www.nytimes.com/2015/07/20/world/middleeast/murder-at-sea-captured-on-video-but-killers-go-free.html
 
 
 ## Bank & Regulatory Corruption
@@ -212,6 +216,8 @@
 * http://www.nakedcapitalism.com/2015/07/bill-black-libor-historys-largest-financial-crime-that-the-wsj-and-nyt-would-like-you-to-forget.html
 * http://www.nakedcapitalism.com/2015/07/california-state-treasurer-takes-up-calpers-private-equity-carry-fee-reporting-lapse-after-nc-readers-press-him.html
 * http://www.bloombergview.com/articles/2015-07-14/banks-forgot-who-was-supposed-to-own-dell-shares
+* http://www.nakedcapitalism.com/2015/07/private-equity-carry-fee-scandal-spreads-to-calstrs-after-nc-points-out-connection.html
+* http://www.economist.com/news/finance-and-economics/21657817-new-research-suggests-it-debt-not-frothy-asset-prices-should-worry?frsc=dg%7Ca
 
 
 
