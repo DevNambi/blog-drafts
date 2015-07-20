@@ -417,6 +417,7 @@
 * https://medium.com/basic-income/self-driving-trucks-are-going-to-hit-us-like-a-human-driven-truck-b8507d9c5961
 * http://www.nakedcapitalism.com/2015/06/wolf-richter-last-two-times-this-happened-stocks-crashed.html
 * http://www.nakedcapitalism.com/2015/06/the-notion-of-the-competitiveness-of-countries-is-nonsense.html
+* http://www.nytimes.com/2015/07/19/world/stowaway-crime-scofflaw-ship.html?_r=0
 
 
 
