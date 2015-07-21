@@ -88,6 +88,7 @@
 * http://radar.oreilly.com/2014/10/challenges-facing-predictive-apis.html
 
 ## Data Viz
+
 <li><a href="http://homes.cs.washington.edu/~jheer/talks/Heer-VIZBI-2014.pdf" time_added="1394032888" tags="">homes.cs.washington.edu/~jheer/talks/Heer-VIZBI-2014.pdf</a></li>
 <li><a href="http://civilstat.com/?p=974" time_added="1354808210" tags="viz">Graph Design for the Eye and Mind, Stephen Kosslyn | Civil Statistician</a></li>
 <li><a href="http://t.co/aoGM7SkH" time_added="1353166541" tags="data science,viz">peschkaj: "The top 20 data visualisation tools" http://t.co/aoGM7SkH - reco</a></li>
@@ -229,6 +230,7 @@
 <li><a href="http://t.co/yCiozhpn" time_added="1355686116" tags="stats">StatFact: New names for statistical methods http://t.co/yCiozhpn</a></li>
 <li><a href="http://t.co/L6AzJuno" time_added="1357199994" tags="data science,stats">sayhitosean: The (near) Future of Data Analysis - A Review http://t.co/L6Az</a></li>
 <li><a href="http://t.co/Z0FROH3Z" time_added="1356721947" tags="hn,stats">CompSciFact: Summary of some of the math used in computer science http://t.</a></li>
+
 * http://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/
 * http://pymc-devs.github.io/pymc3/getting_started/
 * http://crucialconsiderations.org/rationality/bayes-theorem/
@@ -258,6 +260,7 @@
 * http://technology.stitchfix.com/blog/2015/05/26/significant-sample/
 * http://efavdb.com/ranking-revisited/
 * http://phdp.github.io/posts/2015-07-13-srl-code.html
+* http://blog.hackerrank.com/the-risky-eclipse-of-statisticians/
 
 ## ML / AI
 
@@ -301,6 +304,7 @@
 <li><a href="http://conductrics.com/data-science-resources-2" time_added="1359576947" tags="data science,ml">List of Machine Learning and Data Science Resources - Part 2 | Conductrics</a></li>
 <li><a href="http://www.kaggle.com/c/whale-detection-challenge" time_added="1360687349" tags="data science">Description - The Marinexplore and Cornell University Whale Detection Chall</a></li>
 <li><a href="http://www.kaggle.com/c/whale-detection-challenge/data" time_added="1360687183" tags="data science">Data - The Marinexplore and Cornell University Whale Detection Challenge - </a></li>
+
 * http://punkrockor.wordpress.com/2014/08/12/in-defense-of-model-simplicity/
 * http://www.startup.ml/blog/hyperparam
 * http://www.infoq.com/presentations/machine-learning-general-programming <- brilliant
@@ -626,6 +630,8 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://ampcamp.berkeley.edu/
 * http://newsoffice.mit.edu/2015/cutting-cost-power-big-data-0710
 * http://eugenezhulenev.com/blog/2015/07/15/interactive-audience-analytics-with-spark-and-hyperloglog/
+* http://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/
+
 
 
 

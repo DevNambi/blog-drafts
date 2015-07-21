@@ -162,6 +162,7 @@
 * http://seattletimes.com/html/businesstechnology/2025258312_agtechfuturexml.html
 * http://www.theatlantic.com/business/archive/2014/12/how-to-create-a-tech-start-up-scene-if-youre-not-in-silicon-valley/384024/?single_page=true
 * http://www.geekwire.com/2015/hey-restaurants-these-sites-are-sending-your-customers-to-orderahead-without-your-knowledge/ <- f'd up behavior
+* http://www.craigkerstiens.com/2015/07/21/An-intro-PR-guide-for-startups/
 
 
 

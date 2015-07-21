@@ -29,7 +29,7 @@
 
 ## Europe
 
-<li><a href="http://www.nytimes.com/2013/03/18/business/global/facing-bailout-tax-cypriots-rush-to-get-their-money-out-of-banks.html?hp&pagewanted=all&_r=0" time_added="1363565145" tags="finance,important">Cypriot Bailout Sends Shivers Throughout the Euro Zone - NYTimes.com</a></li>
+<li><a href="http://www.nytimes.com/2013/03/18/business/global/facing-bailout-tax-cypriots-rush-to-get-their-money-out-of-banks.html" time_added="1363565145" tags="finance,important">Cypriot Bailout Sends Shivers Throughout the Euro Zone - NYTimes.com</a></li>
 
 * http://www.nytimes.com/2014/10/17/world/europe/bloc-in-europe-starts-to-balk-over-austerity-.html
 * http://www.nytimes.com/2015/03/23/opinion/paul-krugman-britains-terrible-no-good-economic-discourse.html
@@ -402,6 +402,7 @@
 * http://www.nytimes.com/2015/05/09/your-money/some-new-math-for-the-4-percent-retirement-rule.html
 * http://mobile.nytimes.com/2015/05/10/upshot/unless-you-are-spock-irrelevant-things-matter-in-economic-behavior.html?_r=0
 * http://blog.dilbert.com/post/120441834951/knowledge-as-a-financial-asset
+* http://www.bbc.com/future/story/20150720-the-hidden-lab-where-bankcards-are-hacked
 
 
 
