@@ -19,6 +19,7 @@
 * http://www.scmagazine.com/the-failure-of-the-security-industry/article/403261/
 * http://www.defenseone.com/technology/2015/07/someone-just-leaked-price-list-cyberwar/117043/
 * http://www.bloomberg.com/graphics/2015-mob-technology-consultants-help-drug-traffickers/
+* https://hacked.com/hacking-drones-close-drawn-boeing-hacking-team/
 * http://krebsonsecurity.com/2015/07/online-cheating-site-ashleymadison-hacked/ <- a divorce lawyer's dream
 * http://www.troyhunt.com/2015/07/how-i-got-xssd-by-my-ad-network.html
 * https://www.eff.org/deeplinks/2015/04/whitehouses-new-executive-order-cyber-crime-unfortunately-no-joke
@@ -28,6 +29,7 @@
 * http://blog.dripstat.com/removal-of-sun-misc-unsafe-a-disaster-in-the-making/
 * http://www.wired.com/2015/04/want-see-domestic-spyings-future-follow-drug-war/
 * http://www.itnews.com/disaster-recovery/94529/fbi-alert-discloses-malware-tied-opm-and-anthem-attacks
+* http://www.dw.com/en/wikileaks-steinmeier-target-of-systematic-nsa-spying/a-18596704
 * http://recode.net/2015/04/13/cyber-crime-still-on-the-rise-using-nine-basic-attack-methods/
 * https://www.schneier.com/blog/archives/2015/06/reassessing_air.html
 * http://www.cringely.com/2015/05/02/your-pbx-has-been-hacked/

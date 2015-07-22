@@ -220,6 +220,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="http://blog.jonliv.es/remote-working-3-year-retrospective/">Working Remotely for 3 Years</a></li>
 <li><a href="http://blog.remoteworknewsletter.com/2015/03/23/best-sources-to-find-a-remote-job-as-a-software-developer/">Best Sources To Find A Remote Job As A Software Developer</a></li>
 <li><a href="https://zapier.com/learn/the-ultimate-guide-to-remote-working/">The Ultimate Guide to Remote Working</a></li>
+<li><a href="https://remote.co/qa-leading-remote-companies/">Q & A - The leading remote companies answer your top questions</a></li>
 </ul>
 
 
