@@ -104,6 +104,7 @@ Emphasize what we don't know
 * http://enenews.com/times-worst-possible-result-revealed-fukushima-plant-chief-centuries-pass-before-humans-invent-deal-molten-fuel-videos
 * https://medium.com/@lesliejz/don-t-stop-showering-california-lay-off-the-burgers-and-nuts-and-pick-up-some-crickets-eb63bddf0277
 * http://arstechnica.com/science/2015/04/30/the-inadvertent-hilarity-of-the-heartland-institute-vs-pope-francis/
+* http://www.nakedcapitalism.com/2015/07/californias-north-coast-wine-industry-how-sustainable-is-it.html
 * http://www.nakedcapitalism.com/2014/04/gaius-publius-climate-scientist-michael-mann-dont-stop-now-well-surpass-2c-global-warming.html
 * http://www.washingtonpost.com/news/energy-environment/wp/2015/04/01/the-arctic-climate-threat-that-nobodys-even-talking-about-yet/
 * http://www.nakedcapitalism.com/2015/07/gaius-publius-california-drought-the-bigger-water-crisis-the-consumer-economy%E2%80%8B.html

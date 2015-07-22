@@ -102,6 +102,7 @@
 * https://www.jacobinmag.com/2015/07/tsipras-varoufakis-kouvelakis-syriza-euro-debt/
 * http://www.nytimes.com/2015/07/21/business/international/greece-debt-crisis-banks-reopen.html?_r=0
 * http://www.nakedcapitalism.com/2015/07/bank-it-grexit-and-systemic-risk.html
+* http://www.nakedcapitalism.com/2015/07/the-coming-greek-bank-nationalization-bail-in-and-privatization.html
 
 
 
