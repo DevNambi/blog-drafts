@@ -394,6 +394,7 @@
 * http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html
 * http://technology.stitchfix.com/blog/2015/03/17/grammar-of-data-science/
 * http://randyzwitch.com/twitter-breakoutdetection-r-package-evaluation/
+* http://priceonomics.com/hadley-wickham-the-man-who-revolutionized-r/
 
 
 #### Python
