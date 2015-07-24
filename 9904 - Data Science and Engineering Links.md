@@ -280,14 +280,12 @@
 <li><a href="http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms" time_added="1354852345" tags="ml">List of machine learning algorithms - Wikipedia, the free encyclopedia</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Weka_(machine_learning)" time_added="1354852343" tags="ml">Weka (machine learning) - Wikipedia, the free encyclopedia</a></li>
 <li><a href="http://www.cs.waikato.ac.nz/ml/weka/" time_added="1354677132" tags="ml">Weka 3 - Data Mining with Open Source Machine Learning Software in Java</a></li>
-<li><a href="http://t.co/47hDG41K" time_added="1354643001" tags="ml">slendrmeans: ML for Hackers up to chapter 9, Pythonized: http://t.co/47hDG4</a></li>
 <li><a href="http://t.co/TzmblVA3" time_added="1354598778" tags="ml">mitultiwari: A blog summarizing valuable practical machine learning tricks:</a></li>
 <li><a href="http://stackoverflow.com/questions/11632516/machine-learning-neural-network-vs-support-vector-machine" time_added="1353798343" tags="ml">Machine Learning: Neural Network vs Support Vector Machine - Stack Overflow</a></li>
 <li><a href="http://arkitus.com/PRML/" time_added="1348860830" tags="data science,ml">S. M. Ali Eslami / Patterns for Research in Machine Learning</a></li>
 <li><a href="http://sociograph.blogspot.com/2011/11/scalable-mean-shift-clustering-in-few.html" time_added="1353945386" tags="ml">Scalable mean-shift clustering in a few lines of python | The Sociograph</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Euclidean_distance" time_added="1354069265" tags="ml">Euclidean distance - Wikipedia, the free encyclopedia</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Cosine_similarity" time_added="1354069263" tags="ml">Cosine similarity - Wikipedia, the free encyclopedia</a></li>
-<li><a href="http://t.co/4ycMleOs" time_added="1353007778" tags="data science,ml">mikedewar: SciKit Random Forest - Brian Eoff on Vimeo http://t.co/4ycMleOs</a></li>
 <li><a href="http://lingpipe-blog.com/2012/10/30/upgrading-from-beta-binomial-to-logistic-regression/" time_added="1351625356" tags="data science,ml">Upgrading from Beta-Binomial to Logistic Regression « LingPipe Blog</a></li>
 <li><a href="http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf" time_added="1352524845" tags="data science,ml">homes.cs.washington.edu/~pedrod/papers/cacm12.pdf</a></li>
 <li><a href="http://jeremykun.wordpress.com/" time_added="1351729205" tags="data science,ml">http://jeremykun.wordpress.com/</a></li>
@@ -311,7 +309,6 @@
 * http://www.dataschool.io/comparing-supervised-learning-algorithms/
 * http://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/
 * https://medium.com/@mikedewar/recommendation-engines-aren-t-for-maximising-metrics-they-are-for-designing-experiences-b2cb3395092c
-* http://nbviewer.ipython.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb
 * http://fastml.com/real-time-interactive-movie-recommendation/
 * http://www.dailyuw.com/science/article_078a3b74-eef3-11e4-b1b5-b3a9ae4725b9.html
 * http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
@@ -349,14 +346,12 @@
 * http://blog.shriphani.com/2014/11/12/the-isomap-algorithm/
 * http://karpathy.github.io/neuralnets/
 * http://machinelearningmastery.com/building-a-production-machine-learning-infrastructure/
-* http://nbtest.herokuapp.com/github/fonnesbeck/Bios366/blob/master/notebooks/Section3_3-Expectation-Maximization.ipynb
 * https://aws.amazon.com/machine-learning/
 * https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/
 * http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 * http://datascopeanalytics.com/what-we-think/2014/09/18/hipster-classifier-icebreaker
 * http://www.mimno.org/articles/hdp/
 * http://www.i-programmer.info/news/105-artificial-intelligence/7352-the-flaw-lurking-in-every-deep-neural-net.html
-* http://randyzwitch.com/twitter-breakoutdetection-r-package-evaluation/
 * http://www.infoq.com/news/2015/04/aws-launches-machine-learning
 * http://blogs.nvidia.com/blog/2014/11/17/microsoft-gpu-learn-faster/
 * http://spectrum.ieee.org/robotics/artificial-intelligence/the-unknown-startup-that-built-googles-first-selfdriving-ca
@@ -374,7 +369,6 @@
 * http://www.mbmlbook.com/toc.html
 * http://recode.net/2015/06/30/machine-learning-is-hard-google-photos-has-egregious-facial-recognition-error/
 * http://techblog.netflix.com/2015/07/tracking-down-villains-outlier.html
-* http://blog.kaggle.com/2015/07/16/scikit-learn-video-8-efficiently-searching-for-optimal-tuning-parameters/
 
 "ML tip: train a model to distinguish between your training set & unlabeled data. If it works, your training data may be incomplete!" - Jake Vanderplas
 
@@ -399,6 +393,22 @@
 <li><a href="http://www.r-bloggers.com/visualizing-principal-components/" time_added="1356371205" tags="">Visualizing Principal Components | (R news & tutorials)</a></li>
 * http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html
 * http://technology.stitchfix.com/blog/2015/03/17/grammar-of-data-science/
+* http://randyzwitch.com/twitter-breakoutdetection-r-package-evaluation/
+
+
+#### Python
+
+<li><a href="http://t.co/47hDG41K" time_added="1354643001" tags="ml">slendrmeans: ML for Hackers up to chapter 9, Pythonized: http://t.co/47hDG4</a></li>
+<li><a href="http://t.co/4ycMleOs" time_added="1353007778" tags="data science,ml">mikedewar: SciKit Random Forest - Brian Eoff on Vimeo http://t.co/4ycMleOs</a></li>
+
+
+* http://nbviewer.ipython.org/github/jakevdp/sklearn_pydata2015/blob/master/notebooks/Index.ipynb
+* http://blog.kaggle.com/2015/07/16/scikit-learn-video-8-efficiently-searching-for-optimal-tuning-parameters/
+* http://nbtest.herokuapp.com/github/fonnesbeck/Bios366/blob/master/notebooks/Section3_3-Expectation-Maximization.ipynb
+* http://nbviewer.ipython.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb
+
+
+
 
 #### NLP
 
@@ -519,6 +529,8 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * Storytelling w/ data - Precision bullsh*tting
 
 ## Data Adoption and Data-Friendly Organizations
+
+"Not everything that can be counted counts, and not everything that counts can be counted.” - Einstein
 
 <li><a href="http://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics" time_added="1357774737" tags="sql">Dan McKinley :: Whom the Gods Would Destroy, They First Give Real-time Anal</a></li>
 <li><a href="http://t.co/u7gM3ggF" time_added="1353294895" tags="data science">datachick: How to Organize a Data Science Team http://t.co/u7gM3ggF</a></li>
