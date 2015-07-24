@@ -52,6 +52,7 @@
 * http://wolfstreet.com/2015/03/04/austria-pulls-ripcord-on-bailouts-lets-bottomless-pit-hypo-alpe-bank-drag-state-of-carinthia-into-bankruptcy/
 * http://www.nakedcapitalism.com/2015/05/bill-black-new-labour-leaders-want-to-go-back-to-blairs-policies-that-blew-up-the-uk.html
 * http://www.nakedcapitalism.com/2015/05/sec-vindicates-deutsche-bank-derivatives-whistleblowers-eric-ben-artzi-and-matthew-simpson.html
+* http://www.nakedcapitalism.com/2015/07/mario-draghi-the-ecb-has-no-mandate-to-ensure-checks-clear-or-credit-cards-work.html
 
 
 
@@ -103,6 +104,7 @@
 * http://www.nytimes.com/2015/07/21/business/international/greece-debt-crisis-banks-reopen.html?_r=0
 * http://www.nakedcapitalism.com/2015/07/bank-it-grexit-and-systemic-risk.html
 * http://www.nakedcapitalism.com/2015/07/the-coming-greek-bank-nationalization-bail-in-and-privatization.html
+* http://www.nakedcapitalism.com/2015/07/once-again-on-the-it-challenges-in-converting-to-the-drachma.html
 
 
 

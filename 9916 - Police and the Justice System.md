@@ -24,6 +24,7 @@
 * http://aeon.co/magazine/society/game-theorys-cure-for-corruption-make-us-all-cops/
 * http://www.komonews.com/news/national/FBI-flying-surveillance-aircraft-over-Seattle-other-cities-305830401.html
 * http://www.nytimes.com/2015/05/06/us/police-struggle-with-loss-of-privileged-position.html
+* http://www.seattletimes.com/seattle-news/crime/video-from-bus-drivers-body-camera-could-cost-2-deputies-their-jobs/
 * http://www.wbez.org/news/city-fires-investigator-who-found-cops-fault-shootings-112423
 * http://www.seattletimes.com/seattle-news/mayor-at-odds-with-civilian-panel-over-its-power-in-forming-police-policies/
 * http://www.theatlantic.com/national/archive/2015/05/the-texas-biker-shootout-is-too-much-for-waco-to-handle/393689/

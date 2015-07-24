@@ -74,6 +74,8 @@
 * http://lifehacker.com/what-i-wish-i-knew-when-i-started-my-career-as-a-softwa-1681002791
 * http://nbviewer.ipython.org/url/norvig.com/ipython/Gesture%20Typing.ipynb <- this is brilliance in development
 * http://zachgoldberg.com/2015/07/15/the-commandments-of-good-code-according-to-zach/
+* http://usersnap.com/blog/developers-lessons-learned/
+
 
 
 

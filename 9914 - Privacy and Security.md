@@ -41,6 +41,7 @@
 * https://modelviewculture.com/pieces/social-networking-as-peer-surveillance
 * https://www.privateinternetaccess.com/blog/2015/06/google-chrome-listening-in-to-your-room-shows-the-importance-of-privacy-defense-in-depth/
 * http://fusion.net/story/49806/beware-houseguests-cheap-home-surveillance-cameras-are-everywhere-now/
+* http://googleonlinesecurity.blogspot.com/2015/07/new-research-comparing-how-security.html
 * http://techcrunch.com/2014/10/11/edward-snowden-new-yorker-festival/
 * http://www.washingtonpost.com/blogs/the-fix/wp/2015/01/18/with-snowden-in-the-background-privacy-takes-a-back-seat-to-security/
 * https://www.eff.org/deeplinks/2015/06/supreme-court-strikes-down-warrantless-searches-hotel-records-reaffirms-fourth
