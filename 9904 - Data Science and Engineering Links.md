@@ -445,6 +445,7 @@
 
 <li><a href="http://moalquraishi.wordpress.com/2013/03/17/what-hintons-google-move-says-about-the-future-of-machine-learning/" time_added="1363562363" tags="ml">What Hinton’s Google Move Says About the Future of Machine Learning « Some </a></li>
 <li><a href="http://oreillynet.com/pub/e/2538" time_added="1363282942" tags="data science,ml">Webcast: Deep Learning - The Biggest Data Science Breakthrough of the Decad</a></li>
+
 * http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
 * http://karpathy.github.io/2015/05/21/rnn-effectiveness/ <- great
 * http://deepdish.io/2015/02/24/network-initialization/
@@ -477,6 +478,7 @@
 * http://maximusandme.blogspot.com/2015/05/thought-vector-deep-learning-progress.html
 * https://github.com/JohnMount/CaffeECSExample
 * http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+* http://neuralnetworksanddeeplearning.com/chap6.html
 
 #### Network Optimization, Linear Algebra, NP-hard 
 

@@ -22,12 +22,12 @@
 * https://www.eff.org/deeplinks/2015/04/whitehouses-new-executive-order-cyber-crime-unfortunately-no-joke
 * http://www.theguardian.com/us-news/2015/mar/10/selma-alabama-march-confederate
 * http://wabe.org/post/how-fema-uses-waffle-house-measure-disasters
-* http://www.nytimes.com/2015/02/24/world/africa/as-tourism-sags-on-kenyan-coast-terrorists-could-lure-the-unemployed.html?_r=0
+* http://www.nytimes.com/2015/02/24/world/africa/as-tourism-sags-on-kenyan-coast-terrorists-could-lure-the-unemployed.html
 * http://www.theatlantic.com/politics/archive/2015/03/when-government-competes-against-the-private-sector-everybody-wins/387460/
 * http://www.seattletimes.com/seattle-news/politics/loss-of-lifeline-to-somalia-shocks-immigrants-here/
 * http://mobile.nytimes.com/2014/10/12/business/no-smoke-no-mirrors-the-dutch-pension-plan.html
 * http://www.seattletimes.com/nation-world/us-lets-in-thai-fish-caught-by-slaves-despite-law-2/
-* http://www.nytimes.com/2015/02/08/magazine/the-shame-of-americas-family-detention-camps.html?_r=0
+* http://www.nytimes.com/2015/02/08/magazine/the-shame-of-americas-family-detention-camps.html
 * http://www.latimes.com/nation/la-na-hastert-misconduct-20150529-story.html <- happening during the Clinton impeachment, cynically enough
 * http://www.cio.com/article/2919053/lawmakers-want-to-protect-the-online-freedom-to-yelp.html
 * http://www.nybooks.com/articles/archives/2015/feb/19/james-risen-reporter-resists-his-government/
@@ -100,7 +100,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.theguardian.com/world/2015/feb/03/petition-putin-free-russian-svetlana-davydova-treason
 * http://news.yahoo.com/ukraine-leader-shows-off-captured-russian-military-ids-160048355.html
 * http://arstechnica.com/tech-policy/2015/04/pepper-spraying-drones-will-be-used-on-indian-protesters/
-* http://mobile.nytimes.com/2015/04/10/world/middleeast/yemen-fighting.html?_r=0
+* http://mobile.nytimes.com/2015/04/10/world/middleeast/yemen-fighting.html
 * https://www.eff.org/deeplinks/2015/05/africas-worst-new-internet-censorship-law-could-be-coming-south-africa
 * http://www.nytimes.com/2015/06/07/magazine/the-agency.html
 
@@ -120,20 +120,20 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.nytimes.com/2015/04/26/us/politics/deep-support-in-washington-for-cias-drone-missions.html <- horrifying
 * http://www.nytimes.com/2015/05/15/world/americas/colombia-halts-us-backed-spraying-of-illegal-coca-crops.html
 * http://www.nakedcapitalism.com/2015/05/william-j-astore-the-american-military-uncontained-chaos-spread-casualties-inflicted-missions-unaccomplished.html
-* http://mobile.nytimes.com/2015/06/17/us/as-stress-drives-off-drone-operators-air-force-must-cut-flights.html?_r=0
+* http://mobile.nytimes.com/2015/06/17/us/as-stress-drives-off-drone-operators-air-force-must-cut-flights.html
 * http://www.huffingtonpost.ca/2015/04/05/former-spy-cia-employees_n_7006852.html
 * https://medium.com/war-is-boring/test-pilot-admits-the-f-35-can-t-dogfight-cdb9d11a875
 * http://www.buzzfeed.com/azmatkhan/the-big-lie-that-helped-justify-americas-war-in-afghanistan
 * http://www.washingtonpost.com/world/national-security/pentagon-loses-sight-of-500-million-in-counterterrorism-aid-given-to-yemen/2015/03/17/f4ca25ce-cbf9-11e4-8a46-b1dc9be5a8ff_story.html?hpid=z1
 * http://www.theatlantic.com/politics/archive/2015/06/these-21-republicans-voted-against-a-torture-ban/396095/
-* http://www.nytimes.com/2015/04/15/opinion/is-there-any-hope-left-for-yemen.html?_r=0
-* http://www.nytimes.com/2015/04/14/world/asia/afghan-army-is-tested-by-the-taliban-as-fighting-season-begins.html?_r=0
+* http://www.nytimes.com/2015/04/15/opinion/is-there-any-hope-left-for-yemen.html
+* http://www.nytimes.com/2015/04/14/world/asia/afghan-army-is-tested-by-the-taliban-as-fighting-season-begins.html
 * http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/ <- an insight piece
-* http://www.nytimes.com/2015/07/23/world/asia/afghan-security-forces-struggle-just-to-maintain-stalemate.html?_r=0
+* http://www.nytimes.com/2015/07/23/world/asia/afghan-security-forces-struggle-just-to-maintain-stalemate.html
 * http://nationalinterest.org/feature/are-submarines-about-become-obsolete-12253
 * http://www.latimes.com/opinion/op-ed/la-oe-0706-zimmerman-ptsd-20150706-story.html
 * http://www.businessinsider.com/the-military-tested-bacterial-weapons-in-san-francisco-2015-7
-* http://www.nytimes.com/2015/02/25/us/jailed-ex-army-officer-has-support-but-not-from-his-platoon.html?_r=0
+* http://www.nytimes.com/2015/02/25/us/jailed-ex-army-officer-has-support-but-not-from-his-platoon.html
 * http://www.extremetech.com/extreme/201542-weapons-of-world-war-iii-how-new-technology-will-affect-the-next-great-conflict
 * http://www.wired.com/2015/02/edmund-clark-the-mountains-of-majeed/
 * http://m.apnews.com/ap/db_268798/contentdetail.htm?contentguid=fNnaocly
@@ -141,12 +141,12 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.nytimes.com/2015/01/29/world/us-suddenly-goes-quiet-on-effort-to-bolster-afghan-forces.html
 * https://firstlook.org/theintercept/2015/07/04/ghost-fleet-welcome-world-post-snowden-techno-thrillers/
 * http://blog.longreads.com/2015/03/11/interview-with-a-torturer/
-* http://www.nytimes.com/2015/03/21/world/asia/ghani-afghanistan-unity-government-plan.html?_r=0
+* http://www.nytimes.com/2015/03/21/world/asia/ghani-afghanistan-unity-government-plan.html
 * https://medium.com/war-is-boring/no-the-f-35-can-t-fight-at-long-range-either-5508913252dd
 * http://aviationweek.com/blog/behind-f-35-air-combat-report
 * https://news.vice.com/article/i-didnt-join-the-taliban-because-i-was-poor-i-joined-because-i-was-angry-report-finds-injustice-not-unemployment-radicalizes-youth
 * http://www.wired.com/2015/07/a-10-thunderbolt/
-* http://www.nytimes.com/2015/03/23/us/politics/out-of-yemen-us-is-hobbled-in-terror-fight.html?_r=0
+* http://www.nytimes.com/2015/03/23/us/politics/out-of-yemen-us-is-hobbled-in-terror-fight.html
 * http://www.theguardian.com/us-news/2015/feb/18/guantanamo-torture-chicago-police-brutality
 * http://www.publicintegrity.org/2015/02/10/16735/lawyer-moved-halliburton-subsidiary-bribes-through-secret-swiss-hsbc-accounts
 * http://projects.wsj.com/lobotomyfiles/
@@ -159,10 +159,10 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.truth-out.org/art/item/27999-thought-experiment
 * http://www.nakedcapitalism.com/2014/10/john-helmer-cia-bumbling-now.html
 * http://www.usatoday.com/story/nation/2014/10/31/suicide-deaths-us-military-war-study/18261185/
-* http://www.nytimes.com/2015/04/04/world/asia/retired-japanese-fighter-pilot-sees-an-old-danger-on-the-horizon.html?_r=0
+* http://www.nytimes.com/2015/04/04/world/asia/retired-japanese-fighter-pilot-sees-an-old-danger-on-the-horizon.html
 * http://www.salon.com/2004/07/15/hersh_7/
 * http://www.washingtonpost.com/wp-srv/special/national/cia-interrogation-report/word-count/ <- torture
-* http://www.washingtonpost.com/world/middle_east/the-hidden-hand-behind-the-islamic-state-militants-saddam-husseins/2015/04/04/aa97676c-cc32-11e4-8730-4f473416e759_story.html?hpid=z1 <- blowback
+* http://www.washingtonpost.com/world/middle_east/the-hidden-hand-behind-the-islamic-state-militants-saddam-husseins/2015/04/04/aa97676c-cc32-11e4-8730-4f473416e759_story.html <- blowback
 * http://panampost.com/sabrina-martin/2015/01/29/venezuelan-army-can-shoot-protesters-effective-immediately/
 * http://militaryprofessionalreadinglists.com/
 * http://www.nytimes.com/2015/03/21/world/africa/nigerian-army-noticeably-absent-in-town-taken-from-boko-haram.html
@@ -172,15 +172,16 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.nakedcapitalism.com/2015/03/pilots-deserting-washingtons-drone-war.html
 * https://www.schneier.com/blog/archives/2015/02/obama_says_terr.html
 * http://www.amnesty.org/en/news/usa-guant-namo-911-military-hearing-halted-cia-black-site-claims-2015-02
+* http://nypost.com/2015/07/25/military-operation-black-dart-to-tackle-nightmare-drone-scenario/
 * http://www.computerworld.com/article/2834927/hackers-strike-defense-companies-through-real-time-ad-bidding.html
 * http://www.foreignpolicy.com/articles/2014/10/24/yoda_has_left_the_building_andrew_marshall_pentagon_futurist
 * http://www.washingtonpost.com/blogs/federal-eye/wp/2015/01/23/can-the-pentagon-downsize-its-headquarters-staff/
 * http://www.washingtonpost.com/politics/female-veterans-battling-ptsd-from-sexual-trauma-fight-for-redress/2014/12/25/f2f22d8e-7b07-11e4-b821-503cc7efed9e_story.html
 * http://www.economist.com/news/books-and-arts/21638096-how-private-armies-will-remake-modern-warfare-return-hired-gun?fsrc=scn/tw/te/pe/ed/returnofthehiredgun
-* http://www.nytimes.com/2014/11/13/us/cuts-in-military-mean-job-losses-for-career-staff.html?_r=0
+* http://www.nytimes.com/2014/11/13/us/cuts-in-military-mean-job-losses-for-career-staff.html
 * http://www.telegraph.co.uk/news/worldnews/northamerica/usa/11319455/F-35-stealth-jet-will-not-be-able-to-fire-its-guns-until-2019.html
 * http://seattletimes.com/html/nationworld/2025004627_robotweaponsxml.html
-* http://www.nytimes.com/2014/11/16/books/review/knife-fights-by-john-a-nagl.html?_r=0
+* http://www.nytimes.com/2014/11/16/books/review/knife-fights-by-john-a-nagl.html
 * http://www.nytimes.com/2014/11/16/books/review/the-invisible-front-by-yochi-dreazen.html
 * http://www.buzzfeed.com/hayesbrown/just-four-groups-spread-most-of-the-worlds-terror-as-deaths
 * http://www.salon.com/2015/01/25/secrets_of_modern_mercenaries_inside_the_rise_of_private_armies/
@@ -190,7 +191,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.theguardian.com/world/2014/dec/11/-sp-isis-the-inside-story
 * https://wikileaks.org/cia-travel/
 * http://mobile.nytimes.com/2014/12/22/opinion/prosecute-torturers-and-their-bosses.html
-* http://mobile.nytimes.com/2014/12/26/us/politics/high-level-knowledge-before-veterans-affairs-scandal.html?_r=0
+* http://mobile.nytimes.com/2014/12/26/us/politics/high-level-knowledge-before-veterans-affairs-scandal.html
 * http://www.theatlantic.com/features/archive/2014/12/the-tragedy-of-the-american-military/383516/
 * http://www.laphamsquarterly.org/foreigners/enemy-aliens
 * http://www.nakedcapitalism.com/2015/05/cia-whistleblower-sentenced-to-42-months-based-on-metadata.html
@@ -245,7 +246,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://arstechnica.com/tech-policy/2014/10/high-paid-consultant-to-plead-guilty-in-chicago-red-light-camera-case/
 * http://arstechnica.com/business/2014/10/fed-up-us-cities-try-to-build-better-broadband/
 * http://www.eurekalert.org/pub_releases/2014-10/puww-wdf102814.php
-* http://www.nytimes.com/2014/10/29/us/lobbyists-bearing-gifts-pursue-attorneys-general.html?_r=0
+* http://www.nytimes.com/2014/10/29/us/lobbyists-bearing-gifts-pursue-attorneys-general.html
 * http://blogs.seattletimes.com/opinionnw/2014/11/14/yet-another-flashing-light-at-state-department-of-social-and-health-services/
 * http://seattletimes.com/html/editorials/2025020073_edit1351postelection14xml.html
 * http://www.chicagotribune.com/news/watchdog/redlight/ct-red-light-camera-safety-met-20141219-story.html#page=1
@@ -313,7 +314,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.newyorker.com/humor/borowitz-report/midterms-prediction-billionaires-retain-control-government
 * http://www.salon.com/2015/04/17/why_gwyneths_snap_challenge_bombed/
 * http://www.salon.com/2015/04/16/sean_hannity_gets_schooled_in_immigration_debate_people_wont_vote_for_a_candidate_who_will_deport_your_father/
-* http://www.nytimes.com/2015/03/26/business/trans-pacific-partnership-seen-as-door-for-foreign-suits-against-us.html?_r=0
+* http://www.nytimes.com/2015/03/26/business/trans-pacific-partnership-seen-as-door-for-foreign-suits-against-us.html
 * http://www.commondreams.org/views/2014/11/10/peasants-still-have-their-pitchforks
 * http://projects.aljazeera.com/2014/double-voters/index.html
 * http://boingboing.net/2014/10/31/secret-recording-of-corporate.html

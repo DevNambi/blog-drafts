@@ -564,6 +564,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.theatlantic.com/education/archive/2015/05/the-cost-of-an-adjunct/394091/?single_page=true
 * http://www.theguardian.com/commentisfree/2015/jun/22/adjunct-professor-earn-less-than-pet-sitter
 * http://www.npr.org/sections/money/2015/07/15/422590257/medicine-law-business-which-grad-students-borrow-the-most
+* http://blogs.lse.ac.uk/impactofsocialsciences/2013/12/11/how-academia-resembles-a-drug-gang/
 
 
 ### Administration

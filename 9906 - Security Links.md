@@ -117,6 +117,8 @@
 * http://www.wired.com/2015/01/security-predictions-2015/
 * http://www.forbes.com/sites/andygreenberg/2013/12/04/heres-the-letter-a-senator-sent-to-20-auto-makers-demanding-answers-on-car-hacking-threats/
 * http://blog.cryptographyengineering.com/2015/02/another-update-on-truecrypt-audit.html
+* http://mobile.nytimes.com/2015/07/26/business/dealbook/for-ransom-bitcoin-replaces-the-bag-of-bills.html
+* http://blog.erratasec.com/2015/07/infosecs-inability-to-quantify-risk.html
 
 <li><a href="http://www.nakedcapitalism.com/2014/01/target-neiman-marcus-credit-card-hacking-reveals-third-world-us-payment-systems.html" time_added="1389643640" tags="">Target, Neiman Marcus Credit Card Hacking Reveals Third-World US Payment Sy</a></li>
 <li><a href="http://lifehacker.com/5932501/strong-passwords-arent-enough-how-to-to-ensure-the-apple-and-amazon-exploit-never-happens-to-you" time_added="1348860569" tags="personal tech">Strong Passwords Aren't Enough: How to to Ensure the Apple and Amazon Explo</a></li>

@@ -25,6 +25,7 @@
 * http://www.macrobusiness.com.au/2015/07/shanghai-opens-crashes-3/
 * http://www.nakedcapitalism.com/2015/07/chinese-stock-market-rout-continues-trading-halted-in-over-half-of-listed-stocks.html
 * http://www.nytimes.com/2015/07/20/world/asia/in-china-a-supercity-rises-around-beijing.html
+* http://qz.com/456025/zombies-and-cannibals-the-horrors-of-chinas-financial-system-charted/
 
 
 ## Europe
