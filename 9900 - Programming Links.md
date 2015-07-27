@@ -75,6 +75,7 @@
 * http://nbviewer.ipython.org/url/norvig.com/ipython/Gesture%20Typing.ipynb <- this is brilliance in development
 * http://zachgoldberg.com/2015/07/15/the-commandments-of-good-code-according-to-zach/
 * http://usersnap.com/blog/developers-lessons-learned/
+* http://mcfunley.com/choose-boring-technology-slides
 
 
 
@@ -96,7 +97,7 @@
 * http://nautil.us/blog/why-our-genome-and-technology-are-both-riddled-with-crawling-horrors
 * http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-“spaghetti”-code
 * http://www.fastcompany.com/3047642/tech-forecast/do-the-simple-thing-first-the-engineering-behind-instagram
-
+* http://mcfunley.com/choose-boring-technology-slides
 
 
 

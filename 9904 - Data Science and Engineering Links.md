@@ -369,6 +369,7 @@
 * http://www.mbmlbook.com/toc.html
 * http://recode.net/2015/06/30/machine-learning-is-hard-google-photos-has-egregious-facial-recognition-error/
 * http://techblog.netflix.com/2015/07/tracking-down-villains-outlier.html
+* http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 
 "ML tip: train a model to distinguish between your training set & unlabeled data. If it works, your training data may be incomplete!" - Jake Vanderplas
 

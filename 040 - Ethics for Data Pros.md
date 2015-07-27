@@ -39,6 +39,7 @@ We believe we are working to make our society, our world, a better place. At the
 * http://gigaom.com/2014/02/22/data-privacy-machine-learning-and-the-destruction-of-mysterious-humanity/
 * http://www.cato-unbound.org/2015/04/06/alex-tabarrok-tyler-cowen/end-asymmetric-information
 * http://www.nakedcapitalism.com/2015/04/big-data-watching-work.html
+* http://arstechnica.com/gadgets/2015/07/musk-hawking-wozniak-call-for-ban-on-autonomous-weaponry-and-military-ai/ <- DON'T DO THIS.
 * http://www.marketsforgood.org/the-lake-washington-declaration/
 * http://www.infoworld.com/article/2687499/techology-business/silicon-valley-is-making-american-manufacturing-more-competitive.html
 * http://www.fastcompany.com/3048980/fast-feed/app-used-23andmes-dna-database-to-block-people-from-sites-based-on-race-and-gender
