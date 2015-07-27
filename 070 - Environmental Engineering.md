@@ -93,6 +93,7 @@ Emphasize what we don't know
 * http://www.independent.co.uk/environment/fracking-poses-significant-risk-to-humans-and-should-be-temporarily-banned-across-eu-says-new-report-10334080.html
 * http://www.theguardian.com/environment/climate-consensus-97-per-cent/2015/may/15/new-study-finds-a-hot-spot-in-the-atmosphere
 * http://arstechnica.com/science/2015/05/three-pennsylvania-wells-likely-contaminated-by-fracking/
+* http://www.californiacoastline.org/
 * http://www.slate.com/blogs/the_slatest/2015/07/20/sea_level_study_james_hansen_issues_dire_climate_warning.html
 * http://arstechnica.com/science/2015/05/how-we-cut-carbon-emissions-influences-our-health/
 * http://www.wfaa.com/story/news/local/tarrant-county/2015/06/16/arlington-officials-report-on-fracking-fluid-blowout/28844657/

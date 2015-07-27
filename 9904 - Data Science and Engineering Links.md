@@ -551,6 +551,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/
 * https://hbr.org/2015/05/data-scientists-dont-scale
 * http://thedataminimalist.com/post/123338121239/are-you-in-a-data-project-bottleneck-situation
+* http://blog.dominodatalab.com/pyspark-on-domino/
 
 ## Data Stacks, Engineering
 
@@ -702,3 +703,5 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://blog.dominodatalab.com/reflections-on-buy-vs-build/?hn=1
 * http://firstround.com/review/everything-we-wish-wed-known-about-building-data-products/
 * http://www.pindropsecurity.com/data-science-how-do-we-get-started-part-three/
+* http://divante.co/blog/big-data-solutions-tailored-fashion-industry/
+

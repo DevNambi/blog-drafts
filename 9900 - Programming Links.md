@@ -98,6 +98,7 @@
 * http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-“spaghetti”-code
 * http://www.fastcompany.com/3047642/tech-forecast/do-the-simple-thing-first-the-engineering-behind-instagram
 * http://mcfunley.com/choose-boring-technology-slides
+* http://engineering.quora.com/Moving-Fast-With-High-Code-Quality
 
 
 

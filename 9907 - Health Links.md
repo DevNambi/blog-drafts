@@ -79,6 +79,8 @@
 * http://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html
 * http://blog.dato.com//bringing-deep-learning-to-the-grocery-store
 * http://www.lift-heavy.com/intermittent-fasting/
+* http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2929771/ <- turmeric help
+
 
 
 <li><a href="http://offbeathome.com/2014/06/freezing-summers-bounty" time_added="1406322092" tags="">The ultimate guide to freezing summer's bounty</a></li>
@@ -206,6 +208,7 @@
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
 * http://stm.sciencemag.org/content/7/278/278ra33.full
 * https://vanwinkles.com/bedtime-for-benzodiazepines-addicted-drug-most-popular-sleeping-pills
+* http://www.wired.com/2015/07/mers-isnt-epidemic-makes-harder-find-cure/
 * http://www.scientificamerican.com/article/supercharged-tuberculosis-made-in-india1/
 * http://www.sciencealert.com/new-alzheimer-s-treatment-fully-restores-memory-function
 * http://www.nytimes.com/2015/07/12/health/modern-doctors-house-calls-skype-chat-and-fast-diagnosis.html
