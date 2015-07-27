@@ -151,6 +151,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.publicintegrity.org/2015/02/10/16735/lawyer-moved-halliburton-subsidiary-bribes-through-secret-swiss-hsbc-accounts
 * http://projects.wsj.com/lobotomyfiles/
 * http://www.nytimes.com/2014/12/27/us/politics/after-scrutiny-cia-mandate-is-untouched-.html
+* http://www.theguardian.com/world/2015/jul/22/china-cia-sheldon-adelson-macau-casinos
 * https://firstlook.org/theintercept/2014/12/19/senior-cia-officer-center-torture-scandals-alfreda-bikowsky/
 * http://mobile.nytimes.com/2015/03/18/world/asia/afghan-militia-leaders-empowered-by-us-to-fight-taliban-inspire-fear-in-villages.html <- generating the next generation of terrorists
 * http://www.businessinsider.com/the-uk-is-going-to-send-billions-in-arms-exports-to-countries-on-the-human-rights-blacklist-2015-3
