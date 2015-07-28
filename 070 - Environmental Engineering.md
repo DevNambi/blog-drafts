@@ -91,6 +91,7 @@ Emphasize what we don't know
 * http://www.nytimes.com/2015/07/06/us/california-drought-sends-us-water-agency-back-to-drawing-board.html?_r=0
 * http://www.newyorker.com/magazine/2015/05/25/the-disappearing-river
 * http://www.independent.co.uk/environment/fracking-poses-significant-risk-to-humans-and-should-be-temporarily-banned-across-eu-says-new-report-10334080.html
+* http://www.desertsun.com/story/news/environment/2015/07/23/review-nestle-water-permit-neglected-decades/30562241/
 * http://www.theguardian.com/environment/climate-consensus-97-per-cent/2015/may/15/new-study-finds-a-hot-spot-in-the-atmosphere
 * http://arstechnica.com/science/2015/05/three-pennsylvania-wells-likely-contaminated-by-fracking/
 * http://www.californiacoastline.org/

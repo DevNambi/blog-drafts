@@ -342,6 +342,9 @@
 * https://www.vice.com/read/driving-uber-as-an-iraqi-war-veteran
 * http://www.theatlantic.com/business/archive/2015/07/millennials-with-rich-parents/398501/?single_page=true
 * http://www.buzzfeed.com/jessicagarrison/the-new-american-slavery-invited-to-the-us-foreign-workers-f
+* http://www.nakedcapitalism.com/2015/07/gaius-publius-one-way-to-ease-the-worldwide-water-crisis-end-privatization.html
+* https://ukiahcommunityblog.wordpress.com/2015/07/23/living-in-switzerland-ruined-me-for-america-and-its-lousy-work-culture/
+* http://www.theguardian.com/world/2015/jul/28/hedge-funds-puerto-rico-close-schools-fire-teachers-pay-us-back
 
 
 

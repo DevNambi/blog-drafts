@@ -7,9 +7,11 @@
 * http://www.nytimes.com/interactive/2015/05/19/dining/summer-dinner-ideas.html <- AMAZING
 * http://www.truth-out.org/news/item/31193-four-decades-of-the-wrong-dietary-advice-has-paved-the-way-for-the-diabetes-epidemic-time-to-change-course
 * http://www.nature.com/news/the-rise-of-africa-s-super-vegetables-1.17712 
+* http://www.washingtonpost.com/news/wonkblog/wp/2015/07/28/why-the-most-popular-rule-of-weight-loss-is-completely-wrong/?tid=sm_fb
 * http://qz.com/433750/the-world-eats-cheap-bacon-at-the-expense-of-north-carolinas-rural-poor/
 * http://www.nerdfitness.com/blog/2015/06/15/11-most-common-workout-questions-answered/
 * http://www.seattletimes.com/life/food-drink/push-boundaries-of-flavor-by-cooking-with-tea/
+* http://www.bbc.com/news/magazine-33675975
 * http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0
 * http://arstechnica.com/tech-policy/2015/05/eu-dropped-plans-for-safer-pesticides-because-of-ttip-and-pressure-from-us/
 * http://www.nytimes.com/2015/04/25/opinion/sunday/how-i-got-converted-to-gmo-food.html?_r=0
