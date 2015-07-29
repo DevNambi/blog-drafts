@@ -36,6 +36,7 @@
 * http://arstechnica.com/tech-policy/2015/06/fake-mobile-phone-towers-discovered-in-london-stingrays-come-to-the-uk/
 * http://www.wsj.com/articles/moxie-marlinspike-the-coder-who-encrypted-your-texts-1436486274
 * https://emailselfdefense.fsf.org/en/
+* https://edri.org/microsofts-new-small-print-how-your-personal-data-abused/
 * http://www.antipope.org/charlie/blog-static/2015/05/thoughtcrime.html
 * http://newsoffice.mit.edu/2015/csail-report-government-access-data-major-security-risks-0707
 * https://modelviewculture.com/pieces/social-networking-as-peer-surveillance

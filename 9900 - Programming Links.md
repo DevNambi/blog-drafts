@@ -147,6 +147,7 @@
 * https://www.google.com/about/careers/students/guide-to-technical-development.html <- great
 * http://hackershelf.com/browse/?popular=1
 * http://newsoffice.mit.edu/2015/algorithm-genome-best-possible-0610
+* http://www.nytimes.com/2015/07/29/technology/code-academy-as-career-game-changer.html
 
 
 
@@ -531,6 +532,7 @@
 * http://cs-blog.khanacademy.org/2015/05/just-released-full-introductory-sql.html
 * http://www.brentozar.com/archive/2015/07/questions-to-ask-before-you-touch-a-database-server/
 * http://wp.sigmod.org/?p=1629
+* https://medium.com/s-c-a-l-e/database-guru-on-why-nosql-matters-and-sql-still-matters-c64239fe84fd
 
 <li><a href="http://t.co/ZA3MOe15" time_added="1357660034" tags="">mrdenny: Reading: http://t.co/ZA3MOe15 Selective XML Index - Secondary Sele</a></li>
 <li><a href="http://t.co/wHxcpOOC" time_added="1356371201" tags="">BrentOzarULTD: New post: sp_BlitzIndex™ Holiday Week Edition http://t.co/wH</a></li>
