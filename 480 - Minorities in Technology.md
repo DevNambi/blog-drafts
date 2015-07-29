@@ -37,6 +37,7 @@ http://thewireless.co.nz/articles/the-pencilsword-on-a-plate <- this is how priv
 * http://www.midnightdba.com/Jen/2015/04/the-real-secret-of-why-so-few-women-are-in-it/
 * http://www.theverge.com/2015/2/9/8004101/sexism-and-consequences-at-techcrunch-s-annual-award-show
 * https://medium.com/backchannel/techs-high-barrier-to-entry-for-the-underprivileged-da254356547d
+* http://mathbabe.org/2015/07/29/women-in-tech-pipeline-versus-retention/
 * http://fortune.com/2015/02/17/a-female-computer-science-major-at-stanford-floored-by-the-sexism/
 * http://gutsybroads.com/2015/02/investor-wanted-give-50000-heres-said-no/
 * http://www.psmag.com/health-and-behavior/women-arent-welcome-internet-72170
