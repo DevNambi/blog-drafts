@@ -52,6 +52,7 @@
 * http://thenextweb.com/insider/2015/05/17/adblockers-are-immoral-and-mobile-networks-should-know-better/
 * http://www.computerworld.com/article/2926775/security0/data-breach-costs-now-average-154-per-record.html
 * http://mobile.nytimes.com/2015/06/05/opinion/edward-snowden-the-world-says-no-to-surveillance.html?_r=0
+* https://theoverspill.wordpress.com/2015/07/30/the-adblocking-revolution-is-months-away-with-ios-9-with-trouble-for-advertisers-publishers-and-google/
 * https://www.mnot.net/blog/2015/07/20/snowden_meets_the_ietf
 * http://passcode.csmonitor.com/identity-trade
 * https://www.kickstarter.com/projects/augustgermar/anonabox-a-tor-hardware-router
