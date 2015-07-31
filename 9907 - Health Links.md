@@ -239,6 +239,7 @@
 * http://www.nytimes.com/2015/02/24/opinion/how-to-develop-new-antibiotics.html
 * http://arstechnica.com/science/2015/02/hospitals-that-track-their-performance-dont-improve-healthcare/
 * http://www.nytimes.com/2015/03/08/technology/on-the-case-at-mount-sinai-its-dr-data.html? <- my calling?
+* http://www.seattletimes.com/seattle-news/health/seattle-area-hospitals-get-low-marks-for-stopping-infections/
 * http://recode.net/2015/03/11/gates-foundations-new-ceo-why-we-can-eradicate-four-diseases-in-the-next-15-years/
 * http://www.theverge.com/2015/3/25/8288671/autism-causes-genetic-research-study-women
 * http://www.extremetech.com/extreme/199602-fda-authorizes-23andme-to-market-health-related-genetic-testing

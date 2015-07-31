@@ -258,6 +258,7 @@
 ## Subprime Cars
 
 * http://www.nakedcapitalism.com/2015/02/wolf-richter-subprime-pump-dump-frenzy-heats.html
+* http://www.seattletimes.com/nation-world/average-us-vehicle-age-hits-record-11-5-years/
 
 
 
@@ -345,6 +346,7 @@
 * http://www.nakedcapitalism.com/2015/07/gaius-publius-one-way-to-ease-the-worldwide-water-crisis-end-privatization.html
 * https://ukiahcommunityblog.wordpress.com/2015/07/23/living-in-switzerland-ruined-me-for-america-and-its-lousy-work-culture/
 * http://www.theguardian.com/world/2015/jul/28/hedge-funds-puerto-rico-close-schools-fire-teachers-pay-us-back
+* http://www.nakedcapitalism.com/2015/07/how-big-corporations-are-starving-public-schools-of-billions-of-dollars.html
 
 
 
