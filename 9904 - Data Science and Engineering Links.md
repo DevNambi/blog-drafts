@@ -261,6 +261,7 @@
 * http://efavdb.com/ranking-revisited/
 * http://phdp.github.io/posts/2015-07-13-srl-code.html
 * http://blog.hackerrank.com/the-risky-eclipse-of-statisticians/
+* https://www.quantamagazine.org/20150730-the-slippery-eel-of-probability/
 
 ## ML / AI
 
@@ -321,6 +322,7 @@
 * http://research.microsoft.com/pubs/192769/tricks-2012.pdf
 * http://arxiv.org/pdf/1503.01331v1.pdf
 * http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+* http://multithreaded.stitchfix.com/blog/2015/07/30/gam/
 * http://www.quora.com/What-are-the-advantages-of-different-classification-algorithms
 * http://blog.fractalanalytics.com/institutionalizing-analytics/online-machine-learning-2/
 * https://newsoffice.mit.edu/2015/better-machine-learning-kalyan-veeramachaneni-0224

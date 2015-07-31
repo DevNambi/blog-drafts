@@ -329,6 +329,7 @@
 * http://www.wired.com/2015/01/2015-diseases-borders/
 * http://www.theatlantic.com/health/archive/2015/01/the-new-antibiotics-might-be-essential-oils/384247/
 * http://www.newscientist.com/article/mg22730284.000-antibody-wipeout-relieves-symptoms-of-chronic-fatigue-syndrome.html <- chronic fatigue syndrome
+* http://www.bloomberg.com/news/articles/2015-07-30/warren-buffett-s-family-secretly-funded-a-birth-control-revolution
 
 
 

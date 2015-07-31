@@ -39,6 +39,7 @@
 * http://fivethirtyeight.com/features/putting-a-price-tag-on-the-stress-of-having-a-child/
 * http://www.theatlantic.com/health/archive/2015/04/millenials-not-having-babies/391721/
 * http://www.theatlantic.com/health/archive/2015/04/the-quantified-baby/389009/?single_page=true
+* http://www.nytimes.com/2015/07/31/upshot/millennial-men-find-work-and-family-hard-to-balance.html
 * http://www.seattletimes.com/pacific-nw-magazine/its-getting-tougher-to-be-a-parent-in-expensive-crowded-fast-paced-seattle/
 * http://minusbat.livejournal.com/180556.html
 * http://www.seattletimes.com/seattle-news/health/autism-could-be-linked-with-moms-diabetes-during-pregnancy/

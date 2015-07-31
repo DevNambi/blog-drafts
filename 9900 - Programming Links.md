@@ -445,6 +445,7 @@
 * http://www.slideshare.net/Bozho/scala-the-good-the-bad-and-the-very-ugly
 * http://yefremov.net/blog/debugging-scala-compiler-magic/
 * http://databricks.com/blog/2015/02/17/introducing-dataframes-in-spark-for-large-scale-data-science.html
+* https://databricks.com/blog/2015/07/30/diving-into-spark-streamings-execution-model.html
 
 
 
@@ -533,6 +534,7 @@
 * http://www.brentozar.com/archive/2015/07/questions-to-ask-before-you-touch-a-database-server/
 * http://wp.sigmod.org/?p=1629
 * https://medium.com/s-c-a-l-e/database-guru-on-why-nosql-matters-and-sql-still-matters-c64239fe84fd
+* http://www.pipelinedb.com/blog/making-postgres-bloom
 
 <li><a href="http://t.co/ZA3MOe15" time_added="1357660034" tags="">mrdenny: Reading: http://t.co/ZA3MOe15 Selective XML Index - Secondary Sele</a></li>
 <li><a href="http://t.co/wHxcpOOC" time_added="1356371201" tags="">BrentOzarULTD: New post: sp_BlitzIndex™ Holiday Week Edition http://t.co/wH</a></li>

@@ -35,6 +35,7 @@
 * http://www.technologyreview.com/news/538731/how-ads-follow-you-from-phone-to-desktop-to-tablet/
 * http://arstechnica.com/tech-policy/2015/06/fake-mobile-phone-towers-discovered-in-london-stingrays-come-to-the-uk/
 * http://www.wsj.com/articles/moxie-marlinspike-the-coder-who-encrypted-your-texts-1436486274
+* https://jonathan.porta.codes/2015/07/30/windows-10-seems-to-have-some-scary-privacy-defaults/
 * https://emailselfdefense.fsf.org/en/
 * https://edri.org/microsofts-new-small-print-how-your-personal-data-abused/
 * http://www.antipope.org/charlie/blog-static/2015/05/thoughtcrime.html
