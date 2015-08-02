@@ -106,6 +106,7 @@
 * http://www.nakedcapitalism.com/2015/07/bank-it-grexit-and-systemic-risk.html
 * http://www.nakedcapitalism.com/2015/07/the-coming-greek-bank-nationalization-bail-in-and-privatization.html
 * http://www.nakedcapitalism.com/2015/07/once-again-on-the-it-challenges-in-converting-to-the-drachma.html
+* http://www.nakedcapitalism.com/2015/08/the-challenges-of-the-greek-crisis.html
 
 
 
