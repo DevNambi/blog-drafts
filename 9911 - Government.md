@@ -62,6 +62,7 @@
 * http://www.zdnet.com/article/department-of-homeland-security-oversight-report-dhs-is-a-terrifying-failure/
 * http://www.nytimes.com/2015/01/20/dining/animal-welfare-at-risk-in-experiments-for-meat-industry.html
 * http://www.slate.com/articles/health_and_science/new_scientist/2015/01/mass_surveillance_against_terrorism_gathering_intelligence_on_all_is_statistically.html?wpsrc=fol_tw
+* http://www.buzzfeed.com/jessicagarrison/the-new-american-slavery-invited-to-the-us-foreign-workers-f
 
 
 <li><a href="https://firstlook.org/theintercept/2014/02/14/ongoing-abuse-state-secrets-privilege/" time_added="1392591442" tags="">Obama DOJ's New Abuse of State-Secrets Privilege Revealed - The Intercept</a></li>
