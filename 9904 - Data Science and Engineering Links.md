@@ -384,10 +384,11 @@
 * http://www.wired.com/2014/10/future-of-artificial-intelligence/
 * http://www.wired.com/2015/07/trained-googles-chatbot-mein-kampf/
 
-#### Agent Systems
+#### Agent Systems and Networks
 
 * http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14604.html
 * https://github.com/projectmesa/mesa
+* http://www.wired.com/2015/08/new-laws-explain-fast-growing-networks-break/
 
 #### R
 

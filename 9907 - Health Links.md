@@ -544,6 +544,7 @@
 * http://www.nakedcapitalism.com/2015/07/health-insurance-prices-take-off-worker-pay-stagnant.html
 * http://ac360.blogs.cnn.com/2013/02/20/tonight-on-ac360-the-extraordinary-cost-of-getting-sick-in-america/
 * http://www.propublica.org/article/a-pharma-payment-a-day-keeps-docs-finances-ok
+* http://www.nytimes.com/2015/08/03/us/health-providers-brace-for-more-cuts-to-medicare-in-puerto-rico.html
 
 <li><a href="http://t.co/IG6Jdn4S" time_added="1357788683" tags="">lazowska: NY Times: US is an outlier in relying on the private sector to fu</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/11/another-lurking-obamacare-problem-balance-billing.html" time_added="1384907393" tags="corruption,finance,health,important,to_read">Another Lurking Obamacare Problem: Balance Billing « naked capitalism</a></li>
