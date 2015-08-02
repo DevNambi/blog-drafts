@@ -12,6 +12,7 @@
 * http://www.thedenverchannel.com/news/u-s-world/cell-phone-video-chandler-officer-illegally-enters-womans-home-arrests-her-while-she-is-naked <- had his body camera off
 * http://www.theguardian.com/us-news/2015/jul/15/jonathan-sanders-mississppi-chokehold
 * http://www.latimes.com/local/lanow/la-me-ln-federal-judge-orders-release-of-videos-20150714-story.html
+* http://www.seattletimes.com/seattle-news/prison-sex-abuse-cases-grow-but-prosecutions-are-rare/
 * http://mathbabe.org/2015/07/08/what-are-prisons-for/
 * http://www.seattletimes.com/seattle-news/politics/police-reform-monitor-asks-harrell-to-wait-on-legislation/
 * http://boingboing.net/2015/07/06/michigan-cop-charges-black-gra.html
