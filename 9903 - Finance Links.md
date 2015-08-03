@@ -147,6 +147,7 @@
 * http://www.nakedcapitalism.com/2015/04/bill-black-super-crunchers-became-super-torturers-finance-data.html
 * http://www.nytimes.com/2015/04/16/upshot/big-money-from-super-pacs-is-eroding-the-power-of-parties.html?abt=0002&abg=0
 * http://www.nakedcapitalism.com/2015/03/fed-impedes-gao-audits-destroying-source-documents.html
+* http://www.nakedcapitalism.com/2015/08/another-private-equity-scam-tax-receivable-agreements.html
 * http://www.bloomberg.com/news/articles/2015-04-23/negative-interest-rates-may-spark-existential-crisis-for-cash
 * http://www.nakedcapitalism.com/2015/07/sacramento-bee-reports-on-calpers-fee-lapses.html
 * http://www.commondreams.org/news/2015/04/24/big-bank-crime-century-results-guess-what-no-jail-time-anyone

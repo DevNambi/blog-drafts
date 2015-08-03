@@ -319,6 +319,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.salon.com/2015/04/16/sean_hannity_gets_schooled_in_immigration_debate_people_wont_vote_for_a_candidate_who_will_deport_your_father/
 * http://www.nytimes.com/2015/03/26/business/trans-pacific-partnership-seen-as-door-for-foreign-suits-against-us.html
 * http://www.commondreams.org/views/2014/11/10/peasants-still-have-their-pitchforks
+* http://www.huffingtonpost.com/eric-zuesse/jimmy-carter-is-correct-t_b_7922788.html
 * http://projects.aljazeera.com/2014/double-voters/index.html
 * http://boingboing.net/2014/10/31/secret-recording-of-corporate.html
 * http://mobile.nytimes.com/2014/11/08/opinion/pregnant-and-no-civil-rights.html

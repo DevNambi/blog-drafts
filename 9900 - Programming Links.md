@@ -242,6 +242,7 @@
 * https://localizejs.com/blog/startup/developer-productivity-saying-no
 * https://unwiredcouch.com/2015/05/04/project-management.html
 * http://www.infoq.com/news/2015/06/Steve-Smith-Continuous-Delivery
+* http://simpleprogrammer.com/2015/08/03/7-things-your-boss-doesnt-understand-about-software-development/
 
 
 
@@ -367,6 +368,8 @@
 * https://laur.ie/blog/2015/06/ssds-a-gift-and-a-curse/
 * http://www.allthingsdistributed.com/2015/07/under-the-hood-of-the-amazon-ec2-container-service.html
 * http://googlecloudplatform.blogspot.com/2015/07/Kubernetes-V1-Released.html
+* http://blog.takipi.com/amazon-ec2-2015-benchmark-testing-speeds-between-aws-ec2-and-s3-regions/
+
 
 
 
@@ -390,6 +393,9 @@
 * http://www.technologyreview.com/review/536356/toolkits-for-the-mind/
 * http://www.codersnotes.com/notes/the-death-of-the-von-neumann-architecture
 * http://mtov.github.io/github-popularity-growth-patterns/
+* http://playfulprogramming.blogspot.com/2015/08/cache-optimizing-priority-queue.html
+* http://adriansampson.net/blog/llvm.html
+
 
 
 
