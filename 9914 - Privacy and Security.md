@@ -24,6 +24,7 @@
 * http://techcrunch.com/2015/06/06/the-online-privacy-lie-is-unraveling/ <- critically important
 * http://www.wired.com/2015/07/online-anonymity-box-puts-mile-away-ip-address/
 * http://www.marketingweek.com/2015/07/08/consumers-are-dirtying-databases-with-false-details/?nocache=true&adfesuccess=1
+* http://www.mondaynote.com/2015/08/03/what-the-ad-blocker-debate-reveals/
 * http://m.thenation.com/article/208593-you-can-be-prosecuted-clearing-your-browser-history
 * https://bananas.liberty.me/youre-a-criminal-in-a-mass-surveillance-world-how-to-not-get-caught/ <- critically important
 * https://medium.com/message/the-hypocrisy-of-the-internet-journalist-587d33f6279e

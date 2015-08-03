@@ -134,6 +134,7 @@
 * http://nbviewer.ipython.org/github/mwaskom/seaborn/blob/master/examples/plotting_distributions.ipynb
 * http://mbtaviz.github.io/ <- amazing example
 * https://www.mapbox.com/blog/stickshift/ <- seems incredibly useful
+* https://www.washingtonpost.com/graphics/national/power-plants/
 
 #### D3 and related
 
@@ -616,6 +617,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://www.slideshare.net/SarahGuido/data-science-at-scale-using-apache-spark-for-data-science-at-bitly
 * http://www.slideshare.net/deanwampler/spark-the-next-top-compute-model-39976454
 * http://databricks.com/blog/2015/01/07/ml-pipelines-a-new-high-level-api-for-mllib.html
+* http://db-engines.com/en/ranking
 * http://citusdata.com/blog/90-sql-scaling-and-whats-unique-about-postgres
 * http://blog.rescale.com/the-real-cost-of-high-performance-computing/
 * http://blog.amplitude.com/2015/03/27/why-we-chose-redshift/

@@ -123,6 +123,7 @@ ortant,personal tech">Kill the Password: Why a String of Characters Can't Protec
 * https://www.jitbit.com/alexblog/245-huge-metric-that-google-analytics-will-never-show/
 * http://cactusformac.com/
 * http://queue.acm.org/detail.cfm?id=2721993
+* http://jacquesmattheij.com/the-fastest-blog-in-the-world
 
 
 
