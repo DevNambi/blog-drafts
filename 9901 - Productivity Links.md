@@ -102,7 +102,7 @@
 
 
 
-
+@arnicas Serious work hack: if you can’t concentrate and are WFH, you can burn rosemary oil and it will really help focus. Studies say it & so do I.
 
 
 
