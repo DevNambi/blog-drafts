@@ -9,6 +9,7 @@
 * http://arstechnica.com/science/2014/10/why-chinas-economic-growth-hasnt-been-getting-cleaner/
 * http://mobile.nytimes.com/2014/10/19/world/asia/hong-kong-officials-offer-fresh-talks-with-protesters-.html
 * http://www.nytimes.com/2015/06/11/opinion/chinas-troubling-robot-revolution.html
+* http://www.bbc.com/news/business-33754851
 * http://seattletimes.com/html/nationworld/2024816652_factoryfirexml.html
 * http://www.nytimes.com/2014/10/27/technology/using-cash-and-pressure-china-builds-its-chip-industry.html
 * http://www.nakedcapitalism.com/2014/12/michael-pettis-china-really-turning-away-dollar.html
@@ -118,6 +119,7 @@
 * http://www.theguardian.com/business/2015/jul/11/beyond-greece-world-filled-debt-crises
 * http://jubileedebt.org.uk/wp-content/uploads/2015/07/The-new-debt-trap_07.15.pdf
 * http://www.nytimes.com/2015/07/20/world/middleeast/murder-at-sea-captured-on-video-but-killers-go-free.html
+* http://wolfstreet.com/2015/07/30/canadas-highly-touted-conservative-mortgage-standards-sink-into-liar-loan-scandal/
 
 
 ## Bank & Regulatory Corruption

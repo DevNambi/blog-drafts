@@ -4,6 +4,7 @@
 * http://www.bloomberg.com/news/2014-10-02/jpmorgan-says-data-breach-affected-76-million-households.html
 * http://www.wired.com/2015/06/united-flights-grounded-mysterious-problem/
 * https://ma.ttias.be/remote-code-execution-via-http-request-in-iis-on-windows/
+* http://www.zdnet.com/article/chryslers-response-to-car-hack-was-slow-and-incredibly-stupid/
 * http://arstechnica.com/security/2015/06/new-remote-exploit-leaves-most-macs-vulnerable-to-permanent-backdooring/
 * http://blog.cryptographyengineering.com/2015/04/truecrypt-report.html
 * http://www.crosswordunclued.com/2015/06/parallels-between-cryptanalysis-and.html
