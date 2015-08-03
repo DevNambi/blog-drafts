@@ -262,6 +262,9 @@
 * http://phdp.github.io/posts/2015-07-13-srl-code.html
 * http://blog.hackerrank.com/the-risky-eclipse-of-statisticians/
 * https://www.quantamagazine.org/20150730-the-slippery-eel-of-probability/
+* https://pymc-devs.github.io/pymc3/
+* https://github.com/pymc-devs/pymc3/tree/master/pymc3/examples
+* http://nbviewer.ipython.org/github/twiecki/pymc3_talk/blob/master/bayesian_pymc3.ipynb
 
 ## ML / AI
 
@@ -430,6 +433,8 @@
 * http://nbviewer.ipython.org/github/sgsinclair/alta/blob/master/ipynb/DocumentSimilarity.ipynb
 * http://fotiad.is/blog/sentiment-analysis-comparison/
 * http://engineering.intenthq.com/2015/02/automatic-topic-modelling-with-lda/
+* http://stats.stackexchange.com/questions/104771/latent-dirichlet-allocation-in-pymc
+* https://github.com/napsternxg/ipython-notebooks/blob/master/PyMC_LDA.ipynb
 
 #### Image Processing
 
