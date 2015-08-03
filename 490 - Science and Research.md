@@ -7,6 +7,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://www.theguardian.com/uk-news/2015/jun/23/stop-defending-tim-hunt-brian-cox-richard-dawkins <- there's a terrible place to take this
 * http://www.americanscientist.org/issues/feature/2014/6/the-statistical-crisis-in-science/99999
 * https://liorpachter.wordpress.com/2015/07/10/the-myths-of-bioinformatics-software/
+* http://swcarpentry.github.io/slideshows/best-practices/index.html
 * http://www.fiercebiotech.com/story/who-really-controls-revolutionary-new-crispr-cas9-technology/2014-12-05
 * http://www.scientificamerican.com/article/scientists-perturbed-by-loss-of-stat-tool-to-sift-research-fudge-from-fact/
 * http://www.civilbeat.com/2015/04/mauna-kea-is-a-special-place-in-humanitys-quest-for-knowledge/
