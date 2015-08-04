@@ -337,3 +337,6 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.washingtonpost.com/blogs/plum-line/wp/2015/07/07/morning-plum-voting-access-sucks-throughout-the-south-new-report-finds/
 * http://www.theatlantic.com/business/archive/2015/07/crowd-hiring-politics-campaign-2016/399002/
 * http://www.nytimes.com/2015/07/29/magazine/voting-rights-act-dream-undone.html?_r=0
+
+
+If the United States is an aristocracy/oligarchy, then its citizens do not owe their country any loyalty. A government that does not represent its citizens (not a democracy) cannot expect the loyalty of its citizens. 
