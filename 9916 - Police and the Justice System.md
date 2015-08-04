@@ -52,6 +52,7 @@
 * http://priceonomics.com/americas-peculiar-bail-system/
 * http://www.nytimes.com/2015/05/05/us/negative-view-of-us-race-relations-grows-poll-finds.html
 * http://www.seattletimes.com/seattle-news/family-military-tactics-by-cops-led-to-killing/
+* http://www.bloomberg.com/graphics/2015-doug-williams-war-on-lie-detector/
 * http://www.seattletimes.com/nation-world/records-thousands-too-injured-to-enter-baltimore-jail/
 * http://thinkprogress.org/justice/2015/05/29/3664008/cop-caught-video-telling-black-teen-fuck-im-going-break-legs/
 * http://southsideweekly.com/if-it-bleeds-it-leads/

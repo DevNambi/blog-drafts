@@ -12,6 +12,7 @@
 * https://pando.com/2015/07/03/holacracy-dunces/e5d42015bc13e7597bcb8936efb287511aab5cfd/
 * http://zachholman.com/posts/0x-engineers/
 * http://blog.karma.wiki/post/116870055382/the-curious-case-of-artem-andreenko
+* http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/
 * https://hbr.org/2013/12/how-google-sold-its-engineers-on-management/ar/1
 * https://hbr.org/2015/04/heres-how-managers-can-be-replaced-by-software <- AWESOME. Payback is divine.
 * https://hbr.org/2014/11/the-hard-data-on-being-a-nice-boss
