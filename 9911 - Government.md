@@ -7,6 +7,7 @@
 
 
 * http://www.dailydot.com/politics/jeremy-hammond-terrorist-watchlist-fbi/
+* https://firstlook.org/theintercept/2015/08/03/political-staff-overruled-purists-state-department-tallied-countries-slavery-problems/
 * http://www.politico.com/story/2015/07/longer-airport-lines-likely-as-tsa-tries-to-plug-security-holes-120117.html?hp=t4_r
 * http://www.nytimes.com/2015/06/15/opinion/paul-krugman-democrats-being-democrats.html
 * http://www.theatlantic.com/politics/archive/2015/04/loving-v-marriage/391730/
@@ -336,7 +337,8 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://mobile.nytimes.com/2015/05/12/us/politics/as-middle-class-fades-so-does-use-of-term-on-campaign-trail.html
 * http://www.washingtonpost.com/blogs/plum-line/wp/2015/07/07/morning-plum-voting-access-sucks-throughout-the-south-new-report-finds/
 * http://www.theatlantic.com/business/archive/2015/07/crowd-hiring-politics-campaign-2016/399002/
-* http://www.nytimes.com/2015/07/29/magazine/voting-rights-act-dream-undone.html?_r=0
+* http://www.nytimes.com/2015/07/29/magazine/voting-rights-act-dream-undone.html
+* http://thehill.com/blogs/blog-briefing-room/250141-trump-harvard-students-fraudsters-and-liars
 
 
 If the United States is an aristocracy/oligarchy, then its citizens do not owe their country any loyalty. A government that does not represent its citizens (not a democracy) cannot expect the loyalty of its citizens. 

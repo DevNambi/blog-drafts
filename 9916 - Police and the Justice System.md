@@ -28,12 +28,14 @@
 * http://www.nytimes.com/2015/05/06/us/police-struggle-with-loss-of-privileged-position.html
 * http://www.seattletimes.com/seattle-news/crime/video-from-bus-drivers-body-camera-could-cost-2-deputies-their-jobs/
 * http://www.wbez.org/news/city-fires-investigator-who-found-cops-fault-shootings-112423
+* http://www.ocregister.com/articles/police-675722-officers-video.html
 * http://www.seattletimes.com/seattle-news/mayor-at-odds-with-civilian-panel-over-its-power-in-forming-police-policies/
 * http://www.theatlantic.com/national/archive/2015/05/the-texas-biker-shootout-is-too-much-for-waco-to-handle/393689/
 * http://arstechnica.com/tech-policy/2015/06/lapd-officer-convicted-in-videotaped-beating-of-handcuffed-suspect/
 * http://mobile.nytimes.com/2015/05/19/us/politics/obama-to-limit-military-style-equipment-for-police-forces.html?_r=0
 * http://www.seattletimes.com/seattle-news/northwest/tacoma-ice-center-faces-new-criticism-over-alleged-beating/
 * http://fusion.net/story/173234/native-american-activist-rexdale-henry-found-dead-jail/
+* http://www.alternet.org/civil-liberties/alabama-police-officer-kept-his-job-after-proposal-murder-black-man-and-hide
 * http://mashable.com/2015/06/07/texas-cop-video/
 * http://www.nytimes.com/2015/05/07/us/mayor-stephanie-rawlings-blake-asks-justice-department-to-review-baltmore-police.html
 * http://arstechnica.com/tech-policy/2015/05/cops-must-now-get-a-warrant-to-use-stingrays-in-washington-state/

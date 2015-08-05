@@ -553,8 +553,11 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 <li><a href="http://t.co/4r4kg9Se" time_added="1355764588" tags="big data">BigDataClub: Top CEOs Share how Big Data Is Transforming Our Health, Wealth</a></li>
 <li><a href="http://t.co/ZwccJAoT" time_added="1355541207" tags="academia,big data,data science,hn">sqlbelle: Top story: Organizational Imperatives in the Era of Big Data - Ja</a></li>
 <li><a href="http://www.slideshare.net/pskomoroch/developing-data-products" time_added="1358378840" tags="data science">Developing Data Products</a></li>
+
 "So you're telling me that the most highly paid people in an organisation can only process information as complex as a traffic light?" - @ballantine70
+
 Promising #bigdata decency heuristic from @timoreilly : can worker see the data (and therefore get agency from it)? #SparkSummit
+
 * http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype
 * http://www.technologyreview.com/news/535041/automating-the-data-scientists/
 * http://www.21stclub.com/blog/2015/4/22/can-analytics-help-a-last-placed-team-avoid-relegation
@@ -562,6 +565,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://hbr.org/2015/05/data-scientists-dont-scale
 * http://thedataminimalist.com/post/123338121239/are-you-in-a-data-project-bottleneck-situation
 * http://blog.dominodatalab.com/pyspark-on-domino/
+* http://sloanreview.mit.edu/article/why-managing-data-scientists-is-different/
 
 ## Data Stacks, Engineering
 
