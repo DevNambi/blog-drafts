@@ -120,6 +120,7 @@
 * http://niki.zone/personal/my-first-job-burnout/
 * http://www.theatlantic.com/entertainment/archive/2015/06/hbo-silicon-valley-season-2-finale/395750/
 * http://gizmodo.com/31-flavors-of-bullshit-your-horror-stories-of-working-1714986653
+* http://blog.sfgate.com/morford/2015/08/04/attention-teen-dropouts-sf-is-lying/
 
 
 ## Misc
