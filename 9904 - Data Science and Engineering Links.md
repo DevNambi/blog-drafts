@@ -377,6 +377,8 @@
 * http://techblog.netflix.com/2015/07/tracking-down-villains-outlier.html
 * http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 * http://research.microsoft.com/apps/pubs/default.aspx?id=115396
+* http://nautil.us/issue/27/dark-matter/artificial-intelligence-is-already-weirdly-inhuman
+* http://techcrunch.com/2015/08/02/machine-learning-and-human-bias-an-uneasy-pair/
 
 "ML tip: train a model to distinguish between your training set & unlabeled data. If it works, your training data may be incomplete!" - Jake Vanderplas
 

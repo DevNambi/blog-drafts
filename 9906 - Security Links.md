@@ -6,6 +6,7 @@
 * https://ma.ttias.be/remote-code-execution-via-http-request-in-iis-on-windows/
 * http://www.zdnet.com/article/chryslers-response-to-car-hack-was-slow-and-incredibly-stupid/
 * http://arstechnica.com/security/2015/06/new-remote-exploit-leaves-most-macs-vulnerable-to-permanent-backdooring/
+* http://www.bloomberg.com/news/articles/2015-04-23/silicon-valley-s-help-sought-as-pentagon-fights-cyber-attacks
 * http://blog.cryptographyengineering.com/2015/04/truecrypt-report.html
 * http://www.crosswordunclued.com/2015/06/parallels-between-cryptanalysis-and.html
 * http://www.wired.com/2015/07/massive-opm-hack-actually-affected-25-million/
@@ -13,6 +14,7 @@
 * http://www.bbc.com/news/technology-33802344
 * http://techcrunch.com/2015/07/13/development-of-a-200-wifi-router-geared-towards-whistleblowers-was-just-suspiciously-cancelled/
 * http://arstechnica.com/security/2015/06/encryption-would-not-have-helped-at-opm-says-dhs-official/
+* http://arstechnica.com/gadgets/2015/08/waiting-for-androids-inevitable-security-armageddon/
 * https://www.insidehighered.com/news/2015/07/06/pennsylvania-state-u-cyberattacks-possibly-part-larger-trend-experts-say
 * https://blog.lastpass.com/2015/06/lastpass-security-notice.html/
 * http://20committee.com/2015/06/08/hacking-as-offensive-counterintelligence/
