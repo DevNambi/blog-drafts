@@ -687,6 +687,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://www.bbc.com/earth/story/20150415-apes-reveal-sleep-secrets
 * http://www.seattletimes.com/seattle-news/health/snooze-away-adults-need-7-hours-of-sleep-a-night-new-guidelines-say/
 * http://www.newyorker.com/science/maria-konnikova/why-we-sleep
+* http://www.cdc.gov/features/dssleep/
 
 
 <li><a href="http://www.bbc.co.uk/news/health-21572686" time_added="1361898585" tags="health,hn,important">BBC News - Bad sleep 'dramatically' alters body</a></li>

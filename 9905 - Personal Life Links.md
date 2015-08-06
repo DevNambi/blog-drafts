@@ -34,6 +34,7 @@
 ## Parenting
 
 * http://www.nytimes.com/2015/02/01/opinion/sunday/the-only-baby-book-youll-ever-need.html
+* http://qz.com/470751/your-brain-is-particularly-vulnerable-to-trauma-at-two-distinct-ages/
 * http://www.motherjones.com/politics/2015/05/schools-behavior-discipline-collaborative-proactive-solutions-ross-greene
 * http://well.blogs.nytimes.com/2015/07/06/screen-addiction-is-taking-a-toll-on-children/
 * http://fivethirtyeight.com/features/putting-a-price-tag-on-the-stress-of-having-a-child/

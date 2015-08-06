@@ -352,6 +352,7 @@
 * https://ukiahcommunityblog.wordpress.com/2015/07/23/living-in-switzerland-ruined-me-for-america-and-its-lousy-work-culture/
 * http://www.theguardian.com/world/2015/jul/28/hedge-funds-puerto-rico-close-schools-fire-teachers-pay-us-back
 * http://www.nakedcapitalism.com/2015/07/how-big-corporations-are-starving-public-schools-of-billions-of-dollars.html
+* http://motherboard.vice.com/en_ca/read/new-trans-pacific-partnership-leak-means-significant-overhaul-for-canadian-law
 
 
 

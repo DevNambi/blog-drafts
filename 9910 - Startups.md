@@ -19,6 +19,8 @@
 * http://fusion.net/story/102544/venture-capital-has-a-self-dealing-problem/
 * http://www.nytimes.com/2015/05/23/technology/overvalued-in-silicon-valley-but-not-the-word-that-must-not-be-uttered.html
 * http://thehustle.co/the-linkedin-hack-that-made-me-120000
+* http://time.com/3984957/independent-contractor-versus-employee-startups/
+* http://recode.net/2015/08/05/yes-uber-lost-a-lot-of-money-and-it-will-lose-more/
 
 
 
@@ -48,6 +50,7 @@
 * http://andrewchen.co/why-investors-dont-fund-dating/
 * http://qz.com/411330/the-mystery-of-the-power-bank-phone-taking-over-ghana/
 * http://www.wired.com/2015/07/tech-upended-banks-stock-trading-insurance-next/
+* http://jacquesmattheij.com/retention-is-the-key
 
 
 
