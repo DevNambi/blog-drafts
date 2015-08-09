@@ -71,6 +71,7 @@
 * http://www.seattletimes.com/education-lab/stunning-surge-in-graduation-rate-as-rainier-beach-gamble-pays-off/
 * http://www.nytimes.com/2015/04/26/sunday-review/push-dont-crush-the-students.html
 * http://www.seattletimes.com/education-lab/seattle-sets-high-bar-for-substitutes-by-requiring-teaching-license/
+* http://mobile.nytimes.com/2015/08/10/us/teacher-shortages-spur-a-nationwide-hiring-scramble-credentials-optional.html
 * http://www.chinasmack.com/2015/stories/thousands-mourn-death-of-chinese-high-school-principal.html
 * http://www.nytimes.com/2015/07/09/nyregion/principal-to-be-fired-over-investigation-into-grade-fixing-at-a-brooklyn-school.html
 * http://bits.blogs.nytimes.com/2015/03/17/pearson-under-fire-for-monitoring-students-twitter-posts/
