@@ -51,6 +51,8 @@ Let's assume that all software projects are the same size/cost/risk (eliminate #
 We need data for this problem. Let's pretend we have a software team with 75 customers of equal size, and each customer asks for 30 different features of equal importance. There's a lot of overlap between customer requests. We can answer 80% of the requests by building only 20% of the features [the famous 80/20 rule](http://betterexplained.com/articles/understanding-the-pareto-principle-the-8020-rule/).
 
 
+https://www.reddit.com/r/talesfromtechsupport/comments/39akcw/want_to_live_forever_hire_a_project_manager_to/
+
 **Distinct Requests**
 75 customers X 30 features = 2250 requests total
 450 requests are actually 20% of the requests that can satisfy 80% of the work.

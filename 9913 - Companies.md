@@ -42,6 +42,7 @@
 * http://recode.net/2015/01/13/how-amazon-tricks-you-into-thinking-it-always-has-the-lowest-prices/
 * http://www.bloomberg.com/news/articles/2015-04-23/amazon-finally-discloses-cloud-services-sales-showing-49-jump
 * http://arstechnica.com/gadgets/2015/05/google-temporarily-shuts-down-map-maker-due-to-vandalism/
+* https://michaelochurch.wordpress.com/2015/08/08/employees-at-google-yahoo-and-amazon-lose-nothing-if-they-unionize-heres-why/
 
 
 
@@ -73,6 +74,7 @@
 * http://time.com/3647800/facebook-apologizes-year-review-post-pain/
 * http://www.wired.com/2015/03/robber-barons-loved-facebooks-employee-housing/
 * http://www.slate.com/articles/technology/technology/2015/07/freebooting_stolen_youtube_videos_going_viral_on_facebook.html
+* https://michaelochurch.wordpress.com/2015/08/08/employees-at-google-yahoo-and-amazon-lose-nothing-if-they-unionize-heres-why/
 
 
 ## Apple
@@ -89,6 +91,7 @@
 * http://www.bloomberg.com/news/articles/2015-05-19/iowa-spent-50-million-to-lure-ibm-then-the-firings-started
 * http://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/
 * http://www.quora.com/Why-did-Borland-fail/answer/Danny-Thorpe?share=1&
+* https://michaelochurch.wordpress.com/2015/08/08/employees-at-google-yahoo-and-amazon-lose-nothing-if-they-unionize-heres-why/
 
 
 
@@ -98,6 +101,7 @@
 
 * http://www.bloomberg.com/news/articles/2015-02-04/why-nadella-s-second-year-as-microsoft-ceo-will-be-a-lot-harder
 * http://www.seattletimes.com/business/microsoft/microsoft-pair-claim-hostess-bar-expense-queries-led-to-firing/
+* https://michaelochurch.wordpress.com/2015/08/08/employees-at-google-yahoo-and-amazon-lose-nothing-if-they-unionize-heres-why/
 
 
 

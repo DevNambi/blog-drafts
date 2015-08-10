@@ -84,7 +84,7 @@
 
 @dhh: “Coding isn’t the poor handmaiden of design or analysis. Coding is where your fuzzy ideas awaken in the harsh dawn of reality”
 
-### Complexity, Code Reviews
+### Complexity, Code Reviews, Technical Debt
 
 * http://www.theeffectiveengineer.com/blog/hidden-costs-that-engineers-ignore
 * http://www.drmaciver.com/2013/03/what-the-fuck-are-we-doing/
@@ -99,6 +99,7 @@
 * http://www.fastcompany.com/3047642/tech-forecast/do-the-simple-thing-first-the-engineering-behind-instagram
 * http://mcfunley.com/choose-boring-technology-slides
 * http://engineering.quora.com/Moving-Fast-With-High-Code-Quality
+* http://blog.gardeviance.org/2015/08/is-there-trouble-brewing-in-land-of.html
 
 
 
@@ -176,6 +177,7 @@
 * http://techcrunch.com/2015/06/10/indian-programmer-exposes-code-injection-gets-a-cease-and-desist-from-the-injectors/
 * https://medium.com/@leeb/why-invest-in-tools-3240ce289930
 * https://medium.com/@johnslegers/the-decline-of-stack-overflow-7cb69faa575d
+* http://aeon.co/magazine/technology/how-yuppies-hacked-the-original-hacker-ethos/
 
 
 
