@@ -183,6 +183,7 @@
 * http://arstechnica.com/security/2014/11/disconnects-new-app-pulls-the-plug-on-supercookies-other-tracking/
 * http://www.computerworld.com/article/2849263/doxxing-defense-remove-your-personal-info-from-data-brokers.html
 * https://www.eff.org/deeplinks/2015/07/xkeyscore-expose-reaffirms-need-rid-web-tracking-cookies
+* http://www.marco.org/2015/08/11/ad-blocking-ethics
 
 #### Other Notes
 
