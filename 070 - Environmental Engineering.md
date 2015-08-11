@@ -123,6 +123,7 @@ Emphasize what we don't know
 * http://www.rollingstone.com/politics/news/the-pentagon-climate-change-how-climate-deniers-put-national-security-at-risk-20150212
 * http://www.desertsun.com/story/news/2015/03/05/bottling-water-california-drought/24389417/
 * http://arstechnica.com/science/2015/03/recycling-in-the-us-an-off-again-on-again-love-affair/
+* http://arstechnica.com/science/2015/08/doe-wind-power-2014-report-finds-its-dropping-dramatically-in-cost/
 * http://www.nytimes.com/2015/01/29/science/new-report-urges-western-governments-to-reconsider-reliance-on-biofuels.html?_r=0
 * http://seattletimes.com/html/nationworld/2025688459_apxsciworsedroughts.html
 * http://www.bbc.com/news/magazine-30583512

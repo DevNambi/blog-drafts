@@ -43,6 +43,7 @@
 * http://www.bloomberg.com/news/articles/2015-04-23/amazon-finally-discloses-cloud-services-sales-showing-49-jump
 * http://arstechnica.com/gadgets/2015/05/google-temporarily-shuts-down-map-maker-due-to-vandalism/
 * https://michaelochurch.wordpress.com/2015/08/08/employees-at-google-yahoo-and-amazon-lose-nothing-if-they-unionize-heres-why/
+* http://www.mystatesman.com/news/business/did-texas-big-amazon-deal-yield-a-prime-return/nnFMx/?resub#4faacc70.3553564.735819
 
 
 
@@ -152,6 +153,7 @@
 * http://www.webpronews.com/data-confirms-google-is-wiping-out-a-whole-category-of-websites-2015-01
 * http://www.wired.com/2015/07/googles-ad-system-become-big-control/
 * https://medium.com/@tommycm/what-it-s-really-like-to-work-for-a-tech-giant-4462fd18ce19
+* http://highscalability.com/blog/2015/8/10/how-google-invented-an-amazing-datacenter-network-only-they.html/
 * http://mobile.nytimes.com/2015/04/16/business/international/european-union-google-antitrust-case.html?_r=0
 * http://www.datajustice.org/blog/ftc-report-revealed-clash-between-googles-public-statements-and-internal-documents
 * http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube
@@ -172,6 +174,7 @@
 <li><a href="http://www.newyorker.com/online/blogs/newsdesk/2013/03/the-cost-of-ubers-free-rides.html?currentPage=all" time_added="1363563038" tags="hn">The Cost of Uber's Free Rides : The New Yorker</a></li>
 
 * http://www.slate.com/articles/business/moneybox/2014/10/uber_driver_salary_the_ride_sharing_company_says_its_drivers_make_great.single.html
+* http://fivethirtyeight.com/features/uber-is-serving-new-yorks-outer-boroughs-more-than-taxis-are/
 * http://techcrunch.com/2015/06/17/uber-drivers-deemed-employees-by-california-labor-commission/
 * http://www.thedailybeast.com/articles/2015/05/21/uber-disability-laws-don-t-apply-to-us.html
 * http://www.yesmagazine.org/new-economy/uber-unionized-worker-owned-co-op-denver-cabbies
