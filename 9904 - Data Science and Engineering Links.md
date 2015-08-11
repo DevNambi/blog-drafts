@@ -438,6 +438,9 @@
 * http://engineering.intenthq.com/2015/02/automatic-topic-modelling-with-lda/
 * http://stats.stackexchange.com/questions/104771/latent-dirichlet-allocation-in-pymc
 * https://github.com/napsternxg/ipython-notebooks/blob/master/PyMC_LDA.ipynb
+* https://code.google.com/p/word2vec/
+* http://www.quora.com/How-does-word2vec-work
+* http://rare-technologies.com/word2vec-tutorial/
 
 #### Image Processing
 
@@ -448,6 +451,7 @@
 * http://cs.stanford.edu/people/karpathy/deepimagesent/
 * http://blog.yhathq.com/posts/image-processing-with-scikit-image.html
 * http://karpathy.github.io/2012/10/22/state-of-computer-vision/
+
 
 #### Social Media
 

@@ -75,6 +75,7 @@
 * http://www.pewinternet.org/2015/03/16/Americans-Privacy-Strategies-Post-Snowden/
 * http://arstechnica.com/security/2015/03/freak-flaw-in-android-and-apple-devices-cripples-https-crypto-protection/
 * http://www.theguardian.com/technology/2015/feb/18/the-right-be-forgotten-google-search
+* http://www.extremetech.com/mobile/211985-htc-caught-storing-fingerprint-data-in-unencrypted-plain-text <- tension between user requirements (security/privacy) and businesses (profit margins)
 * http://www.extremetech.com/electronics/199499-samsungs-smart-tvs-dont-just-spy-they-transmit-your-speech-in-unencrypted-plaintext
 * http://pando.com/2015/02/15/meet-the-serial-failures-in-charge-of-protecting-americas-online-privacy/
 * http://www.philly.com/philly/business/20150122_Jeff_Gelles__Data-privacy_advocates_welcome_Obama_s_support__with_caveats.html
