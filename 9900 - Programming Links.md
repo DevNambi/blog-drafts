@@ -330,6 +330,7 @@
 * https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1?wed <- comprehensive
 * http://yosefk.com/blog/how-fpgas-work-and-why-youll-buy-one.html
 * http://blog.cr.yp.to/20150314-optimizing.html
+* http://googlecloudplatform.blogspot.com/2015/08/Announcing-General-Availability-of-Google-Cloud-Dataflow-and-Cloud-Pub-Sub.html
 * http://swrveengineering.wordpress.com/2014/10/14/how-we-increased-our-ec2-event-throughput-by-50-for-free/
 * http://instagram-engineering.tumblr.com/post/100758229719/migrating-from-aws-to-aws
 * https://zwischenzugs.wordpress.com/2015/03/14/docker-in-practice-a-guide-for-engineers/
@@ -422,6 +423,7 @@
 * http://blog.quantifiedcode.com/python-code-analysis-tools-overview/
 * https://github.com/s16h/py-must-watch
 * http://docs.python-guide.org/en/latest/
+* http://blog.webhose.io/2015/08/12/tiny-basic-multi-threaded-web-crawler-in-python/
 
 **Examples of good Python codebases**
 * https://github.com/kennethreitz/requests

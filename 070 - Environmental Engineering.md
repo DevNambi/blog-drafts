@@ -121,6 +121,8 @@ Emphasize what we don't know
 * http://www.wired.com/2015/03/californias-run-water-act-now/
 * http://www.bloomberg.com/news/articles/2015-03-20/who-classifies-monsanto-s-glyphosate-as-probably-carcinogenic-
 * http://www.rollingstone.com/politics/news/the-pentagon-climate-change-how-climate-deniers-put-national-security-at-risk-20150212
+* http://rameznaam.com/2015/08/10/how-cheap-can-solar-get-very-cheap-indeed/
+* https://firstlook.org/theintercept/2015/08/11/dupont-chemistry-deception/
 * http://www.desertsun.com/story/news/2015/03/05/bottling-water-california-drought/24389417/
 * http://arstechnica.com/science/2015/03/recycling-in-the-us-an-off-again-on-again-love-affair/
 * http://arstechnica.com/science/2015/08/doe-wind-power-2014-report-finds-its-dropping-dramatically-in-cost/

@@ -29,6 +29,7 @@ http://thewireless.co.nz/articles/the-pencilsword-on-a-plate <- this is how priv
 * https://devmynd.com/blog/2015-2-mind-the-gap
 * https://www.linkedin.com/pulse/my-jaw-dropped-ah-ha-manager-moment-sallie-krawcheck
 * http://www.bustle.com/articles/63466-im-brianna-wu-and-im-risking-my-life-standing-up-to-gamergate
+* http://kovalc.in/2015/08/12/harassers.html
 * http://www.fastcompany.com/3043082/most-creative-people/why-software-maker-fog-creek-is-helping-its-competitors-hire-women
 * http://recode.net/2015/03/24/what-happens-when-women-speak-up/
 * http://sysadmin1138.net/mt/blog/2015/03/silence-is-as-much-social-lubrication-as-lying.shtml

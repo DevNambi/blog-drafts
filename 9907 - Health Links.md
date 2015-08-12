@@ -5,6 +5,7 @@
 ### Food
 
 * http://www.nytimes.com/interactive/2015/05/19/dining/summer-dinner-ideas.html <- AMAZING
+* http://www.independent.co.uk/life-style/health-and-families/health-news/saturated-fats-in-meat-and-dairy-produce-not-as-bad-for-health-as-previously-thought-study-finds-10450663.html
 * http://www.truth-out.org/news/item/31193-four-decades-of-the-wrong-dietary-advice-has-paved-the-way-for-the-diabetes-epidemic-time-to-change-course
 * http://www.nature.com/news/the-rise-of-africa-s-super-vegetables-1.17712 
 * http://www.washingtonpost.com/news/wonkblog/wp/2015/07/28/why-the-most-popular-rule-of-weight-loss-is-completely-wrong/?tid=sm_fb
@@ -208,6 +209,7 @@
 
 
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
+* http://newsoffice.mit.edu/2015/real-time-data-for-cancer-therapy-0804
 * http://stm.sciencemag.org/content/7/278/278ra33.full
 * https://vanwinkles.com/bedtime-for-benzodiazepines-addicted-drug-most-popular-sleeping-pills
 * http://www.wired.com/2015/07/mers-isnt-epidemic-makes-harder-find-cure/
