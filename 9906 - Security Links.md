@@ -20,6 +20,7 @@
 * http://arstechnica.com/gadgets/2015/08/waiting-for-androids-inevitable-security-armageddon/
 * https://vimeo.com/135347162
 * https://www.insidehighered.com/news/2015/07/06/pennsylvania-state-u-cyberattacks-possibly-part-larger-trend-experts-say
+* http://www.bloomberg.com/news/articles/2015-08-14/vw-has-spent-two-years-trying-to-hide-a-big-security-flaw
 * https://blog.lastpass.com/2015/06/lastpass-security-notice.html/
 * http://20committee.com/2015/06/08/hacking-as-offensive-counterintelligence/
 * https://blog.benjojo.co.uk/post/auditing-github-users-keys

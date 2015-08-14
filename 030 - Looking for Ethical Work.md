@@ -65,6 +65,7 @@ Industries
 * http://www.theatlantic.com/business/archive/2015/06/what-is-the-greatest-good/395768/?single_page=true
 * http://www.businessinsider.com/super-cheap-genome-sequencing-by-2020-2014-10
 * http://www.propublica.org/article/the-whistleblowers-tale-how-an-accountant-took-on-halliburton
+* http://blog.samaltman.com/the-us-digital-service
 * http://markmanson.net/question
 * http://www.vox.com/2015/8/10/9124145/effective-altruism-global-ai
 * http://mathbabe.org/2015/07/03/what-kind-of-happiness-should-we-strive-for/
