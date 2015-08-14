@@ -28,6 +28,7 @@
 * http://www.bakadesuyo.com/2015/04/frustrated/ <- AMAZING
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2015/05/02/why-you-should-really-start-doing-more-things-alone/
 * http://captainawkward.com/2014/06/29/guest-post/
+* http://www.openculture.com/2015/08/the-neuroscience-of-drumming.html
 
 
 

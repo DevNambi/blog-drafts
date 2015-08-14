@@ -266,6 +266,8 @@
 * https://pymc-devs.github.io/pymc3/
 * https://github.com/pymc-devs/pymc3/tree/master/pymc3/examples
 * http://nbviewer.ipython.org/github/twiecki/pymc3_talk/blob/master/bayesian_pymc3.ipynb
+* http://alexanderetz.com/2015/08/09/understanding-bayes-visualization-of-bf/
+
 
 ## ML / AI
 
@@ -333,6 +335,7 @@
 * https://jakevdp.github.io/blog/2015/07/06/model-complexity-myth/
 * http://googleresearch.blogspot.com/2015/07/icml-2015-and-machine-learning-research.html
 * https://outlookzen.wordpress.com/2015/03/15/life-lessons-from-machine-learning/
+* https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
 * http://www.machinedlearnings.com/2015/07/icml-2015-review.html
 * http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
 * http://research.microsoft.com/en-us/projects/r2/
@@ -379,6 +382,7 @@
 * http://research.microsoft.com/apps/pubs/default.aspx?id=115396
 * http://nautil.us/issue/27/dark-matter/artificial-intelligence-is-already-weirdly-inhuman
 * http://techcrunch.com/2015/08/02/machine-learning-and-human-bias-an-uneasy-pair/
+* https://lab.getbase.com/is-regression-trustworthy-or-how-to-use-metrics-to-trust-the-prediction-of-regression/
 
 "ML tip: train a model to distinguish between your training set & unlabeled data. If it works, your training data may be incomplete!" - Jake Vanderplas
 
@@ -608,6 +612,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://grigory.us/blog/rdbms-mapreduce/
 * http://key-value-stories.blogspot.com/2015/02/memcached-internals-design.html
 * http://techblog.netflix.com/2015/03/can-spark-streaming-survive-chaos-monkey.html
+* https://segment.com/blog/the-totally-managed-analytics-pipeline/
 * http://blog.acolyer.org/2015/02/05/impala-a-modern-open-source-sql-engine-for-hadoop/
 * http://prometheus.io/
 * http://danosipov.com/?p=816

@@ -51,6 +51,7 @@ http://thewireless.co.nz/articles/the-pencilsword-on-a-plate <- this is how priv
 * http://www.nytimes.com/2015/01/11/opinion/sunday/speaking-while-female.html?_r=0
 * http://allthingsd.com/20091019/yahoo-sorry-about-lap-dancers-at-hack-day-in-taiwan-so-whats-the-excuse-for-last-years-go-go-girls/
 * http://www.rollingstone.com/culture/features/anita-sarkeesian-gamergate-interview-20141017
+* http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy_resources
 * https://medium.com/@kelseyinnis/on-the-wadhwa-within-and-leaving-4694d02111e0 <- amazing
 * http://www.sfweekly.com/thesnitch/2015/03/07/former-google-engineer-claims-she-was-sexually-harassed-google-did-nothing-about-it
 * https://medium.com/@nmsanchez/which-women-in-tech-371e721e71c4
