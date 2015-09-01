@@ -183,6 +183,7 @@ Embrace awkwardness more
 * http://techreport.com/review/28198/the-tech-report-system-guide-may-2015-edition
 * https://support.skype.com/en/faq/FA142/how-can-i-delete-my-skype-account
 * http://arstechnica.com/information-technology/2015/08/how-to-succeed-in-business-er-remote-it-work-without-really-trying/
+* https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide
 
 
 
