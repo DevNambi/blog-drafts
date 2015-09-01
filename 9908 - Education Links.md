@@ -126,6 +126,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 ## Higher Education
 
 * http://equitablegrowth.org/research/achievement-gap/ <- why I do what I do
+* http://www.nytimes.com/2015/08/31/technology/tools-for-tailored-learning-may-expose-students-personal-details.html
 * http://www.seattletimes.com/nation-world/study-more-than-a-third-of-us-college-students-transferred/
 * http://figshare.com/articles/Data_driven_Education_and_the_Quantified_Student/1495511
 * http://www.theatlantic.com/education/archive/2015/06/denmark-pushes-college-students-graduate/395666/
@@ -508,6 +509,8 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 ### Finance, Debt
 
 * http://seattletimes.com/html/nationworld/2025012950_apxcollegecosts.html
+* http://highereddatastories.blogspot.com/2015/08/how-pell-grant-recipients-fare-at.html
+* http://www.randalolson.com/2015/08/16/u-s-college-majors-median-yearly-earnings-vs-gender-ratio/
 * http://www.mcclatchydc.com/news/nation-world/national/article30646605.html
 * http://highereddatastories.blogspot.com/2014/11/what-is-pell-grant-worth.html
 * http://fivethirtyeight.com/datalab/loan-forgiveness-for-bad-faith-not-bad-bargain-schools/

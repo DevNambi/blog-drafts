@@ -324,6 +324,7 @@
 * http://www.infoq.com/news/2015/04/vogels-patterns-cloud-adoption
 * http://www.wired.com/2015/04/kevin-mcelvaney-agbogbloshie/
 * http://us10.campaign-archive1.com/?u=5dfb7b5de8e42c2633c06b3a8&id=36227f3963
+* https://aws.amazon.com/blogs/aws/building-price-aware-applications-using-ec2-spot-instances/
 * https://yourbunnywrote.org/2015/04/19/google-cloud/
 * http://www.cloudcomputingpatterns.org/ <- priceless
 * http://www.devfactor.net/2014/12/30/2375-amazon-mistake/

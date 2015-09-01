@@ -29,6 +29,7 @@
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2015/05/02/why-you-should-really-start-doing-more-things-alone/
 * http://captainawkward.com/2014/06/29/guest-post/
 * http://www.openculture.com/2015/08/the-neuroscience-of-drumming.html
+* http://www.mrmoneymustache.com/2015/08/31/electric-bike-reviews/
 
 
 
@@ -263,6 +264,7 @@
 <li><a href="http://offbeathome.com/2014/01/homesteading-as-revolution" time_added="1391013129" tags="">Come the revolution: Homesteading as an act of radical resistance</a></li>
 
 * http://geekologie.com/2015/02/so-jealous-right-now-family-builds-treeh.php
+* http://offbeathome.com/2015/08/nautical-home-decor-inspiration
 * http://www.seattletimes.com/pacific-nw-magazine/too-much-stuff-we-collect-it-all-our-lives-and-then-what/
 * http://www.nytimes.com/2015/04/24/realestate/the-10-most-cost-effective-renovations.html
 * http://www.seattletimes.com/seattle-news/get-rid-of-single-family-zoning-in-seattle-housing-task-force-says-in-draft-report/

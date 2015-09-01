@@ -39,6 +39,7 @@
 * https://www.eff.org/privacybadger
 * http://arstechnica.com/tech-policy/2015/06/fake-mobile-phone-towers-discovered-in-london-stingrays-come-to-the-uk/
 * http://www.wsj.com/articles/moxie-marlinspike-the-coder-who-encrypted-your-texts-1436486274
+* http://www.theregister.co.uk/2015/08/27/malvertising_feature/
 * https://jonathan.porta.codes/2015/07/30/windows-10-seems-to-have-some-scary-privacy-defaults/
 * https://emailselfdefense.fsf.org/en/
 * https://edri.org/microsofts-new-small-print-how-your-personal-data-abused/

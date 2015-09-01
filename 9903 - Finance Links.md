@@ -9,6 +9,7 @@
 * http://arstechnica.com/science/2014/10/why-chinas-economic-growth-hasnt-been-getting-cleaner/
 * http://mobile.nytimes.com/2014/10/19/world/asia/hong-kong-officials-offer-fresh-talks-with-protesters-.html
 * http://www.nytimes.com/2015/06/11/opinion/chinas-troubling-robot-revolution.html
+* http://www.nytimes.com/2015/08/31/world/asia/behind-tianjin-tragedy-a-company-that-flouted-regulations-and-reaped-profits.html
 * http://www.bbc.com/news/business-33754851
 * http://seattletimes.com/html/nationworld/2024816652_factoryfirexml.html
 * http://www.nytimes.com/2014/10/27/technology/using-cash-and-pressure-china-builds-its-chip-industry.html

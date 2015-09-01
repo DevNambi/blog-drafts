@@ -383,6 +383,8 @@
 * http://nautil.us/issue/27/dark-matter/artificial-intelligence-is-already-weirdly-inhuman
 * http://techcrunch.com/2015/08/02/machine-learning-and-human-bias-an-uneasy-pair/
 * https://lab.getbase.com/is-regression-trustworthy-or-how-to-use-metrics-to-trust-the-prediction-of-regression/
+* http://fastml.com/evaluating-recommender-systems/
+
 
 "ML tip: train a model to distinguish between your training set & unlabeled data. If it works, your training data may be incomplete!" - Jake Vanderplas
 

@@ -39,6 +39,9 @@ We believe we are working to make our society, our world, a better place. At the
 * http://mobile.nytimes.com/blogs/bits/2014/12/23/data-broker-is-charged-with-selling-consumers-financial-details-to-fraudsters/
 * http://gigaom.com/2014/02/22/data-privacy-machine-learning-and-the-destruction-of-mysterious-humanity/
 * http://www.cato-unbound.org/2015/04/06/alex-tabarrok-tyler-cowen/end-asymmetric-information
+* http://escience.washington.edu/blog/data-science-social-good-final-presentations
+* https://bitbucket.org/nikratio/s3ql
+* https://aws.amazon.com/blogs/aws/new-resource-oriented-bidding-for-ec2-spot-instances/
 * http://www.nakedcapitalism.com/2015/04/big-data-watching-work.html
 * http://arstechnica.com/gadgets/2015/07/musk-hawking-wozniak-call-for-ban-on-autonomous-weaponry-and-military-ai/ <- DON'T DO THIS.
 * http://www.marketsforgood.org/the-lake-washington-declaration/
