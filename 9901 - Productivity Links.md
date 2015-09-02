@@ -184,6 +184,7 @@ Embrace awkwardness more
 * https://support.skype.com/en/faq/FA142/how-can-i-delete-my-skype-account
 * http://arstechnica.com/information-technology/2015/08/how-to-succeed-in-business-er-remote-it-work-without-really-trying/
 * https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide
+* https://bitbucket.org/nikratio/s3ql
 
 
 
