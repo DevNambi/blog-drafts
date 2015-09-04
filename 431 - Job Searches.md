@@ -178,6 +178,7 @@ Interviews are one of the best times to find out about a company's culture, work
 <li><a href="http://www.washingtonpost.com/local/millennials-want-a-work-life-balance-their-bosses-just-dont-get-why/2015/05/05/1859369e-f376-11e4-84a6-6d7c67c50db0_story.html">Millennials want a work-life balance. Their bosses just don’t get why.</a></li>
 <li><a href="http://qz.com/241043/i-quit-working-full-time-years-ago-heres-why-i-recommend-it-highly/">I quit working full-time years ago—here’s why I recommend it highly</a></li>
 <li><a href="http://joelklettke.com/freelancing-2-years-230000-and-9-big-lessons-later/">FREELANCING: 2 YEARS, $230,000+ AND 9 BIG LESSONS LATER</a></li>
+<li><a href="http://georgestocker.com/2015/09/03/overworking-is-destructive/">Overworking is Destructive</a></li>
 </ul>
 
 

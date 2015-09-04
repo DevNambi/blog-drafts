@@ -100,6 +100,7 @@
 * http://mcfunley.com/choose-boring-technology-slides
 * http://engineering.quora.com/Moving-Fast-With-High-Code-Quality
 * http://blog.gardeviance.org/2015/08/is-there-trouble-brewing-in-land-of.html
+* http://berzniz.com/post/128267561586/features-are-debt-not-assets
 
 
 

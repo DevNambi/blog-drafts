@@ -173,6 +173,7 @@
 * http://opr.princeton.edu/workshops/201401/ggplot2Jan2014DawnKoffman.pdf
 * http://www.exegetic.biz/blog/2014/11/creating-more-effective-graphs/
 * https://github.com/jrnold/ggthemes
+* https://rexplorations.wordpress.com/2015/09/02/animated-logistic-maps-of-chaotic-systems-in-r/
 
 #### Tableau
 
@@ -384,6 +385,7 @@
 * http://techcrunch.com/2015/08/02/machine-learning-and-human-bias-an-uneasy-pair/
 * https://lab.getbase.com/is-regression-trustworthy-or-how-to-use-metrics-to-trust-the-prediction-of-regression/
 * http://fastml.com/evaluating-recommender-systems/
+* http://arxiv.org/abs/1509.01240 <- stochastic gradient descent is pretty great
 
 
 "ML tip: train a model to distinguish between your training set & unlabeled data. If it works, your training data may be incomplete!" - Jake Vanderplas
@@ -732,4 +734,5 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://firstround.com/review/everything-we-wish-wed-known-about-building-data-products/
 * http://www.pindropsecurity.com/data-science-how-do-we-get-started-part-three/
 * http://divante.co/blog/big-data-solutions-tailored-fashion-industry/
+* https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6
 

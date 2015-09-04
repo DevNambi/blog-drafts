@@ -85,6 +85,7 @@ Emphasize what we don't know
 * http://forecast.io/raw/
 * https://johncarlosbaez.wordpress.com/2015/06/19/on-care-for-our-common-home/
 * http://www.bloomberg.com/news/articles/2015-06-23/the-way-humans-get-electricity-is-about-to-change-forever
+* http://news.nationalgeographic.com/news/2015/02/150212-megadrought-southwest-water-climate-environment/
 * http://nautil.us/issue/25/water/the-real-landscapes-of-the-great-flood-myths
 * http://www.vox.com/2015/7/13/8949701/carbon-removal
 * http://www.nytimes.com/2015/05/31/opinion/sunday/holding-your-breath-in-india.html?_r=0
@@ -106,11 +107,15 @@ Emphasize what we don't know
 * http://www.wsj.com/articles/google-gets-into-battery-arms-race-1428694613
 * http://arstechnica.com/science/2015/08/the-solar-sunflower-harnessing-the-power-of-5000-suns/
 * http://arstechnica.com/science/2015/08/worst-case-scenario-how-bad-could-a-tropical-cyclone-be/
+* http://www.theatlantic.com/national/archive/2015/09/the-disaster-next-time/403063/?single_page=true
+* http://www.washingtonpost.com/news/energy-environment/wp/2015/09/02/scientists-discover-that-the-world-contains-dramatically-more-trees-than-previously-thought/
+* http://www.economist.com/news/briefing/21647622-land-centre-pre-industrial-economy-has-returned-constraint-growth
 * http://news.nationalpost.com/news/world/the-water-table-is-dropping-all-over-the-world-new-nasa-study-reveals-global-drought
 * http://enenews.com/times-worst-possible-result-revealed-fukushima-plant-chief-centuries-pass-before-humans-invent-deal-molten-fuel-videos
 * https://medium.com/@lesliejz/don-t-stop-showering-california-lay-off-the-burgers-and-nuts-and-pick-up-some-crickets-eb63bddf0277
 * http://arstechnica.com/science/2015/04/30/the-inadvertent-hilarity-of-the-heartland-institute-vs-pope-francis/
 * http://www.sfgate.com/bayarea/article/Bay-Area-water-agencies-start-strong-hit-6405595.php
+* http://www.thestranger.com/news/feature/2015/09/02/22795813/the-new-normal-in-washington-state
 * http://www.nakedcapitalism.com/2015/07/californias-north-coast-wine-industry-how-sustainable-is-it.html
 * http://www.desertsun.com/story/news/environment/2015/08/06/enforcement-uneven-transparency-golf-water-rules/31213529/
 * http://www.nakedcapitalism.com/2014/04/gaius-publius-climate-scientist-michael-mann-dont-stop-now-well-surpass-2c-global-warming.html
