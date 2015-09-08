@@ -521,6 +521,7 @@
 * http://db-engines.com/en/ranking
 * http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/
 * http://hortonworks.com/blog/hive-0-14-cost-based-optimizer-cbo-technical-overview/
+* https://medium.com/@oceankidbilly/vldb-2015-concurrency-dataflow-e-store-4e715416b905
 * https://www.periscope.io/blog/better-sql-schema.html
 * http://blogs.barrons.com/techtraderdaily/2015/03/30/michael-stonebraker-describes-oracles-obsolescence-facebooks-enormous-challenge/
 * http://www.pg-versus-ms.com/ <- amazing

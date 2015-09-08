@@ -426,6 +426,7 @@
 * http://blog.kaggle.com/2015/07/16/scikit-learn-video-8-efficiently-searching-for-optimal-tuning-parameters/
 * http://nbtest.herokuapp.com/github/fonnesbeck/Bios366/blob/master/notebooks/Section3_3-Expectation-Maximization.ipynb
 * http://nbviewer.ipython.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb
+* https://github.com/avehtari/BDA_py_demos
 
 
 
@@ -628,6 +629,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://insightdataengineering.com/blog/hadoopdevops/
 * http://blog.confluent.io/2015/01/29/making-sense-of-stream-processing/
 * http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html
+* https://medium.com/@oceankidbilly/vldb-2015-concurrency-dataflow-e-store-4e715416b905
 * http://queue.acm.org/detail.cfm?id=2745385
 * http://insightdataengineering.com/blog/pipeline_map.html
 * http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/

@@ -496,6 +496,7 @@
 
 
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
+* http://www.nytimes.com/2015/09/08/health/what-are-a-hospitals-costs-utah-system-is-trying-to-learn.html?_r=0
 * http://www.latimes.com/business/la-fi-blue-shield-audit-20150705-story.html#page=1
 * http://www.nakedcapitalism.com/2015/06/obamacares-problems-continue-to-fester-cost-complexity-quality-coverage-covered-california.html
 * http://mobile.nytimes.com/2015/06/02/business/seeking-rate-increases-insurers-use-guesswork.html

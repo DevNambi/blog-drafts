@@ -11,6 +11,7 @@
 * https://www.washingtonpost.com/blogs/wonkblog/wp/2015/06/30/drug-cops-took-a-college-kids-life-savings-and-now-13-police-departments-want-a-cut/
 * http://www.thedenverchannel.com/news/u-s-world/cell-phone-video-chandler-officer-illegally-enters-womans-home-arrests-her-while-she-is-naked <- had his body camera off
 * http://www.theguardian.com/us-news/2015/jul/15/jonathan-sanders-mississppi-chokehold
+* http://prospect.org/article/why-dont-settlements-over-brutality-come-out-police-budgets
 * http://www.latimes.com/local/lanow/la-me-ln-federal-judge-orders-release-of-videos-20150714-story.html
 * http://www.seattletimes.com/seattle-news/prison-sex-abuse-cases-grow-but-prosecutions-are-rare/
 * http://mathbabe.org/2015/07/08/what-are-prisons-for/
