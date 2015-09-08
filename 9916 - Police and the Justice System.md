@@ -48,6 +48,7 @@
 * http://www.thestranger.com/news/feature/2015/05/06/22172178/what-two-programmers-have-revealed-so-far-about-seattle-police-officers-who-are-still-in-uniform
 * http://countercurrentnews.com/2015/02/leaked-police-department-memo-threatens-black-officers/
 * http://www.washingtonpost.com/national/in-fresno-police-focus-on-building-relationships-not-making-arrests/2015/05/06/3c396f04-eab9-11e4-9a6a-c1ab95a0600b_story.html
+* http://www.apnewsarchive.com/2015/3-California-deputies-arrested-in-jail-inmate-s-death-man-died-of-blunt-trauma-official-says/id-d5a20e2075fc474a87ddec0c6e4a596f
 * http://www.washingtonpost.com/local/crime/fbi-overstated-forensic-hair-matches-in-nearly-all-criminal-trials-for-decades/2015/04/18/39c8d8c6-e515-11e4-b510-962fcfabc310_story.html
 * http://www.reddit.com/r/news/comments/314z1z/woman_arrested_for_resisting_arrest_after_putting/
 * http://www.dailykos.com/story/2015/05/29/1388819/-Judge-disqualifies-all-250-prosecutors-in-Orange-County-CA-because-of-widespread-corruption

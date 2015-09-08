@@ -78,6 +78,7 @@
 * http://www.nytimes.com/2015/03/22/us/politics/schools-wait-to-see-what-becomes-of-no-child-left-behind-law.html
 * http://www.theatlantic.com/education/archive/2015/03/why-im-a-public-school-teacher-but-a-private-school-parent/386797/
 * http://truestories.gawker.com/all-the-children-are-ours-essays-from-school-teachers-1679254821/1679318066/+maxread
+* https://credo.stanford.edu/
 * http://www.nytimes.com/2015/02/06/education/fewer-top-graduates-want-to-join-teach-for-america.html
 * http://blogs.seattletimes.com/educationlab/2014/12/31/guest-new-math-textbooks-are-the-right-choice-for-seattle-schools/
 * http://www.psypost.org/2015/02/many-education-experts-in-news-stories-lack-expertise-study-finds-31903
