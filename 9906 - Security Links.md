@@ -13,6 +13,8 @@
 * http://blog.cryptographyengineering.com/2015/04/truecrypt-report.html
 * http://www.crosswordunclued.com/2015/06/parallels-between-cryptanalysis-and.html
 * http://www.wired.com/2015/07/massive-opm-hack-actually-affected-25-million/
+* http://www.abc10.com/story/news/2015/09/09/cyber-attacks-doe-energy/71929786/
+* http://arstechnica.com/security/2015/09/ashley-madison-password-crack-could-spell-trouble-across-the-internet/
 * http://www.nationaljournal.com/tech/opm-hack-fingerprints-china-20150714
 * http://www.bbc.com/news/technology-33802344
 * http://techcrunch.com/2015/07/13/development-of-a-200-wifi-router-geared-towards-whistleblowers-was-just-suspiciously-cancelled/

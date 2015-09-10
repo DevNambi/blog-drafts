@@ -44,6 +44,7 @@
 * http://arstechnica.com/gadgets/2015/05/google-temporarily-shuts-down-map-maker-due-to-vandalism/
 * https://michaelochurch.wordpress.com/2015/08/08/employees-at-google-yahoo-and-amazon-lose-nothing-if-they-unionize-heres-why/
 * http://www.mystatesman.com/news/business/did-texas-big-amazon-deal-yield-a-prime-return/nnFMx/?resub#4faacc70.3553564.735819
+* http://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html
 
 
 

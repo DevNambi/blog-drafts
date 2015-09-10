@@ -60,6 +60,7 @@
 * http://www.seattletimes.com/education-lab/new-discipline-data-allows-comparisons-among-districts/
 * http://www.nakedcapitalism.com/2015/05/high-school-dropout-rates-increase-with-income-inequality.html
 * http://www.seattletimes.com/seattle-news/testing-cutting-into-class-time/
+* http://www.elearnspace.org/blog/2015/09/09/adios-ed-tech-hola-something-else/
 * http://www.wired.com/2015/05/altschool/
 * http://www.nytimes.com/2015/04/07/nyregion/at-success-academy-charter-schools-polarizing-methods-and-superior-results.html
 * http://www.nytimes.com/2015/03/23/nyregion/cuomo-fights-rating-system-in-which-few-teachers-are-bad.html
@@ -128,6 +129,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 ## Higher Education
 
 * http://equitablegrowth.org/research/achievement-gap/ <- why I do what I do
+* https://www.insidehighered.com/news/2015/09/10/amid-competency-based-education-boom-meeting-help-colleges-do-it-right
 * http://www.nytimes.com/2015/08/31/technology/tools-for-tailored-learning-may-expose-students-personal-details.html
 * http://www.seattletimes.com/nation-world/study-more-than-a-third-of-us-college-students-transferred/
 * http://figshare.com/articles/Data_driven_Education_and_the_Quantified_Student/1495511

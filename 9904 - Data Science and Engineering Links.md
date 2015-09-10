@@ -80,6 +80,7 @@
 * http://jakeaustwick.me/python-web-scraping-resource/
 * http://googleresearch.blogspot.com/2015/06/a-multilingual-corpus-of-automatically.html
 * http://blog.yhathq.com/posts/7-funny-datasets.html
+* http://blaze.github.io/blog/2015/09/08/reddit-comments/
 
 ## Data Cleaning/Munging
 
@@ -549,6 +550,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * All problems in computer science can be solved by another level of indirection
 * All problems in ML can be solved by another level of dimensionality, except for the problem of too many dimensions.
 * All problems in ML can be solved by higher order processing, except for the problem of higher order processing.
+* http://www.learndatasci.com/free-books/
 
 ## Funny
 
