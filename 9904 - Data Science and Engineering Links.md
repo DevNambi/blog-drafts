@@ -387,6 +387,7 @@
 * https://lab.getbase.com/is-regression-trustworthy-or-how-to-use-metrics-to-trust-the-prediction-of-regression/
 * http://fastml.com/evaluating-recommender-systems/
 * http://arxiv.org/abs/1509.01240 <- stochastic gradient descent is pretty great
+* http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
 
 
 "ML tip: train a model to distinguish between your training set & unlabeled data. If it works, your training data may be incomplete!" - Jake Vanderplas
@@ -552,6 +553,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * All problems in ML can be solved by another level of dimensionality, except for the problem of too many dimensions.
 * All problems in ML can be solved by higher order processing, except for the problem of higher order processing.
 * http://www.learndatasci.com/free-books/
+* https://www.datayou.org/articles/the-three-kinds-of-data-science-project-exams-that-show-up-in-a-data-science-interview
 
 ## Funny
 
@@ -740,4 +742,5 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://www.pindropsecurity.com/data-science-how-do-we-get-started-part-three/
 * http://divante.co/blog/big-data-solutions-tailored-fashion-industry/
 * https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6
+* http://www.technologyreview.com/view/538701/data-mining-reveals-the-surprising-factors-behind-successful-movies/
 
