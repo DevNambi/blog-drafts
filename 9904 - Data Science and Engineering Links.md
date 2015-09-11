@@ -428,6 +428,7 @@
 * http://nbtest.herokuapp.com/github/fonnesbeck/Bios366/blob/master/notebooks/Section3_3-Expectation-Maximization.ipynb
 * http://nbviewer.ipython.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb
 * https://github.com/avehtari/BDA_py_demos
+* http://nicolas.kruchten.com/content/2015/09/jupyter_pivottablejs/
 
 
 

@@ -185,6 +185,7 @@ Embrace awkwardness more
 * http://arstechnica.com/information-technology/2015/08/how-to-succeed-in-business-er-remote-it-work-without-really-trying/
 * https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide
 * https://bitbucket.org/nikratio/s3ql
+* http://flowingdata.com/2015/09/11/turn-a-two-way-mirror-into-an-information-display/
 
 
 
