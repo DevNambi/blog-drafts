@@ -685,6 +685,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://newsoffice.mit.edu/2015/cutting-cost-power-big-data-0710
 * http://eugenezhulenev.com/blog/2015/07/15/interactive-audience-analytics-with-spark-and-hyperloglog/
 * http://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/
+* https://www.dataquest.io/mission/123/introduction-to-spark/
 
 
 
@@ -743,4 +744,5 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://divante.co/blog/big-data-solutions-tailored-fashion-industry/
 * https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6
 * http://www.technologyreview.com/view/538701/data-mining-reveals-the-surprising-factors-behind-successful-movies/
+* http://www.john-foreman.com/blog/data-is-an-asset <- beautiful
 

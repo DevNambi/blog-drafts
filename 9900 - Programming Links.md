@@ -87,6 +87,7 @@
 ### Complexity, Code Reviews, Technical Debt
 
 * http://www.theeffectiveengineer.com/blog/hidden-costs-that-engineers-ignore
+* http://www.researchgate.net/publication/271384912_Would_you_mind_fixing_this_issue_An_Empirical_Analysis_of_Politeness_and_Attractiveness_in_Software_Developed_Using_Agile_Boards
 * http://www.drmaciver.com/2013/03/what-the-fuck-are-we-doing/
 * http://gael-varoquaux.info/programming/software-design-for-maintainability.html
 * http://danluu.com/testing/
