@@ -586,6 +586,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://thedataminimalist.com/post/123338121239/are-you-in-a-data-project-bottleneck-situation
 * http://blog.dominodatalab.com/pyspark-on-domino/
 * http://sloanreview.mit.edu/article/why-managing-data-scientists-is-different/
+* https://www.linkedin.com/pulse/cargo-cult-data-science-george-roumeliotis
 
 ## Data Stacks, Engineering
 
