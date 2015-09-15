@@ -268,6 +268,7 @@
 * http://www.washingtonpost.com/blogs/the-switch/wp/2015/06/03/a-horrible-new-paypal-policy-opts-you-into-getting-robocalls/
 * http://www.nytimes.com/2015/06/23/business/takata-is-said-to-have-stopped-safety-audits-as-cost-saving-move.html
 * http://techcrunch.com/2015/06/23/reddit-turns-ten-years-old-releases-treasure-trove-of-cool-stats/
+* http://www.nytimes.com/2015/09/15/us/these-public-libraries-are-for-snowshoes-and-ukuleles.html
 
 
 
