@@ -233,6 +233,7 @@
 
 
 * http://www.oliverlehmann.com/project-management-sources/Nasa-Hundred-Rules-for-Project-Managers.pdf
+* http://blog.codinghorror.com/the-bad-apple-group-poison/
 * http://arstechnica.com/gaming/2015/04/play-the-game-that-shows-how-hard-it-is-to-make-a-good-game/
 * https://medium.com/@pawel_niznik/13-principles-of-next-generation-enterprise-software-technology-b8a3a324ee32
 * http://www.arguingwithalgorithms.com/posts/14-12-02-architecture-reviews
