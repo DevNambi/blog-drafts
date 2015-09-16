@@ -57,6 +57,7 @@
 
 * https://medium.com/@sahuguet/p-b-d-c-1218ee894400
 * http://www.clean-sheet.org/
+* http://blogs.msdn.com/b/msr_er/archive/2015/06/26/announcing-the-microsoft-academic-graph-let-the-research-begin.aspx
 
 ## Data Acquisition, Sources
 
