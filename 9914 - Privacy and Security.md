@@ -26,12 +26,14 @@
 * http://www.marketingweek.com/2015/07/08/consumers-are-dirtying-databases-with-false-details/?nocache=true&adfesuccess=1
 * http://www.mondaynote.com/2015/08/03/what-the-ad-blocker-debate-reveals/
 * http://m.thenation.com/article/208593-you-can-be-prosecuted-clearing-your-browser-history
+* https://mitpress.mit.edu/books/obfuscation
 * https://bananas.liberty.me/youre-a-criminal-in-a-mass-surveillance-world-how-to-not-get-caught/ <- critically important
 * https://medium.com/message/the-hypocrisy-of-the-internet-journalist-587d33f6279e
 * http://arstechnica.com/security/2015/03/anti-doxing-strategy-or-how-to-avoid-50-qurans-and-287-of-chick-fil-a/ <- incredibly important read
 * http://monica-at-mozilla.blogspot.com/2015/05/tracking-protection-for-firefox-at-web.html <- priceless
 * http://seattletimes.com/html/businesstechnology/2025244750_apxtecidentitytheftthehassle.html
 * https://www.eff.org/deeplinks/2015/06/why-facebook-failed-our-censorship-test
+* http://www.viola-notes.com/why-resistance-to-ad-blocking-is-futile-and-whats-next-for-digital-advertising/
 * http://www.theawl.com/2015/08/time-is-a-privacy-setting
 * http://www.businessinsider.com/how-to-block-companies-tracking-you-on-facebook-2014-1
 * http://arstechnica.co.uk/tech-policy/2015/07/cameron-reaffirms-there-will-be-no-safe-spaces-from-uk-government-snooping/

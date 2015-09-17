@@ -57,6 +57,7 @@
 
 * https://medium.com/@sahuguet/p-b-d-c-1218ee894400
 * http://www.clean-sheet.org/
+* http://www.openculture.com/2015/08/the-new-york-times-makes-17000-tasty-recipes-available-online.html
 
 ## Data Acquisition, Sources
 
@@ -430,6 +431,7 @@
 * http://nbviewer.ipython.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb
 * https://github.com/avehtari/BDA_py_demos
 * http://nicolas.kruchten.com/content/2015/09/jupyter_pivottablejs/
+* http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/
 
 
 
@@ -482,6 +484,7 @@
 * https://chronicle.com/article/article-content/190147/
 * http://blog.wtf.sg/
 * https://timdettmers.wordpress.com/2015/03/09/deep-learning-hardware-guide/
+* http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
 * http://sebastianraschka.com/Articles/2015_singlelayer_neurons.html
 * http://www.extremetech.com/extreme/199814-microsoft-to-accelerate-bing-search-with-neural-network
 * http://www.rosebt.com/blog/introduction-to-deep-learning-with-python
@@ -508,6 +511,9 @@
 * https://github.com/JohnMount/CaffeECSExample
 * http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
 * http://neuralnetworksanddeeplearning.com/chap6.html
+* http://blogs.mathworks.com/loren/2015/08/04/artificial-neural-networks-for-beginners/
+* http://www.technologyreview.com/view/541276/deep-learning-machine-teaches-itself-chess-in-72-hours-plays-at-international-master/
+
 
 #### Network Optimization, Linear Algebra, NP-hard 
 

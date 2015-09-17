@@ -84,6 +84,7 @@
 * http://blog.dato.com//bringing-deep-learning-to-the-grocery-store
 * http://www.lift-heavy.com/intermittent-fasting/
 * http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2929771/ <- turmeric help
+* http://www.openculture.com/2015/08/the-new-york-times-makes-17000-tasty-recipes-available-online.html
 
 
 

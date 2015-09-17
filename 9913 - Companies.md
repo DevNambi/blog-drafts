@@ -94,6 +94,8 @@
 * http://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/
 * http://www.quora.com/Why-did-Borland-fail/answer/Danny-Thorpe?share=1&
 * https://michaelochurch.wordpress.com/2015/08/08/employees-at-google-yahoo-and-amazon-lose-nothing-if-they-unionize-heres-why/
+* http://www.seattleweekly.com/home/960633-129/thirteen-things-i-learned-cooking-at
+* http://www.theverge.com/2015/9/17/9338963/welcome-to-hell-apple-vs-google-vs-facebook-and-the-slow-death-of-the-web
 
 
 
@@ -268,6 +270,7 @@
 * http://www.washingtonpost.com/blogs/the-switch/wp/2015/06/03/a-horrible-new-paypal-policy-opts-you-into-getting-robocalls/
 * http://www.nytimes.com/2015/06/23/business/takata-is-said-to-have-stopped-safety-audits-as-cost-saving-move.html
 * http://techcrunch.com/2015/06/23/reddit-turns-ten-years-old-releases-treasure-trove-of-cool-stats/
+* http://fusion.net/story/191773/i-created-a-fake-business-and-fooled-thousands-of-people-into-thinking-it-was-real/
 
 
 

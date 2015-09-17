@@ -25,6 +25,7 @@ This is an information problem. It's also a FUD problem.
 * http://michaelochurch.wordpress.com/2014/02/06/if-you-stop-promoting-from-within-soon-you-cant/
 * http://blog.landing.jobs/why-hunting-for-unicorns-is-bullshit-and-how-to-hire-a-great-ux-designer/
 * http://www.huffingtonpost.com/susan-p-joyce/job-search-tips_b_4834361.html
+* http://blog.fogcreek.com/were-bad-at-interviewing-developers-and-how-to-fix-it-interview-with-kerri-miller/
 * http://firstround.com/article/Mine-Your-Network-for-Early-Stage-Hiring-Gold
 * http://blog.triplebyte.com/three-hundred-programming-interviews-in-thirty-days
 * Psychology - because we're looking for good judgment
