@@ -271,6 +271,7 @@
 * http://www.nytimes.com/2015/06/23/business/takata-is-said-to-have-stopped-safety-audits-as-cost-saving-move.html
 * http://techcrunch.com/2015/06/23/reddit-turns-ten-years-old-releases-treasure-trove-of-cool-stats/
 * http://fusion.net/story/191773/i-created-a-fake-business-and-fooled-thousands-of-people-into-thinking-it-was-real/
+* http://www.nytimes.com/2015/09/15/us/these-public-libraries-are-for-snowshoes-and-ukuleles.html
 
 
 
