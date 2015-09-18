@@ -561,6 +561,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * All problems in ML can be solved by higher order processing, except for the problem of higher order processing.
 * http://www.learndatasci.com/free-books/
 * https://www.datayou.org/articles/the-three-kinds-of-data-science-project-exams-that-show-up-in-a-data-science-interview
+* https://www.coursera.org/specializations/machine-learning
 
 ## Funny
 
