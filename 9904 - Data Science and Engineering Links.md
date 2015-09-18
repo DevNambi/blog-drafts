@@ -271,6 +271,7 @@
 * https://github.com/pymc-devs/pymc3/tree/master/pymc3/examples
 * http://nbviewer.ipython.org/github/twiecki/pymc3_talk/blob/master/bayesian_pymc3.ipynb
 * http://alexanderetz.com/2015/08/09/understanding-bayes-visualization-of-bf/
+* https://speakerdeck.com/jakevdp/statistics-for-hackers <- AMAZING
 
 
 ## ML / AI
@@ -562,6 +563,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://www.learndatasci.com/free-books/
 * https://www.datayou.org/articles/the-three-kinds-of-data-science-project-exams-that-show-up-in-a-data-science-interview
 * https://www.coursera.org/specializations/machine-learning
+* http://blog.datapolitan.com/2015/09/18/teaching-analytics-to-nyc-employees-an-introduction/
 
 ## Funny
 
