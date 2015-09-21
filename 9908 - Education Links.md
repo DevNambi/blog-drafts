@@ -283,6 +283,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2015/07/24/upshot/the-fundamental-way-that-universities-are-an-illusion.html <- critically important
 * http://www.nytimes.com/2015/08/02/education/edlife/stress-social-media-and-suicide-on-campus.html
 * https://jpminda.wordpress.com/2015/08/11/university-students-are-afraid-of-everything/
+* https://computinged.wordpress.com/2015/09/21/a-terrific-and-dismal-view-of-what-influences-cs-faculty-to-adopt-teaching-practices/
 
 <li><a href="http://www.cosmopolitan.com/politics/a29775/cecily-mcmillan-grad-school-to-jail/" time_added="1407903140" tags="">I Went From Grad School to Prison</a></li>
 <li><a href="http://www.buzzfeed.com/duncanwatts/should-you-go-to-grad-school" time_added="1403057772" tags="">http://www.buzzfeed.com/duncanwatts/should-you-go-to-grad-school</a></li>
@@ -508,6 +509,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://well.blogs.nytimes.com/2015/05/27/anxious-students-strain-college-mental-health-centers/
 * https://chronicle.com/article/Sexual-Paranoia-Strikes/190351/
 * https://www.insidehighered.com/quicktakes/2015/06/25/survey-22-female-students-michigan-sexually-assaulted <- those numbers are horrific
+* https://www.insidehighered.com/news/2015/09/21/nearly-1-4-college-women-say-they-have-been-sexually-assaulted-survey-finds
 
 
 ### Finance, Debt
