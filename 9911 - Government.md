@@ -205,6 +205,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://medium.com/war-is-boring/the-u-s-navy-s-big-mistake-building-tons-of-supercarriers-79cb42029b8
 * http://arstechnica.com/business/2015/07/disastrous-f-35-vs-f-16-face-off-was-also-a-battle-of-philosophies/
 * https://firstlook.org/theintercept/2015/07/16/retired-general-drones-create-terrorists-kill-iraq-war-helped-create-isis/
+* http://www.nytimes.com/2015/09/21/world/asia/us-soldiers-told-to-ignore-afghan-allies-abuse-of-boys.html
 
 
 <li><a href="https://medium.com/war-is-boring/db72a8a23ccf" time_added="1405546931" tags="">Your Periodic Reminder That the V-22 Is a Piece of Junk — War is Boring — M</a></li>

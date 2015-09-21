@@ -208,7 +208,11 @@
 * http://mashable.com/2015/05/07/hiring-a-data-scientist/
 * http://www.datascienceassn.org/content/demand-data-scientists-data-engineers
 * http://www.bloomberg.com/news/articles/2015-06-04/help-wanted-black-belts-in-data
+* http://treycausey.com/data_science_interviews.html
+
+
 **Hiring at Dropbox**
+
 * Give a data set
 * Any two hours you want, whatever tools you want
 * Present at the end of it.
