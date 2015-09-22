@@ -8,6 +8,7 @@
 * https://gist.github.com/kylebrandt/89dc754c658340e87d97
 * http://www.slideshare.net/ericschmidt76/how-google-works-final-1
 * https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf
+* http://priceonomics.com/the-linguistics-of-writing-an-email-like-a-boss/
 * http://www.farnamstreetblog.com/2015/02/ben-horowitz-the-law-of-crappy-people/
 * https://pando.com/2015/07/03/holacracy-dunces/e5d42015bc13e7597bcb8936efb287511aab5cfd/
 * http://zachholman.com/posts/0x-engineers/

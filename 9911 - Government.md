@@ -196,6 +196,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.theguardian.com/world/2014/dec/11/-sp-isis-the-inside-story
 * https://wikileaks.org/cia-travel/
 * http://mobile.nytimes.com/2014/12/22/opinion/prosecute-torturers-and-their-bosses.html
+* http://motherboard.vice.com/read/low-and-slow
 * http://mobile.nytimes.com/2014/12/26/us/politics/high-level-knowledge-before-veterans-affairs-scandal.html
 * http://www.theatlantic.com/features/archive/2014/12/the-tragedy-of-the-american-military/383516/
 * http://www.laphamsquarterly.org/foreigners/enemy-aliens

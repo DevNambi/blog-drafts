@@ -151,6 +151,8 @@
 * http://blog.cryptographyengineering.com/2014/12/on-new-snowden-documents.html
 * http://krebsonsecurity.com/2015/03/sign-up-at-irs-gov-before-crooks-do-it-for-you/
 * https://state.com/article/1ZHEx4voAiU06
+* http://www.theregister.co.uk/2015/09/21/amazon_medical_gaffe/
+
 
 
 
