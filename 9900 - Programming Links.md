@@ -434,6 +434,7 @@
 * https://github.com/s16h/py-must-watch
 * http://docs.python-guide.org/en/latest/
 * http://blog.webhose.io/2015/08/12/tiny-basic-multi-threaded-web-crawler-in-python/
+* https://github.com/justmarkham/python-reference <- AMAZING
 
 **Examples of good Python codebases**
 * https://github.com/kennethreitz/requests

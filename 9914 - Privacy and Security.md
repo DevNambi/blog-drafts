@@ -45,6 +45,7 @@
 * https://jonathan.porta.codes/2015/07/30/windows-10-seems-to-have-some-scary-privacy-defaults/
 * https://emailselfdefense.fsf.org/en/
 * https://edri.org/microsofts-new-small-print-how-your-personal-data-abused/
+* http://sheriff.dynu.com/views/home
 * http://www.antipope.org/charlie/blog-static/2015/05/thoughtcrime.html
 * http://newsoffice.mit.edu/2015/csail-report-government-access-data-major-security-risks-0707
 * https://modelviewculture.com/pieces/social-networking-as-peer-surveillance
