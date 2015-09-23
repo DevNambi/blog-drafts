@@ -97,6 +97,7 @@ Emphasize what we don't know
 * http://www.theguardian.com/environment/climate-consensus-97-per-cent/2015/may/15/new-study-finds-a-hot-spot-in-the-atmosphere
 * https://www.washingtonpost.com/graphics/national/power-plants/
 * http://arstechnica.com/science/2015/05/three-pennsylvania-wells-likely-contaminated-by-fracking/
+* http://www.podniesinski.pl/portal/fukushima/
 * http://www.californiacoastline.org/
 * http://www.slate.com/blogs/the_slatest/2015/07/20/sea_level_study_james_hansen_issues_dire_climate_warning.html
 * http://arstechnica.com/science/2015/05/how-we-cut-carbon-emissions-influences-our-health/

@@ -205,6 +205,7 @@
 * http://www.itworld.com/article/2891140/study-finds-that-refactoring-doesn-t-improve-code-quality.html
 * https://medium.com/@Smrimell/escape-the-trap-avoiding-traps-in-software-development-with-systems-thinking-cbc20af7c719
 * http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html
+* http://richardkulisz.blogspot.com/2011/06/design-principles-vs-engineering.html
 
 
 ## UI, UX, HCD
