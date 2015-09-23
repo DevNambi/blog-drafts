@@ -59,6 +59,7 @@
 * http://www.clean-sheet.org/
 * http://www.openculture.com/2015/08/the-new-york-times-makes-17000-tasty-recipes-available-online.html
 * http://blogs.msdn.com/b/msr_er/archive/2015/06/26/announcing-the-microsoft-academic-graph-let-the-research-begin.aspx
+* https://open.nasa.gov/
 
 ## Data Acquisition, Sources
 
@@ -519,6 +520,7 @@
 * http://neuralnetworksanddeeplearning.com/chap6.html
 * http://blogs.mathworks.com/loren/2015/08/04/artificial-neural-networks-for-beginners/
 * http://www.technologyreview.com/view/541276/deep-learning-machine-teaches-itself-chess-in-72-hours-plays-at-international-master/
+* http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html
 
 
 #### Network Optimization, Linear Algebra, NP-hard 
@@ -760,4 +762,6 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6
 * http://www.technologyreview.com/view/538701/data-mining-reveals-the-surprising-factors-behind-successful-movies/
 * http://www.john-foreman.com/blog/data-is-an-asset <- beautiful
+* http://techcrunch.com/2015/09/22/one-in-three-farms-are-using-farmlogs-to-power-their-yields-with-big-data/
+
 

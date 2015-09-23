@@ -9,6 +9,7 @@
 * http://danluu.com/dunning-kruger/
 * http://blog.donnywals.com/consistency-and-discipline-over-motivation/
 * http://www.theatlantic.com/business/archive/2015/06/the-office-sounds-that-make-us-more-productive/394541/
+* http://sivers.org/no2
 * http://www.theatlantic.com/magazine/archive/2013/06/the-art-of-paying-attention/309312/
 * http://www.innovationexcellence.com/blog/2015/08/25/the-dynamics-of-a-creative-team/
 * http://7goldfish.com/Little%20know%20ways%20to%20think%20about%20dicipline

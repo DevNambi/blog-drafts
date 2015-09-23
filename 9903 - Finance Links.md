@@ -56,6 +56,7 @@
 * http://www.nakedcapitalism.com/2015/05/bill-black-new-labour-leaders-want-to-go-back-to-blairs-policies-that-blew-up-the-uk.html
 * http://www.nakedcapitalism.com/2015/05/sec-vindicates-deutsche-bank-derivatives-whistleblowers-eric-ben-artzi-and-matthew-simpson.html
 * http://www.nakedcapitalism.com/2015/07/mario-draghi-the-ecb-has-no-mandate-to-ensure-checks-clear-or-credit-cards-work.html
+* http://wolfstreet.com/2015/09/13/brazil-about-to-drag-down-spains-biggest-bank-santander/
 
 
 
@@ -229,6 +230,8 @@
 * http://www.nakedcapitalism.com/2015/07/private-equity-carry-fee-scandal-spreads-to-calstrs-after-nc-points-out-connection.html
 * http://www.economist.com/news/finance-and-economics/21657817-new-research-suggests-it-debt-not-frothy-asset-prices-should-worry?frsc=dg%7Ca
 * http://www.bbc.com/news/magazine-33166383
+* http://www.nakedcapitalism.com/2015/09/wolf-richter-uruguay-does-unthinkable-rejects-tisa-and-global-corporatocracy.html
+
 
 
 

@@ -122,6 +122,7 @@ Industries
 * http://arstechnica.com/science/2014/11/having-a-goal-may-keep-you-out-of-the-hospital/
 * http://www.chicagoreader.com/chicago/brickyard-blues/Content?oid=898211
 * http://www.fastcolabs.com/3038792/what-i-learned-from-building-an-app-for-low-income-americans
+* http://www.extremetech.com/extreme/214730-how-independent-researchers-tracked-down-vws-diesel-software-hacks
 * http://www.nytimes.com/2014/12/07/upshot/how-technology-could-help-fight-income-inequality.html
 * http://graphics.latimes.com/product-of-mexico-camps/
 * http://www.iflscience.com/health-and-medicine/cheap-smartphone-dongle-diagnoses-hiv-and-syphilis-15-minutes
