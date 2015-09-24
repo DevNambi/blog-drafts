@@ -101,6 +101,9 @@ Emphasize what we don't know
 * http://www.californiacoastline.org/
 * http://www.slate.com/blogs/the_slatest/2015/07/20/sea_level_study_james_hansen_issues_dire_climate_warning.html
 * http://arstechnica.com/science/2015/05/how-we-cut-carbon-emissions-influences-our-health/
+* http://www.nakedcapitalism.com/2015/09/gaius-publius-will-senator-whitehouse-renew-his-call-for-rico-prosecution-of-climate-denying-companies-like-exxon.html
+* http://mobile.nytimes.com/2014/07/07/us/how-environmentalists-drew-blueprint-for-obama-emissions-rule.html
+* http://www.bbc.com/news/magazine-34285658
 * http://www.wfaa.com/story/news/local/tarrant-county/2015/06/16/arlington-officials-report-on-fracking-fluid-blowout/28844657/
 * http://www.bloomberg.com/news/articles/2015-04-12/saudi-arabia-s-plan-to-extend-the-age-of-oil
 * http://arstechnica.com/science/2015/04/30/salty-groundwater-supports-life-in-antarcticas-extreme-dry-valleys/

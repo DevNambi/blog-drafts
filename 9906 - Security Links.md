@@ -7,6 +7,9 @@
 * https://vimeo.com/135347162 <- James Mickens' talk
 * http://www.extremetech.com/computing/212038-oracle-tells-its-customers-to-stop-analyzing-its-code-for-security-flaws
 * https://ma.ttias.be/remote-code-execution-via-http-request-in-iis-on-windows/
+* http://www.wsj.com/articles/cyber-sleuths-track-hacker-to-chinas-military-1443042030
+* http://offbeathome.com/2014/10/temporary-home-security
+* https://thestack.com/security/2015/09/24/cookies-can-render-secure-websites-vulnerable-in-all-modern-browsers/
 * http://www.zdnet.com/article/chryslers-response-to-car-hack-was-slow-and-incredibly-stupid/
 * http://arstechnica.com/security/2015/06/new-remote-exploit-leaves-most-macs-vulnerable-to-permanent-backdooring/
 * http://www.bloomberg.com/news/articles/2015-04-23/silicon-valley-s-help-sought-as-pentagon-fights-cyber-attacks

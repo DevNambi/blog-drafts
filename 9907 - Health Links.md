@@ -9,8 +9,10 @@
 * https://en.wikipedia.org/wiki/Grapefruit%E2%80%93drug_interactions
 * http://www.truth-out.org/news/item/31193-four-decades-of-the-wrong-dietary-advice-has-paved-the-way-for-the-diabetes-epidemic-time-to-change-course
 * http://www.nature.com/news/the-rise-of-africa-s-super-vegetables-1.17712 
+* http://www.salon.com/2014/02/18/5_vitamins_and_minerals_that_are_actually_worth_taking_partner/
 * http://www.washingtonpost.com/news/wonkblog/wp/2015/07/28/why-the-most-popular-rule-of-weight-loss-is-completely-wrong/?tid=sm_fb
 * http://qz.com/433750/the-world-eats-cheap-bacon-at-the-expense-of-north-carolinas-rural-poor/
+* http://www.nytimes.com/2014/11/20/technology/personaltech/bringing-sous-vide-to-the-home-cook.html
 * http://www.nerdfitness.com/blog/2015/06/15/11-most-common-workout-questions-answered/
 * http://www.seattletimes.com/life/food-drink/push-boundaries-of-flavor-by-cooking-with-tea/
 * http://www.bbc.com/news/magazine-33675975
@@ -211,6 +213,8 @@
 
 
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
+* http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/
+* http://arstechnica.com/science/2014/08/diy-diagnosis-how-an-extreme-athlete-uncovered-her-genetic-flaw/
 * http://newsoffice.mit.edu/2015/real-time-data-for-cancer-therapy-0804
 * http://stm.sciencemag.org/content/7/278/278ra33.full
 * https://vanwinkles.com/bedtime-for-benzodiazepines-addicted-drug-most-popular-sleeping-pills
@@ -239,6 +243,7 @@
 * http://newsroom.ucla.edu/releases/memory-loss-associated-with-alzheimers-reversed-for-first-time
 * http://www.latimes.com/science/sciencenow/la-sci-sn-h7n9-bird-flu-china-spread-pandemic-20150311-story.html
 * http://www.bloomberg.com/news/features/2015-02-12/does-a-real-anti-aging-pill-already-exist-
+* http://www.extremetech.com/extreme/214647-how-does-dna-sequencing-work
 * https://gravityandlevity.wordpress.com/2009/07/08/your-body-wasnt-built-to-last-a-lesson-from-human-mortality-rates/
 * http://www.bbc.com/news/health-31533559
 * http://www.nytimes.com/2015/02/24/opinion/how-to-develop-new-antibiotics.html
@@ -657,6 +662,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://www.benjamincburns.com/2014/11/30/from-hacker-to-hospice-in-seven-weeks.html
 * https://jawbone.com/blog/sleep-deprived-inactive-must-commuter/
 * http://www.nerdfitness.com/blog/2015/07/13/how-to-survive-sitting-all-day/
+* http://opinionator.blogs.nytimes.com/2014/06/13/no-clocking-out/
 
 
 
@@ -681,6 +687,8 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://www.nerdfitness.com/blog/2015/05/21/how-steve-the-software-architect-dropped-110-lbs/
 * http://desinutritionauthority.com/2015/06/why-young-slim-vegetarian-non-smoking-indians-are-struggling-with-cardiac-blockages-heart-attacks-and-diabetes/
 * http://www.vox.com/2015/7/7/8877041/losing-100-pounds
+* http://well.blogs.nytimes.com/2014/06/04/losing-weight-may-require-some-serious-fun/
+
 
 
 
@@ -724,6 +732,8 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 
 * http://www.nytimes.com/2013/01/06/realestate/relocation-therapy.html
 * http://arstechnica.com/tech-policy/2015/03/top-uk-doctors-call-for-ban-on-inherently-risky-fracking/
+* http://www.thedailybeast.com/articles/2014/07/21/drums-aren-t-just-for-music-they-re-therapy-too.html
+
 
 
 

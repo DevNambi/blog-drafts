@@ -61,6 +61,7 @@
 * http://www.nakedcapitalism.com/2015/05/high-school-dropout-rates-increase-with-income-inequality.html
 * http://www.seattletimes.com/seattle-news/testing-cutting-into-class-time/
 * http://www.elearnspace.org/blog/2015/09/09/adios-ed-tech-hola-something-else/
+* http://www.thegreatcourses.com/tgc/courses/Courses.aspx?ps=914
 * http://www.wired.com/2015/05/altschool/
 * http://www.nytimes.com/2015/04/07/nyregion/at-success-academy-charter-schools-polarizing-methods-and-superior-results.html
 * http://www.nytimes.com/2015/03/23/nyregion/cuomo-fights-rating-system-in-which-few-teachers-are-bad.html
@@ -515,6 +516,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 ### Finance, Debt
 
 * http://seattletimes.com/html/nationworld/2025012950_apxcollegecosts.html
+* http://www.thenation.com/article/why-is-college-so-expensive-if-professors-are-paid-so-little/
 * http://highereddatastories.blogspot.com/2015/08/how-pell-grant-recipients-fare-at.html
 * http://www.randalolson.com/2015/08/16/u-s-college-majors-median-yearly-earnings-vs-gender-ratio/
 * http://www.propublica.org/article/colleges-flush-with-cash-saddle-poorest-students-with-debt

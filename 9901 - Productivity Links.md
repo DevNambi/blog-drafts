@@ -17,6 +17,7 @@
 * http://www.theguardian.com/education/2014/feb/27/musicians-better-language-learners
 * http://arstechnica.com/science/2015/04/the-internet-doesnt-make-you-smarter-you-only-think-it-does/
 * http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004020
+* http://www.erickarjaluoto.com/blog/just-keep-making/
 * http://bigthink.com/ideafeed/a-philosophers-approach-to-getting-organized
 * http://parenting.blogs.nytimes.com/2014/10/16/want-to-ace-that-test-get-the-right-kind-of-sleep/
 * http://phys.org/news/2015-04-feet-literally.html

@@ -8,10 +8,12 @@
 
 * http://www.dailydot.com/politics/jeremy-hammond-terrorist-watchlist-fbi/
 * https://firstlook.org/theintercept/2015/08/03/political-staff-overruled-purists-state-department-tallied-countries-slavery-problems/
+* http://www.nytimes.com/2015/09/25/us/pope-francis-congress-speech.html
 * http://www.politico.com/story/2015/07/longer-airport-lines-likely-as-tsa-tries-to-plug-security-holes-120117.html?hp=t4_r
 * http://www.nytimes.com/2015/06/15/opinion/paul-krugman-democrats-being-democrats.html
 * http://www.theatlantic.com/politics/archive/2015/04/loving-v-marriage/391730/
 * http://ben.balter.com/2015/04/21/why-technologists-dont-want-to-work-at-your-agency/
+* http://www.vox.com/2015/9/22/9374105/elizabeth-warrens-truth-in-settlements
 * http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html
 * http://www.theatlantic.com/politics/archive/2015/03/the-conservative-case-against-enforcing-immigration-laws/387004/
 * http://www.salon.com/2015/06/12/this_is_the_nras_worst_nightmare_the_new_gun_safety_study_that_gun_nuts_dont_want_you_to_hear_about/
@@ -105,6 +107,8 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://mobile.nytimes.com/2015/04/10/world/middleeast/yemen-fighting.html
 * https://www.eff.org/deeplinks/2015/05/africas-worst-new-internet-censorship-law-could-be-coming-south-africa
 * http://www.nytimes.com/2015/06/07/magazine/the-agency.html
+* http://www.nytimes.com/2015/07/27/world/outlaw-ocean-thailand-fishing-sea-slaves-pets.html
+
 
 
 

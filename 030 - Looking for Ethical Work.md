@@ -130,6 +130,12 @@ Industries
 * http://www.iflscience.com/health-and-medicine/cheap-smartphone-dongle-diagnoses-hiv-and-syphilis-15-minutes
 * http://leancrew.com/all-this/2015/02/engineering-ethics/
 * http://www.seattletimes.com/nation-world/ap-investigation-slavery-taints-global-supply-of-seafood-2/
+* http://www.extremetech.com/extreme/186647-handheld-device-allows-anyone-to-instantly-test-drinks-for-date-rape-drugs
+* http://arstechnica.com/business/2015/09/songwriter-tells-us-house-he-made-5679-from-178-million-spotify-streams/
+
+
+
+
 
 Work-Life Balance: List the good and bad things, and why
 • How to make good things easier

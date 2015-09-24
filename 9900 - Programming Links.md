@@ -154,6 +154,7 @@
 * http://newsoffice.mit.edu/2015/algorithm-genome-best-possible-0610
 * http://www.nytimes.com/2015/07/29/technology/code-academy-as-career-game-changer.html
 * https://medium.com/sketch-app-sources/five-app-prototyping-tools-compared-form-framer-origami-pixate-proto-io-c2acc9062c61
+* http://caspervonb.com/tools/git-recipes-for-the-common-mistakes-and-mishaps/
 
 
 
@@ -383,6 +384,8 @@
 * http://blog.takipi.com/amazon-ec2-2015-benchmark-testing-speeds-between-aws-ec2-and-s3-regions/
 * http://bits.blogs.nytimes.com/2015/09/09/google-follows-amazon-web-services-into-on-demand-supercomputing/?_r=1
 * http://sebastiansylvan.com/2009/11/22/two-performance-walls-approaching/
+* https://www.edx.org/course/linuxfoundationx/linuxfoundationx-lfs101x-introduction-1621
+
 
 
 
@@ -423,6 +426,7 @@
 * http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/
 * http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb
 * http://nbviewer.ipython.org/github/chrisalbon/code_py/tree/master/ <- HOLY CRAP THAT'S AMAZING
+* http://anandology.com/python-practice-book/index.html
 * http://blog.yhathq.com/posts/11-python-libraries-you-might-not-know.html
 * http://nb.bianp.net/sort/views/
 * https://www.youtube.com/watch?v=sH4XF6pKKmk
@@ -519,6 +523,8 @@
 * https://groups.google.com/forum/#!msg/linux-sunxi/78MbtijKraY/cZSxI_59sg4J
 * http://www.brendangregg.com/blog/2015-03-03/performance-tuning-linux-instances-on-ec2.html
 * http://www.vitavonni.de/blog/201503/2015031201-the-sad-state-of-sysadmin-in-the-age-of-containers.html
+* https://www.edx.org/course/linuxfoundationx/linuxfoundationx-lfs101x-introduction-1621
+
 
 
 
@@ -560,6 +566,8 @@
 * http://wp.sigmod.org/?p=1629
 * https://medium.com/s-c-a-l-e/database-guru-on-why-nosql-matters-and-sql-still-matters-c64239fe84fd
 * http://www.pipelinedb.com/blog/making-postgres-bloom
+* http://pajhome.org.uk/blog/10_reasons_to_love_sqlalchemy.html
+
 
 <li><a href="http://t.co/ZA3MOe15" time_added="1357660034" tags="">mrdenny: Reading: http://t.co/ZA3MOe15 Selective XML Index - Secondary Sele</a></li>
 <li><a href="http://t.co/wHxcpOOC" time_added="1356371201" tags="">BrentOzarULTD: New post: sp_BlitzIndex™ Holiday Week Edition http://t.co/wH</a></li>
@@ -636,6 +644,8 @@ things they believe in will keep </a></li>
 
 * http://danluu.com/discourage-oss/
 * http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/
+* http://www.nytimes.com/2015/09/23/nyregion/volkswagens-diesel-fraud-makes-critic-of-secret-code-a-prophet.html
+
 
 
 

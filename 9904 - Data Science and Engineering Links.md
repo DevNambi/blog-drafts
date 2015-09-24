@@ -165,6 +165,7 @@
 * http://blog.ae.be/combining-the-power-of-r-and-d3-js/?hn
 * https://beta.oreilly.com/learning/data-visualization-with-seaborn
 * https://github.com/wbkd/awesome-d3
+* http://c3js.org/
 
 #### GGPlot2
 
@@ -333,7 +334,6 @@
 * http://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/
 * https://kartikkukreja.wordpress.com/2015/07/04/adversarial-search/
 * http://mlwave.com/kaggle-ensembling-guide/
-* http://www.gregreda.com/2015/03/30/beer-review-markov-chains/
 * http://blog.dato.com/choosing-a-recommender-model
 * http://research.microsoft.com/pubs/192769/tricks-2012.pdf
 * http://arxiv.org/pdf/1503.01331v1.pdf
@@ -347,7 +347,6 @@
 * https://outlookzen.wordpress.com/2015/03/15/life-lessons-from-machine-learning/
 * https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
 * http://www.machinedlearnings.com/2015/07/icml-2015-review.html
-* http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
 * http://research.microsoft.com/en-us/projects/r2/
 * http://probabilistic-programming.org/wiki/Home
 * http://new.livestream.com/accounts/7874891/events/3565981 <- ML conf videos
@@ -375,7 +374,6 @@
 * http://blogs.nvidia.com/blog/2014/11/17/microsoft-gpu-learn-faster/
 * http://spectrum.ieee.org/robotics/artificial-intelligence/the-unknown-startup-that-built-googles-first-selfdriving-ca
 * http://www.dataschool.io/roc-curves-and-auc-explained/
-* http://johncarlosbaez.wordpress.com/2014/11/15/a-second-law-for-open-markov-processes/
 * http://austingwalters.com/pca-principal-component-analysis/
 * https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43146.pdf
 * http://www.john-foreman.com/blog/the-perilous-world-of-machine-learning-for-fun-and-profit-pipeline-jungles-and-hidden-feedback-loops
@@ -395,10 +393,22 @@
 * https://lab.getbase.com/is-regression-trustworthy-or-how-to-use-metrics-to-trust-the-prediction-of-regression/
 * http://fastml.com/evaluating-recommender-systems/
 * http://arxiv.org/abs/1509.01240 <- stochastic gradient descent is pretty great
-* http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
+
 
 
 "ML tip: train a model to distinguish between your training set & unlabeled data. If it works, your training data may be incomplete!" - Jake Vanderplas
+
+
+#### Markov Chains
+
+* http://www.analyticsvidhya.com/blog/2014/07/markov-chain-simplified/
+* http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
+* http://www.gregreda.com/2015/03/30/beer-review-markov-chains/
+* http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
+* http://johncarlosbaez.wordpress.com/2014/11/15/a-second-law-for-open-markov-processes/
+* http://techeffigy.wordpress.com/2014/06/30/markov-chains-explained/
+* http://liljonnystyle.blogspot.com/2014/05/markov-where-are-my-umbrellas.html
+
 
 
 #### Strong AI
@@ -521,6 +531,8 @@
 * http://blogs.mathworks.com/loren/2015/08/04/artificial-neural-networks-for-beginners/
 * http://www.technologyreview.com/view/541276/deep-learning-machine-teaches-itself-chess-in-72-hours-plays-at-international-master/
 * http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html
+* http://neuralnetworksanddeeplearning.com/chap4.html
+
 
 
 #### Network Optimization, Linear Algebra, NP-hard 
@@ -570,6 +582,8 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * https://www.datayou.org/articles/the-three-kinds-of-data-science-project-exams-that-show-up-in-a-data-science-interview
 * https://www.coursera.org/specializations/machine-learning
 * http://blog.datapolitan.com/2015/09/18/teaching-analytics-to-nyc-employees-an-introduction/
+* http://www.reddit.com/r/MachineLearning/comments/2etkyv/good_machine_learning_conferences_for_someone_new/
+
 
 ## Funny
 
@@ -703,6 +717,8 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://eugenezhulenev.com/blog/2015/07/15/interactive-audience-analytics-with-spark-and-hyperloglog/
 * http://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/
 * https://www.dataquest.io/mission/123/introduction-to-spark/
+* http://blog.sequenceiq.com/blog/2014/06/19/multinode-hadoop-cluster-on-docker/
+* http://strata.oreilly.com/2014/02/extending-graphlab-to-tables.html
 
 
 
