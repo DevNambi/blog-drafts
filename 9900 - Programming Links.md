@@ -385,6 +385,7 @@
 * http://bits.blogs.nytimes.com/2015/09/09/google-follows-amazon-web-services-into-on-demand-supercomputing/?_r=1
 * http://sebastiansylvan.com/2009/11/22/two-performance-walls-approaching/
 * https://www.edx.org/course/linuxfoundationx/linuxfoundationx-lfs101x-introduction-1621
+* http://techblog.netflix.com/2015/09/chaos-engineering-upgraded.html
 
 
 

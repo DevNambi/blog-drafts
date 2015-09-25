@@ -308,3 +308,5 @@ http://www.vancouversun.com/technology/Ottawa+removing+North+Pacific+humpback+wh
 http://www.networkworld.com/article/2692556/careers/blowing-the-whistle-without-blowing-your-career.html
 
 http://mobile.nytimes.com/2015/05/24/world/europe/popes-focus-on-poor-revives-scorned-theology.html?_r=1
+
+http://www.theguardian.com/world/2015/sep/22/extreme-altruism-should-you-care-for-strangers-as-much-as-family
