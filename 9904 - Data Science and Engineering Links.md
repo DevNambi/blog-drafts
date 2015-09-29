@@ -84,6 +84,8 @@
 * http://googleresearch.blogspot.com/2015/06/a-multilingual-corpus-of-automatically.html
 * http://blog.yhathq.com/posts/7-funny-datasets.html
 * http://blaze.github.io/blog/2015/09/08/reddit-comments/
+* https://www.reddit.com/r/datasets/comments/3mg812/full_reddit_submission_corpus_now_available_2006/
+
 
 ## Data Cleaning/Munging
 
@@ -682,6 +684,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://byterot.blogspot.com/2015/01/future-of-programming-rise-of-the-scientific-developer-bigdata-datascience-machine-learning-and-fall-of-the-craftsman.html
 * http://harry.me/blog/2014/12/27/neat-algorithms-paxos/
 * http://techblog.netflix.com/2014/10/using-presto-in-our-big-data-platform.html
+* https://github.com/Randommood/Strangeloop2015
 * http://databricks.com/blog/2014/10/10/spark-breaks-previous-large-scale-sort-record.html
 * http://patshaughnessy.net/2014/10/13/following-a-select-statement-through-postgres-internals
 * http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html

@@ -28,6 +28,7 @@ Question #4 is about **comparative advantage**. There are a few different ways t
 I've found various links with resources about job searching and resumes.
 
 <ul>
+<li><a href="https://www.reddit.com/r/AskReddit/comments/3mcssi/recruiters_what_are_some_red_flags_when_you_are/">Red Flags for Recruiters</a></li>
 <li><a href="http://lifehacker.com/5934911/write-your-resume-like-a-recruiter-to-boost-your-chances-of-getting-hired" time_added="1348860175" tags="brand,hiring/firing">Write Your Resume Like a Recruiter to Boost Your Chances of Getting Hired</a></li>
 <li><a href="http://www.articulateventures.com/thoughts-on-being-an-employer/getting_hired/" time_added="1361979914" tags="brand,hiring/firing,hn">The Infuriating Truth About Getting Hired</a></li>
 <li><a href="http://techcrunch.com/2013/01/12/10-reasons-why-2013-will-be-the-year-you-quit-your-job/" time_added="1358052989" tags="brand">10 Reasons Why 2013 Will Be The Year You Quit Your Job | TechCrunch</a></li>

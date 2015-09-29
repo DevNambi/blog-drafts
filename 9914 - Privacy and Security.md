@@ -111,6 +111,7 @@
 * http://motherboard.vice.com/read/looking-up-symptoms-online-these-companies-are-collecting-your-data
 * http://www.alternet.org/news-amp-politics/snowden-iphones-have-secret-spyware-lets-govts-monitor-unsuspecting-users
 * https://medium.com/matter/how-britain-exported-next-generation-surveillance-d15b5801b79e
+* http://arstechnica.com/gadgets/2015/09/paranoid-android-redux-going-dark-with-silent-circles-blackphone-2/
 * http://www.propublica.org/article/somebodys-already-using-verizons-id-to-track-users
 * https://blog.torproject.org/blog/possible-upcoming-attempts-disable-tor-network
 * http://vimeo.com/117440574

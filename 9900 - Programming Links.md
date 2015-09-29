@@ -76,6 +76,8 @@
 * http://zachgoldberg.com/2015/07/15/the-commandments-of-good-code-according-to-zach/
 * http://usersnap.com/blog/developers-lessons-learned/
 * http://mcfunley.com/choose-boring-technology-slides
+* https://www.loggly.com/ultimate-guide/
+
 
 
 
@@ -668,6 +670,7 @@ things they believe in will keep </a></li>
 * http://priceonomics.com/the-independent-discovery-of-tcpip-by-ants/
 * http://elementaryos.org/docs/human-interface-guidelines
 * http://stuff-gil-says.blogspot.com/2014/10/what-sort-of-allocation-rates-can.html
+* http://code.flickr.net/2015/09/25/perceptual-image-compression-at-flickr/
 * http://www.essentialmath.com/tutorial.htm
 * http://www.freedomlayer.org/articles/dht_intro.html
 * https://www.blitz.io/

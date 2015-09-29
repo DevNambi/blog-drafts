@@ -40,9 +40,12 @@
 * http://www.troyhunt.com/2015/07/how-i-got-xssd-by-my-ad-network.html
 * https://www.eff.org/deeplinks/2015/04/whitehouses-new-executive-order-cyber-crime-unfortunately-no-joke
 * http://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html
+* http://www.nytimes.com/2015/09/27/business/complex-car-software-becomes-the-weak-spot-under-the-hood.html
 * http://arstechnica.com/security/2015/05/the-moose-is-loose-linux-based-worm-turns-routers-into-social-network-bots/
 * http://blog.trendmicro.com/pawn-storm-first-java-zero-day-attack-in-two-years-targets-nato-us-defense-organizations/
 * http://blog.dripstat.com/removal-of-sun-misc-unsafe-a-disaster-in-the-making/
+* http://jeremykun.com/2014/02/08/introducing-elliptic-curves/
+* http://www.salon.com/2015/09/26/how_to_explain_the_kgbs_amazing_success_identifying_cia_agents_in_the_field/
 * http://www.wired.com/2015/04/want-see-domestic-spyings-future-follow-drug-war/
 * http://www.itnews.com/disaster-recovery/94529/fbi-alert-discloses-malware-tied-opm-and-anthem-attacks
 * http://www.dw.com/en/wikileaks-steinmeier-target-of-systematic-nsa-spying/a-18596704
