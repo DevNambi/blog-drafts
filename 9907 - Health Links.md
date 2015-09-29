@@ -214,6 +214,7 @@
 
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
 * http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/
+* http://www.nytimes.com/2015/09/29/health/a-breast-cancer-surgeon-who-keeps-challenging-the-status-quo.html
 * http://arstechnica.com/science/2014/08/diy-diagnosis-how-an-extreme-athlete-uncovered-her-genetic-flaw/
 * http://newsoffice.mit.edu/2015/real-time-data-for-cancer-therapy-0804
 * http://stm.sciencemag.org/content/7/278/278ra33.full

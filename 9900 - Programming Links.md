@@ -388,6 +388,10 @@
 * http://sebastiansylvan.com/2009/11/22/two-performance-walls-approaching/
 * https://www.edx.org/course/linuxfoundationx/linuxfoundationx-lfs101x-introduction-1621
 * http://techblog.netflix.com/2015/09/chaos-engineering-upgraded.html
+* http://etodd.io/2015/09/28/one-weird-trick-better-code/
+* http://www.nytimes.com/2012/09/23/technology/data-centers-waste-vast-amounts-of-energy-belying-industry-image.html
+
+
 
 
 
