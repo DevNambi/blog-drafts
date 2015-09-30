@@ -102,6 +102,8 @@
 * http://recode.net/2015/05/07/searching-for-the-next-stanford-silicon-valley-turns-its-eyes-to-berkeley/
 * https://stories.californiasunday.com/2015-06-07/real-teenagers-silicon-valley
 * https://medium.com/backchannel/how-the-tech-press-forces-a-narrative-on-companies-it-covers-5f89fdb7793e
+* https://medium.com/@sfhousingrightscommittee/an-open-letter-to-airbnb-emey-about-housing-and-prop-f-8d1bfb84356
+* http://blog.onradpad.com/employees-are-paying-this-much-to-live-next-to-unicorns-in-sf/
 
 
 
