@@ -76,6 +76,7 @@ I've found various links with resources about job searching and resumes.
 
 * http://paddy.io/posts/recruiters/
 * http://dandreamsofcoding.wordpress.com/2012/11/19/why-wont-anyone-talk-to-me-what-recruiters-look-for-in-a-resume/
+* http://jobtipsforgeeks.com/2015/05/04/srt2/
 
 @hmason: If everyone stopped paying recruiters the entire tech industry would probably gain years of productivity overnight.
 
@@ -283,6 +284,7 @@ http://www.computerworld.com/article/2879083/southern-california-edison-it-worke
 <li><a href="http://www.infoworld.com/article/2942208/h1b/a-california-backlash-rises-over-foreign-it-worker-replacements.html">A California backlash rises over foreign IT worker replacements</a></li>
 <li><a href="http://www.nybooks.com/articles/archives/2015/jul/09/frenzy-about-high-tech-talent/">The Frenzy About High-Tech Talent
 </a></li>
+<li><a href="http://www.nytimes.com/2015/09/30/us/temporary-visas-meant-to-import-talent-help-ship-jobs-abroad.html">Toys ‘R’ Us Brings Temporary Foreign Workers to U.S. to Move Jobs Overseas</a></li>
 </ul>
 
 

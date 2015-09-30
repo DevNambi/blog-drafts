@@ -38,6 +38,9 @@
 * https://hacked.com/hacking-drones-close-drawn-boeing-hacking-team/
 * http://krebsonsecurity.com/2015/07/online-cheating-site-ashleymadison-hacked/ <- a divorce lawyer's dream
 * http://www.troyhunt.com/2015/07/how-i-got-xssd-by-my-ad-network.html
+* https://www.schneier.com/blog/archives/2015/09/volkswagen_and_.html
+* http://www.extremetech.com/computing/215285-critical-truecrypt-security-bugs-finally-found
+* http://arstechnica.com/tech-policy/2015/09/cia-officers-pulled-from-china-because-of-opm-breach/
 * https://www.eff.org/deeplinks/2015/04/whitehouses-new-executive-order-cyber-crime-unfortunately-no-joke
 * http://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html
 * http://www.nytimes.com/2015/09/27/business/complex-car-software-becomes-the-weak-spot-under-the-hood.html
