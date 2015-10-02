@@ -232,6 +232,8 @@
 * http://www.bbc.com/news/magazine-33166383
 * http://www.nakedcapitalism.com/2015/09/wolf-richter-uruguay-does-unthinkable-rejects-tisa-and-global-corporatocracy.html
 * http://www.nakedcapitalism.com/2015/09/former-california-official-blasts-calpers-ceo-anne-stausboll-staff-and-board-for-misconduct.html
+* http://www.bloombergview.com/articles/2015-09-30/high-speed-trading-firm-deleted-some-code-by-accident
+
 
 
 

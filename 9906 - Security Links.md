@@ -51,6 +51,8 @@
 * http://www.salon.com/2015/09/26/how_to_explain_the_kgbs_amazing_success_identifying_cia_agents_in_the_field/
 * http://www.wired.com/2015/04/want-see-domestic-spyings-future-follow-drug-war/
 * http://www.itnews.com/disaster-recovery/94529/fbi-alert-discloses-malware-tied-opm-and-anthem-attacks
+* http://mobile.nytimes.com/aponline/2015/10/01/business/ap-us-experian-t-mobile-data-breach.html
+* http://arstechnica.com/business/2015/10/today-all-stores-in-the-us-should-accept-chip-and-pin-cards-yeah-right/
 * http://www.dw.com/en/wikileaks-steinmeier-target-of-systematic-nsa-spying/a-18596704
 * http://recode.net/2015/04/13/cyber-crime-still-on-the-rise-using-nine-basic-attack-methods/
 * https://www.schneier.com/blog/archives/2015/06/reassessing_air.html
@@ -66,6 +68,7 @@
 * http://trilema.com/2015/full-disclosure-4096-rsa-key-in-the-strongset-factored/
 * http://www.nationaljournal.com/tech/mcconnell-introduces-bill-to-reauthorize-patriot-act-until-2020-20150421
 * http://www.forbes.com/sites/thomasbrewster/2015/05/26/security-pro-fury-on-exploit-export-rules/
+* http://motherboard.vice.com/read/new-stagefright-bugs-leave-more-than-1-billion-android-users-vulnerable
 * http://arstechnica.com/tech-policy/2015/07/opm-director-resigns-after-news-that-hack-affected-21-5-million-people/
 * http://arstechnica.com/security/2015/06/stepson-of-stuxnet-stalked-kaspersky-for-months-tapped-iran-nuke-talks/
 * http://blog.codinghorror.com/given-enough-money-all-bugs-are-shallow/

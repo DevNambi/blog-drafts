@@ -567,6 +567,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.npr.org/sections/money/2015/07/15/422590257/medicine-law-business-which-grad-students-borrow-the-most
 * http://www.nytimes.com/2015/09/14/upshot/gaps-in-alumni-earnings-stand-out-in-release-of-college-data.html
 * https://collegescorecard.ed.gov/
+* https://www.washingtonpost.com/news/grade-point/wp/2015/09/01/are-we-nearing-the-end-of-college-tuition-pricing-as-we-know-it/
 
 
 #### Adjuncts and Grad Students
@@ -664,6 +665,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://www.insidehighered.com/news/2015/03/05/analysis-distance-education-enrollments-challenges-myths-about-medium
 * https://courserajunkie.wordpress.com/2015/05/26/courseras-free-statements-of-accomplisments-die-a-quiet-death/
 * http://newsoffice.mit.edu/2015/at-risk-students-moocs-dropout-0701
+* http://m.cacm.acm.org/magazines/2015/10/192385-life-after-moocs/fulltext
 
 
 

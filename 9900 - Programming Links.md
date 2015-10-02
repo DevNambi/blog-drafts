@@ -106,6 +106,8 @@
 * http://berzniz.com/post/128267561586/features-are-debt-not-assets
 * http://dtrace.org/blogs/bmc/2015/09/03/software-immaculate-fetid-and-grimy/
 * https://www.airpair.com/code-review/posts/code-review-the-ultimate-guide
+* http://blog.scalyr.com/2014/07/impossible-problems-often-arent/
+
 
 
 
@@ -390,6 +392,8 @@
 * http://techblog.netflix.com/2015/09/chaos-engineering-upgraded.html
 * http://etodd.io/2015/09/28/one-weird-trick-better-code/
 * http://www.nytimes.com/2012/09/23/technology/data-centers-waste-vast-amounts-of-energy-belying-industry-image.html
+* http://blog.scalyr.com/2015/09/irreversible-failures-lessons-from-the-dynamodb-outage/
+* http://blog.ranman.org/cleaning-up-aws-with-boto3/
 
 
 

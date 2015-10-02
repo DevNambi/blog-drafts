@@ -196,6 +196,7 @@
 * http://www.computerworld.com/article/2849263/doxxing-defense-remove-your-personal-info-from-data-brokers.html
 * https://www.eff.org/deeplinks/2015/07/xkeyscore-expose-reaffirms-need-rid-web-tracking-cookies
 * http://www.marco.org/2015/08/11/ad-blocking-ethics
+* http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html
 
 #### Other Notes
 
