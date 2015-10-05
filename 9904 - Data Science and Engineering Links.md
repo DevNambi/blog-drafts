@@ -85,6 +85,7 @@
 * http://blog.yhathq.com/posts/7-funny-datasets.html
 * http://blaze.github.io/blog/2015/09/08/reddit-comments/
 * https://www.reddit.com/r/datasets/comments/3mg812/full_reddit_submission_corpus_now_available_2006/
+* http://minimaxir.com/2015/10/reddit-bigquery/ <- Amazing
 
 
 ## Data Cleaning/Munging
@@ -254,6 +255,7 @@
 * http://www.johndcook.com/blog/2015/02/04/miscellaneous-math-resources/
 * https://medium.com/@warrenhenning/a-software-engineers-adventures-in-learning-mathematics-62140c59e5c
 * http://sujitpal.blogspot.com/2014/05/ipython-notebooks-for-statlearning.html
+* http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb
 * https://umich.app.box.com/s/aov81sye5qxlx0yyonhy23itstsjp4t4 <- Linear optimization (pdf)
 * http://svds.com/post/avoiding-common-mistake-time-series
 * http://www.simonsfoundation.org/quanta/20141015-at-the-far-ends-of-a-new-universal-law/
