@@ -60,6 +60,7 @@
 * http://www.openculture.com/2015/08/the-new-york-times-makes-17000-tasty-recipes-available-online.html
 * http://blogs.msdn.com/b/msr_er/archive/2015/06/26/announcing-the-microsoft-academic-graph-let-the-research-begin.aspx
 * https://open.nasa.gov/
+* http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/ <- here's the mother lode
 
 ## Data Acquisition, Sources
 
