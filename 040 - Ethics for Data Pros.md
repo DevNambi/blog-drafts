@@ -28,6 +28,7 @@ We believe we are working to make our society, our world, a better place. At the
 
 * http://mathbabe.org/2013/11/12/there-is-no-market-solution-for-ethics/
 * http://blog.datalook.io/definitive-guide-data-science-good/
+* https://www.oreilly.com/ideas/five-principles-for-applying-data-science-for-social-good
 * http://flowingdata.com/2014/12/15/when-data-gets-creepy/http://mobile.nytimes.com/2015/06/21/opinion/sunday/please-corporations-experiment-on-us.html
 * http://andrewgelman.com/2014/12/23/using-statistics-make-world-better-place/
 * http://www.inference.phy.cam.ac.uk/sanjoy/schmidt/archive/social-anarchism.htm

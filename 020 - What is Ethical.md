@@ -303,6 +303,8 @@ We live in a society where partial responsibility means no responsibility. Howev
 
 http://www.nakedcapitalism.com/2014/04/tom-engelhardt-big-jail-kidnapping-torture-assassination-perjury-longer-crimes-washington.html
 
+http://www.telegraph.co.uk/finance/newsbysector/industry/11896546/Corporate-Social-Responsibility-has-become-a-racket-and-a-dangerous-one.html
+
 http://www.vancouversun.com/technology/Ottawa+removing+North+Pacific+humpback+whales+from+list+threatened+species/9760778/story.html
 
 http://www.networkworld.com/article/2692556/careers/blowing-the-whistle-without-blowing-your-career.html

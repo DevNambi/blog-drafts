@@ -60,6 +60,7 @@
 * http://www.openculture.com/2015/08/the-new-york-times-makes-17000-tasty-recipes-available-online.html
 * http://blogs.msdn.com/b/msr_er/archive/2015/06/26/announcing-the-microsoft-academic-graph-let-the-research-begin.aspx
 * https://open.nasa.gov/
+* http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/ <- here's the mother lode
 
 ## Data Acquisition, Sources
 
@@ -85,6 +86,7 @@
 * http://blog.yhathq.com/posts/7-funny-datasets.html
 * http://blaze.github.io/blog/2015/09/08/reddit-comments/
 * https://www.reddit.com/r/datasets/comments/3mg812/full_reddit_submission_corpus_now_available_2006/
+* http://minimaxir.com/2015/10/reddit-bigquery/ <- Amazing
 
 
 ## Data Cleaning/Munging
@@ -254,6 +256,7 @@
 * http://www.johndcook.com/blog/2015/02/04/miscellaneous-math-resources/
 * https://medium.com/@warrenhenning/a-software-engineers-adventures-in-learning-mathematics-62140c59e5c
 * http://sujitpal.blogspot.com/2014/05/ipython-notebooks-for-statlearning.html
+* http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb
 * https://umich.app.box.com/s/aov81sye5qxlx0yyonhy23itstsjp4t4 <- Linear optimization (pdf)
 * http://svds.com/post/avoiding-common-mistake-time-series
 * http://www.simonsfoundation.org/quanta/20141015-at-the-far-ends-of-a-new-universal-law/

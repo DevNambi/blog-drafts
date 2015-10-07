@@ -35,6 +35,7 @@
 * http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/
 * http://www.nomachetejuggling.com/2014/02/05/top-10-career-changing-programming-books/
 * http://martinfowler.com/articles/microservice-trade-offs.html
+* http://highscalability.com/blog/2015/10/5/your-load-generator-is-probably-lying-to-you-take-the-red-pi.html
 * http://blog.fogus.me/2014/12/29/the-best-things-and-stuff-of-2014/
 * http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html
 * http://mcfunley.com/choose-boring-technology
@@ -107,8 +108,7 @@
 * http://dtrace.org/blogs/bmc/2015/09/03/software-immaculate-fetid-and-grimy/
 * https://www.airpair.com/code-review/posts/code-review-the-ultimate-guide
 * http://blog.scalyr.com/2014/07/impossible-problems-often-arent/
-
-
+* http://www.drmaciver.com/2015/10/the-economics-of-software-correctness/
 
 
 ## Learning to Code
@@ -335,6 +335,7 @@
 * http://blog.atomicinc.com/2015/03/03/does-amazon-web-services-pricing-follow-moores-law-2350/
 * http://www.infoq.com/news/2015/04/vogels-patterns-cloud-adoption
 * http://www.wired.com/2015/04/kevin-mcelvaney-agbogbloshie/
+* http://danluu.com/intel-cat/
 * http://us10.campaign-archive1.com/?u=5dfb7b5de8e42c2633c06b3a8&id=36227f3963
 * https://aws.amazon.com/blogs/aws/building-price-aware-applications-using-ec2-spot-instances/
 * https://yourbunnywrote.org/2015/04/19/google-cloud/
