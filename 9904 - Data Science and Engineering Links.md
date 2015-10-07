@@ -623,6 +623,8 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 
 ## Data Stacks, Engineering
 
+### Do a blog post on the data flow paper
+
 <li><a href="https://github.com/rickysaltzer/impala-in-action" time_added="1389815401" tags="">rickysaltzer/impala-in-action · GitHub</a></li>
 <li><a href="http://tepid.org/tech/01-aurora-mesos-cluster/" time_added="1390924821" tags="">"Setting up an Apache Aurora/Mesos Cluster with Vagrant" blog post by @Nutt</a></li>
 <li><a href="http://www.michaelnielsen.org/ddi/why-bloom-filters-work-the-way-they-do/" time_added="1391273974" tags="">Why Bloom filters work the way they do | DDI</a></li>
