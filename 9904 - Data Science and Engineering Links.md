@@ -728,6 +728,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://www.dataquest.io/mission/123/introduction-to-spark/
 * http://blog.sequenceiq.com/blog/2014/06/19/multinode-hadoop-cluster-on-docker/
 * http://strata.oreilly.com/2014/02/extending-graphlab-to-tables.html
+* https://influxdb.com/docs/v0.9/concepts/storage_engine.html
 
 
 

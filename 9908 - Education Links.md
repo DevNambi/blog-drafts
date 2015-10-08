@@ -130,6 +130,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 ## Higher Education
 
 * http://equitablegrowth.org/research/achievement-gap/ <- why I do what I do
+* http://www.washingtonpost.com/sf/brand-connect/wp/video/what-do-you-know-about-college/
 * https://www.insidehighered.com/news/2015/09/10/amid-competency-based-education-boom-meeting-help-colleges-do-it-right
 * http://www.nytimes.com/2015/08/31/technology/tools-for-tailored-learning-may-expose-students-personal-details.html
 * http://www.seattletimes.com/nation-world/study-more-than-a-third-of-us-college-students-transferred/
@@ -440,6 +441,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 ### Mismeasurement, Incentives
 
 * http://blogs.seattletimes.com/northwestvoices/2014/10/27/uw-innovation-dont-lose-sight-of-academic-goals-by-building-new-buildings/
+* http://www.brookings.edu/research/reports2/2015/04/29-beyond-college-rankings-rothwell-kulkarni <- Beautifully done
 * http://mathbabe.org/2015/06/18/college-metrics-of-success/
 * http://chronicle.com/article/Business-Can-Pay-to-Train-Its/231015/
 * http://www.theguardian.com/world/2015/may/27/pakistan-arrests-axact-shoaib-shaikh-fake-degrees
@@ -512,6 +514,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://chronicle.com/article/Sexual-Paranoia-Strikes/190351/
 * https://www.insidehighered.com/quicktakes/2015/06/25/survey-22-female-students-michigan-sexually-assaulted <- those numbers are horrific
 * https://www.insidehighered.com/news/2015/09/21/nearly-1-4-college-women-say-they-have-been-sexually-assaulted-survey-finds
+* http://www.nytimes.com/2015/10/09/sports/ncaafootball/beer-alcohol-college-football-west-virginia.html
 
 
 ### Finance, Debt
@@ -568,6 +571,8 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2015/09/14/upshot/gaps-in-alumni-earnings-stand-out-in-release-of-college-data.html
 * https://collegescorecard.ed.gov/
 * https://www.washingtonpost.com/news/grade-point/wp/2015/09/01/are-we-nearing-the-end-of-college-tuition-pricing-as-we-know-it/
+* http://www.nytimes.com/2015/10/08/upshot/student-debt-is-worse-than-you-think.html
+
 
 
 #### Adjuncts and Grad Students

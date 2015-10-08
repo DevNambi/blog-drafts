@@ -25,6 +25,7 @@
 * http://tim.dreamwidth.org/1890351.html
 * http://firstround.com/article/This-is-Why-People-Leave-Your-Company
 * https://michaelochurch.wordpress.com/2014/02/06/if-you-stop-promoting-from-within-soon-you-cant/
+* http://blog.fogcreek.com/refactoring-to-a-happier-development-team-interview-with-coraline-ada-ehmke/
 * http://blog.fogcreek.com/how-to-find-hire-and-retain-developers-interview-with-cal-evans/
 * https://blog.karat.io/2015/05/18/how-to-hire-engineers-in-a-non-tech-industry/
 * http://the-toast.net/2014/10/27/employer-put-fml-fmla/

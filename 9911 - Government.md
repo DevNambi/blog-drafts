@@ -212,6 +212,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://firstlook.org/theintercept/2015/07/16/retired-general-drones-create-terrorists-kill-iraq-war-helped-create-isis/
 * http://www.nytimes.com/2015/09/21/world/asia/us-soldiers-told-to-ignore-afghan-allies-abuse-of-boys.html
 * http://www.thedailybeast.com/articles/2015/09/20/exclusive-this-is-the-isis-intel-the-u-s-military-dumbed-down.html
+* http://www.huffingtonpost.com/entry/sarah-chayes-kunduz_56103348e4b0768127024d1b
 
 
 <li><a href="https://medium.com/war-is-boring/db72a8a23ccf" time_added="1405546931" tags="">Your Periodic Reminder That the V-22 Is a Piece of Junk — War is Boring — M</a></li>

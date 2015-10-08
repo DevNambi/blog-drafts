@@ -13,6 +13,7 @@
 * http://www.washingtonpost.com/news/wonkblog/wp/2015/07/28/why-the-most-popular-rule-of-weight-loss-is-completely-wrong/?tid=sm_fb
 * http://qz.com/433750/the-world-eats-cheap-bacon-at-the-expense-of-north-carolinas-rural-poor/
 * http://www.nytimes.com/2014/11/20/technology/personaltech/bringing-sous-vide-to-the-home-cook.html
+* https://www.reddit.com/r/dataisbeautiful/comments/3ns1qf/total_weight_and_protein_content_per_100_calories/ <- beautifully done
 * http://www.nerdfitness.com/blog/2015/06/15/11-most-common-workout-questions-answered/
 * http://www.seattletimes.com/life/food-drink/push-boundaries-of-flavor-by-cooking-with-tea/
 * http://www.bbc.com/news/magazine-33675975
