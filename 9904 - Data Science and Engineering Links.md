@@ -329,6 +329,7 @@
 
 * http://punkrockor.wordpress.com/2014/08/12/in-defense-of-model-simplicity/
 * http://www.startup.ml/blog/hyperparam
+* http://xyclade.github.io/MachineLearning/
 * http://www.infoq.com/presentations/machine-learning-general-programming <- brilliant
 * http://www.dataschool.io/comparing-supervised-learning-algorithms/
 * http://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/
