@@ -205,6 +205,7 @@ Interviews are one of the best times to find out about a company's culture, work
 <li><a href="http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/">The Software Engineer’s Guide to Negotiating a Raise</a></li>
 <li><a href="http://thinkfaster.co/2015/07/how-to-avoid-the-software-salary-ceiling"></a></li>
 <li><a href="http://pastebin.com/eBetxc1Q">Negotiating compensation</a></li>
+<li><a href="https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md">Guide to Your Equity Compensation</a></li>
 </ul>
 
 

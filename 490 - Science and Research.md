@@ -13,6 +13,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://benchling.engineering/crispr-aws-lambda/?hn
 * http://www.scientificamerican.com/article/scientists-perturbed-by-loss-of-stat-tool-to-sift-research-fudge-from-fact/
 * http://www.civilbeat.com/2015/04/mauna-kea-is-a-special-place-in-humanitys-quest-for-knowledge/
+* http://www.projectmidas.org/blog/getting-to-antarctica/
 * http://blogs.msdn.com/b/msr_er/archive/2015/06/26/announcing-the-microsoft-academic-graph-let-the-research-begin.aspx
 * http://www.nytimes.com/2015/03/24/science/when-science-is-lost-in-a-legal-maze.html
 * https://www.nasa.gov/image-feature/the-icy-mountains-of-pluto

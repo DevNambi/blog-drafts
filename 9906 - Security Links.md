@@ -23,6 +23,7 @@
 * http://www.bbc.com/news/technology-33802344
 * http://techcrunch.com/2015/07/13/development-of-a-200-wifi-router-geared-towards-whistleblowers-was-just-suspiciously-cancelled/
 * http://arstechnica.com/security/2015/06/encryption-would-not-have-helped-at-opm-says-dhs-official/
+* http://arstechnica.com/tech-policy/2015/10/obama-administration-wont-seek-encryption-backdoor-legislation/
 * http://arstechnica.com/security/2015/09/ms-researchers-claim-to-crack-encrypted-database-with-old-simple-trick/
 * http://arstechnica.com/gadgets/2015/08/waiting-for-androids-inevitable-security-armageddon/
 * https://vimeo.com/135347162

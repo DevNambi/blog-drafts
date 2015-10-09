@@ -393,6 +393,9 @@
 * http://techblog.netflix.com/2015/09/chaos-engineering-upgraded.html
 * http://etodd.io/2015/09/28/one-weird-trick-better-code/
 * http://www.nytimes.com/2012/09/23/technology/data-centers-waste-vast-amounts-of-energy-belying-industry-image.html
+* https://aws.amazon.com/blogs/aws/aws-lambda-update-python-vpc-increased-function-duration-scheduling-and-more/
+* http://viethip.com/2015/10/10/why-unikernels-might-kill-containers-in-five-years/
+
 
 
 

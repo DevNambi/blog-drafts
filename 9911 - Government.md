@@ -9,7 +9,8 @@
 * http://www.dailydot.com/politics/jeremy-hammond-terrorist-watchlist-fbi/
 * https://firstlook.org/theintercept/2015/08/03/political-staff-overruled-purists-state-department-tallied-countries-slavery-problems/
 * http://www.nytimes.com/2015/09/25/us/pope-francis-congress-speech.html
-* http://www.politico.com/story/2015/07/longer-airport-lines-likely-as-tsa-tries-to-plug-security-holes-120117.html?hp=t4_r
+* http://www.politico.com/story/2015/07/longer-airport-lines-likely-as-tsa-tries-to-plug-security-holes-120117.html
+* https://18f.gsa.gov/2015/10/09/cloud-gov-launch/
 * http://www.nytimes.com/2015/06/15/opinion/paul-krugman-democrats-being-democrats.html
 * http://www.theatlantic.com/politics/archive/2015/04/loving-v-marriage/391730/
 * http://ben.balter.com/2015/04/21/why-technologists-dont-want-to-work-at-your-agency/
@@ -66,6 +67,8 @@
 * http://www.nytimes.com/2015/01/20/dining/animal-welfare-at-risk-in-experiments-for-meat-industry.html
 * http://www.slate.com/articles/health_and_science/new_scientist/2015/01/mass_surveillance_against_terrorism_gathering_intelligence_on_all_is_statistically.html?wpsrc=fol_tw
 * http://www.buzzfeed.com/jessicagarrison/the-new-american-slavery-invited-to-the-us-foreign-workers-f
+* http://arstechnica.com/science/2015/10/dispatches-from-the-death-star-the-rise-and-fall-of-nasas-shuttle-centaur/
+
 
 
 <li><a href="https://firstlook.org/theintercept/2014/02/14/ongoing-abuse-state-secrets-privilege/" time_added="1392591442" tags="">Obama DOJ's New Abuse of State-Secrets Privilege Revealed - The Intercept</a></li>
@@ -348,6 +351,8 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.nytimes.com/2015/07/29/magazine/voting-rights-act-dream-undone.html
 * http://thehill.com/blogs/blog-briefing-room/250141-trump-harvard-students-fraudsters-and-liars
 * http://americablog.com/2015/08/mathematician-actual-voter-fraud-kansas-republicans.html
+* http://qz.com/520652/groundwork-eric-schmidt-startup-working-for-hillary-clinton-campaign/
+
 
 
 If the United States is an aristocracy/oligarchy, then its citizens do not owe their country any loyalty. A government that does not represent its citizens (not a democracy) cannot expect the loyalty of its citizens. 

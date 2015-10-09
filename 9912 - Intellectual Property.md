@@ -40,6 +40,7 @@
 * https://www.gnu.org/philosophy/who-does-that-server-really-serve.html
 * https://www.eff.org/deeplinks/2015/04/automakers-say-you-dont-really-own-your-car
 * http://popehat.com/2015/05/04/prenda-law-and-the-terrible-horrible-no-good-very-bad-appellate-argument/
+* http://arstechnica.com/tech-policy/2015/10/gene-patents-probably-dead-worldwide-following-australian-court-decision/
 * http://arstechnica.com/tech-policy/2015/02/music-service-uses-copyright-extortion-tactics-on-youtube-suit-says/
 * http://www.wired.com/2015/02/new-high-tech-farm-equipment-nightmare-farmers/
 * https://www.eff.org/deeplinks/2015/02/go-prison-sharing-files-thats-what-hollywood-wants-secret-tpp-deal

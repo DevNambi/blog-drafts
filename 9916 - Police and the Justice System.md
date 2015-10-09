@@ -19,6 +19,7 @@
 * http://www.seattletimes.com/seattle-news/politics/police-reform-monitor-asks-harrell-to-wait-on-legislation/
 * http://boingboing.net/2015/07/06/michigan-cop-charges-black-gra.html
 * http://www.nytimes.com/2015/09/21/us/oregons-legal-sale-of-marijuana-comes-with-reprieve.html
+* http://arstechnica.com/tech-policy/2015/10/body-cam-footage-clears-cops-in-cleveland-shooting-death/
 * http://www.nytimes.com/2015/07/09/us/girls-in-juvenile-facilities-often-abused-report-says.html
 * http://www.nytimes.com/2015/09/05/us/a-surreptitious-courtroom-video-prompts-changes-in-a-georgia-town.html
 * http://www.latimes.com/nation/nationnow/la-na-nn-sandra-bland-footage-20150721-htmlstory.html

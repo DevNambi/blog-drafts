@@ -214,6 +214,7 @@
 * http://mobile.nytimes.com/blogs/publiceditor/2015/04/10/a-darker-narrative-of-prints-future-from-clay-shirky/
 * https://medium.com/@harrisj/leaving-the-new-york-times-bb3e73adc61f
 * http://bgr.com/2015/05/16/netflix-vs-amazon-prime-reality-shows/
+* http://www.theawl.com/2015/10/the-chicago-end-times
 
 
 ## Airlines
