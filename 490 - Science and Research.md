@@ -49,6 +49,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://www.washingtonpost.com/opinions/why-science-is-so-hard-to-believe/2015/02/12/2ff8f064-b0a0-11e4-886b-c22184f27c35_story.html
 * http://arstechnica.com/science/2015/05/who-needs-poppies-ordinary-yeast-can-now-produce-opioids/ <- beware of what you can cause
 * http://www.pewinternet.org/2015/09/10/what-the-public-knows-and-does-not-know-about-science/
+* http://www.antipope.org/charlie/blog-static/2015/09/the-skys-gone-dark.html
 
 
 <li><a href="http://www.infoworld.com/d/big-data/astronomers-crunch-big-data-map-the-galaxies-209573" time_added="1357233706" tags="big data,cloud,data science,ml">Astronomers crunch big data to map the galaxies | Big Data - InfoWorld</a></li>

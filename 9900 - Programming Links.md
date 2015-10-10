@@ -107,8 +107,8 @@
 * http://berzniz.com/post/128267561586/features-are-debt-not-assets
 * http://dtrace.org/blogs/bmc/2015/09/03/software-immaculate-fetid-and-grimy/
 * https://www.airpair.com/code-review/posts/code-review-the-ultimate-guide
+* http://blog.scalyr.com/2014/07/impossible-problems-often-arent/
 * http://www.drmaciver.com/2015/10/the-economics-of-software-correctness/
-
 
 
 ## Learning to Code
@@ -286,7 +286,7 @@
 
 
 
-## Cloud Computing, Virtualization, Hardware
+## Cloud Computing, Virtualization, Hardware, Performance Tuning
 
 
 <li><a href="http://www.blog.juliaferraioli.com/2014/01/julia-on-google-compute-engine-working.html" time_added="1390673210" tags="">Julia on Google Compute Engine: working with files | never a straight line</a></li>
@@ -395,9 +395,9 @@
 * http://www.nytimes.com/2012/09/23/technology/data-centers-waste-vast-amounts-of-energy-belying-industry-image.html
 * https://aws.amazon.com/blogs/aws/aws-lambda-update-python-vpc-increased-function-duration-scheduling-and-more/
 * http://viethip.com/2015/10/10/why-unikernels-might-kill-containers-in-five-years/
-
-
-
+* http://blog.scalyr.com/2015/09/irreversible-failures-lessons-from-the-dynamodb-outage/
+* http://blog.ranman.org/cleaning-up-aws-with-boto3/
+* http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html
 
 
 

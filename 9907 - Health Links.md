@@ -13,6 +13,7 @@
 * http://www.washingtonpost.com/news/wonkblog/wp/2015/07/28/why-the-most-popular-rule-of-weight-loss-is-completely-wrong/?tid=sm_fb
 * http://qz.com/433750/the-world-eats-cheap-bacon-at-the-expense-of-north-carolinas-rural-poor/
 * http://www.nytimes.com/2014/11/20/technology/personaltech/bringing-sous-vide-to-the-home-cook.html
+* https://www.reddit.com/r/dataisbeautiful/comments/3ns1qf/total_weight_and_protein_content_per_100_calories/ <- beautifully done
 * http://www.nerdfitness.com/blog/2015/06/15/11-most-common-workout-questions-answered/
 * http://www.seattletimes.com/life/food-drink/push-boundaries-of-flavor-by-cooking-with-tea/
 * http://www.bbc.com/news/magazine-33675975
@@ -255,6 +256,7 @@
 * http://www.theverge.com/2015/3/25/8288671/autism-causes-genetic-research-study-women
 * http://www.extremetech.com/extreme/199602-fda-authorizes-23andme-to-market-health-related-genetic-testing
 * http://www.nytimes.com/2015/02/19/opinion/oliver-sacks-on-learning-he-has-terminal-cancer.html
+* http://www.theatlantic.com/health/archive/2015/09/why-it-was-easier-to-be-skinny-in-the-1980s/407974/
 * http://news.sciencemag.org/biology/2015/02/stopping-hiv-artificial-protein
 * http://www.popsci.com/ultrasound-restores-memory-mice-alzheimers
 * http://www.sciencealert.com/new-alzheimer-s-treatment-fully-restores-memory-function

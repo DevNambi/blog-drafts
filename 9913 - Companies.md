@@ -83,6 +83,8 @@
 
 * http://roadlesstravelled.me/2015/04/06/why-steve-jobs-motivated-me-to-quit-apple/
 * http://words.hunzekerhesed.com/i-am-thinking-of-returning-my-apple-watch
+* https://medium.com/backchannel/how-steve-jobs-fleeced-carly-fiorina-79d1380663de
+
 
 ## IBM and other large IT companies
 
@@ -273,6 +275,7 @@
 * http://techcrunch.com/2015/06/23/reddit-turns-ten-years-old-releases-treasure-trove-of-cool-stats/
 * http://fusion.net/story/191773/i-created-a-fake-business-and-fooled-thousands-of-people-into-thinking-it-was-real/
 * http://www.nytimes.com/2015/09/15/us/these-public-libraries-are-for-snowshoes-and-ukuleles.html
+* http://highline.huffingtonpost.com/miracleindustry/americas-most-admired-lawbreaker/
 * http://www.reuters.com/article/2015/09/23/us-usa-volkswagen-researchers-idUSKCN0RM2D720150923
 
 

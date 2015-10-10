@@ -189,6 +189,8 @@ Embrace awkwardness more
 * https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide
 * https://bitbucket.org/nikratio/s3ql
 * http://flowingdata.com/2015/09/11/turn-a-two-way-mirror-into-an-information-display/
+* http://www.extremetech.com/computing/215243-the-best-new-features-in-os-x-10-11-el-capitan
+* http://techreport.com/review/29143/tr-october-2015-peripheral-staff-picks/
 
 
 

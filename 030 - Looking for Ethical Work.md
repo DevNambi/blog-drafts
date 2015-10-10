@@ -101,6 +101,7 @@ Industries
 * http://berkeleyjournal.org/2015/01/morality-and-the-idea-of-progress-in-silicon-valley/
 * http://idlewords.com/talks/what_happens_next_will_amaze_you.htm
 * http://mobile.nytimes.com/2015/05/03/magazine/want-a-steady-income-theres-an-app-for-that.html
+* http://www.johndcook.com/blog/2015/10/01/technical-arbitrage/
 * https://medium.com/@chrisloer/join-the-engineering-leisure-class-b3083c09a78e
 * http://opinionator.blogs.nytimes.com/2015/05/22/allying-choice-and-nutrition-at-food-pantries/?_r=0
 * http://www.theguardian.com/media/2015/may/07/how-friendship-became-tool-of-powerfuls
@@ -116,6 +117,7 @@ Industries
 * http://www.bbc.com/news/magazine-32736366
 * http://www.nakedcapitalism.com/2014/12/joe-firestone-lawless-society.html
 * http://rein.pk/replacing-middle-management-with-apis/
+* https://en.wikipedia.org/wiki/Peer-to-peer_insurance
 * http://www.brainpickings.org/2014/02/11/brockman-what-should-we-be-worried-about/
 * http://www.pickthebrain.com/blog/8-things-important-job/
 * http://www.cs.washington.edu/events/colloquia/details?id=2607

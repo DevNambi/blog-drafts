@@ -113,6 +113,7 @@ Emphasize what we don't know
 * http://www.wsj.com/articles/google-gets-into-battery-arms-race-1428694613
 * http://arstechnica.com/science/2015/08/the-solar-sunflower-harnessing-the-power-of-5000-suns/
 * http://arstechnica.com/science/2015/08/worst-case-scenario-how-bad-could-a-tropical-cyclone-be/
+* http://www.fastcoexist.com/3051087/california-is-building-the-countrys-largest-solar-desalination-plant
 * http://www.theatlantic.com/national/archive/2015/09/the-disaster-next-time/403063/?single_page=true
 * http://www.washingtonpost.com/news/energy-environment/wp/2015/09/02/scientists-discover-that-the-world-contains-dramatically-more-trees-than-previously-thought/
 * http://www.economist.com/news/briefing/21647622-land-centre-pre-industrial-economy-has-returned-constraint-growth

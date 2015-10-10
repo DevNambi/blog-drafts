@@ -45,6 +45,7 @@
 * http://www.theregister.co.uk/2015/08/27/malvertising_feature/
 * https://jonathan.porta.codes/2015/07/30/windows-10-seems-to-have-some-scary-privacy-defaults/
 * https://emailselfdefense.fsf.org/en/
+* http://arstechnica.com/security/2015/10/verizons-zombie-cookie-gets-new-life/
 * https://edri.org/microsofts-new-small-print-how-your-personal-data-abused/
 * http://sheriff.dynu.com/views/home
 * http://www.antipope.org/charlie/blog-static/2015/05/thoughtcrime.html
@@ -198,6 +199,7 @@
 * http://www.computerworld.com/article/2849263/doxxing-defense-remove-your-personal-info-from-data-brokers.html
 * https://www.eff.org/deeplinks/2015/07/xkeyscore-expose-reaffirms-need-rid-web-tracking-cookies
 * http://www.marco.org/2015/08/11/ad-blocking-ethics
+* http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html
 
 #### Other Notes
 

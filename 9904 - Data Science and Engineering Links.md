@@ -329,6 +329,7 @@
 
 * http://punkrockor.wordpress.com/2014/08/12/in-defense-of-model-simplicity/
 * http://www.startup.ml/blog/hyperparam
+* http://xyclade.github.io/MachineLearning/
 * http://www.infoq.com/presentations/machine-learning-general-programming <- brilliant
 * http://www.dataschool.io/comparing-supervised-learning-algorithms/
 * http://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/
@@ -626,6 +627,8 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 
 ## Data Stacks, Engineering
 
+### Do a blog post on the data flow paper
+
 <li><a href="https://github.com/rickysaltzer/impala-in-action" time_added="1389815401" tags="">rickysaltzer/impala-in-action · GitHub</a></li>
 <li><a href="http://tepid.org/tech/01-aurora-mesos-cluster/" time_added="1390924821" tags="">"Setting up an Apache Aurora/Mesos Cluster with Vagrant" blog post by @Nutt</a></li>
 <li><a href="http://www.michaelnielsen.org/ddi/why-bloom-filters-work-the-way-they-do/" time_added="1391273974" tags="">Why Bloom filters work the way they do | DDI</a></li>
@@ -726,6 +729,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://www.dataquest.io/mission/123/introduction-to-spark/
 * http://blog.sequenceiq.com/blog/2014/06/19/multinode-hadoop-cluster-on-docker/
 * http://strata.oreilly.com/2014/02/extending-graphlab-to-tables.html
+* https://influxdb.com/docs/v0.9/concepts/storage_engine.html
 
 
 
