@@ -98,6 +98,7 @@
 * https://michaelochurch.wordpress.com/2015/08/08/employees-at-google-yahoo-and-amazon-lose-nothing-if-they-unionize-heres-why/
 * http://www.seattleweekly.com/home/960633-129/thirteen-things-i-learned-cooking-at
 * http://www.theverge.com/2015/9/17/9338963/welcome-to-hell-apple-vs-google-vs-facebook-and-the-slow-death-of-the-web
+* http://www.wired.com/2015/10/meet-walking-dead-hp-cisco-dell-emc-ibm-oracle
 
 
 
@@ -277,6 +278,7 @@
 * http://www.nytimes.com/2015/09/15/us/these-public-libraries-are-for-snowshoes-and-ukuleles.html
 * http://highline.huffingtonpost.com/miracleindustry/americas-most-admired-lawbreaker/
 * http://www.reuters.com/article/2015/09/23/us-usa-volkswagen-researchers-idUSKCN0RM2D720150923
+* https://hbr.org/2015/08/productivity-is-soaring-at-top-firms-and-sluggish-everywhere-else\
 
 
 

@@ -1,4 +1,4 @@
-# Health
+**# Health
 
 
 
@@ -421,6 +421,7 @@
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://www.nakedcapitalism.com/2015/10/tpp-intellectual-property-chapter-is-a-disaster-for-global-health.html
 * http://www.huffingtonpost.com/jeffrey-sachs/rational-drug-pricing_b_8188790.html
 * http://www.washingtonpost.com/news/wonkblog/wp/2015/09/25/the-drug-industry-wants-us-to-think-martin-shkreli-is-a-rogue-ceo-he-isnt/
 * http://www.nytimes.com/2015/05/26/opinion/the-university-of-minnesotas-medical-research-mess.html

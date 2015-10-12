@@ -339,6 +339,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://mobile.nytimes.com/2015/03/31/sports/in-boston-olympic-bid-vote-more-at-stake-than-games.html
 * http://westleyargentum.github.io/112th-influence-vis/
 * http://america.aljazeera.com/opinions/2014/12/laffer-curve-taxcutshikeseconomics.html
+* http://mitesp.tumblr.com/post/130793404248/how-i-teach-gerrymandering
 * http://www.psiru.org/reports/public-and-private-sector-efficiency
 * http://www.latimes.com/business/hiltzik/la-fi-mh-erode-the-credibility-of-budget-estimates-20141222-column.html
 * http://www.nytimes.com/2015/01/21/upshot/better-but-still-troubled-our-take-on-the-state-of-the-union.html

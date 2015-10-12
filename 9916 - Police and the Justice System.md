@@ -15,6 +15,7 @@
 * https://www.eff.org/deeplinks/2015/09/taken-offline-years-prison-love-technology
 * http://www.latimes.com/local/lanow/la-me-ln-federal-judge-orders-release-of-videos-20150714-story.html
 * http://www.seattletimes.com/seattle-news/prison-sex-abuse-cases-grow-but-prosecutions-are-rare/
+* http://www.npr.org/2015/10/09/447202433/-great-pause-among-forensic-scientists-as-dna-proves-fallible
 * http://mathbabe.org/2015/07/08/what-are-prisons-for/
 * http://www.seattletimes.com/seattle-news/politics/police-reform-monitor-asks-harrell-to-wait-on-legislation/
 * http://boingboing.net/2015/07/06/michigan-cop-charges-black-gra.html

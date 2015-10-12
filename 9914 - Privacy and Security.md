@@ -47,6 +47,7 @@
 * https://emailselfdefense.fsf.org/en/
 * http://arstechnica.com/security/2015/10/verizons-zombie-cookie-gets-new-life/
 * https://edri.org/microsofts-new-small-print-how-your-personal-data-abused/
+* http://idlewords.com/talks/what_happens_next_will_amaze_you.htm
 * http://sheriff.dynu.com/views/home
 * http://www.antipope.org/charlie/blog-static/2015/05/thoughtcrime.html
 * http://newsoffice.mit.edu/2015/csail-report-government-access-data-major-security-risks-0707
