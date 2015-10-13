@@ -41,6 +41,7 @@ http://thewireless.co.nz/articles/the-pencilsword-on-a-plate <- this is how priv
 * http://mathbabe.org/2015/07/29/women-in-tech-pipeline-versus-retention/
 * http://fortune.com/2015/02/17/a-female-computer-science-major-at-stanford-floored-by-the-sexism/
 * http://gutsybroads.com/2015/02/investor-wanted-give-50000-heres-said-no/
+* https://medium.com/@violetblue/facebook-i-want-out-e1e891975531?source=tw-c4103bd4f0ad-1444704941753 
 * http://hypatia.ca/2015/09/23/bingo-and-beyond/
 * http://www.psmag.com/health-and-behavior/women-arent-welcome-internet-72170
 * https://medium.com/@katylevinson/sexism-in-tech-don-t-ask-me-unless-you-re-ready-to-call-somebody-a-whistleblower-e5d545e547b0
