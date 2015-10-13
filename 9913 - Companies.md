@@ -29,6 +29,7 @@
 
 * http://www.nytimes.com/2014/10/20/opinion/paul-krugman-amazons-monopsony-is-not-ok.html
 * http://smerity.com/articles/2015/amazon_information_leakage.html
+* http://www.nakedcapitalism.com/2015/10/harvard-business-review-ranks-amazons-jeff-bezos-as-most-predatory-ceo.html
 * http://www.economist.com/blogs/freeexchange/2014/10/market-power?fsrc=scn/fb/wl/bl/bigbadamazon
 * https://www.scribd.com/embeds/245561031/content
 * http://www.nytimes.com/2015/06/24/business/amazon-big-retailers-remove-confederate-flag-merchandise.html?_r=0

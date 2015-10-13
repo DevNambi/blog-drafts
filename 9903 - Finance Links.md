@@ -233,6 +233,8 @@
 * http://www.nakedcapitalism.com/2015/09/wolf-richter-uruguay-does-unthinkable-rejects-tisa-and-global-corporatocracy.html
 * http://www.nakedcapitalism.com/2015/09/former-california-official-blasts-calpers-ceo-anne-stausboll-staff-and-board-for-misconduct.html
 * http://www.bloombergview.com/articles/2015-09-30/high-speed-trading-firm-deleted-some-code-by-accident
+* http://www.nakedcapitalism.com/2015/10/after-nc-media-coverage-of-calpers-and-calstrs-private-equity-fee-lapses-treasurer-john-chiang-calls-for-legislation.html
+* http://www.nakedcapitalism.com/2015/10/the-uks-money-laundering-mess-i.html
 
 
 
