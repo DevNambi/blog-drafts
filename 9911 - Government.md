@@ -97,6 +97,13 @@
 <li><a href="http://www.theatlantic.com/international/archive/2014/05/is-north-korea-right-about-us-human-rights-abuses/361589/" time_added="1399274309" tags="">Is North Korea Right About U.S. Human-Rights Abuses? - Matt Ford - The Atla</a></li>
 
 
+#### 18F, Efficient Government
+
+* https://18f.gsa.gov/2015/10/13/open-source-micropurchasing/
+* https://github.com/18F/calc
+* https://calc.gsa.gov/?sort=-current_price&q=Statistician%2C+&query_type=match_all&min_experience=2&max_experience=45&contract-year=current&experience_range=2%2C45
+* https://www.sam.gov/portal/SAM/##11
+
 
 ## Other Countries
 
