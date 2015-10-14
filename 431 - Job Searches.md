@@ -51,6 +51,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://www.bloomberg.com/news/articles/2015-04-27/the-best-and-worst-fonts-to-use-on-your-r-sum-">The Best and Worst Fonts to Use on Your Résumé</a></li>
 <li><a href="http://blog.landing.jobs/an-email-template-for-candidates-frustrated-with-unresponsive-employers/">An email template for candidates frustrated with unresponsive employers</a></li>
 <li><a href="http://pmarchive.com/guide_to_career_planning_part2.html">Pmarca Guide to Career Planning</a></li>
+<li><a href="http://flowingdata.com/2015/10/14/work-counts/">How many have the same education, income, work hours, and commute as you do?</a></li>
 </ul>
 
 

@@ -45,6 +45,7 @@ We believe we are working to make our society, our world, a better place. At the
 * https://aws.amazon.com/blogs/aws/new-resource-oriented-bidding-for-ec2-spot-instances/
 * http://www.nakedcapitalism.com/2015/04/big-data-watching-work.html
 * http://mathbabe.org/2015/09/30/guest-post-how-to-be-a-data-scientist-at-a-non-profit/
+* http://hitconsultant.net/2015/10/13/10-ways-artificial-intelligence-could-make-me-a-better-doctor/
 * http://arstechnica.com/gadgets/2015/07/musk-hawking-wozniak-call-for-ban-on-autonomous-weaponry-and-military-ai/ <- DON'T DO THIS.
 * http://www.marketsforgood.org/the-lake-washington-declaration/
 * http://www.infoworld.com/article/2687499/techology-business/silicon-valley-is-making-american-manufacturing-more-competitive.html
