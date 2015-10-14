@@ -153,6 +153,7 @@
 * http://arstechnica.com/business/2015/04/google-fiber-plans-expansion-then-twc-makes-speeds-six-times-faster/
 * http://blog.longreads.com/2015/05/12/a-brief-history-of-aol/
 * http://arstechnica.com/tech-policy/2015/07/senators-asks-fcc-to-investigate-cable-and-broadband-prices/
+* http://arstechnica.com/tech-policy/2015/10/att-customer-politely-e-mails-ceo-gets-terse-reply-from-att-lawyer/
 
 
 ## Google
