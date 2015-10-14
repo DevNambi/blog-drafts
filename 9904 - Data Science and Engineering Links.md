@@ -539,6 +539,7 @@
 * http://www.technologyreview.com/view/541276/deep-learning-machine-teaches-itself-chess-in-72-hours-plays-at-international-master/
 * http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html
 * http://neuralnetworksanddeeplearning.com/chap4.html
+* http://blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/
 
 
 
