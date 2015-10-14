@@ -261,6 +261,7 @@
 * http://svds.com/post/avoiding-common-mistake-time-series
 * http://www.simonsfoundation.org/quanta/20141015-at-the-far-ends-of-a-new-universal-law/
 * http://scottsievert.github.io/blog/2015/01/31/the-mysterious-eigenvalue/
+* http://colah.github.io/posts/2015-09-Visual-Information/ <- this is *beautiful*
 * http://simplystatistics.org/2014/10/17/bayes-rule-in-a-gif/
 * http://danluu.com/percentile-latency/
 * https://github.com/twitter/BreakoutDetection
