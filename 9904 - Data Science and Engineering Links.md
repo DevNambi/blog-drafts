@@ -590,6 +590,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * https://www.coursera.org/specializations/machine-learning
 * http://blog.datapolitan.com/2015/09/18/teaching-analytics-to-nyc-employees-an-introduction/
 * http://www.reddit.com/r/MachineLearning/comments/2etkyv/good_machine_learning_conferences_for_someone_new/
+* http://www.johndcook.com/blog/2015/10/14/data-science-etc/
 
 
 ## Funny
