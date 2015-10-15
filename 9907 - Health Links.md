@@ -215,6 +215,7 @@
 
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
 * http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/
+* http://www.independent.co.uk/news/science/cure-for-cancer-might-accidentally-have-been-found-and-it-could-be-malaria-a6693601.html
 * http://www.nytimes.com/2015/09/29/health/a-breast-cancer-surgeon-who-keeps-challenging-the-status-quo.html
 * http://hitconsultant.net/2015/10/13/10-ways-artificial-intelligence-could-make-me-a-better-doctor/
 * http://arstechnica.com/science/2014/08/diy-diagnosis-how-an-extreme-athlete-uncovered-her-genetic-flaw/
@@ -468,6 +469,7 @@
 * http://mobile.nytimes.com/2015/05/17/magazine/the-last-day-of-her-life.html
 * http://www.nakedcapitalism.com/2015/07/wolf-richter-private-equity-scrambles-to-buy-primary-care-doctors-leverage-their-patients.html
 * http://mobile.nytimes.com/2015/09/21/business/a-huge-overnight-increase-in-a-drugs-price-raises-protests.html
+* http://well.blogs.nytimes.com/2015/10/14/dietary-supplements-lead-to-20000-e-r-visits-yearly-study-finds/
 
 <li><a href="http://www.rand.org/pubs/research_briefs/RB9744.html" time_added="1395001792" tags="">Do Workplace Wellness Programs Save Employers Money? | RAND</a></li>
 <li><a href="http://www.nytimes.com/2013/09/03/opinion/how-a-cabal-keeps-generics-scarce.html" time_added="1388678022" tags="">How a Cabal Keeps Generics Scarce - NYTimes.com</a></li>
