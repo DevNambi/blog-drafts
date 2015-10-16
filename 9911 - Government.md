@@ -233,6 +233,8 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.thedailybeast.com/articles/2015/09/20/exclusive-this-is-the-isis-intel-the-u-s-military-dumbed-down.html
 * http://www.huffingtonpost.com/entry/sarah-chayes-kunduz_56103348e4b0768127024d1b
 * http://arstechnica.com/tech-policy/2015/10/detainees-sue-psychologists-who-engineered-profited-from-cia-torture/ <- good. War crimes trial, anyone?
+* http://www.seattletimes.com/nation-world/u-s-analysts-knew-afghan-site-was-hospital-ap-reports/
+* https://theintercept.com/2015/10/15/civil-liberties-groups-call-for-congressional-inquiry-into-assassination-program/
 
 
 <li><a href="https://medium.com/war-is-boring/db72a8a23ccf" time_added="1405546931" tags="">Your Periodic Reminder That the V-22 Is a Piece of Junk — War is Boring — M</a></li>
