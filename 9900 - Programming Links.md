@@ -161,6 +161,7 @@
 * http://caspervonb.com/tools/git-recipes-for-the-common-mistakes-and-mishaps/
 * https://www.interviewcake.com/article/coding-interview-tips
 * https://www.reddit.com/r/AskReddit/comments/2stvf1/whats_a_really_useful_keyboard_shortcut_you_know/
+* https://help.github.com/articles/changing-author-info/
 
 
 

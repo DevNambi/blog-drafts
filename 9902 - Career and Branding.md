@@ -89,6 +89,7 @@
 * http://www.wired.com/2014/11/be-mean-online/
 * http://michaeljswart.com/2014/12/obvious-and-not-so-obvious-writing-tips/
 * http://hackerspace.lifehacker.com/top-tips-for-writing-a-blog-post-in-30-minutes-1688838523
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
 
 
 ## Technical Setup
