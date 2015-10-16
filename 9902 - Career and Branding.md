@@ -127,6 +127,10 @@ ortant,personal tech">Kill the Password: Why a String of Characters Can't Protec
 * http://jacquesmattheij.com/the-fastest-blog-in-the-world
 * https://github.com/Jack000/Expose
 
+**My Most Useful Links**
+
+* http://www.carlboettiger.info/2012/12/30/learning-jekyll.html
+* http://www.andrewmunsell.com/tutorials/jekyll-by-example/
 
 
 

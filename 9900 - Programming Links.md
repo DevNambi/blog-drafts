@@ -159,6 +159,8 @@
 * http://www.nytimes.com/2015/07/29/technology/code-academy-as-career-game-changer.html
 * https://medium.com/sketch-app-sources/five-app-prototyping-tools-compared-form-framer-origami-pixate-proto-io-c2acc9062c61
 * http://caspervonb.com/tools/git-recipes-for-the-common-mistakes-and-mishaps/
+* https://www.interviewcake.com/article/coding-interview-tips
+* https://www.reddit.com/r/AskReddit/comments/2stvf1/whats_a_really_useful_keyboard_shortcut_you_know/
 
 
 
@@ -258,6 +260,7 @@
 * https://unwiredcouch.com/2015/05/04/project-management.html
 * http://www.infoq.com/news/2015/06/Steve-Smith-Continuous-Delivery
 * http://simpleprogrammer.com/2015/08/03/7-things-your-boss-doesnt-understand-about-software-development/
+* https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d
 
 
 
@@ -282,6 +285,7 @@
 * http://wesmckinney.com/blog/whats-changed/
 * http://www.furtherfield.org/features/articles/why-arent-we-reading-turing
 * http://lwn.net/SubscriberLink/641779/474137b50693725a/
+* https://channel9.msdn.com/Events/Build/2014/3-642 <- Leslie Lamport, one of the greats
 
 
 
@@ -398,6 +402,7 @@
 * http://blog.scalyr.com/2015/09/irreversible-failures-lessons-from-the-dynamodb-outage/
 * http://blog.ranman.org/cleaning-up-aws-with-boto3/
 * http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html
+* http://blog.chriszacharias.com/page-weight-matters
 
 
 
@@ -498,6 +503,8 @@
 
 * https://medium.com/@mnemon1ck/why-you-should-not-use-angularjs-1df5ddf6fc99
 * https://vimeo.com/111122950
+* http://www.fse.guru/how-to-pick-a-frontend-web-framework
+
 
 
 

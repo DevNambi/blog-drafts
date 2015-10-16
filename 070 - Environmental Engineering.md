@@ -118,6 +118,7 @@ Emphasize what we don't know
 * http://www.washingtonpost.com/news/energy-environment/wp/2015/09/02/scientists-discover-that-the-world-contains-dramatically-more-trees-than-previously-thought/
 * http://www.economist.com/news/briefing/21647622-land-centre-pre-industrial-economy-has-returned-constraint-growth
 * http://news.nationalpost.com/news/world/the-water-table-is-dropping-all-over-the-world-new-nasa-study-reveals-global-drought
+* http://www.theatlantic.com/science/archive/2015/10/why-only-a-technocratic-revolution-can-win-the-climate-change-war/410377/?single_page=true
 * http://enenews.com/times-worst-possible-result-revealed-fukushima-plant-chief-centuries-pass-before-humans-invent-deal-molten-fuel-videos
 * https://medium.com/@lesliejz/don-t-stop-showering-california-lay-off-the-burgers-and-nuts-and-pick-up-some-crickets-eb63bddf0277
 * http://arstechnica.com/science/2015/04/30/the-inadvertent-hilarity-of-the-heartland-institute-vs-pope-francis/

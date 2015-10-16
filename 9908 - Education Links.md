@@ -428,19 +428,10 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 
 
 
-### Science and Research
-
-* http://gowers.wordpress.com/2014/04/24/elsevier-journals-some-facts/
-* http://www.dcscience.net/2014/12/01/publish-and-perish-at-imperial-college-london-the-death-of-stefan-grimm/
-* http://lemire.me/blog/archives/2014/12/05/academia-as-an-anxiety-machine/
-* http://news.sciencemag.org/scientific-community/2014/12/study-massive-preprint-archive-hints-geography-plagiarism
-* http://crypto.junod.info/2013/09/09/an-aspiring-scientists-frustration-with-modern-day-academia-a-resignation/
-* http://www.cbc.ca/news/technology/academic-publishers-reap-huge-profits-as-libraries-go-broke-1.3111535
-
-
 ### Mismeasurement, Incentives
 
 * http://blogs.seattletimes.com/northwestvoices/2014/10/27/uw-innovation-dont-lose-sight-of-academic-goals-by-building-new-buildings/
+* http://fortune.com/2015/09/30/workplace-bureaucracy-simple-sabotage/ <- wow, most of these are true at the UW
 * http://www.brookings.edu/research/reports2/2015/04/29-beyond-college-rankings-rothwell-kulkarni <- Beautifully done
 * http://mathbabe.org/2015/06/18/college-metrics-of-success/
 * http://chronicle.com/article/Business-Can-Pay-to-Train-Its/231015/
@@ -448,6 +439,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.economist.com/news/special-report/21646988-americas-higher-education-system-no-longer-delivering-all-it-should-flagging-model
 * http://jobs.timeshighereducation.co.uk/jobs_jobdetails.asp?ac=123947 <- "This represents everything that has gone wrong with university administration"
 * http://www.nytimes.com/2015/02/08/education/edlife/how-to-raise-a-universitys-profile-pricing-and-packaging.html
+* http://www.npr.org/sections/ed/2015/10/14/440886037/higher-eds-moneyball
 * https://www.insidehighered.com/news/2014/12/19/education-department-releases-draft-framework-its-college-ratings-plan
 	* https://www.insidehighered.com/sites/default/server_files/files/Ratings%20System.pdf
 	* https://www.insidehighered.com/sites/default/server_files/files/ratings%20framework%20draft.pdf
@@ -515,6 +507,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://www.insidehighered.com/quicktakes/2015/06/25/survey-22-female-students-michigan-sexually-assaulted <- those numbers are horrific
 * https://www.insidehighered.com/news/2015/09/21/nearly-1-4-college-women-say-they-have-been-sexually-assaulted-survey-finds
 * http://www.nytimes.com/2015/10/09/sports/ncaafootball/beer-alcohol-college-football-west-virginia.html
+* https://www.washingtonpost.com/news/grade-point/wp/2015/10/15/a-better-way-to-gauge-how-common-sexual-assault-is-on-college-campuses/
 
 
 ### Finance, Debt

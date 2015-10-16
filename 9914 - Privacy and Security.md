@@ -20,6 +20,7 @@
 
 
 * http://www.theatlantic.com/technology/archive/2014/09/why-privacy-policies-are-so-inscrutable/379615/
+* http://www.theatlantic.com/magazine/archive/2015/11/if-youre-not-paranoid-youre-crazy/407833/
 * http://rhizome.org/editorial/2015/jun/9/divorce-your-metadata/
 * http://techcrunch.com/2015/06/06/the-online-privacy-lie-is-unraveling/ <- critically important
 * http://www.wired.com/2015/07/online-anonymity-box-puts-mile-away-ip-address/
@@ -54,6 +55,8 @@
 * https://modelviewculture.com/pieces/social-networking-as-peer-surveillance
 * https://www.privateinternetaccess.com/blog/2015/06/google-chrome-listening-in-to-your-room-shows-the-importance-of-privacy-defense-in-depth/
 * http://fusion.net/story/49806/beware-houseguests-cheap-home-surveillance-cameras-are-everywhere-now/
+* https://www.behance.net/gallery/16225247/I-have-NOT-read-and-agree-to-the-terms-of-use
+* http://fivethirtyeight.com/datalab/the-way-we-use-social-security-numbers-is-absurd/
 * http://googleonlinesecurity.blogspot.com/2015/07/new-research-comparing-how-security.html
 * http://techcrunch.com/2014/10/11/edward-snowden-new-yorker-festival/
 * https://medium.com/@violetblue/facebook-i-want-out-e1e891975531?source=tw-c4103bd4f0ad-1444704941753 

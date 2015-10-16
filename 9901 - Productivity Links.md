@@ -61,6 +61,13 @@
 * http://pss.sagepub.com/content/25/6/1159
 * http://wozniak.ca/why-i-quit-os-x
 * http://www.feld.com/archives/2015/01/didnt-need-take-hour.html
+* https://www.reddit.com/r/AskReddit/comments/31kp5s/introverts_how_do_you_reenergize_after_spending/
+* https://www.reddit.com/r/AskReddit/comments/3oqzvr/what_is_that_one_trick_that_they_really_dont_want/
+* https://www.reddit.com/r/AskReddit/comments/2wn0yt/what_is_one_weird_trick_that_actually_works/
+* https://www.reddit.com/r/AskReddit/comments/29gjj7/what_are_some_of_the_internet_tricks_that_you/
+
+
+
 
 
 <li><a href="http://www.bbc.com/future/story/20140514-how-extreme-isolation-warps-minds" time_added="1400181056" tags="">BBC - Future - How extreme isolation warps the mind</a></li>

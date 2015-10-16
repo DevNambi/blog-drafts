@@ -2,6 +2,7 @@
 
 
 * http://www.bloomberg.com/news/2014-10-02/jpmorgan-says-data-breach-affected-76-million-households.html
+* http://bits.blogs.nytimes.com/2015/10/14/hackers-prove-they-can-pwn-the-lives-of-those-not-hyperconnected/
 * http://www.wired.com/2015/06/united-flights-grounded-mysterious-problem/
 * http://arstechnica.com/information-technology/2015/08/lenovo-used-windows-anti-theft-feature-to-install-persistent-crapware/
 * https://vimeo.com/135347162 <- James Mickens' talk
@@ -15,6 +16,7 @@
 * http://www.zdnet.com/article/chryslers-response-to-car-hack-was-slow-and-incredibly-stupid/
 * http://arstechnica.com/security/2015/06/new-remote-exploit-leaves-most-macs-vulnerable-to-permanent-backdooring/
 * http://www.bloomberg.com/news/articles/2015-04-23/silicon-valley-s-help-sought-as-pentagon-fights-cyber-attacks
+* http://daringfireball.net/linked/2015/10/15/flash-uninstall
 * http://blog.cryptographyengineering.com/2015/04/truecrypt-report.html
 * http://www.crosswordunclued.com/2015/06/parallels-between-cryptanalysis-and.html
 * http://www.wired.com/2015/07/massive-opm-hack-actually-affected-25-million/
@@ -246,6 +248,8 @@
 * http://arstechnica.com/tech-policy/2015/07/nope-white-house-wont-pardon-snowden/
 * https://theintercept.com/2015/09/25/gchq-radio-porn-spies-track-web-users-online-identities/
 * http://www.spiegel.de/international/world/new-snowden-document-reveals-us-spied-on-german-intelligence-a-1055055.html
+* https://freedom-to-tinker.com/blog/haldermanheninger/how-is-nsa-breaking-so-much-crypto/
+* http://arstechnica.com/security/2015/10/how-the-nsa-can-break-trillions-of-encrypted-web-and-vpn-connections/
 
 
 <li><a href="http://rt.com/usa/news/surveillance-spying-e-mail-citizens-178/" time_added="1354678483" tags="hn,important,personal tech">'Everyone in US under virtual surveillance' - NSA whistleblower — RT</a></li>

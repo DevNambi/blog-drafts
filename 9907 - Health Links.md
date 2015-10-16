@@ -217,6 +217,7 @@
 * http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/
 * http://www.independent.co.uk/news/science/cure-for-cancer-might-accidentally-have-been-found-and-it-could-be-malaria-a6693601.html
 * http://www.nytimes.com/2015/09/29/health/a-breast-cancer-surgeon-who-keeps-challenging-the-status-quo.html
+* http://www.fastcoexist.com/3052282/the-latest-medical-breakthrough-in-spinal-cord-injuries-was-made-by-a-computer-program
 * http://hitconsultant.net/2015/10/13/10-ways-artificial-intelligence-could-make-me-a-better-doctor/
 * http://arstechnica.com/science/2014/08/diy-diagnosis-how-an-extreme-athlete-uncovered-her-genetic-flaw/
 * http://newsoffice.mit.edu/2015/real-time-data-for-cancer-therapy-0804
@@ -424,6 +425,7 @@
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
 * http://www.nakedcapitalism.com/2015/10/tpp-intellectual-property-chapter-is-a-disaster-for-global-health.html
+* http://www.vox.com/2015/10/14/9528441/high-deductible-insurance-kolstad
 * http://www.huffingtonpost.com/jeffrey-sachs/rational-drug-pricing_b_8188790.html
 * http://www.washingtonpost.com/news/wonkblog/wp/2015/09/25/the-drug-industry-wants-us-to-think-martin-shkreli-is-a-rogue-ceo-he-isnt/
 * http://www.nytimes.com/2015/05/26/opinion/the-university-of-minnesotas-medical-research-mess.html
@@ -672,6 +674,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * https://jawbone.com/blog/sleep-deprived-inactive-must-commuter/
 * http://www.nerdfitness.com/blog/2015/07/13/how-to-survive-sitting-all-day/
 * http://opinionator.blogs.nytimes.com/2014/06/13/no-clocking-out/
+* http://arstechnica.com/science/2015/10/standing-desks-are-no-replacement-for-a-workout/
 
 
 

@@ -793,5 +793,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://www.technologyreview.com/view/538701/data-mining-reveals-the-surprising-factors-behind-successful-movies/
 * http://www.john-foreman.com/blog/data-is-an-asset <- beautiful
 * http://techcrunch.com/2015/09/22/one-in-three-farms-are-using-farmlogs-to-power-their-yields-with-big-data/
+* https://medium.com/engineering-at-ifttt/data-infrastructure-at-ifttt-35414841f9b5
+
 
 

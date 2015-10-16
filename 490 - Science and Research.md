@@ -21,6 +21,14 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://arstechnica.com/science/2015/07/starting-from-scratch-how-do-you-build-a-world-class-research-lab/
 * http://bjoern.brembs.net/2015/04/what-should-a-modern-scientific-infrastructure-look-like/
 * http://kernelmag.dailydot.com/issue-sections/features-issue-sections/13000/kerbal-space-program-game/
+* http://gowers.wordpress.com/2014/04/24/elsevier-journals-some-facts/
+* http://www.dcscience.net/2014/12/01/publish-and-perish-at-imperial-college-london-the-death-of-stefan-grimm/
+* http://lemire.me/blog/archives/2014/12/05/academia-as-an-anxiety-machine/
+* http://news.sciencemag.org/scientific-community/2014/12/study-massive-preprint-archive-hints-geography-plagiarism
+* http://esciencecommons.blogspot.ca/2015/10/mathematicians-find-magic-key-to-drive.html
+* http://crypto.junod.info/2013/09/09/an-aspiring-scientists-frustration-with-modern-day-academia-a-resignation/
+* http://www.cbc.ca/news/technology/academic-publishers-reap-huge-profits-as-libraries-go-broke-1.3111535
+* http://www.feynmanlectures.caltech.edu/
 * https://medium.com/starts-with-a-bang/science-by-democracy-doesnt-work-ea74d160daa4
 * http://www.bloomberg.com/news/articles/2015-05-15/oil-tycoon-harold-hamm-wanted-scientists-dismissed-dean-s-e-mail-says <- this is why intellectual freedom is important
 * https://medium.com/@samim/gitxiv-collaborative-open-computer-science-e5fea734cd45
