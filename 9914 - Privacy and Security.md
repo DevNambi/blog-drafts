@@ -20,7 +20,9 @@
 
 
 * http://www.theatlantic.com/technology/archive/2014/09/why-privacy-policies-are-so-inscrutable/379615/
+* https://www.eff.org/deeplinks/2015/10/how-to-protect-yourself-from-nsa-attacks-1024-bit-DH
 * http://www.theatlantic.com/magazine/archive/2015/11/if-youre-not-paranoid-youre-crazy/407833/
+* http://www.theguardian.com/technology/2015/aug/12/where-did-the-principle-of-secrecy-in-correspondence-go
 * http://rhizome.org/editorial/2015/jun/9/divorce-your-metadata/
 * http://techcrunch.com/2015/06/06/the-online-privacy-lie-is-unraveling/ <- critically important
 * http://www.wired.com/2015/07/online-anonymity-box-puts-mile-away-ip-address/

@@ -68,6 +68,7 @@
 * http://www.slate.com/articles/health_and_science/new_scientist/2015/01/mass_surveillance_against_terrorism_gathering_intelligence_on_all_is_statistically.html?wpsrc=fol_tw
 * http://www.buzzfeed.com/jessicagarrison/the-new-american-slavery-invited-to-the-us-foreign-workers-f
 * http://arstechnica.com/science/2015/10/dispatches-from-the-death-star-the-rise-and-fall-of-nasas-shuttle-centaur/
+* http://www.seattletimes.com/seattle-news/oral-histories-of-imprisoned-wwii-japanese-americans-now-online/
 
 
 
@@ -104,6 +105,7 @@
 * https://calc.gsa.gov/?sort=-current_price&q=Statistician%2C+&query_type=match_all&min_experience=2&max_experience=45&contract-year=current&experience_range=2%2C45
 * https://www.sam.gov/portal/SAM/##11
 * http://recode.net/2015/10/15/civic-tech-startup-opengov-raises-25-million-adds-marc-andreessen-to-its-board/
+* http://www.wired.com/2015/10/new-standards-could-make-government-sites-less-worthless/
 
 
 ## Immigration

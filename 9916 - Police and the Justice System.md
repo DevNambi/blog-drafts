@@ -26,6 +26,7 @@
 * http://www.nytimes.com/2015/09/05/us/a-surreptitious-courtroom-video-prompts-changes-in-a-georgia-town.html
 * http://www.latimes.com/nation/nationnow/la-na-nn-sandra-bland-footage-20150721-htmlstory.html
 * http://www.charlespetzold.com/blog/2015/07/De-Obfuscating-the-Statistics-of-Mass-Shootings.html
+* http://www.wired.com/2015/10/familial-dna-evidence-turns-innocent-people-into-crime-suspects/
 * http://www.slate.com/articles/news_and_politics/jurisprudence/2015/07/mark_weiner_conviction_vacated_chelsea_steiniger_text_case_finally_overturned.single.html
 * http://www.theguardian.com/us-news/2015/jul/01/gary-younge-farewell-to-america
 * https://www.themarshallproject.org/2015/07/10/life-without-parole
