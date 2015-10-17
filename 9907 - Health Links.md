@@ -227,7 +227,6 @@
 * http://www.wired.com/2015/07/mers-isnt-epidemic-makes-harder-find-cure/
 * http://andrewgelman.com/2015/08/04/pro-publicas-new-surgeon-scorecards/
 * http://www.scientificamerican.com/article/supercharged-tuberculosis-made-in-india1/
-* http://www.sciencealert.com/new-alzheimer-s-treatment-fully-restores-memory-function
 * http://www.nytimes.com/2015/07/12/health/modern-doctors-house-calls-skype-chat-and-fast-diagnosis.html
 * http://www.seattletimes.com/nation-world/some-acid-reflux-drugs-safety-questioned/
 * http://arstechnica.com/science/2015/06/personal-vaccine-exemptions-under-fire-in-california-and-by-ama/
@@ -333,7 +332,6 @@
 * http://www.nytimes.com/2014/10/28/world/africa/wish-to-do-more-in-ebola-fight-meets-reality-in-liberia.html
 * http://seattletimes.com/html/localnews/2024939773_jdlcolumn03xml.html
 * http://seattletimes.com/html/nationworld/2025041126_apxebolaomahapatient.html
-* http://patch.com/california/berkeley/alzheimers-game-changer-scientists-find-changing-one-molecule-reverses-memory-loss
 * http://seattletimes.com/html/nationworld/2025045858_statinsalternativexml.html
 * http://www.ncbi.nlm.nih.gov/pubmed/25424517
 * http://www.technologyreview.com/featuredstory/532421/the-search-for-exceptional-genomes/
@@ -348,6 +346,17 @@
 * http://www.newscientist.com/article/mg22730284.000-antibody-wipeout-relieves-symptoms-of-chronic-fatigue-syndrome.html <- chronic fatigue syndrome
 * http://www.bloomberg.com/news/articles/2015-07-30/warren-buffett-s-family-secretly-funded-a-birth-control-revolution
 * http://arstechnica.com/science/2015/08/your-inherited-genes-control-your-iq-and-may-affect-how-well-you-do-at-exams-too/
+
+
+
+#### Alzheimers
+
+* http://www.nature.com/articles/srep15015
+* http://patch.com/california/berkeley/alzheimers-game-changer-scientists-find-changing-one-molecule-reverses-memory-loss
+* http://www.sciencealert.com/new-alzheimer-s-treatment-fully-restores-memory-function
+
+
+
 
 
 

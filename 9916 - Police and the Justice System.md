@@ -153,6 +153,7 @@
 * http://www.theatlantic.com/national/archive/2015/03/ferguson-as-a-criminal-conspiracy-against-its-black-residents-michael-brown-department-of-justice-report/386887/
 * http://countercurrentnews.com/2015/02/cop-threatens-journalist-arrest-for-arguing-with-him-on-facebook/
 * http://www.nytimes.com/2015/02/15/us/law-enforcement-issues-in-missouri-and-other-states-spur-unlikely-alliances.html
+* http://fusion.net/story/215204/law-enforcement-agencies-are-asking-ancestry-com-and-23andme-for-their-customers-dna/
 * http://www.freep.com/story/news/local/michigan/2015/02/22/civil-asset-forfeiture-michigan-seizures-aclu-heritage-foundation-institute-justice/23737663/
 * http://www.aulawreview.org/pdfs/64/64.2/Rogers.Off.To.Website.pdf
 * http://www.theatlantic.com/politics/archive/2015/02/This-american-life-cops-see-it-differently/385874/

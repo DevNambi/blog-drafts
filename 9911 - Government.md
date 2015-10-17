@@ -111,6 +111,8 @@
 ## Immigration
 
 * http://www.rawstory.com/2015/10/the-us-government-is-deporting-central-american-migrants-to-their-deaths/
+* http://www.nytimes.com/2015/10/17/opinion/the-great-sanctuary-city-slander.html
+
 
 
 <li><a href="http://arstechnica.com/tech-policy/2013/01/tech-companies-cheer-for-senate-proposal-to-increase-immigration/" time_added="1359507207" tags="">Tech companies cheer for Senate proposal to increase immigration | Ars Tech</a></li>
@@ -129,6 +131,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://www.eff.org/deeplinks/2015/05/africas-worst-new-internet-censorship-law-could-be-coming-south-africa
 * http://www.nytimes.com/2015/06/07/magazine/the-agency.html
 * http://www.nytimes.com/2015/07/27/world/outlaw-ocean-thailand-fishing-sea-slaves-pets.html
+* http://www.nytimes.com/2015/10/18/world/middleeast/in-east-jerusalem-palestinians-are-seething-after-years-of-neglect.html?_r=0
 
 
 
@@ -374,6 +377,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://thehill.com/blogs/blog-briefing-room/250141-trump-harvard-students-fraudsters-and-liars
 * http://americablog.com/2015/08/mathematician-actual-voter-fraud-kansas-republicans.html
 * http://qz.com/520652/groundwork-eric-schmidt-startup-working-for-hillary-clinton-campaign/
+* http://www.nytimes.com/2015/10/17/us/politics/filings-reveal-hillary-clinton-leads-money-race.html
 
 
 

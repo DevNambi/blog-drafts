@@ -78,6 +78,7 @@
 * http://usersnap.com/blog/developers-lessons-learned/
 * http://mcfunley.com/choose-boring-technology-slides
 * https://www.loggly.com/ultimate-guide/
+* http://rmurphey.com/blog/2015/10/08/five-questions/
 
 
 

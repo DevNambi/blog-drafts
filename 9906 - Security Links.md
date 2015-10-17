@@ -16,6 +16,7 @@
 * http://www.zdnet.com/article/chryslers-response-to-car-hack-was-slow-and-incredibly-stupid/
 * http://arstechnica.com/security/2015/06/new-remote-exploit-leaves-most-macs-vulnerable-to-permanent-backdooring/
 * http://www.bloomberg.com/news/articles/2015-04-23/silicon-valley-s-help-sought-as-pentagon-fights-cyber-attacks
+* http://www.slate.com/blogs/future_tense/2015/10/15/trans_pacific_partnership_could_thwart_computer_security_research_and_tinkering.html
 * http://daringfireball.net/linked/2015/10/15/flash-uninstall
 * http://blog.cryptographyengineering.com/2015/04/truecrypt-report.html
 * http://www.crosswordunclued.com/2015/06/parallels-between-cryptanalysis-and.html
@@ -250,6 +251,7 @@
 * http://www.spiegel.de/international/world/new-snowden-document-reveals-us-spied-on-german-intelligence-a-1055055.html
 * https://freedom-to-tinker.com/blog/haldermanheninger/how-is-nsa-breaking-so-much-crypto/
 * http://arstechnica.com/security/2015/10/how-the-nsa-can-break-trillions-of-encrypted-web-and-vpn-connections/
+* http://www.newyorker.com/news/john-cassidy/hillary-clinton-is-wrong-about-edward-snowden
 
 
 <li><a href="http://rt.com/usa/news/surveillance-spying-e-mail-citizens-178/" time_added="1354678483" tags="hn,important,personal tech">'Everyone in US under virtual surveillance' - NSA whistleblower — RT</a></li>

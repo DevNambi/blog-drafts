@@ -449,7 +449,6 @@
 <li><a href="http://t.co/47hDG41K" time_added="1354643001" tags="ml">slendrmeans: ML for Hackers up to chapter 9, Pythonized: http://t.co/47hDG4</a></li>
 <li><a href="http://t.co/4ycMleOs" time_added="1353007778" tags="data science,ml">mikedewar: SciKit Random Forest - Brian Eoff on Vimeo http://t.co/4ycMleOs</a></li>
 
-
 * http://nbviewer.ipython.org/github/jakevdp/sklearn_pydata2015/blob/master/notebooks/Index.ipynb
 * http://blog.kaggle.com/2015/07/16/scikit-learn-video-8-efficiently-searching-for-optimal-tuning-parameters/
 * http://nbtest.herokuapp.com/github/fonnesbeck/Bios366/blob/master/notebooks/Section3_3-Expectation-Maximization.ipynb
@@ -471,6 +470,7 @@
 <li><a href="http://andybromberg.com/sentiment-analysis-python/" time_added="1363372090" tags="ml">Second Try: Sentiment Analysis in Python : Andy Bromberg</a></li>
 <li><a href="http://blog.mashape.com/post/48946187179/list-of-25-natural-language-processing-apis" time_added="1389191093" tags="">List of 25 Natural Language Processing APIs | Mashape Blog</a></li>
 <li><a href="http://www.johnmyleswhite.com/notebook/2009/02/25/text-processing-in-r/" time_added="1406321391" tags="">Text Processing in R</a></li>
+
 * http://bugra.github.io/work/notes/2015-02-21/topic-modeling-for-the-uninitiated/
 * http://nbviewer.ipython.org/github/sgsinclair/alta/blob/master/ipynb/DocumentSimilarity.ipynb
 * http://fotiad.is/blog/sentiment-analysis-comparison/
@@ -632,49 +632,32 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 
 ### Do a blog post on the data flow paper
 
-<li><a href="https://github.com/rickysaltzer/impala-in-action" time_added="1389815401" tags="">rickysaltzer/impala-in-action · GitHub</a></li>
+
 <li><a href="http://tepid.org/tech/01-aurora-mesos-cluster/" time_added="1390924821" tags="">"Setting up an Apache Aurora/Mesos Cluster with Vagrant" blog post by @Nutt</a></li>
 <li><a href="http://www.michaelnielsen.org/ddi/why-bloom-filters-work-the-way-they-do/" time_added="1391273974" tags="">Why Bloom filters work the way they do | DDI</a></li>
-<li><a href="http://rarestblog.com/blog/2013/02/15/redshift-postgresql-in-the-cloud/" time_added="1360968719" tags="big data,cloud">Redshift: PostgreSQL-like in the cloud (benchmark) - RarestBlog</a></li>
 <li><a href="http://ow.ly/swSpj" time_added="1389625033" tags="">Impala performance: Now faster on @ParquetFormat than an analytic DBMS on i</a></li>
 <li><a href="http://blog.cloudera.com/blog/2013/01/a-guide-to-python-frameworks-for-hadoop/" time_added="1357665988" tags="big data">A Guide to Python Frameworks for Hadoop | Apache Hadoop for the Enterprise </a></li>
 <li><a href="http://t.co/IfhiI9xE" time_added="1357267042" tags="big data">peteskomoroch: Latest NoSQL LinkedIn Skills Index shows Apache Accumulo has</a></li>
-<li><a href="https://cloudant.com/blog/cloudant-labs-on-foundational-mapreduce-literature/" time_added="1356894141" tags="big data">Cloudant Labs on Foundational MapReduce Literature | Cloudant</a></li>
 <li><a href="http://t.co/aCptuAxU" time_added="1355150996" tags="big data">MongoDB: MongoDB: Architectural Best Practices from @softlayer http://t.co/</a></li>
 <li><a href="http://www.wired.com/wiredenterprise/2012/12/couchdb/all/" time_added="1354741518" tags="big data">NoSQL: The Love Child of Google, Amazon and ... Lotus Notes | Wired Enterpr</a></li>
-<li><a href="http://www.readwriteweb.com/enterprise/2012/06/hadoop-needs-better-bridges-to-fulfill-big-data-promise.php" time_added="1349321908" tags="big data,data science">Hadoop Needs Better Bridges to Fulfill the Big Data Promise</a></li>
-<li><a href="http://www.readwriteweb.com/cloud/2012/06/googles-bigquery-gets-big-dashboards-and-expanded-multiple-queries.php" time_added="1349321901" tags="big data,data science">Google's BigQuery Gets Big Dashboards and Expanded Multiple Queries</a></li>
-<li><a href="http://www.wired.com/wiredenterprise/2012/08/googles-dremel-makes-big-data-look-small/" time_added="1348860690" tags="big data,data science">Google's Dremel Makes Big Data Look Small | Wired Enterprise | Wired.com</a></li>
-<li><a href="http://gigaom.com/cloud/why-the-days-are-numbered-for-hadoop-as-we-know-it/" time_added="1352525506" tags="big data,data science">Why the days are numbered for Hadoop as we know it — Cloud Computing News</a></li>
-<li><a href="http://www.wired.com/wiredenterprise/2012/11/google-spanner-time/all/" time_added="1353945766" tags="big data,data science">Exclusive: Inside Google Spanner, the Largest Single Database on Earth | Wi</a></li>
-<li><a href="http://t.co/mHMDOpaz" time_added="1352479276" tags="hn">peschkaj: "Facebook open sources Corona — a better way to do webscale Hadoo</a></li>
 <li><a href="http://t.co/6nXeexwz" time_added="1352309670" tags="data science,hn">daniel_jacobson: Netflix open sources dynamic query goodness for Amazon clo</a></li>
-<li><a href="http://highscalability.com/blog/2012/9/24/google-spanners-most-surprising-revelation-nosql-is-out-and.html" time_added="1348860823" tags="big data,sql">High Scalability - High Scalability - Google Spanner's Most Surprising Reve</a></li>
 <li><a href="http://www.slideshare.net/tkejser1/big-data-vs-data-warehousing" time_added="1349743476" tags="big data,data science,hn,sql">sqlbelle: Big Data vs Data Warehousing http://t.co/4vosepyE</a></li>
 <li><a href="http://www.10flow.com/bigdatamap/" time_added="1352524746" tags="big data,data science">Big Data Platforms</a></li>
 <li><a href="http://www.cattell.net/datastores/index.html" time_added="1357334547" tags="big data,cloud">Scalable Datastores</a></li>
 <li><a href="http://t.co/9U4LVDJM" time_added="1359309842" tags="big data,sql">datachick: Microsoft's PolyBase mashes up SQL Server and Hadoop | ZDNet | @</a></li>
 <li><a href="http://hackingdistributed.com/2013/03/07/partition-tolerance-myth/" time_added="1362689122" tags="big data,hn">The NoSQL Partition Tolerance Myth :: Hacking, Distributed</a></li>
 
-* http://jeremykun.com/2014/10/05/on-the-computational-complexity-of-mapreduce/
 * http://martinfowler.com/bliki/DataLake.html
-* http://thomaswdinsmore.com/2015/04/21/spark-too-big-to-fail/
 * http://thislongrun.blogspot.com/2015/04/the-unclear-cp-vs-ca-case-in-cap.html
-* http://thenewstack.io/airbnbs-airpal-reflects-new-ways-to-query-and-get-answers-from-hive-and-hadoop/
 * http://www.dursi.ca/hpc-is-dying-and-mpi-is-killing-it/
-* http://grigory.us/blog/rdbms-mapreduce/
 * http://key-value-stories.blogspot.com/2015/02/memcached-internals-design.html
-* http://techblog.netflix.com/2015/03/can-spark-streaming-survive-chaos-monkey.html
 * https://segment.com/blog/the-totally-managed-analytics-pipeline/
-* http://blog.acolyer.org/2015/02/05/impala-a-modern-open-source-sql-engine-for-hadoop/
 * http://prometheus.io/
 * http://danosipov.com/?p=816
 * http://blog.kismatic.com/qa-with-malte-schwarzkopf-on-distributed-systems-orchestration-in-the-modern-data-center/
 * http://tech.adroll.com/blog/data/2013/07/10/hll-minhash.html
-* http://ianozsvald.com/2015/02/19/spark-1-2-pyspark-elasticsearch-pypy/
 * https://gist.github.com/debasishg/8172796
 * https://gigaom.com/2015/01/21/netflix-is-open-sourcing-tools-for-analyzing-data-in-hadoop/
-* http://insightdataengineering.com/blog/hadoopdevops/
 * http://blog.confluent.io/2015/01/29/making-sense-of-stream-processing/
 * http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html
 * https://medium.com/@oceankidbilly/vldb-2015-concurrency-dataflow-e-store-4e715416b905
@@ -683,23 +666,15 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/
 * http://opensourceconnections.com/blog/2015/02/04/its-log-its-log-its-big-its-hyper-its-good/
 * http://ben.kirw.in/2014/11/28/kafka-patterns/
-* http://www.slideshare.net/SarahGuido/data-science-at-scale-using-apache-spark-for-data-science-at-bitly
-* http://www.slideshare.net/deanwampler/spark-the-next-top-compute-model-39976454
-* http://databricks.com/blog/2015/01/07/ml-pipelines-a-new-high-level-api-for-mllib.html
 * http://db-engines.com/en/ranking
 * http://citusdata.com/blog/90-sql-scaling-and-whats-unique-about-postgres
 * http://blog.rescale.com/the-real-cost-of-high-performance-computing/
-* http://blog.amplitude.com/2015/03/27/why-we-chose-redshift/
 * http://byterot.blogspot.com/2015/01/future-of-programming-rise-of-the-scientific-developer-bigdata-datascience-machine-learning-and-fall-of-the-craftsman.html
 * http://harry.me/blog/2014/12/27/neat-algorithms-paxos/
 * http://techblog.netflix.com/2014/10/using-presto-in-our-big-data-platform.html
 * https://github.com/Randommood/Strangeloop2015
-* http://databricks.com/blog/2014/10/10/spark-breaks-previous-large-scale-sort-record.html
 * http://patshaughnessy.net/2014/10/13/following-a-select-statement-through-postgres-internals
 * http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html
-* http://tachyon-project.org/
-* http://www.slideshare.net/cloudera/the-impala-cookbook-42530186
-* http://www.gallamine.com/2014/10/query-data-from-impala-on-amazon-emr.html
 * http://techcrunch.com/2014/10/20/crate-lets-developers-set-up-big-data-backends-in-minutes/
 * http://antirez.com/news/80
 * https://github.com/BIDData/BIDMach/wiki/Benchmarks
@@ -708,32 +683,72 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://code.hootsuite.com/redirecting-the-firehose-from-hadoop-to-s3/
 * http://www.citusdata.com/blog/86-making-postgresql-scale-hadoop-style
 * https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems/
-* http://www.odbms.org/2014/11/strata-spark-tsunami-hadoop-world-part/
 * http://shop.oreilly.com/product/0636920035091.do
 * http://blogs.teradata.com/data-points/optimizing-disk-io-and-memory-for-big-data-vector-analysis/
 * http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html
-* http://www.slideshare.net/pacoid/tiny-batches-in-the-wine-shiny-new-bits-in-spark-streaming <- probabalistic data structures slide is handy
 * https://code.facebook.com/posts/382299771946304/audience-insights-query-engine-in-memory-integer-store-for-social-analytics-/
 * https://code.facebook.com/posts/1499322996995183/solving-the-mystery-of-link-imbalance-a-metastable-failure-state-at-scale/
-* http://www.michael-noll.com/blog/2014/10/01/kafka-spark-streaming-integration-example-tutorial/
-* http://www.slideshare.net/pacoid/tiny-batches-in-the-wine-shiny-new-bits-in-spark-streaming
 * http://deepdive.stanford.edu/ <- AMAZING
 * https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/ <- AMAZINGLY GOOD
 * https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/ <- critical!
 * https://aphyr.com/posts/324-call-me-maybe-aerospike <- amazing
-* https://aws.amazon.com/blogs/aws/quickly-filter-data-in-amazon-redshift-using-interleaved-sorting/
-* https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html
 * http://blog.parsely.com/post/1928/cass/
-* http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR
-* http://ampcamp.berkeley.edu/
 * http://newsoffice.mit.edu/2015/cutting-cost-power-big-data-0710
-* http://eugenezhulenev.com/blog/2015/07/15/interactive-audience-analytics-with-spark-and-hyperloglog/
 * http://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/
-* https://www.dataquest.io/mission/123/introduction-to-spark/
-* http://blog.sequenceiq.com/blog/2014/06/19/multinode-hadoop-cluster-on-docker/
 * http://strata.oreilly.com/2014/02/extending-graphlab-to-tables.html
 * https://influxdb.com/docs/v0.9/concepts/storage_engine.html
 
+
+#### MapReduce, Hadoop, Hive
+
+<li><a href="http://gigaom.com/cloud/why-the-days-are-numbered-for-hadoop-as-we-know-it/" time_added="1352525506" tags="big data,data science">Why the days are numbered for Hadoop as we know it — Cloud Computing News</a></li>
+<li><a href="https://cloudant.com/blog/cloudant-labs-on-foundational-mapreduce-literature/" time_added="1356894141" tags="big data">Cloudant Labs on Foundational MapReduce Literature | Cloudant</a></li>
+<li><a href="http://www.readwriteweb.com/enterprise/2012/06/hadoop-needs-better-bridges-to-fulfill-big-data-promise.php" time_added="1349321908" tags="big data,data science">Hadoop Needs Better Bridges to Fulfill the Big Data Promise</a></li>
+<li><a href="http://t.co/mHMDOpaz" time_added="1352479276" tags="hn">peschkaj: "Facebook open sources Corona — a better way to do webscale Hadoo</a></li>
+
+
+* http://blog.sequenceiq.com/blog/2014/06/19/multinode-hadoop-cluster-on-docker/
+* http://insightdataengineering.com/blog/hadoopdevops/
+* http://jeremykun.com/2014/10/05/on-the-computational-complexity-of-mapreduce/
+* http://thenewstack.io/airbnbs-airpal-reflects-new-ways-to-query-and-get-answers-from-hive-and-hadoop/
+* http://grigory.us/blog/rdbms-mapreduce/
+
+
+#### Impala, Redshift, Distributed SQL, Dremel, BigQuery, Spanner
+
+<li><a href="http://www.wired.com/wiredenterprise/2012/08/googles-dremel-makes-big-data-look-small/" time_added="1348860690" tags="big data,data science">Google's Dremel Makes Big Data Look Small | Wired Enterprise | Wired.com</a></li>
+<li><a href="https://github.com/rickysaltzer/impala-in-action" time_added="1389815401" tags="">rickysaltzer/impala-in-action · GitHub</a></li>
+<li><a href="http://www.readwriteweb.com/cloud/2012/06/googles-bigquery-gets-big-dashboards-and-expanded-multiple-queries.php" time_added="1349321901" tags="big data,data science">Google's BigQuery Gets Big Dashboards and Expanded Multiple Queries</a></li>
+<li><a href="http://www.wired.com/wiredenterprise/2012/11/google-spanner-time/all/" time_added="1353945766" tags="big data,data science">Exclusive: Inside Google Spanner, the Largest Single Database on Earth | Wi</a></li>
+<li><a href="http://highscalability.com/blog/2012/9/24/google-spanners-most-surprising-revelation-nosql-is-out-and.html" time_added="1348860823" tags="big data,sql">High Scalability - High Scalability - Google Spanner's Most Surprising Reve</a></li>
+<li><a href="http://rarestblog.com/blog/2013/02/15/redshift-postgresql-in-the-cloud/" time_added="1360968719" tags="big data,cloud">Redshift: PostgreSQL-like in the cloud (benchmark) - RarestBlog</a></li>
+
+* http://www.slideshare.net/cloudera/the-impala-cookbook-42530186
+* http://www.gallamine.com/2014/10/query-data-from-impala-on-amazon-emr.html
+* http://blog.amplitude.com/2015/03/27/why-we-chose-redshift/
+* http://blog.acolyer.org/2015/02/05/impala-a-modern-open-source-sql-engine-for-hadoop/
+* https://aws.amazon.com/blogs/aws/quickly-filter-data-in-amazon-redshift-using-interleaved-sorting/
+
+#### Spark / BDAS
+
+* http://insightdataengineering.com/blog/sparkdevops/
+* http://ampcamp.berkeley.edu/
+* http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR
+* https://www.dataquest.io/mission/123/introduction-to-spark/
+* http://databricks.com/blog/2014/10/10/spark-breaks-previous-large-scale-sort-record.html
+* http://www.michael-noll.com/blog/2014/10/01/kafka-spark-streaming-integration-example-tutorial/
+* http://www.slideshare.net/pacoid/tiny-batches-in-the-wine-shiny-new-bits-in-spark-streaming
+* https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html
+* http://www.odbms.org/2014/11/strata-spark-tsunami-hadoop-world-part/
+* http://www.slideshare.net/pacoid/tiny-batches-in-the-wine-shiny-new-bits-in-spark-streaming <- probabalistic data structures slide is handy
+* http://thomaswdinsmore.com/2015/04/21/spark-too-big-to-fail/
+* http://techblog.netflix.com/2015/03/can-spark-streaming-survive-chaos-monkey.html
+* http://www.slideshare.net/SarahGuido/data-science-at-scale-using-apache-spark-for-data-science-at-bitly
+* http://databricks.com/blog/2015/01/07/ml-pipelines-a-new-high-level-api-for-mllib.html
+* http://eugenezhulenev.com/blog/2015/07/15/interactive-audience-analytics-with-spark-and-hyperloglog/
+* http://tachyon-project.org/
+* http://www.slideshare.net/deanwampler/spark-the-next-top-compute-model-39976454
+* http://ianozsvald.com/2015/02/19/spark-1-2-pyspark-elasticsearch-pypy/
 
 
 

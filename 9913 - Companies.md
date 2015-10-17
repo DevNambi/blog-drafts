@@ -283,6 +283,8 @@
 * http://www.reuters.com/article/2015/09/23/us-usa-volkswagen-researchers-idUSKCN0RM2D720150923
 * https://hbr.org/2015/08/productivity-is-soaring-at-top-firms-and-sluggish-everywhere-else
 * https://www.propublica.org/article/inside-corporate-americas-plan-to-ditch-workers-comp
+* http://www.washingtonpost.com/news/wonkblog/wp/2015/10/15/ceos-beware-your-astronomical-salaries-may-soon-cost-you-customers/
+
 
 
 
