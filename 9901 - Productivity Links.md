@@ -150,8 +150,6 @@ Embrace awkwardness more
 <li><a href="http://www.stardock.com/products/start8/" time_added="1349103995" tags="hn">Start8 for Windows® 8 - Bringing back the Windows Start menu</a></li>
 <li><a href="http://jsmcallister.blogspot.com/2012/08/syncing-your-gmail-contacts-with-your.html" time_added="1348860572" tags="personal tech">Using GMail to Manage Your iPhone Contacts (and vice versa) | JSMcAllister</a></li>
 <li><a href="http://www.hanselman.com/blog/Top10RaspberryPiMythsAndTruths.aspx" time_added="1363056836" tags="personal tech">Top 10 Raspberry Pi Myths and Truths hanselman.com/blog/Top10Rasp…</a></li>
-<li><a href="http://arstechnica.com/apple/2013/01/ars-readers-recommend-apps-for-your-new-ipad-or-ipad-mini/" time_added="1357310878" tags="personal tech">Ars readers recommend apps for your new iPad or iPad mini | Ars Technica</a></li>
-<li><a href="http://www.tested.com/tech/pcs/452766-monoprice-announces-27-inch-2560x1440-monitor-390/" time_added="1357885034" tags="personal tech">CES 2013: Monoprice Announces 27-Inch 2560x1440 Monitor for $390 - Tested</a></li>
 <li><a href="http://vanderveer.be/blog/2013/01/02/automating-the-setup-of-my-perfect-developer-environment-on-osx-10-dot-8-mountain-lion/" time_added="1357138871" tags="personal tech">Automating the setup of my perfect developer environment on OSX 10.8 Mounta</a></li>
 <li><a href="http://www.infoworld.com/d/computer-hardware/hackintosh-vs-macintosh-choose-wisely-208301" time_added="1354903343" tags="data science,important,personal tech">Hackintosh vs. Macintosh: Choose wisely | Computer Hardware - InfoWorld</a></li>
 <li><a href="http://t.co/qno06g0L" time_added="1354800207" tags="personal tech">SpikyOrange: Guide to Freeing up #DiskSpace under #Windows7 http://t.co/qno</a></li>
@@ -170,8 +168,6 @@ Embrace awkwardness more
 <li><a href="http://arstechnica.com/tech-policy/2012/10/six-strikes-system-goes-live-this-fall-appeals-to-cost-35/" time_added="1350581601" tags="hn">“Six strikes” system goes live this fall, appeals to cost $35 | Ars Technic</a></li>
 <li><a href="http://tapbots.com/software/tweetbot/mac/" time_added="1350866220" tags="personal tech">Tweetbot for Mac — Tapbots</a></li>
 <li><a href="http://dontbubble.us/" time_added="1357363885" tags="personal tech">Escape your search engine Filter Bubble!</a></li>
-<li><a href="https://thelab.o2.com/2013/03/substituting-google-reader-for-some-ifttt-magic/" time_added="1363272534" tags="personal tech">The Lab powered by O2 » Substituting Google Reader for some IFTTT magic</a></li>
-<li><a href="http://blog.feedly.com/2013/03/14/google-reader/" time_added="1363272531" tags="personal tech">Transitioning from Google Reader to feedly | Building Feedly</a></li>
 <li><a href="http://www.pbs.org/newshour/bb/entertainment/jan-june12/information_05-18.html" time_added="1358316839" tags="health,hn">'The Information Diet': Should Americans Exercise More 'Conscious Consumpti</a></li>
 <li><a href="http://blogs.hbr.org/cs/2012/08/the_disciplined_pursuit_of_less.html" time_added="1355755975" tags="domestic,health,hn,important,life hacker">The Disciplined Pursuit of Less - Greg McKeown - Harvard Business Review</a></li>
 
@@ -180,9 +176,6 @@ Embrace awkwardness more
 * https://medium.com/unplug-yourself/quick-3d59bbf2b92b
 * http://www.infoworld.com/article/2880204/collaboration-software/wiki-creator-reinvents-collaboration-again.html
 * http://www.extremetech.com/computing/194059-using-smart-to-accurately-predict-when-a-hard-drive-is-about-to-die
-* http://www.anandtech.com/show/9104/asus-zenbook-ux305-review/
-* http://arstechnica.com/gadgets/2014/12/the-state-of-smartphones-in-2014-ars-technicas-ultimate-guide/
-* http://techreport.com/news/27697/latest-backblaze-reliability-data-shows-carnage-for-3tb-seagate-drives
 * http://techreport.com/news/28175/asus-zenbook-pro-ux501-dazzles-with-a-4k-ips-panel
 * http://anandtech.com/show/9174/home-automation-systems-a-consumer-checklist
 * https://www.backblaze.com/blog/best-hard-drive/
@@ -190,7 +183,6 @@ Embrace awkwardness more
 * http://arstechnica.com/business/2015/02/starting-today-wireless-carriers-have-to-unlock-your-phone/
 * http://spin.atomicobject.com/2015/02/15/cheap-long-term-backup-amazon-glacier-storage/
 * http://www.wired.com/?p=1663621&preview_id=1663621%2F
-* http://techreport.com/review/28111/tr-april-2015-peripheral-staff-picks
 * http://www.extremetech.com/extreme/175089-who-makes-the-most-reliable-hard-drives
 * http://techreport.com/review/28198/the-tech-report-system-guide-may-2015-edition
 * https://support.skype.com/en/faq/FA142/how-can-i-delete-my-skype-account
@@ -200,6 +192,7 @@ Embrace awkwardness more
 * http://flowingdata.com/2015/09/11/turn-a-two-way-mirror-into-an-information-display/
 * http://www.extremetech.com/computing/215243-the-best-new-features-in-os-x-10-11-el-capitan
 * http://techreport.com/review/29143/tr-october-2015-peripheral-staff-picks/
+* http://appleinsider.com/articles/15/10/17/apple-activates-quality-program-for-retina-macbook-coatings
 
 
 
