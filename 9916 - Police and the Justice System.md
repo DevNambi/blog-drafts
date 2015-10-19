@@ -89,6 +89,7 @@
 * http://bigstory.ap.org/article/4f0e2a7d5a884274a7798bbdfd79d3c4/ex-drug-officer-says-he-stole-cash-planted-drugs-many-times
 * http://mashable.com/2015/04/14/dash-cam-video/
 * http://arstechnica.com/tech-policy/2015/04/guest-op-ed-what-if-mlks-letter-from-birmingham-jail-had-been-on-facebook/
+* http://www.fox32chicago.com/virtual/news/local/33667842-story
 * http://marginalrevolution.com/marginalrevolution/2015/03/the-ferguson-kleptocracy.html
 * http://www.newyorker.com/magazine/2014/10/06/before-the-law
 * http://www.theatlantic.com/politics/archive/2015/04/the-myth-of-police-reform/390057/
