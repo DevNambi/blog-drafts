@@ -47,6 +47,7 @@
 * http://www.mystatesman.com/news/business/did-texas-big-amazon-deal-yield-a-prime-return/nnFMx/?resub#4faacc70.3553564.735819
 * http://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html
 * https://medium.com/@jaycarney/what-the-new-york-times-didn-t-tell-you-a1128aa78931 <- sharing employee review data. That's low
+	* https://medium.com/@NYTimesComm/dean-baquet-responds-to-jay-carney-s-medium-post-6af794c7a7c6 <- New York Times editor calls BS
 
 
 

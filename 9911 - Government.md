@@ -161,6 +161,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.nytimes.com/2015/04/14/world/asia/afghan-army-is-tested-by-the-taliban-as-fighting-season-begins.html
 * http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/ <- an insight piece
 * http://www.nytimes.com/2015/07/23/world/asia/afghan-security-forces-struggle-just-to-maintain-stalemate.html
+* http://www.economist.com/news/science-and-technology/21607765-just-how-good-are-government-analysts-intelligent-intelligence
 * http://nationalinterest.org/feature/are-submarines-about-become-obsolete-12253
 * http://www.latimes.com/opinion/op-ed/la-oe-0706-zimmerman-ptsd-20150706-story.html
 * http://www.businessinsider.com/the-military-tested-bacterial-weapons-in-san-francisco-2015-7

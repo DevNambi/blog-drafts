@@ -405,6 +405,7 @@
 * http://blog.ranman.org/cleaning-up-aws-with-boto3/
 * http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html
 * http://blog.chriszacharias.com/page-weight-matters
+* http://motherboard.vice.com/read/memory-is-holding-up-the-moores-law-progression-of-processing-power
 
 
 
@@ -589,6 +590,8 @@
 * https://medium.com/s-c-a-l-e/database-guru-on-why-nosql-matters-and-sql-still-matters-c64239fe84fd
 * http://www.pipelinedb.com/blog/making-postgres-bloom
 * http://pajhome.org.uk/blog/10_reasons_to_love_sqlalchemy.html
+* https://www.compose.io/articles/write-stuff-measuring-database-performance/
+
 
 
 <li><a href="http://t.co/ZA3MOe15" time_added="1357660034" tags="">mrdenny: Reading: http://t.co/ZA3MOe15 Selective XML Index - Secondary Sele</a></li>

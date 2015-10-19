@@ -28,6 +28,7 @@
 * http://www.nakedcapitalism.com/2015/07/chinese-stock-market-rout-continues-trading-halted-in-over-half-of-listed-stocks.html
 * http://www.nytimes.com/2015/07/20/world/asia/in-china-a-supercity-rises-around-beijing.html
 * http://qz.com/456025/zombies-and-cannibals-the-horrors-of-chinas-financial-system-charted/
+* http://wolfstreet.com/2015/10/19/global-demand-rampant-overcapacity-china-containerized-freight-index-ccfi-collapses-worst-level-ever/
 
 
 ## Europe
@@ -57,6 +58,7 @@
 * http://www.nakedcapitalism.com/2015/05/sec-vindicates-deutsche-bank-derivatives-whistleblowers-eric-ben-artzi-and-matthew-simpson.html
 * http://www.nakedcapitalism.com/2015/07/mario-draghi-the-ecb-has-no-mandate-to-ensure-checks-clear-or-credit-cards-work.html
 * http://wolfstreet.com/2015/09/13/brazil-about-to-drag-down-spains-biggest-bank-santander/
+* http://wolfstreet.com/2015/10/16/big-vw-investors-lost-their-shirts-blame-lobbying-for-dieselgate/
 
 
 
@@ -143,6 +145,7 @@
 * http://www.nakedcapitalism.com/2015/03/bill-black-meet-citis-ethical-underwriter-fought-won-sherry-hunt.html
 * http://boingboing.net/2015/03/26/tpp-leak-states-give-companie.html
 * http://www.nakedcapitalism.com/2015/03/bill-black-fcic-spurned-one-chance-greatness.html
+* http://www.zerohedge.com/news/2015-10-19/traders-are-panic-selling-t-bills-after-jack-lew-warns-terrible-debt-limit-accident
 * http://www.theatlantic.com/magazine/archive/2015/05/can-bankers-behave/389558/
 * http://www.theatlantic.com/magazine/archive/2015/05/bank-of-the-underworld/389555/
 * http://www.telegraph.co.uk/finance/libor-scandal/11684438/Libor-trial-Hayes-handed-over-a-UBS-instruction-manual-on-rigging-prosecution-says.html
@@ -235,6 +238,9 @@
 * http://www.bloombergview.com/articles/2015-09-30/high-speed-trading-firm-deleted-some-code-by-accident
 * http://www.nakedcapitalism.com/2015/10/after-nc-media-coverage-of-calpers-and-calstrs-private-equity-fee-lapses-treasurer-john-chiang-calls-for-legislation.html
 * http://www.nakedcapitalism.com/2015/10/the-uks-money-laundering-mess-i.html
+* http://wolfstreet.com/2015/10/15/wrath-of-financial-engineering-eating-earnings-record-corporate-debt/
+* http://www.zerohedge.com/news/2015-10-19/walmart-suppliers-brace-coming-storm-now-we-know-why-they-have-been-pushing-so-hard
+
 
 
 
@@ -453,7 +459,12 @@
 * https://medium.com/basic-income/self-driving-trucks-are-going-to-hit-us-like-a-human-driven-truck-b8507d9c5961
 * http://www.nakedcapitalism.com/2015/06/wolf-richter-last-two-times-this-happened-stocks-crashed.html
 * http://www.nakedcapitalism.com/2015/06/the-notion-of-the-competitiveness-of-countries-is-nonsense.html
-* http://www.nytimes.com/2015/07/19/world/stowaway-crime-scofflaw-ship.html?_r=0
+* http://www.nytimes.com/2015/07/19/world/stowaway-crime-scofflaw-ship.html
+* http://www.zerohedge.com/news/2015-10-19/four-ticking-global-time-bombs-few-even-hear
+* http://wolfstreet.com/2015/10/14/us-freight-shipments-morose-worst-september-since-2010/
+* http://wolfstreet.com/2015/10/12/junk-bond-issuance-collapses-distress-ratio-spikes/
+* http://wolfstreet.com/2015/10/09/last-time-this-ratio-reached-that-level-stocks-crashed/
+
 
 
 

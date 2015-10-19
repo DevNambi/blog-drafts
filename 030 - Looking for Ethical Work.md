@@ -85,7 +85,9 @@ Industries
 * http://www.wired.com/2015/04/inside-chinese-factories/
 * http://kernelmag.dailydot.com/issue-sections/features-issue-sections/13000/kerbal-space-program-game/
 * http://www.geekwire.com/2015/money-doesnt-buy-meaning-report-on-meaningful-jobs-finds-gigs-that-serve-people-rank-high-pickers-not-so-much/
-* http://www.nytimes.com/2015/08/26/world/europe/a-21st-century-migrants-checklist-water-shelter-smartphone.html?_r=0
+* http://www.nytimes.com/2015/08/26/world/europe/a-21st-century-migrants-checklist-water-shelter-smartphone.html
+* http://www.vox.com/2015/10/19/9566935/prohibition-myths-misconceptions-facts
+
 
 ### Support real work, and disrupt everything else
 

@@ -50,6 +50,8 @@
 * http://arstechnica.com/tech-policy/2015/09/cia-officers-pulled-from-china-because-of-opm-breach/
 * https://www.eff.org/deeplinks/2015/04/whitehouses-new-executive-order-cyber-crime-unfortunately-no-joke
 * http://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html
+* http://motherboard.vice.com/read/the-downside-of-encrypting-everything-virus-filled-ads-are-harder-to-track
+* http://www.wired.com/2015/10/x-ray-scans-expose-an-ingenious-chip-and-pin-card-hack/
 * http://www.nytimes.com/2015/09/27/business/complex-car-software-becomes-the-weak-spot-under-the-hood.html
 * http://arstechnica.com/security/2015/05/the-moose-is-loose-linux-based-worm-turns-routers-into-social-network-bots/
 * http://blog.trendmicro.com/pawn-storm-first-java-zero-day-attack-in-two-years-targets-nato-us-defense-organizations/
