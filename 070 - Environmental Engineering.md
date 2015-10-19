@@ -131,6 +131,7 @@ Emphasize what we don't know
 * http://www.nakedcapitalism.com/2015/07/gaius-publius-california-drought-the-bigger-water-crisis-the-consumer-economy%E2%80%8B.html
 * http://www.atlasobscura.com/places/the-great-green-wall-of-africa
 * http://arstechnica.com/science/2015/03/us-doe-examines-a-future-grid-thats-35-percent-wind/
+* http://www.extremetech.com/extreme/216358-mit-develops-enhanced-energy-transport-using-quantum-physics-and-genetic-engineering
 * http://blogs.wsj.com/japanrealtime/2015/06/24/japan-building-giant-battery-systems-to-store-solar-power/?mod=e2fb
 * http://arstechnica.com/science/2015/04/us-energy-future-looks-like-independence-efficiency-and-renewables/
 * http://www.wired.com/2015/03/californias-run-water-act-now/

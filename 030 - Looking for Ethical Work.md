@@ -103,6 +103,7 @@ Industries
 * http://berkeleyjournal.org/2015/01/morality-and-the-idea-of-progress-in-silicon-valley/
 * http://idlewords.com/talks/what_happens_next_will_amaze_you.htm
 * http://mobile.nytimes.com/2015/05/03/magazine/want-a-steady-income-theres-an-app-for-that.html
+* http://master.matsemann.com/ <- make bicycles more efficient
 * http://www.johndcook.com/blog/2015/10/01/technical-arbitrage/
 * https://medium.com/@chrisloer/join-the-engineering-leisure-class-b3083c09a78e
 * http://opinionator.blogs.nytimes.com/2015/05/22/allying-choice-and-nutrition-at-food-pantries/?_r=0
