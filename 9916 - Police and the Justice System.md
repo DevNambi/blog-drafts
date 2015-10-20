@@ -13,6 +13,7 @@
 * http://www.thedenverchannel.com/news/u-s-world/cell-phone-video-chandler-officer-illegally-enters-womans-home-arrests-her-while-she-is-naked <- had his body camera off
 * http://www.theguardian.com/us-news/2015/jul/15/jonathan-sanders-mississppi-chokehold
 * http://prospect.org/article/why-dont-settlements-over-brutality-come-out-police-budgets
+* http://america.aljazeera.com/watch/shows/fault-lines/articles/2015/10/17/mississippi-judge-people-charged-with-crimes-they-are-criminals.html
 * https://www.yahoo.com/tech/s/nypd-scary-sounding-x-ray-vans-refusing-talk-213013174.html
 * https://www.eff.org/deeplinks/2015/09/taken-offline-years-prison-love-technology
 * http://www.latimes.com/local/lanow/la-me-ln-federal-judge-orders-release-of-videos-20150714-story.html
