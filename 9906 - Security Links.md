@@ -27,6 +27,7 @@
 * http://www.abc10.com/story/news/2015/09/09/cyber-attacks-doe-energy/71929786/
 * http://arstechnica.com/security/2015/09/ashley-madison-password-crack-could-spell-trouble-across-the-internet/
 * http://www.nationaljournal.com/tech/opm-hack-fingerprints-china-20150714
+* http://www.wired.com/2015/10/hacker-who-broke-into-cia-director-john-brennan-email-tells-how-he-did-it/
 * http://www.bbc.com/news/technology-33802344
 * http://techcrunch.com/2015/07/13/development-of-a-200-wifi-router-geared-towards-whistleblowers-was-just-suspiciously-cancelled/
 * http://arstechnica.com/security/2015/06/encryption-would-not-have-helped-at-opm-says-dhs-official/

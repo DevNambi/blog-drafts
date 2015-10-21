@@ -241,6 +241,9 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://arstechnica.com/tech-policy/2015/10/detainees-sue-psychologists-who-engineered-profited-from-cia-torture/ <- good. War crimes trial, anyone?
 * http://www.seattletimes.com/nation-world/u-s-analysts-knew-afghan-site-was-hospital-ap-reports/
 * https://theintercept.com/2015/10/15/civil-liberties-groups-call-for-congressional-inquiry-into-assassination-program/
+* http://turcopolier.typepad.com/sic_semper_tyrannis/2015/10/russian-jamming-system-blocks-all-nato-electronics-inside-bubble-600-km-in-diameter-over-syria-ttg.html
+* http://www.telegraph.co.uk/news/worldnews/europe/russia/11944219/Russia-builds-massive-Arctic-military-base.html
+
 
 
 <li><a href="https://medium.com/war-is-boring/db72a8a23ccf" time_added="1405546931" tags="">Your Periodic Reminder That the V-22 Is a Piece of Junk — War is Boring — M</a></li>

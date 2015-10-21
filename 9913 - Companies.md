@@ -256,6 +256,12 @@
 
 
 
+## Twitter
+
+* http://techcrunch.com/2015/10/21/twitter-ceo-dorsey-apologizes-to-developers-says-he-wants-to-reset-relations/
+
+
+
 
 
 ## Misc

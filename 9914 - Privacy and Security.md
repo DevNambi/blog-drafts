@@ -80,6 +80,7 @@
 * http://www.extremetech.com/internet/180485-the-ultimate-guide-to-staying-anonymous-and-protecting-your-privacy-online
 * http://peter-whittaker.com/the-right-time-to-refuse/
 * http://www.theguardian.com/technology/2015/feb/13/apple-ceo-tim-cook-challenges-obama-privacy
+* http://arstechnica.com/tech-policy/2015/10/german-parliament-passes-new-comprehensive-data-retention-law/
 * http://arstechnica.com/tech-policy/2015/03/we-know-where-youve-been-ars-acquires-4-6m-license-plate-scans-from-the-cops/
 * https://medium.com/@arankhanna/stalking-your-friends-with-facebook-messenger-9da8820bd27d
 * http://www.wsj.com/articles/ad-blockers-internet-advertisers-play-cat-and-mouse-1437046675
@@ -91,6 +92,7 @@
 * http://saintsal.com/facebook/
 * http://www.bbc.com/news/technology-32409952
 * http://www.pewinternet.org/2015/03/16/Americans-Privacy-Strategies-Post-Snowden/
+* http://arstechnica.com/tech-policy/2015/10/judge-does-us-law-allow-feds-to-compel-apple-to-unlock-an-iphone/
 * http://arstechnica.com/security/2015/03/freak-flaw-in-android-and-apple-devices-cripples-https-crypto-protection/
 * http://www.theguardian.com/technology/2015/feb/18/the-right-be-forgotten-google-search
 * http://www.extremetech.com/mobile/211985-htc-caught-storing-fingerprint-data-in-unencrypted-plain-text <- tension between user requirements (security/privacy) and businesses (profit margins)

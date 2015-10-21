@@ -111,6 +111,7 @@
 * https://www.airpair.com/code-review/posts/code-review-the-ultimate-guide
 * http://blog.scalyr.com/2014/07/impossible-problems-often-arent/
 * http://www.drmaciver.com/2015/10/the-economics-of-software-correctness/
+* http://spectrum.ieee.org/static/overcomplexifying-underdelivering
 
 
 ## Learning to Code

@@ -171,6 +171,7 @@
 * https://beta.oreilly.com/learning/data-visualization-with-seaborn
 * https://github.com/wbkd/awesome-d3
 * http://c3js.org/
+* http://www.cloudstitch.com/d3-in-a-box
 
 #### GGPlot2
 
@@ -401,6 +402,7 @@
 * https://lab.getbase.com/is-regression-trustworthy-or-how-to-use-metrics-to-trust-the-prediction-of-regression/
 * http://fastml.com/evaluating-recommender-systems/
 * http://arxiv.org/abs/1509.01240 <- stochastic gradient descent is pretty great
+* http://nerds.airbnb.com/confidence-splitting-criterions/
 
 
 
