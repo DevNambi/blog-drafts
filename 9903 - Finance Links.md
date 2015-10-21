@@ -370,7 +370,7 @@
 * http://www.nakedcapitalism.com/2015/07/how-big-corporations-are-starving-public-schools-of-billions-of-dollars.html
 * http://motherboard.vice.com/en_ca/read/new-trans-pacific-partnership-leak-means-significant-overhaul-for-canadian-law
 * http://www.thebookoflife.org/unemployment-down-at-last-misemployment-bad-as-ever/
-
+* http://www.nakedcapitalism.com/2015/10/5-of-the-biggest-acts-of-corporate-hypocrisy-in-america.html
 
 
 

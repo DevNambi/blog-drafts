@@ -39,6 +39,7 @@
 ## Parenting
 
 * http://www.nytimes.com/2015/02/01/opinion/sunday/the-only-baby-book-youll-ever-need.html
+* http://arstechnica.com/science/2015/10/marijuana-exposure-in-utero-has-lifelong-consequences/
 * http://www.washingtonpost.com/news/to-your-health/wp/2015/08/11/the-most-depressing-statistic-imaginable-about-being-a-new-parent/
 * http://qz.com/470751/your-brain-is-particularly-vulnerable-to-trauma-at-two-distinct-ages/
 * http://www.motherjones.com/politics/2015/05/schools-behavior-discipline-collaborative-proactive-solutions-ross-greene

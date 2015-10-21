@@ -10,6 +10,7 @@
 * https://ma.ttias.be/remote-code-execution-via-http-request-in-iis-on-windows/
 * http://arstechnica.com/security/2015/10/new-zero-day-exploit-hits-fully-patched-adobe-flash/
 * http://www.wsj.com/articles/cyber-sleuths-track-hacker-to-chinas-military-1443042030
+* http://arstechnica.com/security/2015/10/the-rise-of-the-zero-day-market/
 * http://offbeathome.com/2014/10/temporary-home-security
 * https://thestack.com/security/2015/09/24/cookies-can-render-secure-websites-vulnerable-in-all-modern-browsers/
 * http://krebsonsecurity.com/2015/10/whats-in-a-boarding-pass-barcode-a-lot/

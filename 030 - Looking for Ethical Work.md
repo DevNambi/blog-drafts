@@ -133,6 +133,8 @@ Industries
 * http://www.fastcolabs.com/3038792/what-i-learned-from-building-an-app-for-low-income-americans
 * http://www.extremetech.com/extreme/214730-how-independent-researchers-tracked-down-vws-diesel-software-hacks
 * http://www.nytimes.com/2014/12/07/upshot/how-technology-could-help-fight-income-inequality.html
+* http://conservationmetrics.com/about-us/ <- consider volunteering for them
+* http://www.gisdoctor.com/site/2015/10/12/reasons-openstreetmap/
 * http://graphics.latimes.com/product-of-mexico-camps/
 * http://www.iflscience.com/health-and-medicine/cheap-smartphone-dongle-diagnoses-hiv-and-syphilis-15-minutes
 * http://leancrew.com/all-this/2015/02/engineering-ethics/

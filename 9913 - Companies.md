@@ -48,6 +48,8 @@
 * http://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html
 * https://medium.com/@jaycarney/what-the-new-york-times-didn-t-tell-you-a1128aa78931 <- sharing employee review data. That's low
 	* https://medium.com/@NYTimesComm/dean-baquet-responds-to-jay-carney-s-medium-post-6af794c7a7c6 <- New York Times editor calls BS
+	* https://medium.com/@jhreha/how-amazon-jay-carney-violated-the-laws-of-persuasion-50b69d029e54
+
 
 
 

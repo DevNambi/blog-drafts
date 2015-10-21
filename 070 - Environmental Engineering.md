@@ -127,6 +127,9 @@ Emphasize what we don't know
 * http://www.nakedcapitalism.com/2015/07/californias-north-coast-wine-industry-how-sustainable-is-it.html
 * http://www.desertsun.com/story/news/environment/2015/08/06/enforcement-uneven-transparency-golf-water-rules/31213529/
 * http://www.nakedcapitalism.com/2014/04/gaius-publius-climate-scientist-michael-mann-dont-stop-now-well-surpass-2c-global-warming.html
+* http://www.bloomberg.com/news/articles/2015-10-15/pratt-s-purepower-gtf-jet-engine-innovation-took-almost-30-years
+* http://fivethirtyeight.com/datalab/big-data-is-saving-this-little-bird/
+
 * http://www.washingtonpost.com/news/energy-environment/wp/2015/04/01/the-arctic-climate-threat-that-nobodys-even-talking-about-yet/
 * http://www.nakedcapitalism.com/2015/07/gaius-publius-california-drought-the-bigger-water-crisis-the-consumer-economy%E2%80%8B.html
 * http://www.atlasobscura.com/places/the-great-green-wall-of-africa

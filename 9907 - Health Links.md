@@ -435,6 +435,7 @@
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://fivethirtyeight.com/features/the-problem-with-tying-health-care-to-trade/
 * http://www.nakedcapitalism.com/2015/10/tpp-intellectual-property-chapter-is-a-disaster-for-global-health.html
 * http://www.vox.com/2015/10/14/9528441/high-deductible-insurance-kolstad
 * http://www.huffingtonpost.com/jeffrey-sachs/rational-drug-pricing_b_8188790.html
@@ -526,6 +527,7 @@
 
 
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
+* http://techcrunch.com/2015/10/20/amino/
 * http://www.nytimes.com/2015/09/08/health/what-are-a-hospitals-costs-utah-system-is-trying-to-learn.html?_r=0
 * http://www.latimes.com/business/la-fi-blue-shield-audit-20150705-story.html#page=1
 * http://www.nakedcapitalism.com/2015/06/obamacares-problems-continue-to-fester-cost-complexity-quality-coverage-covered-california.html
