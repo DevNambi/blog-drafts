@@ -44,6 +44,7 @@ http://arstechnica.com/cars/2015/05/meta-analysis-finds-self-braking-cars-reduce
 http://consumerist.com/2015/05/20/gm-that-car-you-bought-were-really-the-ones-who-own-it/
 * http://money.usnews.com/money/personal-finance/articles/2015/06/09/startups-offer-new-ways-to-buy-and-sell-used-cars
 * http://www.nytimes.com/2015/06/24/business/senate-commerce-hearing-takata-airbag-nhtsa-general-motors.html
+* https://medium.com/@ade3/the-zombie-mobile-b03932ac971d
 
 
 ## Safe and Unsafe Cars

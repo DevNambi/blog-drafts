@@ -121,6 +121,8 @@ Emphasize what we don't know
 * http://news.nationalpost.com/news/world/the-water-table-is-dropping-all-over-the-world-new-nasa-study-reveals-global-drought
 * http://www.theatlantic.com/science/archive/2015/10/why-only-a-technocratic-revolution-can-win-the-climate-change-war/410377/?single_page=true
 * http://enenews.com/times-worst-possible-result-revealed-fukushima-plant-chief-centuries-pass-before-humans-invent-deal-molten-fuel-videos
+* http://ngm.nationalgeographic.com/2015/11/climate-change/solar-power-text
+* http://www.socialeurope.eu/2015/10/the-limits-of-the-digital-revolution-why-our-washing-machines-wont-go-to-the-moon/
 * https://medium.com/@lesliejz/don-t-stop-showering-california-lay-off-the-burgers-and-nuts-and-pick-up-some-crickets-eb63bddf0277
 * http://arstechnica.com/science/2015/04/30/the-inadvertent-hilarity-of-the-heartland-institute-vs-pope-francis/
 * http://www.sfgate.com/bayarea/article/Bay-Area-water-agencies-start-strong-hit-6405595.php

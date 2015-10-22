@@ -25,6 +25,7 @@
 * http://arstechnica.com/tech-policy/2015/09/eu-us-data-flows-using-safe-harbour-may-be-illegal-because-of-nsa-spying/
 * http://www.extremetech.com/extreme/216372-intercepts-drone-doc-mega-leak-is-whistleblowing-evolved
 * http://www.abc10.com/story/news/2015/09/09/cyber-attacks-doe-energy/71929786/
+* http://blog.cryptographyengineering.com/2015/10/a-riddle-wrapped-in-curve.html
 * http://arstechnica.com/security/2015/09/ashley-madison-password-crack-could-spell-trouble-across-the-internet/
 * http://www.nationaljournal.com/tech/opm-hack-fingerprints-china-20150714
 * http://www.wired.com/2015/10/hacker-who-broke-into-cia-director-john-brennan-email-tells-how-he-did-it/

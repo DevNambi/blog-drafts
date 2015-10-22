@@ -65,6 +65,7 @@
 * https://dennisforbes.ca/index.php/2006/11/05/money-really-does-matter-im-an-admitted-code-mercenary/
 * https://ozar.me/2013/07/how-negotiate-consulting-rates/
 * http://www.startupdaily.net/2015/09/builtwith-is-perhaps-one-of-australias-most-profitable-online-companies-and-has-zero-staff/
+* http://www.gkogan.co/blog/how-i-learned-to-get-consulting-leads/
 
 
 
