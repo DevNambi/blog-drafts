@@ -165,6 +165,7 @@
 * https://www.interviewcake.com/article/coding-interview-tips
 * https://www.reddit.com/r/AskReddit/comments/2stvf1/whats_a_really_useful_keyboard_shortcut_you_know/
 * https://help.github.com/articles/changing-author-info/
+* http://techcrunch.com/2015/10/23/coding-academies-are-nonsense/
 
 
 
