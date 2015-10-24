@@ -66,6 +66,7 @@
 * http://www.slate.com/blogs/moneybox/2015/03/12/uber_lyft_employment_cases_juries_could_decide_the_legal_fate_of_the_sharing.html
 * http://www.cnn.com/2015/03/18/opinions/wheeler-silicon-valley-jobs/index.html
 * http://www.nakedcapitalism.com/2015/05/the-shafting-um-sharing-economy.html
+* http://www.sfexaminer.com/airbnbs-ads-make-them-fools-in-national-news/
 
 
 

@@ -265,6 +265,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="https://news.ycombinator.com/item?id=9497721">Ask HN: Programmers Above 50 , Is It Possible to Have a Career Past Your 50s?</a></li>
 <li><a href="https://www.quora.com/Why-arent-there-a-lot-of-old-programmers-at-software-companies/answer/Michael-O-Church">Why aren't there a lot of old programmers at software companies?</a></li>
 <li><a href="https://medium.com/backchannel/how-can-we-achieve-age-diversity-in-silicon-valley-11a847cb37b7">How Can We Achieve Age Diversity in Silicon Valley?</a></li>
+<li><a href="http://www.newrepublic.com/article/117088/silicons-valleys-brutal-ageism">The Brutal Ageism of Tech</a></li>
 </ul>
 
 **The 'STEM' shortage, and H1B Visas**
