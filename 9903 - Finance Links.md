@@ -59,6 +59,7 @@
 * http://www.nakedcapitalism.com/2015/07/mario-draghi-the-ecb-has-no-mandate-to-ensure-checks-clear-or-credit-cards-work.html
 * http://wolfstreet.com/2015/09/13/brazil-about-to-drag-down-spains-biggest-bank-santander/
 * http://wolfstreet.com/2015/10/16/big-vw-investors-lost-their-shirts-blame-lobbying-for-dieselgate/
+* http://www.theguardian.com/world/2015/oct/22/three-days-to-save-the-euro-greece
 
 
 

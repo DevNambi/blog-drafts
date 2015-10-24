@@ -61,6 +61,7 @@
 * http://blogs.msdn.com/b/msr_er/archive/2015/06/26/announcing-the-microsoft-academic-graph-let-the-research-begin.aspx
 * https://open.nasa.gov/
 * http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/ <- here's the mother lode
+* https://news.ycombinator.com/item?id=10440502
 
 ## Data Acquisition, Sources
 
@@ -403,6 +404,7 @@
 * http://fastml.com/evaluating-recommender-systems/
 * http://arxiv.org/abs/1509.01240 <- stochastic gradient descent is pretty great
 * http://nerds.airbnb.com/confidence-splitting-criterions/
+* http://bertolami.com/index.php?engine=blog&content=posts&detail=randomized-decision-forests
 
 
 
@@ -552,6 +554,7 @@
 
 * http://mortada.net/drafts/the-traveling-tesla-salesman.html
 * https://developers.google.com/optimization/
+* http://news.mit.edu/2015/faster-optimization-algorithm-1023
 
 #### ML Tools, Hyperparameters
 
