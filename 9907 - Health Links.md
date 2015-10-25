@@ -212,26 +212,107 @@
 
 
 
-#### Medical
+### Medical
 
+
+#### Vaccinations
 
 * http://www.slate.com/articles/news_and_politics/politics/2015/02/anti_vaxxers_resist_persuasion_if_they_refuse_we_have_to_force_them_to_vaccinate.html
-* http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/
+* http://arstechnica.com/science/2015/06/personal-vaccine-exemptions-under-fire-in-california-and-by-ama/
+* http://www.npr.org/blogs/goatsandsoda/2015/05/07/404963436/scientists-crack-a-50-year-old-mystery-about-the-measles-vaccine
+* https://www.insidehighered.com/news/2015/02/02/measles-outbreak-raises-issues-colleges
+* http://www.dailykos.com/story/2015/01/30/1361224/-Roald-Dahl-s-Heartbreaking-Take-on-Vaccines
+* http://www.vox.com/2015/1/29/7929791/measles-outbreak-2014
+* http://www.nytimes.com/2015/01/29/us/father-of-boy-with-leukemia-asks-california-school-officials-to-bar-unvaccinated-students.html
+
+#### Autism
+
+* http://arstechnica.com/science/2015/01/the-connections-in-autistic-brains-are-idiosyncratic-and-individualized/
+
+#### Cancer
+
 * http://www.independent.co.uk/news/science/cure-for-cancer-might-accidentally-have-been-found-and-it-could-be-malaria-a6693601.html
 * http://www.nytimes.com/2015/09/29/health/a-breast-cancer-surgeon-who-keeps-challenging-the-status-quo.html
+* http://newsoffice.mit.edu/2015/real-time-data-for-cancer-therapy-0804
+* http://insightmine.com/i-dont-care-if-you-dont-need-to-know-about-cancer-we-all-do/ <- amazing
+* http://www.nytimes.com/2015/02/19/opinion/oliver-sacks-on-learning-he-has-terminal-cancer.html
+* http://www.bloomberg.com/news/2015-01-02/cancer-largely-due-to-biological-bad-luck-rather-than-behavior.html
+* http://online.wsj.com/articles/cancers-super-survivors-how-immunotherapy-is-transforming-oncology-1417714379#
+* http://www.huffingtonpost.com/2014/11/18/marijuana-brain-cancer_n_6181060.html
+* http://www.abc.net.au/news/2014-10-07/queensland-scientists-discover-cancer-fighting-berry/5796106
+* http://mywifesfightwithbreastcancer.com/
+
+<li><a href="http://www.moneytrendsresearch.com/scientists-cure-cancer-but-no-one-takes-notice/" time_added="1348860235" tags="health">Scientists Cure Cancer, But No One Takes Notice | MTR</a></li>
+<li><a href="http://flowingdata.com/2013/11/01/cancer-data-for-the-u-s-released/" time_added="1383334490" tags="data sources,health">Cancer data for the U.S. released</a></li>
+<li><a href="http://www.the-scientist.com/?articles.view/articleNo/34759/title/The-Cancer-Test-Kid/" time_added="1368716704" tags="health">The Cancer-Test Kid | The Scientist Magazine®</a></li>
+<li><a href="http://arstechnica.com/science/2013/08/stem-cells-turned-into-cancer-killing-immune-cells/" time_added="1376422372" tags="health">Stem cells turned into cancer-killing immune cells | Ars Technica</a></li>
+
+#### Genetic Engineering, Genome Sciences
+
+* http://arstechnica.com/science/2014/08/diy-diagnosis-how-an-extreme-athlete-uncovered-her-genetic-flaw/
+* http://www.extremetech.com/extreme/214647-how-does-dna-sequencing-work
+* http://nautil.us/issue/21/information/your-dna-is-nothing-special
+* http://arstechnica.com/science/2015/08/your-inherited-genes-control-your-iq-and-may-affect-how-well-you-do-at-exams-too/
+* http://www.unz.com/gnxp/when-sequencing-makes-genotyping-obsolete-soon/
+* http://www.technologyreview.com/featuredstory/532421/the-search-for-exceptional-genomes/
+* http://www.businessweek.com/articles/2014-12-04/dna-sequencing-craig-venter-says-genomic-era-is-just-starting
+
+#### Diabetes
+
+* http://www.wired.com/2014/12/diabetes-patients-hacking-together-diy-bionic-pancreases/
+
+#### Alzheimers, MS
+
+* http://www.nature.com/articles/srep15015
+* http://patch.com/california/berkeley/alzheimers-game-changer-scientists-find-changing-one-molecule-reverses-memory-loss
+* http://www.sciencealert.com/new-alzheimer-s-treatment-fully-restores-memory-function
+* http://www.independent.co.uk/life-style/health-and-families/health-news/alzheimers-breakthrough-scientists-may-have-found-potential-cause-of-the-disease-in-the-behaviour-of-immune-cells--giving-new-hope-to-millions-10176652.html
+* http://newsroom.ucla.edu/releases/memory-loss-associated-with-alzheimers-reversed-for-first-time
+* http://www.popsci.com/ultrasound-restores-memory-mice-alzheimers
+* http://www.sciencealert.com/new-alzheimer-s-treatment-fully-restores-memory-function
+* http://www.scientificamerican.com/article/supercharged-tuberculosis-made-in-india1/
+* http://www.latimes.com/science/sciencenow/la-sci-sn-h7n9-bird-flu-china-spread-
+* http://www.pri.org/stories/2015-04-30/do-we-all-have-alzhemers-completely-wrong-man-says-yes
+* http://www.healthline.com/health-news/ms-patients-who-received-stem-cell-transplants-still-in-remission-010715
+* http://newoldage.blogs.nytimes.com/2014/09/24/study-links-anxiety-drugs-to-alzheimers-disease/
+
+#### Antibiotics, Drug Resistance
+
+* http://www.wired.com/2015/07/mers-isnt-epidemic-makes-harder-find-cure/
+pandemic-20150311-story.html
+* http://www.nytimes.com/2015/02/24/opinion/how-to-develop-new-antibiotics.html
+* http://www.telegraph.co.uk/news/science/science-news/11331174/First-new-antibiotic-in-30-years-discovered-in-major-breakthrough.html
+* http://www.theatlantic.com/health/archive/2015/01/the-new-antibiotics-might-be-essential-oils/384247/
+* http://www.nature.com/news/antibiotic-resistance-the-last-resort-1.13426
+* http://www.nytimes.com/2014/12/04/world/asia/superbugs-kill-indias-babies-and-pose-an-overseas-threat.html
+
+<li><a href="http://www.nature.com/news/antibiotic-resistance-the-last-resort-1.13426" time_added="1374949873" tags="domestic,health,important">Antibiotic resistance: The last resort : Nature News & Comment</a></li>
+
+#### Epidemiology, Data
+
+* http://www.extremetech.com/extreme/199602-fda-authorizes-23andme-to-market-health-related-genetic-testing
+* http://www.nytimes.com/2015/02/03/upshot/how-to-measure-a-medical-treatments-potential-for-harm.html <- super important
+* https://medium.com/war-is-boring/eating-too-much-rice-almost-sank-the-japanese-navy-f985772c81a6
+* https://medium.com/backchannel/should-surgeons-keep-score-8b3f890a7d4c
+* http://www.wired.com/2014/10/number-needed-to-treat/ <- USE THIS FOR A BLOG POST
+* http://www.nytimes.com/2015/01/27/upshot/can-this-treatment-help-me-theres-a-statistic-for-that.html
+
+
+
+
+
+
+
+#### Unsorted
+
+* http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/
 * http://www.fastcoexist.com/3052282/the-latest-medical-breakthrough-in-spinal-cord-injuries-was-made-by-a-computer-program
 * http://hitconsultant.net/2015/10/13/10-ways-artificial-intelligence-could-make-me-a-better-doctor/
-* http://arstechnica.com/science/2014/08/diy-diagnosis-how-an-extreme-athlete-uncovered-her-genetic-flaw/
-* http://newsoffice.mit.edu/2015/real-time-data-for-cancer-therapy-0804
 * http://stm.sciencemag.org/content/7/278/278ra33.full
 * https://vanwinkles.com/bedtime-for-benzodiazepines-addicted-drug-most-popular-sleeping-pills
-* http://www.wired.com/2015/07/mers-isnt-epidemic-makes-harder-find-cure/
 * http://andrewgelman.com/2015/08/04/pro-publicas-new-surgeon-scorecards/
-* http://www.scientificamerican.com/article/supercharged-tuberculosis-made-in-india1/
 * http://www.nytimes.com/2015/07/12/health/modern-doctors-house-calls-skype-chat-and-fast-diagnosis.html
 * http://www.seattletimes.com/nation-world/some-acid-reflux-drugs-safety-questioned/
-* http://arstechnica.com/science/2015/06/personal-vaccine-exemptions-under-fire-in-california-and-by-ama/
-* http://insightmine.com/i-dont-care-if-you-dont-need-to-know-about-cancer-we-all-do/ <- amazing
 * http://www.psmag.com/health-and-behavior/worst-possible-surgery-scenarios
     * http://www.surgjournal.com/article/S0039-6060(15)00315-3/abstract
 * http://www.thestranger.com/features/feature/2015/04/15/22062331/i-sat-in-on-my-sons-sex-ed-class-and-i-was-shocked-by-what-i-heard
@@ -241,81 +322,48 @@
 * http://www.reuters.com/article/2015/04/20/us-health-depression-idUSKBN0NB2KO20150420
 * https://news.vice.com/article/seattle-is-helping-drug-addicts-instead-of-locking-them-up-and-so-far-its-working
 * http://www.nytimes.com/2015/05/26/health/rural-nebraska-offers-stark-view-of-nursing-autonomy-debate.html
-* http://www.independent.co.uk/life-style/health-and-families/health-news/alzheimers-breakthrough-scientists-may-have-found-potential-cause-of-the-disease-in-the-behaviour-of-immune-cells--giving-new-hope-to-millions-10176652.html
-* https://medium.com/war-is-boring/eating-too-much-rice-almost-sank-the-japanese-navy-f985772c81a6
 * http://www.scientificamerican.com/article/common-parasite-could-manipulate-our-behavior/
 * http://www.bbc.com/news/health-31713147
 * http://www.thedailybeast.com/articles/2015/02/26/why-you-trust-the-internet-more-than-your-doctor.html
-* http://newsroom.ucla.edu/releases/memory-loss-associated-with-alzheimers-reversed-for-first-time
-* http://www.latimes.com/science/sciencenow/la-sci-sn-h7n9-bird-flu-china-spread-pandemic-20150311-story.html
 * http://www.bloomberg.com/news/features/2015-02-12/does-a-real-anti-aging-pill-already-exist-
-* http://www.extremetech.com/extreme/214647-how-does-dna-sequencing-work
 * https://gravityandlevity.wordpress.com/2009/07/08/your-body-wasnt-built-to-last-a-lesson-from-human-mortality-rates/
 * http://www.bbc.com/news/health-31533559
-* http://www.nytimes.com/2015/02/24/opinion/how-to-develop-new-antibiotics.html
 * http://arstechnica.com/science/2015/02/hospitals-that-track-their-performance-dont-improve-healthcare/
 * http://www.nytimes.com/2015/03/08/technology/on-the-case-at-mount-sinai-its-dr-data.html? <- my calling?
 * http://www.seattletimes.com/seattle-news/health/seattle-area-hospitals-get-low-marks-for-stopping-infections/
 * http://recode.net/2015/03/11/gates-foundations-new-ceo-why-we-can-eradicate-four-diseases-in-the-next-15-years/
 * http://www.theverge.com/2015/3/25/8288671/autism-causes-genetic-research-study-women
-* http://www.extremetech.com/extreme/199602-fda-authorizes-23andme-to-market-health-related-genetic-testing
-* http://www.nytimes.com/2015/02/19/opinion/oliver-sacks-on-learning-he-has-terminal-cancer.html
 * http://www.theatlantic.com/health/archive/2015/09/why-it-was-easier-to-be-skinny-in-the-1980s/407974/
 * http://news.sciencemag.org/biology/2015/02/stopping-hiv-artificial-protein
-* http://www.popsci.com/ultrasound-restores-memory-mice-alzheimers
-* http://www.sciencealert.com/new-alzheimer-s-treatment-fully-restores-memory-function
 * http://www.nytimes.com/2015/02/18/health/doctors-strive-to-do-less-harm-by-inattentive-care.html <- how does this interact with EHR?
 * http://www.wired.com/2015/02/incredible-hospital-robot-saving-lives-also-hate/
 * http://www.bmj.com/content/350/bmj.h384
 * http://www.nytimes.com/2015/02/11/nyregion/doulas-the-latest-wave-in-maternity-culture-are-organizing-for-more-recognition.html
 * http://www.impactjournals.com/oncotarget/index.php?journal=oncotarget&page=article&op=view&path%5B%5D=3174
-* http://www.pri.org/stories/2015-04-30/do-we-all-have-alzhemers-completely-wrong-man-says-yes
-* http://www.npr.org/blogs/goatsandsoda/2015/05/07/404963436/scientists-crack-a-50-year-old-mystery-about-the-measles-vaccine
 * http://www.huffingtonpost.com/johann-hari/the-real-cause-of-addicti_b_6506936.html
 * http://www.bbc.com/news/world-europe-31864218 <- hilarious
-* http://nautil.us/issue/21/information/your-dna-is-nothing-special
-* http://www.nytimes.com/2015/02/03/upshot/how-to-measure-a-medical-treatments-potential-for-harm.html <- super important
 * http://arstechnica.com/science/2015/03/a-common-over-the-counter-cough-suppressant-can-boost-insulin/
 * http://mobile.nytimes.com/blogs/well/2015/02/04/infections-tied-to-lower-rheumatoid-arthritis-risk/
 * http://www.abc.net.au/news/2014-10-27/medication-software-likely-to-kill-patients-within-month-report/5843044
 * http://opinionator.blogs.nytimes.com/2015/01/31/dying-shouldnt-be-so-brutal/
-* https://www.insidehighered.com/news/2015/02/02/measles-outbreak-raises-issues-colleges
 * http://www.washingtonpost.com/national/health-science/how-i-discovered-an-important-question-a-doctor-should-ask-a-patient/2015/03/09/ca350634-bb9c-11e4-bdfa-b8e8f594e6ee_story.html
-* http://www.dailykos.com/story/2015/01/30/1361224/-Roald-Dahl-s-Heartbreaking-Take-on-Vaccines
 * http://www.mdnewsdaily.com/articles/3130/20150131/vast-majority-of-neurosurgeons-practice-defensive-medicine.htm
-* http://www.healthline.com/health-news/ms-patients-who-received-stem-cell-transplants-still-in-remission-010715
-* http://www.telegraph.co.uk/news/science/science-news/11331174/First-new-antibiotic-in-30-years-discovered-in-major-breakthrough.html
 * http://www.theatlantic.com/magazine/archive/2014/11/doctors-tell-all-and-its-bad/380785/
-* http://www.vox.com/2015/1/29/7929791/measles-outbreak-2014
-* http://www.nytimes.com/2015/01/29/us/father-of-boy-with-leukemia-asks-california-school-officials-to-bar-unvaccinated-students.html
 * http://www.bbc.com/news/health-30988643
 * http://www.theatlantic.com/health/archive/2015/01/the-new-measles/384738/
 * http://www.protectpatientsblog.com/2015/01/the_health_connection_between.html <- correlation, again
 * http://www.forbes.com/sites/robertszczerba/2015/01/13/study-suggests-wi-fi-exposure-more-dangerous-to-kids-than-previously-thought/
 * https://medium.com/matter-archive/the-drug-revolution-that-no-one-can-stop-19f753fb15e0
 * http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)62412-0/fulltext <- incredibly useful
-* http://online.wsj.com/articles/cancers-super-survivors-how-immunotherapy-is-transforming-oncology-1417714379#
-* http://arstechnica.com/science/2015/01/the-connections-in-autistic-brains-are-idiosyncratic-and-individualized/
 * http://arstechnica.com/science/2015/01/collapse-of-soviet-health-system-may-have-aided-spread-of-tuberculosis/
-* http://www.wired.com/2014/12/diabetes-patients-hacking-together-diy-bionic-pancreases/
 * http://www.iflscience.com/health-and-medicine/large-study-explores-how-often-patients-wake-during-surgery
-* http://www.bloomberg.com/news/2015-01-02/cancer-largely-due-to-biological-bad-luck-rather-than-behavior.html
-* http://zoekeating.tumblr.com/post/105883712804/hospitals-and-blogging
-* https://medium.com/backchannel/should-surgeons-keep-score-8b3f890a7d4c
-* http://www.wired.com/2014/10/number-needed-to-treat/ <- USE THIS FOR A BLOG POST
-* http://www.nytimes.com/2015/01/27/upshot/can-this-treatment-help-me-theres-a-statistic-for-that.html
 * http://www.medhistorian.com/2014/08/surgeons-at-war.html
-* http://www.huffingtonpost.com/2014/11/18/marijuana-brain-cancer_n_6181060.html
 * http://www.bloomberg.com/news/2014-12-15/huge-u-s-child-health-study-canceled-after-1-3-billion.html
 * http://mobile.nytimes.com/2014/09/21/us/drive-by-doctoring-surprise-medical-bills.html
-* http://newoldage.blogs.nytimes.com/2014/09/24/study-links-anxiety-drugs-to-alzheimers-disease/
-* http://www.abc.net.au/news/2014-10-07/queensland-scientists-discover-cancer-fighting-berry/5796106
 * http://www.nytimes.com/2014/10/07/upshot/the-placebo-effect-doesnt-apply-just-to-pills.html
 * http://www.nytimes.com/2014/09/21/sunday-review/high-tech-health-care-useful-to-a-point.html
-* http://www.wired.com/2014/10/number-needed-to-treat/
 * https://medium.com/matter/confessions-of-a-mortician-7a8c061bbda3
 * http://alumni.stanford.edu/get/page/magazine/article/?article_id=53345
-* http://mywifesfightwithbreastcancer.com/
 * http://arstechnica.com/science/2014/12/when-the-doctors-away-the-patient-is-more-likely-to-survive/
 * http://www.nytimes.com/2014/12/15/opinion/are-midwives-safer-than-doctors.html
 * http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0114003
@@ -325,7 +373,7 @@
 * http://boingboing.net/2013/08/22/smear-campaign-daily-show-cre.html
 * http://www.cbsnews.com/videos/good-gut-bacteria-can-help-with-controlling-weight-inflammation/
 * http://www.plospathogens.org/article/info%3Adoi%2F10.1371%2Fjournal.ppat.1003587
-* http://www.businessweek.com/articles/2014-12-04/dna-sequencing-craig-venter-says-genomic-era-is-just-starting
+
 * http://www.washingtonpost.com/posteverything/wp/2014/12/31/medical-schools-dont-teach-these-key-lessons-and-its-ruining-our-health/
 * http://time.com/3643841/medicine-gets-personal/
 * http://arstechnica.com/tech-policy/2014/10/feds-examining-medical-devices-for-fatal-cybersecurity-flaws/
@@ -335,30 +383,13 @@
 * http://seattletimes.com/html/nationworld/2025041126_apxebolaomahapatient.html
 * http://seattletimes.com/html/nationworld/2025045858_statinsalternativexml.html
 * http://www.ncbi.nlm.nih.gov/pubmed/25424517
-* http://www.technologyreview.com/featuredstory/532421/the-search-for-exceptional-genomes/
 * http://arstechnica.com/science/2014/11/finding-the-ebola-virus-vulnerable-points/
 * http://www.nytimes.com/2014/12/01/us/federal-study-finds-55-percent-of-infants-sleep-with-soft-bedding-raising-risk-of-death.html
 * http://www.nytimes.com/2014/11/30/opinion/sunday/the-downside-of-resilience.html
 * https://twitter.com/conradhackett/status/551621551682904064
-* http://www.nature.com/news/antibiotic-resistance-the-last-resort-1.13426
-* http://www.nytimes.com/2014/12/04/world/asia/superbugs-kill-indias-babies-and-pose-an-overseas-threat.html
 * http://www.wired.com/2015/01/2015-diseases-borders/
-* http://www.theatlantic.com/health/archive/2015/01/the-new-antibiotics-might-be-essential-oils/384247/
 * http://www.newscientist.com/article/mg22730284.000-antibody-wipeout-relieves-symptoms-of-chronic-fatigue-syndrome.html <- chronic fatigue syndrome
 * http://www.bloomberg.com/news/articles/2015-07-30/warren-buffett-s-family-secretly-funded-a-birth-control-revolution
-* http://arstechnica.com/science/2015/08/your-inherited-genes-control-your-iq-and-may-affect-how-well-you-do-at-exams-too/
-
-
-
-#### Alzheimers
-
-* http://www.nature.com/articles/srep15015
-* http://patch.com/california/berkeley/alzheimers-game-changer-scientists-find-changing-one-molecule-reverses-memory-loss
-* http://www.sciencealert.com/new-alzheimer-s-treatment-fully-restores-memory-function
-
-
-
-
 
 
 <li><a href="http://www.theatlantic.com/national/archive/2014/01/the-missing-voices-in-the-contraception-mandate-cases/283452/" time_added="1391151159" tags="">The Missing Voices in the Contraception Mandate Cases - Garrett Epps - The </a></li>
@@ -370,7 +401,7 @@
 <li><a href="http://www.extremetech.com/extreme/171873-naked-dna-gene-therapy-used-to-non-invasively-cure-heart-disease" time_added="1386091362" tags="health">Naked DNA gene therapy used to non-invasively cure heart disease | ExtremeT</a></li>
 <li><a href="http://blog.harjtaggar.com/my-heart" time_added="1383612496" tags="data science,health,important">Avoiding Heart Disease</a></li>
 <li><a href="http://seattletimes.com/html/health/2022117308_apxpainkillersfda.html" time_added="1382666024" tags="health">FDA calls for tighter controls on widely used painkillers</a></li>
-<li><a href="http://flowingdata.com/2013/11/01/cancer-data-for-the-u-s-released/" time_added="1383334490" tags="data sources,health">Cancer data for the U.S. released</a></li>
+
 <li><a href="http://www.npr.org/blogs/krulwich/2013/10/21/239000940/americans-fall-behind-in-the-getting-older-race" time_added="1382455674" tags="health">Americans Fall Behind In The 'Getting Older' Race : Krulwich Wonders... : N</a></li>
 <li><a href="http://www.washington.edu/news/2013/10/28/uw-work-contributes-to-largest-international-study-of-alzheimers-genes/" time_added="1383002478" tags="health,personal">UW work contributes to largest international study of Alzheimer’s genes | U</a></li>
 <li><a href="http://arstechnica.com/tech-policy/2012/11/pfizer-caught-gaming-the-system-loses-viagra-patent-in-canada/" time_added="1352517298" tags="hn">Pfizer caught “gaming the system,” loses Viagra patent in Canada | Ars Tech</a></li>
@@ -381,14 +412,12 @@
 <li><a href="http://www.nytimes.com/2013/03/07/science/unreported-side-effects-of-drugs-found-using-internet-data-study-finds.html time_added="1362617081" tags="data science,health">Unreported Side Effects of Drugs Are Found Using Internet Search Data, Stud</a></li>
 <li><a href="http://refer.ly/superbugs-capable-of-resisting-the-strongest-drugs-are-spreading-through-us-hospitals/c/922bb802867c11e2bfbf22000a1db8fa" time_added="1362596547" tags="health,important">Superbugs Capable of Resisting the Strongest Drugs are Spreading Through US</a></li>
 <li><a href="http://www.nytimes.com/2012/12/12/opinion/the-2000-year-old-wonder-drug.html" time_added="1355330293" tags="health,important">The 2,000-Year-Old Wonder Drug - NYTimes.com</a></li>
-<li><a href="http://www.moneytrendsresearch.com/scientists-cure-cancer-but-no-one-takes-notice/" time_added="1348860235" tags="health">Scientists Cure Cancer, But No One Takes Notice | MTR</a></li>
 <li><a href="http://www.zocalopublicsquare.org/2011/11/30/how-doctors-die/ideas/nexus/" time_added="1358977840" tags="health">Zócalo Public Square :: How Doctors Die</a></li>
 <li><a href="http://news.sciencemag.org/sciencenow/2012/03/one-drug-to-shrink-all-tumors.html time_added="1364491052" tags="health,important">http://news.sciencemag.org/sciencenow/2012/03/one-drug-to-shrink-all-tumors</a></li>
 <li><a href="http://www.theatlantic.com/health/archive/2013/04/the-decline-of-emergency-care/275306/" time_added="1367193363" tags="finance,health">The Decline of Emergency Care - Jason Silverstein - The Atlantic</a></li>
 <li><a href="http://blogs.scientificamerican.com/psi-vid/2013/04/24/india-drowning-in-its-own-excreta/" time_added="1367241878" tags="health">India is Drowning in its Own Excreta-Can Science and Engineering Come to th</a></li>
 <li><a href="http://online.wsj.com/article/SB10001424127887323798104578453123376765286.html" time_added="1367340130" tags="health,important">Heart-Attack Risk Starts Younger - WSJ.com</a></li>
 <li><a href="http://www.randomhacks.net/articles/2007/02/22/bayes-rule-and-drug-tests" time_added="1367510806" tags="health,ml,stats">Bayes' rule in Haskell, or why drug tests don't work</a></li>
-<li><a href="http://www.the-scientist.com/?articles.view/articleNo/34759/title/The-Cancer-Test-Kid/" time_added="1368716704" tags="health">The Cancer-Test Kid | The Scientist Magazine®</a></li>
 <li><a href="http://www.nytimes.com/2013/05/19/magazine/say-hello-to-the-100-trillion-bacteria-that-make-up-your-microbiome.html time_added="1368627786" tags="health">Some of My Best Friends Are Germs</a></li>
 <li><a href="http://www.nytimes.com/2013/11/13/health/new-guidelines-redefine-use-of-statins.html time_added="1384437675" tags="health">Experts Reshape Treatment Guide for Cholesterol</a></li>
 <li><a href="http://seattletimes.com/html/localnews/2021696947_ghcabortionxml.html" time_added="1377698496" tags="domestic,health">Group Health to omit abortion in some plans</a></li>
@@ -403,11 +432,9 @@
 <li><a href="http://arstechnica.com/science/2013/11/fda-orders-personal-genetics-company-23andme-to-stop-selling-tests/" time_added="1385402117" tags="data ethics,health,hn,important">FDA orders personal genetics company 23andMe to stop selling tests | Ars Te</a></li>
 <li><a href="http://j.mp/18jlDCQ" time_added="1385394053" tags="health,hn">In which 23andMe runs afoul of the FDA: 11/22/13 j.mp/18jlDCQ</a></li>
 <li><a href="http://dailyinfographic.com/are-you-vitamin-d-deficient-infographic" time_added="1372257737" tags="health">Are You Vitamin D Deficient? dailyinfographic.com/are-you-vitami…</a></li>
-<li><a href="http://www.nature.com/news/antibiotic-resistance-the-last-resort-1.13426" time_added="1374949873" tags="domestic,health,important">Antibiotic resistance: The last resort : Nature News & Comment</a></li>
 <li><a href="http://www.nytimes.com/2013/08/12/business/economy/long-slog-for-foreign-doctors-to-practice-in-us.html time_added="1376314002" tags="health">Path to United States Practice Is Long Slog to Foreign Doctors</a></li>
 <li><a href="http://www.nytimes.com/2013/08/12/world/europe/medical-students-head-to-eastern-Europe.html time_added="1376314050" tags="health">Medical Students Head to Eastern Europe</a></li>
 <li><a href="http://wp.me/p5oiR-180" time_added="1376317503" tags="data science,health">If you need surgery, scheduling it for a Monday can make a big difference, </a></li>
-<li><a href="http://arstechnica.com/science/2013/08/stem-cells-turned-into-cancer-killing-immune-cells/" time_added="1376422372" tags="health">Stem cells turned into cancer-killing immune cells | Ars Technica</a></li>
 <li><a href="http://phenomena.nationalgeographic.com/2013/11/13/killing-sleeper-cells-and-superbugs-with-assassin-janitors/" time_added="1384444951" tags="health">Killing Sleeper Cells and Superbugs with Assassin Janitors – Phenomena: Not</a></li>
 <li><a href="http://www.theatlantic.com/health/archive/2013/10/us-women-are-dying-younger-than-their-mothers-and-no-one-knows-why/280259/" time_added="1381170253" tags="domestic,health">U.S. Women Are Dying Younger Than Their Mothers, and No One Knows Why</a></li>
 <li><a href="http://www.foreignpolicy.com/articles/2013/06/28/the_middle_east_plague_goes_global?page=full" time_added="1372638693" tags="health,important">The Middle East Plague Goes Global - By Laurie Garrett and Maxine Builder |</a></li>
@@ -452,6 +479,7 @@
 * http://www.theverge.com/2015/3/24/8282651/registered-nurse-pay-gap-women-earn-less
 * http://hcrenewal.blogspot.com/2015/03/times-american-boards-are-exceptional.html
 * http://www.nakedcapitalism.com/2015/03/nurses-unite-to-stop-transpacific-partnership-fast-track.html
+* http://zoekeating.tumblr.com/post/105883712804/hospitals-and-blogging
 * http://www.slate.com/articles/health_and_science/science/2015/02/fda_inspections_fraud_fabrication_and_scientific_misconduct_are_hidden_from.single.html
 * http://hcrenewal.blogspot.com/2015/03/a-pr-pawn-confounds-public-relations.html
 * http://dadaviz.com/i/3194
