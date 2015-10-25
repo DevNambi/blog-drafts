@@ -466,6 +466,7 @@
 * http://wolfstreet.com/2015/10/14/us-freight-shipments-morose-worst-september-since-2010/
 * http://wolfstreet.com/2015/10/12/junk-bond-issuance-collapses-distress-ratio-spikes/
 * http://wolfstreet.com/2015/10/09/last-time-this-ratio-reached-that-level-stocks-crashed/
+* http://mobile.nytimes.com/2015/10/25/business/energy-environment/americas-heartland-feels-a-chill-from-collapsing-commodity-prices.html
 
 
 

@@ -569,6 +569,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://collegescorecard.ed.gov/
 * https://www.washingtonpost.com/news/grade-point/wp/2015/09/01/are-we-nearing-the-end-of-college-tuition-pricing-as-we-know-it/
 * http://www.nytimes.com/2015/10/08/upshot/student-debt-is-worse-than-you-think.html
+* http://mobile.nytimes.com/2015/10/25/opinion/sunday/the-law-school-debt-crisis.html
 
 
 

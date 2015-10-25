@@ -32,6 +32,7 @@
 * http://www.mrmoneymustache.com/2015/08/31/electric-bike-reviews/
 * http://fivethirtyeight.com/datalab/best-age-friends-happiness-popularity-fake-research/
 * https://www.reddit.com/r/AskReddit/comments/3p0sl2/redditors_that_have_mastered_the_art_of_small/
+* http://www.theatlantic.com/health/archive/2015/10/how-friendships-change-over-time-in-adulthood/411466/
 
 
 
