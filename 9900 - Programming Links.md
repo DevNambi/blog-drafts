@@ -409,6 +409,7 @@
 * http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html
 * http://blog.chriszacharias.com/page-weight-matters
 * http://motherboard.vice.com/read/memory-is-holding-up-the-moores-law-progression-of-processing-power
+* http://computers-are-fast.github.io/
 
 
 

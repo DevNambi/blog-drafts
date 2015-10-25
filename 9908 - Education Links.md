@@ -77,6 +77,7 @@
 * http://www.chinasmack.com/2015/stories/thousands-mourn-death-of-chinese-high-school-principal.html
 * http://www.nytimes.com/2015/07/09/nyregion/principal-to-be-fired-over-investigation-into-grade-fixing-at-a-brooklyn-school.html
 * http://bits.blogs.nytimes.com/2015/03/17/pearson-under-fire-for-monitoring-students-twitter-posts/
+* https://www.washingtonpost.com/local/education/study-says-standardized-testing-is-overwhelming-nations-public-schools/2015/10/24/8a22092c-79ae-11e5-a958-d889faf561dc_story.html
 * http://www.nytimes.com/2015/03/22/us/politics/schools-wait-to-see-what-becomes-of-no-child-left-behind-law.html
 * http://www.theatlantic.com/education/archive/2015/03/why-im-a-public-school-teacher-but-a-private-school-parent/386797/
 * http://truestories.gawker.com/all-the-children-are-ours-essays-from-school-teachers-1679254821/1679318066/+maxread
