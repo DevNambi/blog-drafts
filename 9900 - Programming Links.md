@@ -112,6 +112,7 @@
 * http://blog.scalyr.com/2014/07/impossible-problems-often-arent/
 * http://www.drmaciver.com/2015/10/the-economics-of-software-correctness/
 * http://spectrum.ieee.org/static/overcomplexifying-underdelivering
+* http://scattered-thoughts.net/blog/2015/10/25/complexity-budgets/
 
 
 ## Learning to Code

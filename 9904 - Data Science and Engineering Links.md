@@ -546,6 +546,7 @@
 * http://neuralnetworksanddeeplearning.com/chap4.html
 * http://blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/
 * http://rinuboney.github.io/2015/10/18/theoretical-motivations-deep-learning.html
+* http://karpathy.github.io/2015/10/25/selfie/
 
 
 
