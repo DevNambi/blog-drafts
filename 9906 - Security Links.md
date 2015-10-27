@@ -13,6 +13,7 @@
 * http://arstechnica.com/security/2015/10/the-rise-of-the-zero-day-market/
 * http://offbeathome.com/2014/10/temporary-home-security
 * https://thestack.com/security/2015/09/24/cookies-can-render-secure-websites-vulnerable-in-all-modern-browsers/
+* http://www.infoworld.com/article/2997733/security/encryption-is-under-siege-move-to-sha-2-now.html
 * http://krebsonsecurity.com/2015/10/whats-in-a-boarding-pass-barcode-a-lot/
 * http://www.zdnet.com/article/chryslers-response-to-car-hack-was-slow-and-incredibly-stupid/
 * http://arstechnica.com/security/2015/06/new-remote-exploit-leaves-most-macs-vulnerable-to-permanent-backdooring/

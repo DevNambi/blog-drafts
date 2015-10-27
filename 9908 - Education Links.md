@@ -519,6 +519,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://seattletimes.com/html/nationworld/2025012950_apxcollegecosts.html
 * http://www.thenation.com/article/why-is-college-so-expensive-if-professors-are-paid-so-little/
 * http://highereddatastories.blogspot.com/2015/08/how-pell-grant-recipients-fare-at.html
+* http://www.nakedcapitalism.com/2015/10/elizabeth-warren-on-how-clinton-backed-student-loan-and-mortgage-debt-slavery-with-2005-bankruptcy-reform-vote.html
 * http://www.randalolson.com/2015/08/16/u-s-college-majors-median-yearly-earnings-vs-gender-ratio/
 * http://www.propublica.org/article/colleges-flush-with-cash-saddle-poorest-students-with-debt
 * http://www.mcclatchydc.com/news/nation-world/national/article30646605.html

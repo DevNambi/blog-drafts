@@ -546,6 +546,7 @@
 * http://neuralnetworksanddeeplearning.com/chap4.html
 * http://blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/
 * http://rinuboney.github.io/2015/10/18/theoretical-motivations-deep-learning.html
+* https://github.com/andrewt3000/DL4NLP/blob/master/README.md#deep-learning-for-nlp-resources
 
 
 
@@ -704,6 +705,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/
 * http://strata.oreilly.com/2014/02/extending-graphlab-to-tables.html
 * https://influxdb.com/docs/v0.9/concepts/storage_engine.html
+* http://insightdataengineering.com/blog/new-ecosystem/
 
 
 #### MapReduce, Hadoop, Hive

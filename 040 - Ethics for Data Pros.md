@@ -53,6 +53,7 @@ We believe we are working to make our society, our world, a better place. At the
 * http://www.fastcompany.com/3048980/fast-feed/app-used-23andmes-dna-database-to-block-people-from-sites-based-on-race-and-gender
 * http://mathbabe.org/2015/04/22/four-political-camps-in-the-big-data-world/
 * http://www.theglobeandmail.com/report-on-business/small-business/sb-growth/day-to-day/farms-factories-and-film-sets-startups-bring-big-data-to-inefficient-industries/article20574000/
+* http://queue.acm.org/detail.cfm?ref=rss&id=2838930
 * http://www.drivendata.org/competitions/
 * http://blog.datalook.io/definitive-guide-data-science-good/
 * http://blogs.scientificamerican.com/guest-blog/2014/12/12/forecasting-the-suns-fury-how-artificial-intelligence-can-predict-solar-flares/
@@ -80,6 +81,7 @@ We believe we are working to make our society, our world, a better place. At the
 * http://rrherr.com/2015/05/15/if-predictions-are-too-precise-is-insurance-not-insurance/ - If predictions are too precise, is insurance not insurance?
 * http://nonprofitwithballs.com/2015/05/weaponized-data-how-the-obsession-with-data-has-been-hurting-marginalized-communities/
 * http://mastercardcenter.org/insights/volunteering-sparks-innovation-data-good/
+* https://theintercept.com/2015/10/23/drones-ibm-and-the-big-data-of-death/ <- the worst thing you can do
 
 
 

@@ -16,6 +16,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://www.projectmidas.org/blog/getting-to-antarctica/
 * http://blogs.msdn.com/b/msr_er/archive/2015/06/26/announcing-the-microsoft-academic-graph-let-the-research-begin.aspx
 * http://www.nytimes.com/2015/03/24/science/when-science-is-lost-in-a-legal-maze.html
+* http://www.theatlantic.com/education/archive/2015/10/complex-academic-writing/412255/?single_page=true
 * https://www.nasa.gov/image-feature/the-icy-mountains-of-pluto
 * http://m.nautil.us/blog/the-best-way-to-reduce-research-bias-is-hiding-in-plain-view
 * http://arstechnica.com/science/2015/07/starting-from-scratch-how-do-you-build-a-world-class-research-lab/

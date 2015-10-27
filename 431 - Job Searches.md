@@ -52,6 +52,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://blog.landing.jobs/an-email-template-for-candidates-frustrated-with-unresponsive-employers/">An email template for candidates frustrated with unresponsive employers</a></li>
 <li><a href="http://pmarchive.com/guide_to_career_planning_part2.html">Pmarca Guide to Career Planning</a></li>
 <li><a href="http://flowingdata.com/2015/10/14/work-counts/">How many have the same education, income, work hours, and commute as you do?</a></li>
+<li><a href="https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/">Why GitHub is not your CV</a></li>
 </ul>
 
 
@@ -69,6 +70,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://markmanson.net/question">The Most Important Question of Your Life</a></li>
 <li><a href="http://sectorexplorer.com/">Sector Explorer</a></li>
 <li><a href="http://www.bloombergview.com/articles/2015-05-04/goldman-s-self-defeating-case-against-serge-aleynikov">Don't Work For Wall Street</a></li>
+<li><a href="http://ozar.me/2015/10/career-directions-self-assessment-quiz/">Career Directions Self-Assessment Quiz</a></li>
 </ul>
 
 
@@ -266,6 +268,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="https://www.quora.com/Why-arent-there-a-lot-of-old-programmers-at-software-companies/answer/Michael-O-Church">Why aren't there a lot of old programmers at software companies?</a></li>
 <li><a href="https://medium.com/backchannel/how-can-we-achieve-age-diversity-in-silicon-valley-11a847cb37b7">How Can We Achieve Age Diversity in Silicon Valley?</a></li>
 <li><a href="http://www.newrepublic.com/article/117088/silicons-valleys-brutal-ageism">The Brutal Ageism of Tech</a></li>
+<li><a href="http://www.theguardian.com/commentisfree/2015/oct/25/women-men-work-children-career-manwhohasitall">So is fatherhood the end of a man’s career prospects?</a></li>
 </ul>
 
 **The 'STEM' shortage, and H1B Visas**
