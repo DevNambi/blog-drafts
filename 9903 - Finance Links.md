@@ -146,6 +146,7 @@
 * http://www.nakedcapitalism.com/2015/03/bill-black-meet-citis-ethical-underwriter-fought-won-sherry-hunt.html
 * http://boingboing.net/2015/03/26/tpp-leak-states-give-companie.html
 * http://www.nakedcapitalism.com/2015/03/bill-black-fcic-spurned-one-chance-greatness.html
+* http://www.nakedcapitalism.com/2015/10/oxford-professor-schools-calpers-contrary-to-board-presentation-private-equity-is-most-expensive-asset-class-by-far.html
 * http://www.zerohedge.com/news/2015-10-19/traders-are-panic-selling-t-bills-after-jack-lew-warns-terrible-debt-limit-accident
 * http://www.theatlantic.com/magazine/archive/2015/05/can-bankers-behave/389558/
 * http://www.theatlantic.com/magazine/archive/2015/05/bank-of-the-underworld/389555/
@@ -160,6 +161,7 @@
 * http://www.commondreams.org/news/2015/04/24/big-bank-crime-century-results-guess-what-no-jail-time-anyone
 * http://www.nakedcapitalism.com/2015/03/matt-taibbi-takes-up-secs-andrew-bowden-regulatory-capture-scandal.html
 * http://uk.reuters.com/article/2015/02/25/uk-hsbc-tax-politics-idUKKBN0LT1L220150225
+* http://www.theatlantic.com/business/archive/2015/10/elite-wealth-management/410842/?single_page=true
 * http://www.nytimes.com/2015/03/17/nyregion/state-senate-works-to-block-christie-from-settling-pollution-lawsuit-against-exxon.html
 * http://www.nakedcapitalism.com/2015/03/rebuke-cronyistic-new-york-fed-tbtf-bank-supervision-shifted-fed-board-governors.html
 * http://www.nakedcapitalism.com/2015/07/calpers-scrambles-to-get-private-equity-carry-fee-info-after-we-break-story-that-they-had-no-clue-what-they-were-paying.html
@@ -373,6 +375,7 @@
 * http://motherboard.vice.com/en_ca/read/new-trans-pacific-partnership-leak-means-significant-overhaul-for-canadian-law
 * http://www.thebookoflife.org/unemployment-down-at-last-misemployment-bad-as-ever/
 * http://www.nakedcapitalism.com/2015/10/5-of-the-biggest-acts-of-corporate-hypocrisy-in-america.html
+* http://motherboard.vice.com/read/commodities-traders-helped-spark-the-war-in-syria-complex-systems-theorists-say
 
 
 

@@ -69,6 +69,7 @@
 * http://www.buzzfeed.com/jessicagarrison/the-new-american-slavery-invited-to-the-us-foreign-workers-f
 * http://arstechnica.com/science/2015/10/dispatches-from-the-death-star-the-rise-and-fall-of-nasas-shuttle-centaur/
 * http://www.seattletimes.com/seattle-news/oral-histories-of-imprisoned-wwii-japanese-americans-now-online/
+* http://bostonreview.net/books-ideas/mike-konczal-government-bureaucracy
 
 
 
@@ -106,6 +107,7 @@
 * https://www.sam.gov/portal/SAM/##11
 * http://recode.net/2015/10/15/civic-tech-startup-opengov-raises-25-million-adds-marc-andreessen-to-its-board/
 * http://www.wired.com/2015/10/new-standards-could-make-government-sites-less-worthless/
+* http://arstechnica.com/unite/2015/10/slowly-but-surely-government-it-enters-the-21st-century/
 
 
 ## Immigration

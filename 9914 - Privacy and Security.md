@@ -40,13 +40,16 @@
 * http://www.theawl.com/2015/08/time-is-a-privacy-setting
 * http://www.businessinsider.com/how-to-block-companies-tracking-you-on-facebook-2014-1
 * http://arstechnica.co.uk/tech-policy/2015/07/cameron-reaffirms-there-will-be-no-safe-spaces-from-uk-government-snooping/
+* http://www.bbc.com/news/technology-34647704
 * http://www.technologyreview.com/news/538731/how-ads-follow-you-from-phone-to-desktop-to-tablet/
+* http://adage.com/article/datadriven-marketing/24-billion-data-business-telcos-discuss/301058/
 * https://www.eff.org/privacybadger
 * http://arstechnica.com/tech-policy/2015/06/fake-mobile-phone-towers-discovered-in-london-stingrays-come-to-the-uk/
 * http://www.bbc.com/news/uk-34444233
 * http://www.wsj.com/articles/moxie-marlinspike-the-coder-who-encrypted-your-texts-1436486274
 * http://www.theregister.co.uk/2015/08/27/malvertising_feature/
 * https://jonathan.porta.codes/2015/07/30/windows-10-seems-to-have-some-scary-privacy-defaults/
+* http://queue.acm.org/detail.cfm?ref=rss&id=2838930
 * https://www.washingtonpost.com/news/the-switch/wp/2015/10/15/amid-the-adblockalypse-advertisers-apologize-for-messing-up-the-web/
 * https://emailselfdefense.fsf.org/en/
 * http://arstechnica.com/security/2015/10/verizons-zombie-cookie-gets-new-life/
@@ -58,6 +61,7 @@
 * https://modelviewculture.com/pieces/social-networking-as-peer-surveillance
 * https://www.privateinternetaccess.com/blog/2015/06/google-chrome-listening-in-to-your-room-shows-the-importance-of-privacy-defense-in-depth/
 * http://fusion.net/story/49806/beware-houseguests-cheap-home-surveillance-cameras-are-everywhere-now/
+* http://arstechnica.com/security/2015/10/unpatched-browser-weaknesses-can-be-exploited-to-track-millions-of-web-users/
 * https://www.behance.net/gallery/16225247/I-have-NOT-read-and-agree-to-the-terms-of-use
 * http://fivethirtyeight.com/datalab/the-way-we-use-social-security-numbers-is-absurd/
 * http://googleonlinesecurity.blogspot.com/2015/07/new-research-comparing-how-security.html

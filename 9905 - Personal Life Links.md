@@ -33,6 +33,7 @@
 * http://fivethirtyeight.com/datalab/best-age-friends-happiness-popularity-fake-research/
 * https://www.reddit.com/r/AskReddit/comments/3p0sl2/redditors_that_have_mastered_the_art_of_small/
 * http://www.theatlantic.com/health/archive/2015/10/how-friendships-change-over-time-in-adulthood/411466/
+* http://www.newyorker.com/books/page-turner/the-two-asian-americas
 
 
 
@@ -63,6 +64,7 @@
 * http://well.blogs.nytimes.com/2014/10/20/sleep-for-teenagers/?_php=true&_type=blogs&_r=0
 * http://mobile.nytimes.com/2014/11/16/fashion/the-brotherhood-of-the-stay-at-home-dad.html
 * http://www.theatlantic.com/magazine/archive/2013/07/how-long-can-you-wait-to-have-a-baby/309374/2/
+* http://www.newyorker.com/books/page-turner/the-two-asian-americas
 * http://nautil.us/issue/2/uncertainty/parenthood-the-great-moral-gamble
 * http://www.washingtonpost.com/lifestyle/magazine/how-to-raise-successful-children--advice-from-parents-lucky-enough-to-know/2014/12/30/54785c3c-7fe9-11e4-9f38-95a187e4c1f7_story.html
 * http://www.huffingtonpost.com/kelly-pietrangeli/how-to-get-your-child-to-listen-to-you-the-first-time_b_6572268.html

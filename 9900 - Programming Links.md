@@ -113,6 +113,7 @@
 * http://www.drmaciver.com/2015/10/the-economics-of-software-correctness/
 * http://spectrum.ieee.org/static/overcomplexifying-underdelivering
 * http://scattered-thoughts.net/blog/2015/10/25/complexity-budgets/
+* http://www.daedtech.com/how-to-address-your-coworkers-bad-code-part-1
 
 
 ## Learning to Code
@@ -267,6 +268,7 @@
 * http://www.infoq.com/news/2015/06/Steve-Smith-Continuous-Delivery
 * http://simpleprogrammer.com/2015/08/03/7-things-your-boss-doesnt-understand-about-software-development/
 * https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d
+* https://chriskohlhepp.wordpress.com/specification-driven-programming-in-common-lisp/
 
 
 
@@ -713,6 +715,7 @@ things they believe in will keep </a></li>
 * http://www.datanami.com/2015/05/18/how-machine-learning-is-eating-the-software-world/
 * https://news.ycombinator.com/item?id=9643628
 * http://caseysoftware.com/blog/dont-attend-a-hackathon
+* http://avc.com/2015/10/software-is-the-new-oil/
 
 
 

@@ -21,6 +21,7 @@
 * http://thehustle.co/the-linkedin-hack-that-made-me-120000
 * http://time.com/3984957/independent-contractor-versus-employee-startups/
 * http://recode.net/2015/08/05/yes-uber-lost-a-lot-of-money-and-it-will-lose-more/
+* https://medium.com/backchannel/why-homejoy-failed-bb0ab39d901a
 
 
 

@@ -89,6 +89,8 @@ Industries
 * http://www.vox.com/2015/10/19/9566935/prohibition-myths-misconceptions-facts
 * http://mobile.nytimes.com/2015/10/24/us/court-by-court-lawyers-fight-practices-that-punish-the-poor.html
 * https://www.squareweave.com.au/blog/2015/10/21/the-ethics-of-digital-disruption/
+* http://minimaxir.com/2015/10/code-steal/
+
 
 
 ### Support real work, and disrupt everything else

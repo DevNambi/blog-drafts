@@ -84,6 +84,7 @@
 * https://credo.stanford.edu/
 * http://www.nytimes.com/2015/02/06/education/fewer-top-graduates-want-to-join-teach-for-america.html
 * http://blogs.seattletimes.com/educationlab/2014/12/31/guest-new-math-textbooks-are-the-right-choice-for-seattle-schools/
+* http://www.slate.com/articles/news_and_politics/politics/2015/10/spring_valley_high_school_resource_officer_ben_field_s_violent_arrest_of.single.html
 * http://www.psypost.org/2015/02/many-education-experts-in-news-stories-lack-expertise-study-finds-31903
 * http://www.wired.com/2015/02/kids-school-missing-tech-revolution-fault/
 * http://seattletimes.com/html/education/2025176296_edlabkentdisciplinexml.html
@@ -519,6 +520,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://seattletimes.com/html/nationworld/2025012950_apxcollegecosts.html
 * http://www.thenation.com/article/why-is-college-so-expensive-if-professors-are-paid-so-little/
 * http://highereddatastories.blogspot.com/2015/08/how-pell-grant-recipients-fare-at.html
+* http://www.nakedcapitalism.com/2015/10/elizabeth-warren-on-how-clinton-backed-student-loan-and-mortgage-debt-slavery-with-2005-bankruptcy-reform-vote.html
 * http://www.randalolson.com/2015/08/16/u-s-college-majors-median-yearly-earnings-vs-gender-ratio/
 * http://www.propublica.org/article/colleges-flush-with-cash-saddle-poorest-students-with-debt
 * http://www.mcclatchydc.com/news/nation-world/national/article30646605.html

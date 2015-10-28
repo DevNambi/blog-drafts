@@ -5,6 +5,7 @@
 ### Food
 
 * http://www.nytimes.com/interactive/2015/05/19/dining/summer-dinner-ideas.html <- AMAZING
+* http://well.blogs.nytimes.com/2015/10/27/cutting-sugar-improves-childrens-health-in-just-10-days/
 * http://www.independent.co.uk/life-style/health-and-families/health-news/saturated-fats-in-meat-and-dairy-produce-not-as-bad-for-health-as-previously-thought-study-finds-10450663.html
 * https://www.reddit.com/r/Fitness/comments/2yn1qv/a_simple_diet_trick_ive_learned_from_trimming/
 * https://en.wikipedia.org/wiki/Grapefruit%E2%80%93drug_interactions
@@ -90,6 +91,7 @@
 * http://www.lift-heavy.com/intermittent-fasting/
 * http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2929771/ <- turmeric help
 * http://www.openculture.com/2015/08/the-new-york-times-makes-17000-tasty-recipes-available-online.html
+http://www.bbc.com/news/health-34615621
 
 
 
@@ -356,6 +358,7 @@ pandemic-20150311-story.html
 * https://medium.com/matter-archive/the-drug-revolution-that-no-one-can-stop-19f753fb15e0
 * http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)62412-0/fulltext <- incredibly useful
 * http://arstechnica.com/science/2015/01/collapse-of-soviet-health-system-may-have-aided-spread-of-tuberculosis/
+* http://www.theguardian.com/lifeandstyle/2015/oct/26/health-hackers-patients-taking-medical-innovation-into-own-hands
 * http://www.iflscience.com/health-and-medicine/large-study-explores-how-often-patients-wake-during-surgery
 * http://www.medhistorian.com/2014/08/surgeons-at-war.html
 * http://www.bloomberg.com/news/2014-12-15/huge-u-s-child-health-study-canceled-after-1-3-billion.html
@@ -373,7 +376,7 @@ pandemic-20150311-story.html
 * http://boingboing.net/2013/08/22/smear-campaign-daily-show-cre.html
 * http://www.cbsnews.com/videos/good-gut-bacteria-can-help-with-controlling-weight-inflammation/
 * http://www.plospathogens.org/article/info%3Adoi%2F10.1371%2Fjournal.ppat.1003587
-
+* https://www.washingtonpost.com/news/to-your-health/wp/2015/10/08/nihs-mental-health-chief-on-why-hes-leaving-for-google-technology-may-hold-key-to-better-diagnosis/
 * http://www.washingtonpost.com/posteverything/wp/2014/12/31/medical-schools-dont-teach-these-key-lessons-and-its-ruining-our-health/
 * http://time.com/3643841/medicine-gets-personal/
 * http://arstechnica.com/tech-policy/2014/10/feds-examining-medical-devices-for-fatal-cybersecurity-flaws/
@@ -462,6 +465,7 @@ pandemic-20150311-story.html
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://www.nytimes.com/2015/10/26/opinion/hospitals-red-blanket-problem.html
 * http://fivethirtyeight.com/features/the-problem-with-tying-health-care-to-trade/
 * http://www.nakedcapitalism.com/2015/10/tpp-intellectual-property-chapter-is-a-disaster-for-global-health.html
 * http://www.vox.com/2015/10/14/9528441/high-deductible-insurance-kolstad

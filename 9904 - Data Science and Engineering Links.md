@@ -547,6 +547,7 @@
 * http://blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/
 * http://rinuboney.github.io/2015/10/18/theoretical-motivations-deep-learning.html
 * http://karpathy.github.io/2015/10/25/selfie/
+* https://github.com/andrewt3000/DL4NLP/blob/master/README.md#deep-learning-for-nlp-resources
 
 
 
@@ -601,6 +602,8 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://blog.datapolitan.com/2015/09/18/teaching-analytics-to-nyc-employees-an-introduction/
 * http://www.reddit.com/r/MachineLearning/comments/2etkyv/good_machine_learning_conferences_for_someone_new/
 * http://www.johndcook.com/blog/2015/10/14/data-science-etc/
+* https://source.opennews.org/en-US/articles/introducing-agate/
+* http://blog.datadive.net/7-tools-in-every-data-scientists-toolbox/
 
 
 ## Funny
@@ -705,6 +708,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/
 * http://strata.oreilly.com/2014/02/extending-graphlab-to-tables.html
 * https://influxdb.com/docs/v0.9/concepts/storage_engine.html
+* http://insightdataengineering.com/blog/new-ecosystem/
 
 
 #### MapReduce, Hadoop, Hive
