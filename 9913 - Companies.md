@@ -43,6 +43,7 @@
 * http://recode.net/2015/01/13/how-amazon-tricks-you-into-thinking-it-always-has-the-lowest-prices/
 * http://www.bloomberg.com/news/articles/2015-04-23/amazon-finally-discloses-cloud-services-sales-showing-49-jump
 * http://arstechnica.com/gadgets/2015/05/google-temporarily-shuts-down-map-maker-due-to-vandalism/
+* http://arstechnica.com/tech-policy/2015/10/prime-now-drivers-sue-amazon-say-they-were-cheated-on-wages-and-breaks/
 * https://michaelochurch.wordpress.com/2015/08/08/employees-at-google-yahoo-and-amazon-lose-nothing-if-they-unionize-heres-why/
 * http://www.mystatesman.com/news/business/did-texas-big-amazon-deal-yield-a-prime-return/nnFMx/?resub#4faacc70.3553564.735819
 * http://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html

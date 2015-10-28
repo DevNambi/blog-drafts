@@ -29,6 +29,7 @@
 * http://www.nytimes.com/2015/07/20/world/asia/in-china-a-supercity-rises-around-beijing.html
 * http://qz.com/456025/zombies-and-cannibals-the-horrors-of-chinas-financial-system-charted/
 * http://wolfstreet.com/2015/10/19/global-demand-rampant-overcapacity-china-containerized-freight-index-ccfi-collapses-worst-level-ever/
+* http://wolfstreet.com/2015/10/25/china-containerized-freight-index-ccfi-shanghai-scfi-drop-to-new-lows/
 
 
 ## Europe

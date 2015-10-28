@@ -190,6 +190,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://firstlook.org/theintercept/2014/12/19/senior-cia-officer-center-torture-scandals-alfreda-bikowsky/
 * http://mobile.nytimes.com/2015/03/18/world/asia/afghan-militia-leaders-empowered-by-us-to-fight-taliban-inspire-fear-in-villages.html <- generating the next generation of terrorists
 * http://www.businessinsider.com/the-uk-is-going-to-send-billions-in-arms-exports-to-countries-on-the-human-rights-blacklist-2015-3
+* http://arstechnica.com/information-technology/2015/10/breaking-jlens-aerostat-breaks-loose-over-pennsylvania/
 * http://www.airspacemag.com/flight-today/b-52-just-keeps-flying-180953933/?no-ist
 * http://www.theatlantic.com/international/archive/2014/12/america-28-billion-failure-in-pakistan-peshawar-attack-school/383919/
 * http://www.truth-out.org/art/item/27999-thought-experiment
