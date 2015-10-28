@@ -269,6 +269,7 @@
 * http://simpleprogrammer.com/2015/08/03/7-things-your-boss-doesnt-understand-about-software-development/
 * https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d
 * https://chriskohlhepp.wordpress.com/specification-driven-programming-in-common-lisp/
+* http://www.yegor256.com/2015/10/27/outsourcing-doesnt-work.html
 
 
 

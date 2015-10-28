@@ -298,6 +298,8 @@ pandemic-20150311-story.html
 * https://medium.com/backchannel/should-surgeons-keep-score-8b3f890a7d4c
 * http://www.wired.com/2014/10/number-needed-to-treat/ <- USE THIS FOR A BLOG POST
 * http://www.nytimes.com/2015/01/27/upshot/can-this-treatment-help-me-theres-a-statistic-for-that.html
+* http://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm
+    * A terrible, bubble-chart version of the same, http://www.businessinsider.com/the-things-most-likely-to-kill-you-in-one-infographic-2015-2
 
 
 
