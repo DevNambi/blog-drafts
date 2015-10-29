@@ -280,6 +280,7 @@
 * http://www.seattletimes.com/seattle-news/get-rid-of-single-family-zoning-in-seattle-housing-task-force-says-in-draft-report/
 * http://www.seattletimes.com/seattle-news/a-developer-and-housing-task-force-member-sells-the-upzoning-of-seattle/
 * http://www.jefftk.com/p/mercury-spill
+* http://www.vox.com/2015/10/28/9622920/housing-adult-friendship
 
 
 
