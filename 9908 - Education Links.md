@@ -32,7 +32,7 @@
 <li><a href="http://seattletimes.com/html/opinion/2021715558_douglascollinsopedschoolsupplies30xml.html" time_added="1377871699" tags="academia,domestic">Guest: School-supply fees have gotten out of hand</a></li>
 <li><a href="http://seattletimes.com/html/localnews/2021743055_alldaykindergartenxml.html" time_added="1378230314" tags="academia,domestic">Extra state aid for kindergarten a mixed blessing for districts</a></li>
 <li><a href="http://www.nytimes.com/2014/08/17/opinion/sunday/teaching-is-not-a-business.html" time_added="1408253726" tags="">Teaching Is Not a Business</a></li>
-<li><a href="http://www.pruningshears.us/pruning-shears/2014/2/27/teach-for-americas-unspoken-alliance-with-the-one-percent.html" time_added="1393615030" tags="">http://www.pruningshears.us/pruning-shears/2014/2/27/teach-for-americas-uns</a></li>
+<li><a href="http://www.pruningshears.us/pruning-shears/2014/2/27/teach-for-americas-unspoken-alliance-with-the-one-percent.html" time_added="1393f615030" tags="">http://www.pruningshears.us/pruning-shears/2014/2/27/teach-for-americas-uns</a></li>
 <li><a href="http://seattletimes.com/html/localnews/2023615692_citypreschoolxml.html" time_added="1400293639" tags="">Preschool for all in Seattle: Murray’s big plan starts small | Local News |</a></li>
 <li><a href="http://www.salon.com/2010/08/07/teacher_who_replaced_me/" time_added="1406899340" tags="">http://www.salon.com/2010/08/07/teacher_who_replaced_me/</a></li>
 <li><a href="http://mathbabe.org/2014/06/13/getting-rid-of-teacher-tenure-does-not-solve-the-problem/" time_added="1402669714" tags="">http://mathbabe.org/2014/06/13/getting-rid-of-teacher-tenure-does-not-solve-the-problem/</a></li>
@@ -135,6 +135,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://equitablegrowth.org/research/achievement-gap/ <- why I do what I do
 * http://www.washingtonpost.com/sf/brand-connect/wp/video/what-do-you-know-about-college/
 * https://www.insidehighered.com/news/2015/09/10/amid-competency-based-education-boom-meeting-help-colleges-do-it-right
+* http://www.washingtonpost.com/sf/brand-connect/wp/enterprise/in-tennessee-tailored-data-helps-students/
 * http://www.nytimes.com/2015/08/31/technology/tools-for-tailored-learning-may-expose-students-personal-details.html
 * http://www.seattletimes.com/nation-world/study-more-than-a-third-of-us-college-students-transferred/
 * http://figshare.com/articles/Data_driven_Education_and_the_Quantified_Student/1495511
