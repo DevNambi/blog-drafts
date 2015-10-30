@@ -88,6 +88,7 @@
 * http://blaze.github.io/blog/2015/09/08/reddit-comments/
 * https://www.reddit.com/r/datasets/comments/3mg812/full_reddit_submission_corpus_now_available_2006/
 * http://minimaxir.com/2015/10/reddit-bigquery/ <- Amazing
+* http://www.nature.com/articles/sdata201555
 
 
 ## Data Cleaning/Munging
