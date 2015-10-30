@@ -82,6 +82,7 @@ We believe we are working to make our society, our world, a better place. At the
 * http://nonprofitwithballs.com/2015/05/weaponized-data-how-the-obsession-with-data-has-been-hurting-marginalized-communities/
 * http://mastercardcenter.org/insights/volunteering-sparks-innovation-data-good/
 * https://theintercept.com/2015/10/23/drones-ibm-and-the-big-data-of-death/ <- the worst thing you can do
+* http://dl.acm.org/citation.cfm?id=5673 <- how not to lie with statistics
 
 
 

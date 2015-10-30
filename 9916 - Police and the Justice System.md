@@ -52,6 +52,8 @@
 * http://www.nytimes.com/2015/05/07/us/mayor-stephanie-rawlings-blake-asks-justice-department-to-review-baltmore-police.html
 * http://arstechnica.com/tech-policy/2015/05/cops-must-now-get-a-warrant-to-use-stingrays-in-washington-state/
 * http://arstechnica.com/tech-policy/2015/05/warrantless-airport-search-of-laptop-cannot-be-justified-judge-rules/
+* http://abcnews.go.com/Entertainment/wireStory/bbc-police-terrorism-powers-seize-reporters-laptop-34824241
+* http://www.huffingtonpost.com/mark-godsey/for-the-first-time-ever-a_b_4221000.html <- prosectur is jailed for the first time *ever* for knowingly jailing an innocent man
 * http://m.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data
 * http://mobile.nytimes.com/2015/05/22/world/americas/police-killings-brazil-rio.html?_r=0
 * http://www.nytimes.com/2015/05/10/magazine/our-demand-is-simple-stop-killing-us.html
@@ -71,6 +73,7 @@
 * http://www.bloomberg.com/graphics/2015-doug-williams-war-on-lie-detector/
 * http://www.seattletimes.com/nation-world/records-thousands-too-injured-to-enter-baltimore-jail/
 * http://thinkprogress.org/justice/2015/05/29/3664008/cop-caught-video-telling-black-teen-fuck-im-going-break-legs/
+* http://www.cato.org/blog/youre-eight-times-more-likely-be-killed-police-officer-terrorist
 * http://southsideweekly.com/if-it-bleeds-it-leads/
 * https://www.aclu.org/blog/free-future/mysterious-planes-over-baltimore-spark-surveillance-suspicions
 * http://countercurrentnews.com/2015/03/calvon-reid-i-cant-breathe-ccpd-florida/

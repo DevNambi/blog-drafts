@@ -80,6 +80,7 @@
 * https://www.washingtonpost.com/local/education/study-says-standardized-testing-is-overwhelming-nations-public-schools/2015/10/24/8a22092c-79ae-11e5-a958-d889faf561dc_story.html
 * http://www.nytimes.com/2015/03/22/us/politics/schools-wait-to-see-what-becomes-of-no-child-left-behind-law.html
 * http://www.theatlantic.com/education/archive/2015/03/why-im-a-public-school-teacher-but-a-private-school-parent/386797/
+* http://emilytalmage.com/2015/10/22/gates-undercover/
 * http://truestories.gawker.com/all-the-children-are-ours-essays-from-school-teachers-1679254821/1679318066/+maxread
 * https://credo.stanford.edu/
 * http://www.nytimes.com/2015/02/06/education/fewer-top-graduates-want-to-join-teach-for-america.html
@@ -671,6 +672,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://courserajunkie.wordpress.com/2015/05/26/courseras-free-statements-of-accomplisments-die-a-quiet-death/
 * http://newsoffice.mit.edu/2015/at-risk-students-moocs-dropout-0701
 * http://m.cacm.acm.org/magazines/2015/10/192385-life-after-moocs/fulltext
+* http://nautil.us/issue/29/scaling/why-virtual-classes-can-be-better-than-real-ones
 
 
 

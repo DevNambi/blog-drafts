@@ -115,6 +115,8 @@ Industries
 * http://opinionator.blogs.nytimes.com/2015/05/22/allying-choice-and-nutrition-at-food-pantries/?_r=0
 * http://www.theguardian.com/media/2015/may/07/how-friendship-became-tool-of-powerfuls
 * http://america.aljazeera.com/multimedia/2015/4/building-miniature-dream-houses-for-the-homeless.html
+* http://www.theatlantic.com/magazine/archive/2009/06/what-makes-us-happy/307439/?single_page=true
+* http://arstechnica.com/information-technology/2015/10/the-future-of-drones-may-be-n00b-dependent/
 * http://www.wired.com/2015/05/the-open-source-maps-that-made-rescues-in-nepal-possible/
 * http://www.jackhagley.com/The-World-as-100-People
 * http://www.theatlantic.com/business/archive/2015/09/how-america-lost-track-of-benjamin-franklins-definition-of-success/400808/

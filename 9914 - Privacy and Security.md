@@ -27,6 +27,7 @@
 * http://techcrunch.com/2015/06/06/the-online-privacy-lie-is-unraveling/ <- critically important
 * http://www.wired.com/2015/07/online-anonymity-box-puts-mile-away-ip-address/
 * http://www.marketingweek.com/2015/07/08/consumers-are-dirtying-databases-with-false-details/?nocache=true&adfesuccess=1
+* http://www.wired.com/2015/10/cars-that-talk-to-each-other-are-much-easier-to-spy-on/
 * http://www.mondaynote.com/2015/08/03/what-the-ad-blocker-debate-reveals/
 * http://m.thenation.com/article/208593-you-can-be-prosecuted-clearing-your-browser-history
 * https://mitpress.mit.edu/books/obfuscation
@@ -173,6 +174,8 @@
 * http://krebsonsecurity.com/2015/03/sign-up-at-irs-gov-before-crooks-do-it-for-you/
 * https://state.com/article/1ZHEx4voAiU06
 * http://www.theregister.co.uk/2015/09/21/amazon_medical_gaffe/
+* http://arstechnica.com/tech-policy/2015/10/court-says-its-again-legal-for-nsa-to-spy-on-you-because-congress-says-its-ok/
+
 
 
 
@@ -215,6 +218,12 @@
 * https://www.eff.org/deeplinks/2015/07/xkeyscore-expose-reaffirms-need-rid-web-tracking-cookies
 * http://www.marco.org/2015/08/11/ad-blocking-ethics
 * http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html
+* https://snipcart.com/blog/ad-blockers-saas-web-developers
+* http://www.bostonglobe.com/business/2015/10/25/the-internet-ads-that-would-not-die/2IiIl1niWZZZymfCy23cuN/story.html
+
+
+
+
 
 #### Other Notes
 
