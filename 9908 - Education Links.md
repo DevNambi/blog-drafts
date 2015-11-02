@@ -476,6 +476,9 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://firstlook.org/theintercept/2015/06/27/child-left-un-mined/
 * http://www.nakedcapitalism.com/2015/07/elizabeth-warren-reams-private-accreditor-who-certified-corinthian-college-up-to-its-end.html
 * http://www.impatientoptimists.org/Posts/2015/10/Leading-with-Data
+* http://www.economist.com/blogs/graphicdetail/2015/10/value-university
+* http://www.aacc.nche.edu/newsevents/pressreleases/Pages/10302015_1.aspx
+
 
 
 
@@ -515,6 +518,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://www.insidehighered.com/news/2015/09/21/nearly-1-4-college-women-say-they-have-been-sexually-assaulted-survey-finds
 * http://www.nytimes.com/2015/10/09/sports/ncaafootball/beer-alcohol-college-football-west-virginia.html
 * https://www.washingtonpost.com/news/grade-point/wp/2015/10/15/a-better-way-to-gauge-how-common-sexual-assault-is-on-college-campuses/
+* http://www.bellinghamherald.com/news/local/article42031710.html
 
 
 ### Finance, Debt

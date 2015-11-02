@@ -72,7 +72,6 @@
 * http://bostonreview.net/books-ideas/mike-konczal-government-bureaucracy
 
 
-
 <li><a href="https://firstlook.org/theintercept/2014/02/14/ongoing-abuse-state-secrets-privilege/" time_added="1392591442" tags="">Obama DOJ's New Abuse of State-Secrets Privilege Revealed - The Intercept</a></li>
 <li><a href="http://arstechnica.com/tech-policy/2014/01/report-nsa-bulk-metadata-collection-has-no-discernible-impact/" time_added="1389637719" tags="">Report: NSA bulk metadata collection has “no discernible impact” | Ars Tech</a></li>
 <li><a href="http://arstechnica.com/security/2014/01/nsa-uses-covert-radio-transmissions-to-monitor-100000-bugged-computers/" time_added="1389806558" tags="">NSA uses covert radio transmissions to monitor thousands of bugged computer</a></li>

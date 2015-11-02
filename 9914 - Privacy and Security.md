@@ -46,6 +46,7 @@
 * http://adage.com/article/datadriven-marketing/24-billion-data-business-telcos-discuss/301058/
 * https://www.eff.org/privacybadger
 * http://arstechnica.com/tech-policy/2015/06/fake-mobile-phone-towers-discovered-in-london-stingrays-come-to-the-uk/
+* http://arstechnica.com/security/2015/10/how-to-use-tor-messenger-the-most-secure-chat-program-around/
 * http://www.bbc.com/news/uk-34444233
 * http://www.wsj.com/articles/moxie-marlinspike-the-coder-who-encrypted-your-texts-1436486274
 * http://www.theregister.co.uk/2015/08/27/malvertising_feature/
