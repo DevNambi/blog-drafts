@@ -377,6 +377,7 @@
 * http://www.thebookoflife.org/unemployment-down-at-last-misemployment-bad-as-ever/
 * http://www.nakedcapitalism.com/2015/10/5-of-the-biggest-acts-of-corporate-hypocrisy-in-america.html
 * http://motherboard.vice.com/read/commodities-traders-helped-spark-the-war-in-syria-complex-systems-theorists-say
+* http://www.nytimes.com/2015/11/01/business/dealbook/arbitration-everywhere-stacking-the-deck-of-justice.html
 
 
 
