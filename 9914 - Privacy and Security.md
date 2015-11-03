@@ -52,6 +52,7 @@
 * http://www.wsj.com/articles/moxie-marlinspike-the-coder-who-encrypted-your-texts-1436486274
 * http://www.theregister.co.uk/2015/08/27/malvertising_feature/
 * https://jonathan.porta.codes/2015/07/30/windows-10-seems-to-have-some-scary-privacy-defaults/
+* https://theintercept.com/2015/11/03/facing-growing-encryption-law-enforcement-recommends-more-informants/
 * http://queue.acm.org/detail.cfm?ref=rss&id=2838930
 * https://www.washingtonpost.com/news/the-switch/wp/2015/10/15/amid-the-adblockalypse-advertisers-apologize-for-messing-up-the-web/
 * https://emailselfdefense.fsf.org/en/
