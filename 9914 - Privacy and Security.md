@@ -35,6 +35,7 @@
 * https://medium.com/message/the-hypocrisy-of-the-internet-journalist-587d33f6279e
 * http://arstechnica.com/security/2015/03/anti-doxing-strategy-or-how-to-avoid-50-qurans-and-287-of-chick-fil-a/ <- incredibly important read
 * http://monica-at-mozilla.blogspot.com/2015/05/tracking-protection-for-firefox-at-web.html <- priceless
+* http://www.latimes.com/nation/la-na-supreme-court-data-privacy-20151102-story.html
 * http://seattletimes.com/html/businesstechnology/2025244750_apxtecidentitytheftthehassle.html
 * https://www.eff.org/deeplinks/2015/06/why-facebook-failed-our-censorship-test
 * http://www.viola-notes.com/why-resistance-to-ad-blocking-is-futile-and-whats-next-for-digital-advertising/
