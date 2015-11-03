@@ -68,6 +68,7 @@
 * http://www.cnn.com/2015/03/18/opinions/wheeler-silicon-valley-jobs/index.html
 * http://www.nakedcapitalism.com/2015/05/the-shafting-um-sharing-economy.html
 * http://www.sfexaminer.com/airbnbs-ads-make-them-fools-in-national-news/
+* http://www.sfexaminer.com/airbnb-has-become-its-own-worst-enemy/
 
 
 
@@ -130,6 +131,7 @@
 * http://blog.sfgate.com/morford/2015/08/04/attention-teen-dropouts-sf-is-lying/
 * https://medium.com/@tikhon/founders-it-s-not-1990-stop-treating-your-employees-like-it-is-523f48fe90cb
 * http://fortune.com/2015/10/23/is-silicon-valley-bad-for-your-health/
+* https://www.jobstart.co/guides/warning-signs-is-it-time-to-leave-your-startup
 
 
 ## Misc

@@ -80,6 +80,7 @@
 * https://www.loggly.com/ultimate-guide/
 * http://rmurphey.com/blog/2015/10/08/five-questions/
 * http://spectrum.ieee.org/static/the-staggering-impact-of-it-systems-gone-wrong
+* http://queue.acm.org/detail.cfm?id=2839461
 
 
 

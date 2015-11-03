@@ -19,6 +19,7 @@
 * http://www.theatlantic.com/politics/archive/2015/03/the-conservative-case-against-enforcing-immigration-laws/387004/
 * http://www.salon.com/2015/06/12/this_is_the_nras_worst_nightmare_the_new_gun_safety_study_that_gun_nuts_dont_want_you_to_hear_about/
 * http://www.nakedcapitalism.com/2015/05/delusional-thinking-in-washington-the-desperate-plight-of-a-declining-superpower.html
+* http://www.vice.com/read/war-in-weed-country-v22n11
 * http://www.huffingtonpost.com/2015/05/22/senate-passes-fast-track_n_7425614.html
 * http://www.theatlantic.com/politics/archive/2015/04/too-vague-to-be-constitutional/390762/
 * http://www.seattletimes.com/seattle-news/federal-ruling-may-free-many-immigrants-without-posting-bonds/
@@ -162,6 +163,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.nytimes.com/2015/04/14/world/asia/afghan-army-is-tested-by-the-taliban-as-fighting-season-begins.html
 * http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/ <- an insight piece
 * http://www.nytimes.com/2015/07/23/world/asia/afghan-security-forces-struggle-just-to-maintain-stalemate.html
+* http://www.popularmechanics.com/flight/drones/a18032/hero-30-uvision-israeli-drone/
 * http://www.economist.com/news/science-and-technology/21607765-just-how-good-are-government-analysts-intelligent-intelligence
 * http://nationalinterest.org/feature/are-submarines-about-become-obsolete-12253
 * http://www.latimes.com/opinion/op-ed/la-oe-0706-zimmerman-ptsd-20150706-story.html

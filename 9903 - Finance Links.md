@@ -323,7 +323,8 @@
 * http://mobile.nytimes.com/2015/01/26/business/economy/middle-class-shrinks-further-as-more-fall-out-instead-of-climbing-up.html
 * http://www.theguardian.com/business/2014/oct/14/richest-1percent-half-global-wealth-credit-suisse-report
 * http://www.nakedcapitalism.com/2015/02/thomas-piketty-larry-summers-dont-tell-income-inequality.html
-* http://www.nytimes.com/2014/10/15/upshot/when-the-guy-making-your-sandwich-has-a-noncompete-clause.html?_r=0&abt=0002&abg=1
+* http://ourworldindata.org/data/growth-and-distribution-of-prosperity/income-inequality/
+* http://www.nytimes.com/2014/10/15/upshot/when-the-guy-making-your-sandwich-has-a-noncompete-clause.html
 * http://www.pewtrusts.org/~/media/Assets/2014/10/Payday-Lending-Report/Fraud_and_Abuse_Online_Harmful_Practices_in_Internet_Payday_Lending.pdf
 * http://www.gatesnotes.com/Books/Why-Inequality-Matters-Capital-in-21st-Century-Review?new#
 * http://www.nakedcapitalism.com/2014/10/mixed-international-picture-poverty-inequality.html
