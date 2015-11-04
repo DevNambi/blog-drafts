@@ -442,6 +442,7 @@
 * http://mtov.github.io/github-popularity-growth-patterns/
 * http://playfulprogramming.blogspot.com/2015/08/cache-optimizing-priority-queue.html
 * http://adriansampson.net/blog/llvm.html
+* http://varianceexplained.org/r/polarizing-technologies/
 
 
 

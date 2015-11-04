@@ -15,6 +15,7 @@
 * http://offbeathome.com/2014/10/temporary-home-security
 * https://thestack.com/security/2015/09/24/cookies-can-render-secure-websites-vulnerable-in-all-modern-browsers/
 * http://www.infoworld.com/article/2997733/security/encryption-is-under-siege-move-to-sha-2-now.html
+* http://arstechnica.com/tech-policy/2015/11/tsa-airport-screeners-ability-to-detect-weapons-declared-pitiful/
 * http://krebsonsecurity.com/2015/10/whats-in-a-boarding-pass-barcode-a-lot/
 * http://www.zdnet.com/article/chryslers-response-to-car-hack-was-slow-and-incredibly-stupid/
 * http://www.wired.com/2015/11/hackers-claim-million-dollar-bounty-for-ios-attack/
