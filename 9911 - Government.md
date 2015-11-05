@@ -125,6 +125,7 @@
 * http://www.theverge.com/2015/1/21/7861645/finfisher-spyware-let-bahrain-government-hack-political-activist
 * http://www.mirror.co.uk/news/uk-news/westminster-child-abuse-scandal-kgb-5080120
 http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
+* http://www.smh.com.au/federal-politics/political-news/details-of-transpacific-partnership-finally-released-20151105-gkrivo.html
 * http://seattletimes.com/html/nationworld/2025614214_saudiqaidaxml.html
 * http://www.theguardian.com/world/2015/feb/03/petition-putin-free-russian-svetlana-davydova-treason
 * http://news.yahoo.com/ukraine-leader-shows-off-captured-russian-military-ids-160048355.html

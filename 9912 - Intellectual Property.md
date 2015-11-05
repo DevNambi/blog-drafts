@@ -47,6 +47,7 @@
 * http://www.bloomberg.com/news/articles/2015-07-06/-flash-boys-programmer-in-goldman-theft-has-charges-tossed-out-ibrz5tyj
 * http://blog.opendns.com/2014/12/30/sony-reveals-even-bigger-attack-internet-time-mpaa-behind/
 * http://timesofindia.indiatimes.com/tech/tech-news/Pastebin-Dailymotion-Github-blocked-after-DoT-order-Report/articleshow/45701713.cms
+* https://www.techdirt.com/articles/20151103/15475732708/not-just-academics-fed-up-with-elsevier-entire-editorial-staff-resigns-en-masse-to-start-open-access-journal.shtml
 * http://arstechnica.com/tech-policy/2015/01/the-nfl-wants-you-to-think-thsee-things-are-illegal/
 * https://www.eff.org/deeplinks/2015/04/remembering-case-established-code-speech/
 * http://www.theverge.com/2015/1/2/7481409/the-mpaa-has-a-new-plan-to-stop-copyright-violations-at-the-border

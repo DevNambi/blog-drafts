@@ -84,6 +84,7 @@ Emphasize what we don't know
 
 * http://forecast.io/raw/
 * https://johncarlosbaez.wordpress.com/2015/06/19/on-care-for-our-common-home/
+* http://www.smh.com.au/federal-politics/political-news/details-of-transpacific-partnership-finally-released-20151105-gkrivo.html
 * http://www.bloomberg.com/news/articles/2015-06-23/the-way-humans-get-electricity-is-about-to-change-forever
 * http://news.nationalgeographic.com/news/2015/02/150212-megadrought-southwest-water-climate-environment/
 * http://nautil.us/issue/25/water/the-real-landscapes-of-the-great-flood-myths

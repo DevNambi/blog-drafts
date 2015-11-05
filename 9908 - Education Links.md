@@ -60,6 +60,7 @@
 * http://www.seattletimes.com/education-lab/new-discipline-data-allows-comparisons-among-districts/
 * http://www.nakedcapitalism.com/2015/05/high-school-dropout-rates-increase-with-income-inequality.html
 * http://www.seattletimes.com/seattle-news/testing-cutting-into-class-time/
+* http://news.stanford.edu/news/2015/november/robinson-humanities-lecture-110315.html
 * http://www.elearnspace.org/blog/2015/09/09/adios-ed-tech-hola-something-else/
 * http://www.thegreatcourses.com/tgc/courses/Courses.aspx?ps=914
 * http://www.wired.com/2015/05/altschool/
@@ -133,6 +134,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 ## Higher Education
 
 * http://equitablegrowth.org/research/achievement-gap/ <- why I do what I do
+* http://news.stanford.edu/news/2015/november/robinson-humanities-lecture-110315.html
 * http://www.washingtonpost.com/sf/brand-connect/wp/video/what-do-you-know-about-college/
 * https://www.insidehighered.com/news/2015/09/10/amid-competency-based-education-boom-meeting-help-colleges-do-it-right
 * http://www.washingtonpost.com/sf/brand-connect/wp/enterprise/in-tennessee-tailored-data-helps-students/
@@ -461,6 +463,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2015/03/17/nyregion/nyu-professor-is-barred-from-the-united-arab-emirates.html
 * http://www.nytimes.com/2015/03/20/business/dealbook/bar-exam-the-standard-to-become-a-lawyer-comes-under-fire.html
 * http://www.washingtonpost.com/opinions/why-stem-wont-make-us-successful/2015/03/26/5f4604f2-d2a5-11e4-ab77-9646eea6a4c7_story.html?hpid=z3
+* http://news.stanford.edu/news/2015/november/robinson-humanities-lecture-110315.html
 * http://mobile.nytimes.com/2015/04/17/nyregion/nyu-labor-rules-failed-to-protect-10000-workers-in-abu-dhabi.html?_r=0
 * http://www.economist.com/news/united-states/21646220-it-depends-what-you-study-not-where
 * https://chronicle.com/article/The-Slow-Death-of-the/228991/
