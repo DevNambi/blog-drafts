@@ -259,6 +259,7 @@ http://www.bbc.com/news/health-34615621
 * http://www.unz.com/gnxp/when-sequencing-makes-genotyping-obsolete-soon/
 * http://www.technologyreview.com/featuredstory/532421/the-search-for-exceptional-genomes/
 * http://www.businessweek.com/articles/2014-12-04/dna-sequencing-craig-venter-says-genomic-era-is-just-starting
+* http://www.nature.com/nature/journal/v527/n7576_supp/full/527S2a.html
 
 #### Diabetes
 

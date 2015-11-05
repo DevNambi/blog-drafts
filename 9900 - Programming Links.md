@@ -115,6 +115,7 @@
 * http://spectrum.ieee.org/static/overcomplexifying-underdelivering
 * http://scattered-thoughts.net/blog/2015/10/25/complexity-budgets/
 * http://www.daedtech.com/how-to-address-your-coworkers-bad-code-part-1
+* http://blog.codinghorror.com/code-reviews-just-do-it/
 
 
 ## Learning to Code
@@ -680,6 +681,7 @@ things they believe in will keep </a></li>
 * http://danluu.com/discourage-oss/
 * http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/
 * http://www.nytimes.com/2015/09/23/nyregion/volkswagens-diesel-fraud-makes-critic-of-secret-code-a-prophet.html
+* http://blog.fogus.me/2015/11/04/the-100101-method-my-approach-to-open-source/
 
 
 
