@@ -14,6 +14,7 @@
 * http://techcrunch.com/2015/10/17/specialization-polymaths-and-the-pareto-principle-in-a-convergence-economy/
 * https://www.mainstreet.com/article/apparently-cool-kids-were-high-school-band-after-all/page/2 <- look at the research for myself
 * http://www.innovationexcellence.com/blog/2015/08/25/the-dynamics-of-a-creative-team/
+* http://googleresearch.blogspot.com/2015/11/computer-respond-to-this-email.html
 * http://7goldfish.com/Little%20know%20ways%20to%20think%20about%20dicipline
 * http://www.npr.org/blogs/health/2015/01/05/371894919/what-heroin-addiction-tells-us-about-changing-bad-habits
 * http://www.theguardian.com/education/2014/feb/27/musicians-better-language-learners

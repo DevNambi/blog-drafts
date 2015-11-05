@@ -50,6 +50,7 @@
 * http://arstechnica.com/security/2015/10/how-to-use-tor-messenger-the-most-secure-chat-program-around/
 * http://www.bbc.com/news/uk-34444233
 * http://www.wsj.com/articles/moxie-marlinspike-the-coder-who-encrypted-your-texts-1436486274
+* http://www.theatlantic.com/technology/archive/2015/11/google-searches-privacy-danger/413614/
 * http://www.theregister.co.uk/2015/08/27/malvertising_feature/
 * https://jonathan.porta.codes/2015/07/30/windows-10-seems-to-have-some-scary-privacy-defaults/
 * https://theintercept.com/2015/11/03/facing-growing-encryption-law-enforcement-recommends-more-informants/
