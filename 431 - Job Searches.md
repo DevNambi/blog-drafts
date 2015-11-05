@@ -53,6 +53,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://pmarchive.com/guide_to_career_planning_part2.html">Pmarca Guide to Career Planning</a></li>
 <li><a href="http://flowingdata.com/2015/10/14/work-counts/">How many have the same education, income, work hours, and commute as you do?</a></li>
 <li><a href="https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/">Why GitHub is not your CV</a></li>
+<li><a href="http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job">An Unconventional Guide for Getting a Software Engineering Job</a></li>
 </ul>
 
 
