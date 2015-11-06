@@ -89,6 +89,7 @@
 * https://www.reddit.com/r/datasets/comments/3mg812/full_reddit_submission_corpus_now_available_2006/
 * http://minimaxir.com/2015/10/reddit-bigquery/ <- Amazing
 * http://www.nature.com/articles/sdata201555
+* http://jmcauley.ucsd.edu/data/amazon/
 
 
 ## Data Cleaning/Munging
@@ -613,6 +614,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://www.cafepress.com/+statistics+mugs
 * http://bigdatapix.tumblr.com/
 * Storytelling w/ data - Precision bullsh*tting
+* http://www.kdnuggets.com/2015/08/gartner-2015-hype-cycle-big-data-is-out-machine-learning-is-in.html
 
 ## Data Adoption and Data-Friendly Organizations
 

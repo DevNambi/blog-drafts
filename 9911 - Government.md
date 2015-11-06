@@ -197,6 +197,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.theatlantic.com/international/archive/2014/12/america-28-billion-failure-in-pakistan-peshawar-attack-school/383919/
 * http://www.truth-out.org/art/item/27999-thought-experiment
 * http://www.nakedcapitalism.com/2014/10/john-helmer-cia-bumbling-now.html
+* http://www.nakedcapitalism.com/2015/11/afghanistan-after-the-american-war.html 
 * http://www.usatoday.com/story/nation/2014/10/31/suicide-deaths-us-military-war-study/18261185/
 * http://www.nytimes.com/2015/04/04/world/asia/retired-japanese-fighter-pilot-sees-an-old-danger-on-the-horizon.html
 * http://www.salon.com/2004/07/15/hersh_7/
