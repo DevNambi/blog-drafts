@@ -174,6 +174,7 @@ http://www.bbc.com/news/health-34615621
 
 
 * http://www.scientificamerican.com/article/regular-walking-can-help-ease-depression/
+* http://www.nerdfitness.com/blog/2015/11/05/stuck-at-the-starting-line-find-your-gateway-change/ <- good read
 * http://nautil.us/issue/22/slow/the-impossible-physiology-of-the-free-diver
 * http://www.nerdfitness.com/blog/2015/02/02/just-how-fast-can-i-get-the-body-i-want/
 * http://well.blogs.nytimes.com/2014/10/15/whats-your-fitness-age/
