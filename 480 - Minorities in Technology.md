@@ -36,6 +36,7 @@ http://thewireless.co.nz/articles/the-pencilsword-on-a-plate <- this is how priv
 * http://sysadmin1138.net/mt/blog/2015/03/silence-is-as-much-social-lubrication-as-lying.shtml
 * https://medium.com/@jolenecreighton/heres-what-its-like-for-a-woman-to-send-a-job-rejection-to-a-man-17af3090c501
 * http://blog.ameliagreenhall.com/post/quiet-ladies.-wadhwa-is-speaking-now
+* http://verilymerrilymary.com/2015/11/the-nearly-life-saving-reasons-why-i-write.html
 * http://www.midnightdba.com/Jen/2015/04/the-real-secret-of-why-so-few-women-are-in-it/
 * http://www.theverge.com/2015/2/9/8004101/sexism-and-consequences-at-techcrunch-s-annual-award-show
 * https://medium.com/backchannel/techs-high-barrier-to-entry-for-the-underprivileged-da254356547d

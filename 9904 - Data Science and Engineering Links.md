@@ -147,6 +147,7 @@
 * https://www.mapbox.com/blog/stickshift/ <- seems incredibly useful
 * https://www.washingtonpost.com/graphics/national/power-plants/
 * http://www.vox.com/2015/3/24/8267637/subway-style-maps
+* http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf
 
 #### D3 and related
 

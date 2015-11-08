@@ -183,6 +183,7 @@ Emphasize what we don't know
 * http://www.nytimes.com/2015/02/17/world/americas/drought-pushes-sao-paulo-brazil-toward-water-crisis.html?_r=0
 * https://ca.news.yahoo.com/brazilians-hoard-water-prepare-possible-drastic-rationing-164505818--business.html
 * http://www.wired.com/2015/04/benedikt-partenheimer-particulate-matter/
+* http://www.seattletimes.com/seattle-news/transportation/time-for-electric-bikes-to-gain-speed-in-seattle/
 * http://www.theatlantic.com/photo/2015/04/the-american-west-dries-up/389432/
 * http://www.wired.com/2015/04/human-powered-machines/
 * https://www.youtube.com/watch?v=m0HL4L6Pa-4
