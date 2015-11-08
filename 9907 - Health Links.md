@@ -92,7 +92,8 @@
 * http://www.lift-heavy.com/intermittent-fasting/
 * http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2929771/ <- turmeric help
 * http://www.openculture.com/2015/08/the-new-york-times-makes-17000-tasty-recipes-available-online.html
-http://www.bbc.com/news/health-34615621
+* http://www.bbc.com/news/health-34615621
+* http://www.nytimes.com/2009/07/22/dining/22mlist.html <- 100 great salads
 
 
 
