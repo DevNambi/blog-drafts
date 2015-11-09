@@ -552,6 +552,7 @@
 * http://rinuboney.github.io/2015/10/18/theoretical-motivations-deep-learning.html
 * http://karpathy.github.io/2015/10/25/selfie/
 * https://github.com/andrewt3000/DL4NLP/blob/master/README.md#deep-learning-for-nlp-resources
+* http://googleresearch.blogspot.com/2015/11/tensorflow-googles-latest-machine_9.html
 
 
 
@@ -688,6 +689,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://byterot.blogspot.com/2015/01/future-of-programming-rise-of-the-scientific-developer-bigdata-datascience-machine-learning-and-fall-of-the-craftsman.html
 * http://harry.me/blog/2014/12/27/neat-algorithms-paxos/
 * http://techblog.netflix.com/2014/10/using-presto-in-our-big-data-platform.html
+* http://googleresearch.blogspot.com/2015/11/tensorflow-googles-latest-machine_9.html
 * https://github.com/Randommood/Strangeloop2015
 * http://patshaughnessy.net/2014/10/13/following-a-select-statement-through-postgres-internals
 * http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html
