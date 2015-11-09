@@ -84,6 +84,7 @@
 * http://www.slate.com/articles/technology/technology/2015/07/freebooting_stolen_youtube_videos_going_viral_on_facebook.html
 * https://michaelochurch.wordpress.com/2015/08/08/employees-at-google-yahoo-and-amazon-lose-nothing-if-they-unionize-heres-why/
 * https://boingboing.net/2015/10/24/petition-facebook-betrayed-us.html
+* http://www.ritholtz.com/blog/2015/11/facebook/
 
 
 ## Apple

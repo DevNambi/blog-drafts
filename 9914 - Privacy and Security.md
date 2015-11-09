@@ -79,6 +79,7 @@
 * https://www.mattcutts.com/blog/google-contributor/
 * http://blog.cryptographyengineering.com/2015/09/lets-talk-about-imessage-again.html
 * https://krebsonsecurity.com/2015/06/how-i-learned-to-stop-worrying-and-embrace-the-security-freeze/
+* https://theintercept.com/2015/11/06/how-law-enforcement-can-use-google-timeline-to-track-your-every-move/
 * http://thenextweb.com/insider/2015/05/17/adblockers-are-immoral-and-mobile-networks-should-know-better/
 * http://www.computerworld.com/article/2926775/security0/data-breach-costs-now-average-154-per-record.html
 * http://mobile.nytimes.com/2015/06/05/opinion/edward-snowden-the-world-says-no-to-surveillance.html?_r=0

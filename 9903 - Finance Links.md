@@ -181,6 +181,7 @@
 * http://www.nakedcapitalism.com/2015/03/hsbcs-money-laundering-nightmare-1-mossack-fonseca.html
 * http://www.rollingstone.com/politics/news/is-jpmorgan-chase-profiting-off-of-forced-evictions-in-china-20150210
 * http://www.nakedcapitalism.com/2014/10/private-equity-at-work-rigorously-debunks-industry-mythology.html
+* http://www.nakedcapitalism.com/2015/11/don-quijones-first-they-came-for-the-pennies-in-the-war-on-cash.html
 * http://www.nakedcapitalism.com/2014/10/dealbook-says-citi-afford-run-honest-bank-mexico.html
 * http://mobile.nytimes.com/blogs/dealbook/2015/01/26/investment-riches-built-on-auto-loans-to-poor/
 * http://www.nakedcapitalism.com/2015/02/geithner-end-capitalism-know.html
@@ -351,6 +352,7 @@
 * http://www.washingtonpost.com/sf/business/2014/12/12/why-americas-middle-class-is-lost/
 * http://www.theatlantic.com/business/archive/2014/07/millennials-trends-housing/373892/
 * http://www.huffingtonpost.ca/2014/12/23/mincome-in-dauphin-manitoba_n_6335682.html
+* http://www.nytimes.com/2015/11/08/nyregion/real-estate-shell-companies-scheme-to-defraud-owners-out-of-their-homes.html
 * http://dealbook.nytimes.com/2014/12/25/dipping-into-auto-equity-devastates-many-borrowers/
 * http://www.theatlantic.com/business/archive/2015/01/compared-to-previous-generations-how-bad-are-millennials-finances/384050/
 * http://www.nakedcapitalism.com/2015/05/resilience-is-the-new-black.html

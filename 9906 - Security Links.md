@@ -67,6 +67,7 @@
 * http://www.salon.com/2015/09/26/how_to_explain_the_kgbs_amazing_success_identifying_cia_agents_in_the_field/
 * http://www.wired.com/2015/04/want-see-domestic-spyings-future-follow-drug-war/
 * http://www.itnews.com/disaster-recovery/94529/fbi-alert-discloses-malware-tied-opm-and-anthem-attacks
+* http://www.wired.com/2015/11/cia-email-hackers-return-with-major-law-enforcement-breach/
 * http://mobile.nytimes.com/aponline/2015/10/01/business/ap-us-experian-t-mobile-data-breach.html
 * http://arstechnica.com/business/2015/10/today-all-stores-in-the-us-should-accept-chip-and-pin-cards-yeah-right/
 * http://www.dw.com/en/wikileaks-steinmeier-target-of-systematic-nsa-spying/a-18596704

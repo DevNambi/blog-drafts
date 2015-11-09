@@ -69,6 +69,8 @@
 * http://www.nakedcapitalism.com/2015/05/the-shafting-um-sharing-economy.html
 * http://www.sfexaminer.com/airbnbs-ads-make-them-fools-in-national-news/
 * http://www.sfexaminer.com/airbnb-has-become-its-own-worst-enemy/
+* http://www.theatlantic.com/technology/archive/2015/11/the-food-delivery-start-up-you-havent-heard-of/414540/
+* https://michaelochurch.wordpress.com/2015/11/06/y-combinator-and-paul-graham-are-bad-for-the-world-part-1/
 
 
 
