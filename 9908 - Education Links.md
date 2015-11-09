@@ -681,6 +681,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://newsoffice.mit.edu/2015/at-risk-students-moocs-dropout-0701
 * http://m.cacm.acm.org/magazines/2015/10/192385-life-after-moocs/fulltext
 * http://nautil.us/issue/29/scaling/why-virtual-classes-can-be-better-than-real-ones
+* https://medium.com/@cshirky/the-digital-revolution-in-higher-education-has-already-happened-no-one-noticed-78ec0fec16c7
 
 
 
