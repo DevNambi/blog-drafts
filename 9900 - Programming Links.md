@@ -472,6 +472,8 @@
 * http://docs.python-guide.org/en/latest/
 * http://blog.webhose.io/2015/08/12/tiny-basic-multi-threaded-web-crawler-in-python/
 * https://github.com/justmarkham/python-reference <- AMAZING
+* http://www.littlekendra.com/2015/11/10/resources-learning-python/
+
 
 **Examples of good Python codebases**
 * https://github.com/kennethreitz/requests

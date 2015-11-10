@@ -11,6 +11,7 @@
 * http://www.mlive.com/news/kalamazoo/index.ssf/2015/10/police_officer_charged_with_mi.html
 * https://www.washingtonpost.com/blogs/wonkblog/wp/2015/06/30/drug-cops-took-a-college-kids-life-savings-and-now-13-police-departments-want-a-cut/
 * http://www.salon.com/2015/10/13/mommy_am_i_gonna_die_cop_shoots_4_year_old_after_aiming_for_family_dog_when_injured_mom_called_911_for_help/
+* https://www.washingtonpost.com/news/wonk/wp/2015/11/10/report-in-lean-times-police-start-taking-a-lot-more-stuff-from-people/
 * http://www.thedenverchannel.com/news/u-s-world/cell-phone-video-chandler-officer-illegally-enters-womans-home-arrests-her-while-she-is-naked <- had his body camera off
 * http://www.theguardian.com/us-news/2015/jul/15/jonathan-sanders-mississppi-chokehold
 * http://prospect.org/article/why-dont-settlements-over-brutality-come-out-police-budgets
