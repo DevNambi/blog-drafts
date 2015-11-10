@@ -39,6 +39,7 @@
 * http://arstechnica.com/business/2015/03/amazon-launches-home-services-business-wants-to-give-you-drum-lessons/
 * http://www.theatlantic.com/business/archive/2014/12/meet-the-people-and-robots-who-pack-your-online-orders/383536/?single_page=true
 * http://www.theverge.com/2015/3/26/8280309/amazon-warehouse-jobs-exclusive-noncompete-contracts
+* http://mattmaroon.com/2015/11/10/amazon-kind-of-sucks-and-weve-all-just-come-to-accept-it/
 * http://www.fastcompany.com/3039887/under-fire
 * http://recode.net/2015/01/13/how-amazon-tricks-you-into-thinking-it-always-has-the-lowest-prices/
 * http://www.bloomberg.com/news/articles/2015-04-23/amazon-finally-discloses-cloud-services-sales-showing-49-jump
@@ -262,6 +263,7 @@
 ## Twitter
 
 * http://techcrunch.com/2015/10/21/twitter-ceo-dorsey-apologizes-to-developers-says-he-wants-to-reset-relations/
+* http://www.theguardian.com/commentisfree/2015/nov/06/twitter-teetering-pyramid-scheme-social-media
 
 
 

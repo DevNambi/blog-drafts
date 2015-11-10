@@ -54,6 +54,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://flowingdata.com/2015/10/14/work-counts/">How many have the same education, income, work hours, and commute as you do?</a></li>
 <li><a href="https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/">Why GitHub is not your CV</a></li>
 <li><a href="http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job">An Unconventional Guide for Getting a Software Engineering Job</a></li>
+<li><a href="http://www.sciencedaily.com/releases/2015/11/151106113840.htm">Cancer survivors less likely to receive callbacks from potential employers</a></li>
 </ul>
 
 

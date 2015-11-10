@@ -409,6 +409,7 @@
 * http://arxiv.org/abs/1509.01240 <- stochastic gradient descent is pretty great
 * http://nerds.airbnb.com/confidence-splitting-criterions/
 * http://bertolami.com/index.php?engine=blog&content=posts&detail=randomized-decision-forests
+* https://www.quora.com/When-would-one-use-Random-Forests-over-Gradient-Boosted-Machines-GBMs/answer/Xavier-Amatriain
 
 
 
@@ -424,6 +425,7 @@
 * http://johncarlosbaez.wordpress.com/2014/11/15/a-second-law-for-open-markov-processes/
 * http://techeffigy.wordpress.com/2014/06/30/markov-chains-explained/
 * http://liljonnystyle.blogspot.com/2014/05/markov-where-are-my-umbrellas.html
+* http://twiecki.github.com/blog/2015/11/10/mcmc-sampling/
 
 
 

@@ -346,6 +346,7 @@
 * http://blog.textit.in/why-buying-provisioned-iops-on-rds-may-be-a-mistake
 * http://engineering.pinterest.com/post/113376157699/open-sourcing-pinball
 * http://www.brendangregg.com/blog/2015-03-03/performance-tuning-linux-instances-on-ec2.html
+* https://www.backblaze.com/blog/cloud-storage-hardware/
 * http://googlecloudplatform.blogspot.com/2015/05/Introducing-Preemptible-VMs-a-new-class-of-compute-available-at-70-off-standard-pricing.html
 * http://blog.atomicinc.com/2015/03/03/does-amazon-web-services-pricing-follow-moores-law-2350/
 * http://www.infoq.com/news/2015/04/vogels-patterns-cloud-adoption

@@ -263,6 +263,7 @@
 * http://www.businessweek.com/articles/2014-12-04/dna-sequencing-craig-venter-says-genomic-era-is-just-starting
 * http://www.nature.com/nature/journal/v527/n7576_supp/full/527S2a.html
 * https://www.newscientist.com/article/dn28454-gene-editing-saves-life-of-girl-dying-from-leukaemia-in-world-first/
+* http://www.newyorker.com/magazine/2015/11/16/the-gene-hackers
 
 #### Diabetes
 
@@ -472,6 +473,7 @@ pandemic-20150311-story.html
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://www.krmg.com/news/news/local/chlamydia-rampant-texas-abstinence-only-high-schoo/npFNw/#cmComments
 * http://www.nytimes.com/2015/10/26/opinion/hospitals-red-blanket-problem.html
 * http://fivethirtyeight.com/features/the-problem-with-tying-health-care-to-trade/
 * http://www.nakedcapitalism.com/2015/10/tpp-intellectual-property-chapter-is-a-disaster-for-global-health.html
