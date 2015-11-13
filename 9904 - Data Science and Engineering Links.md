@@ -148,7 +148,8 @@
 * https://www.washingtonpost.com/graphics/national/power-plants/
 * http://www.vox.com/2015/3/24/8267637/subway-style-maps
 * http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf
-* http://jakevdp.github.io/blog/2012/10/07/xkcd-style-plots-in-matplotlib/?utm_content=buffera9a76&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+* http://jakevdp.github.io/blog/2012/10/07/xkcd-style-plots-in-matplotlib/
+* http://blog.insightdatalabs.com/advanced-functionality-in-seaborn/
 
 #### D3 and related
 
