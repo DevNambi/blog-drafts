@@ -90,6 +90,7 @@
 * http://www.extremetech.com/internet/180485-the-ultimate-guide-to-staying-anonymous-and-protecting-your-privacy-online
 * http://peter-whittaker.com/the-right-time-to-refuse/
 * http://www.theguardian.com/technology/2015/feb/13/apple-ceo-tim-cook-challenges-obama-privacy
+* https://theintercept.com/2015/11/12/edward-snowden-explains-how-to-reclaim-your-privacy/
 * http://arstechnica.com/tech-policy/2015/10/german-parliament-passes-new-comprehensive-data-retention-law/
 * http://arstechnica.com/tech-policy/2015/03/we-know-where-youve-been-ars-acquires-4-6m-license-plate-scans-from-the-cops/
 * https://medium.com/@arankhanna/stalking-your-friends-with-facebook-messenger-9da8820bd27d
