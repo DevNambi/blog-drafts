@@ -481,6 +481,9 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.impatientoptimists.org/Posts/2015/10/Leading-with-Data
 * http://www.economist.com/blogs/graphicdetail/2015/10/value-university
 * http://www.aacc.nche.edu/newsevents/pressreleases/Pages/10302015_1.aspx
+* https://www.insidehighered.com/news/2015/11/12/author-discusses-new-book-arguing-chinas-universities-are-rising-while-americas
+
+
 
 
 
@@ -522,6 +525,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2015/10/09/sports/ncaafootball/beer-alcohol-college-football-west-virginia.html
 * https://www.washingtonpost.com/news/grade-point/wp/2015/10/15/a-better-way-to-gauge-how-common-sexual-assault-is-on-college-campuses/
 * http://www.bellinghamherald.com/news/local/article42031710.html
+* http://m.stltoday.com/news/local/education/missteps-not-student-revolt-led-to-mizzou-chancellor-s-demise/article_f955e9cf-6fc8-5fb0-b2cc-1b798d53fccc.html
 
 
 ### Finance, Debt

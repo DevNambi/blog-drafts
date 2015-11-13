@@ -6,6 +6,7 @@
 
 * http://www.nytimes.com/interactive/2015/05/19/dining/summer-dinner-ideas.html <- AMAZING
 * http://well.blogs.nytimes.com/2015/10/27/cutting-sugar-improves-childrens-health-in-just-10-days/
+* http://nautil.us/issue/30/identity/how-the-western-diet-has-derailed-our-evolution
 * http://www.independent.co.uk/life-style/health-and-families/health-news/saturated-fats-in-meat-and-dairy-produce-not-as-bad-for-health-as-previously-thought-study-finds-10450663.html
 * http://www.nytimes.com/2015/11/01/magazine/bread-is-broken.html
 * https://www.reddit.com/r/Fitness/comments/2yn1qv/a_simple_diet_trick_ive_learned_from_trimming/

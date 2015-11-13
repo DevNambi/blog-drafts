@@ -108,6 +108,8 @@
 * http://www.seattleweekly.com/home/960633-129/thirteen-things-i-learned-cooking-at
 * http://www.theverge.com/2015/9/17/9338963/welcome-to-hell-apple-vs-google-vs-facebook-and-the-slow-death-of-the-web
 * http://www.wired.com/2015/10/meet-walking-dead-hp-cisco-dell-emc-ibm-oracle
+* http://www.johndcook.com/blog/2015/11/12/project-lead-time/
+
 
 
 
@@ -228,6 +230,9 @@
 * https://medium.com/@harrisj/leaving-the-new-york-times-bb3e73adc61f
 * http://bgr.com/2015/05/16/netflix-vs-amazon-prime-reality-shows/
 * http://www.theawl.com/2015/10/the-chicago-end-times
+* http://www.businessinsider.com/cable-companies-cut-ads-because-of-netflix-2015-11?IR=T
+* https://medium.com/@jwherrman/tech-is-eating-media-now-what-807047ad4ede
+
 
 
 ## Airlines
@@ -246,6 +251,8 @@
 * http://www.economist.com/blogs/gulliver/2015/02/united-airlines-0
 * http://www.theregister.co.uk/2015/05/01/787_software_bug_can_shut_down_planes_generators <- well, that's awkward
 * http://www.seattletimes.com/business/boeing-aerospace/will-787-program-ever-show-an-overall-profit-analysts-grow-more-skeptical/
+* https://medium.com/@theorm/where-flight-search-engines-fail-48076f04c226
+* http://www.nakedcapitalism.com/2015/11/hysteresis-and-aircraft-maintenance-dont-go-up-in-any-large-planes.html
 
 
 ## Energy Companies
