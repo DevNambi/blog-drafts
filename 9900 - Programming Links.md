@@ -403,6 +403,7 @@
 * http://www.allthingsdistributed.com/2015/07/under-the-hood-of-the-amazon-ec2-container-service.html
 * http://googlecloudplatform.blogspot.com/2015/07/Kubernetes-V1-Released.html
 * http://blog.takipi.com/amazon-ec2-2015-benchmark-testing-speeds-between-aws-ec2-and-s3-regions/
+* http://blogs.barrons.com/techtraderdaily/2015/11/11/amazon-no-limit-to-what-aws-can-disrupt-says-morgan-stanley/
 * http://bits.blogs.nytimes.com/2015/09/09/google-follows-amazon-web-services-into-on-demand-supercomputing/?_r=1
 * http://sebastiansylvan.com/2009/11/22/two-performance-walls-approaching/
 * https://www.edx.org/course/linuxfoundationx/linuxfoundationx-lfs101x-introduction-1621
