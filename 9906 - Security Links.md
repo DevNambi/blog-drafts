@@ -11,6 +11,7 @@
 * http://arstechnica.com/security/2015/10/new-zero-day-exploit-hits-fully-patched-adobe-flash/
 * http://www.wsj.com/articles/cyber-sleuths-track-hacker-to-chinas-military-1443042030
 * http://arstechnica.com/security/2015/11/hacking-tool-swipes-encrypted-credentials-from-password-manager/
+* http://www.bloomberg.com/features/2015-hospital-hack/
 * http://arstechnica.com/security/2015/10/the-rise-of-the-zero-day-market/
 * http://qz.com/545978/a-federal-judges-ruling-against-the-nsa-is-a-big-win-for-edward-snowden/
 * http://offbeathome.com/2014/10/temporary-home-security

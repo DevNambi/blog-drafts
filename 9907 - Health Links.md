@@ -334,6 +334,7 @@ pandemic-20150311-story.html
 * https://news.vice.com/article/seattle-is-helping-drug-addicts-instead-of-locking-them-up-and-so-far-its-working
 * http://www.nytimes.com/2015/05/26/health/rural-nebraska-offers-stark-view-of-nursing-autonomy-debate.html
 * http://www.scientificamerican.com/article/common-parasite-could-manipulate-our-behavior/
+* http://www.bloomberg.com/features/2015-hospital-hack/
 * http://www.bbc.com/news/health-31713147
 * http://www.thedailybeast.com/articles/2015/02/26/why-you-trust-the-internet-more-than-your-doctor.html
 * http://www.bloomberg.com/news/features/2015-02-12/does-a-real-anti-aging-pill-already-exist-
