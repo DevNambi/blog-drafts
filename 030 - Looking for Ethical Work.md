@@ -91,6 +91,8 @@ Industries
 * https://www.squareweave.com.au/blog/2015/10/21/the-ethics-of-digital-disruption/
 * http://minimaxir.com/2015/10/code-steal/
 * http://tech.mit.edu/V130/N18/dubai.html
+* http://www.johndcook.com/blog/2015/11/13/you-do-not-want-to-be-an-edge-case/
+* http://fledge.co/fledglings/
 
 
 

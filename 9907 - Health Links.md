@@ -476,6 +476,7 @@ pandemic-20150311-story.html
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://www.statnews.com/2015/11/12/drug-makers-need-disclose-clinical-trial-data-study-says/
 * http://www.krmg.com/news/news/local/chlamydia-rampant-texas-abstinence-only-high-schoo/npFNw/#cmComments
 * http://www.nytimes.com/2015/10/26/opinion/hospitals-red-blanket-problem.html
 * http://fivethirtyeight.com/features/the-problem-with-tying-health-care-to-trade/

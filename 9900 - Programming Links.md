@@ -508,6 +508,7 @@
 * http://yefremov.net/blog/debugging-scala-compiler-magic/
 * http://databricks.com/blog/2015/02/17/introducing-dataframes-in-spark-for-large-scale-data-science.html
 * https://databricks.com/blog/2015/07/30/diving-into-spark-streamings-execution-model.html
+* http://manuel.bernhardt.io/2015/11/13/5-years-of-scala-and-counting-debunking-some-myths-about-the-language-and-its-environment/
 
 
 

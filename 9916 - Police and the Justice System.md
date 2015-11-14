@@ -9,6 +9,7 @@
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
 * http://www.seattletimes.com/nation-world/baltimore-mayor-fires-police-commissioner/
 * http://www.mlive.com/news/kalamazoo/index.ssf/2015/10/police_officer_charged_with_mi.html
+* http://www.bloombergview.com/articles/2015-11-12/stop-and-seize-turns-police-into-self-funding-gangs
 * https://www.washingtonpost.com/blogs/wonkblog/wp/2015/06/30/drug-cops-took-a-college-kids-life-savings-and-now-13-police-departments-want-a-cut/
 * http://www.salon.com/2015/10/13/mommy_am_i_gonna_die_cop_shoots_4_year_old_after_aiming_for_family_dog_when_injured_mom_called_911_for_help/
 * https://www.washingtonpost.com/news/wonk/wp/2015/11/10/report-in-lean-times-police-start-taking-a-lot-more-stuff-from-people/

@@ -5,6 +5,7 @@
 * http://bits.blogs.nytimes.com/2015/10/14/hackers-prove-they-can-pwn-the-lives-of-those-not-hyperconnected/
 * http://www.wired.com/2015/06/united-flights-grounded-mysterious-problem/
 * http://arstechnica.com/information-technology/2015/08/lenovo-used-windows-anti-theft-feature-to-install-persistent-crapware/
+* https://securelist.com/analysis/publications/72652/beaches-carnivals-and-cybercrime-a-look-inside-the-brazilian-underground/
 * https://vimeo.com/135347162 <- James Mickens' talk
 * http://www.extremetech.com/computing/212038-oracle-tells-its-customers-to-stop-analyzing-its-code-for-security-flaws
 * https://ma.ttias.be/remote-code-execution-via-http-request-in-iis-on-windows/

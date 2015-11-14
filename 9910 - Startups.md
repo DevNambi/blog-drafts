@@ -53,6 +53,7 @@
 * http://qz.com/411330/the-mystery-of-the-power-bank-phone-taking-over-ghana/
 * http://www.wired.com/2015/07/tech-upended-banks-stock-trading-insurance-next/
 * http://jacquesmattheij.com/retention-is-the-key
+* http://www.aaronkharris.com/things-that-arent-progress
 
 
 
