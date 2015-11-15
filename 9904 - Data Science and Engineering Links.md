@@ -756,6 +756,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://insightdataengineering.com/blog/sparkdevops/
 * http://ampcamp.berkeley.edu/
 * http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR
+* http://blogs.aws.amazon.com/bigdata/post/Tx6J5RM20WPG5V/Building-a-Recommendation-Engine-with-Spark-ML-on-Amazon-EMR-using-Zeppelin
 * https://www.dataquest.io/mission/123/introduction-to-spark/
 * http://databricks.com/blog/2014/10/10/spark-breaks-previous-large-scale-sort-record.html
 * http://www.michael-noll.com/blog/2014/10/01/kafka-spark-streaming-integration-example-tutorial/
