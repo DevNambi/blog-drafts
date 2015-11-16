@@ -8,6 +8,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://www.americanscientist.org/issues/feature/2014/6/the-statistical-crisis-in-science/99999
 * https://liorpachter.wordpress.com/2015/07/10/the-myths-of-bioinformatics-software/
 * http://arstechnica.com/science/2015/08/100-psychology-experiments-repeated-less-than-half-successful/
+* http://mathbabe.org/2015/11/16/debiasing-techniques-in-science/
 * http://swcarpentry.github.io/slideshows/best-practices/index.html
 * http://www.fiercebiotech.com/story/who-really-controls-revolutionary-new-crispr-cas9-technology/2014-12-05
 * http://benchling.engineering/crispr-aws-lambda/?hn

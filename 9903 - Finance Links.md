@@ -47,6 +47,7 @@
 * http://www.nytimes.com/2014/11/27/business/international/france-has-second-thoughts-on-its-35-hour-workweek.html?_r=0
 * http://www.bbc.com/news/business-30310832
 * http://www.nytimes.com/2014/12/27/world/even-loyalty-no-guarantee-against-putin.html <- might makes right. But now it's at the hands of a check and not a gun.
+* http://www.nakedcapitalism.com/2015/11/will-the-paris-attacks-herald-the-end-of-the-schengen-agreement.html
 * http://boingboing.net/2015/03/11/piketty-on-the-pointless-cruel.html
 * http://www.theatlantic.com/international/archive/2015/01/europe-mortgage-crisis-switzerland-franc/384958/
 * http://mechanicalforex.com/2015/01/trading-a-real-market-what-the-swiss-national-bank-taught-retail-traders-today.html
@@ -150,6 +151,7 @@
 * http://www.nakedcapitalism.com/2015/10/oxford-professor-schools-calpers-contrary-to-board-presentation-private-equity-is-most-expensive-asset-class-by-far.html
 * http://www.zerohedge.com/news/2015-10-19/traders-are-panic-selling-t-bills-after-jack-lew-warns-terrible-debt-limit-accident
 * http://www.theatlantic.com/magazine/archive/2015/05/can-bankers-behave/389558/
+* http://www.bloomberg.com/news/articles/2015-11-15/debt-market-distortions-go-global-as-nothing-makes-sense-anymore
 * http://www.theatlantic.com/magazine/archive/2015/05/bank-of-the-underworld/389555/
 * http://www.nakedcapitalism.com/2015/11/foreign-banks-such-as-deutsche-using-variant-of-lehman-repo-105-balance-sheet-tarting-up-strategy.html
 * http://www.telegraph.co.uk/finance/libor-scandal/11684438/Libor-trial-Hayes-handed-over-a-UBS-instruction-manual-on-rigging-prosecution-says.html

@@ -226,6 +226,7 @@
 * http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html
 * https://snipcart.com/blog/ad-blockers-saas-web-developers
 * http://www.bostonglobe.com/business/2015/10/25/the-internet-ads-that-would-not-die/2IiIl1niWZZZymfCy23cuN/story.html
+* http://idlewords.com/2015/11/the_advertising_bubble.htm
 
 
 

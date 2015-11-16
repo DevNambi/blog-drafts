@@ -572,6 +572,7 @@ pandemic-20150311-story.html
 
 
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
+* http://www.theatlantic.com/technology/archive/2015/11/the-algorithm-that-will-buy-you-health-insurance-honeyinsured/414765/?single_page=true
 * http://techcrunch.com/2015/10/20/amino/
 * http://www.nytimes.com/2015/09/08/health/what-are-a-hospitals-costs-utah-system-is-trying-to-learn.html?_r=0
 * http://www.latimes.com/business/la-fi-blue-shield-audit-20150705-story.html#page=1
