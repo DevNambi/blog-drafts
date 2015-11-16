@@ -411,6 +411,7 @@
 * http://nerds.airbnb.com/confidence-splitting-criterions/
 * http://bertolami.com/index.php?engine=blog&content=posts&detail=randomized-decision-forests
 * https://www.quora.com/When-would-one-use-Random-Forests-over-Gradient-Boosted-Machines-GBMs/answer/Xavier-Amatriain
+* http://www.randalolson.com/2015/11/15/introducing-tpot-the-data-science-assistant/
 
 
 
