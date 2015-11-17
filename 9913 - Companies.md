@@ -31,6 +31,7 @@
 * http://smerity.com/articles/2015/amazon_information_leakage.html
 * http://www.nakedcapitalism.com/2015/10/harvard-business-review-ranks-amazons-jeff-bezos-as-most-predatory-ceo.html
 * http://www.economist.com/blogs/freeexchange/2014/10/market-power?fsrc=scn/fb/wl/bl/bigbadamazon
+* http://arstechnica.com/information-technology/2015/11/sprawling-pssht-no-one-streamlines-everything-from-books-to-bots-like-amazon/
 * https://www.scribd.com/embeds/245561031/content
 * http://www.nytimes.com/2015/06/24/business/amazon-big-retailers-remove-confederate-flag-merchandise.html?_r=0
 * http://www.theguardian.com/money/2014/nov/28/being-homeless-is-better-than-working-for-amazon
@@ -165,6 +166,7 @@
 * http://blog.longreads.com/2015/05/12/a-brief-history-of-aol/
 * http://arstechnica.com/tech-policy/2015/07/senators-asks-fcc-to-investigate-cable-and-broadband-prices/
 * http://arstechnica.com/tech-policy/2015/10/att-customer-politely-e-mails-ceo-gets-terse-reply-from-att-lawyer/
+* http://arstechnica.com/business/2015/11/comcast-sent-collection-agencies-after-customer-who-paid-all-his-bills/
 
 
 ## Google

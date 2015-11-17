@@ -117,6 +117,7 @@ Emphasize what we don't know
 * http://www.extremetech.com/extreme/202579-global-investment-in-renewable-energy-skyrockets
 * http://www.wsj.com/articles/google-gets-into-battery-arms-race-1428694613
 * http://arstechnica.com/science/2015/08/the-solar-sunflower-harnessing-the-power-of-5000-suns/
+* http://arstechnica.com/science/2015/11/new-analysis-finds-routes-to-economic-growth-with-carbon-limits/
 * http://arstechnica.com/science/2015/08/worst-case-scenario-how-bad-could-a-tropical-cyclone-be/
 * http://www.nakedcapitalism.com/2015/10/how-much-longer-can-the-oil-age-last-2.html
 * http://www.fastcoexist.com/3051087/california-is-building-the-countrys-largest-solar-desalination-plant

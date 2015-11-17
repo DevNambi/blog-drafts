@@ -170,7 +170,8 @@
 * http://www.nakedcapitalism.com/2015/03/rebuke-cronyistic-new-york-fed-tbtf-bank-supervision-shifted-fed-board-governors.html
 * http://www.nakedcapitalism.com/2015/07/calpers-scrambles-to-get-private-equity-carry-fee-info-after-we-break-story-that-they-had-no-clue-what-they-were-paying.html
 * http://avc.com/2015/06/the-coming-change-in-monetary-policy/
-* http://mobile.nytimes.com/2015/04/12/business/dealbook/insurers-bypass-rules-to-add-hidden-risk.html?_r=0
+* http://mobile.nytimes.com/2015/04/12/business/dealbook/insurers-bypass-rules-to-add-hidden-risk.html
+* http://www.nytimes.com/2015/11/17/business/chip-credit-cards-give-retailers-another-grievance-against-banks.html
 * http://www.seattletimes.com/seattle-news/us-house-oks-cutting-safeguards-for-mobile-home-buyers/
 * http://www.nakedcapitalism.com/2015/04/ridiculing-concerns-tpp-tyranny.html
 * http://www.theatlantic.com/politics/archive/2015/04/fergusons-fortune-500-company/390492/
@@ -441,6 +442,7 @@
 * https://www.mattcutts.com/blog/make-money-investing-tips/ <- super useful.
 * http://www.nerdwallet.com/
 * http://www.pbs.org/idealab/2015/01/how-crowdfunding-municipal-bonds-help-people-invest-in-communities/
+* http://www.mrmoneymustache.com/2015/11/15/three-investments/
 * http://www.mrmoneymustache.com/2015/02/26/my-top-questions-from-internet-strangers/
 * http://mathbabe.org/2015/07/10/the-heriff-tool-detect-price-discrimination-while-you-shop/
 * http://www.mrmoneymustache.com/2011/09/30/is-a-costco-membership-worth-the-cost/
