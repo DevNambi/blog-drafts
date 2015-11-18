@@ -19,6 +19,7 @@
 * https://thestack.com/security/2015/09/24/cookies-can-render-secure-websites-vulnerable-in-all-modern-browsers/
 * http://www.infoworld.com/article/2997733/security/encryption-is-under-siege-move-to-sha-2-now.html
 * http://arstechnica.com/tech-policy/2015/11/tsa-airport-screeners-ability-to-detect-weapons-declared-pitiful/
+* http://arstechnica.com/security/2015/11/why-algebraic-eraser-may-be-the-most-risky-cryptosystem-youve-never-heard-of/
 * http://krebsonsecurity.com/2015/10/whats-in-a-boarding-pass-barcode-a-lot/
 * http://www.zdnet.com/article/chryslers-response-to-car-hack-was-slow-and-incredibly-stupid/
 * http://www.wired.com/2015/11/hackers-claim-million-dollar-bounty-for-ios-attack/
@@ -268,6 +269,7 @@
 * https://freedom-to-tinker.com/blog/haldermanheninger/how-is-nsa-breaking-so-much-crypto/
 * http://arstechnica.com/security/2015/10/how-the-nsa-can-break-trillions-of-encrypted-web-and-vpn-connections/
 * http://www.newyorker.com/news/john-cassidy/hillary-clinton-is-wrong-about-edward-snowden
+* https://theintercept.com/2015/11/17/u-s-mass-surveillance-has-no-record-of-thwarting-large-terror-attacks-regardless-of-snowden-leaks/
 
 
 <li><a href="http://rt.com/usa/news/surveillance-spying-e-mail-citizens-178/" time_added="1354678483" tags="hn,important,personal tech">'Everyone in US under virtual surveillance' - NSA whistleblower — RT</a></li>

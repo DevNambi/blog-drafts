@@ -157,6 +157,7 @@
 * http://www.telegraph.co.uk/finance/libor-scandal/11684438/Libor-trial-Hayes-handed-over-a-UBS-instruction-manual-on-rigging-prosecution-says.html
 * http://www.nakedcapitalism.com/2015/04/investors-like-calpers-and-new-york-city-in-the-dark-about-private-equity-fees.html
 * http://www.nakedcapitalism.com/2015/04/bill-black-super-crunchers-became-super-torturers-finance-data.html
+* http://www.nytimes.com/2015/11/17/world/americas/tiaa-cref-us-investment-giant-accused-of-land-grabs-in-brazil.html
 * http://www.nytimes.com/2015/04/16/upshot/big-money-from-super-pacs-is-eroding-the-power-of-parties.html?abt=0002&abg=0
 * http://www.nakedcapitalism.com/2015/03/fed-impedes-gao-audits-destroying-source-documents.html
 * http://www.nakedcapitalism.com/2015/08/another-private-equity-scam-tax-receivable-agreements.html
@@ -376,6 +377,7 @@
 * https://www.vice.com/read/driving-uber-as-an-iraqi-war-veteran
 * http://www.theatlantic.com/business/archive/2015/07/millennials-with-rich-parents/398501/?single_page=true
 * http://www.buzzfeed.com/jessicagarrison/the-new-american-slavery-invited-to-the-us-foreign-workers-f
+* http://www.nytimes.com/2015/11/18/business/economy/electing-to-ignore-the-poorest-of-the-poor.html
 * http://www.nakedcapitalism.com/2015/07/gaius-publius-one-way-to-ease-the-worldwide-water-crisis-end-privatization.html
 * https://ukiahcommunityblog.wordpress.com/2015/07/23/living-in-switzerland-ruined-me-for-america-and-its-lousy-work-culture/
 * http://www.theguardian.com/world/2015/jul/28/hedge-funds-puerto-rico-close-schools-fire-teachers-pay-us-back

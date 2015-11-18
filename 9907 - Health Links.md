@@ -266,6 +266,7 @@
 * http://www.nature.com/nature/journal/v527/n7576_supp/full/527S2a.html
 * https://www.newscientist.com/article/dn28454-gene-editing-saves-life-of-girl-dying-from-leukaemia-in-world-first/
 * http://www.newyorker.com/magazine/2015/11/16/the-gene-hackers
+* http://a16z.com/2015/11/18/bio-fund/
 
 #### Diabetes
 
@@ -295,6 +296,8 @@ pandemic-20150311-story.html
 * http://www.theatlantic.com/health/archive/2015/01/the-new-antibiotics-might-be-essential-oils/384247/
 * http://www.nature.com/news/antibiotic-resistance-the-last-resort-1.13426
 * http://www.nytimes.com/2014/12/04/world/asia/superbugs-kill-indias-babies-and-pose-an-overseas-threat.html
+* http://phenomena.nationalgeographic.com/2015/11/16/amr-weeks/
+* http://arstechnica.com/science/2015/11/pediatricians-say-farm-use-of-antibiotics-harms-children/
 
 <li><a href="http://www.nature.com/news/antibiotic-resistance-the-last-resort-1.13426" time_added="1374949873" tags="domestic,health,important">Antibiotic resistance: The last resort : Nature News & Comment</a></li>
 
@@ -478,6 +481,7 @@ pandemic-20150311-story.html
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
 * http://www.statnews.com/2015/11/12/drug-makers-need-disclose-clinical-trial-data-study-says/
 * http://www.krmg.com/news/news/local/chlamydia-rampant-texas-abstinence-only-high-schoo/npFNw/#cmComments
+* http://www.theatlantic.com/health/archive/2015/11/texas-self-abort/416229/
 * http://www.nytimes.com/2015/10/26/opinion/hospitals-red-blanket-problem.html
 * http://fivethirtyeight.com/features/the-problem-with-tying-health-care-to-trade/
 * http://www.nakedcapitalism.com/2015/10/tpp-intellectual-property-chapter-is-a-disaster-for-global-health.html
@@ -529,6 +533,7 @@ pandemic-20150311-story.html
 * http://www.nakedcapitalism.com/2015/07/wolf-richter-private-equity-scrambles-to-buy-primary-care-doctors-leverage-their-patients.html
 * http://mobile.nytimes.com/2015/09/21/business/a-huge-overnight-increase-in-a-drugs-price-raises-protests.html
 * http://well.blogs.nytimes.com/2015/10/14/dietary-supplements-lead-to-20000-e-r-visits-yearly-study-finds/
+* http://arstechnica.com/science/2015/11/doctors-want-ban-on-prescription-drug-device-advertisements/
 
 <li><a href="http://www.rand.org/pubs/research_briefs/RB9744.html" time_added="1395001792" tags="">Do Workplace Wellness Programs Save Employers Money? | RAND</a></li>
 <li><a href="http://www.nytimes.com/2013/09/03/opinion/how-a-cabal-keeps-generics-scarce.html" time_added="1388678022" tags="">How a Cabal Keeps Generics Scarce - NYTimes.com</a></li>

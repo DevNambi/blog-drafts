@@ -72,6 +72,7 @@
 * http://www.usatoday.com/story/news/nation/2015/04/16/parents-opt-out-standardized-tests/25896607/
 * http://iquantny.tumblr.com/post/114374455289/safe-hallways-successful-tests
 * http://www.seattletimes.com/education-lab/stunning-surge-in-graduation-rate-as-rainier-beach-gamble-pays-off/
+* http://www.theatlantic.com/education/archive/2015/11/principal-power-new-orleans-school/415911/
 * http://www.nytimes.com/2015/04/26/sunday-review/push-dont-crush-the-students.html
 * http://www.seattletimes.com/education-lab/seattle-sets-high-bar-for-substitutes-by-requiring-teaching-license/
 * http://mobile.nytimes.com/2015/08/10/us/teacher-shortages-spur-a-nationwide-hiring-scramble-credentials-optional.html
@@ -137,6 +138,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://news.stanford.edu/news/2015/november/robinson-humanities-lecture-110315.html
 * http://www.washingtonpost.com/sf/brand-connect/wp/video/what-do-you-know-about-college/
 * https://www.insidehighered.com/news/2015/09/10/amid-competency-based-education-boom-meeting-help-colleges-do-it-right
+* https://www.insidehighered.com/quicktakes/2015/11/17/college-completion-rates-decline-more-rapidly
 * http://www.washingtonpost.com/sf/brand-connect/wp/enterprise/in-tennessee-tailored-data-helps-students/
 * http://www.nytimes.com/2015/08/31/technology/tools-for-tailored-learning-may-expose-students-personal-details.html
 * http://www.seattletimes.com/nation-world/study-more-than-a-third-of-us-college-students-transferred/

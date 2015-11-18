@@ -62,6 +62,8 @@
 * https://open.nasa.gov/
 * http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/ <- here's the mother lode
 * https://news.ycombinator.com/item?id=10440502
+* http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/
+
 
 ## Data Acquisition, Sources
 
@@ -178,6 +180,7 @@
 * https://github.com/wbkd/awesome-d3
 * http://c3js.org/
 * http://www.cloudstitch.com/d3-in-a-box
+* https://plot.ly/javascript/open-source-announcement/
 
 #### GGPlot2
 
@@ -292,6 +295,8 @@
 * http://nbviewer.ipython.org/github/twiecki/pymc3_talk/blob/master/bayesian_pymc3.ipynb
 * http://alexanderetz.com/2015/08/09/understanding-bayes-visualization-of-bf/
 * https://speakerdeck.com/jakevdp/statistics-for-hackers <- AMAZING
+* http://priceonomics.com/the-discovery-of-statistical-regression/
+* http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb <- AMAZING
 
 
 ## ML / AI

@@ -81,6 +81,7 @@
 * http://rmurphey.com/blog/2015/10/08/five-questions/
 * http://spectrum.ieee.org/static/the-staggering-impact-of-it-systems-gone-wrong
 * http://queue.acm.org/detail.cfm?id=2839461
+* http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html
 
 
 
@@ -418,6 +419,7 @@
 * http://blog.chriszacharias.com/page-weight-matters
 * http://motherboard.vice.com/read/memory-is-holding-up-the-moores-law-progression-of-processing-power
 * http://computers-are-fast.github.io/
+* http://www.acmebenchmarking.com/2015/11/benchmarking-cloud-provider-performance.html
 
 
 

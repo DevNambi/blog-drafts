@@ -129,6 +129,7 @@
 * https://chronicle.com/article/Why-Privacy-Matters-Even-if/127461/
 * http://blog.prof.so/2013/06/quantified.html
 * http://arstechnica.com/tech-policy/2015/01/obama-calls-for-new-consumer-student-and-energy-data-privacy-laws/
+* http://arstechnica.com/tech-policy/2015/11/manhattan-da-demands-congress-require-mobile-phone-backdoors/
 * http://www.nytimes.com/2015/10/11/business/international/behind-the-european-privacy-ruling-thats-confounding-silicon-valley.html
 * http://blogs.microsoft.com/on-the-issues/2014/10/23/four-10-americans-face-regular-online-fraud-attacks-microsoft-survey/
 * http://arstechnica.com/information-technology/2014/10/taking-back-privacy-in-the-post-snowden-cloud/

@@ -68,6 +68,7 @@
 * https://www.reddit.com/r/AskReddit/comments/3oqzvr/what_is_that_one_trick_that_they_really_dont_want/
 * https://www.reddit.com/r/AskReddit/comments/2wn0yt/what_is_one_weird_trick_that_actually_works/
 * https://www.reddit.com/r/AskReddit/comments/29gjj7/what_are_some_of_the_internet_tricks_that_you/
+* http://www.fastcompany.com/3053036/how-to-be-a-success-at-everything/the-simple-technique-to-fit-a-40-hour-work-week-into-167-h
 
 
 
