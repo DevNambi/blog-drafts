@@ -108,6 +108,7 @@
 * http://recode.net/2015/10/15/civic-tech-startup-opengov-raises-25-million-adds-marc-andreessen-to-its-board/
 * http://www.wired.com/2015/10/new-standards-could-make-government-sites-less-worthless/
 * http://arstechnica.com/unite/2015/10/slowly-but-surely-government-it-enters-the-21st-century/
+* https://18f.gsa.gov/2015/11/18/automating-easy-government-decisions-with-machine-learning/
 
 
 ## Immigration
