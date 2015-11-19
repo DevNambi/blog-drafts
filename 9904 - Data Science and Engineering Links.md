@@ -572,6 +572,7 @@
 * http://mortada.net/drafts/the-traveling-tesla-salesman.html
 * https://developers.google.com/optimization/
 * http://news.mit.edu/2015/faster-optimization-algorithm-1023
+* http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3
 
 #### ML Tools, Hyperparameters
 
