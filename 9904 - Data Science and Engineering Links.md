@@ -719,6 +719,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://deepdive.stanford.edu/ <- AMAZING
 * https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/ <- AMAZINGLY GOOD
 * https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/ <- critical!
+* http://blogs.aws.amazon.com/bigdata/post/Tx1Z6IF7NA8ELQ9/Building-a-Near-Real-Time-Discovery-Platform-with-AWS
 * https://aphyr.com/posts/324-call-me-maybe-aerospike <- amazing
 * http://blog.parsely.com/post/1928/cass/
 * http://newsoffice.mit.edu/2015/cutting-cost-power-big-data-0710

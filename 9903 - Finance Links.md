@@ -30,6 +30,7 @@
 * http://qz.com/456025/zombies-and-cannibals-the-horrors-of-chinas-financial-system-charted/
 * http://wolfstreet.com/2015/10/19/global-demand-rampant-overcapacity-china-containerized-freight-index-ccfi-collapses-worst-level-ever/
 * http://wolfstreet.com/2015/10/25/china-containerized-freight-index-ccfi-shanghai-scfi-drop-to-new-lows/
+* http://www.nakedcapitalism.com/2015/11/ilargi-the-great-fall-of-china-started-at-least-4-years-ago.html
 
 
 ## Europe
@@ -115,6 +116,7 @@
 * http://www.nakedcapitalism.com/2015/07/the-coming-greek-bank-nationalization-bail-in-and-privatization.html
 * http://www.nakedcapitalism.com/2015/07/once-again-on-the-it-challenges-in-converting-to-the-drachma.html
 * http://www.nakedcapitalism.com/2015/08/the-challenges-of-the-greek-crisis.html
+* http://www.nakedcapitalism.com/2015/11/the-disaster-of-greek-austerity-what-next.html
 
 
 
@@ -387,6 +389,7 @@
 * http://www.nakedcapitalism.com/2015/10/5-of-the-biggest-acts-of-corporate-hypocrisy-in-america.html
 * http://motherboard.vice.com/read/commodities-traders-helped-spark-the-war-in-syria-complex-systems-theorists-say
 * http://www.nytimes.com/2015/11/01/business/dealbook/arbitration-everywhere-stacking-the-deck-of-justice.html
+* http://noahpinionblog.blogspot.com/2015/11/unlearning-economics.html
 
 
 

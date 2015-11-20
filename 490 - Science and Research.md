@@ -66,6 +66,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://arstechnica.com/science/2015/10/chinese-lunar-landers-telescope-is-still-working-a-year-and-a-half-later/
 * https://www.semanticscholar.org/
 * http://news.stanford.edu/news/2015/november/fraud-science-papers-111615.html
+* http://arstechnica.com/science/2015/11/federal-funding-drop-sending-universities-scrambling-to-pay-for-research/
 
 
 <li><a href="http://www.infoworld.com/d/big-data/astronomers-crunch-big-data-map-the-galaxies-209573" time_added="1357233706" tags="big data,cloud,data science,ml">Astronomers crunch big data to map the galaxies | Big Data - InfoWorld</a></li>

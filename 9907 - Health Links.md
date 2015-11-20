@@ -633,6 +633,7 @@ pandemic-20150311-story.html
 * http://www.propublica.org/article/a-pharma-payment-a-day-keeps-docs-finances-ok
 * http://www.nytimes.com/2015/08/03/us/health-providers-brace-for-more-cuts-to-medicare-in-puerto-rico.html
 * http://arstechnica.com/science/2015/11/doctors-urge-feds-to-nix-mergers-between-giant-health-insurers/
+* http://2015.padjo.org/tutorials/sql-walks/exploring-wsj-medicare-investigation-with-sql/ <- AMAZING
 
 <li><a href="http://t.co/IG6Jdn4S" time_added="1357788683" tags="">lazowska: NY Times: US is an outlier in relying on the private sector to fu</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/11/another-lurking-obamacare-problem-balance-billing.html" time_added="1384907393" tags="corruption,finance,health,important,to_read">Another Lurking Obamacare Problem: Balance Billing « naked capitalism</a></li>
