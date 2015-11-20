@@ -267,6 +267,7 @@
 * https://www.newscientist.com/article/dn28454-gene-editing-saves-life-of-girl-dying-from-leukaemia-in-world-first/
 * http://www.newyorker.com/magazine/2015/11/16/the-gene-hackers
 * http://a16z.com/2015/11/18/bio-fund/
+* http://varianceexplained.org/r/tidy-genomics/
 
 #### Diabetes
 

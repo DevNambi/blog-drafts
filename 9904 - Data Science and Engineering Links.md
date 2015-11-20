@@ -417,6 +417,7 @@
 * http://bertolami.com/index.php?engine=blog&content=posts&detail=randomized-decision-forests
 * https://www.quora.com/When-would-one-use-Random-Forests-over-Gradient-Boosted-Machines-GBMs/answer/Xavier-Amatriain
 * http://www.randalolson.com/2015/11/15/introducing-tpot-the-data-science-assistant/
+* http://www.inference.vc/how-to-train-your-generative-models-why-generative-adversarial-networks-work-so-well-2/
 
 
 
@@ -563,6 +564,7 @@
 * http://karpathy.github.io/2015/10/25/selfie/
 * https://github.com/andrewt3000/DL4NLP/blob/master/README.md#deep-learning-for-nlp-resources
 * http://googleresearch.blogspot.com/2015/11/tensorflow-googles-latest-machine_9.html
+* http//iamtrask.github.io/2015/11/15/anyone-can-code-lstm/ <- a great intro to neural nets and LSTM
 
 
 
@@ -572,6 +574,7 @@
 * http://mortada.net/drafts/the-traveling-tesla-salesman.html
 * https://developers.google.com/optimization/
 * http://news.mit.edu/2015/faster-optimization-algorithm-1023
+* http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3
 
 #### ML Tools, Hyperparameters
 
