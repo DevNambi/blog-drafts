@@ -270,6 +270,7 @@
 * http://arstechnica.com/security/2015/10/how-the-nsa-can-break-trillions-of-encrypted-web-and-vpn-connections/
 * http://www.newyorker.com/news/john-cassidy/hillary-clinton-is-wrong-about-edward-snowden
 * https://theintercept.com/2015/11/17/u-s-mass-surveillance-has-no-record-of-thwarting-large-terror-attacks-regardless-of-snowden-leaks/
+* http://arstechnica.com/tech-policy/2015/11/nsa-replaced-secret-e-mail-metadata-program-with-more-expansive-tools/
 
 
 <li><a href="http://rt.com/usa/news/surveillance-spying-e-mail-citizens-178/" time_added="1354678483" tags="hn,important,personal tech">'Everyone in US under virtual surveillance' - NSA whistleblower — RT</a></li>
