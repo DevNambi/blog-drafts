@@ -759,6 +759,7 @@ things they believe in will keep </a></li>
 * http://arstechnica.com/information-technology/2014/10/the-devil-had-possessed-his-netbook-and-other-tales-of-it-terror/
 * http://crashworks.org/if_programming_languages_were_vehicles/ <- funny because it's true
 * http://www.itworld.com/article/2995053/careers/banks-severance-deal-requires-it-workers-to-be-on-call-for-two-years.html <- good luck getting any good support out of this. 
+* http://vimeo.com/146524997 <- another James Mickens classic
 
 
 

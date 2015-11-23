@@ -458,6 +458,7 @@
 * http://blog.dilbert.com/post/120441834951/knowledge-as-a-financial-asset
 * http://www.bbc.com/future/story/20150720-the-hidden-lab-where-bankcards-are-hacked
 * https://www.reddit.com/r/AskReddit/comments/3ov0l1/they_say_that_money_cant_buy_happiness_but_what/
+* https://www.reddit.com/r/AskReddit/comments/3tkemy/what_is_a_sub100_gadget_that_everyone_needs_but/
 
 
 

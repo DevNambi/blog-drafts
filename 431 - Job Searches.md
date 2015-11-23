@@ -91,6 +91,8 @@ I've found various links with resources about job searching and resumes.
 
 Interviews are one of the best times to find out about a company's culture, work-life balance, and the roles and responsibilities of a role. I go with a list of questions, because I want to find out about a company just as much as they want to find out about me.
 
+Remember that [people judge you based on first impressions](http://thrivewire.com/stories/scientists-say-people-judge-you-on-these-13-things-the-moment-they-meet-you)
+
 #### My Interview Questions
 
 **I Ask Managers**

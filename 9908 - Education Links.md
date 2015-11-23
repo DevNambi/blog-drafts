@@ -665,6 +665,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.seattletimes.com/seattle-news/the-party-that-wants-to-put-public-back-into-public-education/
 * http://www.thetakeaway.org/story/access-and-excellence-campus/
 * http://www.seattletimes.com/education-lab/uw-bothell-again-bests-uw-seattle-in-rating-of-college-value/ <- because they don't have certain high-cost expenses?
+* http://crosscut.com/2015/11/kplu-would-have-liked-to-save-itself-it-never-got-the-chance/
 
 
 

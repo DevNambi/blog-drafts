@@ -323,6 +323,7 @@ pandemic-20150311-story.html
 
 * http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/
 * http://www.fastcoexist.com/3052282/the-latest-medical-breakthrough-in-spinal-cord-injuries-was-made-by-a-computer-program
+* http://mobile.nytimes.com/2015/11/23/health/states-lead-effort-to-let-pharmacists-prescribe-birth-control.html
 * http://hitconsultant.net/2015/10/13/10-ways-artificial-intelligence-could-make-me-a-better-doctor/
 * http://stm.sciencemag.org/content/7/278/278ra33.full
 * https://vanwinkles.com/bedtime-for-benzodiazepines-addicted-drug-most-popular-sleeping-pills
