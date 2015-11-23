@@ -87,6 +87,7 @@
 * https://www.mnot.net/blog/2015/07/20/snowden_meets_the_ietf
 * http://passcode.csmonitor.com/identity-trade
 * https://www.kickstarter.com/projects/augustgermar/anonabox-a-tor-hardware-router
+* http://arstechnica.com/tech-policy/2015/11/georgia-sent-out-cds-of-data-from-6-million-voters-containing-ssns-birth-dates/
 * http://www.extremetech.com/internet/180485-the-ultimate-guide-to-staying-anonymous-and-protecting-your-privacy-online
 * http://peter-whittaker.com/the-right-time-to-refuse/
 * http://www.theguardian.com/technology/2015/feb/13/apple-ceo-tim-cook-challenges-obama-privacy
