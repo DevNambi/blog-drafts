@@ -19,6 +19,7 @@
 * https://thestack.com/security/2015/09/24/cookies-can-render-secure-websites-vulnerable-in-all-modern-browsers/
 * http://www.infoworld.com/article/2997733/security/encryption-is-under-siege-move-to-sha-2-now.html
 * http://arstechnica.com/tech-policy/2015/11/tsa-airport-screeners-ability-to-detect-weapons-declared-pitiful/
+* http://randywestergren.com/united-airlines-bug-bounty-an-experience-in-reporting-a-serious-vulnerability/
 * http://arstechnica.com/security/2015/11/why-algebraic-eraser-may-be-the-most-risky-cryptosystem-youve-never-heard-of/
 * http://krebsonsecurity.com/2015/10/whats-in-a-boarding-pass-barcode-a-lot/
 * http://www.zdnet.com/article/chryslers-response-to-car-hack-was-slow-and-incredibly-stupid/

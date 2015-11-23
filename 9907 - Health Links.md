@@ -312,7 +312,7 @@ pandemic-20150311-story.html
 * http://www.nytimes.com/2015/01/27/upshot/can-this-treatment-help-me-theres-a-statistic-for-that.html
 * http://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm
     * A terrible, bubble-chart version of the same, http://www.businessinsider.com/the-things-most-likely-to-kill-you-in-one-infographic-2015-2
-
+* http://www.nakedcapitalism.com/2015/11/matthew-cunningham-cook-how-the-tpp-will-create-a-medical-privacy-hellscape.html
 
 
 

@@ -253,6 +253,8 @@
 * http://wolfstreet.com/2015/10/15/wrath-of-financial-engineering-eating-earnings-record-corporate-debt/
 * http://www.zerohedge.com/news/2015-10-19/walmart-suppliers-brace-coming-storm-now-we-know-why-they-have-been-pushing-so-hard
 * http://www.nytimes.com/2015/10/22/business/international/european-inquiry-focuses-on-a-mysterious-starbucks-business.html
+* http://www.nakedcapitalism.com/2015/11/calpers-hired-a-fiduciary-counsel-accused-of-serious-misconduct-over-more-than-a-decade-including-kick-backs-failure-to-disclose-conflicts-of-interest.html
+* http://www.nakedcapitalism.com/2015/11/calpers-debunks-private-equity-executive-summary.html
 
 
 
