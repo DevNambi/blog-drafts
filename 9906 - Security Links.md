@@ -206,7 +206,7 @@
 <li><a href="http://t.co/HjVVa6vi" time_added="1356885103" tags="">datachick: Exclusive: Hacker nabs 3m Verizon customer records http://t.co/H</a></li>
 
 
-#### Lenovo / Superfish
+#### Lenovo / Superfish / Dell
 
 * http://www.wired.com/2015/02/lenovo-superfish/
 * http://blog.atomicinc.com/2015/02/20/superfish-or-stupidfish-2323/
@@ -219,6 +219,7 @@
 * http://arstechnica.com/security/2015/02/still-smarting-from-https-busting-superfish-debacle-lenovo-says-sorry/
 * http://qntra.net/2015/02/the-superfish-funder-list/
 * http://www.extremetech.com/computing/199843-lenovo-falls-on-its-sword-as-superfish-impact-spreads
+* http://arstechnica.com/security/2015/11/dell-does-superfish-ships-pcs-with-self-signed-root-certificates/
 
 
 

@@ -1,4 +1,4 @@
-**# Health
+# Health
 
 
 
@@ -8,6 +8,7 @@
 * http://well.blogs.nytimes.com/2015/10/27/cutting-sugar-improves-childrens-health-in-just-10-days/
 * http://nautil.us/issue/30/identity/how-the-western-diet-has-derailed-our-evolution
 * http://www.independent.co.uk/life-style/health-and-families/health-news/saturated-fats-in-meat-and-dairy-produce-not-as-bad-for-health-as-previously-thought-study-finds-10450663.html
+* http://news.meta.com/2015/11/19/cell-nutrition-is-personal-identical-foods-produce-healthy-and-unhealthy-responses-in-different-individuals/
 * http://www.nytimes.com/2015/11/01/magazine/bread-is-broken.html
 * https://www.reddit.com/r/Fitness/comments/2yn1qv/a_simple_diet_trick_ive_learned_from_trimming/
 * https://en.wikipedia.org/wiki/Grapefruit%E2%80%93drug_interactions
@@ -315,7 +316,9 @@ pandemic-20150311-story.html
 * http://www.nakedcapitalism.com/2015/11/matthew-cunningham-cook-how-the-tpp-will-create-a-medical-privacy-hellscape.html
 
 
+#### Too Much Medicine, Adverse Outcomes
 
+* http://www.nytimes.com/2015/11/22/opinion/sunday/are-good-doctors-bad-for-your-health.html
 
 
 

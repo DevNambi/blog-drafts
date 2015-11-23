@@ -107,6 +107,7 @@ Industries
 * http://www.nakedcapitalism.com/2013/10/ethics-and-complex-systems.html
 * https://nplusonemag.com/online-only/help-desk/bank-robbin-in-brooklyn/
 * http://www.npr.org/2015/06/03/411524156/in-search-of-the-red-cross-500-million-in-haiti-relief
+* http://www.yesmagazine.org/new-economy/after-decades-in-a-food-desert-these-neighbors-build-a-2-million-co-op-and-they-own-it-20151112
 * http://www.nytimes.com/2015/09/24/opinion/volkswagen-and-the-era-of-cheating-software.html
 * http://sethbannon.com/biotech-in-the-garage
 * http://berkeleyjournal.org/2015/01/morality-and-the-idea-of-progress-in-silicon-valley/

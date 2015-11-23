@@ -34,6 +34,7 @@
 * http://www.seattletimes.com/nation-world/us-lets-in-thai-fish-caught-by-slaves-despite-law-2/
 * http://www.nytimes.com/2015/02/08/magazine/the-shame-of-americas-family-detention-camps.html
 * http://www.latimes.com/nation/la-na-hastert-misconduct-20150529-story.html <- happening during the Clinton impeachment, cynically enough
+* https://www.washingtonpost.com/news/wonk/wp/2015/11/23/cops-took-more-stuff-from-people-than-burglars-did-last-year/
 * http://www.cio.com/article/2919053/lawmakers-want-to-protect-the-online-freedom-to-yelp.html
 * http://www.nybooks.com/articles/archives/2015/feb/19/james-risen-reporter-resists-his-government/
 * http://thinkprogress.org/climate/2015/02/23/3625717/duke-energy-coal-ash-charges/
