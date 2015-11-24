@@ -31,6 +31,8 @@
 * http://wolfstreet.com/2015/10/19/global-demand-rampant-overcapacity-china-containerized-freight-index-ccfi-collapses-worst-level-ever/
 * http://wolfstreet.com/2015/10/25/china-containerized-freight-index-ccfi-shanghai-scfi-drop-to-new-lows/
 * http://www.nakedcapitalism.com/2015/11/ilargi-the-great-fall-of-china-started-at-least-4-years-ago.html
+* http://www.themoneyillusion.com/?p=31322
+
 
 
 ## Europe

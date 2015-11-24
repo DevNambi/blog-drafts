@@ -435,6 +435,7 @@
 * http://techeffigy.wordpress.com/2014/06/30/markov-chains-explained/
 * http://liljonnystyle.blogspot.com/2014/05/markov-where-are-my-umbrellas.html
 * http://twiecki.github.com/blog/2015/11/10/mcmc-sampling/
+* https://www.countbayesie.com/blog/2015/11/21/the-black-friday-puzzle-understanding-markov-chains
 
 
 
@@ -732,6 +733,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://strata.oreilly.com/2014/02/extending-graphlab-to-tables.html
 * https://influxdb.com/docs/v0.9/concepts/storage_engine.html
 * http://insightdataengineering.com/blog/new-ecosystem/
+* http://www.slideshare.net/xamat/10-more-lessons-learned-from-building-machine-learning-systems <- highly recommended by various ML folks on Twitter
 
 
 #### MapReduce, Hadoop, Hive
@@ -848,6 +850,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://medium.com/engineering-at-ifttt/data-infrastructure-at-ifttt-35414841f9b5
 * https://www.reddit.com/r/science/comments/2teeeg/science_ama_series_we_are_moore_investigators_and/
 * http://news.mit.edu/2015/automating-big-data-analysis-1016 <- wow, I want this
+* http://simplystatistics.org/2015/11/24/20-years-of-data-science-and-data-driven-discovery-from-music-to-genomics/
 
 
 
