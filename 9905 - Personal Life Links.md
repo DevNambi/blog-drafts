@@ -308,6 +308,7 @@
 * http://seattletimes.com/html/localnews/2025481542_westneat18xml.html
 * http://seattletimes.com/html/localnews/2025494924_citywalkoutxml.html
 * http://www.seattletimes.com/seattle-news/data/priced-out-has-the-king-county-diaspora-begun/
+* http://www.bizjournals.com/seattle/blog/2015/11/bad-timingas-thousands-of-new-apartments-open.html
 
 
 

@@ -46,6 +46,7 @@ Only use active verbs.
 * http://www.artofmanliness.com/2012/08/22/how-to-make-small-talk/
 * http://www.washingtonpost.com/posteverything/wp/2015/05/26/powerpoint-should-be-banned-this-powerpoint-presentation-explains-why/
 * http://paulgraham.com/talk.html
+* http://blog.statuspage.io/why-public-apologies-suck
 
 
 Blog meta

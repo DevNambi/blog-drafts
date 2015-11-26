@@ -70,6 +70,8 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://news.stanford.edu/news/2015/november/fraud-science-papers-111615.html
 * http://arstechnica.com/science/2015/11/federal-funding-drop-sending-universities-scrambling-to-pay-for-research/
 * http://www.compoundchem.com/2014/09/08/antibiotics/
+* http://www.sciencealert.com/the-tardigrade-genome-has-been-sequenced-and-it-has-the-most-foreign-dna-of-any-animal
+* http://calnewport.com/blog/2015/11/25/the-feynman-notebook-method/
 
 
 <li><a href="http://www.infoworld.com/d/big-data/astronomers-crunch-big-data-map-the-galaxies-209573" time_added="1357233706" tags="big data,cloud,data science,ml">Astronomers crunch big data to map the galaxies | Big Data - InfoWorld</a></li>
