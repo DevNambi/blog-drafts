@@ -372,6 +372,7 @@
 * http://www.hokstad.com/docker/patterns
 * https://www.backblaze.com/blog/petabytes-on-a-budget-how-to-build-cheap-cloud-storage-2/
 * http://www.cringely.com/2015/04/27/aws-shows-cloud-is-not-a-high-margin-business/
+* http://techcrunch.com/2015/11/24/aws-lamda-makes-serverless-applications-a-reality/
 * http://techcrunch.com/2015/04/20/microsoft-announces-azure-service-fabric-a-new-framework-for-building-scalable-cloud-services/
 * http://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time
 * http://www.extremetech.com/mobile/204340-did-tsmcs-20nm-process-harm-qualcomms-snapdragon-810
@@ -550,6 +551,7 @@
 <li><a href="http://lifehacker.com/5942417/chocolatey-brings-lightning-quick-linux+style-package-management-to-windows" time_added="1362663477" tags="personal tech">Chocolatey Brings Lightning Quick, Linux-Style Package Management to Window</a></li>
 <li><a href="http://www.theregister.co.uk/2013/03/08/modernmix_saves_windows8/" time_added="1363100151" tags="personal tech">Here's the $4.99 utility that might just have saved Windows 8 • The Registe</a></li>
 
+Microsoft and other third-party developers have a huge problem: they don't listen to their customers (developers), and the resulting frustrating means people use other, easier-to-use stacks whenever possible.
 
 
 

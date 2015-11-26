@@ -257,6 +257,7 @@
 * http://www.nytimes.com/2015/10/22/business/international/european-inquiry-focuses-on-a-mysterious-starbucks-business.html
 * http://www.nakedcapitalism.com/2015/11/calpers-hired-a-fiduciary-counsel-accused-of-serious-misconduct-over-more-than-a-decade-including-kick-backs-failure-to-disclose-conflicts-of-interest.html
 * http://www.nakedcapitalism.com/2015/11/calpers-debunks-private-equity-executive-summary.html
+* http://www.nakedcapitalism.com/2015/11/calpers-staff-tainted-fiduciary-counsel-argue-to-weaken-board-oversight-by-reducing-number-of-board-meetings.html
 
 
 

@@ -56,6 +56,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job">An Unconventional Guide for Getting a Software Engineering Job</a></li>
 <li><a href="http://www.sciencedaily.com/releases/2015/11/151106113840.htm">Cancer survivors less likely to receive callbacks from potential employers</a></li>
 <li><a href="http://ozar.me/2015/11/what-do-people-pay-you-for/">What Do People Pay You For?</a></li>
+<li><a href="http://blog.stackoverflow.com/2015/11/how-to-be-awesome-part-2/">How to Be Awesome</a></li>
 </ul>
 
 

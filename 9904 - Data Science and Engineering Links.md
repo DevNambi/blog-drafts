@@ -226,6 +226,9 @@
 * http://www.datascienceassn.org/content/demand-data-scientists-data-engineers
 * http://www.bloomberg.com/news/articles/2015-06-04/help-wanted-black-belts-in-data
 * http://treycausey.com/data_science_interviews.html
+* https://www.oreilly.com/ideas/what-to-look-for-in-a-data-scientist
+
+@tdhopper - " Data scientists: "The hard part is data collection, cleaning, and problem formulation." D.S. giving an interview: "Tell me about math." "
 
 
 **Hiring at Dropbox**

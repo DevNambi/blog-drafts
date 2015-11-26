@@ -97,6 +97,7 @@
 * http://www.openculture.com/2015/08/the-new-york-times-makes-17000-tasty-recipes-available-online.html
 * http://www.bbc.com/news/health-34615621
 * http://www.nytimes.com/2009/07/22/dining/22mlist.html <- 100 great salads
+* http://www.theatlantic.com/entertainment/archive/2015/11/the-myth-of-easy-cooking/417384/
 
 
 
@@ -273,6 +274,7 @@
 #### Diabetes
 
 * http://www.wired.com/2014/12/diabetes-patients-hacking-together-diy-bionic-pancreases/
+* http://www.fastcoexist.com/3052935/the-latest-breakthrough-in-understanding-diabetes-was-made-by-an-algorithm
 
 #### Alzheimers, MS
 
@@ -639,6 +641,7 @@ pandemic-20150311-story.html
 * http://www.nytimes.com/2015/08/03/us/health-providers-brace-for-more-cuts-to-medicare-in-puerto-rico.html
 * http://arstechnica.com/science/2015/11/doctors-urge-feds-to-nix-mergers-between-giant-health-insurers/
 * http://2015.padjo.org/tutorials/sql-walks/exploring-wsj-medicare-investigation-with-sql/ <- AMAZING
+* http://arstechnica.com/science/2015/11/750pill-pharma-company-reverses-decision-to-lower-drug-price/ <- define:scum
 
 <li><a href="http://t.co/IG6Jdn4S" time_added="1357788683" tags="">lazowska: NY Times: US is an outlier in relying on the private sector to fu</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/11/another-lurking-obamacare-problem-balance-billing.html" time_added="1384907393" tags="corruption,finance,health,important,to_read">Another Lurking Obamacare Problem: Balance Billing « naked capitalism</a></li>
