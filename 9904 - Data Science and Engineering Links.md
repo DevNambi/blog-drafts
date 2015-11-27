@@ -152,6 +152,7 @@
 * http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf
 * http://jakevdp.github.io/blog/2012/10/07/xkcd-style-plots-in-matplotlib/
 * http://blog.insightdatalabs.com/advanced-functionality-in-seaborn/
+* https://colah.github.io/posts/2015-01-Visualizing-Representations/
 
 #### D3 and related
 
@@ -300,6 +301,9 @@
 * https://speakerdeck.com/jakevdp/statistics-for-hackers <- AMAZING
 * http://priceonomics.com/the-discovery-of-statistical-regression/
 * http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb <- AMAZING
+
+
+"Remember, nonlinear interactions, and non-Gaussian distributions are the most common. "
 
 
 ## ML / AI
