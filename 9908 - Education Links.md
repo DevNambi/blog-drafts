@@ -692,6 +692,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://m.cacm.acm.org/magazines/2015/10/192385-life-after-moocs/fulltext
 * http://nautil.us/issue/29/scaling/why-virtual-classes-can-be-better-than-real-ones
 * https://medium.com/@cshirky/the-digital-revolution-in-higher-education-has-already-happened-no-one-noticed-78ec0fec16c7
+* https://medium.com/@robconery/how-udemy-is-profiting-from-piracy-5638b929ffca
 
 
 

@@ -858,6 +858,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://www.reddit.com/r/science/comments/2teeeg/science_ama_series_we_are_moore_investigators_and/
 * http://news.mit.edu/2015/automating-big-data-analysis-1016 <- wow, I want this
 * http://simplystatistics.org/2015/11/24/20-years-of-data-science-and-data-driven-discovery-from-music-to-genomics/
+* http://techcrunch.com/2015/11/26/machine-intelligence-in-the-real-world/
 
 
 

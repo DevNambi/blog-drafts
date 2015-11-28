@@ -276,6 +276,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="https://medium.com/backchannel/how-can-we-achieve-age-diversity-in-silicon-valley-11a847cb37b7">How Can We Achieve Age Diversity in Silicon Valley?</a></li>
 <li><a href="http://www.newrepublic.com/article/117088/silicons-valleys-brutal-ageism">The Brutal Ageism of Tech</a></li>
 <li><a href="http://www.theguardian.com/commentisfree/2015/oct/25/women-men-work-children-career-manwhohasitall">So is fatherhood the end of a man’s career prospects?</a></li>
+<li><a href="http://www.fastcompany.com/3052877/techs-big-gender-diversity-push-one-year-in">Tech's Big Gender Diversity Push, One Year In</a></li>
 </ul>
 
 **The 'STEM' shortage, and H1B Visas**
