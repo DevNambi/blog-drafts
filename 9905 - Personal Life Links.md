@@ -62,7 +62,7 @@
 * http://www.newrepublic.com/article/120939/maternity-leave-policies-america-hurt-working-moms
 * http://solveforinteresting.com/offspring-edited/
 * https://medium.com/re-form/simcity-that-i-used-to-know-d5d8c49e3e1d
-* http://well.blogs.nytimes.com/2014/10/20/sleep-for-teenagers/?_php=true&_type=blogs&_r=0
+* http://well.blogs.nytimes.com/2014/10/20/sleep-for-teenagers/
 * http://mobile.nytimes.com/2014/11/16/fashion/the-brotherhood-of-the-stay-at-home-dad.html
 * http://www.theatlantic.com/magazine/archive/2013/07/how-long-can-you-wait-to-have-a-baby/309374/2/
 * http://www.newyorker.com/books/page-turner/the-two-asian-americas
@@ -71,6 +71,7 @@
 * http://www.huffingtonpost.com/kelly-pietrangeli/how-to-get-your-child-to-listen-to-you-the-first-time_b_6572268.html
 * http://www.nytimes.com/2015/05/10/opinion/sunday/judith-shulevitz-mom-the-designated-worrier.html
 * http://qz.com/405960/most-children-are-happy-no-matter-what-but-materialism-catches-up-eventually/
+* https://www.washingtonpost.com/news/answer-sheet/wp/2015/11/24/how-twisted-early-childhood-education-has-become-from-a-child-development-expert/
 
 <li><a href="http://www.economist.com/news/united-states/21608779-there-large-class-divide-how-americans-raise-their-children-rich-parents-can" time_added="1406589833" tags="">Parenting in America: Choose your parents wisely | The Economist</a><li>
 <li><a href="http://www.nytimes.com/2014/01/15/us/as-asian-americans-age-their-children-face-cultural-hurdles.html?hp&_r=0" time_added="1389749845" tags="">As Parents Age, Asian-Americans Struggle to Obey A Cultural Code - NYTimes.</a><li>
