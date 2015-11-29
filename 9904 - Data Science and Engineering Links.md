@@ -51,6 +51,8 @@
 * http://engineering.pinterest.com/post/109318939139/demystifying-seo-with-experiments
 * http://googleresearch.blogspot.com/2015/03/large-scale-machine-learning-for-drug.html
 
+
+
 ### Open Data
 
 <li><a href="http://mathbabe.org/2012/12/29/open-data-is-not-a-panacea/" time_added="1356836290" tags="data science,hn,important">Open data is not a panacea « mathbabe</a></li>
@@ -94,11 +96,16 @@
 * http://jmcauley.ucsd.edu/data/amazon/
 
 
+
+
 ## Data Cleaning/Munging
 
 <li><a href="http://code.google.com/p/google-refine/" time_added="1349104008" tags="data science">google-refine - Google Refine, a power tool for working with messy data (fo</a></li>
 <li><a href="http://vis.stanford.edu/wrangler/" time_added="1349104004" tags="data science">Data Wrangler</a></li>
 * http://radar.oreilly.com/2014/10/challenges-facing-predictive-apis.html
+
+
+
 
 ## Data Viz
 
@@ -206,10 +213,14 @@
 * http://tableaulove.tumblr.com/post/100325738425/which-ec2-instance-type-should-i-run-tableau-server-on
 * http://tableaulove.tumblr.com/post/101512010275/which-aws-ec2-instance-type-should-i-run-tableau-server
 
+
+
 ## Developer Help
 
 <li><a href="http://dennyglee.com/2012/05/08/installing-hadoop-on-osx-lion-10-7/" time_added="1348860726" tags="big data,data science">Installing Hadoop on OSX Lion (10.7) « Denny Lee</a></li>
 <li><a href="http://blog.andrewhays.net/love-your-terminal" time_added="1354290033" tags="data science,personal tech">Love Your Terminal - Programming and Productivity</a></li>
+
+
 
 ## Hiring/Firing
 
@@ -239,6 +250,8 @@
 * Any two hours you want, whatever tools you want
 * Present at the end of it.
 * Key to make money in life: people will pay you money to do things they find tedious and boring and un-fun. Do it, and that's your career.
+
+
 
 ## Stats and Metrics
 
@@ -304,7 +317,9 @@
 * http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb <- AMAZING
 
 
-"Remember, nonlinear interactions, and non-Gaussian distributions are the most common. "
+"Remember, nonlinear interactions, and non-Gaussian distributions are common. "
+
+
 
 
 ## ML / AI
@@ -592,6 +607,8 @@
 * https://blog.onliquid.com/machine-learning-service-benchmark/
 * blog.dato.com/a-hyperparameter-search-tool-built-for-data-science
 
+
+
 ## Learning
 
 <li><a href="http://www-nlp.stanford.edu/IR-book/" time_added="1356708613" tags="data science,ml">Introduction to Information Retrieval</a></li>
@@ -635,6 +652,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://blog.datadive.net/7-tools-in-every-data-scientists-toolbox/
 
 
+
 ## Funny
 
 * http://www.bigdata-madesimple.com/dilberts-20-funniest-cartoons-on-big-data/
@@ -642,6 +660,8 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://bigdatapix.tumblr.com/
 * Storytelling w/ data - Precision bullsh*tting
 * http://www.kdnuggets.com/2015/08/gartner-2015-hype-cycle-big-data-is-out-machine-learning-is-in.html
+
+
 
 ## Data Adoption and Data-Friendly Organizations
 
@@ -668,6 +688,10 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://blog.dominodatalab.com/pyspark-on-domino/
 * http://sloanreview.mit.edu/article/why-managing-data-scientists-is-different/
 * https://www.linkedin.com/pulse/cargo-cult-data-science-george-roumeliotis
+
+
+
+
 
 ## Data Stacks, Engineering
 
