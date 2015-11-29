@@ -117,6 +117,8 @@
 * http://scattered-thoughts.net/blog/2015/10/25/complexity-budgets/
 * http://www.daedtech.com/how-to-address-your-coworkers-bad-code-part-1
 * http://blog.codinghorror.com/code-reviews-just-do-it/
+* http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-%E2%80%9Cspaghetti%E2%80%9D-code?
+* http://www.safetyresearch.net/blog/articles/software-promises-and-perils
 
 
 ## Learning to Code

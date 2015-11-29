@@ -442,6 +442,7 @@
 * http://www.randalolson.com/2015/11/15/introducing-tpot-the-data-science-assistant/
 * http://www.inference.vc/how-to-train-your-generative-models-why-generative-adversarial-networks-work-so-well-2/
 * http://educationoutrage.blogspot.com/2015/11/the-fraudulent-claims-made-by-ibm-about.html
+* http://willmcginnis.com/2015/11/29/beyond-one-hot-an-exploration-of-categorical-variables/
 
 
 
