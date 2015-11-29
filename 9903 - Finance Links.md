@@ -33,6 +33,7 @@
 * http://www.nakedcapitalism.com/2015/11/ilargi-the-great-fall-of-china-started-at-least-4-years-ago.html
 * http://www.themoneyillusion.com/?p=31322
 * http://www.reuters.com/article/2015/11/27/us-global-markets-idUSKBN0TG02420151127
+* http://www.nytimes.com/2015/11/29/business/international/chinese-cash-floods-us-real-estate-market.html
 
 
 
@@ -260,6 +261,7 @@
 * http://www.nakedcapitalism.com/2015/11/calpers-hired-a-fiduciary-counsel-accused-of-serious-misconduct-over-more-than-a-decade-including-kick-backs-failure-to-disclose-conflicts-of-interest.html
 * http://www.nakedcapitalism.com/2015/11/calpers-debunks-private-equity-executive-summary.html
 * http://www.nakedcapitalism.com/2015/11/calpers-staff-tainted-fiduciary-counsel-argue-to-weaken-board-oversight-by-reducing-number-of-board-meetings.html
+* http://www.commondreams.org/news/2015/11/27/exposed-full-range-collusion-between-big-oil-and-ttip-trade-reps
 
 
 

@@ -226,6 +226,7 @@
 * http://mashable.com/2015/05/07/hiring-a-data-scientist/
 * http://www.datascienceassn.org/content/demand-data-scientists-data-engineers
 * http://www.bloomberg.com/news/articles/2015-06-04/help-wanted-black-belts-in-data
+* http://quantjob.blogspot.com/2011/12/how-to-avoid-quantdeveloper-black-hole.html
 * http://treycausey.com/data_science_interviews.html
 * https://www.oreilly.com/ideas/what-to-look-for-in-a-data-scientist
 
