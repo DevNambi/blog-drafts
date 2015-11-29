@@ -121,6 +121,7 @@
 * http://www.truste.com/us-consumer-confidence-index-2015/
 * http://www.theguardian.com/media/2014/oct/17/-sp-whisper-tracking-location-users-facts-response
 * https://medium.com/backchannel/how-bitcoins-blockchain-could-power-an-alternate-internet-bb501855af67
+* https://www.perfect-privacy.com/blog/2015/11/26/ip-leak-vulnerability-affecting-vpn-providers-with-port-forwarding/
 * http://media.ccc.de/browse/congress/2014/31c3_-_6258_-_en_-_saal_1_-_201412282030_-_reconstructing_narratives_-_jacob_-_laura_poitras.html#video
 * http://arstechnica.com/tech-policy/2015/01/going-postal-reporter-sues-government-for-spying-from-usps-network/
 * http://www.theverge.com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-you

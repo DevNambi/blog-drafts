@@ -56,6 +56,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job">An Unconventional Guide for Getting a Software Engineering Job</a></li>
 <li><a href="http://www.sciencedaily.com/releases/2015/11/151106113840.htm">Cancer survivors less likely to receive callbacks from potential employers</a></li>
 <li><a href="http://ozar.me/2015/11/what-do-people-pay-you-for/">What Do People Pay You For?</a></li>
+<li><a href="http://blog.stackoverflow.com/2015/11/how-to-be-awesome-part-2/">How to Be Awesome</a></li>
 </ul>
 
 
@@ -275,6 +276,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="https://medium.com/backchannel/how-can-we-achieve-age-diversity-in-silicon-valley-11a847cb37b7">How Can We Achieve Age Diversity in Silicon Valley?</a></li>
 <li><a href="http://www.newrepublic.com/article/117088/silicons-valleys-brutal-ageism">The Brutal Ageism of Tech</a></li>
 <li><a href="http://www.theguardian.com/commentisfree/2015/oct/25/women-men-work-children-career-manwhohasitall">So is fatherhood the end of a man’s career prospects?</a></li>
+<li><a href="http://www.fastcompany.com/3052877/techs-big-gender-diversity-push-one-year-in">Tech's Big Gender Diversity Push, One Year In</a></li>
 </ul>
 
 **The 'STEM' shortage, and H1B Visas**

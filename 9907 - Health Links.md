@@ -98,6 +98,7 @@
 * http://www.openculture.com/2015/08/the-new-york-times-makes-17000-tasty-recipes-available-online.html
 * http://www.bbc.com/news/health-34615621
 * http://www.nytimes.com/2009/07/22/dining/22mlist.html <- 100 great salads
+* http://www.theatlantic.com/entertainment/archive/2015/11/the-myth-of-easy-cooking/417384/
 
 
 
@@ -274,6 +275,7 @@
 #### Diabetes
 
 * http://www.wired.com/2014/12/diabetes-patients-hacking-together-diy-bionic-pancreases/
+* http://www.fastcoexist.com/3052935/the-latest-breakthrough-in-understanding-diabetes-was-made-by-an-algorithm
 
 #### Alzheimers, MS
 
@@ -413,6 +415,7 @@ pandemic-20150311-story.html
 * http://www.wired.com/2015/01/2015-diseases-borders/
 * http://www.newscientist.com/article/mg22730284.000-antibody-wipeout-relieves-symptoms-of-chronic-fatigue-syndrome.html <- chronic fatigue syndrome
 * http://www.bloomberg.com/news/articles/2015-07-30/warren-buffett-s-family-secretly-funded-a-birth-control-revolution
+* http://hcrenewal.blogspot.com/2015/11/ross-koppel-challenges-feckless.html
 
 
 <li><a href="http://www.theatlantic.com/national/archive/2014/01/the-missing-voices-in-the-contraception-mandate-cases/283452/" time_added="1391151159" tags="">The Missing Voices in the Contraception Mandate Cases - Garrett Epps - The </a></li>
@@ -640,6 +643,7 @@ pandemic-20150311-story.html
 * http://www.nytimes.com/2015/08/03/us/health-providers-brace-for-more-cuts-to-medicare-in-puerto-rico.html
 * http://arstechnica.com/science/2015/11/doctors-urge-feds-to-nix-mergers-between-giant-health-insurers/
 * http://2015.padjo.org/tutorials/sql-walks/exploring-wsj-medicare-investigation-with-sql/ <- AMAZING
+* http://arstechnica.com/science/2015/11/750pill-pharma-company-reverses-decision-to-lower-drug-price/ <- define:scum
 
 <li><a href="http://t.co/IG6Jdn4S" time_added="1357788683" tags="">lazowska: NY Times: US is an outlier in relying on the private sector to fu</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/11/another-lurking-obamacare-problem-balance-billing.html" time_added="1384907393" tags="corruption,finance,health,important,to_read">Another Lurking Obamacare Problem: Balance Billing « naked capitalism</a></li>
@@ -817,6 +821,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://www.nytimes.com/2013/01/06/realestate/relocation-therapy.html
 * http://arstechnica.com/tech-policy/2015/03/top-uk-doctors-call-for-ban-on-inherently-risky-fracking/
 * http://www.thedailybeast.com/articles/2014/07/21/drums-aren-t-just-for-music-they-re-therapy-too.html
+* http://www.nytimes.com/2015/11/29/opinion/sunday/contaminating-our-bodies-with-everyday-products.html
 
 
 

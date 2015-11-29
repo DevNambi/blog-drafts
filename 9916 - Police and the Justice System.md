@@ -51,6 +51,7 @@
 * http://arstechnica.com/tech-policy/2015/06/lapd-officer-convicted-in-videotaped-beating-of-handcuffed-suspect/
 * http://mobile.nytimes.com/2015/05/19/us/politics/obama-to-limit-military-style-equipment-for-police-forces.html?_r=0
 * http://www.seattletimes.com/seattle-news/northwest/tacoma-ice-center-faces-new-criticism-over-alleged-beating/
+* https://medium.com/backchannel/arresting-crime-before-it-happens-6cc8ad24d0e3 <- the overfitting problem, ooft.
 * http://fusion.net/story/173234/native-american-activist-rexdale-henry-found-dead-jail/
 * http://www.alternet.org/civil-liberties/alabama-police-officer-kept-his-job-after-proposal-murder-black-man-and-hide
 * http://mashable.com/2015/06/07/texas-cop-video/
@@ -326,6 +327,7 @@
 * http://www.msnbc.com/msnbc/family-outraged-after-finding-police-using-mug-shots-target-practice <- WOW, CIVIL RIGHTS LAWSUIT
 * http://www.salon.com/2015/01/20/supreme_court_is_clueless_about_cops_how_they_help_police_prey_on_poor_people/
 * https://twitter.com/adamjohnsonNYC/status/562482821781274624/photo/1 <- dissent, wanting to change the status quo, is now treated as 'terrorism'
+* http://www.nytimes.com/2015/11/27/opinion/how-to-prosecute-abusive-prosecutors.html
 
 <li><a href="http://www.vanityfair.com/online/daily/2014/08/veterans-ferguson-matthew-farwell" time_added="1408368336" tags="">What Combat Veterans See in Ferguson, Missouri | Vanity Fair</a></li>
 <li><a href="http://www.newyorker.com/news/news-desk/movement-grows-ferguson" time_added="1408332563" tags="">Hot damn this @jelani9 piece on the movement in #Ferguson is a masterwork. </a></li>

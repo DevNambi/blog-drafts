@@ -32,6 +32,8 @@
 * http://wolfstreet.com/2015/10/25/china-containerized-freight-index-ccfi-shanghai-scfi-drop-to-new-lows/
 * http://www.nakedcapitalism.com/2015/11/ilargi-the-great-fall-of-china-started-at-least-4-years-ago.html
 * http://www.themoneyillusion.com/?p=31322
+* http://www.reuters.com/article/2015/11/27/us-global-markets-idUSKBN0TG02420151127
+* http://www.nytimes.com/2015/11/29/business/international/chinese-cash-floods-us-real-estate-market.html
 
 
 
@@ -156,6 +158,7 @@
 * http://www.zerohedge.com/news/2015-10-19/traders-are-panic-selling-t-bills-after-jack-lew-warns-terrible-debt-limit-accident
 * http://www.theatlantic.com/magazine/archive/2015/05/can-bankers-behave/389558/
 * http://www.bloomberg.com/news/articles/2015-11-15/debt-market-distortions-go-global-as-nothing-makes-sense-anymore
+* http://www.theguardian.com/news/2015/nov/27/hsbc-whistleblower-jailed-five-years-herve-falciani
 * http://www.theatlantic.com/magazine/archive/2015/05/bank-of-the-underworld/389555/
 * http://www.nakedcapitalism.com/2015/11/foreign-banks-such-as-deutsche-using-variant-of-lehman-repo-105-balance-sheet-tarting-up-strategy.html
 * http://www.telegraph.co.uk/finance/libor-scandal/11684438/Libor-trial-Hayes-handed-over-a-UBS-instruction-manual-on-rigging-prosecution-says.html
@@ -257,6 +260,8 @@
 * http://www.nytimes.com/2015/10/22/business/international/european-inquiry-focuses-on-a-mysterious-starbucks-business.html
 * http://www.nakedcapitalism.com/2015/11/calpers-hired-a-fiduciary-counsel-accused-of-serious-misconduct-over-more-than-a-decade-including-kick-backs-failure-to-disclose-conflicts-of-interest.html
 * http://www.nakedcapitalism.com/2015/11/calpers-debunks-private-equity-executive-summary.html
+* http://www.nakedcapitalism.com/2015/11/calpers-staff-tainted-fiduciary-counsel-argue-to-weaken-board-oversight-by-reducing-number-of-board-meetings.html
+* http://www.commondreams.org/news/2015/11/27/exposed-full-range-collusion-between-big-oil-and-ttip-trade-reps
 
 
 

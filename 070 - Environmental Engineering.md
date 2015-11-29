@@ -14,6 +14,8 @@ tags:
 ---
 
 
+* http://worrydream.com/ClimateChange/ <- best link so far
+
 ### Introduction to Climate Change
 
 * It's anthropogenic.
@@ -193,6 +195,7 @@ Emphasize what we don't know
 * http://mobile.nytimes.com/2015/04/04/us/as-quakes-rattle-oklahoma-fingers-point-to-oil-and-gas-industry.html?_r=0
 * http://seattletimes.com/html/localnews/2025709135_oceanxprizexml.html
 * http://www.lowtechmagazine.com/2015/02/heating-people-not-spaces.html
+* http://mobile.nytimes.com/2015/11/26/world/americas/in-guatemala-people-living-off-forests-are-tasked-with-protecting-them.html
 * http://www.nytimes.com/2014/04/20/magazine/its-the-end-of-the-world-as-we-know-it-and-he-feels-fine.html?hp&_r=0
 * http://www.theatlantic.com/politics/archive/2014/04/republicans-framing-climate-change/360911/
 * http://www.bbc.com/news/science-environment-31434030
@@ -206,6 +209,7 @@ Emphasize what we don't know
 * http://blogs.nature.com/news/2014/09/ahead-of-un-summit-chances-dwindle-to-keep-warming-at-bay.html
 * http://www.nytimes.com/2014/09/25/opinion/gail-collins-the-politics-of-climate-change.html
 * http://www.extremetech.com/extreme/191754-cold-fusion-reactor-verified-by-third-party-researchers-seems-to-have-1-million-times-the-energy-density-of-gasoline
+* http://www.nytimes.com/2015/12/01/science/electric-car-auto-dealers.html
 * http://planetsave.com/2014/12/28/solar-power-storage-prices-drop-germany/
 * http://arstechnica.com/science/2014/10/lovely-grub-are-insects-the-future-of-food/1/
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2014/12/18/heres-the-grassroots-political-story-behind-the-new-york-fracking-ban/

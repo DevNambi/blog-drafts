@@ -253,6 +253,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://turcopolier.typepad.com/sic_semper_tyrannis/2015/10/russian-jamming-system-blocks-all-nato-electronics-inside-bubble-600-km-in-diameter-over-syria-ttg.html
 * http://www.telegraph.co.uk/news/worldnews/europe/russia/11944219/Russia-builds-massive-Arctic-military-base.html
 * http://www.cbsnews.com/news/american-amir-meshal-cant-sue-fbi-over-abuse-claims-federal-appeals-court-says/ <- this is completely fucked up
+* http://www.nakedcapitalism.com/2015/11/turkeys-shootdown-of-russian-jet-what-you-need-to-know.html
 
 
 
@@ -392,6 +393,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://americablog.com/2015/08/mathematician-actual-voter-fraud-kansas-republicans.html
 * http://qz.com/520652/groundwork-eric-schmidt-startup-working-for-hillary-clinton-campaign/
 * http://www.nytimes.com/2015/10/17/us/politics/filings-reveal-hillary-clinton-leads-money-race.html
+* https://theintercept.com/2015/11/24/lobbyists-refugee-crisis/
 
 
 
