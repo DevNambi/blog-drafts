@@ -11,6 +11,7 @@
 * http://news.meta.com/2015/11/19/cell-nutrition-is-personal-identical-foods-produce-healthy-and-unhealthy-responses-in-different-individuals/
 * http://www.nytimes.com/2015/11/01/magazine/bread-is-broken.html
 * https://www.reddit.com/r/Fitness/comments/2yn1qv/a_simple_diet_trick_ive_learned_from_trimming/
+* https://www.washingtonpost.com/news/to-your-health/wp/2015/11/20/the-diet-study-that-upends-everything-we-thought-we-knew-about-healthy-food/
 * https://en.wikipedia.org/wiki/Grapefruit%E2%80%93drug_interactions
 * http://www.truth-out.org/news/item/31193-four-decades-of-the-wrong-dietary-advice-has-paved-the-way-for-the-diabetes-epidemic-time-to-change-course
 * http://www.bloombergview.com/articles/2015-10-30/friday-food-post-the-economics-behind-grandma-s-tuna-casseroles
