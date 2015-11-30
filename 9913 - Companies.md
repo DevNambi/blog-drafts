@@ -276,13 +276,18 @@
 * http://www.theguardian.com/commentisfree/2015/nov/06/twitter-teetering-pyramid-scheme-social-media
 
 
+## Vehicle Companies
 
+* http://arstechnica.com/cars/2015/11/vw-execs-reportedly-knew-about-fuel-economy-and-emissions-cheating-a-year-ago/
+* http://www.nytimes.com/2015/04/16/business/general-motors-wins-ruling-shielding-it-from-most-claims-over-ignition-flaw.html
+* https://hbr.org/2015/03/gms-stock-buyback-is-bad-for-america-and-the-company
+* http://www.nytimes.com/2015/06/23/business/takata-is-said-to-have-stopped-safety-audits-as-cost-saving-move.html
+* http://www.reuters.com/article/2015/09/23/us-usa-volkswagen-researchers-idUSKCN0RM2D720150923
 
 
 ## Misc
 
 * http://www.reuters.com/article/2014/11/16/us-usa-chemicals-death-idUSKCN0J001B20141116
-* http://www.nytimes.com/2015/04/16/business/general-motors-wins-ruling-shielding-it-from-most-claims-over-ignition-flaw.html
 * https://www.reddit.com/r/AskReddit/comments/2we28r/what_is_a_dirty_little_or_big_secret_about_an/
 * http://www.inc.com/magazine/20090101/and-the-money-comes-rolling-in.html
 * http://www.theatlantic.com/business/archive/2015/04/why-the-nfl-decided-to-start-paying-taxes/391742/
@@ -293,7 +298,6 @@
 * http://www.komonews.com/news/business/Railroads-seek-one-person-crews-for-freight-trains-286586911.html
 * http://pando.com/2014/11/26/how-comcast-and-hp-are-corrupting-elections-in-america/
 * https://medium.com/@ralf/4-reasons-why-we-are-leaving-dropbox-126e79f3a49
-* https://hbr.org/2015/03/gms-stock-buyback-is-bad-for-america-and-the-company
 * http://www.foreignaffairs.com/articles/142497/james-bessen/the-anti-innovators
 * http://mashable.com/2014/12/03/history-of-reddit/
 * http://www.bbc.com/news/business-30532463
@@ -301,12 +305,10 @@
 * http://www.wired.com/2015/03/etsy-lost-soul-doesnt-matter-ipo/
 * http://www.aftenposten.no/webtv/serier-og-programmer/sweatshopenglish/TRAILER-SWEATSHOP---I-cant-take-any-more-7800835.html
 * http://www.washingtonpost.com/blogs/the-switch/wp/2015/06/03/a-horrible-new-paypal-policy-opts-you-into-getting-robocalls/
-* http://www.nytimes.com/2015/06/23/business/takata-is-said-to-have-stopped-safety-audits-as-cost-saving-move.html
 * http://techcrunch.com/2015/06/23/reddit-turns-ten-years-old-releases-treasure-trove-of-cool-stats/
 * http://fusion.net/story/191773/i-created-a-fake-business-and-fooled-thousands-of-people-into-thinking-it-was-real/
 * http://www.nytimes.com/2015/09/15/us/these-public-libraries-are-for-snowshoes-and-ukuleles.html
 * http://highline.huffingtonpost.com/miracleindustry/americas-most-admired-lawbreaker/
-* http://www.reuters.com/article/2015/09/23/us-usa-volkswagen-researchers-idUSKCN0RM2D720150923
 * https://hbr.org/2015/08/productivity-is-soaring-at-top-firms-and-sluggish-everywhere-else
 * https://www.propublica.org/article/inside-corporate-americas-plan-to-ditch-workers-comp
 * http://www.washingtonpost.com/news/wonkblog/wp/2015/10/15/ceos-beware-your-astronomical-salaries-may-soon-cost-you-customers/

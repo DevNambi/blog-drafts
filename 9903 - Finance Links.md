@@ -400,6 +400,7 @@
 * http://www.nytimes.com/2015/11/01/business/dealbook/arbitration-everywhere-stacking-the-deck-of-justice.html
 * http://noahpinionblog.blogspot.com/2015/11/unlearning-economics.html
 * http://www.theatlantic.com/business/archive/2015/11/cities-economic-fates-diverge/417372/
+* http://www.theatlantic.com/business/archive/2015/11/gifts-debts-inheritances/417423/
 
 
 
