@@ -315,6 +315,7 @@
 * https://speakerdeck.com/jakevdp/statistics-for-hackers <- AMAZING
 * http://priceonomics.com/the-discovery-of-statistical-regression/
 * http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb <- AMAZING
+* https://github.com/markdregan/Bayesian-Modelling-in-Python
 
 
 "Remember, nonlinear interactions, and non-Gaussian distributions are common. "

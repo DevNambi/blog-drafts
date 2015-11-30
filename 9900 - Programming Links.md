@@ -38,6 +38,7 @@
 * http://highscalability.com/blog/2015/10/5/your-load-generator-is-probably-lying-to-you-take-the-red-pi.html
 * http://blog.fogus.me/2014/12/29/the-best-things-and-stuff-of-2014/
 * http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html
+* http://danluu.com/butler-lampson-1999/
 * http://mcfunley.com/choose-boring-technology
 * http://search.cpan.org/dist/Locale-Maketext/lib/Locale/Maketext/TPJ13.pod?#A_Localization_Horror_Story:_It_Could_Happen_To_You
 * http://www.catonmat.net/blog/programming-competitions-work-performance/
@@ -534,6 +535,7 @@
 
 * https://facebook.github.io/react/
 * https://github.com/facebook/react/wiki/Examples
+* https://github.com/eanplatter/react-starter
 
 
 
