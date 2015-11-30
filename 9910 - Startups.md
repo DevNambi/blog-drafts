@@ -136,6 +136,7 @@
 * https://medium.com/@tikhon/founders-it-s-not-1990-stop-treating-your-employees-like-it-is-523f48fe90cb
 * http://fortune.com/2015/10/23/is-silicon-valley-bad-for-your-health/
 * https://www.jobstart.co/guides/warning-signs-is-it-time-to-leave-your-startup
+* http://www.daedtech.com/the-beggar-ceo-and-sucker-culture
 
 
 ## Misc

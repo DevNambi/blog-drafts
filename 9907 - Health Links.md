@@ -277,7 +277,7 @@
 * http://www.wired.com/2014/12/diabetes-patients-hacking-together-diy-bionic-pancreases/
 * http://www.fastcoexist.com/3052935/the-latest-breakthrough-in-understanding-diabetes-was-made-by-an-algorithm
 
-#### Alzheimers, MS
+#### Alzheimers, MS, Strokes
 
 * http://www.nature.com/articles/srep15015
 * http://patch.com/california/berkeley/alzheimers-game-changer-scientists-find-changing-one-molecule-reverses-memory-loss
@@ -291,6 +291,7 @@
 * http://www.pri.org/stories/2015-04-30/do-we-all-have-alzhemers-completely-wrong-man-says-yes
 * http://www.healthline.com/health-news/ms-patients-who-received-stem-cell-transplants-still-in-remission-010715
 * http://newoldage.blogs.nytimes.com/2014/09/24/study-links-anxiety-drugs-to-alzheimers-disease/
+* http://www.sciencealert.com/bilingual-people-are-twice-as-likely-to-recover-from-a-stroke-study-finds
 
 #### Antibiotics, Drug Resistance
 

@@ -120,6 +120,7 @@
 * http://blog.codinghorror.com/code-reviews-just-do-it/
 * http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-%E2%80%9Cspaghetti%E2%80%9D-code?
 * http://www.safetyresearch.net/blog/articles/software-promises-and-perils
+* http://www.johndcook.com/blog/2015/11/29/learning-hard-technology/
 
 
 ## Learning to Code
@@ -480,6 +481,7 @@
 * http://blog.webhose.io/2015/08/12/tiny-basic-multi-threaded-web-crawler-in-python/
 * https://github.com/justmarkham/python-reference <- AMAZING
 * http://www.littlekendra.com/2015/11/10/resources-learning-python/
+* https://www.getdatajoy.com/blog/2015/11/26/python-teaching-resources.html
 
 
 **Examples of good Python codebases**
@@ -619,6 +621,7 @@ Microsoft and other third-party developers have a huge problem: they don't liste
 * http://www.pipelinedb.com/blog/making-postgres-bloom
 * http://pajhome.org.uk/blog/10_reasons_to_love_sqlalchemy.html
 * https://www.compose.io/articles/write-stuff-measuring-database-performance/
+* http://www.dbms2.com/2015/04/16/notes-on-indexes-and-index-like-structures/
 
 
 
