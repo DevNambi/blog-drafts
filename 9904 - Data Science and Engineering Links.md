@@ -444,6 +444,7 @@
 * http://www.inference.vc/how-to-train-your-generative-models-why-generative-adversarial-networks-work-so-well-2/
 * http://educationoutrage.blogspot.com/2015/11/the-fraudulent-claims-made-by-ibm-about.html
 * http://willmcginnis.com/2015/11/29/beyond-one-hot-an-exploration-of-categorical-variables/
+* http://news.mit.edu/2015/automating-big-data-analysis-1016
 
 
 

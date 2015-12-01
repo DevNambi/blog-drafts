@@ -219,6 +219,7 @@
 * http://thenextweb.com/insider/2015/04/07/ubers-fight-to-dismiss-a-lawsuit-over-an-alleged-rape-shows-it-wont-take-responsibility-for-its-drivers/
 * http://pando.com/2015/05/06/not-in-kansas-anymore-uber-leaves-kansas-after-lawmakers-demand-background-checks-and-more-insurance/
 * http://citypaper.net/uberdriver/
+* http://uberdriverdiaries.com/how-much-do-uber-drivers-really-make/
 
 "It turns out Uber is a replacement for owning a car" say wealthy urbanites who don't have kids, pets, disabilities or outdoor hobbies." - https://twitter.com/mims
 
