@@ -88,6 +88,7 @@
 * https://boingboing.net/2015/10/24/petition-facebook-betrayed-us.html
 * http://www.ritholtz.com/blog/2015/11/facebook/
 * http://fortune.com/2015/11/09/facebook-media/
+* https://signalvnoise.com/posts/2585-facebook-is-not-worth-33000000000
 
 
 ## Apple
