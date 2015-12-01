@@ -17,6 +17,7 @@
 * http://qz.com/545978/a-federal-judges-ruling-against-the-nsa-is-a-big-win-for-edward-snowden/
 * http://offbeathome.com/2014/10/temporary-home-security
 * https://thestack.com/security/2015/09/24/cookies-can-render-secure-websites-vulnerable-in-all-modern-browsers/
+* http://arstechnica.com/security/2015/11/hey-readers-digest-your-site-has-been-attacking-visitors-for-days/
 * http://www.infoworld.com/article/2997733/security/encryption-is-under-siege-move-to-sha-2-now.html
 * http://arstechnica.com/tech-policy/2015/11/tsa-airport-screeners-ability-to-detect-weapons-declared-pitiful/
 * http://randywestergren.com/united-airlines-bug-bounty-an-experience-in-reporting-a-serious-vulnerability/

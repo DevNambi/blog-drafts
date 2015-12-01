@@ -409,6 +409,7 @@
 * http://karpathy.github.io/neuralnets/
 * http://machinelearningmastery.com/building-a-production-machine-learning-infrastructure/
 * https://aws.amazon.com/machine-learning/
+* http://planspace.org/20151129-see_sklearn_trees_with_d3/
 * https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/
 * http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 * http://datascopeanalytics.com/what-we-think/2014/09/18/hipster-classifier-icebreaker

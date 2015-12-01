@@ -113,6 +113,7 @@ Emphasize what we don't know
 * http://www.bbc.com/news/magazine-34285658
 * http://www.wfaa.com/story/news/local/tarrant-county/2015/06/16/arlington-officials-report-on-fracking-fluid-blowout/28844657/
 * http://www.bloomberg.com/news/articles/2015-04-12/saudi-arabia-s-plan-to-extend-the-age-of-oil
+* http://www.seattletimes.com/nation-world/tens-of-billions-promised-to-goose-clean-energy-tech/
 * http://arstechnica.com/science/2015/04/30/salty-groundwater-supports-life-in-antarcticas-extreme-dry-valleys/
 * http://www.theguardian.com/commentisfree/2015/oct/30/indonesia-fires-disaster-21st-century-world-media
 * http://www.theatlantic.com/technology/archive/2015/10/every-climate-concerned-billionaire-should-do-this-to-save-the-world/413020/

@@ -238,6 +238,7 @@
 * http://mobile.nytimes.com/2015/06/30/science/for-couples-time-can-upend-the-laws-of-attraction.html
 * http://www.vanityfair.com/culture/2015/08/tinder-hook-up-culture-end-of-dating
 * http://www.salon.com/2013/10/13/the_9_smartest_marriage_tips_ever/
+* http://driftingthrough.com/2015/11/20/the-thing-all-women-do-that-you-dont-know-about/
 
 
 
