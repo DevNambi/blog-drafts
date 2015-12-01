@@ -608,6 +608,7 @@
 
 * https://blog.onliquid.com/machine-learning-service-benchmark/
 * blog.dato.com/a-hyperparameter-search-tool-built-for-data-science
+* http://dswalter.github.io/blog/overfitting-regularization-hyperparameters/
 
 
 
@@ -690,6 +691,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://blog.dominodatalab.com/pyspark-on-domino/
 * http://sloanreview.mit.edu/article/why-managing-data-scientists-is-different/
 * https://www.linkedin.com/pulse/cargo-cult-data-science-george-roumeliotis
+* http://techcrunch.com/2015/11/26/machine-intelligence-in-the-real-world/
 
 
 

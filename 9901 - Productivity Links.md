@@ -15,6 +15,7 @@
 * https://www.mainstreet.com/article/apparently-cool-kids-were-high-school-band-after-all/page/2 <- look at the research for myself
 * http://www.innovationexcellence.com/blog/2015/08/25/the-dynamics-of-a-creative-team/
 * http://googleresearch.blogspot.com/2015/11/computer-respond-to-this-email.html
+* https://medium.com/@EskoKilpi/creative-commons-of-innovation-a548dcaf23ed#.he9ko127u
 * http://www.bbc.com/future/story/20151123-the-brains-miracle-superpowers-of-self-improvement
 * http://7goldfish.com/Little%20know%20ways%20to%20think%20about%20dicipline
 * http://www.npr.org/blogs/health/2015/01/05/371894919/what-heroin-addiction-tells-us-about-changing-bad-habits
