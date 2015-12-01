@@ -239,6 +239,7 @@
 * http://www.vanityfair.com/culture/2015/08/tinder-hook-up-culture-end-of-dating
 * http://www.salon.com/2013/10/13/the_9_smartest_marriage_tips_ever/
 * http://driftingthrough.com/2015/11/20/the-thing-all-women-do-that-you-dont-know-about/
+* http://www.seattletimes.com/nwshowcase/careers/alexis-alloways-cool-job-in-environmental-education-2/
 
 
 

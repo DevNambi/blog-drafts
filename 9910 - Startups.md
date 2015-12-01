@@ -54,6 +54,7 @@
 * http://www.wired.com/2015/07/tech-upended-banks-stock-trading-insurance-next/
 * http://jacquesmattheij.com/retention-is-the-key
 * http://www.aaronkharris.com/things-that-arent-progress
+* https://medium.com/@abhasvc/unicorns-vs-donkeys-your-handy-guide-to-distinguishing-who-s-who-f1b30942b2b6
 
 
 
@@ -137,6 +138,7 @@
 * http://fortune.com/2015/10/23/is-silicon-valley-bad-for-your-health/
 * https://www.jobstart.co/guides/warning-signs-is-it-time-to-leave-your-startup
 * http://www.daedtech.com/the-beggar-ceo-and-sucker-culture
+* http://www.nytimes.com/2015/11/27/us/parents-ready-for-some-love-from-silicon-valley-companies.html
 
 
 ## Misc
@@ -182,6 +184,7 @@
 * http://www.geekwire.com/2015/hey-restaurants-these-sites-are-sending-your-customers-to-orderahead-without-your-knowledge/ <- f'd up behavior
 * http://www.craigkerstiens.com/2015/07/21/An-intro-PR-guide-for-startups/
 * http://bits.blogs.nytimes.com/2015/08/02/in-search-of-the-slippery-definition-of-the-modern-tech-company/
+* http://tomtunguz.com/biggest-buyers-software-in-2016/
 
 
 

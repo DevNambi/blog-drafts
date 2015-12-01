@@ -613,6 +613,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.theguardian.com/commentisfree/2015/jun/22/adjunct-professor-earn-less-than-pet-sitter
 * http://www.npr.org/sections/money/2015/07/15/422590257/medicine-law-business-which-grad-students-borrow-the-most
 * http://blogs.lse.ac.uk/impactofsocialsciences/2013/12/11/how-academia-resembles-a-drug-gang/
+* http://crosscut.com/2015/11/uw-union-push-pits-empowerment-vs-excellence/
 
 
 ### Administration

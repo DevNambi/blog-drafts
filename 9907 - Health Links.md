@@ -271,6 +271,8 @@
 * http://www.newyorker.com/magazine/2015/11/16/the-gene-hackers
 * http://a16z.com/2015/11/18/bio-fund/
 * http://varianceexplained.org/r/tidy-genomics/
+* http://www.programmingforbiologists.org/material/
+
 
 #### Diabetes
 
@@ -292,6 +294,7 @@
 * http://www.healthline.com/health-news/ms-patients-who-received-stem-cell-transplants-still-in-remission-010715
 * http://newoldage.blogs.nytimes.com/2014/09/24/study-links-anxiety-drugs-to-alzheimers-disease/
 * http://www.sciencealert.com/bilingual-people-are-twice-as-likely-to-recover-from-a-stroke-study-finds
+* http://yourmedicalguide.info/italian-doctor-may-have-found-surprisingly-simple-cure-for-multiple-sclerosis/
 
 #### Antibiotics, Drug Resistance
 
