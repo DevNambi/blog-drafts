@@ -17,6 +17,7 @@
 * http://googleresearch.blogspot.com/2015/11/computer-respond-to-this-email.html
 * https://medium.com/@EskoKilpi/creative-commons-of-innovation-a548dcaf23ed#.he9ko127u
 * http://www.bbc.com/future/story/20151123-the-brains-miracle-superpowers-of-self-improvement
+* http://codingvc.com/the-100-hour-rule/
 * http://7goldfish.com/Little%20know%20ways%20to%20think%20about%20dicipline
 * http://www.npr.org/blogs/health/2015/01/05/371894919/what-heroin-addiction-tells-us-about-changing-bad-habits
 * http://www.theguardian.com/education/2014/feb/27/musicians-better-language-learners

@@ -890,6 +890,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://news.mit.edu/2015/automating-big-data-analysis-1016 <- wow, I want this
 * http://simplystatistics.org/2015/11/24/20-years-of-data-science-and-data-driven-discovery-from-music-to-genomics/
 * http://techcrunch.com/2015/11/26/machine-intelligence-in-the-real-world/
+* https://blog.wikimedia.org/2015/11/30/artificial-intelligence-x-ray-specs/
 
 
 

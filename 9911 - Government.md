@@ -111,6 +111,7 @@
 * http://arstechnica.com/unite/2015/10/slowly-but-surely-government-it-enters-the-21st-century/
 * https://18f.gsa.gov/2015/11/18/automating-easy-government-decisions-with-machine-learning/
 * https://18f.gsa.gov/2015/12/01/how-we-dramatically-improved-18fs-onboarding-process-in-3-months/
+* http://www.codeforamerica.org/blog/2015/11/30/a-new-approach-to-procuring-government-technology-in-california/
 
 
 ## Immigration

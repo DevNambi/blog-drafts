@@ -53,6 +53,8 @@ We need data for this problem. Let's pretend we have a software team with 75 cus
 
 https://www.reddit.com/r/talesfromtechsupport/comments/39akcw/want_to_live_forever_hire_a_project_manager_to/
 
+http://foldingburritos.com/product-prioritization-techniques/?ref=hn
+
 **Distinct Requests**
 75 customers X 30 features = 2250 requests total
 450 requests are actually 20% of the requests that can satisfy 80% of the work.
