@@ -256,6 +256,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.telegraph.co.uk/news/worldnews/europe/russia/11944219/Russia-builds-massive-Arctic-military-base.html
 * http://www.cbsnews.com/news/american-amir-meshal-cant-sue-fbi-over-abuse-claims-federal-appeals-court-says/ <- this is completely fucked up
 * http://www.nakedcapitalism.com/2015/11/turkeys-shootdown-of-russian-jet-what-you-need-to-know.html
+* http://mobile.nytimes.com/2015/12/04/world/asia/afghanistan-civilian-casualty-khost.html <- here's the next generation of terrorists and extremists. 
 
 
 

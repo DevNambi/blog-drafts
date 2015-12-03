@@ -93,6 +93,7 @@ Industries
 * http://tech.mit.edu/V130/N18/dubai.html
 * http://www.johndcook.com/blog/2015/11/13/you-do-not-want-to-be-an-edge-case/
 * http://fledge.co/fledglings/
+* http://www.timesofisrael.com/israel-honors-us-gi-who-told-the-nazis-we-are-all-jews/
 
 
 

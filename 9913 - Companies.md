@@ -123,6 +123,7 @@
 * http://www.bloomberg.com/news/articles/2015-02-04/why-nadella-s-second-year-as-microsoft-ceo-will-be-a-lot-harder
 * http://www.seattletimes.com/business/microsoft/microsoft-pair-claim-hostess-bar-expense-queries-led-to-firing/
 * https://michaelochurch.wordpress.com/2015/08/08/employees-at-google-yahoo-and-amazon-lose-nothing-if-they-unionize-heres-why/
+* http://arstechnica.com/information-technology/2015/12/ballmer-microsofts-cloud-revenue-numbers-are-bullshit/
 
 
 

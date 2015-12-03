@@ -642,7 +642,8 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 
 ## Sports
 
-* http://mobile.nytimes.com/2015/01/13/sports/ncaafootball/with-threat-of-union-comes-a-trickle-of-benefits-to-college-football-players.html?_r=0
+* http://mobile.nytimes.com/2015/01/13/sports/ncaafootball/with-threat-of-union-comes-a-trickle-of-benefits-to-college-football-players.html
+* http://projects.huffingtonpost.com/projects/ncaa/subsidy-scorecards
 
 
 ### The University of Washington
