@@ -483,6 +483,7 @@
 * https://github.com/justmarkham/python-reference <- AMAZING
 * http://www.littlekendra.com/2015/11/10/resources-learning-python/
 * https://www.getdatajoy.com/blog/2015/11/26/python-teaching-resources.html
+* http://docs.ibis-project.org/sql.html
 
 
 **Examples of good Python codebases**
