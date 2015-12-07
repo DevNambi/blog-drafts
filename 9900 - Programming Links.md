@@ -426,6 +426,8 @@
 * http://computers-are-fast.github.io/
 * http://www.acmebenchmarking.com/2015/11/benchmarking-cloud-provider-performance.html
 * http://githubengineering.com/githubs-metal-cloud/
+* http://www.infoworld.com/article/3011916/it-jobs/3-hottest-cloud-job-skills-for-2016.html
+
 
 
 
@@ -484,6 +486,8 @@
 * http://www.littlekendra.com/2015/11/10/resources-learning-python/
 * https://www.getdatajoy.com/blog/2015/11/26/python-teaching-resources.html
 * http://docs.ibis-project.org/sql.html
+* http://www.devdungeon.com/content/working-binary-data-python
+
 
 
 **Examples of good Python codebases**

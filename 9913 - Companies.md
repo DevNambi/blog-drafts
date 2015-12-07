@@ -169,6 +169,8 @@
 * http://arstechnica.com/tech-policy/2015/07/senators-asks-fcc-to-investigate-cable-and-broadband-prices/
 * http://arstechnica.com/tech-policy/2015/10/att-customer-politely-e-mails-ceo-gets-terse-reply-from-att-lawyer/
 * http://arstechnica.com/business/2015/11/comcast-sent-collection-agencies-after-customer-who-paid-all-his-bills/
+* http://arstechnica.com/business/2015/12/towns-want-verizon-investigated-for-abandoning-networks-through-neglect/
+
 
 
 ## Google

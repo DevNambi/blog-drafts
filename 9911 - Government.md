@@ -184,6 +184,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://firstlook.org/theintercept/2015/07/04/ghost-fleet-welcome-world-post-snowden-techno-thrillers/
 * http://blog.longreads.com/2015/03/11/interview-with-a-torturer/
 * http://www.nytimes.com/2015/03/21/world/asia/ghani-afghanistan-unity-government-plan.html
+* http://www.theatlantic.com/international/archive/2015/12/obama-isis-speech-terrorism/419055/
 * https://medium.com/war-is-boring/no-the-f-35-can-t-fight-at-long-range-either-5508913252dd
 * http://aviationweek.com/blog/behind-f-35-air-combat-report
 * https://news.vice.com/article/i-didnt-join-the-taliban-because-i-was-poor-i-joined-because-i-was-angry-report-finds-injustice-not-unemployment-radicalizes-youth

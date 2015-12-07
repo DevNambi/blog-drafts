@@ -366,6 +366,7 @@
 
 * http://punkrockor.wordpress.com/2014/08/12/in-defense-of-model-simplicity/
 * http://www.startup.ml/blog/hyperparam
+* https://www.quantamagazine.org/20151203-big-datas-mathematical-mysteries/
 * http://xyclade.github.io/MachineLearning/
 * http://www.infoq.com/presentations/machine-learning-general-programming <- brilliant
 * http://www.dataschool.io/comparing-supervised-learning-algorithms/
@@ -446,6 +447,8 @@
 * http://educationoutrage.blogspot.com/2015/11/the-fraudulent-claims-made-by-ibm-about.html
 * http://willmcginnis.com/2015/11/29/beyond-one-hot-an-exploration-of-categorical-variables/
 * http://news.mit.edu/2015/automating-big-data-analysis-1016
+* http://cs.stanford.edu/people/karpathy/nips2015/
+
 
 
 

@@ -115,6 +115,8 @@ Emphasize what we don't know
 * http://www.wfaa.com/story/news/local/tarrant-county/2015/06/16/arlington-officials-report-on-fracking-fluid-blowout/28844657/
 * http://www.bloomberg.com/news/articles/2015-04-12/saudi-arabia-s-plan-to-extend-the-age-of-oil
 * http://www.seattletimes.com/nation-world/tens-of-billions-promised-to-goose-clean-energy-tech/
+* http://arstechnica.com/science/2015/11/inside-literally-wind-turbines-meant-to-work-at-the-south-pole-and-mars/
+* http://www.smithsonianmag.com/science-nature/humans-are-draining-even-more-earths-freshwater-we-thought-180957444/
 * http://arstechnica.com/science/2015/04/30/salty-groundwater-supports-life-in-antarcticas-extreme-dry-valleys/
 * http://www.patagonia.com/us/worn-wear
 * http://www.theguardian.com/commentisfree/2015/oct/30/indonesia-fires-disaster-21st-century-world-media

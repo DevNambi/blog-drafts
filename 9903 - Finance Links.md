@@ -402,6 +402,7 @@
 * http://noahpinionblog.blogspot.com/2015/11/unlearning-economics.html
 * http://www.theatlantic.com/business/archive/2015/11/cities-economic-fates-diverge/417372/
 * http://www.theatlantic.com/business/archive/2015/11/gifts-debts-inheritances/417423/
+* http://wolfstreet.com/2015/12/06/what-happens-when-the-auto-loan-boom-blows-up/ <- business opportunity
 
 
 

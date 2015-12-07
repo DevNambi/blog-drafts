@@ -310,7 +310,7 @@ pandemic-20150311-story.html
 
 <li><a href="http://www.nature.com/news/antibiotic-resistance-the-last-resort-1.13426" time_added="1374949873" tags="domestic,health,important">Antibiotic resistance: The last resort : Nature News & Comment</a></li>
 
-#### Epidemiology, Data
+#### Epidemiology, Data, IT
 
 * http://www.extremetech.com/extreme/199602-fda-authorizes-23andme-to-market-health-related-genetic-testing
 * http://www.nytimes.com/2015/02/03/upshot/how-to-measure-a-medical-treatments-potential-for-harm.html <- super important
@@ -321,11 +321,19 @@ pandemic-20150311-story.html
 * http://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm
     * A terrible, bubble-chart version of the same, http://www.businessinsider.com/the-things-most-likely-to-kill-you-in-one-infographic-2015-2
 * http://www.nakedcapitalism.com/2015/11/matthew-cunningham-cook-how-the-tpp-will-create-a-medical-privacy-hellscape.html
+* http://hospitalrun.io/
+
 
 
 #### Too Much Medicine, Adverse Outcomes
 
 * http://www.nytimes.com/2015/11/22/opinion/sunday/are-good-doctors-bad-for-your-health.html
+
+
+#### Endocrine Disruptors, Pesticides
+
+* http://www.extremetech.com/extreme/218689-what-are-endocrine-disruptors-and-how-should-you-protect-yourself-from-them
+
 
 
 
@@ -592,11 +600,13 @@ pandemic-20150311-story.html
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
 * http://www.theatlantic.com/technology/archive/2015/11/the-algorithm-that-will-buy-you-health-insurance-honeyinsured/414765/?single_page=true
 * http://techcrunch.com/2015/10/20/amino/
-* http://www.nytimes.com/2015/09/08/health/what-are-a-hospitals-costs-utah-system-is-trying-to-learn.html?_r=0
+* http://www.nytimes.com/2015/09/08/health/what-are-a-hospitals-costs-utah-system-is-trying-to-learn.html
+* http://www.seattletimes.com/seattle-news/health/group-health-to-be-acquired-by-kaiser/
 * http://www.latimes.com/business/la-fi-blue-shield-audit-20150705-story.html#page=1
 * http://www.nakedcapitalism.com/2015/06/obamacares-problems-continue-to-fester-cost-complexity-quality-coverage-covered-california.html
 * http://mobile.nytimes.com/2015/06/02/business/seeking-rate-increases-insurers-use-guesswork.html
 * http://www.bloomberg.com/news/articles/2015-06-01/this-cancer-doctor-is-leading-the-attack-on-astronomical-drug-prices
+* http://www.seattletimes.com/seattle-news/health/group-health-acquisition-by-kaiser-draws-worry-praise/
 * http://mobile.nytimes.com/2015/06/02/business/medicare-payments-billing-hospitals-doctors.html
 * http://www.nytimes.com/2015/05/06/business/rescued-by-an-air-ambulance-but-stunned-at-the-sky-high-bill.html
 * http://www.newyorker.com/magazine/2015/05/11/overkill-atul-gawande
@@ -755,6 +765,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://www.nerdfitness.com/blog/2015/07/13/how-to-survive-sitting-all-day/
 * http://opinionator.blogs.nytimes.com/2014/06/13/no-clocking-out/
 * http://arstechnica.com/science/2015/10/standing-desks-are-no-replacement-for-a-workout/
+* http://arstechnica.com/science/2015/12/tv-binging-exercise-skipping-linked-to-poor-cognitive-function/
 
 
 

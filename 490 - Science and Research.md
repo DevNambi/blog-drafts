@@ -18,6 +18,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://www.projectmidas.org/blog/getting-to-antarctica/
 * http://blogs.msdn.com/b/msr_er/archive/2015/06/26/announcing-the-microsoft-academic-graph-let-the-research-begin.aspx
 * http://arstechnica.com/science/2015/11/american-meteorological-society-to-congress-ease-off-noaa-scientists/
+* http://www.extremetech.com/mobile/218002-the-6-best-science-apps-for-your-phone-or-tablet
 * http://www.nytimes.com/2015/03/24/science/when-science-is-lost-in-a-legal-maze.html
 * http://www.theatlantic.com/education/archive/2015/10/complex-academic-writing/412255/?single_page=true
 * https://www.nasa.gov/image-feature/the-icy-mountains-of-pluto
@@ -30,6 +31,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://www.dcscience.net/2014/12/01/publish-and-perish-at-imperial-college-london-the-death-of-stefan-grimm/
 * http://lemire.me/blog/archives/2014/12/05/academia-as-an-anxiety-machine/
 * http://news.sciencemag.org/scientific-community/2014/12/study-massive-preprint-archive-hints-geography-plagiarism
+* http://arstechnica.com/science/2015/12/nasa-official-warns-private-sector-were-moving-on-from-low-earth-orbit/
 * http://esciencecommons.blogspot.ca/2015/10/mathematicians-find-magic-key-to-drive.html
 * http://crypto.junod.info/2013/09/09/an-aspiring-scientists-frustration-with-modern-day-academia-a-resignation/
 * http://www.cbc.ca/news/technology/academic-publishers-reap-huge-profits-as-libraries-go-broke-1.3111535
