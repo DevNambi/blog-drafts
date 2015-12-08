@@ -285,6 +285,8 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2014/12/02/education/most-college-students-dont-earn-degree-in-4-years-study-finds.html
 * http://rhrealitycheck.org/article/2014/12/09/oregon-educators-strike-paid-leave-university-president-advocated-leave/
 * http://dealbook.nytimes.com/2014/12/17/law-school-enrollment-falls-to-lowest-level-since-1987/
+* https://www.insidehighered.com/blogs/technology-and-learning/11-edtech-advances-will-not-happen-2020
+* http://www.impatientoptimists.org/Home/Posts/2015/12/Data-Matters--A-Students-Perspective
 * http://chronicle.com/article/At-Top-Athletics-Programs/150917/
 * https://www.insidehighered.com/news/2014/12/22/nlrb-ruling-shifts-legal-ground-faculty-unions-private-colleges
 * http://www.nytimes.com/2014/12/31/sports/ncaafootball/what-made-college-ball-more-like-the-pros-73-billion-for-a-start.html
@@ -572,6 +574,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://www.insidehighered.com/news/2015/02/04/guaranty-agency-buys-half-corinthian-colleges-and-forgives-480-million-student-debt
 * https://debtcollective.org/studentstrike
 * https://www.insidehighered.com/quicktakes/2015/03/23/umass-faces-3b-debt
+* http://www.nytimes.com/2015/12/06/us/meal-plan-costs-tick-upward-as-students-pay-for-more-than-food.html
 * http://www.huffingtonpost.com/2012/09/17/russian-diamonds-siberian-meteorite-crater-carats_n_1891691.html
 * http://www.theatlantic.com/business/archive/2015/04/for-profit-colleges-here-to-stay/389045/
 * http://www.nakedcapitalism.com/2015/04/possible-board-directors-cooper-union-not-resigned-shame.html

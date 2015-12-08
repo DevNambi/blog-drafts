@@ -426,8 +426,10 @@ pandemic-20150311-story.html
 * https://twitter.com/conradhackett/status/551621551682904064
 * http://www.wired.com/2015/01/2015-diseases-borders/
 * http://www.newscientist.com/article/mg22730284.000-antibody-wipeout-relieves-symptoms-of-chronic-fatigue-syndrome.html <- chronic fatigue syndrome
+* http://www.nytimes.com/2015/12/07/opinion/dont-let-kids-play-football.html
 * http://www.bloomberg.com/news/articles/2015-07-30/warren-buffett-s-family-secretly-funded-a-birth-control-revolution
 * http://hcrenewal.blogspot.com/2015/11/ross-koppel-challenges-feckless.html
+* http://www.nytimes.com/2015/12/08/upshot/your-new-medical-team-algorithms-and-physicians.html
 
 
 <li><a href="http://www.theatlantic.com/national/archive/2014/01/the-missing-voices-in-the-contraception-mandate-cases/283452/" time_added="1391151159" tags="">The Missing Voices in the Contraception Mandate Cases - Garrett Epps - The </a></li>

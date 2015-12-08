@@ -48,6 +48,7 @@
 * https://www.eff.org/privacybadger
 * http://arstechnica.com/tech-policy/2015/06/fake-mobile-phone-towers-discovered-in-london-stingrays-come-to-the-uk/
 * http://arstechnica.com/security/2015/10/how-to-use-tor-messenger-the-most-secure-chat-program-around/
+* http://www.defenseone.com/technology/2014/07/if-you-do-nsa-will-spy-you/88054/
 * http://www.bbc.com/news/uk-34444233
 * http://www.wsj.com/articles/moxie-marlinspike-the-coder-who-encrypted-your-texts-1436486274
 * http://www.theatlantic.com/technology/archive/2015/11/google-searches-privacy-danger/413614/

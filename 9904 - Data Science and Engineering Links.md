@@ -658,6 +658,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://www.johndcook.com/blog/2015/10/14/data-science-etc/
 * https://source.opennews.org/en-US/articles/introducing-agate/
 * http://blog.datadive.net/7-tools-in-every-data-scientists-toolbox/
+* http://www.slideshare.net/TylerTreat/probabilistic-algorithms-for-fun-and-pseudorandom-profit
 
 
 
@@ -868,6 +869,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://www.marketsforgood.org/frontlinesms-environmental-sensor/
 * http://www.frankmcsherry.org/graph/scalability/cost/2015/01/15/COST.html
 * http://iquantny.tumblr.com/post/109370229799/does-gentrification-cause-a-reduction-in
+* http://www.wired.com/2015/12/google-and-facebook-race-to-solve-the-ancient-game-of-go/
 * https://civisanalytics.com/products/end-to-end-data-science/
 * http://nbviewer.ipython.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/optimal-road-trip/Computing%20the%20optimal%20road%20trip%20across%20the%20U.S..ipynb
 * http://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/

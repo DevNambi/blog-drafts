@@ -468,6 +468,7 @@
 * http://nbviewer.ipython.org/github/gjreda/gregreda.com/blob/master/content/notebooks/intro-to-pandas.ipynb
 * http://jvns.ca/blog/2013/12/22/cooking-with-pandas/
 * http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/
+* http://blog.kaggle.com/2015/12/07/three-things-i-love-about-jupyter-notebooks/
 * http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb
 * http://nbviewer.ipython.org/github/chrisalbon/code_py/tree/master/ <- HOLY CRAP THAT'S AMAZING
 * http://anandology.com/python-practice-book/index.html
@@ -748,6 +749,7 @@ things they believe in will keep </a></li>
 * https://news.ycombinator.com/item?id=9643628
 * http://caseysoftware.com/blog/dont-attend-a-hackathon
 * http://avc.com/2015/10/software-is-the-new-oil/
+* http://techcrunch.com/2015/12/07/software-eats-software/
 
 
 

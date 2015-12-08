@@ -143,7 +143,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 
 
 
-## Military, CIA, Foreign Wars
+## Military, CIA, DEA, Foreign Wars
 
 **Whistleblowers**
 
@@ -258,6 +258,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.cbsnews.com/news/american-amir-meshal-cant-sue-fbi-over-abuse-claims-federal-appeals-court-says/ <- this is completely fucked up
 * http://www.nakedcapitalism.com/2015/11/turkeys-shootdown-of-russian-jet-what-you-need-to-know.html
 * http://mobile.nytimes.com/2015/12/04/world/asia/afghanistan-civilian-casualty-khost.html <- here's the next generation of terrorists and extremists. 
+* https://www.propublica.org/article/the-dea-narco-terror-trap
 
 
 
@@ -378,6 +379,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://projects.aljazeera.com/2014/double-voters/index.html
 * http://boingboing.net/2014/10/31/secret-recording-of-corporate.html
 * http://mobile.nytimes.com/2014/11/08/opinion/pregnant-and-no-civil-rights.html
+* http://www.newyorker.com/magazine/2015/12/14/a-house-divided
 * http://mobile.nytimes.com/2015/03/31/sports/in-boston-olympic-bid-vote-more-at-stake-than-games.html
 * http://westleyargentum.github.io/112th-influence-vis/
 * http://america.aljazeera.com/opinions/2014/12/laffer-curve-taxcutshikeseconomics.html

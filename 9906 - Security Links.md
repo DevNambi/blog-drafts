@@ -9,6 +9,8 @@
 * https://vimeo.com/135347162 <- James Mickens' talk
 * http://www.extremetech.com/computing/212038-oracle-tells-its-customers-to-stop-analyzing-its-code-for-security-flaws
 * https://ma.ttias.be/remote-code-execution-via-http-request-in-iis-on-windows/
+* http://sijmen.ruwhof.net/weblog/608-personal-data-of-dutch-telecom-providers-extremely-poorly-protected-how-i-could-access-12-million-records
+* http://krebsonsecurity.com/2015/12/when-undercover-credit-card-buys-go-bad/
 * http://arstechnica.com/security/2015/10/new-zero-day-exploit-hits-fully-patched-adobe-flash/
 * http://www.wsj.com/articles/cyber-sleuths-track-hacker-to-chinas-military-1443042030
 * http://arstechnica.com/security/2015/11/hacking-tool-swipes-encrypted-credentials-from-password-manager/

@@ -290,6 +290,11 @@
 * http://www.reuters.com/article/2015/09/23/us-usa-volkswagen-researchers-idUSKCN0RM2D720150923
 
 
+## Sports
+
+* http://www.thedailybeast.com/articles/2015/12/06/the-sports-bubble-is-about-to-pop.html <- send to Seattle-ish
+
+
 ## Misc
 
 * http://www.reuters.com/article/2014/11/16/us-usa-chemicals-death-idUSKCN0J001B20141116

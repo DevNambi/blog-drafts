@@ -102,6 +102,8 @@ Emphasize what we don't know
 * https://www.washingtonpost.com/graphics/national/power-plants/
 * http://arstechnica.com/science/2015/05/three-pennsylvania-wells-likely-contaminated-by-fracking/
 * http://arstechnica.com/cars/2015/10/95-of-european-diesels-tested-flunk-emissions-standards/
+* http://www.wired.com/2015/12/the-hyperloops-testing-its-propulsion-system-next-month/
+* http://www.nytimes.com/2015/12/08/business/energy-environment/despite-push-for-cleaner-cars-sheer-numbers-could-work-against-climate-benefits.html
 * http://www.podniesinski.pl/portal/fukushima/
 * http://www.californiacoastline.org/
 * http://www.slate.com/blogs/the_slatest/2015/07/20/sea_level_study_james_hansen_issues_dire_climate_warning.html
