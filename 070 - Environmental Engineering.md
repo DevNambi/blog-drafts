@@ -140,6 +140,7 @@ Emphasize what we don't know
 * http://arstechnica.com/science/2015/10/for-the-future-of-solar-weve-got-the-tech-its-the-economics-stupid/
 * http://ngm.nationalgeographic.com/2015/11/climate-change/solar-power-text
 * http://www.socialeurope.eu/2015/10/the-limits-of-the-digital-revolution-why-our-washing-machines-wont-go-to-the-moon/
+* http://magazine.good.is/articles/academics-for-hire-disclose-fossil-fuel-funding
 * https://medium.com/@lesliejz/don-t-stop-showering-california-lay-off-the-burgers-and-nuts-and-pick-up-some-crickets-eb63bddf0277
 * http://arstechnica.com/science/2015/04/30/the-inadvertent-hilarity-of-the-heartland-institute-vs-pope-francis/
 * http://www.sfgate.com/bayarea/article/Bay-Area-water-agencies-start-strong-hit-6405595.php

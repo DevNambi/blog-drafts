@@ -286,6 +286,7 @@
 * http://www.seattletimes.com/seattle-news/a-developer-and-housing-task-force-member-sells-the-upzoning-of-seattle/
 * http://www.jefftk.com/p/mercury-spill
 * http://www.vox.com/2015/10/28/9622920/housing-adult-friendship
+* http://www.komonews.com/news/offbeat/Photos-Company-builds-Hobbit-Houses-you-can-live-in-361031291.html
 
 
 

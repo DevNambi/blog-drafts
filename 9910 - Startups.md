@@ -187,7 +187,7 @@
 * http://bits.blogs.nytimes.com/2015/08/02/in-search-of-the-slippery-definition-of-the-modern-tech-company/
 * http://tomtunguz.com/biggest-buyers-software-in-2016/
 * http://www.bloomberg.com/news/articles/2015-11-30/silicon-valley-vies-for-a-piece-of-the-u-s-mortgage-market
-
+* https://data.triplebyte.com/who-y-combinator-companies-want-c1880a08ac88#.lghsqiaxj
 
 
 
