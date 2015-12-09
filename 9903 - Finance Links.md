@@ -157,6 +157,7 @@
 * http://www.nakedcapitalism.com/2015/03/bill-black-fcic-spurned-one-chance-greatness.html
 * http://www.nakedcapitalism.com/2015/10/oxford-professor-schools-calpers-contrary-to-board-presentation-private-equity-is-most-expensive-asset-class-by-far.html
 * http://www.zerohedge.com/news/2015-10-19/traders-are-panic-selling-t-bills-after-jack-lew-warns-terrible-debt-limit-accident
+* http://www.theguardian.com/uk-news/2015/dec/08/fall-of-jersey-how-tax-haven-goes-bust
 * http://www.theatlantic.com/magazine/archive/2015/05/can-bankers-behave/389558/
 * http://www.bloomberg.com/news/articles/2015-11-15/debt-market-distortions-go-global-as-nothing-makes-sense-anymore
 * http://www.theguardian.com/news/2015/nov/27/hsbc-whistleblower-jailed-five-years-herve-falciani

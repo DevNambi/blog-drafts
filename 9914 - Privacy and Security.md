@@ -75,6 +75,7 @@
 * http://techcrunch.com/2014/10/11/edward-snowden-new-yorker-festival/
 * https://medium.com/@violetblue/facebook-i-want-out-e1e891975531?source=tw-c4103bd4f0ad-1444704941753 
 * http://www.washingtonpost.com/blogs/the-fix/wp/2015/01/18/with-snowden-in-the-background-privacy-takes-a-back-seat-to-security/
+* http://www.nytimes.com/2015/12/06/opinion/sunday/born-to-be-conned.html
 * https://www.eff.org/deeplinks/2015/06/supreme-court-strikes-down-warrantless-searches-hotel-records-reaffirms-fourth
 * http://crashoverridenetwork.tumblr.com/post/113748237272/guide-talking-to-family-police
 * http://www.dailydot.com/politics/encryption-crypto-war-james-comey-fbi-privacy/

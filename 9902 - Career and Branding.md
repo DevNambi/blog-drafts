@@ -129,6 +129,7 @@ ortant,personal tech">Kill the Password: Why a String of Characters Can't Protec
 * http://jacquesmattheij.com/the-fastest-blog-in-the-world
 * https://github.com/Jack000/Expose
 * http://jekyllrb.com/news/2015/10/26/jekyll-3-0-released/
+* https://engineering.wework.com/engineering/2015/12/08/why-wework-com-uses-a-static-generator-and-why-you-should-too/
 
 
 **My Most Useful Links**

@@ -727,6 +727,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://www.dursi.ca/hpc-is-dying-and-mpi-is-killing-it/
 * http://key-value-stories.blogspot.com/2015/02/memcached-internals-design.html
 * https://segment.com/blog/the-totally-managed-analytics-pipeline/
+* http://venturebeat.com/2015/12/09/y-combinator-backed-etleap-launches-with-a-cloud-service-for-easy-data-cleaning/
 * http://prometheus.io/
 * http://danosipov.com/?p=816
 * http://blog.kismatic.com/qa-with-malte-schwarzkopf-on-distributed-systems-orchestration-in-the-modern-data-center/
@@ -737,6 +738,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html
 * https://medium.com/@oceankidbilly/vldb-2015-concurrency-dataflow-e-store-4e715416b905
 * http://queue.acm.org/detail.cfm?id=2745385
+* http://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html
 * http://insightdataengineering.com/blog/pipeline_map.html
 * http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/
 * http://opensourceconnections.com/blog/2015/02/04/its-log-its-log-its-big-its-hyper-its-good/
@@ -859,6 +861,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 
 * http://www.newyorker.com/magazine/2014/10/13/planning-machine
 * https://speakerdeck.com/jdmaturen/towards-a-data-driven-product-techniques-and-tools-at-github
+* https://speakerdeck.com/tdanford/spark-for-big-data-analytics-symposium-next-generation-genomics-using-spark-and-adam
 * http://www.erinshellman.com/data-scientists-at-work/
 * http://cliffmass.blogspot.com/2015/01/forecast-lessons-from-northeast.html <- how to communicate uncertainty
 * http://instagram-engineering.tumblr.com/post/122961624217/trending-at-instagram
