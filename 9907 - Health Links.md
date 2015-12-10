@@ -99,6 +99,7 @@
 * http://www.bbc.com/news/health-34615621
 * http://www.nytimes.com/2009/07/22/dining/22mlist.html <- 100 great salads
 * http://www.theatlantic.com/entertainment/archive/2015/11/the-myth-of-easy-cooking/417384/
+* http://nautil.us/issue/31/stress/what-your-microbiome-wants-for-dinner
 
 
 
