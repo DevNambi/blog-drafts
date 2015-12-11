@@ -404,6 +404,7 @@
 * http://www.theatlantic.com/business/archive/2015/11/cities-economic-fates-diverge/417372/
 * http://www.theatlantic.com/business/archive/2015/11/gifts-debts-inheritances/417423/
 * http://wolfstreet.com/2015/12/06/what-happens-when-the-auto-loan-boom-blows-up/ <- business opportunity
+* http://www.npr.org/sections/thetwo-way/2015/12/09/459087477/the-tipping-point-most-americans-no-longer-are-middle-class
 
 
 

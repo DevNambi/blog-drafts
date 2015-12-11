@@ -79,6 +79,8 @@
 * http://www.bloomberg.com/graphics/2015-doug-williams-war-on-lie-detector/
 * http://www.seattletimes.com/nation-world/records-thousands-too-injured-to-enter-baltimore-jail/
 * http://thinkprogress.org/justice/2015/05/29/3664008/cop-caught-video-telling-black-teen-fuck-im-going-break-legs/
+* http://www.thedailybeast.com/articles/2015/12/10/the-most-horrific-cop-rape-case-you-ve-never-heard-of.html
+* http://www.r-bloggers.com/cause-of-death-melanin-evaluating-death-by-police-data/
 * http://www.cato.org/blog/youre-eight-times-more-likely-be-killed-police-officer-terrorist
 * http://southsideweekly.com/if-it-bleeds-it-leads/
 * https://www.aclu.org/blog/free-future/mysterious-planes-over-baltimore-spark-surveillance-suspicions

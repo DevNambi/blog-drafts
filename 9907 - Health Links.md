@@ -609,6 +609,7 @@ pandemic-20150311-story.html
 * http://www.nakedcapitalism.com/2015/06/obamacares-problems-continue-to-fester-cost-complexity-quality-coverage-covered-california.html
 * http://mobile.nytimes.com/2015/06/02/business/seeking-rate-increases-insurers-use-guesswork.html
 * http://www.bloomberg.com/news/articles/2015-06-01/this-cancer-doctor-is-leading-the-attack-on-astronomical-drug-prices
+* http://arstechnica.com/science/2015/12/senate-committee-fumes-over-drug-price-hikes-mocks-turings-shkreli/
 * http://www.seattletimes.com/seattle-news/health/group-health-acquisition-by-kaiser-draws-worry-praise/
 * http://mobile.nytimes.com/2015/06/02/business/medicare-payments-billing-hospitals-doctors.html
 * http://www.nytimes.com/2015/05/06/business/rescued-by-an-air-ambulance-but-stunned-at-the-sky-high-bill.html

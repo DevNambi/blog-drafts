@@ -69,6 +69,7 @@
 * https://www.privateinternetaccess.com/blog/2015/06/google-chrome-listening-in-to-your-room-shows-the-importance-of-privacy-defense-in-depth/
 * http://fusion.net/story/49806/beware-houseguests-cheap-home-surveillance-cameras-are-everywhere-now/
 * http://arstechnica.com/security/2015/10/unpatched-browser-weaknesses-can-be-exploited-to-track-millions-of-web-users/
+* http://arstechnica.com/tech-policy/2015/12/backslash-anti-surveillance-gadgets-for-protesters/
 * https://www.behance.net/gallery/16225247/I-have-NOT-read-and-agree-to-the-terms-of-use
 * http://fivethirtyeight.com/datalab/the-way-we-use-social-security-numbers-is-absurd/
 * http://googleonlinesecurity.blogspot.com/2015/07/new-research-comparing-how-security.html
