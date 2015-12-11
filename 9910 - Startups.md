@@ -147,6 +147,7 @@
 * http://www.wired.com/2012/12/mf-tim-oreilly-qa/2/
 * http://www.nytimes.com/2014/10/15/upshot/how-jean-tiroles-work-helps-explain-the-internet-economy.html
 * http://www.talkingquickly.co.uk/2015/04/what-id-tell-myself-about-startups/
+* https://medium.com/@bhorowitz/how-to-ruin-your-company-with-one-bad-process-770c2ccef3c3
 * http://pando.com/2014/10/14/anti-burn-how-bootstrapped-zoho-survived-two-tech-bubbles-and-became-a-massive-success/
 * http://blog.samaltman.com/policy-for-growth-and-innovation
 * https://gigaom.com/2015/02/15/disrupting-reality-silicon-valley-is-busy-ignoring-the-real-world/
