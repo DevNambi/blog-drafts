@@ -288,6 +288,7 @@
 * https://hbr.org/2015/03/gms-stock-buyback-is-bad-for-america-and-the-company
 * http://www.nytimes.com/2015/06/23/business/takata-is-said-to-have-stopped-safety-audits-as-cost-saving-move.html
 * http://www.reuters.com/article/2015/09/23/us-usa-volkswagen-researchers-idUSKCN0RM2D720150923
+* http://jacquesmattheij.com/volkswagen-and-the-blame-the-engineer-game
 
 
 ## Sports
