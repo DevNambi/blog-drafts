@@ -17,6 +17,7 @@
 * http://www.thedenverchannel.com/news/u-s-world/cell-phone-video-chandler-officer-illegally-enters-womans-home-arrests-her-while-she-is-naked <- had his body camera off
 * http://www.washingtonpost.com/sf/investigative/2015/12/10/new-style-of-police-training-aims-to-produce-guardians-not-warriors/
 * http://www.theguardian.com/us-news/2015/jul/15/jonathan-sanders-mississppi-chokehold
+* http://www.theverge.com/2014/12/10/7341077/nypd-harlem-crews-social-media-rikers-prison
 * http://prospect.org/article/why-dont-settlements-over-brutality-come-out-police-budgets
 * http://america.aljazeera.com/watch/shows/fault-lines/articles/2015/10/17/mississippi-judge-people-charged-with-crimes-they-are-criminals.html
 * https://www.yahoo.com/tech/s/nypd-scary-sounding-x-ray-vans-refusing-talk-213013174.html

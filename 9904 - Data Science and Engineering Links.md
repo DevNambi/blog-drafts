@@ -290,6 +290,7 @@
 * http://www.simonsfoundation.org/quanta/20141015-at-the-far-ends-of-a-new-universal-law/
 * http://scottsievert.github.io/blog/2015/01/31/the-mysterious-eigenvalue/
 * http://colah.github.io/posts/2015-09-Visual-Information/ <- this is *beautiful*
+* http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/
 * http://simplystatistics.org/2014/10/17/bayes-rule-in-a-gif/
 * http://danluu.com/percentile-latency/
 * https://github.com/twitter/BreakoutDetection
@@ -598,6 +599,7 @@
 * https://github.com/andrewt3000/DL4NLP/blob/master/README.md#deep-learning-for-nlp-resources
 * http://googleresearch.blogspot.com/2015/11/tensorflow-googles-latest-machine_9.html
 * http//iamtrask.github.io/2015/11/15/anyone-can-code-lstm/ <- a great intro to neural nets and LSTM
+* http://arxiv.org/abs/1511.06435 <- "Comparative Study of Caffe, Neon, Theano, and Torch for Deep Learning"
 
 
 

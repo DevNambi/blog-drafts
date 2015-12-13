@@ -223,6 +223,7 @@
 * http://pando.com/2015/05/06/not-in-kansas-anymore-uber-leaves-kansas-after-lawmakers-demand-background-checks-and-more-insurance/
 * http://citypaper.net/uberdriver/
 * http://uberdriverdiaries.com/how-much-do-uber-drivers-really-make/
+* http://arstechnica.com/tech-policy/2015/12/uber-doesnt-want-drivers-to-sue-again-so-it-pushes-them-to-arbitration/ <- bad faith
 
 "It turns out Uber is a replacement for owning a car" say wealthy urbanites who don't have kids, pets, disabilities or outdoor hobbies." - https://twitter.com/mims
 

@@ -140,6 +140,7 @@
 * https://www.jobstart.co/guides/warning-signs-is-it-time-to-leave-your-startup
 * http://www.daedtech.com/the-beggar-ceo-and-sucker-culture
 * http://www.nytimes.com/2015/11/27/us/parents-ready-for-some-love-from-silicon-valley-companies.html
+* http://totalgarb.tumblr.com/tagged/startupbullshit
 
 
 ## Misc
