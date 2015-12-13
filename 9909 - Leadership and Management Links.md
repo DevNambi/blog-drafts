@@ -20,6 +20,7 @@
 * https://hbr.org/2015/04/heres-how-managers-can-be-replaced-by-software <- AWESOME. Payback is divine.
 * https://hbr.org/2014/11/the-hard-data-on-being-a-nice-boss
 * http://www.inc.com/magazine/20090401/how-hard-could-it-be-employees-negotiate-pay-raises.html
+* http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/
 * http://www.npr.org/sections/alltechconsidered/2015/07/08/416515537/amid-new-overtime-rules-more-employers-might-set-email-curfew
 * http://www.dailykos.com/story/2014/07/08/1312523/-These-Two-Studies-Turn-Wall-Street-s-Economic-Argument-On-Its-Head
 * http://tim.dreamwidth.org/1890351.html

@@ -264,6 +264,7 @@
 * http://www.nakedcapitalism.com/2015/11/calpers-debunks-private-equity-executive-summary.html
 * http://www.nakedcapitalism.com/2015/11/calpers-staff-tainted-fiduciary-counsel-argue-to-weaken-board-oversight-by-reducing-number-of-board-meetings.html
 * http://www.commondreams.org/news/2015/11/27/exposed-full-range-collusion-between-big-oil-and-ttip-trade-reps
+* http://wolfstreet.com/2015/12/11/junk-bond-fund-implodes-investors-stuck-focused-credit-fund-by-third-avenue/
 
 
 

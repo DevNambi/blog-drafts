@@ -836,7 +836,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 
 
 
-## How-I-Did-It
+## How-I-Did-It, Industries
 
 <li><a href="http://www.brentozar.com/archive/2013/07/on-bobcats-per-100-orders-and-other-spurious-metrics/" time_added="1388673406" tags="">http://www.brentozar.com/archive/2013/07/on-bobcats-per-100-orders-and-othe</a></li>
 <li><a href="http://t.co/4QHgFG70Ag" time_added="1362377628" tags="data science">How and why LinkedIn is becoming an engineering powerhouse dlvr.it/324Dbg</a></li>
@@ -866,6 +866,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://www.erinshellman.com/data-scientists-at-work/
 * http://cliffmass.blogspot.com/2015/01/forecast-lessons-from-northeast.html <- how to communicate uncertainty
 * http://instagram-engineering.tumblr.com/post/122961624217/trending-at-instagram
+* https://www.oreilly.com/ideas/the-current-state-of-machine-intelligence-2-0
 * http://blog.yhathq.com/posts/decision-making-under-uncertainty.html
 * http://www.datacommunitydc.org/blog/2013/05/recommendation-engines-why-you-shouldnt-build-one
 * https://medium.com/3-to-read/hacking-journalism-data-science-in-the-newsroom-15d7d1b73218

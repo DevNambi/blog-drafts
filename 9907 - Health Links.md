@@ -253,6 +253,7 @@
 * http://www.huffingtonpost.com/2014/11/18/marijuana-brain-cancer_n_6181060.html
 * http://www.abc.net.au/news/2014-10-07/queensland-scientists-discover-cancer-fighting-berry/5796106
 * http://mywifesfightwithbreastcancer.com/
+* http://www.newyorker.com/magazine/2015/12/14/tough-medicine
 
 <li><a href="http://www.moneytrendsresearch.com/scientists-cure-cancer-but-no-one-takes-notice/" time_added="1348860235" tags="health">Scientists Cure Cancer, But No One Takes Notice | MTR</a></li>
 <li><a href="http://flowingdata.com/2013/11/01/cancer-data-for-the-u-s-released/" time_added="1383334490" tags="data sources,health">Cancer data for the U.S. released</a></li>
