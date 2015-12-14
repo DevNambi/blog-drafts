@@ -15,6 +15,7 @@
 * http://www.nytimes.com/aponline/2015/11/18/us/ap-us-mississippi-custody-death.html?_r=1
 * https://www.washingtonpost.com/news/wonk/wp/2015/11/10/report-in-lean-times-police-start-taking-a-lot-more-stuff-from-people/
 * http://www.thedenverchannel.com/news/u-s-world/cell-phone-video-chandler-officer-illegally-enters-womans-home-arrests-her-while-she-is-naked <- had his body camera off
+* http://arstechnica.com/the-multiverse/2015/12/bad-reviews-for-taser-documentary-on-amazon-itunes-seem-to-come-from-taser-employees/
 * http://www.washingtonpost.com/sf/investigative/2015/12/10/new-style-of-police-training-aims-to-produce-guardians-not-warriors/
 * http://www.theguardian.com/us-news/2015/jul/15/jonathan-sanders-mississppi-chokehold
 * http://www.theverge.com/2014/12/10/7341077/nypd-harlem-crews-social-media-rikers-prison
