@@ -113,6 +113,9 @@
 * https://medium.com/backchannel/how-the-tech-press-forces-a-narrative-on-companies-it-covers-5f89fdb7793e
 * https://medium.com/@sfhousingrightscommittee/an-open-letter-to-airbnb-emey-about-housing-and-prop-f-8d1bfb84356
 * http://blog.onradpad.com/employees-are-paying-this-much-to-live-next-to-unicorns-in-sf/
+* https://newrepublic.com/article/124476/dispossessed-land-dreams 
+
+
 
 
 
