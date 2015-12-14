@@ -102,8 +102,9 @@
 
 <li><a href="http://code.google.com/p/google-refine/" time_added="1349104008" tags="data science">google-refine - Google Refine, a power tool for working with messy data (fo</a></li>
 <li><a href="http://vis.stanford.edu/wrangler/" time_added="1349104004" tags="data science">Data Wrangler</a></li>
-* http://radar.oreilly.com/2014/10/challenges-facing-predictive-apis.html
 
+* http://radar.oreilly.com/2014/10/challenges-facing-predictive-apis.html
+* https://github.com/Quartz/bad-data-guide
 
 
 

@@ -299,6 +299,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2015/08/02/education/edlife/stress-social-media-and-suicide-on-campus.html
 * https://jpminda.wordpress.com/2015/08/11/university-students-are-afraid-of-everything/
 * https://computinged.wordpress.com/2015/09/21/a-terrific-and-dismal-view-of-what-influences-cs-faculty-to-adopt-teaching-practices/
+* http://data-magnum.com/predictive-analytics-goes-to-college-to-predict-student-success/
 
 <li><a href="http://www.cosmopolitan.com/politics/a29775/cecily-mcmillan-grad-school-to-jail/" time_added="1407903140" tags="">I Went From Grad School to Prison</a></li>
 <li><a href="http://www.buzzfeed.com/duncanwatts/should-you-go-to-grad-school" time_added="1403057772" tags="">http://www.buzzfeed.com/duncanwatts/should-you-go-to-grad-school</a></li>
