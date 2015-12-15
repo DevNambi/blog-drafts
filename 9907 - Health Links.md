@@ -275,6 +275,7 @@
 * http://a16z.com/2015/11/18/bio-fund/
 * http://varianceexplained.org/r/tidy-genomics/
 * http://www.programmingforbiologists.org/material/
+* http://www.extremetech.com/extreme/219353-evidence-of-a-genetic-fountain-of-youth-discovered
 
 
 #### Diabetes
@@ -664,6 +665,7 @@ pandemic-20150311-story.html
 * http://arstechnica.com/science/2015/11/doctors-urge-feds-to-nix-mergers-between-giant-health-insurers/
 * http://2015.padjo.org/tutorials/sql-walks/exploring-wsj-medicare-investigation-with-sql/ <- AMAZING
 * http://arstechnica.com/science/2015/11/750pill-pharma-company-reverses-decision-to-lower-drug-price/ <- define:scum
+* http://www.nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html
 
 <li><a href="http://t.co/IG6Jdn4S" time_added="1357788683" tags="">lazowska: NY Times: US is an outlier in relying on the private sector to fu</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/11/another-lurking-obamacare-problem-balance-billing.html" time_added="1384907393" tags="corruption,finance,health,important,to_read">Another Lurking Obamacare Problem: Balance Billing « naked capitalism</a></li>

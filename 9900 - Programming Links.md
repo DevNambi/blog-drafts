@@ -121,6 +121,7 @@
 * http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-%E2%80%9Cspaghetti%E2%80%9D-code?
 * http://www.safetyresearch.net/blog/articles/software-promises-and-perils
 * http://www.johndcook.com/blog/2015/11/29/learning-hard-technology/
+* http://devteams.at/well_crafted_code_quality_speed_budget
 
 
 ## Learning to Code

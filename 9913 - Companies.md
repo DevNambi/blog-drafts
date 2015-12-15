@@ -192,6 +192,7 @@
 * http://www.newscientist.com/article/mg22530102.600-google-wants-to-rank-websites-based-on-facts-not-links.html
 * http://adage.com/article/digital/inside-google-s-secret-war-ad-fraud/298652/
 * https://mobile.twitter.com/EricaJoy/status/622079372367781888
+* http://fusion.net/story/244545/famous-and-broke-on-youtube-instagram-social-media/
 
 
 ## Uber
@@ -290,6 +291,7 @@
 * http://www.nytimes.com/2015/06/23/business/takata-is-said-to-have-stopped-safety-audits-as-cost-saving-move.html
 * http://www.reuters.com/article/2015/09/23/us-usa-volkswagen-researchers-idUSKCN0RM2D720150923
 * http://jacquesmattheij.com/volkswagen-and-the-blame-the-engineer-game
+* http://www.nytimes.com/2015/12/14/business/the-engineering-of-volkswagens-aggressive-ambition.html
 
 
 ## Sports
@@ -324,6 +326,7 @@
 * https://hbr.org/2015/08/productivity-is-soaring-at-top-firms-and-sluggish-everywhere-else
 * https://www.propublica.org/article/inside-corporate-americas-plan-to-ditch-workers-comp
 * http://www.washingtonpost.com/news/wonkblog/wp/2015/10/15/ceos-beware-your-astronomical-salaries-may-soon-cost-you-customers/
+* http://www.straightdope.com/columns/read/3265/why-are-there-so-many-mattress-stores
 
 
 

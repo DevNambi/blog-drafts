@@ -159,6 +159,7 @@
 * http://www.zerohedge.com/news/2015-10-19/traders-are-panic-selling-t-bills-after-jack-lew-warns-terrible-debt-limit-accident
 * http://www.theguardian.com/uk-news/2015/dec/08/fall-of-jersey-how-tax-haven-goes-bust
 * http://www.theatlantic.com/magazine/archive/2015/05/can-bankers-behave/389558/
+* https://theintercept.com/2015/12/14/go-see-the-big-short-right-now-and-then-read-this/
 * http://www.bloomberg.com/news/articles/2015-11-15/debt-market-distortions-go-global-as-nothing-makes-sense-anymore
 * http://www.theguardian.com/news/2015/nov/27/hsbc-whistleblower-jailed-five-years-herve-falciani
 * http://www.theatlantic.com/magazine/archive/2015/05/bank-of-the-underworld/389555/

@@ -11,6 +11,7 @@
 * https://ma.ttias.be/remote-code-execution-via-http-request-in-iis-on-windows/
 * http://www.extremetech.com/computing/219027-new-pc-malware-loads-before-windows-is-virtually-impossible-to-detect
 * http://sijmen.ruwhof.net/weblog/608-personal-data-of-dutch-telecom-providers-extremely-poorly-protected-how-i-could-access-12-million-records
+* https://productforums.google.com/forum/m/#!msg/calendar/UhfpcwO0X0c/paA4iQNen9IJ <- Internet of Sh*t
 * http://krebsonsecurity.com/2015/12/when-undercover-credit-card-buys-go-bad/
 * http://arstechnica.com/security/2015/10/new-zero-day-exploit-hits-fully-patched-adobe-flash/
 * http://www.wsj.com/articles/cyber-sleuths-track-hacker-to-chinas-military-1443042030
