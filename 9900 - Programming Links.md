@@ -122,6 +122,9 @@
 * http://www.safetyresearch.net/blog/articles/software-promises-and-perils
 * http://www.johndcook.com/blog/2015/11/29/learning-hard-technology/
 * http://devteams.at/well_crafted_code_quality_speed_budget
+* http://allankelly.blogspot.com/2015/10/software-has-diseconomies-of-scale-not.html
+
+
 
 
 ## Learning to Code
