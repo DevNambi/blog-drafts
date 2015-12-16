@@ -722,7 +722,7 @@ things they believe in will keep </a></li>
 
 
 
-## Misc
+## Misc, Algorithms
 
 <li><a href="http://www.altdevblogaday.com/2011/05/17/understanding-the-fourier-transform/" time_added="1354482426" tags="ml">#AltDevBlogADay » Understanding the Fourier transform</a></li>
 <li><a href="http://highscalability.com/all-time-favorites/" time_added="1351511960" tags="hn">High Scalability - All Time Favorites</a></li>
@@ -755,6 +755,7 @@ things they believe in will keep </a></li>
 * http://caseysoftware.com/blog/dont-attend-a-hackathon
 * http://avc.com/2015/10/software-is-the-new-oil/
 * http://techcrunch.com/2015/12/07/software-eats-software/
+* https://www.quantamagazine.org/20151214-graph-isomorphism-algorithm/
 
 
 

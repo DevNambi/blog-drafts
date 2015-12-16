@@ -101,6 +101,7 @@ Emphasize what we don't know
 * http://www.extremetech.com/extreme/219291-huge-german-fusion-reactor-powers-up-giving-age-old-tech-a-new-shot
 * http://www.theguardian.com/environment/climate-consensus-97-per-cent/2015/may/15/new-study-finds-a-hot-spot-in-the-atmosphere
 * https://www.washingtonpost.com/graphics/national/power-plants/
+* http://www.newyorker.com/magazine/2015/12/21/the-siege-of-miami <- well, they'll be underwater soon enough.
 * http://arstechnica.com/science/2015/05/three-pennsylvania-wells-likely-contaminated-by-fracking/
 * http://arstechnica.com/cars/2015/10/95-of-european-diesels-tested-flunk-emissions-standards/
 * http://www.wired.com/2015/12/the-hyperloops-testing-its-propulsion-system-next-month/

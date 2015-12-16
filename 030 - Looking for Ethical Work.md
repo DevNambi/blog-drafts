@@ -74,6 +74,7 @@ Industries
 * http://digitheadslabnotebook.blogspot.com/2014/11/the-dream-recomb-conference-2014.html
 * http://www.washingtonpost.com/news/wonkblog/wp/2015/10/14/the-most-disruptive-technology-of-the-last-century-is-in-your-house/
 * http://www.seattletimes.com/nation-world/ap-global-supermarkets-selling-shrimp-peeled-by-slaves/
+* http://elpasoheraldpost.com/protests-support-grow-for-fired-lexmark-workers-in-juarez/
 * https://www.washingtonpost.com/news/the-switch/wp/2015/10/15/amid-the-adblockalypse-advertisers-apologize-for-messing-up-the-web/
 * https://medium.com/backchannel/the-man-who-made-the-uk-say-im-sorry-for-what-we-did-to-turing-8fc468dcea6b
 * http://mobile.nytimes.com/2015/04/28/world/europe/pope-francis-steps-up-campaign-on-climate-change-to-conservatives-alarm.html?_r=0
