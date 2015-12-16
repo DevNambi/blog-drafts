@@ -110,6 +110,7 @@ Emphasize what we don't know
 * http://www.californiacoastline.org/
 * http://www.slate.com/blogs/the_slatest/2015/07/20/sea_level_study_james_hansen_issues_dire_climate_warning.html
 * http://arstechnica.com/science/2015/05/how-we-cut-carbon-emissions-influences-our-health/
+* https://theintercept.com/2015/12/16/toxic-firefighting-foam-has-contaminated-u-s-drinking-water-with-pfcs/
 * http://www.nytimes.com/interactive/2015/10/27/world/greenland-is-melting-away.html
 * http://arstechnica.com/science/2015/10/climate-scientists-are-tentative-their-opponents-are-certain-theyre-wrong/
 * http://www.nakedcapitalism.com/2015/09/gaius-publius-will-senator-whitehouse-renew-his-call-for-rico-prosecution-of-climate-denying-companies-like-exxon.html
