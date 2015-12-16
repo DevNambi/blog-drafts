@@ -431,6 +431,7 @@
 * http://www.acmebenchmarking.com/2015/11/benchmarking-cloud-provider-performance.html
 * http://githubengineering.com/githubs-metal-cloud/
 * http://www.infoworld.com/article/3011916/it-jobs/3-hottest-cloud-job-skills-for-2016.html
+* https://aws.amazon.com/blogs/aws/ec2-run-command-update-now-available-for-linux-instances/
 
 
 
