@@ -314,31 +314,4 @@
 * http://seattletimes.com/html/localnews/2025494924_citywalkoutxml.html
 * http://www.seattletimes.com/seattle-news/data/priced-out-has-the-king-county-diaspora-begun/
 * http://www.bizjournals.com/seattle/blog/2015/11/bad-timingas-thousands-of-new-apartments-open.html
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* http://www.citylab.com/work/2015/12/where-us-brainpower-tends-to-cluster/420102/

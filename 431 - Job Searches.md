@@ -134,6 +134,7 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 <li><a href="http://www.washingtonpost.com/news/the-intersect/wp/2015/07/06/googles-algorithm-shows-prestigious-job-ads-to-men-but-not-to-women-heres-why-that-should-worry-you/">Google’s algorithm shows prestigious job ads to men, but not to women. Here’s why that should worry you.</a></li>
 <li><a href="http://blog.fogcreek.com/technical-hiring-and-cultural-fit-interview-with-johanna-rothman/">Technical Hiring and Cultural Fit – Interview with Johanna Rothman</a></li>
 <li><a href="http://deliberate-software.com/on-defeat/">Interview Humiliation</a></li>
+<li><a href="http://blog.interviewing.io/people-cant-gauge-their-own-interview-performance-and-that-makes-them-harder-to-hire/">Engineers can’t gauge their own interview performance. And that makes them harder to hire.</a></li>
 </ul>
 
 
