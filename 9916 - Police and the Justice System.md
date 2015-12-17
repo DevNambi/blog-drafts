@@ -10,6 +10,7 @@
 * http://www.seattletimes.com/nation-world/baltimore-mayor-fires-police-commissioner/
 * http://www.mlive.com/news/kalamazoo/index.ssf/2015/10/police_officer_charged_with_mi.html
 * http://www.bloombergview.com/articles/2015-11-12/stop-and-seize-turns-police-into-self-funding-gangs
+* http://arstechnica.com/tech-policy/2015/12/pre-crime-arrives-in-the-uk-better-make-sure-your-face-stays-off-the-crowdsourced-watch-list/
 * https://www.washingtonpost.com/blogs/wonkblog/wp/2015/06/30/drug-cops-took-a-college-kids-life-savings-and-now-13-police-departments-want-a-cut/
 * http://www.salon.com/2015/10/13/mommy_am_i_gonna_die_cop_shoots_4_year_old_after_aiming_for_family_dog_when_injured_mom_called_911_for_help/
 * http://rockrivertimes.com/2015/12/14/chicago-police-unions-fight-to-destroy-decades-of-records/ 
