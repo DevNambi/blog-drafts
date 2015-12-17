@@ -110,6 +110,7 @@ Industries
 
 * http://www.nakedcapitalism.com/2013/10/ethics-and-complex-systems.html
 * https://www.propublica.org/article/the-corporate-takeover-of-the-red-cross <- screw the execs
+   * http://hcrenewal.blogspot.com/2015/12/how-managerialsm-generic-management.html
 * https://nplusonemag.com/online-only/help-desk/bank-robbin-in-brooklyn/
 * http://www.npr.org/2015/06/03/411524156/in-search-of-the-red-cross-500-million-in-haiti-relief
 * http://www.yesmagazine.org/new-economy/after-decades-in-a-food-desert-these-neighbors-build-a-2-million-co-op-and-they-own-it-20151112
