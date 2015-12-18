@@ -316,6 +316,7 @@ http://www.computerworld.com/article/2879083/southern-california-edison-it-worke
 <li><a href="https://unicornhunt.io/jobs/rockstar-ninja-samurai-folk-developer-at-be-more-unicorn">Rockstar Ninja Samurai Folk Developer - Be More Unicorn</a></li>
 <li><a href="https://medium.com/@oscargodson/how-zenefits-just-lost-an-engineer-3f09898dbcf9">How Zenefits just lost an engineer</a></li>
 <li><a href="https://medium.com/@louisgray/layoffs-and-loyalty-in-a-liquid-valley-4b42bd5e26d7">Loyalty and Layoffs in a Liquid Valley</a></li>
+<li><a href="http://danluu.com/startup-tradeoffs/">Big Company vs. Startup Work and Compensation</a></li>
 </ul>
 
 **Other**

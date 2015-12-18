@@ -34,6 +34,8 @@
 * http://www.themoneyillusion.com/?p=31322
 * http://www.reuters.com/article/2015/11/27/us-global-markets-idUSKBN0TG02420151127
 * http://www.nytimes.com/2015/11/29/business/international/chinese-cash-floods-us-real-estate-market.html
+* http://www.nakedcapitalism.com/2015/12/michael-hudson-the-imf-changes-its-rules-to-isolate-china-and-russia.html
+* http://features.columbiaspectator.com/opinion/2015/12/14/the-chinese-elite-at-columbia/ <- Eloquent and powerful
 
 
 
@@ -73,6 +75,7 @@
 #### Greece
 
 * http://www.nakedcapitalism.com/2014/12/greece-eurozones-rescue-troika-forgive-greeces-debt.html
+* http://www.politico.eu/article/what-i-learned-about-greeces-year-from-hell-tsipras-varoufakis-austerity/
 * http://www.spiegel.de/international/europe/greek-debt-crisis-how-goldman-sachs-helped-greece-to-mask-its-true-debt-a-676634.html
 * http://www.nakedcapitalism.com/2015/04/syriza-failed.html
 * http://www.nakedcapitalism.com/2015/04/coming-defaults-greece.html

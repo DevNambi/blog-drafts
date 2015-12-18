@@ -606,6 +606,8 @@ pandemic-20150311-story.html
 
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
 * http://www.theatlantic.com/technology/archive/2015/11/the-algorithm-that-will-buy-you-health-insurance-honeyinsured/414765/?single_page=true
+* https://theintercept.com/2015/12/16/why-are-drug-monopolies-running-amok-meet-deborah-feinstein/
+* http://www.wsj.com/articles/the-art-of-setting-a-drug-price-1449628081
 * http://techcrunch.com/2015/10/20/amino/
 * http://www.nytimes.com/2015/09/08/health/what-are-a-hospitals-costs-utah-system-is-trying-to-learn.html
 * http://www.seattletimes.com/seattle-news/health/group-health-to-be-acquired-by-kaiser/
