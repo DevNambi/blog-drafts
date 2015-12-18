@@ -281,6 +281,7 @@
 * https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d
 * https://chriskohlhepp.wordpress.com/specification-driven-programming-in-common-lisp/
 * http://www.yegor256.com/2015/10/27/outsourcing-doesnt-work.html
+* http://www.seattletimes.com/seattle-news/education/plan-for-new-uw-payroll-system-behind-schedule-more-costly-than-expected/ <- waterfall approach
 
 
 
