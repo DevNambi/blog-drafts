@@ -260,6 +260,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.nakedcapitalism.com/2015/11/turkeys-shootdown-of-russian-jet-what-you-need-to-know.html
 * http://mobile.nytimes.com/2015/12/04/world/asia/afghanistan-civilian-casualty-khost.html <- here's the next generation of terrorists and extremists. 
 * https://www.propublica.org/article/the-dea-narco-terror-trap
+* http://www.theatlantic.com/magazine/archive/2016/01/drug-enforcement-agency-mexico-drug-cartel/419100/
 
 
 

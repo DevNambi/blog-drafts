@@ -276,6 +276,7 @@
 * http://varianceexplained.org/r/tidy-genomics/
 * http://www.programmingforbiologists.org/material/
 * http://www.extremetech.com/extreme/219353-evidence-of-a-genetic-fountain-of-youth-discovered
+* http://www.theatlantic.com/science/archive/2015/12/why-human-genetics-research-is-full-of-costly-mistakes/420693/
 
 
 #### Diabetes
