@@ -130,6 +130,7 @@ ortant,personal tech">Kill the Password: Why a String of Characters Can't Protec
 * https://github.com/Jack000/Expose
 * http://jekyllrb.com/news/2015/10/26/jekyll-3-0-released/
 * https://engineering.wework.com/engineering/2015/12/08/why-wework-com-uses-a-static-generator-and-why-you-should-too/
+* https://aws.amazon.com/blogs/aws/new-gzip-compression-support-for-amazon-cloudfront/
 
 
 **My Most Useful Links**
