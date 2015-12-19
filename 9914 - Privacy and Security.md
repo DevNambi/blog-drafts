@@ -33,6 +33,7 @@
 * https://mitpress.mit.edu/books/obfuscation
 * https://bananas.liberty.me/youre-a-criminal-in-a-mass-surveillance-world-how-to-not-get-caught/ <- critically important
 * https://medium.com/message/the-hypocrisy-of-the-internet-journalist-587d33f6279e
+* https://theintercept.com/surveillance-catalogue/
 * http://arstechnica.com/security/2015/03/anti-doxing-strategy-or-how-to-avoid-50-qurans-and-287-of-chick-fil-a/ <- incredibly important read
 * http://monica-at-mozilla.blogspot.com/2015/05/tracking-protection-for-firefox-at-web.html <- priceless
 * http://www.latimes.com/nation/la-na-supreme-court-data-privacy-20151102-story.html

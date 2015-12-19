@@ -30,6 +30,11 @@ Prices differ by time of day
 * Which times have the most price 'bursts'?
 * Which instance types have the most price 'bursts?'
 
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-fleet.html
+
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/how-spot-instances-work.html
+
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-limits.html
 
 ---- 
 
