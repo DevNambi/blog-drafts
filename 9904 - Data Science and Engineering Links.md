@@ -94,6 +94,7 @@
 * http://minimaxir.com/2015/10/reddit-bigquery/ <- Amazing
 * http://www.nature.com/articles/sdata201555
 * http://jmcauley.ucsd.edu/data/amazon/
+* https://developers.google.com/knowledge-graph/
 
 
 
