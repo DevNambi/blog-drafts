@@ -14,6 +14,7 @@
 * https://productforums.google.com/forum/m/#!msg/calendar/UhfpcwO0X0c/paA4iQNen9IJ <- Internet of Sh*t
 * http://krebsonsecurity.com/2015/12/when-undercover-credit-card-buys-go-bad/
 * http://arstechnica.com/security/2015/10/new-zero-day-exploit-hits-fully-patched-adobe-flash/
+* http://www.wired.com/2015/12/the-cia-secret-to-cybersecurity-that-no-one-seems-to-get/
 * http://www.wsj.com/articles/cyber-sleuths-track-hacker-to-chinas-military-1443042030
 * http://arstechnica.com/security/2015/11/hacking-tool-swipes-encrypted-credentials-from-password-manager/
 * http://www.bloomberg.com/features/2015-hospital-hack/

@@ -507,6 +507,7 @@ pandemic-20150311-story.html
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://www.seattletimes.com/seattle-news/health/judge-yakima-hospital-demanded-money-from-the-poor-violated-law/
 * http://www.statnews.com/2015/11/12/drug-makers-need-disclose-clinical-trial-data-study-says/
 * http://www.krmg.com/news/news/local/chlamydia-rampant-texas-abstinence-only-high-schoo/npFNw/#cmComments
 * http://www.theatlantic.com/health/archive/2015/11/texas-self-abort/416229/
