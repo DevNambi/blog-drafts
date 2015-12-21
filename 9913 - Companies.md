@@ -300,6 +300,11 @@
 * http://www.thedailybeast.com/articles/2015/12/06/the-sports-bubble-is-about-to-pop.html <- send to Seattle-ish
 
 
+## Shipping, Logistics
+
+* http://www.seattletimes.com/business/shipping-mania-rushing-to-deliver-millions-of-holiday-gifts/
+
+
 ## Misc
 
 * http://www.reuters.com/article/2014/11/16/us-usa-chemicals-death-idUSKCN0J001B20141116

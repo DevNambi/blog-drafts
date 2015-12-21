@@ -21,6 +21,7 @@
 * http://arstechnica.com/security/2015/10/the-rise-of-the-zero-day-market/
 * http://www.nationalcrimeagency.gov.uk/crime-threats/cyber-crime/cyber-crime-preventing-young-people-from-getting-involved
 * http://qz.com/545978/a-federal-judges-ruling-against-the-nsa-is-a-big-win-for-edward-snowden/
+* http://www.seattletimes.com/nation-world/ap-investigation-us-power-grid-vulnerable-to-foreign-hacks-2/
 * http://offbeathome.com/2014/10/temporary-home-security
 * https://thestack.com/security/2015/09/24/cookies-can-render-secure-websites-vulnerable-in-all-modern-browsers/
 * http://arstechnica.com/security/2015/11/hey-readers-digest-your-site-has-been-attacking-visitors-for-days/
