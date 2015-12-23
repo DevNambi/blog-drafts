@@ -22,6 +22,8 @@
 * http://time.com/3984957/independent-contractor-versus-employee-startups/
 * http://recode.net/2015/08/05/yes-uber-lost-a-lot-of-money-and-it-will-lose-more/
 * https://medium.com/backchannel/why-homejoy-failed-bb0ab39d901a
+* http://www.nytimes.com/2015/12/27/technology/when-a-unicorn-start-up-stumbles-its-employees-get-hurt.html <- how to screw over your employees
+
 
 
 

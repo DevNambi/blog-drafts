@@ -22,6 +22,7 @@
 * http://7goldfish.com/Little%20know%20ways%20to%20think%20about%20dicipline
 * http://www.npr.org/blogs/health/2015/01/05/371894919/what-heroin-addiction-tells-us-about-changing-bad-habits
 * http://www.theguardian.com/education/2014/feb/27/musicians-better-language-learners
+* http://www.johndcook.com/blog/2015/12/22/automate-to-save-mental-energy-not-time/
 * http://arstechnica.com/science/2015/04/the-internet-doesnt-make-you-smarter-you-only-think-it-does/
 * http://www.iflscience.com/health-and-medicine/15-tips-keep-your-mind-alert-and-focused
 * http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004020

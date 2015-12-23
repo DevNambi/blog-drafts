@@ -353,6 +353,7 @@ pandemic-20150311-story.html
 * http://andrewgelman.com/2015/08/04/pro-publicas-new-surgeon-scorecards/
 * http://www.nytimes.com/2015/07/12/health/modern-doctors-house-calls-skype-chat-and-fast-diagnosis.html
 * http://www.seattletimes.com/nation-world/some-acid-reflux-drugs-safety-questioned/
+* http://www.extremetech.com/extreme/219757-the-bionic-pancreas-harbinger-of-a-new-era-in-organ-replacement
 * http://www.psmag.com/health-and-behavior/worst-possible-surgery-scenarios
     * http://www.surgjournal.com/article/S0039-6060(15)00315-3/abstract
 * http://www.thestranger.com/features/feature/2015/04/15/22062331/i-sat-in-on-my-sons-sex-ed-class-and-i-was-shocked-by-what-i-heard
@@ -507,6 +508,7 @@ pandemic-20150311-story.html
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://www.nytimes.com/2015/12/20/opinion/sunday/when-hospital-paperwork-crowds-out-hospital-care.html
 * http://www.seattletimes.com/seattle-news/health/judge-yakima-hospital-demanded-money-from-the-poor-violated-law/
 * http://www.statnews.com/2015/11/12/drug-makers-need-disclose-clinical-trial-data-study-says/
 * http://www.krmg.com/news/news/local/chlamydia-rampant-texas-abstinence-only-high-schoo/npFNw/#cmComments
@@ -642,6 +644,7 @@ pandemic-20150311-story.html
 * http://mobile.nytimes.com/2015/01/15/opinion/why-drugs-cost-so-much.html <- http://mobile.nytimes.com/2015/01/15/opinion/why-drugs-cost-so-much.html
 * http://www.propublica.org/article/government-releases-massive-trove-of-data-on-doctors-prescribing-patterns
 * http://seattletimes.com/html/nationworld/2021065979_employeehealthxml.html
+* http://www.modernhealthcare.com/article/20151221/NEWS/151229975 <- Medicare drug-cost data
 * http://www.nytimes.com/2015/03/24/upshot/why-hospitals-are-wrong-about-shifting-costs-to-private-insurers.html
 * http://seattletimes.com/html/localnews/2021250318_hospitalcostsxml.html
 * http://www.npr.org/blogs/health/2014/10/21/357780794/more-insurers-put-spending-limits-on-medical-treatments

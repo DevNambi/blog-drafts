@@ -320,6 +320,8 @@
 * http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb <- AMAZING
 * https://github.com/markdregan/Bayesian-Modelling-in-Python
 * https://www.vividcortex.com/blog/why-percentiles-dont-work-the-way-you-think
+* http://hameddaily.blogspot.com/2015/12/evaluation-of-time-series-forecasting.html
+
 
 
 "Remember, nonlinear interactions, and non-Gaussian distributions are common. "

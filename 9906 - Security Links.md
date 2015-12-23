@@ -3,6 +3,8 @@
 
 * http://www.bloomberg.com/news/2014-10-02/jpmorgan-says-data-breach-affected-76-million-households.html
 * http://bits.blogs.nytimes.com/2015/10/14/hackers-prove-they-can-pwn-the-lives-of-those-not-hyperconnected/
+* http://arstechnica.com/tech-policy/2015/12/hillary-clinton-wants-manhattan-like-project-to-break-encryption/
+* https://theintercept.com/2015/06/20/wikileaks-jacob-appelbaum-google-investigation/
 * http://www.wired.com/2015/06/united-flights-grounded-mysterious-problem/
 * http://arstechnica.com/information-technology/2015/08/lenovo-used-windows-anti-theft-feature-to-install-persistent-crapware/
 * https://securelist.com/analysis/publications/72652/beaches-carnivals-and-cybercrime-a-look-inside-the-brazilian-underground/
