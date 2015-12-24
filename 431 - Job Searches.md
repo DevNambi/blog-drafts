@@ -136,6 +136,7 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 <li><a href="http://deliberate-software.com/on-defeat/">Interview Humiliation</a></li>
 <li><a href="http://blog.interviewing.io/people-cant-gauge-their-own-interview-performance-and-that-makes-them-harder-to-hire/">Engineers can’t gauge their own interview performance. And that makes them harder to hire.</a></li>
 <li><a href="http://www.nytimes.com/2015/12/20/opinion/sunday/the-one-question-you-should-ask-about-every-new-job.html">The One Question You Should Ask About Every New Job</a></li>
+<li><a href="http://startupljackson.com/post/135800367395/how-to-get-rich-in-tech-guaranteed">How to get rich in tech, guaranteed.</a></li>
 </ul>
 
 

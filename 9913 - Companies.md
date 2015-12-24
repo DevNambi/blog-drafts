@@ -135,7 +135,6 @@
 <li><a href="http://www.theatlantic.com/business/archive/2014/02/indisputable-evidence-that-millennials-have-it-worse-than-any-generation-in-50-years/283752/" time_added="1392162368" tags="">Indisputable Evidence That Millennials Have It Worse Than Any Generation in</a></li>
 <li><a href="http://arstechnica.com/tech-policy/2014/01/how-the-fcc-screwed-up-its-chance-to-make-isp-blocking-illegal/" time_added="1389751611" tags="">http://arstechnica.com/tech-policy/2014/01/how-the-fcc-screwed-up-its-chanc</a></li>
 <li><a href="http://arstechnica.com/tech-policy/2014/01/drop-regulatory-hammer-on-internet-providers-says-former-fcc-commish/" time_added="1390587326" tags="">Make ISPs into "common carriers," says former FCC commissioner</a></li>
-<li><a href="http://mobile.businessweek.com/articles/2014-07-24/netflixs-content-delivery-chief-endures-isp-streaming-fees" time_added="1406301540" tags="">Netflix's Ken Florance: The Man Who Keeps the Video Streaming - Businesswee</a></li>
 <li><a href="http://arstechnica.com/business/2014/05/top-isps-threaten-to-be-less-innovative-and-spend-less-on-network-upgrades/" time_added="1400027911" tags="">Top ISPs threaten to innovate less, spend less on network upgrades | Ars Te</a></li>
 <li><a href="https://neocities.org/blog/the-fcc-is-now-rate-limited" time_added="1399574948" tags="">The Official NeoCities Blog</a></li>
 <li><a href="http://www.theregister.co.uk/2014/02/14/google_will_upgrade_fiber_network_to_give_10gbps_home_broadband/" time_added="1392502610" tags="">Google promises 10Gps fiber network to blast 4K into living rooms • The Reg</a></li>
@@ -239,10 +238,18 @@
 * http://www.seattletimes.com/nation-world/world/fishermen-rush-to-be-rescued-amid-indonesian-slavery-probe/
 * http://mobile.nytimes.com/blogs/publiceditor/2015/04/10/a-darker-narrative-of-prints-future-from-clay-shirky/
 * https://medium.com/@harrisj/leaving-the-new-york-times-bb3e73adc61f
-* http://bgr.com/2015/05/16/netflix-vs-amazon-prime-reality-shows/
 * http://www.theawl.com/2015/10/the-chicago-end-times
-* http://www.businessinsider.com/cable-companies-cut-ads-because-of-netflix-2015-11?IR=T
 * https://medium.com/@jwherrman/tech-is-eating-media-now-what-807047ad4ede
+
+
+
+## Netflix
+
+<li><a href="http://mobile.businessweek.com/articles/2014-07-24/netflixs-content-delivery-chief-endures-isp-streaming-fees" time_added="1406301540" tags="">Netflix's Ken Florance: The Man Who Keeps the Video Streaming - Businesswee</a></li>
+
+* https://donmelton.com/2015/12/21/what-the-new-video-compression-strategy-from-netflix-means-for-apple-and-amazon/
+* http://bgr.com/2015/05/16/netflix-vs-amazon-prime-reality-shows/
+* http://www.businessinsider.com/cable-companies-cut-ads-because-of-netflix-2015-11?IR=T
 
 
 

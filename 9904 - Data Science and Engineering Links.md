@@ -455,6 +455,7 @@
 * http://willmcginnis.com/2015/11/29/beyond-one-hot-an-exploration-of-categorical-variables/
 * http://news.mit.edu/2015/automating-big-data-analysis-1016
 * http://cs.stanford.edu/people/karpathy/nips2015/
+* https://peadarcoyle.wordpress.com/2015/12/23/three-things-i-wish-i-knew-earlier-about-machine-learning/
 
 
 

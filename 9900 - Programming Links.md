@@ -476,6 +476,7 @@
 * http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/
 * http://blog.kaggle.com/2015/12/07/three-things-i-love-about-jupyter-notebooks/
 * http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb
+* http://blog.rtwilson.com/my-top-5-new-python-modules-of-2015/
 * http://nbviewer.ipython.org/github/chrisalbon/code_py/tree/master/ <- HOLY CRAP THAT'S AMAZING
 * http://anandology.com/python-practice-book/index.html
 * http://blog.yhathq.com/posts/11-python-libraries-you-might-not-know.html
