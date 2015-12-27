@@ -100,6 +100,7 @@
 * http://arstechnica.com/tech-policy/2015/11/france-passes-new-emergency-snooping-censorship-law-in-wake-of-paris-attacks/
 * http://arstechnica.com/tech-policy/2015/11/judge-stingrays-are-simply-too-powerful-without-adequate-oversight/
 * http://arstechnica.com/tech-policy/2015/10/german-parliament-passes-new-comprehensive-data-retention-law/
+* https://theintercept.com/2015/03/02/signal-iphones-encrypted-messaging-app-now-supports-text/
 * http://arstechnica.com/tech-policy/2015/03/we-know-where-youve-been-ars-acquires-4-6m-license-plate-scans-from-the-cops/
 * https://medium.com/@arankhanna/stalking-your-friends-with-facebook-messenger-9da8820bd27d
 * http://www.wsj.com/articles/ad-blockers-internet-advertisers-play-cat-and-mouse-1437046675

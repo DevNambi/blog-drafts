@@ -45,6 +45,7 @@
 * http://arstechnica.com/science/2015/10/marijuana-exposure-in-utero-has-lifelong-consequences/
 * http://qz.com/273255/how-american-parenting-is-killing-the-american-marriage/
 * http://www.washingtonpost.com/news/to-your-health/wp/2015/08/11/the-most-depressing-statistic-imaginable-about-being-a-new-parent/
+* http://conversableeconomist.blogspot.com/2015/12/how-mtvs-16-and-pregnant-reduced-teen.html
 * http://qz.com/470751/your-brain-is-particularly-vulnerable-to-trauma-at-two-distinct-ages/
 * http://www.motherjones.com/politics/2015/05/schools-behavior-discipline-collaborative-proactive-solutions-ross-greene
 * http://well.blogs.nytimes.com/2015/07/06/screen-addiction-is-taking-a-toll-on-children/
