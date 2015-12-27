@@ -243,6 +243,8 @@
 * http://www.salon.com/2013/10/13/the_9_smartest_marriage_tips_ever/
 * http://driftingthrough.com/2015/11/20/the-thing-all-women-do-that-you-dont-know-about/
 * http://www.seattletimes.com/nwshowcase/careers/alexis-alloways-cool-job-in-environmental-education-2/
+* http://www.nytimes.com/2015/12/27/upshot/marriages-of-power-couples-reinforce-income-inequality.html
+* http://qz.com/572284/the-tail-end/
 
 
 
@@ -289,6 +291,7 @@
 * http://www.jefftk.com/p/mercury-spill
 * http://www.vox.com/2015/10/28/9622920/housing-adult-friendship
 * http://www.komonews.com/news/offbeat/Photos-Company-builds-Hobbit-Houses-you-can-live-in-361031291.html
+* http://www.vox.com/2015/12/23/10657690/seattle-housing-crisis
 
 
 

@@ -381,6 +381,7 @@
 * http://aws.amazon.com/blogs/aws/new-aws-directory-service/
 * http://www.hokstad.com/docker/patterns
 * https://www.backblaze.com/blog/petabytes-on-a-budget-how-to-build-cheap-cloud-storage-2/
+* https://cloudonaut.io/5-aws-mistakes-you-should-avoid/
 * http://www.cringely.com/2015/04/27/aws-shows-cloud-is-not-a-high-margin-business/
 * http://techcrunch.com/2015/11/24/aws-lamda-makes-serverless-applications-a-reality/
 * http://techcrunch.com/2015/04/20/microsoft-announces-azure-service-fabric-a-new-framework-for-building-scalable-cloud-services/
@@ -434,6 +435,7 @@
 * http://githubengineering.com/githubs-metal-cloud/
 * http://www.infoworld.com/article/3011916/it-jobs/3-hottest-cloud-job-skills-for-2016.html
 * https://aws.amazon.com/blogs/aws/ec2-run-command-update-now-available-for-linux-instances/
+* http://www.agner.org/optimize/blog/read.php?i=417
 
 
 
