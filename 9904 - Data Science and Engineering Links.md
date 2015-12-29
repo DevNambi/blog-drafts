@@ -707,6 +707,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://sloanreview.mit.edu/article/why-managing-data-scientists-is-different/
 * https://www.linkedin.com/pulse/cargo-cult-data-science-george-roumeliotis
 * http://techcrunch.com/2015/11/26/machine-intelligence-in-the-real-world/
+* http://www.huffingtonpost.com/vala-afshar/2015-state-of-analytics-2_b_8611382.html
 
 
 
