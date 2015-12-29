@@ -7,6 +7,9 @@
 	* Doing good work
 * Most interesting research
 * Most interesting technological breakthroughs
+* Analysis projects I'd like to do, or have done
+* Business ideas I would want to explore. 
+* Ideas
 
 ### Background
 
