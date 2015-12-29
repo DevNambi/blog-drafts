@@ -85,6 +85,7 @@
 * http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html
 * https://www.schneier.com/blog/archives/2015/12/using_law_again.html
 * http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+* http://www.scriptcrafty.com/basic-infrastructure-patterns/
 
 
 
@@ -125,6 +126,7 @@
 * http://www.johndcook.com/blog/2015/11/29/learning-hard-technology/
 * http://devteams.at/well_crafted_code_quality_speed_budget
 * http://allankelly.blogspot.com/2015/10/software-has-diseconomies-of-scale-not.html
+* https://medium.com/@nicolaerusan/conceptual-debt-is-worse-than-technical-debt-5b65a910fd46
 
 
 
@@ -284,6 +286,7 @@
 * https://chriskohlhepp.wordpress.com/specification-driven-programming-in-common-lisp/
 * http://www.yegor256.com/2015/10/27/outsourcing-doesnt-work.html
 * http://www.seattletimes.com/seattle-news/education/plan-for-new-uw-payroll-system-behind-schedule-more-costly-than-expected/ <- waterfall approach
+* https://18f.gsa.gov/2015/12/29/is-your-project-using-agilefall/ <- this is why.
 
 
 
@@ -437,6 +440,7 @@
 * http://www.infoworld.com/article/3011916/it-jobs/3-hottest-cloud-job-skills-for-2016.html
 * https://aws.amazon.com/blogs/aws/ec2-run-command-update-now-available-for-linux-instances/
 * http://www.agner.org/optimize/blog/read.php?i=417
+* https://github.com/awslabs/aws-shell
 
 
 
@@ -597,6 +601,7 @@ Microsoft and other third-party developers have a huge problem: they don't liste
 * http://www.vitavonni.de/blog/201503/2015031201-the-sad-state-of-sysadmin-in-the-age-of-containers.html
 * https://www.edx.org/course/linuxfoundationx/linuxfoundationx-lfs101x-introduction-1621
 * http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html
+* http://tldr-pages.github.io/
 
 
 
@@ -763,6 +768,7 @@ things they believe in will keep </a></li>
 * http://avc.com/2015/10/software-is-the-new-oil/
 * http://techcrunch.com/2015/12/07/software-eats-software/
 * https://www.quantamagazine.org/20151214-graph-isomorphism-algorithm/
+* https://www.perforce.com/blog/110928/short-history-btree
 
 
 

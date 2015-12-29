@@ -40,6 +40,7 @@
 * http://seattletimes.com/html/businesstechnology/2025244750_apxtecidentitytheftthehassle.html
 * https://www.eff.org/deeplinks/2015/06/why-facebook-failed-our-censorship-test
 * http://www.viola-notes.com/why-resistance-to-ad-blocking-is-futile-and-whats-next-for-digital-advertising/
+* https://theintercept.com/2015/12/28/recently-bought-a-windows-computer-microsoft-probably-has-your-encryption-key/
 * http://www.theawl.com/2015/08/time-is-a-privacy-setting
 * http://www.businessinsider.com/how-to-block-companies-tracking-you-on-facebook-2014-1
 * http://arstechnica.co.uk/tech-policy/2015/07/cameron-reaffirms-there-will-be-no-safe-spaces-from-uk-government-snooping/

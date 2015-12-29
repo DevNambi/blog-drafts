@@ -8,8 +8,10 @@
 * http://www.wired.com/2015/06/united-flights-grounded-mysterious-problem/
 * http://arstechnica.com/information-technology/2015/08/lenovo-used-windows-anti-theft-feature-to-install-persistent-crapware/
 * https://securelist.com/analysis/publications/72652/beaches-carnivals-and-cybercrime-a-look-inside-the-brazilian-underground/
+* http://krebsonsecurity.com/2015/12/2016-reality-lazy-authentication-still-the-norm/
 * https://vimeo.com/135347162 <- James Mickens' talk
 * http://www.extremetech.com/computing/212038-oracle-tells-its-customers-to-stop-analyzing-its-code-for-security-flaws
+* http://betanews.com/2015/12/27/china-passes-law-requiring-tech-firms-to-hand-over-encryption-keys/
 * https://ma.ttias.be/remote-code-execution-via-http-request-in-iis-on-windows/
 * http://www.extremetech.com/computing/219027-new-pc-malware-loads-before-windows-is-virtually-impossible-to-detect
 * https://medium.com/@networksecurity/oleoutlook-bypass-almost-every-corporate-security-control-with-a-point-n-click-gui-37f4cbc107d0

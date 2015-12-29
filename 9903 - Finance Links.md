@@ -69,6 +69,7 @@
 * http://wolfstreet.com/2015/09/13/brazil-about-to-drag-down-spains-biggest-bank-santander/
 * http://wolfstreet.com/2015/10/16/big-vw-investors-lost-their-shirts-blame-lobbying-for-dieselgate/
 * http://www.theguardian.com/world/2015/oct/22/three-days-to-save-the-euro-greece
+* http://www.nytimes.com/2015/12/26/business/pawnshops-emerge-as-solid-lender-in-post-austerity-spain.html
 
 
 
@@ -269,6 +270,10 @@
 * http://www.nakedcapitalism.com/2015/11/calpers-staff-tainted-fiduciary-counsel-argue-to-weaken-board-oversight-by-reducing-number-of-board-meetings.html
 * http://www.commondreams.org/news/2015/11/27/exposed-full-range-collusion-between-big-oil-and-ttip-trade-reps
 * http://wolfstreet.com/2015/12/11/junk-bond-fund-implodes-investors-stuck-focused-credit-fund-by-third-avenue/
+* http://wolfstreet.com/2015/12/28/where-the-heck-is-the-dumb-bid-in-this-illiquid-market/
+* http://wolfstreet.com/2015/12/25/lower-oil-prices-are-shaking-the-world/
+* http://www.telegraph.co.uk/finance/economics/12071761/Saudi-riyal-in-danger-as-oil-war-escalates.html
+* http://wolfstreet.com/2015/12/29/5-possible-market-moving-surprises-in-energy-for-2016/
 
 
 
@@ -511,6 +516,9 @@
 * http://wolfstreet.com/2015/10/12/junk-bond-issuance-collapses-distress-ratio-spikes/
 * http://wolfstreet.com/2015/10/09/last-time-this-ratio-reached-that-level-stocks-crashed/
 * http://mobile.nytimes.com/2015/10/25/business/energy-environment/americas-heartland-feels-a-chill-from-collapsing-commodity-prices.html
+* http://www.nakedcapitalism.com/2015/12/ilargi-2016-is-an-easy-year-to-predict.html
+* http://nymag.com/daily/intelligencer/2015/12/big-short-genius-says-another-crisis-is-coming.html
+
 
 
 

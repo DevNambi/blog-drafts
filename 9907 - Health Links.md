@@ -256,6 +256,8 @@
 * http://www.abc.net.au/news/2014-10-07/queensland-scientists-discover-cancer-fighting-berry/5796106
 * http://mywifesfightwithbreastcancer.com/
 * http://www.newyorker.com/magazine/2015/12/14/tough-medicine
+* http://www.nytimes.com/2015/12/29/upshot/why-preventing-cancer-is-not-the-priority-in-drug-development.html
+
 
 <li><a href="http://www.moneytrendsresearch.com/scientists-cure-cancer-but-no-one-takes-notice/" time_added="1348860235" tags="health">Scientists Cure Cancer, But No One Takes Notice | MTR</a></li>
 <li><a href="http://flowingdata.com/2013/11/01/cancer-data-for-the-u-s-released/" time_added="1383334490" tags="data sources,health">Cancer data for the U.S. released</a></li>
@@ -279,6 +281,7 @@
 * http://www.programmingforbiologists.org/material/
 * http://www.extremetech.com/extreme/219353-evidence-of-a-genetic-fountain-of-youth-discovered
 * http://www.theatlantic.com/science/archive/2015/12/why-human-genetics-research-is-full-of-costly-mistakes/420693/
+* http://www.npr.org/sections/health-shots/2015/12/28/460705645/gene-editing-tool-hailed-as-a-breakthrough-and-it-really-is-one
 
 
 #### Diabetes
@@ -302,6 +305,7 @@
 * http://newoldage.blogs.nytimes.com/2014/09/24/study-links-anxiety-drugs-to-alzheimers-disease/
 * http://www.sciencealert.com/bilingual-people-are-twice-as-likely-to-recover-from-a-stroke-study-finds
 * http://yourmedicalguide.info/italian-doctor-may-have-found-surprisingly-simple-cure-for-multiple-sclerosis/
+* http://nautil.us/issue/31/stress/what-alzheimers-feels-like-from-the-inside
 
 #### Antibiotics, Drug Resistance
 

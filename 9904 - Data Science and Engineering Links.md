@@ -321,6 +321,7 @@
 * https://github.com/markdregan/Bayesian-Modelling-in-Python
 * https://www.vividcortex.com/blog/why-percentiles-dont-work-the-way-you-think
 * http://hameddaily.blogspot.com/2015/12/evaluation-of-time-series-forecasting.html
+* http://daithiocrualaoich.github.io/kolmogorov_smirnov/
 
 
 

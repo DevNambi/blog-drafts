@@ -34,6 +34,8 @@
 * https://www.reddit.com/r/AskReddit/comments/3p0sl2/redditors_that_have_mastered_the_art_of_small/
 * http://www.theatlantic.com/health/archive/2015/10/how-friendships-change-over-time-in-adulthood/411466/
 * http://www.newyorker.com/books/page-turner/the-two-asian-americas
+* http://ngm.nationalgeographic.com/2016/01/call-to-wild-text
+
 
 
 
@@ -245,6 +247,7 @@
 * http://www.seattletimes.com/nwshowcase/careers/alexis-alloways-cool-job-in-environmental-education-2/
 * http://www.nytimes.com/2015/12/27/upshot/marriages-of-power-couples-reinforce-income-inequality.html
 * http://qz.com/572284/the-tail-end/
+* http://www.nytimes.com/2015/01/11/fashion/modern-love-to-fall-in-love-with-anyone-do-this.html
 
 
 
@@ -320,3 +323,4 @@
 * http://www.seattletimes.com/seattle-news/data/priced-out-has-the-king-county-diaspora-begun/
 * http://www.bizjournals.com/seattle/blog/2015/11/bad-timingas-thousands-of-new-apartments-open.html
 * http://www.citylab.com/work/2015/12/where-us-brainpower-tends-to-cluster/420102/
+* http://www.geekwire.com/2015/find-out-which-natural-disaster-is-most-likely-to-hit-you-with-this-handy-map/

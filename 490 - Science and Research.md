@@ -20,6 +20,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://arstechnica.com/science/2015/11/american-meteorological-society-to-congress-ease-off-noaa-scientists/
 * http://www.extremetech.com/mobile/218002-the-6-best-science-apps-for-your-phone-or-tablet
 * http://www.nytimes.com/2015/03/24/science/when-science-is-lost-in-a-legal-maze.html
+* http://sitn.hms.harvard.edu/flash/2015/reproduce-or-bust-bringing-reproducibility-back-to-center-stage/
 * http://www.theatlantic.com/education/archive/2015/10/complex-academic-writing/412255/?single_page=true
 * https://www.nasa.gov/image-feature/the-icy-mountains-of-pluto
 * http://m.nautil.us/blog/the-best-way-to-reduce-research-bias-is-hiding-in-plain-view

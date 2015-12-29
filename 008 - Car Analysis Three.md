@@ -121,4 +121,5 @@ DEMO - ROI, diminishing returns, cost:value
 * http://www.nytimes.com/2015/04/23/technology/personaltech/an-online-tune-up-for-the-used-car-marketplace.html
 * http://www.japantimes.co.jp/news/2014/04/07/business/gods-edging-out-robots-at-toyota-facility/
 * http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-“spaghetti”-code
+* http://blog.instamotor.com/why-dealership-used-cars-cost-more/
 
