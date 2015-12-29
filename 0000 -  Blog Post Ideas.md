@@ -16,3 +16,8 @@
 http://ozar.me/2015/12/my-top-blog-posts-from-2015/
 
 http://thomaslarock.com/2015/12/15-things-that-didnt-happen-to-me-in-2015/
+
+http://blog.fogus.me/2015/12/29/the-best-things-and-stuff-of-2015/
+
+
+https://medium.com/swlh/best-of-2015-pfffffffft-79d9b014f4de

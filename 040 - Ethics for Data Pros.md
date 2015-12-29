@@ -64,6 +64,7 @@ We believe we are working to make our society, our world, a better place. At the
 * https://medium.com/@hannawallach/big-data-machine-learning-and-the-social-sciences-927a8e20460d <- brilliant!
 * https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de
 * http://techcrunch.com/2014/10/26/elon-musk-compares-building-artificial-intelligence-to-summoning-the-demon/
+* https://opencorporates.com/
 * http://www.theatlantic.com/technology/archive/2014/10/rape-is-not-a-data-problem/381904/?single_page=true
 * https://itsinsiderunplugged.wordpress.com/2014/11/12/big-mountain-data-heads-to-san-francisco/
 * http://www.drivendata.org/competitions/4/

@@ -77,6 +77,7 @@ Industries
 * http://elpasoheraldpost.com/protests-support-grow-for-fired-lexmark-workers-in-juarez/
 * https://www.washingtonpost.com/news/the-switch/wp/2015/10/15/amid-the-adblockalypse-advertisers-apologize-for-messing-up-the-web/
 * https://medium.com/backchannel/the-man-who-made-the-uk-say-im-sorry-for-what-we-did-to-turing-8fc468dcea6b
+* http://www.nytimes.com/2016/01/03/books/review/amy-cuddys-presence-and-shonda-rhimess-year-of-yes.html
 * http://mobile.nytimes.com/2015/04/28/world/europe/pope-francis-steps-up-campaign-on-climate-change-to-conservatives-alarm.html?_r=0
 * https://www.eff.org/deeplinks/2015/02/eff-files-amicus-brief-case-seeks-hold-ibm-responsible-facilitating-apartheid
 * http://www.businessinsider.com/technology-is-destroying-jobs-and-it-could-spur-a-global-crisis-2015-6

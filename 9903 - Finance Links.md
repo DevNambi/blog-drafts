@@ -419,6 +419,7 @@
 * http://www.npr.org/sections/thetwo-way/2015/12/09/459087477/the-tipping-point-most-americans-no-longer-are-middle-class
 * http://www.nytimes.com/2015/12/23/business/dealbook/sued-over-old-debt-and-blocked-from-suing-back.html
 * http://alexdanco.com/2015/12/17/taylor-swift-ios-and-the-access-economy-why-the-normal-distribution-is-vanishing/
+* http://www.newyorker.com/magazine/2016/01/04/what-money-can-buy-profiles-larissa-macfarquhar <- a rare bit of good news
 
 
 

@@ -86,6 +86,7 @@
 * https://www.schneier.com/blog/archives/2015/12/using_law_again.html
 * http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 * http://www.scriptcrafty.com/basic-infrastructure-patterns/
+* http://danluu.com/wat/
 
 
 

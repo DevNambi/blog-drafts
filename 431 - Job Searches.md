@@ -58,6 +58,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://ozar.me/2015/11/what-do-people-pay-you-for/">What Do People Pay You For?</a></li>
 <li><a href="http://blog.stackoverflow.com/2015/11/how-to-be-awesome-part-2/">How to Be Awesome</a></li>
 <li><a href="https://github.com/MaximAbramchuck/awesome-interviews">A curated list of awesome lists of interview questions</a></li>
+<li><a href="http://please.hackmyresume.com/">Hack Your Resume - Auto-formatter</a></li>
 </ul>
 
 
@@ -86,6 +87,7 @@ I've found various links with resources about job searching and resumes.
 * http://dandreamsofcoding.wordpress.com/2012/11/19/why-wont-anyone-talk-to-me-what-recruiters-look-for-in-a-resume/
 * http://jobtipsforgeeks.com/2015/05/04/srt2/
 * https://mocko.org.uk/b/2015/10/14/dont-feed-the-beast-the-great-tech-recruiter-infestation/
+* http://jobtipsforgeeks.com/2015/12/29/manifesto/
 
 @hmason: If everyone stopped paying recruiters the entire tech industry would probably gain years of productivity overnight.
 

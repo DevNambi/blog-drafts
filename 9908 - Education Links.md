@@ -137,6 +137,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 ## Higher Education
 
 * http://equitablegrowth.org/research/achievement-gap/ <- why I do what I do
+* http://www.lawyersgunsmoneyblog.com/2015/12/career-opportunities-2
 * http://news.stanford.edu/news/2015/november/robinson-humanities-lecture-110315.html
 * http://www.washingtonpost.com/sf/brand-connect/wp/video/what-do-you-know-about-college/
 * https://www.insidehighered.com/news/2015/09/10/amid-competency-based-education-boom-meeting-help-colleges-do-it-right
