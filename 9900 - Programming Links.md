@@ -84,6 +84,7 @@
 * http://queue.acm.org/detail.cfm?id=2839461
 * http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html
 * https://www.schneier.com/blog/archives/2015/12/using_law_again.html
+* http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 
 
 
