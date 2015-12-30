@@ -11,6 +11,23 @@
 * Business ideas I would want to explore. 
 * Ideas
 
+Marcus Aurelius style?
+
+
+Learning
+
+Joy
+
+Mental Focus
+
+Struggles
+
+Have it be funny
+
+Have it have a narrative ark. Introduction. Build up. Apex. Down. Inkling for what's next. 
+
+
+
 ### Background
 
 http://ozar.me/2015/12/my-top-blog-posts-from-2015/
