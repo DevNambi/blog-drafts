@@ -320,90 +320,41 @@
 ## Cloud Computing, Virtualization, Hardware, Performance Tuning
 
 
-<li><a href="http://www.blog.juliaferraioli.com/2014/01/julia-on-google-compute-engine-working.html" time_added="1390673210" tags="">Julia on Google Compute Engine: working with files | never a straight line</a></li>
 <li><a href="http://redmonk.com/sogrady/2013/12/09/updated-iaas-pricing/" time_added="1389471319" tags="">Updated IaaS Pricing Patterns and Trends – tecosystems</a></li>
 <li><a href="https://www.openshift.com/blogs/its-2014-and-paas-is-eating-the-world" time_added="1391461975" tags="">It's 2014 and PaaS is Eating the World | OpenShift by Red Hat</a></li>
 <li><a href="https://ramcloud.stanford.edu/wiki/display/ramcloud/RAMCloud" time_added="1363200529" tags="big data,cloud,hn">RAMCloud - RAMCloud Project - Confluence</a></li>
 <li><a href="http://www.infoworld.com/d/applications/automating-the-cloud-one-website-script-time-212966" time_added="1363202213" tags="academia,life hacker,personal tech">Automating the cloud, one website script at a time | Applications - InfoWor</a></li>
 <li><a href="https://www.dotcloud.com/ebook_download_now.html" time_added="1362595129" tags="cloud">dotCloud - PaaS under the hood - download the book</a></li>
-<li><a href="http://aws.typepad.com/aws/2013/03/amazon-rds-scales-up-3-tb-and-30000-iops.html" time_added="1363264871" tags="cloud">Amazon Web Services Blog: Amazon RDS Scales Up - Provision 3 TB and 30,000 </a></li>
-<li><a href="http://www.nytimes.com/2013/03/13/technology/google-takes-on-amazon-and-microsoft-for-cloud-computing-services.html" time_added="1363145007" tags="cloud">Google Takes on Amazon and Microsoft for Cloud Computing Services - NYTimes</a></li>
-<li><a href="http://www.brentozar.com/archive/2012/09/amazon-web-services-architect-training-recap/" time_added="1348860084" tags="hn">Amazon Web Services Architect Training Recap | Brent Ozar PLF | Brent Ozar </a></li>
 <li><a href="http://www.infoworld.com/d/cloud-computing/eureka-new-tech-shrinks-cloud-computings-carbon-footprint-233492" time_added="1389366999" tags="">Eureka! New tech shrinks cloud computing's carbon footprint | Cloud Computi</a></li>
-<li><a href="http://t.co/1LojyyfW" time_added="1357489419" tags="cloud">DenisGobo: Bad news for Amazon could be good news for “other” cloud provide</a></li>
-<li><a href="http://aws.typepad.com/aws/2012/12/picloud-and-princeton-consultants-win-the-first-amazon-ec2-spotathon.html" time_added="1355115773" tags="cloud">Amazon Web Services Blog: PiCloud and Princeton Consultants Win the First A</a></li>
 <li><a href="http://t.co/Xls6FphB" time_added="1354899183" tags="cloud">SQLRockstar: Cloud decisions are no longer in the IT department's hands - t</a></li>
 <li><a href="http://thomaslarock.com/2012/12/your-job-outlook-is-cloudy-and-thats-a-good-thing/" time_added="1354905513" tags="brand,cloud">Your Job Outlook Is Cloudy And That's A Good Thing | SQLRockstar | Thomas L</a></li>
-<li><a href="http://t.co/cvq5A0Wa" time_added="1354585336" tags="sql">buckwoody: AZCopy - command-line file copy to Windows Azure Storage: http:/</a></li>
 <li><a href="http://t.co/JyySBHq3" time_added="1353604392" tags="cloud">puppetlabs: Want to learn Puppet? Download our free technical docs and lear</a></li>
 <li><a href="http://t.co/cbVtwAPo" time_added="1353443372" tags="sql">SQLRockstar: Ever wonder how to parse DBCC MEMORYSTATUS using #posh? Wonder</a></li>
-<li><a href="http://aws.typepad.com/aws/2012/11/enable-single-sign-on-to-the-aws-management-console.html" time_added="1354045046" tags="cloud">Amazon Web Services Blog: Enable Single Sign On to the AWS Management Conso</a></li>
-<li><a href="http://t.co/PK7hX2Iy" time_added="1353877455" tags="big data,hn">spyced: EC2 3.8x more expensive than internal cluster http://t.co/KXvfcjxU.</a></li>
-<li><a href="https://t.co/mgBKnENR" time_added="1353336528" tags="hn">pikesley: Using AWS? You probably want this: https://t.co/mgBKnENR  Thanks </a></li>
-<li><a href="http://t.co/mw1pbRZZ" time_added="1352870226" tags="hn">peakscale: "fresh data stored in S3, with automatic, policy-driven archivin</a></li>
-<li><a href="https://help.ubuntu.com/community/EC2StartersGuide" time_added="1354202499" tags="cloud">EC2StartersGuide - Community Ubuntu Documentation</a></li>
-<li><a href="http://t.co/PCkom86t" time_added="1353951020" tags="hn">NetflixOSS: Introducing Hystrix for Resilience Engineering - http://t.co/PC</a></li>
 <li><a href="http://www.himss.org/content/files/CS07NavigatingHIPAAWhileMovingtotheCloud.pdf" time_added="1353274810" tags="hn">www.himss.org/content/files/CS07NavigatingHIPAAWhileMovingtotheCloud.pdf</a></li>
-<li><a href="http://news.ycombinator.com/item?id=4740061" time_added="1352146352" tags="hn">Ask HN: What are some good EC2 tutorials for programmers? | Hacker News</a></li>
-<li><a href="http://aws.typepad.com/aws/2012/10/lots-of-new-features-for-aws-govcloud-us.html" time_added="1349875005" tags="academia,sql">Amazon Web Services Blog: Lots of New Features for AWS GovCloud (US)</a></li>
-<li><a href="http://escience.washington.edu/blog/cloud-economics-visualizing-aws-prices-over-time" time_added="1357910318" tags="cloud">Cloud Economics: Visualizing AWS Prices over Time | eScience Institute</a></li>
 <li><a href="http://robhirschfeld.com/2013/01/06/cloud-is-infrastructure-with-an-api/" time_added="1357980238" tags="cloud">Don’t complicate my cloud! It’s just infrastructure with an API « Rob Hirsc</a></li>
-<li><a href="http://gigaom.com/2013/01/10/netflix-shows-off-its-hadoop-architecture/" time_added="1357910414" tags="cloud">Netflix shows off how it does Hadoop in the cloud — Tech News and Analysis</a></li>
 <li><a href="http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/" time_added="1358190036" tags="big data,hn">Notes on Distributed Systems for Young Bloods – Something Similar</a></li>
-<li><a href="http://aws.amazon.com/ec2/instance-types/" time_added="1359734627" tags="cloud">Amazon EC2 Instance Types</a></li>
-<li><a href="http://www.3scale.net/2013/02/quickstart-tutorial-on-how-to-deploy-an-api-on-amazon-ec2-for-amazon-web-services-aws-rookies/" time_added="1359734432" tags="cloud">Quickstart tutorial on how to deploy an API on Amazon EC2 for Amazon Web Se</a></li>
-<li><a href="http://t.co/cYbeBgTw" time_added="1360662938" tags="cloud">jeffbarr: New #AWS Feature - Create a Backup Website Using Route 53 DNS Fai</a></li>
 <li><a href="http://t.co/BCdDwpSw" time_added="1360697270" tags="cloud">buckwoody: Posted a blog on "How does the Cloud Change a Developer's Role?"</a></li>
 <li><a href="http://rapgenius.com/James-somers-herokus-ugly-secret-lyrics" time_added="1360808485" tags="cloud,hn">James Somers – Heroku's Ugly Secret | Rap Genius</a></li>
 
 
 * http://muratbuffalo.blogspot.com/2014/07/distributed-is-not-necessarily-more.html
-* https://aws.amazon.com/blogs/aws/focusing-on-spot-instances-lets-talk-about-best-practices/
-* http://blog.textit.in/why-buying-provisioned-iops-on-rds-may-be-a-mistake
 * http://engineering.pinterest.com/post/113376157699/open-sourcing-pinball
-* http://www.brendangregg.com/blog/2015-03-03/performance-tuning-linux-instances-on-ec2.html
 * https://www.backblaze.com/blog/cloud-storage-hardware/
-* http://googlecloudplatform.blogspot.com/2015/05/Introducing-Preemptible-VMs-a-new-class-of-compute-available-at-70-off-standard-pricing.html
-* http://blog.atomicinc.com/2015/03/03/does-amazon-web-services-pricing-follow-moores-law-2350/
 * http://www.infoq.com/news/2015/04/vogels-patterns-cloud-adoption
 * http://www.wired.com/2015/04/kevin-mcelvaney-agbogbloshie/
 * http://danluu.com/intel-cat/
 * http://us10.campaign-archive1.com/?u=5dfb7b5de8e42c2633c06b3a8&id=36227f3963
-* https://aws.amazon.com/blogs/aws/building-price-aware-applications-using-ec2-spot-instances/
-* https://yourbunnywrote.org/2015/04/19/google-cloud/
 * http://www.cloudcomputingpatterns.org/ <- priceless
-* http://www.devfactor.net/2014/12/30/2375-amazon-mistake/
-* https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1?wed <- comprehensive
 * http://yosefk.com/blog/how-fpgas-work-and-why-youll-buy-one.html
 * http://blog.cr.yp.to/20150314-optimizing.html
-* http://googlecloudplatform.blogspot.com/2015/08/Announcing-General-Availability-of-Google-Cloud-Dataflow-and-Cloud-Pub-Sub.html
-* http://swrveengineering.wordpress.com/2014/10/14/how-we-increased-our-ec2-event-throughput-by-50-for-free/
-* http://instagram-engineering.tumblr.com/post/100758229719/migrating-from-aws-to-aws
-* https://zwischenzugs.wordpress.com/2015/03/14/docker-in-practice-a-guide-for-engineers/
 * http://techreport.com/review/28126/semiconductors-from-idea-to-product
-* http://blogs.wsj.com/digits/2015/01/06/googles-cloud-loses-following-among-cios-survey-finds/
 * http://curtis.io/others-work/open-tooling-for-fpgas
-* http://aws.amazon.com/blogs/aws/new-aws-directory-service/
-* http://www.hokstad.com/docker/patterns
 * https://www.backblaze.com/blog/petabytes-on-a-budget-how-to-build-cheap-cloud-storage-2/
-* https://cloudonaut.io/5-aws-mistakes-you-should-avoid/
-* http://www.cringely.com/2015/04/27/aws-shows-cloud-is-not-a-high-margin-business/
-* http://techcrunch.com/2015/11/24/aws-lamda-makes-serverless-applications-a-reality/
-* http://techcrunch.com/2015/04/20/microsoft-announces-azure-service-fabric-a-new-framework-for-building-scalable-cloud-services/
 * http://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time
 * http://www.extremetech.com/mobile/204340-did-tsmcs-20nm-process-harm-qualcomms-snapdragon-810
 * http://cloudacademy.com/blog/google-cloud-vs-aws-a-comparison/
-* http://tech.forter.com/comparing-message-queue-architectures-on-aws/
-* http://techcrunch.com/2014/11/04/google-launches-managed-service-for-running-docker-based-applications-on-its-cloud-platform/
-* https://gigaom.com/2014/11/12/amazon-details-how-it-does-networking-in-its-data-centers/
-* https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e
-* http://googlecloudplatform.blogspot.com/2014/11/autoscaling-welcome-to-google-compute.html
-* https://www.quora.com/Does-Google-offer-free-cloud-resources-to-researchers
-* http://www.enterprisetech.com/2014/11/14/rare-peek-massive-scale-aws/
 * http://radar.oreilly.com/2014/12/why-the-data-center-needs-an-operating-system.html
-* http://litt.no/tech%20stuff/amazon-sqs-scaling
 * https://gigaom.com/2015/01/04/verizon-cloud-warns-customers-of-2-day-maintenance-closure/
-* http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html
 * http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/
 * http://blog.serverfault.com/2015/03/05/how-we-upgrade-a-live-data-center/
 * http://danluu.com/3c-conflict/
@@ -418,20 +369,10 @@
 * http://www.extremetech.com/extreme/205231-memristors-linked-into-neural-network-arrays
 * http://www.rightscale.com/blog/cloud-cost-analysis/google-vs-aws-pricing-google-cuts-are-first-2015
 * https://laur.ie/blog/2015/06/ssds-a-gift-and-a-curse/
-* http://www.allthingsdistributed.com/2015/07/under-the-hood-of-the-amazon-ec2-container-service.html
-* http://googlecloudplatform.blogspot.com/2015/07/Kubernetes-V1-Released.html
-* http://blog.takipi.com/amazon-ec2-2015-benchmark-testing-speeds-between-aws-ec2-and-s3-regions/
-* http://blogs.barrons.com/techtraderdaily/2015/11/11/amazon-no-limit-to-what-aws-can-disrupt-says-morgan-stanley/
-* http://bits.blogs.nytimes.com/2015/09/09/google-follows-amazon-web-services-into-on-demand-supercomputing/?_r=1
 * http://sebastiansylvan.com/2009/11/22/two-performance-walls-approaching/
 * https://www.edx.org/course/linuxfoundationx/linuxfoundationx-lfs101x-introduction-1621
-* http://techblog.netflix.com/2015/09/chaos-engineering-upgraded.html
 * http://etodd.io/2015/09/28/one-weird-trick-better-code/
 * http://www.nytimes.com/2012/09/23/technology/data-centers-waste-vast-amounts-of-energy-belying-industry-image.html
-* https://aws.amazon.com/blogs/aws/aws-lambda-update-python-vpc-increased-function-duration-scheduling-and-more/
-* http://viethip.com/2015/10/10/why-unikernels-might-kill-containers-in-five-years/
-* http://blog.scalyr.com/2015/09/irreversible-failures-lessons-from-the-dynamodb-outage/
-* http://blog.ranman.org/cleaning-up-aws-with-boto3/
 * http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html
 * http://blog.chriszacharias.com/page-weight-matters
 * http://motherboard.vice.com/read/memory-is-holding-up-the-moores-law-progression-of-processing-power
@@ -439,17 +380,90 @@
 * http://www.acmebenchmarking.com/2015/11/benchmarking-cloud-provider-performance.html
 * http://githubengineering.com/githubs-metal-cloud/
 * http://www.infoworld.com/article/3011916/it-jobs/3-hottest-cloud-job-skills-for-2016.html
-* https://aws.amazon.com/blogs/aws/ec2-run-command-update-now-available-for-linux-instances/
 * http://www.agner.org/optimize/blog/read.php?i=417
+
+
+
+### Docker, Containers, Unikernels
+
+* http://viethip.com/2015/10/10/why-unikernels-might-kill-containers-in-five-years/
+* https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e
+* https://zwischenzugs.wordpress.com/2015/03/14/docker-in-practice-a-guide-for-engineers/
+* http://www.hokstad.com/docker/patterns
+
+
+
+### Microsoft Azure
+
+<li><a href="http://t.co/cvq5A0Wa" time_added="1354585336" tags="sql">buckwoody: AZCopy - command-line file copy to Windows Azure Storage: http:/</a></li>
+
+* http://techcrunch.com/2015/04/20/microsoft-announces-azure-service-fabric-a-new-framework-for-building-scalable-cloud-services/
+
+
+### Google Cloud
+
+<li><a href="http://www.nytimes.com/2013/03/13/technology/google-takes-on-amazon-and-microsoft-for-cloud-computing-services.html" time_added="1363145007" tags="cloud">Google Takes on Amazon and Microsoft for Cloud Computing Services - NYTimes</a></li>
+<li><a href="http://www.blog.juliaferraioli.com/2014/01/julia-on-google-compute-engine-working.html" time_added="1390673210" tags="">Julia on Google Compute Engine: working with files | never a straight line</a></li>
+
+* http://googlecloudplatform.blogspot.com/2015/07/Kubernetes-V1-Released.html
+* http://googlecloudplatform.blogspot.com/2014/11/autoscaling-welcome-to-google-compute.html
+* https://www.quora.com/Does-Google-offer-free-cloud-resources-to-researchers
+* http://techcrunch.com/2014/11/04/google-launches-managed-service-for-running-docker-based-applications-on-its-cloud-platform/
+* http://googlecloudplatform.blogspot.com/2015/08/Announcing-General-Availability-of-Google-Cloud-Dataflow-and-Cloud-Pub-Sub.html
+* http://blogs.wsj.com/digits/2015/01/06/googles-cloud-loses-following-among-cios-survey-finds/
+* https://yourbunnywrote.org/2015/04/19/google-cloud/
+* http://bits.blogs.nytimes.com/2015/09/09/google-follows-amazon-web-services-into-on-demand-supercomputing/
+* http://googlecloudplatform.blogspot.com/2015/05/Introducing-Preemptible-VMs-a-new-class-of-compute-available-at-70-off-standard-pricing.html
+
+
+### AWS (Amazon Web Services)
+
+<li><a href="http://gigaom.com/2013/01/10/netflix-shows-off-its-hadoop-architecture/" time_added="1357910414" tags="cloud">Netflix shows off how it does Hadoop in the cloud — Tech News and Analysis</a></li>
+<li><a href="http://t.co/1LojyyfW" time_added="1357489419" tags="cloud">DenisGobo: Bad news for Amazon could be good news for “other” cloud provide</a></li>
+<li><a href="http://aws.typepad.com/aws/2012/12/picloud-and-princeton-consultants-win-the-first-amazon-ec2-spotathon.html" time_added="1355115773" tags="cloud">Amazon Web Services Blog: PiCloud and Princeton Consultants Win the First A</a></li>
+<li><a href="http://www.brentozar.com/archive/2012/09/amazon-web-services-architect-training-recap/" time_added="1348860084" tags="hn">Amazon Web Services Architect Training Recap | Brent Ozar PLF | Brent Ozar </a></li>
+<li><a href="http://aws.typepad.com/aws/2013/03/amazon-rds-scales-up-3-tb-and-30000-iops.html" time_added="1363264871" tags="cloud">Amazon Web Services Blog: Amazon RDS Scales Up - Provision 3 TB and 30,000 </a></li>
+<li><a href="http://news.ycombinator.com/item?id=4740061" time_added="1352146352" tags="hn">Ask HN: What are some good EC2 tutorials for programmers? | Hacker News</a></li>
+<li><a href="http://aws.typepad.com/aws/2012/10/lots-of-new-features-for-aws-govcloud-us.html" time_added="1349875005" tags="academia,sql">Amazon Web Services Blog: Lots of New Features for AWS GovCloud (US)</a></li>
+<li><a href="http://escience.washington.edu/blog/cloud-economics-visualizing-aws-prices-over-time" time_added="1357910318" tags="cloud">Cloud Economics: Visualizing AWS Prices over Time | eScience Institute</a></li>
+<li><a href="http://t.co/cYbeBgTw" time_added="1360662938" tags="cloud">jeffbarr: New #AWS Feature - Create a Backup Website Using Route 53 DNS Fai</a></li>
+<li><a href="http://aws.typepad.com/aws/2012/11/enable-single-sign-on-to-the-aws-management-console.html" time_added="1354045046" tags="cloud">Amazon Web Services Blog: Enable Single Sign On to the AWS Management Conso</a></li>
+<li><a href="http://t.co/PK7hX2Iy" time_added="1353877455" tags="big data,hn">spyced: EC2 3.8x more expensive than internal cluster http://t.co/KXvfcjxU.</a></li>
+<li><a href="https://t.co/mgBKnENR" time_added="1353336528" tags="hn">pikesley: Using AWS? You probably want this: https://t.co/mgBKnENR  Thanks </a></li>
+<li><a href="http://t.co/mw1pbRZZ" time_added="1352870226" tags="hn">peakscale: "fresh data stored in S3, with automatic, policy-driven archivin</a></li>
+<li><a href="https://help.ubuntu.com/community/EC2StartersGuide" time_added="1354202499" tags="cloud">EC2StartersGuide - Community Ubuntu Documentation</a></li>
+<li><a href="http://t.co/PCkom86t" time_added="1353951020" tags="hn">NetflixOSS: Introducing Hystrix for Resilience Engineering - http://t.co/PC</a></li>
+<li><a href="http://aws.amazon.com/ec2/instance-types/" time_added="1359734627" tags="cloud">Amazon EC2 Instance Types</a></li>
+<li><a href="http://www.3scale.net/2013/02/quickstart-tutorial-on-how-to-deploy-an-api-on-amazon-ec2-for-amazon-web-services-aws-rookies/" time_added="1359734432" tags="cloud">Quickstart tutorial on how to deploy an API on Amazon EC2 for Amazon Web Se</a></li>
+
+* https://aws.amazon.com/blogs/aws/ec2-run-command-update-now-available-for-linux-instances/
 * https://github.com/awslabs/aws-shell
-
-
-
-
-
-
-
-
+* https://aws.amazon.com/blogs/aws/aws-lambda-update-python-vpc-increased-function-duration-scheduling-and-more/
+* http://joelgrus.com/2015/12/29/polyglot-twitter-bot-part-2-nodejs-aws-lambda/
+* https://cloudonaut.io/5-aws-mistakes-you-should-avoid/
+* http://www.cringely.com/2015/04/27/aws-shows-cloud-is-not-a-high-margin-business/
+* http://techcrunch.com/2015/11/24/aws-lamda-makes-serverless-applications-a-reality/
+* https://aws.amazon.com/blogs/aws/focusing-on-spot-instances-lets-talk-about-best-practices/
+* http://swrveengineering.wordpress.com/2014/10/14/how-we-increased-our-ec2-event-throughput-by-50-for-free/
+* https://gigaom.com/2014/11/12/amazon-details-how-it-does-networking-in-its-data-centers/
+* http://instagram-engineering.tumblr.com/post/100758229719/migrating-from-aws-to-aws
+* http://aws.amazon.com/blogs/aws/new-aws-directory-service/
+* https://aws.amazon.com/blogs/aws/building-price-aware-applications-using-ec2-spot-instances/
+* http://www.allthingsdistributed.com/2015/07/under-the-hood-of-the-amazon-ec2-container-service.html
+* http://blog.takipi.com/amazon-ec2-2015-benchmark-testing-speeds-between-aws-ec2-and-s3-regions/
+* http://blogs.barrons.com/techtraderdaily/2015/11/11/amazon-no-limit-to-what-aws-can-disrupt-says-morgan-stanley/
+* http://blog.ranman.org/cleaning-up-aws-with-boto3/
+* http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html
+* http://litt.no/tech%20stuff/amazon-sqs-scaling
+* http://www.enterprisetech.com/2014/11/14/rare-peek-massive-scale-aws/
+* https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1?wed <- comprehensive
+* http://blog.textit.in/why-buying-provisioned-iops-on-rds-may-be-a-mistake
+* http://blog.atomicinc.com/2015/03/03/does-amazon-web-services-pricing-follow-moores-law-2350/
+* http://www.brendangregg.com/blog/2015-03-03/performance-tuning-linux-instances-on-ec2.html
+* http://tech.forter.com/comparing-message-queue-architectures-on-aws/
+* http://blog.scalyr.com/2015/09/irreversible-failures-lessons-from-the-dynamodb-outage/
+* http://techblog.netflix.com/2015/09/chaos-engineering-upgraded.html
+* http://www.devfactor.net/2014/12/30/2375-amazon-mistake/
 
 
 
@@ -471,9 +485,6 @@
 * http://playfulprogramming.blogspot.com/2015/08/cache-optimizing-priority-queue.html
 * http://adriansampson.net/blog/llvm.html
 * http://varianceexplained.org/r/polarizing-technologies/
-
-
-
 
 
 
