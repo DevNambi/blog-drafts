@@ -296,6 +296,7 @@
 * http://www.vox.com/2015/10/28/9622920/housing-adult-friendship
 * http://www.komonews.com/news/offbeat/Photos-Company-builds-Hobbit-Houses-you-can-live-in-361031291.html
 * http://www.vox.com/2015/12/23/10657690/seattle-housing-crisis
+* http://lifehacker.com/learning-to-pick-locks-taught-me-how-crappy-door-locks-1750091711
 
 
 
