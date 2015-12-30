@@ -106,6 +106,7 @@
 
 * http://radar.oreilly.com/2014/10/challenges-facing-predictive-apis.html
 * https://github.com/Quartz/bad-data-guide
+* https://civisanalytics.com/blog/data-science/2015/12/23/workflows-in-python-curating-features-and-thinking-scientifically-about-algorithms/
 
 
 

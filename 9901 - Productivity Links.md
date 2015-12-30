@@ -12,6 +12,7 @@
 * http://sivers.org/no2
 * http://www.theatlantic.com/magazine/archive/2013/06/the-art-of-paying-attention/309312/
 * http://techcrunch.com/2015/10/17/specialization-polymaths-and-the-pareto-principle-in-a-convergence-economy/
+* http://www.educba.com/20-tips-to-increase-productivity/
 * https://www.mainstreet.com/article/apparently-cool-kids-were-high-school-band-after-all/page/2 <- look at the research for myself
 * http://www.innovationexcellence.com/blog/2015/08/25/the-dynamics-of-a-creative-team/
 * http://www.theatlantic.com/science/archive/2015/12/stop-being-so-self-conscious/420897/

@@ -224,6 +224,7 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 <li><a href="http://thinkfaster.co/2015/07/how-to-avoid-the-software-salary-ceiling"></a></li>
 <li><a href="http://pastebin.com/eBetxc1Q">Negotiating compensation</a></li>
 <li><a href="https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md">Guide to Your Equity Compensation</a></li>
+<li><a href="http://jvns.ca/blog/2015/12/30/do-the-math-on-your-stock-options/">Do the math on your stock options</a></li>
 </ul>
 
 
@@ -244,6 +245,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="http://blog.remoteworknewsletter.com/2015/03/23/best-sources-to-find-a-remote-job-as-a-software-developer/">Best Sources To Find A Remote Job As A Software Developer</a></li>
 <li><a href="https://zapier.com/learn/the-ultimate-guide-to-remote-working/">The Ultimate Guide to Remote Working</a></li>
 <li><a href="https://remote.co/qa-leading-remote-companies/">Q & A - The leading remote companies answer your top questions</a></li>
+<li><a href="https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/">18F’s best practices for making distributed teams work</a></li>
 </ul>
 
 
