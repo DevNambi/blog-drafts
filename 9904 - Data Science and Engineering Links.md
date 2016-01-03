@@ -269,7 +269,6 @@
 <li><a href="http://simplystatistics.org/post/32938228102/not-just-one-statistics-interview-john-mcgready-is" time_added="1349448720" tags="data science">Not just one statistics interview...John McGready is the Jon Stewart of sta</a></li>
 <li><a href="http://www.johndcook.com/blog/2012/08/28/hard-analysis-soft-analysis/" time_added="1348860824" tags="data science">Hard analysis, soft analysis — The Endeavour</a></li>
 <li><a href="http://www.khanacademy.org/math/statistics/v/statistics--the-average" time_added="1348860843" tags="data science">Statistics: The Average | Statistics | Khan Academy</a></li>
-<li><a href="http://t.co/uFDyatc8" time_added="1354589903" tags="ml">StatFact: Approximate Bayesian Computation (ABC) http://t.co/uFDyatc8</a></li>
 <li><a href="http://t.co/c74eY5ry" time_added="1354739614" tags="data science">StatFact: RT @ProbFact: Huge probability distribution chart http://t.co/c74</a></li>
 <li><a href="http://www.johndcook.com/distribution_chart.html" time_added="1355381704" tags="data science,ml">Chart of distribution relationships</a></li>
 <li><a href="http://t.co/V5Negygt" time_added="1357660351" tags="ml,stats">StatFact: On Chomsky and the Two Cultures of Statistical Learning http://t.</a></li>
@@ -278,23 +277,17 @@
 <li><a href="http://t.co/L6AzJuno" time_added="1357199994" tags="data science,stats">sayhitosean: The (near) Future of Data Analysis - A Review http://t.co/L6Az</a></li>
 <li><a href="http://t.co/Z0FROH3Z" time_added="1356721947" tags="hn,stats">CompSciFact: Summary of some of the math used in computer science http://t.</a></li>
 
-* http://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/
-* http://pymc-devs.github.io/pymc3/getting_started/
-* http://crucialconsiderations.org/rationality/bayes-theorem/
 * https://plot.ly/ipython-notebooks/survival-analysis-r-vs-python/
-* http://www.nicebread.de/what-does-a-bayes-factor-feel-like/
 * http://kadavy.net/blog/posts/aa-testing/
 * http://www.johndcook.com/blog/2015/02/04/miscellaneous-math-resources/
 * https://medium.com/@warrenhenning/a-software-engineers-adventures-in-learning-mathematics-62140c59e5c
 * http://sujitpal.blogspot.com/2014/05/ipython-notebooks-for-statlearning.html
 * http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb
 * https://umich.app.box.com/s/aov81sye5qxlx0yyonhy23itstsjp4t4 <- Linear optimization (pdf)
-* http://svds.com/post/avoiding-common-mistake-time-series
 * http://www.simonsfoundation.org/quanta/20141015-at-the-far-ends-of-a-new-universal-law/
 * http://scottsievert.github.io/blog/2015/01/31/the-mysterious-eigenvalue/
 * http://colah.github.io/posts/2015-09-Visual-Information/ <- this is *beautiful*
 * http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/
-* http://simplystatistics.org/2014/10/17/bayes-rule-in-a-gif/
 * http://danluu.com/percentile-latency/
 * https://github.com/twitter/BreakoutDetection
 * http://www.wired.com/2014/10/tracy-widom-mysterious-statistical-law/
@@ -303,7 +296,6 @@
 * http://andrewgelman.com/2014/12/25/common-sense-statistics/
 * https://medium.com/the-physics-arxiv-blog/cause-and-effect-the-revolutionary-new-statistical-test-that-can-tease-them-apart-ed84a988e <- causal inference
 * http://www.evanmiller.org/how-not-to-run-an-ab-test.html
-* http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego <- a great way to learn
 * http://www.benkuhn.net/squared
 * http://www.stats.org/super-learning-and-the-revolution-in-knowledge/
 * https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf
@@ -312,21 +304,40 @@
 * http://phdp.github.io/posts/2015-07-13-srl-code.html
 * http://blog.hackerrank.com/the-risky-eclipse-of-statisticians/
 * https://www.quantamagazine.org/20150730-the-slippery-eel-of-probability/
+* https://speakerdeck.com/jakevdp/statistics-for-hackers <- AMAZING
+* http://priceonomics.com/the-discovery-of-statistical-regression/
+* http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb <- AMAZING
+* https://www.vividcortex.com/blog/why-percentiles-dont-work-the-way-you-think
+* http://daithiocrualaoich.github.io/kolmogorov_smirnov/
+
+"Remember, nonlinear interactions, and non-Gaussian distributions are common. "
+
+### Time Series
+
+* http://www.cbcity.de/timeseries-decomposition-in-python-with-statsmodels-and-pandas
+* http://hameddaily.blogspot.com/2015/12/evaluation-of-time-series-forecasting.html
+* http://svds.com/post/avoiding-common-mistake-time-series
+
+
+### Bayesian
+
+<li><a href="http://t.co/uFDyatc8" time_added="1354589903" tags="ml">StatFact: Approximate Bayesian Computation (ABC) http://t.co/uFDyatc8</a></li>
+
+* https://github.com/markdregan/Bayesian-Modelling-in-Python
+* http://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/
+* http://pymc-devs.github.io/pymc3/getting_started/
+* http://crucialconsiderations.org/rationality/bayes-theorem/
+* http://www.nicebread.de/what-does-a-bayes-factor-feel-like/
 * https://pymc-devs.github.io/pymc3/
 * https://github.com/pymc-devs/pymc3/tree/master/pymc3/examples
 * http://nbviewer.ipython.org/github/twiecki/pymc3_talk/blob/master/bayesian_pymc3.ipynb
 * http://alexanderetz.com/2015/08/09/understanding-bayes-visualization-of-bf/
-* https://speakerdeck.com/jakevdp/statistics-for-hackers <- AMAZING
-* http://priceonomics.com/the-discovery-of-statistical-regression/
-* http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb <- AMAZING
-* https://github.com/markdregan/Bayesian-Modelling-in-Python
-* https://www.vividcortex.com/blog/why-percentiles-dont-work-the-way-you-think
-* http://hameddaily.blogspot.com/2015/12/evaluation-of-time-series-forecasting.html
-* http://daithiocrualaoich.github.io/kolmogorov_smirnov/
+* http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego <- a great way to learn
+* http://simplystatistics.org/2014/10/17/bayes-rule-in-a-gif/
 
 
 
-"Remember, nonlinear interactions, and non-Gaussian distributions are common. "
+
 
 
 

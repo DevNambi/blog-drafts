@@ -420,6 +420,7 @@
 * http://www.nytimes.com/2015/12/23/business/dealbook/sued-over-old-debt-and-blocked-from-suing-back.html
 * http://alexdanco.com/2015/12/17/taylor-swift-ios-and-the-access-economy-why-the-normal-distribution-is-vanishing/
 * http://www.newyorker.com/magazine/2016/01/04/what-money-can-buy-profiles-larissa-macfarquhar <- a rare bit of good news
+* http://www.buzzfeed.com/jessicagarrison/all-you-americans-are-fired
 
 
 

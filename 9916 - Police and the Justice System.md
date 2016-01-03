@@ -27,6 +27,7 @@
 * http://www.theverge.com/2014/12/10/7341077/nypd-harlem-crews-social-media-rikers-prison
 * http://prospect.org/article/why-dont-settlements-over-brutality-come-out-police-budgets
 * http://america.aljazeera.com/watch/shows/fault-lines/articles/2015/10/17/mississippi-judge-people-charged-with-crimes-they-are-criminals.html
+* http://www.seattletimes.com/nation-world/chicago-releases-hundreds-of-emails-in-fatal-police-shooting/
 * https://www.yahoo.com/tech/s/nypd-scary-sounding-x-ray-vans-refusing-talk-213013174.html
 * https://www.eff.org/deeplinks/2015/09/taken-offline-years-prison-love-technology
 * http://www.latimes.com/local/lanow/la-me-ln-federal-judge-orders-release-of-videos-20150714-story.html
@@ -51,6 +52,8 @@
 * http://www.komonews.com/news/national/FBI-flying-surveillance-aircraft-over-Seattle-other-cities-305830401.html
 * http://www.nytimes.com/interactive/2015/07/30/us/police-videos-race.html
 * http://www.seattletimes.com/seattle-news/crime/washington-prison-reformers-debate-bringing-back-parole/
+* http://www.nytimes.com/2016/01/04/nyregion/ex-suffolk-county-police-chiefs-arrest-hints-at-broader-federal-inquiry.html
+* http://www.nytimes.com/2016/01/04/us/armed-group-vows-to-hold-federal-wildlife-office-in-oregon-for-years.html
 * http://www.nytimes.com/2015/05/06/us/police-struggle-with-loss-of-privileged-position.html
 * http://www.seattletimes.com/seattle-news/crime/video-from-bus-drivers-body-camera-could-cost-2-deputies-their-jobs/
 * http://www.wbez.org/news/city-fires-investigator-who-found-cops-fault-shootings-112423

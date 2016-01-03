@@ -314,3 +314,5 @@ http://mobile.nytimes.com/2015/05/24/world/europe/popes-focus-on-poor-revives-sc
 http://www.theguardian.com/world/2015/sep/22/extreme-altruism-should-you-care-for-strangers-as-much-as-family
 
 http://www.seattletimes.com/entertainment/with-millennial-philanthropy-money-flowing-arts-groups-miss-out/
+
+http://www.trueactivist.com/this-artwork-is-probably-the-most-accurate-and-scary-portrayal-of-modern-life-weve-ever-seen/

@@ -4,6 +4,13 @@ Look for common traits
 Learn from the best.
 
 
+### Balance
+
+* Mastery of a skill comes by working for long periods of time.
+* Life happens while we make other plans. The unexpected is a fertile source of new ideas. 
+
+These two statements are both true, and also contradictory. It's a struggle to find a good balance.
+
 Premise: actions speak louder than words. If we want to be better, we should learn from those people who made a big impression in their time.
 
 What general lessons do they have? What threads are there in common?

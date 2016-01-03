@@ -614,6 +614,7 @@ pandemic-20150311-story.html
 
 
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
+* http://micheleincalifornia.blogspot.com/2015/12/how-to-fix-americas-financial.html
 * http://www.theatlantic.com/technology/archive/2015/11/the-algorithm-that-will-buy-you-health-insurance-honeyinsured/414765/?single_page=true
 * https://theintercept.com/2015/12/16/why-are-drug-monopolies-running-amok-meet-deborah-feinstein/
 * http://www.wsj.com/articles/the-art-of-setting-a-drug-price-1449628081
@@ -679,6 +680,7 @@ pandemic-20150311-story.html
 * http://2015.padjo.org/tutorials/sql-walks/exploring-wsj-medicare-investigation-with-sql/ <- AMAZING
 * http://arstechnica.com/science/2015/11/750pill-pharma-company-reverses-decision-to-lower-drug-price/ <- define:scum
 * http://www.nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html
+* http://www.theatlantic.com/business/archive/2015/12/medical-savings-patients-doctors/422277/
 
 <li><a href="http://t.co/IG6Jdn4S" time_added="1357788683" tags="">lazowska: NY Times: US is an outlier in relying on the private sector to fu</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/11/another-lurking-obamacare-problem-balance-billing.html" time_added="1384907393" tags="corruption,finance,health,important,to_read">Another Lurking Obamacare Problem: Balance Billing « naked capitalism</a></li>
@@ -826,6 +828,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://www.seattletimes.com/seattle-news/health/snooze-away-adults-need-7-hours-of-sleep-a-night-new-guidelines-say/
 * http://www.newyorker.com/science/maria-konnikova/why-we-sleep
 * http://www.cdc.gov/features/dssleep/
+* http://www.ncbi.nlm.nih.gov/pubmed/26712339 <- "The brain functional connectome is robustly altered by lack of sleep"
 
 
 <li><a href="http://www.bbc.co.uk/news/health-21572686" time_added="1361898585" tags="health,hn,important">BBC News - Bad sleep 'dramatically' alters body</a></li>

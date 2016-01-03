@@ -227,6 +227,7 @@
 * http://citypaper.net/uberdriver/
 * http://uberdriverdiaries.com/how-much-do-uber-drivers-really-make/
 * http://arstechnica.com/tech-policy/2015/12/uber-doesnt-want-drivers-to-sue-again-so-it-pushes-them-to-arbitration/ <- bad faith
+* http://www.nytimes.com/2016/01/04/technology/ubers-no-holds-barred-expansion-strategy-fizzles-in-germany.html
 
 "It turns out Uber is a replacement for owning a car" say wealthy urbanites who don't have kids, pets, disabilities or outdoor hobbies." - https://twitter.com/mims
 
@@ -343,6 +344,8 @@
 * https://www.propublica.org/article/inside-corporate-americas-plan-to-ditch-workers-comp
 * http://www.washingtonpost.com/news/wonkblog/wp/2015/10/15/ceos-beware-your-astronomical-salaries-may-soon-cost-you-customers/
 * http://www.straightdope.com/columns/read/3265/why-are-there-so-many-mattress-stores
+* http://techcrunch.com/2015/12/30/the-middleman-strikes-back/
+
 
 
 
