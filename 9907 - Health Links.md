@@ -550,6 +550,7 @@ pandemic-20150311-story.html
 * http://seattletimes.com/html/localnews/2021065664_uwreactsxml.html
 * http://www.nytimes.com/2013/07/05/opinion/diagnosis-insufficient-outrage.html
 * http://hcrenewal.blogspot.com/2015/05/politico-electronic-record-errors.html
+* http://www.seattletimes.com/seattle-news/times-watchdog/washington-dentists-lobby-is-blocking-low-cost-care/
 * http://www.cancerletter.com/articles/20150109_1
 * http://blogs.scientificamerican.com/cross-check/2013/11/02/a-dig-through-old-files-reminds-me-why-im-so-critical-of-science/
 * http://www.scmp.com/news/china/article/1074327/harbin-doctors-killing-highlights-problem-hospitals
@@ -789,6 +790,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://opinionator.blogs.nytimes.com/2014/06/13/no-clocking-out/
 * http://arstechnica.com/science/2015/10/standing-desks-are-no-replacement-for-a-workout/
 * http://arstechnica.com/science/2015/12/tv-binging-exercise-skipping-linked-to-poor-cognitive-function/
+* http://www.nytimes.com/2016/01/03/opinion/sunday/is-the-drive-for-success-making-our-children-sick.html?_r=0
 
 
 
