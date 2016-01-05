@@ -17,6 +17,7 @@ http://thewireless.co.nz/articles/the-pencilsword-on-a-plate <- this is how priv
 * https://medium.com/backchannel/how-one-hardware-startup-solved-silicon-valley-s-woman-problem-76e3ee581534
 * http://fortune.com/2015/03/26/the-resume-gap-women-tell-stories-men-stick-to-facts-and-get-the-advantage/
 * http://blog.melchua.com/2015/04/28/on-the-diversity-readiness-of-stem-environments-its-almost-as-if-i-could-only-enter-the-makerspace-as-a-janitor/
+* http://the-toast.net/2016/01/05/what-goes-through-your-mind-casual-racism/
 * http://meaningness.com/metablog/geeks-mops-sociopaths
 * http://arstechnica.com/business/2015/05/gamergate-critic-posts-death-threat-voicemail-after-inaction-by-prosecutor/
 * http://www.nytimes.com/2015/05/22/upshot/making-computer-science-more-inviting-a-look-at-what-works.html?abt=0002&abg=1

@@ -15,6 +15,7 @@
 
 
 * http://www.businessinsider.com/use-a-fake-location-for-cheap-airfare-2014-6
+* http://the-toast.net/2016/01/05/what-goes-through-your-mind-casual-racism/
 * http://www.outsideonline.com/1930461/improve-your-life-microadventures
 * http://www.businessinsider.com/harvard-dan-gilbert-money-happiness-principles-2014-10
 * http://www.bbc.com/future/story/20150707-is-faceism-spoiling-your-life
@@ -233,6 +234,7 @@
 * http://www.theatlantic.com/health/archive/2014/06/why-we-sleep-together/371477/
 * http://goodmenproject.com/featured-content/why-readers-scientifically-are-the-best-people-to-fall-in-love-with-dg/
 * http://www.randalolson.com/2014/11/06/what-makes-for-a-stable-marriage-part-2/
+* https://medium.com/@priya_ebooks/solid-dudes-8c744d046b89
 * http://pamelaclark.tumblr.com/post/87113711124/35-practical-tools-for-men-to-further-feminist
 * http://www.sciencedaily.com/releases/2015/04/150406144600.htm
 * http://www.farnamstreetblog.com/2014/11/mind-gym-relationships/

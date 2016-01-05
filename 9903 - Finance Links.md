@@ -153,6 +153,7 @@
 
 
 * http://www.nakedcapitalism.com/2014/09/sec-coverup-private-equity-worse-tbtf-banks.html
+* http://www.nakedcapitalism.com/2016/01/private-equity-firms-muscling-lenders-by-choosing-and-paying-for-their-lawyers.html
 * http://www.nakedcapitalism.com/2015/06/memo-to-readers-if-you-want-to-beat-big-finance-you-need-to-be-able-to-take-the-fight-to-their-terrain.html
 * https://theintercept.com/2016/01/02/i-was-wrong-big-banks-actually-were-exactly-like-counterfeiters/
 * http://www.nakedcapitalism.com/2015/06/sorkin-on-the-streets-surge-of-suicides-ignoring-the-obvious.html
