@@ -176,6 +176,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.nytimes.com/2016/01/01/us/pentagon-curbs-use-of-psychologists-with-guantanamo-detainees.html
 * http://motherboard.vice.com/read/the-largest-military-agency-youve-never-heard-of
 * http://nationalinterest.org/feature/are-submarines-about-become-obsolete-12253
+* http://www.latimes.com/world/mexico-americas/la-fg-mexico-marijuana-20151230-story.html <- that's how your destroy a cartel.
 * http://www.latimes.com/opinion/op-ed/la-oe-0706-zimmerman-ptsd-20150706-story.html
 * http://www.businessinsider.com/the-military-tested-bacterial-weapons-in-san-francisco-2015-7
 * https://now.mmedia.me/lb/en/commentary/565651-the-southern-front-allies-without-a-strategy
