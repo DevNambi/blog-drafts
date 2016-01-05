@@ -1,28 +1,38 @@
 # Travel Advice
 
-* Sudoku +
-* Movies ++++++
-* Music ++++++
-* Paper book +++++
-* Good headphones +
-* Games ++++
-* Good podcasts ++
+* Movies ++++++++
+* Music ++++++++
+* Paper book ++++++
+* Games ++++++
 * EBooks +++++
-* Travel pillow +++
-* Good snacks +++++
+* Travel pillow ++++
+* Good snacks +++++++
+* Sleep ++++
+* Sleeping Pills ++++++
+
+
+* Homework / academic material / writing +++
+* Warm clothing +++
+* Earplugs +++
+* Good headphones +++
+
+
+* Good podcasts ++
 * Good food ++
+* Sudoku +
 * Teabags +
-* Water
+* Water +
 * Airborne
+* Meditate
+* Walk/dance around +
 * Coloring books
 * Compression stockings
 * Chapstick
-* Homework / academic material / writing +
-* Earplugs ++
-* Get a good seat
+* Hard candy / mints
+* Get a good seat +
 * Something to drape over yourself
-* Sleep ++++
-	* Ambien +
+* Sleeping Pills +++++
+	* Ambien +++
 	* Dramamine +
 	* Tylenol PM
 	* Valerian
