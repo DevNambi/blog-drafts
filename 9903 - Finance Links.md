@@ -494,6 +494,7 @@
 * https://www.reddit.com/r/AskReddit/comments/3ov0l1/they_say_that_money_cant_buy_happiness_but_what/
 * https://www.reddit.com/r/AskReddit/comments/3tkemy/what_is_a_sub100_gadget_that_everyone_needs_but/
 * http://blogs.wsj.com/moneybeat/2015/12/24/this-simple-way-is-the-best-way-to-predict-the-market/
+* http://www.vox.com/2015/7/27/9023415/mr-money-mustache-retirement 
 
 
 

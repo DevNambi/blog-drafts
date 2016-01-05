@@ -517,6 +517,7 @@
 * http://www.devdungeon.com/content/working-binary-data-python
 * https://nylas.com/blog/performance
 * http://joelgrus.com/2015/12/30/polyglot-twitter-bot-part-3-python-27-aws-lambda/ <- brilliant
+* http://fbkarsdorp.github.io/python-course/
 
 
 
