@@ -1,5 +1,7 @@
 # Travel Advice
 
+#### Highly Recommended
+
 * Movies ++++++++
 * Music ++++++++
 * Paper book ++++++
@@ -10,12 +12,15 @@
 * Sleep ++++
 * Sleeping Pills ++++++
 
+#### Often Recommended
 
 * Homework / academic material / writing +++
 * Warm clothing +++
 * Earplugs +++
 * Good headphones +++
 
+
+#### Occasionally Recommended
 
 * Good podcasts ++
 * Good food ++
