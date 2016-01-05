@@ -661,6 +661,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 
 * http://mobile.nytimes.com/2015/01/13/sports/ncaafootball/with-threat-of-union-comes-a-trickle-of-benefits-to-college-football-players.html
 * http://projects.huffingtonpost.com/projects/ncaa/subsidy-scorecards
+* http://www.forbes.com/sites/stevensalzberg/2015/10/11/get-football-out-of-our-universities-take-it-private/
 
 
 ### The University of Washington
