@@ -80,6 +80,8 @@
 * http://www.theatlantic.com/technology/archive/2015/11/the-food-delivery-start-up-you-havent-heard-of/414540/
 * https://michaelochurch.wordpress.com/2015/11/06/y-combinator-and-paul-graham-are-bad-for-the-world-part-1/
 * http://www.theverge.com/2015/12/4/9849242/airbnb-data-new-york-affordable-housing-illegal-hotels
+* http://www.buzzfeed.com/jsvine/things-we-learned-from-airbnb-nyc-data
+* https://docs.google.com/spreadsheets/d/1dKUD7EhhfNDlstuRiwLLVPlzdI1fJrZZ_-o458bjHbM/edit
 
 
 

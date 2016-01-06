@@ -305,11 +305,13 @@
 * http://jacquesmattheij.com/volkswagen-and-the-blame-the-engineer-game
 * http://www.nytimes.com/2015/12/14/business/the-engineering-of-volkswagens-aggressive-ambition.html
 * http://mobile.nytimes.com/2016/01/05/business/takata-emails-show-brash-exchanges-about-data-tampering.html
+* http://www.extremetech.com/extreme/220417-rumor-vw-struggling-to-find-a-solution-to-its-us-emissions-problem
 
 
 ## Sports
 
 * http://www.thedailybeast.com/articles/2015/12/06/the-sports-bubble-is-about-to-pop.html <- send to Seattle-ish
+* http://www.nytimes.com/2016/01/06/magazine/how-the-daily-fantasy-sports-industry-turns-fans-into-suckers.html
 
 
 ## Shipping, Logistics

@@ -156,6 +156,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 “Security is a most seductive thing,” he tells his daughter. “I’ve come to the conclusion that it’s the greatest evil there is.” - http://www.wsj.com/articles/a-new-wrinkle-in-time-1429219305/
 
 
+* http://www.nytimes.com/2016/01/06/world/asia/north-korea-hydrogen-bomb-test.html
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
 * http://www.nytimes.com/2015/04/26/us/politics/deep-support-in-washington-for-cias-drone-missions.html <- horrifying
 * http://www.nytimes.com/2015/05/15/world/americas/colombia-halts-us-backed-spraying-of-illegal-coca-crops.html
@@ -271,6 +272,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.military.com/daily-news/2015/12/28/us-increasingly-dominates-global-arms-trade-congressional-report.html
 * http://www.defenseone.com/threats/2015/12/global-conflicts-watch-2016/124608/
 * http://www.reuters.com/article/us-usa-gitmo-release-special-report-idUSKBN0UB1B020151229
+* http://arstechnica.com/science/2016/01/the-drug-war-is-cutting-life-expectancy-in-mexico/
 
 
 

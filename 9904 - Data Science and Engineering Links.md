@@ -335,6 +335,7 @@
 * http://alexanderetz.com/2015/08/09/understanding-bayes-visualization-of-bf/
 * http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego <- a great way to learn
 * http://simplystatistics.org/2014/10/17/bayes-rule-in-a-gif/
+* http://blogs.scientificamerican.com/cross-check/bayes-s-theorem-what-s-the-big-deal/
 
 
 
@@ -385,6 +386,9 @@
 <li><a href="http://www.kaggle.com/c/whale-detection-challenge/data" time_added="1360687183" tags="data science">Data - The Marinexplore and Cornell University Whale Detection Challenge - </a></li>
 
 * http://punkrockor.wordpress.com/2014/08/12/in-defense-of-model-simplicity/
+* https://medium.com/@xamat/10-more-lessons-learned-from-building-real-life-ml-systems-part-i-b309cafc7b5e
+* https://medium.com/@moonpolysoft/machine-learning-in-monitoring-is-bs-134e362faee2
+* http://edge.org/conversation/jaron_lanier-the-myth-of-ai
 * http://www.startup.ml/blog/hyperparam
 * https://www.quantamagazine.org/20151203-big-datas-mathematical-mysteries/
 * http://xyclade.github.io/MachineLearning/
