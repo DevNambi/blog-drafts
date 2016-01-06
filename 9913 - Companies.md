@@ -295,7 +295,7 @@
 * http://www.theguardian.com/commentisfree/2015/nov/06/twitter-teetering-pyramid-scheme-social-media
 
 
-## Vehicle Companies
+## Vehicle, Car Companies
 
 * http://arstechnica.com/cars/2015/11/vw-execs-reportedly-knew-about-fuel-economy-and-emissions-cheating-a-year-ago/
 * http://www.nytimes.com/2015/04/16/business/general-motors-wins-ruling-shielding-it-from-most-claims-over-ignition-flaw.html
@@ -304,6 +304,7 @@
 * http://www.reuters.com/article/2015/09/23/us-usa-volkswagen-researchers-idUSKCN0RM2D720150923
 * http://jacquesmattheij.com/volkswagen-and-the-blame-the-engineer-game
 * http://www.nytimes.com/2015/12/14/business/the-engineering-of-volkswagens-aggressive-ambition.html
+* http://mobile.nytimes.com/2016/01/05/business/takata-emails-show-brash-exchanges-about-data-tampering.html
 
 
 ## Sports

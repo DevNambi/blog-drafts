@@ -23,6 +23,7 @@
 * http://recode.net/2015/08/05/yes-uber-lost-a-lot-of-money-and-it-will-lose-more/
 * https://medium.com/backchannel/why-homejoy-failed-bb0ab39d901a
 * http://www.nytimes.com/2015/12/27/technology/when-a-unicorn-start-up-stumbles-its-employees-get-hurt.html <- how to screw over your employees
+* https://medium.com/@girlziplocked/paul-graham-is-still-asking-to-be-eaten-5f021c0c0650
 
 
 
@@ -148,6 +149,8 @@
 * http://www.daedtech.com/the-beggar-ceo-and-sucker-culture
 * http://www.nytimes.com/2015/11/27/us/parents-ready-for-some-love-from-silicon-valley-companies.html
 * http://totalgarb.tumblr.com/tagged/startupbullshit
+* https://medium.com/@girlziplocked/paul-graham-is-still-asking-to-be-eaten-5f021c0c0650#.a0oz68xdg
+
 
 
 ## Misc

@@ -517,6 +517,7 @@
 * http://www.devdungeon.com/content/working-binary-data-python
 * https://nylas.com/blog/performance
 * http://joelgrus.com/2015/12/30/polyglot-twitter-bot-part-3-python-27-aws-lambda/ <- brilliant
+* https://github.com/amontalenti/elements-of-python-style <- amazing
 
 
 
@@ -568,6 +569,7 @@
 * https://vimeo.com/111122950
 * http://www.fse.guru/how-to-pick-a-frontend-web-framework
 * http://faculty.washington.edu/mikefree/info343/
+* https://medium.com/@housecor/angular-2-versus-react-there-will-be-blood-66595faafd51
 
 
 **React**

@@ -10,6 +10,8 @@
 * http://blog.donnywals.com/consistency-and-discipline-over-motivation/
 * http://www.theatlantic.com/business/archive/2015/06/the-office-sounds-that-make-us-more-productive/394541/
 * http://sivers.org/no2
+* https://www.washingtonpost.com/opinions/five-myths-about-our-habits/2015/12/31/1f3ab244-ad93-11e5-9ab0-884d1cc4b33e_story.html <- a must read
+* http://www.theguardian.com/money/2016/jan/02/work-life-balance-flexible-working-can-make-you-ill-experts-say
 * http://www.theatlantic.com/magazine/archive/2013/06/the-art-of-paying-attention/309312/
 * http://techcrunch.com/2015/10/17/specialization-polymaths-and-the-pareto-principle-in-a-convergence-economy/
 * http://www.educba.com/20-tips-to-increase-productivity/
