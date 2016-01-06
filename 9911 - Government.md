@@ -178,6 +178,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.nytimes.com/2016/01/01/us/pentagon-curbs-use-of-psychologists-with-guantanamo-detainees.html
 * http://motherboard.vice.com/read/the-largest-military-agency-youve-never-heard-of
 * http://nationalinterest.org/feature/are-submarines-about-become-obsolete-12253
+* http://www.latimes.com/world/mexico-americas/la-fg-mexico-marijuana-20151230-story.html <- that's how your destroy a cartel.
 * http://www.latimes.com/opinion/op-ed/la-oe-0706-zimmerman-ptsd-20150706-story.html
 * http://www.businessinsider.com/the-military-tested-bacterial-weapons-in-san-francisco-2015-7
 * https://now.mmedia.me/lb/en/commentary/565651-the-southern-front-allies-without-a-strategy
@@ -355,13 +356,14 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 
 
 
-## Public Transit
+## Public Transit, Transportation
 
 <li><a href="http://ideas.4brad.com/live-google-transit-directions-seriously-changes-value-transit" time_added="1403531704" tags="">http://ideas.4brad.com/live-google-transit-directions-seriously-changes-value-transit</a></li>
 <li><a href="http://flowingdata.com/2014/01/27/public-transit-times-in-major-cities/" time_added="1390836929" tags="">Public transit times in major cities</a></li>
 <li><a href="http://seattletimes.com/html/nationworld/2023091725_publictransitxml.html" time_added="1394424680" tags="">Increasing numbers of Americans ride public transit | Nation & World | The </a></li>
 <li><a href="http://www.sportsonearth.com/article/66544296/" time_added="1391445016" tags="">Is the Super Bowl really a boost to host cities? | SportsonEarth.com : Neil</a></li>
 
+* https://www.bostonglobe.com/magazine/2015/12/29/years-later-did-big-dig-deliver/tSb8PIMS4QJUETsMpA7SpI/story.html
 
 
 

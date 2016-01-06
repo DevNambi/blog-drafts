@@ -518,6 +518,7 @@
 * https://nylas.com/blog/performance
 * http://joelgrus.com/2015/12/30/polyglot-twitter-bot-part-3-python-27-aws-lambda/ <- brilliant
 * https://github.com/amontalenti/elements-of-python-style <- amazing
+* http://fbkarsdorp.github.io/python-course/
 
 
 

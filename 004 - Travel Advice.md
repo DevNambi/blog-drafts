@@ -4,11 +4,11 @@
 
 * Movies ++++++++
 * Music ++++++++
-* Paper book ++++++
+* Paper book +++++++
 * Games ++++++
-* EBooks +++++
+* EBooks ++++++
 * Travel pillow ++++
-* Good snacks +++++++
+* Good snacks ++++++++
 * Sleep ++++
 * Sleeping Pills ++++++
 
@@ -22,19 +22,21 @@
 
 #### Occasionally Recommended
 
+* Good meal beforehand
 * Good podcasts ++
 * Good food ++
+* Get a good seat ++
 * Sudoku +
 * Teabags +
 * Water +
+* Walk/dance around +
+* Good night's sleep beforehand
 * Airborne
 * Meditate
-* Walk/dance around +
 * Coloring books
 * Compression stockings
 * Chapstick
 * Hard candy / mints
-* Get a good seat +
 * Something to drape over yourself
 * Sleeping Pills +++++
 	* Ambien +++

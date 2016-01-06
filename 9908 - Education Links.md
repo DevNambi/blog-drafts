@@ -717,6 +717,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://nautil.us/issue/29/scaling/why-virtual-classes-can-be-better-than-real-ones
 * https://medium.com/@cshirky/the-digital-revolution-in-higher-education-has-already-happened-no-one-noticed-78ec0fec16c7
 * https://medium.com/@robconery/how-udemy-is-profiting-from-piracy-5638b929ffca
+* http://chronicle.com/article/This-Chart-Shows-the-Promise/234573/?key=smiDEaKSUZRmKW6MO5Ff5BaEZ7zZE53EWeFgXg1qMYE0SEpzaVZLTzhGSlVFSVlDN3hpZllmRmVQM3h6MXl6VXlhcTdMZmQ1NVBv
 
 
 

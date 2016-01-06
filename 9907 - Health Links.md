@@ -184,6 +184,7 @@
 
 
 * http://www.scientificamerican.com/article/regular-walking-can-help-ease-depression/
+* http://www.nytimes.com/2015/01/11/upshot/how-to-make-yourself-go-to-the-gym.html
 * http://www.nerdfitness.com/blog/2015/11/05/stuck-at-the-starting-line-find-your-gateway-change/ <- good read
 * http://nautil.us/issue/22/slow/the-impossible-physiology-of-the-free-diver
 * http://www.nerdfitness.com/blog/2015/02/02/just-how-fast-can-i-get-the-body-i-want/
@@ -615,6 +616,7 @@ pandemic-20150311-story.html
 
 
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
+* http://mobile.nytimes.com/2016/01/06/upshot/lost-jobs-houses-savings-even-insured-often-face-crushing-medical-debt.html 
 * http://micheleincalifornia.blogspot.com/2015/12/how-to-fix-americas-financial.html
 * http://www.theatlantic.com/technology/archive/2015/11/the-algorithm-that-will-buy-you-health-insurance-honeyinsured/414765/?single_page=true
 * https://theintercept.com/2015/12/16/why-are-drug-monopolies-running-amok-meet-deborah-feinstein/

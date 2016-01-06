@@ -153,7 +153,9 @@
 
 
 * http://www.nakedcapitalism.com/2014/09/sec-coverup-private-equity-worse-tbtf-banks.html
+* http://www.nakedcapitalism.com/2016/01/private-equity-firms-muscling-lenders-by-choosing-and-paying-for-their-lawyers.html
 * http://www.nakedcapitalism.com/2015/06/memo-to-readers-if-you-want-to-beat-big-finance-you-need-to-be-able-to-take-the-fight-to-their-terrain.html
+* https://foragerfunds.com/bristlemouth/dick-smith-is-the-greatest-private-equity-heist-of-all-time/ <- clear writeup
 * https://theintercept.com/2016/01/02/i-was-wrong-big-banks-actually-were-exactly-like-counterfeiters/
 * http://www.nakedcapitalism.com/2015/06/sorkin-on-the-streets-surge-of-suicides-ignoring-the-obvious.html
 * http://www.nakedcapitalism.com/2015/03/bill-black-meet-citis-ethical-underwriter-fought-won-sherry-hunt.html
@@ -492,6 +494,7 @@
 * https://www.reddit.com/r/AskReddit/comments/3ov0l1/they_say_that_money_cant_buy_happiness_but_what/
 * https://www.reddit.com/r/AskReddit/comments/3tkemy/what_is_a_sub100_gadget_that_everyone_needs_but/
 * http://blogs.wsj.com/moneybeat/2015/12/24/this-simple-way-is-the-best-way-to-predict-the-market/
+* http://www.vox.com/2015/7/27/9023415/mr-money-mustache-retirement 
 
 
 
