@@ -87,6 +87,7 @@
 * http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 * http://www.scriptcrafty.com/basic-infrastructure-patterns/
 * http://danluu.com/wat/
+* http://www.midnightdba.com/DBARant/what-i-learned-writing-commercial-software/
 
 
 

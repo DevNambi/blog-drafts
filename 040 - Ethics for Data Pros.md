@@ -62,7 +62,6 @@ We believe we are working to make our society, our world, a better place. At the
 * https://www.adbusters.org/magazine/115/datacide-total-annihilation-life-we-know-it.html
 * http://www.datasociety.net/initiatives/council-for-big-data-ethics-and-society/
 * http://blog.yhat.com/posts/unearthing-data-to-unleash-impact.html
-
 * https://medium.com/message/never-trust-a-corporation-to-do-a-librarys-job-f58db4673351
 * https://medium.com/@hannawallach/big-data-machine-learning-and-the-social-sciences-927a8e20460d <- brilliant!
 * https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de
