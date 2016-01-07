@@ -134,6 +134,12 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2016/01/03/opinion/sunday/is-the-drive-for-success-making-our-children-sick.html
 
 
+#### Charter Schools
+
+* http://www.nakedcapitalism.com/2016/01/are-charter-schools-the-new-subprime-mortgages.html
+
+
+
 
 
 

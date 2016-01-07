@@ -91,6 +91,7 @@
 * http://www.ritholtz.com/blog/2015/11/facebook/
 * http://fortune.com/2015/11/09/facebook-media/
 * https://signalvnoise.com/posts/2585-facebook-is-not-worth-33000000000
+* http://www.economist.com/news/business-and-finance/21685292-critics-argue-mark-zuckerbergs-generosity-cover-landgrab-facebooks-free-internet <- NO
 
 
 ## Apple
