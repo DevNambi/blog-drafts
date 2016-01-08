@@ -196,6 +196,7 @@
 * http://adage.com/article/digital/inside-google-s-secret-war-ad-fraud/298652/
 * https://mobile.twitter.com/EricaJoy/status/622079372367781888
 * http://fusion.net/story/244545/famous-and-broke-on-youtube-instagram-social-media/
+* http://arstechnica.com/gadgets/2016/01/2016-google-tracker-everything-google-is-working-on-for-the-new-year/
 
 
 ## Uber

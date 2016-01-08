@@ -860,6 +860,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://www.slideshare.net/deanwampler/spark-the-next-top-compute-model-39976454
 * http://ianozsvald.com/2015/02/19/spark-1-2-pyspark-elasticsearch-pypy/
 * http://www.kdnuggets.com/2015/11/introduction-spark-python.html
+* http://blogs.aws.amazon.com/bigdata/post/Tx2HJD3Z74J2U8U/Running-an-External-Zeppelin-Instance-using-S3-Backed-Notebooks-with-Spark-on-Am
 
 
 

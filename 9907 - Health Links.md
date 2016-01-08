@@ -35,12 +35,14 @@
 * http://www.nytimes.com/2015/04/21/upshot/simple-rules-for-healthy-eating.html
 * http://www.seattletimes.com/seattle-news/can-organic-be-profitable-if-the-price-is-right-study-says/ <- 5% more for organic, rather than 35%.
 * http://www.health.harvard.edu/blog/folic-acid-a-b-vitamin-lowers-stroke-risk-in-people-with-high-blood-pressure-201503187810
+* http://fivethirtyeight.com/features/how-msg-got-a-bad-rap-flawed-science-and-xenophobia/
 * http://www.vox.com/2015/3/23/8264355/research-study-hype
 * http://www.economist.com/news/technology-quarterly/21645497-tech-startups-are-moving-food-business-make-sustainable-versions-meat
 * http://arstechnica.com/science/2015/02/common-food-emulsifiers-may-be-linked-to-metabolic-syndrome/
 * http://news.usc.edu/82959/diet-that-mimics-fasting-appears-to-slow-aging/
 * http://www.nerdfitness.com/blog/2015/06/04/in-case-of-emergency-follow-this-workout-strategy/
 * http://www.nytimes.com/interactive/2015/04/14/dining/field-guide-to-the-sandwich.html
+* http://fivethirtyeight.com/features/how-msg-got-a-bad-rap-flawed-science-and-xenophobia/
 * http://gawker.com/the-food-babe-blogger-is-full-of-shit-1694902226
 * http://www.theatlantic.com/health/archive/2015/02/the-new-best-way-to-eat/385659/ 
 * http://mobile.nytimes.com/2015/03/31/upshot/red-meat-is-not-the-enemy.html?_r=0
