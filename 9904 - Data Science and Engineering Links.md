@@ -95,6 +95,7 @@
 * http://www.nature.com/articles/sdata201555
 * http://jmcauley.ucsd.edu/data/amazon/
 * https://developers.google.com/knowledge-graph/
+* http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/
 
 
 

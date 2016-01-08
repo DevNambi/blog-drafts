@@ -159,6 +159,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.nytimes.com/2016/01/06/world/asia/north-korea-hydrogen-bomb-test.html
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
 * http://www.nytimes.com/2015/04/26/us/politics/deep-support-in-washington-for-cias-drone-missions.html <- horrifying
+* http://www.nytimes.com/2016/01/09/world/americas/El-Chapo-captured-mexico.html
 * http://www.nytimes.com/2015/05/15/world/americas/colombia-halts-us-backed-spraying-of-illegal-coca-crops.html
 * https://www.newscientist.com/article/dn16297-intelligent-soldiers-most-likely-to-die-in-battle/
 * http://www.nakedcapitalism.com/2015/05/william-j-astore-the-american-military-uncontained-chaos-spread-casualties-inflicted-missions-unaccomplished.html

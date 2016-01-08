@@ -47,7 +47,7 @@
 <li><a href="https://training.kalzumeus.com/newsletters/archive/consulting_1" time_added="1353356622" tags="hn">Consulting</a></li>
 <li><a href="http://www.forbes.com/sites/jessicahagy/2012/06/26/20-ways-to-find-your-calling/" time_added="1348859861" tags="brand">20 Ways to Find Your Calling - Forbes</a></li>
 <li><a href="http://www.forbes.com/sites/gilpress/2012/09/27/data-scientists-the-definition-of-sexy/" time_added="1349021940" tags="data science">Data Scientists: The Definition of Sexy - Forbes</a></li>
-<li><a href="https://news.ycombinator.com/item?id=4585435&utm_source=Brent+Ozar+PLF+List&utm_campaign=3c71c065d9-Weekly_LInks_2012_10_0810_6_2012&utm_medium=email" time_added="1349718930" tags="hn">Ask HN: How does an experienced freelancer get work? | Hacker News</a></li>
+<li><a href="https://news.ycombinator.com/item?id=4585435" time_added="1349718930" tags="hn">Ask HN: How does an experienced freelancer get work? | Hacker News</a></li>
 <li><a href="http://lifehacker.com/5939542/careerbliss-measures-how-happy-you-are-in-your-job-finds-you-a-happier-one" time_added="1348859888" tags="life hacker">CareerBliss Measures How Happy You Are in Your Job, Finds You a Happier One</a></li>
 <li><a href="http://blogs.lessthandot.com/index.php/ITProfessionals/consulting/successful-consulting-series-consulting-vs" time_added="1356115487" tags="brand">Less Than Dot - Blog - Successful Consulting Series - Consulting vs. Fullti</a></li>
 <li><a href="http://blogs.hbr.org/cs/2012/12/the_top_five_career_regrets.html" time_added="1355510629" tags="brand,hn,important">The Top Five Career Regrets - Daniel Gulati - Harvard Business Review</a></li>
@@ -66,6 +66,7 @@
 * https://ozar.me/2013/07/how-negotiate-consulting-rates/
 * http://www.startupdaily.net/2015/09/builtwith-is-perhaps-one-of-australias-most-profitable-online-companies-and-has-zero-staff/
 * http://www.gkogan.co/blog/how-i-learned-to-get-consulting-leads/
+* https://stayintech.com/info/sideproject
 
 
 

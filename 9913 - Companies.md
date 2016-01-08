@@ -176,9 +176,10 @@
 
 
 
-## Google
+## Google / Alphabet
 
 * http://www.webpronews.com/data-confirms-google-is-wiping-out-a-whole-category-of-websites-2015-01
+* http://arstechnica.com/gadgets/2016/01/2016-google-tracker-everything-google-is-working-on-for-the-new-year/
 * http://www.wired.com/2015/07/googles-ad-system-become-big-control/
 * https://medium.com/@tommycm/what-it-s-really-like-to-work-for-a-tech-giant-4462fd18ce19
 * http://highscalability.com/blog/2015/8/10/how-google-invented-an-amazing-datacenter-network-only-they.html/
@@ -308,6 +309,7 @@
 * http://www.nytimes.com/2015/12/14/business/the-engineering-of-volkswagens-aggressive-ambition.html
 * http://mobile.nytimes.com/2016/01/05/business/takata-emails-show-brash-exchanges-about-data-tampering.html
 * http://www.extremetech.com/extreme/220417-rumor-vw-struggling-to-find-a-solution-to-its-us-emissions-problem
+* http://www.nytimes.com/2016/01/09/business/vw-refuses-to-give-us-states-documents-in-emissions-inquiries.html
 
 
 ## Sports

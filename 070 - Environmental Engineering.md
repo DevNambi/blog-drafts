@@ -131,6 +131,7 @@ Emphasize what we don't know
 * http://www.theguardian.com/commentisfree/2015/oct/30/indonesia-fires-disaster-21st-century-world-media
 * http://www.theatlantic.com/technology/archive/2015/10/every-climate-concerned-billionaire-should-do-this-to-save-the-world/413020/
 * http://www.extremetech.com/extreme/202579-global-investment-in-renewable-energy-skyrockets
+* http://www.bbc.com/future/story/20160105-why-we-will-all-one-day-drink-recycled-wastewater
 * http://www.wsj.com/articles/google-gets-into-battery-arms-race-1428694613
 * http://arstechnica.com/science/2015/08/the-solar-sunflower-harnessing-the-power-of-5000-suns/
 * http://www.greenbiz.com/article/how-find-more-money-conservation-and-other-causes <- hmmm. Ethical quandaries
