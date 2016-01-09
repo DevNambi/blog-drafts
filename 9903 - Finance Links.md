@@ -525,7 +525,8 @@
 * http://mobile.nytimes.com/2015/10/25/business/energy-environment/americas-heartland-feels-a-chill-from-collapsing-commodity-prices.html
 * http://www.nakedcapitalism.com/2015/12/ilargi-2016-is-an-easy-year-to-predict.html
 * http://nymag.com/daily/intelligencer/2015/12/big-short-genius-says-another-crisis-is-coming.html
-
+* http://wolfstreet.com/2016/01/09/global-stock-markets-dive-first-week-of-2016/
+* http://wolfstreet.com/2016/01/06/a-stealth-bear-market-has-already-begun/
 
 
 

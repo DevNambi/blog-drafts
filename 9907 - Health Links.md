@@ -621,6 +621,7 @@ pandemic-20150311-story.html
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
 * http://mobile.nytimes.com/2016/01/06/upshot/lost-jobs-houses-savings-even-insured-often-face-crushing-medical-debt.html 
 * http://micheleincalifornia.blogspot.com/2015/12/how-to-fix-americas-financial.html
+* http://www.nytimes.com/2016/01/10/business/doctors-unionize-to-resist-the-medical-machine.html
 * http://www.theatlantic.com/technology/archive/2015/11/the-algorithm-that-will-buy-you-health-insurance-honeyinsured/414765/?single_page=true
 * https://theintercept.com/2015/12/16/why-are-drug-monopolies-running-amok-meet-deborah-feinstein/
 * http://www.wsj.com/articles/the-art-of-setting-a-drug-price-1449628081
@@ -821,6 +822,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://desinutritionauthority.com/2015/06/why-young-slim-vegetarian-non-smoking-indians-are-struggling-with-cardiac-blockages-heart-attacks-and-diabetes/
 * http://www.vox.com/2015/7/7/8877041/losing-100-pounds
 * http://well.blogs.nytimes.com/2014/06/04/losing-weight-may-require-some-serious-fun/
+* http://arstechnica.com/science/2016/01/freeze-dried-poop-pills-being-tested-for-obesity-treatment/
 
 
 

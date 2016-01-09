@@ -245,6 +245,7 @@
 * http://quantjob.blogspot.com/2011/12/how-to-avoid-quantdeveloper-black-hole.html
 * http://treycausey.com/data_science_interviews.html
 * https://www.oreilly.com/ideas/what-to-look-for-in-a-data-scientist
+* http://www.kdnuggets.com/2016/01/20-questions-to-detect-fake-data-scientists.html
 
 @tdhopper - " Data scientists: "The hard part is data collection, cleaning, and problem formulation." D.S. giving an interview: "Tell me about math." "
 
