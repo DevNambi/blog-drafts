@@ -237,6 +237,7 @@
 * https://medium.com/@Smrimell/escape-the-trap-avoiding-traps-in-software-development-with-systems-thinking-cbc20af7c719
 * http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html
 * http://richardkulisz.blogspot.com/2011/06/design-principles-vs-engineering.html
+* http://www.firatatagun.com/blog/2016/01/09/analysis-of-software-architectures/
 
 
 ## UI, UX, HCD

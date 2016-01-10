@@ -808,6 +808,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://influxdb.com/docs/v0.9/concepts/storage_engine.html
 * http://insightdataengineering.com/blog/new-ecosystem/
 * http://www.slideshare.net/xamat/10-more-lessons-learned-from-building-machine-learning-systems <- highly recommended by various ML folks on Twitter
+* http://techcrunch.com/2016/01/09/the-year-in-analytics/
 
 
 #### MapReduce, Hadoop, Hive
