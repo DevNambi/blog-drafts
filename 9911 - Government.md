@@ -176,6 +176,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/ <- an insight piece
 * http://www.nytimes.com/2015/07/23/world/asia/afghan-security-forces-struggle-just-to-maintain-stalemate.html
 * http://www.popularmechanics.com/flight/drones/a18032/hero-30-uvision-israeli-drone/
+* https://www.washingtonpost.com/news/the-watch/wp/2016/01/11/why-the-wet-tea-leaves-drug-raid-was-outrageous/
 * http://www.economist.com/news/science-and-technology/21607765-just-how-good-are-government-analysts-intelligent-intelligence
 * http://www.nytimes.com/2016/01/01/us/pentagon-curbs-use-of-psychologists-with-guantanamo-detainees.html
 * http://motherboard.vice.com/read/the-largest-military-agency-youve-never-heard-of
@@ -356,6 +357,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.eurekalert.org/pub_releases/2014-10/puww-wdf102814.php
 * http://priceonomics.com/how-us-cities-count-their-homeless/
 * https://www.washingtonpost.com/news/morning-mix/wp/2015/12/15/toxic-water-soaring-lead-levels-in-childrens-blood-create-state-of-emergency-in-flint-mich/
+* http://www.freep.com/story/opinion/contributors/2016/01/09/gallagher-detroit-economy-development/78442020/
 
 
 

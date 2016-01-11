@@ -180,6 +180,7 @@
 ## Google / Alphabet
 
 * http://www.webpronews.com/data-confirms-google-is-wiping-out-a-whole-category-of-websites-2015-01
+* https://medium.com/hacker-daily/google-maps-is-forcing-routebuilder-to-shutdown-615ce42f413a
 * http://arstechnica.com/gadgets/2016/01/2016-google-tracker-everything-google-is-working-on-for-the-new-year/
 * http://www.wired.com/2015/07/googles-ad-system-become-big-control/
 * https://medium.com/@tommycm/what-it-s-really-like-to-work-for-a-tech-giant-4462fd18ce19
@@ -280,6 +281,7 @@
 * https://medium.com/@theorm/where-flight-search-engines-fail-48076f04c226
 * http://www.nakedcapitalism.com/2015/11/hysteresis-and-aircraft-maintenance-dont-go-up-in-any-large-planes.html
 * http://www.airlinereporter.com/2015/09/requiem-trijet-masterpiece-lockheed-l-1011-tristar/
+* http://www.nytimes.com/2016/01/12/science/rethinking-the-airplane-for-climates-sake.html
 
 
 ## Energy Companies
@@ -305,6 +307,7 @@
 * http://arstechnica.com/cars/2015/11/vw-execs-reportedly-knew-about-fuel-economy-and-emissions-cheating-a-year-ago/
 * http://www.nytimes.com/2015/04/16/business/general-motors-wins-ruling-shielding-it-from-most-claims-over-ignition-flaw.html
 * https://hbr.org/2015/03/gms-stock-buyback-is-bad-for-america-and-the-company
+* http://www.theverge.com/2016/1/11/10746926/audi-lunar-rover-xprize-detroit-auto-show-2016
 * http://www.nytimes.com/2015/06/23/business/takata-is-said-to-have-stopped-safety-audits-as-cost-saving-move.html
 * http://www.reuters.com/article/2015/09/23/us-usa-volkswagen-researchers-idUSKCN0RM2D720150923
 * http://jacquesmattheij.com/volkswagen-and-the-blame-the-engineer-game

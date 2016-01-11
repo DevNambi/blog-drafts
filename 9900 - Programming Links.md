@@ -33,6 +33,7 @@
 * http://blog.prof.so/2015/03/tools.html
 * https://hbr.org/1990/07/reengineering-work-dont-automate-obliterate/ar/1
 * http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/
+* http://www.theregister.co.uk/2015/11/11/most_developers_never_seen_successful_project/
 * http://www.nomachetejuggling.com/2014/02/05/top-10-career-changing-programming-books/
 * http://martinfowler.com/articles/microservice-trade-offs.html
 * http://highscalability.com/blog/2015/10/5/your-load-generator-is-probably-lying-to-you-take-the-red-pi.html
@@ -580,6 +581,7 @@
 * http://www.fse.guru/how-to-pick-a-frontend-web-framework
 * http://faculty.washington.edu/mikefree/info343/
 * https://medium.com/@housecor/angular-2-versus-react-there-will-be-blood-66595faafd51
+* https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f
 
 
 **React**

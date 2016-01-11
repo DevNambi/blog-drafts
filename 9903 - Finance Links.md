@@ -153,6 +153,7 @@
 
 
 * http://www.nakedcapitalism.com/2014/09/sec-coverup-private-equity-worse-tbtf-banks.html
+* http://www.nytimes.com/2016/01/10/business/ratings-agencies-still-coming-up-short-years-after-crisis.html
 * http://www.nakedcapitalism.com/2016/01/private-equity-firms-muscling-lenders-by-choosing-and-paying-for-their-lawyers.html
 * http://www.nakedcapitalism.com/2015/06/memo-to-readers-if-you-want-to-beat-big-finance-you-need-to-be-able-to-take-the-fight-to-their-terrain.html
 * https://foragerfunds.com/bristlemouth/dick-smith-is-the-greatest-private-equity-heist-of-all-time/ <- clear writeup
@@ -162,6 +163,7 @@
 * http://boingboing.net/2015/03/26/tpp-leak-states-give-companie.html
 * http://mobile.nytimes.com/2015/11/30/business/dealbook/behind-puerto-ricos-woes-a-broadly-powerful-development-bank.html
 * http://www.nakedcapitalism.com/2015/03/bill-black-fcic-spurned-one-chance-greatness.html
+* https://getmondo.co.uk/blog/2016/01/08/how-does-the-wholesale-foreign-exchange-market-work/
 * http://www.nakedcapitalism.com/2015/10/oxford-professor-schools-calpers-contrary-to-board-presentation-private-equity-is-most-expensive-asset-class-by-far.html
 * http://www.zerohedge.com/news/2015-10-19/traders-are-panic-selling-t-bills-after-jack-lew-warns-terrible-debt-limit-accident
 * http://www.theguardian.com/uk-news/2015/dec/08/fall-of-jersey-how-tax-haven-goes-bust

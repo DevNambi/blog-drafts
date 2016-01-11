@@ -67,6 +67,7 @@
 * http://www.startupdaily.net/2015/09/builtwith-is-perhaps-one-of-australias-most-profitable-online-companies-and-has-zero-staff/
 * http://www.gkogan.co/blog/how-i-learned-to-get-consulting-leads/
 * https://stayintech.com/info/sideproject
+* https://medium.com/@marknutter/advice-for-the-freelance-developer-68b63c69b050
 
 
 
