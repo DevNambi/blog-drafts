@@ -455,6 +455,7 @@
 * http://www.theatlantic.com/health/archive/2014/10/why-americans-are-drowning-in-medical-debt/381163/
 * http://www.nytimes.com/2014/10/22/business/economy/insurers-retreat-from-weather-related-disasters.html
 * https://www.washingtonpost.com/news/the-switch/wp/2016/01/04/the-big-data-of-bad-driving-and-how-insurers-plan-to-track-your-every-turn/
+* http://www.nytimes.com/2016/01/08/automobiles/insurers-brace-for-the-self-driving-future-and-fewer-accidents.html?ref=automobiles
 
 
 

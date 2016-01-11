@@ -387,6 +387,7 @@
 * http://www.infoworld.com/article/3011916/it-jobs/3-hottest-cloud-job-skills-for-2016.html
 * http://www.agner.org/optimize/blog/read.php?i=417
 * http://blog.zachbjornson.com/2015/12/29/cloud-storage-performance.html
+* http://danluu.com/cpu-bugs/
 
 
 
