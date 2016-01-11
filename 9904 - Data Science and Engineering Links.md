@@ -690,6 +690,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * https://source.opennews.org/en-US/articles/introducing-agate/
 * http://blog.datadive.net/7-tools-in-every-data-scientists-toolbox/
 * http://www.slideshare.net/TylerTreat/probabilistic-algorithms-for-fun-and-pseudorandom-profit
+* https://medium.com/learning-new-stuff/a-simple-technique-to-learn-hard-stuff-ffaa7879bf7c#.cbi0o4am2
 
 
 

@@ -296,6 +296,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2014/12/02/education/most-college-students-dont-earn-degree-in-4-years-study-finds.html
 * http://rhrealitycheck.org/article/2014/12/09/oregon-educators-strike-paid-leave-university-president-advocated-leave/
 * http://dealbook.nytimes.com/2014/12/17/law-school-enrollment-falls-to-lowest-level-since-1987/
+* http://postsecondary.gatesfoundation.org/areas-of-focus/personalized-learning/technology/
 * https://www.insidehighered.com/blogs/technology-and-learning/11-edtech-advances-will-not-happen-2020
 * http://www.impatientoptimists.org/Home/Posts/2015/12/Data-Matters--A-Students-Perspective
 * http://chronicle.com/article/At-Top-Athletics-Programs/150917/
@@ -725,6 +726,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://medium.com/@cshirky/the-digital-revolution-in-higher-education-has-already-happened-no-one-noticed-78ec0fec16c7
 * https://medium.com/@robconery/how-udemy-is-profiting-from-piracy-5638b929ffca
 * http://chronicle.com/article/This-Chart-Shows-the-Promise/234573/?key=smiDEaKSUZRmKW6MO5Ff5BaEZ7zZE53EWeFgXg1qMYE0SEpzaVZLTzhGSlVFSVlDN3hpZllmRmVQM3h6MXl6VXlhcTdMZmQ1NVBv
+* https://medium.com/learning-new-stuff/a-simple-technique-to-learn-hard-stuff-ffaa7879bf7c#.cbi0o4am2
 
 
 
