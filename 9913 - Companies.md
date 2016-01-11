@@ -54,6 +54,7 @@
 	* https://medium.com/@jhreha/how-amazon-jay-carney-violated-the-laws-of-persuasion-50b69d029e54
 * http://fortune.com/amazon-india-jeff-bezos/
 * http://www.vice.com/en_uk/read/inside-amazon-at-christmas-929
+* http://www.smashcompany.com/business/amazon-has-no-idea-how-to-run-an-app-store
 
 
 
@@ -278,6 +279,7 @@
 * http://www.seattletimes.com/business/boeing-aerospace/will-787-program-ever-show-an-overall-profit-analysts-grow-more-skeptical/
 * https://medium.com/@theorm/where-flight-search-engines-fail-48076f04c226
 * http://www.nakedcapitalism.com/2015/11/hysteresis-and-aircraft-maintenance-dont-go-up-in-any-large-planes.html
+* http://www.airlinereporter.com/2015/09/requiem-trijet-masterpiece-lockheed-l-1011-tristar/
 
 
 ## Energy Companies
@@ -310,6 +312,7 @@
 * http://mobile.nytimes.com/2016/01/05/business/takata-emails-show-brash-exchanges-about-data-tampering.html
 * http://www.extremetech.com/extreme/220417-rumor-vw-struggling-to-find-a-solution-to-its-us-emissions-problem
 * http://www.nytimes.com/2016/01/09/business/vw-refuses-to-give-us-states-documents-in-emissions-inquiries.html
+* http://www.economist.com/news/business/21685459-carmakers-increasingly-fret-their-industry-brink-huge-disruption
 
 
 ## Sports

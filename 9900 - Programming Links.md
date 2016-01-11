@@ -133,6 +133,7 @@
 
 
 
+
 ## Learning to Code
 
 "Computational skills are life skills"
@@ -213,6 +214,7 @@
 * https://medium.com/@leeb/why-invest-in-tools-3240ce289930
 * https://medium.com/@johnslegers/the-decline-of-stack-overflow-7cb69faa575d
 * http://aeon.co/magazine/technology/how-yuppies-hacked-the-original-hacker-ethos/
+* http://researchblogs.cs.bham.ac.uk/thelablunch/2016/01/a-short-fable-of-software-engineering-vs-regular-engineering/
 
 
 
@@ -238,6 +240,7 @@
 * http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html
 * http://richardkulisz.blogspot.com/2011/06/design-principles-vs-engineering.html
 * http://www.firatatagun.com/blog/2016/01/09/analysis-of-software-architectures/
+* http://www.hanselman.com/blog/WhenDidWeStopCaringAboutMemoryManagement.aspx
 
 
 ## UI, UX, HCD
@@ -488,6 +491,7 @@
 * http://playfulprogramming.blogspot.com/2015/08/cache-optimizing-priority-queue.html
 * http://adriansampson.net/blog/llvm.html
 * http://varianceexplained.org/r/polarizing-technologies/
+* https://medium.com/@jamesperry/writing-high-performance-servers-in-modern-c-7cd00926828#.gjxqshnty
 
 
 

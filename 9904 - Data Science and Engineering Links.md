@@ -65,6 +65,7 @@
 * http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/ <- here's the mother lode
 * https://news.ycombinator.com/item?id=10440502
 * http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/
+* http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information
 
 
 ## Data Acquisition, Sources
@@ -626,6 +627,7 @@
 * http://googleresearch.blogspot.com/2015/11/tensorflow-googles-latest-machine_9.html
 * http//iamtrask.github.io/2015/11/15/anyone-can-code-lstm/ <- a great intro to neural nets and LSTM
 * http://arxiv.org/abs/1511.06435 <- "Comparative Study of Caffe, Neon, Theano, and Torch for Deep Learning"
+* https://github.com/BradNeuberg/cloudless
 
 
 

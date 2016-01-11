@@ -199,6 +199,7 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 <li><a href="http://joelklettke.com/freelancing-2-years-230000-and-9-big-lessons-later/">FREELANCING: 2 YEARS, $230,000+ AND 9 BIG LESSONS LATER</a></li>
 <li><a href="http://georgestocker.com/2015/09/03/overworking-is-destructive/">Overworking is Destructive</a></li>
 <li><a href="http://www.inc.com/gene-marks/why-unlimited-paid-time-off-is-bad-for-your-employees.html?cid=sf01001">Why Unlimited Paid Time Off is Bad for Your Employees</a></li>
+<li><a href="http://www.nytimes.com/2016/01/10/opinion/sunday/you-dont-need-more-free-time.html">You Don’t Need More Free Time</a></li>
 </ul>
 
 

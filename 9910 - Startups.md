@@ -24,6 +24,7 @@
 * https://medium.com/backchannel/why-homejoy-failed-bb0ab39d901a
 * http://www.nytimes.com/2015/12/27/technology/when-a-unicorn-start-up-stumbles-its-employees-get-hurt.html <- how to screw over your employees
 * https://medium.com/@girlziplocked/paul-graham-is-still-asking-to-be-eaten-5f021c0c0650
+* http://cushionapp.com/expenses/
 
 
 
@@ -59,6 +60,7 @@
 * http://www.aaronkharris.com/things-that-arent-progress
 * https://medium.com/@abhasvc/unicorns-vs-donkeys-your-handy-guide-to-distinguishing-who-s-who-f1b30942b2b6
 * https://www.useronboard.com/onboarding-teardowns/
+* https://lord.io/blog/2016/yayview/ <- how *not* to grow a startup.
 
 
 

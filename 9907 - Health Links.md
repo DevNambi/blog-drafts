@@ -9,6 +9,7 @@
 * http://well.blogs.nytimes.com/2015/10/27/cutting-sugar-improves-childrens-health-in-just-10-days/
 * http://www.npr.org/sections/health-shots/2015/12/26/460803440/if-doctors-learned-to-cook-they-might-give-better-advice
 * http://nautil.us/issue/30/identity/how-the-western-diet-has-derailed-our-evolution
+* http://www.theguardian.com/lifeandstyle/2016/jan/05/diet-detox-art-healthy-eating
 * http://www.independent.co.uk/life-style/health-and-families/health-news/saturated-fats-in-meat-and-dairy-produce-not-as-bad-for-health-as-previously-thought-study-finds-10450663.html
 * http://news.meta.com/2015/11/19/cell-nutrition-is-personal-identical-foods-produce-healthy-and-unhealthy-responses-in-different-individuals/
 * http://www.nytimes.com/2015/11/01/magazine/bread-is-broken.html
