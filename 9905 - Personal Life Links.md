@@ -37,6 +37,8 @@
 * http://www.newyorker.com/books/page-turner/the-two-asian-americas
 * http://ngm.nationalgeographic.com/2016/01/call-to-wild-text
 * http://www.vox.com/2015/12/29/10634416/reading-list-books
+* https://www.researchgate.net/publication/283619534_Valuing_time_over_money_is_associated_with_greater_happiness
+
 
 
 

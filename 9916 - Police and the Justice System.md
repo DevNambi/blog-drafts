@@ -7,6 +7,7 @@
 * http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-map-us-police-killings <- amazingly useful, and disturbing
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
+* http://obsessionwithregression.blogspot.com/2016/01/racial-discrepancies-in-police-shootings.html
 * http://www.seattletimes.com/nation-world/baltimore-mayor-fires-police-commissioner/
 * http://ignition.co/439 <- bad incentives can make things worse
 * http://www.mlive.com/news/kalamazoo/index.ssf/2015/10/police_officer_charged_with_mi.html

@@ -351,6 +351,7 @@
 * http://www.wired.com/2015/04/kevin-mcelvaney-agbogbloshie/
 * http://danluu.com/intel-cat/
 * http://us10.campaign-archive1.com/?u=5dfb7b5de8e42c2633c06b3a8&id=36227f3963
+* http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html
 * http://www.cloudcomputingpatterns.org/ <- priceless
 * http://yosefk.com/blog/how-fpgas-work-and-why-youll-buy-one.html
 * http://blog.cr.yp.to/20150314-optimizing.html

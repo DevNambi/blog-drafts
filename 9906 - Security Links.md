@@ -23,6 +23,7 @@
 * http://krebsonsecurity.com/2015/12/when-undercover-credit-card-buys-go-bad/
 * http://www.10zenmonkeys.com/2016/01/04/dell-computers-has-been-hacked/
 * http://arstechnica.com/security/2015/10/new-zero-day-exploit-hits-fully-patched-adobe-flash/
+* http://venturebeat.com/2016/01/04/mobile-device-sales-slow-customers-grow-wary-of-security-holes-in-connected-devices-survey-says/ <- good
 * http://www.wired.com/2015/12/the-cia-secret-to-cybersecurity-that-no-one-seems-to-get/
 * http://www.wsj.com/articles/cyber-sleuths-track-hacker-to-chinas-military-1443042030
 * http://arstechnica.com/security/2015/11/hacking-tool-swipes-encrypted-credentials-from-password-manager/

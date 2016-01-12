@@ -530,6 +530,8 @@
 * http://nymag.com/daily/intelligencer/2015/12/big-short-genius-says-another-crisis-is-coming.html
 * http://wolfstreet.com/2016/01/09/global-stock-markets-dive-first-week-of-2016/
 * http://wolfstreet.com/2016/01/06/a-stealth-bear-market-has-already-begun/
+* http://fortune.com/2016/01/07/soros-china-crisis/
+
 
 
 
