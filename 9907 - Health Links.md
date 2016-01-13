@@ -620,6 +620,7 @@ pandemic-20150311-story.html
 
 
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
+* http://www.newyorker.com/magazine/2005/04/04/piecework
 * http://mobile.nytimes.com/2016/01/06/upshot/lost-jobs-houses-savings-even-insured-often-face-crushing-medical-debt.html 
 * http://micheleincalifornia.blogspot.com/2015/12/how-to-fix-americas-financial.html
 * http://www.nytimes.com/2016/01/10/business/doctors-unionize-to-resist-the-medical-machine.html

@@ -439,6 +439,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2015/02/18/business/economy/the-promise-and-failure-of-community-colleges.html
 * http://www.seattletimes.com/education-lab/community-colleges-ace-making-math-more-relevant/
 * https://www.insidehighered.com/news/2015/12/11/groups-band-together-improve-transfer-pathways-community-college-students
+* https://www.insidehighered.com/news/2016/01/12/community-college-grapples-implications-international-student-growth
 
 
 ### Admissions
@@ -617,6 +618,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://www.washingtonpost.com/news/education/wp/2015/11/24/college-enrollment-rates-are-dropping-especially-among-low-income-students/
 * http://www.mappingstudentdebt.org/#/map-1-an-introduction
 * http://www.bloomberg.com/news/articles/2015-12-11/a-144-000-student-default-shows-who-profits-at-taxpayer-expense
+* https://www.insidehighered.com/news/2016/01/13/delta-cost-project-report-outlines-trends-college-spending
 
 
 

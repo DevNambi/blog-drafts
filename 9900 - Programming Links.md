@@ -101,6 +101,7 @@
 ### Complexity, Code Reviews, Technical Debt
 
 * http://www.theeffectiveengineer.com/blog/hidden-costs-that-engineers-ignore
+* http://laughingmeme.org/2016/01/10/towards-an-understanding-of-technical-debt/
 * http://www.researchgate.net/publication/271384912_Would_you_mind_fixing_this_issue_An_Empirical_Analysis_of_Politeness_and_Attractiveness_in_Software_Developed_Using_Agile_Boards
 * http://www.drmaciver.com/2013/03/what-the-fuck-are-we-doing/
 * http://gael-varoquaux.info/programming/software-design-for-maintainability.html
@@ -474,6 +475,7 @@
 * http://blog.scalyr.com/2015/09/irreversible-failures-lessons-from-the-dynamodb-outage/
 * http://techblog.netflix.com/2015/09/chaos-engineering-upgraded.html
 * http://www.devfactor.net/2014/12/30/2375-amazon-mistake/
+* https://aws.amazon.com/blogs/aws/new-slack-integration-blueprints-for-aws-lambda/
 
 
 
