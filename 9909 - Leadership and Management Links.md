@@ -60,7 +60,7 @@
 * http://techcrunch.com/2015/04/04/the-work-family-imbalance/
 * http://www.atrixnet.com/bs-generator.html <- don't be this guy
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2015/04/23/how-to-seem-smart-in-meetings-without-really-trying/ <- hilarious and cynical
-
+* https://medium.com/ride-tech-blog/open-sourcing-our-interviewing-preparation-guide-102021f81626
 
 "It is common wisdom that first line eng. mgrs shouldn't write code. It's super useful if they read code, though--no one mentions that."
 

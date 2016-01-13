@@ -30,6 +30,7 @@ This is an information problem. It's also a FUD problem.
 * http://firstround.com/article/Mine-Your-Network-for-Early-Stage-Hiring-Gold
 * https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/
 * http://blog.triplebyte.com/three-hundred-programming-interviews-in-thirty-days
+* https://medium.com/ride-tech-blog/open-sourcing-our-interviewing-preparation-guide-102021f81626
 * Psychology - because we're looking for good judgment
    * Functional literacy is disempowering.
    * We know how to use a tool, but not when/why. The 'when all you have is a hammer' syndrome
