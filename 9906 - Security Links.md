@@ -11,6 +11,7 @@
 * http://arstechnica.com/information-technology/2015/08/lenovo-used-windows-anti-theft-feature-to-install-persistent-crapware/
 * https://securelist.com/analysis/publications/72652/beaches-carnivals-and-cybercrime-a-look-inside-the-brazilian-underground/
 * http://krebsonsecurity.com/2015/12/2016-reality-lazy-authentication-still-the-norm/
+* http://undeadly.org/cgi?action=article&sid=20160114142733
 * http://arstechnica.com/security/2015/12/common-payment-processing-protocols-found-to-be-full-of-flaws/
 * https://vimeo.com/135347162 <- James Mickens' talk
 * http://www.extremetech.com/computing/212038-oracle-tells-its-customers-to-stop-analyzing-its-code-for-security-flaws
