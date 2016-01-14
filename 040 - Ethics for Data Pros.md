@@ -44,6 +44,7 @@ We believe we are working to make our society, our world, a better place. At the
 * http://gigaom.com/2014/02/22/data-privacy-machine-learning-and-the-destruction-of-mysterious-humanity/
 * http://www.cato-unbound.org/2015/04/06/alex-tabarrok-tyler-cowen/end-asymmetric-information
 * http://escience.washington.edu/blog/data-science-social-good-final-presentations
+* https://www.reddit.com/r/datascience/comments/3zq4s6/ama_data_scientist_jake_porway_of_datakind/ <- AMAZING
 * http://www.marketsforgood.org/human-needs-index-a-real-time-data-project-on-poverty/
 * https://bitbucket.org/nikratio/s3ql
 * https://aws.amazon.com/blogs/aws/new-resource-oriented-bidding-for-ec2-spot-instances/
