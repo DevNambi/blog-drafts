@@ -67,6 +67,7 @@
 * https://news.ycombinator.com/item?id=10440502
 * http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/
 * http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information
+* http://yahoolabs.tumblr.com/post/137281912191/yahoo-releases-the-largest-ever-machine-learning
 
 
 ## Data Acquisition, Sources

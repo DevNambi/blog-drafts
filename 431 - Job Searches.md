@@ -249,6 +249,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="https://zapier.com/learn/the-ultimate-guide-to-remote-working/">The Ultimate Guide to Remote Working</a></li>
 <li><a href="https://remote.co/qa-leading-remote-companies/">Q & A - The leading remote companies answer your top questions</a></li>
 <li><a href="https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/">18F’s best practices for making distributed teams work</a></li>
+<li><a href="https://zapier.com/learn/the-ultimate-guide-to-remote-working/how-manage-remote-team/">How to Run a Remote Team</a></li>
 </ul>
 
 
