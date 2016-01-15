@@ -451,6 +451,7 @@
 * https://github.com/awslabs/aws-shell
 * https://aws.amazon.com/blogs/aws/aws-lambda-update-python-vpc-increased-function-duration-scheduling-and-more/
 * http://joelgrus.com/2015/12/29/polyglot-twitter-bot-part-2-nodejs-aws-lambda/
+* http://www.businessinsider.com/netflix-intuit-juniper-go-all-in-on-amazon-cloud-2016-1
 * https://cloudonaut.io/5-aws-mistakes-you-should-avoid/
 * http://www.cringely.com/2015/04/27/aws-shows-cloud-is-not-a-high-margin-business/
 * http://techcrunch.com/2015/11/24/aws-lamda-makes-serverless-applications-a-reality/
