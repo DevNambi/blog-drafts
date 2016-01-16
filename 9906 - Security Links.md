@@ -13,6 +13,7 @@
 * http://krebsonsecurity.com/2015/12/2016-reality-lazy-authentication-still-the-norm/
 * http://undeadly.org/cgi?action=article&sid=20160114142733
 * http://arstechnica.com/security/2015/12/common-payment-processing-protocols-found-to-be-full-of-flaws/
+* http://blog.zorinaq.com/?e=81
 * https://vimeo.com/135347162 <- James Mickens' talk
 * http://www.extremetech.com/computing/212038-oracle-tells-its-customers-to-stop-analyzing-its-code-for-security-flaws
 * http://betanews.com/2015/12/27/china-passes-law-requiring-tech-firms-to-hand-over-encryption-keys/

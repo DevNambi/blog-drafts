@@ -56,6 +56,7 @@
 
 
 * http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html
+* http://boingboing.net/2016/01/15/12-year-old-girl-suspended-bec.html
 * http://www.npr.org/sections/ed/2015/06/04/412093161/the-truth-behind-your-states-high-school-grad-rate
 * http://www.seattletimes.com/education-lab/new-discipline-data-allows-comparisons-among-districts/
 * http://www.nakedcapitalism.com/2015/05/high-school-dropout-rates-increase-with-income-inequality.html
