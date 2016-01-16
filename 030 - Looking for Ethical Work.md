@@ -99,7 +99,8 @@ Industries
 * http://www.johndcook.com/blog/2015/11/13/you-do-not-want-to-be-an-edge-case/
 * http://fledge.co/fledglings/
 * http://www.timesofisrael.com/israel-honors-us-gi-who-told-the-nazis-we-are-all-jews/
-* https://medium.com/@nayafia/how-i-stumbled-upon-the-internet-s-biggest-blind-spot-b9aa23618c58#.wfifuyld8
+* https://medium.com/@nayafia/how-i-stumbled-upon-the-internet-s-biggest-blind-spot-b9aa23618c58
+* https://en.m.wikipedia.org/wiki/Maurice_Hilleman <- you may never be famous
 
 
 
