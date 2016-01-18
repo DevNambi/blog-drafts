@@ -374,6 +374,7 @@
 * http://www.nytimes.com/2015/03/24/us/first-amendment-patron-saint-of-protesters-is-embraced-by-corporations.html
 * http://www.nytimes.com/2014/10/26/opinion/sunday/nicholas-kristof-the-american-dream-is-leaving-america.html
 * http://www.nakedcapitalism.com/2015/03/debunking-claim-inequality-fell-crisis.html
+* http://www.nakedcapitalism.com/2016/01/how-corporations-and-politicians-lie-with-numbers-and-how-not-to-be-fooled.html
 * http://m.tickld.com/x/capitalism-explained-this-is-so-accurate-it-hurts
 * http://www.politico.com/magazine/story/2014/11/overtime-pay-obama-congress-112954.html
 * http://www.theatlantic.com/business/archive/2014/11/why-its-so-hard-for-millennials-to-figure-out-where-to-live/382929/

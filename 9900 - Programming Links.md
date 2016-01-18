@@ -477,6 +477,8 @@
 * http://techblog.netflix.com/2015/09/chaos-engineering-upgraded.html
 * http://www.devfactor.net/2014/12/30/2375-amazon-mistake/
 * https://aws.amazon.com/blogs/aws/new-slack-integration-blueprints-for-aws-lambda/
+* https://medium.com/@tjholowaychuk/introducing-apex-800824ffaa70
+* http://blog.waleson.com/2016/01/parsing-10tb-of-metadata-26m-domains.html
 
 
 

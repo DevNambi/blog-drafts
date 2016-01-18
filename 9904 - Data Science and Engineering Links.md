@@ -561,6 +561,7 @@
 * https://code.google.com/p/word2vec/
 * http://www.quora.com/How-does-word2vec-work
 * http://rare-technologies.com/word2vec-tutorial/
+* http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994
 
 #### Image Processing
 
@@ -599,6 +600,7 @@
 * http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
 * https://www.youtube.com/watch?v=S75EdAcXHKk
 * http://erikbern.com/?p=841
+* http://thinkingmachines.mit.edu/blog/unreasonable-reputation-neural-networks
 * http://yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html
 * http://www.wired.com/2014/12/new-startup-sets-bring-google-style-ai-masses/
 * http://www.neutronest.moe/2015-11-15-LSTM-survey.html

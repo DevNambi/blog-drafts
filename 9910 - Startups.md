@@ -11,13 +11,11 @@
 * http://inthesetimes.com/article/17403/reports_from_inside_first_look_media_suggest_that_maybe_silicon_valley_shou
 * https://theconversation.com/hard-evidence-how-will-social-networks-boost-earnings-when-users-ignore-their-product-34110
 * https://medium.com/@DanielleMorrill/is-my-startup-burn-rate-normal-882b2bd20f02
-* http://qz.com/300825/how-fab-com-went-from-a-1-billion-valuation-to-a-15-million-fire-sale/?VCBS
 * http://alexstechthoughts.com/post/106513520281/fact-checking-in-the-startup-world
 * http://blog.conspire.com/post/112700131803/if-you-have-startup-stock-options-check-your
 * http://berkeleyjournal.org/2015/01/morality-and-the-idea-of-progress-in-silicon-valley/
 * http://recode.net/2015/03/12/kleiner-perkins-wrote-an-hr-policy-in-wake-of-female-partner-complaints/
 * http://fusion.net/story/102544/venture-capital-has-a-self-dealing-problem/
-* http://www.nytimes.com/2015/05/23/technology/overvalued-in-silicon-valley-but-not-the-word-that-must-not-be-uttered.html
 * http://thehustle.co/the-linkedin-hack-that-made-me-120000
 * http://time.com/3984957/independent-contractor-versus-employee-startups/
 * http://recode.net/2015/08/05/yes-uber-lost-a-lot-of-money-and-it-will-lose-more/
@@ -25,8 +23,15 @@
 * http://www.nytimes.com/2015/12/27/technology/when-a-unicorn-start-up-stumbles-its-employees-get-hurt.html <- how to screw over your employees
 * https://medium.com/@girlziplocked/paul-graham-is-still-asking-to-be-eaten-5f021c0c0650
 * http://cushionapp.com/expenses/
+* http://www.themediabriefing.com/article/peak-content-the-collapse-of-the-attention-economy <- don't trust ads to pay for things.
 
 
+
+### Valuation
+
+* http://filipmaertens.com/2016/01/16/2016-that-time-we-saw-squirrels/
+* http://www.nytimes.com/2015/05/23/technology/overvalued-in-silicon-valley-but-not-the-word-that-must-not-be-uttered.html
+* http://qz.com/300825/how-fab-com-went-from-a-1-billion-valuation-to-a-15-million-fire-sale/?VCBS
 
 
 ## Pricing
