@@ -159,7 +159,8 @@
 * http://www.daedtech.com/the-beggar-ceo-and-sucker-culture
 * http://www.nytimes.com/2015/11/27/us/parents-ready-for-some-love-from-silicon-valley-companies.html
 * http://totalgarb.tumblr.com/tagged/startupbullshit
-* https://medium.com/@girlziplocked/paul-graham-is-still-asking-to-be-eaten-5f021c0c0650#.a0oz68xdg
+* https://medium.com/@girlziplocked/paul-graham-is-still-asking-to-be-eaten-5f021c0c0650
+* http://www.economist.com/news/business/21688390-glamorous-tech-startups-can-be-brutal-places-workers-other-side-paradise
 
 
 

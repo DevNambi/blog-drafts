@@ -233,6 +233,7 @@
 * http://uberdriverdiaries.com/how-much-do-uber-drivers-really-make/
 * http://arstechnica.com/tech-policy/2015/12/uber-doesnt-want-drivers-to-sue-again-so-it-pushes-them-to-arbitration/ <- bad faith
 * http://www.nytimes.com/2016/01/04/technology/ubers-no-holds-barred-expansion-strategy-fizzles-in-germany.html
+* https://news.vice.com/article/that-little-lawsuit-against-uber-just-got-bigger-and-could-take-down-the-sharing-economy
 
 "It turns out Uber is a replacement for owning a car" say wealthy urbanites who don't have kids, pets, disabilities or outdoor hobbies." - https://twitter.com/mims
 
