@@ -147,6 +147,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 ## Higher Education
 
 * http://equitablegrowth.org/research/achievement-gap/ <- why I do what I do
+* https://www.insidehighered.com/news/2016/01/19/survey-colleges-finds-distribution-requirements-remain-popular-new-features
 * http://www.lawyersgunsmoneyblog.com/2015/12/career-opportunities-2
 * http://news.stanford.edu/news/2015/november/robinson-humanities-lecture-110315.html
 * http://www.washingtonpost.com/sf/brand-connect/wp/video/what-do-you-know-about-college/
@@ -689,6 +690,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 
 * http://www.washington.edu/news/2014/11/20/cost-of-meeting-basic-needs-rising-faster-than-wages-in-washington-state/
 * http://www.seattletimes.com/opinion/editorials/freeze-or-cut-college-tuition-but-make-up-for-lost-revenue/
+* http://www.seattletimes.com/seattle-news/education/uw-to-demolish-2-old-dorms-build-5-new-ones/
 * http://seattletimes.com/html/education/2025132186_edlabacademicredshirtxml.html
 * http://blogs.seattletimes.com/educationlab/2015/01/05/report-uw-accounting-is-confusing-lacks-consistency/ <- OPB is hosed
 * https://news.cs.washington.edu/2015/01/06/uw-cse-introductory-course-enrollment-continues-to-explode/
