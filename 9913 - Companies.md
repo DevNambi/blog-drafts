@@ -250,6 +250,7 @@
 * http://www.theawl.com/2015/10/the-chicago-end-times
 * https://medium.com/@jwherrman/tech-is-eating-media-now-what-807047ad4ede
 * http://www.billboard.com/articles/business/6828092/spotify-class-action-royalties-david-lowery-cracker-150-million
+* http://www.poynter.org/2016/newspaper-bosses-paralyzed-by-change-clueless-about-paid-content-says-steve-brill/391102/ <- brilliant
 
 
 
