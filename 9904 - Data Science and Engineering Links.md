@@ -298,10 +298,8 @@
 * http://danluu.com/percentile-latency/
 * https://github.com/twitter/BreakoutDetection
 * http://www.wired.com/2014/10/tracy-widom-mysterious-statistical-law/
-* http://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
 * http://appliedpredictivemodeling.com/blog/2014/11/27/vpuig01pqbklmi72b8lcl3ij5hj2qm <- great look at cross-validation.
 * http://andrewgelman.com/2014/12/25/common-sense-statistics/
-* https://medium.com/the-physics-arxiv-blog/cause-and-effect-the-revolutionary-new-statistical-test-that-can-tease-them-apart-ed84a988e <- causal inference
 * http://www.evanmiller.org/how-not-to-run-an-ab-test.html
 * http://www.benkuhn.net/squared
 * http://www.stats.org/super-learning-and-the-revolution-in-knowledge/
@@ -318,8 +316,13 @@
 * http://daithiocrualaoich.github.io/kolmogorov_smirnov/
 * https://www.periscopedata.com/blog/outlier-detection-in-sql.html
 
-
 "Remember, nonlinear interactions, and non-Gaussian distributions are common. "
+
+### Causal Inference
+
+* http://multithreaded.stitchfix.com/blog/2016/01/13/market-watch/
+* https://medium.com/the-physics-arxiv-blog/cause-and-effect-the-revolutionary-new-statistical-test-that-can-tease-them-apart-ed84a988e <- causal inference
+* http://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
 
 ### Time Series
 
@@ -540,6 +543,7 @@
 * https://github.com/avehtari/BDA_py_demos
 * http://nicolas.kruchten.com/content/2015/09/jupyter_pivottablejs/
 * http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/
+* https://civisanalytics.com/blog/data-science/2016/01/06/workflows-python-using-pipeline-gridsearchcv-for-compact-code/
 
 
 

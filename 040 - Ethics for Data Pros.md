@@ -27,6 +27,7 @@ We believe we are working to make our society, our world, a better place. At the
 "Ethics: moral principles that govern a person's or group's behavior"
 
 * http://mathbabe.org/2013/11/12/there-is-no-market-solution-for-ethics/
+* http://blog.datalook.io/how-data-science-fuelled-the-largest-outreach-effort-in-the-history-of-nyc/
 * http://bdes.datasociety.net/wp-content/uploads/2015/12/BDES-Common-Rule-Letter.pdf
 * http://blogs.wsj.com/digits/2016/01/07/regulator-warns-tech-companies-of-big-data-bias/
 * http://arstechnica.com/information-technology/2015/12/demystifying-artificial-intelligence-no-the-singularity-is-not-just-around-the-corner/

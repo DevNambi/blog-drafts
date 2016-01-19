@@ -161,6 +161,7 @@
 * http://totalgarb.tumblr.com/tagged/startupbullshit
 * https://medium.com/@girlziplocked/paul-graham-is-still-asking-to-be-eaten-5f021c0c0650
 * http://www.economist.com/news/business/21688390-glamorous-tech-startups-can-be-brutal-places-workers-other-side-paradise
+* http://qz.com/586941/whats-eating-silicon-valley/
 
 
 

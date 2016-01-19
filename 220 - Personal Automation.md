@@ -8,6 +8,8 @@ The slowest part was going through old email & FB messages to build a training s
 
 http://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/
 
+https://automatedinsights.com/blog/automation-at-work-an-interview-with-hilary-mason/
+
 Replace myself with a series of Python scripts
 
 <li><a href="http://sqlblog.com/blogs/merrill_aldrich/archive/2014/01/14/automation-think-causation-not-correlation.aspx" time_added="1389729660" tags="">Automation? Think Causation, not Correlation</a></li>
