@@ -315,6 +315,8 @@
 * http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb <- AMAZING
 * https://www.vividcortex.com/blog/why-percentiles-dont-work-the-way-you-think
 * http://daithiocrualaoich.github.io/kolmogorov_smirnov/
+* https://www.periscopedata.com/blog/outlier-detection-in-sql.html
+
 
 "Remember, nonlinear interactions, and non-Gaussian distributions are common. "
 

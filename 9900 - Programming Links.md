@@ -681,6 +681,7 @@ Microsoft and other third-party developers have a huge problem: they don't liste
 * http://pajhome.org.uk/blog/10_reasons_to_love_sqlalchemy.html
 * https://www.compose.io/articles/write-stuff-measuring-database-performance/
 * http://www.dbms2.com/2015/04/16/notes-on-indexes-and-index-like-structures/
+* https://www.periscopedata.com/blog/outlier-detection-in-sql.html
 
 
 
