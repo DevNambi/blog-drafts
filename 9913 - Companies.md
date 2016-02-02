@@ -62,6 +62,7 @@
 ## Wal-Mart
 
 * http://www.bloomberg.com/news/articles/2015-06-17/wal-mart-has-76-billion-in-overseas-tax-havens-report-says
+* http://www.newyorker.com/business/currency/when-walmart-leaves-town
 
 <li><a href="http://gawker.com/walmarts-anti-union-dialogue-is-great-you-bet-1506493461" time_added="1390407737" tags="">Walmart's Leaked Anti-Union Scripts Are Great, "You Bet!!" gawker.com/walma</a></li>
 <li><a href="http://www.salon.com/2014/06/25/walmart_flunks_its_fact_check_the_truth_behind_its_sarcastic_response_to_the_times/" time_added="1403736455" tags="">http://www.salon.com/2014/06/25/walmart_flunks_its_fact_check_the_truth_behind_its_sarcastic_response_to_the_times/</a></li>
@@ -116,6 +117,7 @@
 * http://www.theverge.com/2015/9/17/9338963/welcome-to-hell-apple-vs-google-vs-facebook-and-the-slow-death-of-the-web
 * http://www.wired.com/2015/10/meet-walking-dead-hp-cisco-dell-emc-ibm-oracle
 * http://www.johndcook.com/blog/2015/11/12/project-lead-time/
+* http://www.nytimes.com/2016/02/02/technology/yahoo-employee-ranking-system-lawsuit.html
 
 
 
@@ -302,6 +304,7 @@
 
 * http://techcrunch.com/2015/10/21/twitter-ceo-dorsey-apologizes-to-developers-says-he-wants-to-reset-relations/
 * http://www.theguardian.com/commentisfree/2015/nov/06/twitter-teetering-pyramid-scheme-social-media
+* http://www.newyorker.com/tech/elements/the-end-of-twitter
 
 
 ## Vehicle, Car Companies
@@ -364,6 +367,7 @@
 * http://www.washingtonpost.com/news/wonkblog/wp/2015/10/15/ceos-beware-your-astronomical-salaries-may-soon-cost-you-customers/
 * http://www.straightdope.com/columns/read/3265/why-are-there-so-many-mattress-stores
 * http://techcrunch.com/2015/12/30/the-middleman-strikes-back/
+* http://www.canadianbusiness.com/the-last-days-of-target-canada/
 
 
 
