@@ -91,6 +91,7 @@ Industries
 * http://kernelmag.dailydot.com/issue-sections/features-issue-sections/13000/kerbal-space-program-game/
 * http://www.geekwire.com/2015/money-doesnt-buy-meaning-report-on-meaningful-jobs-finds-gigs-that-serve-people-rank-high-pickers-not-so-much/
 * http://www.nytimes.com/2015/08/26/world/europe/a-21st-century-migrants-checklist-water-shelter-smartphone.html
+* http://www.theguardian.com/sustainable-business/2016/feb/01/nestle-slavery-thailand-fighting-child-labour-lawsuit-ivory-coast
 * http://www.vox.com/2015/10/19/9566935/prohibition-myths-misconceptions-facts
 * http://mobile.nytimes.com/2015/10/24/us/court-by-court-lawyers-fight-practices-that-punish-the-poor.html
 * https://www.squareweave.com.au/blog/2015/10/21/the-ethics-of-digital-disruption/

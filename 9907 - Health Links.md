@@ -5,6 +5,7 @@
 ### Food
 
 * http://www.nytimes.com/interactive/2015/05/19/dining/summer-dinner-ideas.html <- AMAZING
+* http://arstechnica.com/science/2016/01/why-the-calorie-is-broken/
 * http://www.vox.com/2016/1/7/10726036/new-us-food-guidelines
 * http://well.blogs.nytimes.com/2015/10/27/cutting-sugar-improves-childrens-health-in-just-10-days/
 * http://www.npr.org/sections/health-shots/2015/12/26/460803440/if-doctors-learned-to-cook-they-might-give-better-advice
@@ -344,7 +345,7 @@ pandemic-20150311-story.html
 #### Too Much Medicine, Adverse Outcomes
 
 * http://www.nytimes.com/2015/11/22/opinion/sunday/are-good-doctors-bad-for-your-health.html
-
+* http://www.nytimes.com/2016/02/02/health/study-finds-growing-reason-to-be-wary-of-some-reflux-drugs.html
 
 #### Endocrine Disruptors, Pesticides
 
@@ -519,6 +520,7 @@ pandemic-20150311-story.html
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://www.nytimes.com/2016/01/29/us/drug-shortages-forcing-hard-decisions-on-rationing-treatments.html
 * http://www.nytimes.com/2015/12/20/opinion/sunday/when-hospital-paperwork-crowds-out-hospital-care.html
 * http://www.seattletimes.com/seattle-news/health/judge-yakima-hospital-demanded-money-from-the-poor-violated-law/
 * http://www.statnews.com/2015/11/12/drug-makers-need-disclose-clinical-trial-data-study-says/
@@ -690,6 +692,7 @@ pandemic-20150311-story.html
 * http://arstechnica.com/science/2015/11/750pill-pharma-company-reverses-decision-to-lower-drug-price/ <- define:scum
 * http://www.nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html
 * http://www.theatlantic.com/business/archive/2015/12/medical-savings-patients-doctors/422277/
+* http://priceonomics.com/how-much-does-a-cremation-cost-depends-who-you/
 
 <li><a href="http://t.co/IG6Jdn4S" time_added="1357788683" tags="">lazowska: NY Times: US is an outlier in relying on the private sector to fu</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/11/another-lurking-obamacare-problem-balance-billing.html" time_added="1384907393" tags="corruption,finance,health,important,to_read">Another Lurking Obamacare Problem: Balance Billing « naked capitalism</a></li>

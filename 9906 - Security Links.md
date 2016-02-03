@@ -18,6 +18,7 @@
 * http://www.extremetech.com/computing/212038-oracle-tells-its-customers-to-stop-analyzing-its-code-for-security-flaws
 * http://betanews.com/2015/12/27/china-passes-law-requiring-tech-firms-to-hand-over-encryption-keys/
 * https://ma.ttias.be/remote-code-execution-via-http-request-in-iis-on-windows/
+* http://arstechnica.com/security/2016/02/ebay-has-no-plans-to-fix-severe-bug-that-allows-malware-distribution/
 * http://www.extremetech.com/computing/219027-new-pc-malware-loads-before-windows-is-virtually-impossible-to-detect
 * https://medium.com/@networksecurity/oleoutlook-bypass-almost-every-corporate-security-control-with-a-point-n-click-gui-37f4cbc107d0
 * http://sijmen.ruwhof.net/weblog/608-personal-data-of-dutch-telecom-providers-extremely-poorly-protected-how-i-could-access-12-million-records
@@ -295,6 +296,8 @@
 * https://theintercept.com/2015/11/17/u-s-mass-surveillance-has-no-record-of-thwarting-large-terror-attacks-regardless-of-snowden-leaks/
 * http://arstechnica.com/tech-policy/2015/11/nsa-replaced-secret-e-mail-metadata-program-with-more-expansive-tools/
 * http://www.latimes.com/opinion/op-ed/la-oe-1126-greenwald-snowden-paris-encryption-20151126-story.html
+* http://www.commondreams.org/news/2016/01/29/docs-reveal-us-used-denmark-rendition-flight-waiting-kidnap-snowden
+* http://www.theguardian.com/technology/2016/jan/29/white-house-tech-researcher-denied-security-clearance-edward-snowden-nsa
 
 
 <li><a href="http://rt.com/usa/news/surveillance-spying-e-mail-citizens-178/" time_added="1354678483" tags="hn,important,personal tech">'Everyone in US under virtual surveillance' - NSA whistleblower — RT</a></li>

@@ -42,6 +42,7 @@ We believe we are working to make our society, our world, a better place. At the
 * http://jeremykun.com/2015/07/13/what-does-it-mean-for-an-algorithm-to-be-fair/
 * http://www.law.nyu.edu/centers/ili/AlgorithmsConference
 * http://mobile.nytimes.com/blogs/bits/2014/12/23/data-broker-is-charged-with-selling-consumers-financial-details-to-fraudsters/
+* https://tommichiels.github.io/
 * http://gigaom.com/2014/02/22/data-privacy-machine-learning-and-the-destruction-of-mysterious-humanity/
 * http://www.cato-unbound.org/2015/04/06/alex-tabarrok-tyler-cowen/end-asymmetric-information
 * http://escience.washington.edu/blog/data-science-social-good-final-presentations

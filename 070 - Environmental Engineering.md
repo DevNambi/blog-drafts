@@ -99,6 +99,7 @@ Emphasize what we don't know
 * http://www.independent.co.uk/environment/fracking-poses-significant-risk-to-humans-and-should-be-temporarily-banned-across-eu-says-new-report-10334080.html
 * http://www.rollingstone.com/politics/news/the-point-of-no-return-climate-change-nightmares-are-already-here-20150805?page=7
 * http://www.desertsun.com/story/news/environment/2015/07/23/review-nestle-water-permit-neglected-decades/30562241/
+* http://fivethirtyeight.com/features/methane-is-leaking-all-over-the-place/
 * http://www.extremetech.com/extreme/219291-huge-german-fusion-reactor-powers-up-giving-age-old-tech-a-new-shot
 * http://www.theguardian.com/environment/climate-consensus-97-per-cent/2015/may/15/new-study-finds-a-hot-spot-in-the-atmosphere
 * https://www.washingtonpost.com/graphics/national/power-plants/

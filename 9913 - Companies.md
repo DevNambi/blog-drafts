@@ -94,6 +94,7 @@
 * http://fortune.com/2015/11/09/facebook-media/
 * https://signalvnoise.com/posts/2585-facebook-is-not-worth-33000000000
 * http://www.economist.com/news/business-and-finance/21685292-critics-argue-mark-zuckerbergs-generosity-cover-landgrab-facebooks-free-internet <- NO
+* http://www.bloomberg.com/features/2016-facebook-reactions-chris-cox/
 
 
 ## Apple
@@ -321,6 +322,7 @@
 * http://www.extremetech.com/extreme/220417-rumor-vw-struggling-to-find-a-solution-to-its-us-emissions-problem
 * http://www.nytimes.com/2016/01/09/business/vw-refuses-to-give-us-states-documents-in-emissions-inquiries.html
 * http://www.economist.com/news/business/21685459-carmakers-increasingly-fret-their-industry-brink-huge-disruption
+* http://lwn.net/Articles/670488/ <- about Volkswagon cheating and detecting it.
 
 
 ## Sports

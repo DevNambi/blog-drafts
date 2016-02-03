@@ -68,6 +68,7 @@
 * http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/
 * http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information
 * http://yahoolabs.tumblr.com/post/137281912191/yahoo-releases-the-largest-ever-machine-learning
+* http://data.statmt.org/ngrams/sentences_en/
 
 
 ## Data Acquisition, Sources
@@ -250,6 +251,7 @@
 * http://treycausey.com/data_science_interviews.html
 * https://www.oreilly.com/ideas/what-to-look-for-in-a-data-scientist
 * http://www.kdnuggets.com/2016/01/20-questions-to-detect-fake-data-scientists.html
+* http://www.remotedatascience.com/2016/02/skytruth-is-hiring-remote-machine.html
 
 @tdhopper - " Data scientists: "The hard part is data collection, cleaning, and problem formulation." D.S. giving an interview: "Tell me about math." "
 
@@ -418,6 +420,7 @@
 * http://blog.dato.com/choosing-a-recommender-model
 * http://research.microsoft.com/pubs/192769/tricks-2012.pdf
 * http://arxiv.org/pdf/1503.01331v1.pdf
+* http://cs.jhu.edu/~jason/tutorials/ml-simplex.html
 * http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 * http://multithreaded.stitchfix.com/blog/2015/07/30/gam/
 * http://www.quora.com/What-are-the-advantages-of-different-classification-algorithms
@@ -569,6 +572,7 @@
 * http://www.quora.com/How-does-word2vec-work
 * http://rare-technologies.com/word2vec-tutorial/
 * http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994
+* http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994
 
 #### Image Processing
 
@@ -639,6 +643,8 @@
 * http//iamtrask.github.io/2015/11/15/anyone-can-code-lstm/ <- a great intro to neural nets and LSTM
 * http://arxiv.org/abs/1511.06435 <- "Comparative Study of Caffe, Neon, Theano, and Torch for Deep Learning"
 * https://github.com/BradNeuberg/cloudless
+* http://karpathy.github.io/2015/05/21/rnn-effectiveness/ <- "Obsessed with char-nn after reading link and applying to federal regulations dataset. Amazing algorithm."
+* https://databricks.com/blog/2016/01/25/deep-learning-with-spark-and-tensorflow.html
 
 
 
@@ -702,7 +708,9 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * https://source.opennews.org/en-US/articles/introducing-agate/
 * http://blog.datadive.net/7-tools-in-every-data-scientists-toolbox/
 * http://www.slideshare.net/TylerTreat/probabilistic-algorithms-for-fun-and-pseudorandom-profit
-* https://medium.com/learning-new-stuff/a-simple-technique-to-learn-hard-stuff-ffaa7879bf7c#.cbi0o4am2
+* https://medium.com/learning-new-stuff/a-simple-technique-to-learn-hard-stuff-ffaa7879bf7c
+* https://medium.com/@adailyventure/big-data-is-dead-all-aboard-the-ai-hype-train-ae89c8d64cc3
+* http://101.datascience.community/2015/12/21/the-most-popular-skills-and-degrees-of-todays-data-scientists/
 
 
 
@@ -949,6 +957,8 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://techcrunch.com/2015/11/26/machine-intelligence-in-the-real-world/
 * https://blog.wikimedia.org/2015/11/30/artificial-intelligence-x-ray-specs/
 * https://github.com/donnemartin/data-science-ipython-notebooks
+* http://deepsense.io/deep-learning-right-whale-recognition-kaggle/
+* http://www.wired.com/2016/01/in-a-huge-breakthrough-googles-ai-beats-a-top-player-at-the-game-of-go/
 
 
 

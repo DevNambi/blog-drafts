@@ -139,6 +139,8 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 <li><a href="http://blog.interviewing.io/people-cant-gauge-their-own-interview-performance-and-that-makes-them-harder-to-hire/">Engineers can’t gauge their own interview performance. And that makes them harder to hire.</a></li>
 <li><a href="http://www.nytimes.com/2015/12/20/opinion/sunday/the-one-question-you-should-ask-about-every-new-job.html">The One Question You Should Ask About Every New Job</a></li>
 <li><a href="http://startupljackson.com/post/135800367395/how-to-get-rich-in-tech-guaranteed">How to get rich in tech, guaranteed.</a></li>
+<li><a href="https://hbr.org/2015/12/how-to-spot-a-bad-boss-during-an-interview">How to Spot a Bad Boss During an Interview</a></li>
+<li><a href="http://zachholman.com/posts/startup-interviewing-is-fucked/">Startup Interviewing is Fucked</a></li>
 </ul>
 
 
@@ -314,6 +316,8 @@ http://www.computerworld.com/article/2879083/southern-california-edison-it-worke
 <li><a href="http://www.nybooks.com/articles/archives/2015/jul/09/frenzy-about-high-tech-talent/">The Frenzy About High-Tech Talent
 </a></li>
 <li><a href="http://www.nytimes.com/2015/09/30/us/temporary-visas-meant-to-import-talent-help-ship-jobs-abroad.html">Toys ‘R’ Us Brings Temporary Foreign Workers to U.S. to Move Jobs Overseas</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2016/01/ex-disney-it-workers-sue-after-being-forced-to-train-their-own-h-1b-replacements/">
+Ex-Disney IT workers sue after being asked to train their own H-1B replacements</a></li>
 </ul>
 
 

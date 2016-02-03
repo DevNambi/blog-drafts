@@ -70,6 +70,7 @@
 * http://wolfstreet.com/2015/10/16/big-vw-investors-lost-their-shirts-blame-lobbying-for-dieselgate/
 * http://www.theguardian.com/world/2015/oct/22/three-days-to-save-the-euro-greece
 * http://www.nytimes.com/2015/12/26/business/pawnshops-emerge-as-solid-lender-in-post-austerity-spain.html
+* http://wolfstreet.com/2016/02/03/hedge-funds-wall-street-not-happy-with-the-new-spain/
 
 
 
@@ -125,6 +126,7 @@
 * http://www.nakedcapitalism.com/2015/07/once-again-on-the-it-challenges-in-converting-to-the-drachma.html
 * http://www.nakedcapitalism.com/2015/08/the-challenges-of-the-greek-crisis.html
 * http://www.nakedcapitalism.com/2015/11/the-disaster-of-greek-austerity-what-next.html
+* http://www.nakedcapitalism.com/2016/02/grexit-risk-may-be-back-sooner-than-you-think.html
 
 
 
@@ -279,6 +281,10 @@
 * http://wolfstreet.com/2015/12/25/lower-oil-prices-are-shaking-the-world/
 * http://www.telegraph.co.uk/finance/economics/12071761/Saudi-riyal-in-danger-as-oil-war-escalates.html
 * http://wolfstreet.com/2015/12/29/5-possible-market-moving-surprises-in-energy-for-2016/
+* http://www.nakedcapitalism.com/2016/01/bill-black-wall-street-declares-war-against-bernie-sanders.html
+* http://www.seattletimes.com/seattle-news/politics/new-report-says-gates-foundation-favors-businesses-not-poor/
+* http://www.nytimes.com/2012/07/15/business/goldman-sachs-and-a-sale-gone-horribly-awry.html
+* http://www.bbc.com/future/story/20160127-the-conman-who-pulled-off-historys-most-audacious-scam
 
 
 
@@ -311,6 +317,7 @@
 * http://www.bloombergview.com/articles/2015-04-17/new-starter-homes-hit-a-dead-stop
 * http://www.theguardian.com/society/2015/apr/30/experimental-victorian-scheme-could-virtually-eradicate-homelessness
 * http://www.citylab.com/housing/2015/07/mapping-the-us-by-property-value-instead-of-land-area/397841/
+* https://newrepublic.com/article/128713/fight-housing-market-gone-mad
 
 
 
@@ -501,7 +508,11 @@
 * https://www.reddit.com/r/AskReddit/comments/3ov0l1/they_say_that_money_cant_buy_happiness_but_what/
 * https://www.reddit.com/r/AskReddit/comments/3tkemy/what_is_a_sub100_gadget_that_everyone_needs_but/
 * http://blogs.wsj.com/moneybeat/2015/12/24/this-simple-way-is-the-best-way-to-predict-the-market/
-* http://www.vox.com/2015/7/27/9023415/mr-money-mustache-retirement 
+* http://www.vox.com/2015/7/27/9023415/mr-money-mustache-retirement
+* http://www.mrmoneymustache.com/2016/01/28/the-man-who-gets-his-cars-for-free/
+* https://www.reddit.com/r/personalfinance/comments/439xuh/true_cost_of_raising_a_child_245340_national/
+* http://graphics.latimes.com/retirement-nomads/
+* http://www.wired.com/2016/01/in-a-huge-breakthrough-googles-ai-beats-a-top-player-at-the-game-of-go/ <- Finance!
 
 
 
@@ -534,6 +545,7 @@
 * http://wolfstreet.com/2016/01/09/global-stock-markets-dive-first-week-of-2016/
 * http://wolfstreet.com/2016/01/06/a-stealth-bear-market-has-already-begun/
 * http://fortune.com/2016/01/07/soros-china-crisis/
+* http://techcrunch.com/2016/01/29/nothing-like-this-has-ever-happened-before/
 
 
 

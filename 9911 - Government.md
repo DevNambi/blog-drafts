@@ -73,6 +73,7 @@
 * http://www.seattletimes.com/seattle-news/oral-histories-of-imprisoned-wwii-japanese-americans-now-online/
 * http://bostonreview.net/books-ideas/mike-konczal-government-bureaucracy
 * http://govtechfund.com/2016/01/govtech-the-400-billion-market-hiding-in-plain-sight/
+* http://arstechnica.com/science/2016/02/the-audacious-rescue-plan-that-might-have-saved-space-shuttle-columbia/
 
 
 
@@ -141,7 +142,8 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://www.eff.org/deeplinks/2015/05/africas-worst-new-internet-censorship-law-could-be-coming-south-africa
 * http://www.nytimes.com/2015/06/07/magazine/the-agency.html
 * http://www.nytimes.com/2015/07/27/world/outlaw-ocean-thailand-fishing-sea-slaves-pets.html
-* http://www.nytimes.com/2015/10/18/world/middleeast/in-east-jerusalem-palestinians-are-seething-after-years-of-neglect.html?_r=0
+* http://www.nytimes.com/2015/10/18/world/middleeast/in-east-jerusalem-palestinians-are-seething-after-years-of-neglect.html
+* http://www.theatlantic.com/international/archive/2016/01/egypt-revolution-arab-spring/426609/
 
 
 

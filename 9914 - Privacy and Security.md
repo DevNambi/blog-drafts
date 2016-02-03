@@ -67,11 +67,15 @@
 * http://sheriff.dynu.com/views/home
 * http://www.antipope.org/charlie/blog-static/2015/05/thoughtcrime.html
 * http://newsoffice.mit.edu/2015/csail-report-government-access-data-major-security-risks-0707
+* http://www.theatlantic.com/politics/archive/2016/01/vigilant-solutions-surveillance/427047/
+* http://www.nytimes.com/2016/02/02/technology/at-uc-berkeley-a-new-digital-privacy-protest.html
+* http://www.nakedcapitalism.com/2016/01/this-is-just-evil-massive-private-license-plate-database-tracks-car-locations-over-years.html
 * http://www.wired.com/2015/12/dead-easy-phone-crypto-app-signal-comes-to-the-desktop/
 * https://modelviewculture.com/pieces/social-networking-as-peer-surveillance
 * https://www.privateinternetaccess.com/blog/2015/06/google-chrome-listening-in-to-your-room-shows-the-importance-of-privacy-defense-in-depth/
 * http://fusion.net/story/49806/beware-houseguests-cheap-home-surveillance-cameras-are-everywhere-now/
 * http://arstechnica.com/security/2015/10/unpatched-browser-weaknesses-can-be-exploited-to-track-millions-of-web-users/
+* https://ar.al/notes/why-im-not-speaking-at-cpdp/
 * http://arstechnica.com/tech-policy/2015/12/backslash-anti-surveillance-gadgets-for-protesters/
 * https://www.behance.net/gallery/16225247/I-have-NOT-read-and-agree-to-the-terms-of-use
 * http://fivethirtyeight.com/datalab/the-way-we-use-social-security-numbers-is-absurd/

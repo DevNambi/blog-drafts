@@ -58,6 +58,7 @@
 * http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html
 * http://boingboing.net/2016/01/15/12-year-old-girl-suspended-bec.html
 * http://www.npr.org/sections/ed/2015/06/04/412093161/the-truth-behind-your-states-high-school-grad-rate
+* http://www.wired.com/2016/02/schools-kicked-boy-based-dna/
 * http://www.seattletimes.com/education-lab/new-discipline-data-allows-comparisons-among-districts/
 * http://www.nakedcapitalism.com/2015/05/high-school-dropout-rates-increase-with-income-inequality.html
 * http://www.seattletimes.com/seattle-news/testing-cutting-into-class-time/
@@ -314,6 +315,10 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://jpminda.wordpress.com/2015/08/11/university-students-are-afraid-of-everything/
 * https://computinged.wordpress.com/2015/09/21/a-terrific-and-dismal-view-of-what-influences-cs-faculty-to-adopt-teaching-practices/
 * http://data-magnum.com/predictive-analytics-goes-to-college-to-predict-student-success/
+* http://highereddatastories.blogspot.com
+
+
+
 
 <li><a href="http://www.cosmopolitan.com/politics/a29775/cecily-mcmillan-grad-school-to-jail/" time_added="1407903140" tags="">I Went From Grad School to Prison</a></li>
 <li><a href="http://www.buzzfeed.com/duncanwatts/should-you-go-to-grad-school" time_added="1403057772" tags="">http://www.buzzfeed.com/duncanwatts/should-you-go-to-grad-school</a></li>
@@ -456,6 +461,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://mobile.nytimes.com/2015/05/19/upshot/the-in-state-tuition-break-slowly-disappearing.html
 * http://www.indystar.com/story/news/education/2015/08/01/purdue-university-tuition-freezes-squeeze-out--state-students/31007167/
 * http://www.nytimes.com/2015/12/13/opinion/sunday/the-lie-about-college-diversity.html
+* http://www.bostonglobe.com/metro/2016/01/19/chinese-students-hungry-attend-universities-caught-fraudulent-application-process/gpRB06mqBVAsxZ6eAbFKCJ/story.html <- is there incentive given international student tuition rates?
 
 
 
@@ -731,7 +737,8 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://medium.com/@cshirky/the-digital-revolution-in-higher-education-has-already-happened-no-one-noticed-78ec0fec16c7
 * https://medium.com/@robconery/how-udemy-is-profiting-from-piracy-5638b929ffca
 * http://chronicle.com/article/This-Chart-Shows-the-Promise/234573/?key=smiDEaKSUZRmKW6MO5Ff5BaEZ7zZE53EWeFgXg1qMYE0SEpzaVZLTzhGSlVFSVlDN3hpZllmRmVQM3h6MXl6VXlhcTdMZmQ1NVBv
-* https://medium.com/learning-new-stuff/a-simple-technique-to-learn-hard-stuff-ffaa7879bf7c#.cbi0o4am2
+* https://medium.com/learning-new-stuff/a-simple-technique-to-learn-hard-stuff-ffaa7879bf7c
+* http://timothyharfield.com/blog/2014/08/21/must-learning-analytics-be-inhumane/
 
 
 

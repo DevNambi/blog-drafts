@@ -80,6 +80,10 @@
 * https://www.reddit.com/r/AskReddit/comments/2wn0yt/what_is_one_weird_trick_that_actually_works/
 * https://www.reddit.com/r/AskReddit/comments/29gjj7/what_are_some_of_the_internet_tricks_that_you/
 * http://www.fastcompany.com/3053036/how-to-be-a-success-at-everything/the-simple-technique-to-fit-a-40-hour-work-week-into-167-h
+* https://www.educba.com/20-tips-to-increase-productivity/
+* https://medium.com/learning-new-stuff/a-simple-technique-to-learn-hard-stuff-ffaa7879bf7c
+* http://www.theatlantic.com/business/archive/2015/05/being-a-go-getter-is-no-fun/393863/
+* http://priceonomics.com/how-young-adults-spend-their-time-2004-vs-2014/
 
 
 
@@ -206,6 +210,8 @@ Embrace awkwardness more
 * http://www.extremetech.com/computing/215243-the-best-new-features-in-os-x-10-11-el-capitan
 * http://techreport.com/review/29143/tr-october-2015-peripheral-staff-picks/
 * http://appleinsider.com/articles/15/10/17/apple-activates-quality-program-for-retina-macbook-coatings
+* http://www.ikea.com/us/en/catalog/products/S49084965/ <- cheaper standing desk. 
+* https://getskadi.com/ <- open-source Trello
 
 
 

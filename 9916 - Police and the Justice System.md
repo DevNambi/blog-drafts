@@ -7,12 +7,14 @@
 * http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-map-us-police-killings <- amazingly useful, and disturbing
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
+* https://fop.thecthulhu.com/ <- Fraternal Order of Police Data Dump
 * http://obsessionwithregression.blogspot.com/2016/01/racial-discrepancies-in-police-shootings.html
 * http://www.seattletimes.com/nation-world/baltimore-mayor-fires-police-commissioner/
 * http://ignition.co/439 <- bad incentives can make things worse
 * http://www.mlive.com/news/kalamazoo/index.ssf/2015/10/police_officer_charged_with_mi.html
 * https://www.aclunebraska.org/en/publications/growing-locked-down
 * http://www.bloombergview.com/articles/2015-11-12/stop-and-seize-turns-police-into-self-funding-gangs
+* http://www.buzzfeed.com/alexcampbell/the-ticket-machine#.mhQvlambkx
 * http://arstechnica.com/tech-policy/2015/12/pre-crime-arrives-in-the-uk-better-make-sure-your-face-stays-off-the-crowdsourced-watch-list/
 * https://www.washingtonpost.com/blogs/wonkblog/wp/2015/06/30/drug-cops-took-a-college-kids-life-savings-and-now-13-police-departments-want-a-cut/
 * http://boingboing.net/2015/12/27/doj-shuts-down-asset-forfeitur.html
@@ -39,9 +41,13 @@
 * http://www.npr.org/2015/10/09/447202433/-great-pause-among-forensic-scientists-as-dna-proves-fallible
 * http://mathbabe.org/2015/07/08/what-are-prisons-for/
 * http://www.seattletimes.com/seattle-news/politics/police-reform-monitor-asks-harrell-to-wait-on-legislation/
+* http://www.newschannel5.com/news/newschannel-5-investigates/i-40-search-raises-new-policing-for-profit-questions
+* http://m.huffpost.com/us/entry/pete-seeger-fbi_us_5676e5fbe4b014efe0d5d9a4
 * http://boingboing.net/2015/07/06/michigan-cop-charges-black-gra.html
 * http://www.nytimes.com/2015/09/21/us/oregons-legal-sale-of-marijuana-comes-with-reprieve.html
+* http://arstechnica.com/tech-policy/2016/01/body-cam-captures-mans-final-words-begging-the-cops-to-get-off-of-him/
 * http://arstechnica.com/tech-policy/2015/10/body-cam-footage-clears-cops-in-cleveland-shooting-death/
+* http://www.seattletimes.com/seattle-news/crime/bill-would-make-it-easier-to-prosecute-police-over-deadly-force/ 
 * http://www.nytimes.com/2015/07/09/us/girls-in-juvenile-facilities-often-abused-report-says.html
 * http://www.nytimes.com/2015/09/05/us/a-surreptitious-courtroom-video-prompts-changes-in-a-georgia-town.html
 * http://www.latimes.com/nation/nationnow/la-na-nn-sandra-bland-footage-20150721-htmlstory.html

@@ -131,6 +131,7 @@
 * http://devteams.at/well_crafted_code_quality_speed_budget
 * http://allankelly.blogspot.com/2015/10/software-has-diseconomies-of-scale-not.html
 * https://medium.com/@nicolaerusan/conceptual-debt-is-worse-than-technical-debt-5b65a910fd46
+* http://news.mit.edu/2016/faster-automatic-bug-repair-code-errors-0129
 
 
 
@@ -392,6 +393,7 @@
 * http://www.agner.org/optimize/blog/read.php?i=417
 * http://blog.zachbjornson.com/2015/12/29/cloud-storage-performance.html
 * http://danluu.com/cpu-bugs/
+* http://blog.codinghorror.com/the-scooter-computer/
 
 
 
@@ -409,6 +411,7 @@
 <li><a href="http://t.co/cvq5A0Wa" time_added="1354585336" tags="sql">buckwoody: AZCopy - command-line file copy to Windows Azure Storage: http:/</a></li>
 
 * http://techcrunch.com/2015/04/20/microsoft-announces-azure-service-fabric-a-new-framework-for-building-scalable-cloud-services/
+* http://blogs.microsoft.com/blog/2016/01/19/how-were-putting-the-microsoft-cloud-to-work-for-the-public-good/ 
 
 
 ### Google Cloud
