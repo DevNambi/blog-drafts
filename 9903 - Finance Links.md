@@ -546,6 +546,8 @@
 * http://wolfstreet.com/2016/01/06/a-stealth-bear-market-has-already-begun/
 * http://fortune.com/2016/01/07/soros-china-crisis/
 * http://techcrunch.com/2016/01/29/nothing-like-this-has-ever-happened-before/
+* http://www.nytimes.com/2016/02/04/business/dealbook/toxic-loans-in-china-weigh-on-global-growth.html
+* http://www.nakedcapitalism.com/2016/02/is-the-saudis-market-share-strategy-backfiring.html
 
 
 
