@@ -69,6 +69,7 @@ Industries
 * http://markmanson.net/question
 * http://www.vox.com/2015/8/10/9124145/effective-altruism-global-ai
 * http://mathbabe.org/2015/07/03/what-kind-of-happiness-should-we-strive-for/
+* http://www.fastcoexist.com/3056129/this-house-costs-just-20000-but-its-nicer-than-yours <- AMAZING, AMAZING WORK. DO MORE OF THIS. 
 * https://insouciant.org/tech/back-to-sf-after-usds/
 * http://curbed.com/archives/2015/03/25/ikea-refugee-housing-production.php
 * http://digitheadslabnotebook.blogspot.com/2014/11/the-dream-recomb-conference-2014.html
