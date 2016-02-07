@@ -288,6 +288,7 @@
 * http://www.extremetech.com/extreme/219353-evidence-of-a-genetic-fountain-of-youth-discovered
 * http://www.theatlantic.com/science/archive/2015/12/why-human-genetics-research-is-full-of-costly-mistakes/420693/
 * http://www.npr.org/sections/health-shots/2015/12/28/460705645/gene-editing-tool-hailed-as-a-breakthrough-and-it-really-is-one
+* https://amplab.cs.berkeley.edu/do-computer-scientists-hold-the-key-to-treating-cancer/
 
 
 #### Diabetes

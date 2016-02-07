@@ -20,6 +20,7 @@
 * http://boingboing.net/2015/12/27/doj-shuts-down-asset-forfeitur.html
 * http://www.salon.com/2015/10/13/mommy_am_i_gonna_die_cop_shoots_4_year_old_after_aiming_for_family_dog_when_injured_mom_called_911_for_help/
 * https://www.washingtonpost.com/news/the-watch/wp/2015/12/28/federal-judge-drinking-tea-shopping-at-a-gardening-store-is-probable-cause-for-a-swat-raid-on-your-home/
+* http://arstechnica.com/tech-policy/2016/02/study-suspects-shocked-by-taser-more-likely-to-waive-miranda-rights/
 * http://rockrivertimes.com/2015/12/14/chicago-police-unions-fight-to-destroy-decades-of-records/ 
 * http://www.nytimes.com/aponline/2015/11/18/us/ap-us-mississippi-custody-death.html
 * http://www.chicoer.com/general-news/20151216/video-commander-surprised-by-officers-shooting-admission

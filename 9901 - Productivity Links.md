@@ -14,6 +14,7 @@
 * http://www.theguardian.com/money/2016/jan/02/work-life-balance-flexible-working-can-make-you-ill-experts-say
 * http://www.theatlantic.com/magazine/archive/2013/06/the-art-of-paying-attention/309312/
 * http://techcrunch.com/2015/10/17/specialization-polymaths-and-the-pareto-principle-in-a-convergence-economy/
+* http://jessicaabel.com/2016/01/27/idea-debt/
 * https://automatedinsights.com/blog/automation-at-work-an-interview-with-hilary-mason/
 * http://www.educba.com/20-tips-to-increase-productivity/
 * https://www.mainstreet.com/article/apparently-cool-kids-were-high-school-band-after-all/page/2 <- look at the research for myself

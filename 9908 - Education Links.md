@@ -518,7 +518,8 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://www.insidehighered.com/news/2015/12/10/education-department-staff-recommends-sanctions-california-community-college
 * http://www.economist.com/news/special-report/21646985-american-model-higher-education-spreading-it-good-producing-excellence
 * http://www.socjobrumors.com/topic/the-slow-death-of-the-university-by-terry-eagleton-uk
-
+* http://www.cwu.edu/central-names-new-director-institutional-effectiveness
+* http://www.impatientoptimists.org/home/posts/2016/01/better-by-the-numbers
 
 
 

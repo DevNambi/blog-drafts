@@ -277,6 +277,9 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.defenseone.com/threats/2015/12/global-conflicts-watch-2016/124608/
 * http://www.reuters.com/article/us-usa-gitmo-release-special-report-idUSKBN0UB1B020151229
 * http://arstechnica.com/science/2016/01/the-drug-war-is-cutting-life-expectancy-in-mexico/
+* http://www.nakedcapitalism.com/2016/02/the-north-korean-connections-of-us-billionaire-naguib-sawiris-and-us-defence-company-contrack-watts.html
+* http://arstechnica.com/information-technology/2016/02/a-10-to-fly-until-2022-as-dod-test-chief-warns-against-f-35-block-buy/
+
 
 
 

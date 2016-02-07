@@ -285,6 +285,8 @@
 * http://www.seattletimes.com/seattle-news/politics/new-report-says-gates-foundation-favors-businesses-not-poor/
 * http://www.nytimes.com/2012/07/15/business/goldman-sachs-and-a-sale-gone-horribly-awry.html
 * http://www.bbc.com/future/story/20160127-the-conman-who-pulled-off-historys-most-audacious-scam
+* https://fivethirtyeight.com/features/the-rent-seeking-is-too-damn-high/
+
 
 
 
@@ -318,6 +320,8 @@
 * http://www.theguardian.com/society/2015/apr/30/experimental-victorian-scheme-could-virtually-eradicate-homelessness
 * http://www.citylab.com/housing/2015/07/mapping-the-us-by-property-value-instead-of-land-area/397841/
 * https://newrepublic.com/article/128713/fight-housing-market-gone-mad
+* http://www.fastcoexist.com/3056129/this-house-costs-just-20000-but-its-nicer-than-yours
+* http://gizmodo.com/these-gorgeous-buildings-showcase-the-surprisingly-inno-1757398349
 
 
 
@@ -513,6 +517,7 @@
 * https://www.reddit.com/r/personalfinance/comments/439xuh/true_cost_of_raising_a_child_245340_national/
 * http://graphics.latimes.com/retirement-nomads/
 * http://www.wired.com/2016/01/in-a-huge-breakthrough-googles-ai-beats-a-top-player-at-the-game-of-go/ <- Finance!
+* http://www.bloomberg.com/news/articles/2016-02-05/the-rich-are-already-using-robo-advisers-and-that-scares-banks
 
 
 

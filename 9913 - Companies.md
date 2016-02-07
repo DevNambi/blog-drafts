@@ -102,9 +102,10 @@
 * http://roadlesstravelled.me/2015/04/06/why-steve-jobs-motivated-me-to-quit-apple/
 * http://words.hunzekerhesed.com/i-am-thinking-of-returning-my-apple-watch
 * https://medium.com/backchannel/how-steve-jobs-fleeced-carly-fiorina-79d1380663de
+* http://www.theguardian.com/money/2016/feb/05/error-53-apple-iphone-software-update-handset-worthless-third-party-repair
 
 
-## IBM and other large IT companies
+## IBM and other IT/software companies
 
 * http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/massive-worldwide-layoff-underway-at-ibm
 * http://www.endicottalliance.org/jobcutsreports.php
@@ -119,6 +120,8 @@
 * http://www.wired.com/2015/10/meet-walking-dead-hp-cisco-dell-emc-ibm-oracle
 * http://www.johndcook.com/blog/2015/11/12/project-lead-time/
 * http://www.nytimes.com/2016/02/02/technology/yahoo-employee-ranking-system-lawsuit.html
+* http://www.businessinsider.com/github-the-full-inside-story-2016-2
+
 
 
 

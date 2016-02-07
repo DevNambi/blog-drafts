@@ -765,6 +765,7 @@ things they believe in will keep </a></li>
 * http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/
 * http://www.nytimes.com/2015/09/23/nyregion/volkswagens-diesel-fraud-makes-critic-of-secret-code-a-prophet.html
 * http://blog.fogus.me/2015/11/04/the-100101-method-my-approach-to-open-source/
+* http://taskwarrior.org/docs/foq.html
 
 
 

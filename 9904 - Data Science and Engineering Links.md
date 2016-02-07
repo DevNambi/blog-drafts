@@ -488,6 +488,8 @@
 * http://news.mit.edu/2015/automating-big-data-analysis-1016
 * http://cs.stanford.edu/people/karpathy/nips2015/
 * https://peadarcoyle.wordpress.com/2015/12/23/three-things-i-wish-i-knew-earlier-about-machine-learning/
+* https://en.wikipedia.org/wiki/Moravec%27s_paradox
+
 
 
 
@@ -645,6 +647,7 @@
 * https://github.com/BradNeuberg/cloudless
 * http://karpathy.github.io/2015/05/21/rnn-effectiveness/ <- "Obsessed with char-nn after reading link and applying to federal regulations dataset. Amazing algorithm."
 * https://databricks.com/blog/2016/01/25/deep-learning-with-spark-and-tensorflow.html
+* http://www.wildml.com/deep-learning-glossary/
 
 
 
@@ -887,6 +890,13 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://ianozsvald.com/2015/02/19/spark-1-2-pyspark-elasticsearch-pypy/
 * http://www.kdnuggets.com/2015/11/introduction-spark-python.html
 * http://blogs.aws.amazon.com/bigdata/post/Tx2HJD3Z74J2U8U/Running-an-External-Zeppelin-Instance-using-S3-Backed-Notebooks-with-Spark-on-Am
+
+#### Tensorflow
+
+* https://github.com/pkmital/tensorflow_tutorials
+* https://github.com/jasimpson/tensorflow-on-aws
+* http://eatcodeplay.com/installing-gpu-enabled-tensorflow-with-python-3-4-in-ec2/
+
 
 
 
