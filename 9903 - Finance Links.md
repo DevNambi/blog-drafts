@@ -285,6 +285,7 @@
 * http://www.seattletimes.com/seattle-news/politics/new-report-says-gates-foundation-favors-businesses-not-poor/
 * http://www.nytimes.com/2012/07/15/business/goldman-sachs-and-a-sale-gone-horribly-awry.html
 * http://www.bbc.com/future/story/20160127-the-conman-who-pulled-off-historys-most-audacious-scam
+* http://www.turingfinance.com/stock-market-prices-do-not-follow-random-walks/
 
 
 
@@ -513,6 +514,7 @@
 * https://www.reddit.com/r/personalfinance/comments/439xuh/true_cost_of_raising_a_child_245340_national/
 * http://graphics.latimes.com/retirement-nomads/
 * http://www.wired.com/2016/01/in-a-huge-breakthrough-googles-ai-beats-a-top-player-at-the-game-of-go/ <- Finance!
+
 
 
 

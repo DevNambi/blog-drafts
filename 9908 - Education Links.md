@@ -627,6 +627,8 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.mappingstudentdebt.org/#/map-1-an-introduction
 * http://www.bloomberg.com/news/articles/2015-12-11/a-144-000-student-default-shows-who-profits-at-taxpayer-expense
 * https://www.insidehighered.com/news/2016/01/13/delta-cost-project-report-outlines-trends-college-spending
+* https://www.insidehighered.com/news/2016/02/09/study-increased-student-aid-not-faculty-salaries-drives-tuition
+* http://hedgeclippers.org/endangered-endowments/ <- Hedge funds: ripping off students and bankrupting higher ed.
 
 
 
