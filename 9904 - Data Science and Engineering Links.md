@@ -547,6 +547,7 @@
 * http://nicolas.kruchten.com/content/2015/09/jupyter_pivottablejs/
 * http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/
 * https://civisanalytics.com/blog/data-science/2016/01/06/workflows-python-using-pipeline-gridsearchcv-for-compact-code/
+* https://databricks.com/blog/2016/02/08/auto-scaling-scikit-learn-with-spark.html
 
 
 

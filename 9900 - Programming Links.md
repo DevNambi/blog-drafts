@@ -482,6 +482,7 @@
 * https://aws.amazon.com/blogs/aws/new-slack-integration-blueprints-for-aws-lambda/
 * https://medium.com/@tjholowaychuk/introducing-apex-800824ffaa70
 * http://blog.waleson.com/2016/01/parsing-10tb-of-metadata-26m-domains.html
+* http://www.nextplatform.com/2016/02/01/how-long-can-aws-keep-climbing-its-steep-growth-curve/
 
 
 
