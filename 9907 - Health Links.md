@@ -340,6 +340,9 @@ pandemic-20150311-story.html
     * A terrible, bubble-chart version of the same, http://www.businessinsider.com/the-things-most-likely-to-kill-you-in-one-infographic-2015-2
 * http://www.nakedcapitalism.com/2015/11/matthew-cunningham-cook-how-the-tpp-will-create-a-medical-privacy-hellscape.html
 * http://hospitalrun.io/
+* http://www.popville.com/2016/02/i-knew-our-ems-system-had-problems-but-had-no-idea-it-was-this-bad/
+* http://www.scribd.com/doc/298789450/Jullette-Saussy-Resignation-Letter
+
 
 
 
@@ -694,6 +697,7 @@ pandemic-20150311-story.html
 * http://www.nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html
 * http://www.theatlantic.com/business/archive/2015/12/medical-savings-patients-doctors/422277/
 * http://priceonomics.com/how-much-does-a-cremation-cost-depends-who-you/
+* http://vitals.lifehacker.com/drug-pricing-is-a-mess-and-we-re-all-paying-for-it-1758338047
 
 <li><a href="http://t.co/IG6Jdn4S" time_added="1357788683" tags="">lazowska: NY Times: US is an outlier in relying on the private sector to fu</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/11/another-lurking-obamacare-problem-balance-billing.html" time_added="1384907393" tags="corruption,finance,health,important,to_read">Another Lurking Obamacare Problem: Balance Billing « naked capitalism</a></li>

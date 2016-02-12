@@ -77,6 +77,7 @@
 * http://www.theatlantic.com/education/archive/2015/11/principal-power-new-orleans-school/415911/
 * http://www.nytimes.com/2015/04/26/sunday-review/push-dont-crush-the-students.html
 * http://www.theatlantic.com/magazine/archive/2015/12/the-silicon-valley-suicides/413140/ 
+* http://www.nakedcapitalism.com/2016/02/online-public-schools-are-a-disaster.html
 * http://www.seattletimes.com/education-lab/seattle-sets-high-bar-for-substitutes-by-requiring-teaching-license/
 * http://mobile.nytimes.com/2015/08/10/us/teacher-shortages-spur-a-nationwide-hiring-scramble-credentials-optional.html
 * http://www.chinasmack.com/2015/stories/thousands-mourn-death-of-chinese-high-school-principal.html
@@ -462,6 +463,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.indystar.com/story/news/education/2015/08/01/purdue-university-tuition-freezes-squeeze-out--state-students/31007167/
 * http://www.nytimes.com/2015/12/13/opinion/sunday/the-lie-about-college-diversity.html
 * http://www.bostonglobe.com/metro/2016/01/19/chinese-students-hungry-attend-universities-caught-fraudulent-application-process/gpRB06mqBVAsxZ6eAbFKCJ/story.html <- is there incentive given international student tuition rates?
+* http://www.youthtruthsurvey.org/college-and-career-readiness/
 
 
 
@@ -740,6 +742,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://chronicle.com/article/This-Chart-Shows-the-Promise/234573/?key=smiDEaKSUZRmKW6MO5Ff5BaEZ7zZE53EWeFgXg1qMYE0SEpzaVZLTzhGSlVFSVlDN3hpZllmRmVQM3h6MXl6VXlhcTdMZmQ1NVBv
 * https://medium.com/learning-new-stuff/a-simple-technique-to-learn-hard-stuff-ffaa7879bf7c
 * http://timothyharfield.com/blog/2014/08/21/must-learning-analytics-be-inhumane/
+* http://www.edsurge.com/news/2016-02-08-unc-launches-app-store-for-digital-learning-tools
 
 
 

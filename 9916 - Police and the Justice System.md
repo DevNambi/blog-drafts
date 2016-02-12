@@ -14,6 +14,7 @@
 * http://www.mlive.com/news/kalamazoo/index.ssf/2015/10/police_officer_charged_with_mi.html
 * https://www.aclunebraska.org/en/publications/growing-locked-down
 * http://www.bloombergview.com/articles/2015-11-12/stop-and-seize-turns-police-into-self-funding-gangs
+* http://www.nyclu.org/news/nypd-has-used-stingrays-more-1000-times-2008
 * http://www.buzzfeed.com/alexcampbell/the-ticket-machine#.mhQvlambkx
 * http://arstechnica.com/tech-policy/2015/12/pre-crime-arrives-in-the-uk-better-make-sure-your-face-stays-off-the-crowdsourced-watch-list/
 * https://www.washingtonpost.com/blogs/wonkblog/wp/2015/06/30/drug-cops-took-a-college-kids-life-savings-and-now-13-police-departments-want-a-cut/
@@ -353,6 +354,7 @@
 * https://twitter.com/adamjohnsonNYC/status/562482821781274624/photo/1 <- dissent, wanting to change the status quo, is now treated as 'terrorism'
 * http://www.nytimes.com/2015/11/27/opinion/how-to-prosecute-abusive-prosecutors.html
 * https://www.themarshallproject.org/2015/12/16/an-unbelievable-story-of-rape
+* http://www.theguardian.com/us-news/2016/feb/07/leaked-police-files-contain-guarantees-disciplinary-records-will-be-kept-secret
 
 <li><a href="http://www.vanityfair.com/online/daily/2014/08/veterans-ferguson-matthew-farwell" time_added="1408368336" tags="">What Combat Veterans See in Ferguson, Missouri | Vanity Fair</a></li>
 <li><a href="http://www.newyorker.com/news/news-desk/movement-grows-ferguson" time_added="1408332563" tags="">Hot damn this @jelani9 piece on the movement in #Ferguson is a masterwork. </a></li>

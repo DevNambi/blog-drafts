@@ -489,6 +489,7 @@
 * http://cs.stanford.edu/people/karpathy/nips2015/
 * https://peadarcoyle.wordpress.com/2015/12/23/three-things-i-wish-i-knew-earlier-about-machine-learning/
 * https://en.wikipedia.org/wiki/Moravec%27s_paradox
+* http://www.wired.com/2016/02/android-inventor-andy-rubin-playground-artificial-intelligence/
 
 
 

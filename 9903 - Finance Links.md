@@ -286,6 +286,8 @@
 * http://www.nytimes.com/2012/07/15/business/goldman-sachs-and-a-sale-gone-horribly-awry.html
 * http://www.bbc.com/future/story/20160127-the-conman-who-pulled-off-historys-most-audacious-scam
 * https://fivethirtyeight.com/features/the-rent-seeking-is-too-damn-high/
+* https://theintercept.com/2016/02/11/elizabeth-warren-catches-investment-advisors-fibbing/
+
 
 
 
@@ -322,6 +324,7 @@
 * https://newrepublic.com/article/128713/fight-housing-market-gone-mad
 * http://www.fastcoexist.com/3056129/this-house-costs-just-20000-but-its-nicer-than-yours
 * http://gizmodo.com/these-gorgeous-buildings-showcase-the-surprisingly-inno-1757398349
+* http://moneyning.com/housing/the-five-year-rule-for-buying-a-house/
 
 
 
