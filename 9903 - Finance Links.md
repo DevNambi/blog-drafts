@@ -287,9 +287,7 @@
 * http://www.bbc.com/future/story/20160127-the-conman-who-pulled-off-historys-most-audacious-scam
 * https://fivethirtyeight.com/features/the-rent-seeking-is-too-damn-high/
 * https://theintercept.com/2016/02/11/elizabeth-warren-catches-investment-advisors-fibbing/
-
-
-
+* http://www.turingfinance.com/stock-market-prices-do-not-follow-random-walks/
 
 
 
@@ -521,6 +519,7 @@
 * http://graphics.latimes.com/retirement-nomads/
 * http://www.wired.com/2016/01/in-a-huge-breakthrough-googles-ai-beats-a-top-player-at-the-game-of-go/ <- Finance!
 * http://www.bloomberg.com/news/articles/2016-02-05/the-rich-are-already-using-robo-advisers-and-that-scares-banks
+
 
 
 
