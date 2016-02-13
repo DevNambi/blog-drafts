@@ -66,6 +66,7 @@
 * http://www.deccanherald.com/content/490282/india-blocks-colgate-patents-spices.html
 * https://www.techdirt.com/articles/20151224/23582933173/harvard-law-review-freaks-out-sends-christmas-eve-threat-level-over-public-domain-citation-guide.shtml
 * http://www.michaelgeist.ca/2016/01/the-trouble-with-the-tpp-day-5-rights-holders-shall-vs-users-may/
+* http://arstechnica.com/tech-policy/2016/02/online-legal-publishers-squabble-over-the-right-to-copyright-the-law/
 
 
 "Any time someone puts a lock on something that belongs to you and won't give you the key, the lock isn't there for your benefit" - Cory Doctorow

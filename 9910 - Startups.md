@@ -24,6 +24,7 @@
 * https://medium.com/@girlziplocked/paul-graham-is-still-asking-to-be-eaten-5f021c0c0650
 * http://cushionapp.com/expenses/
 * http://www.themediabriefing.com/article/peak-content-the-collapse-of-the-attention-economy <- don't trust ads to pay for things.
+* http://www.cnbc.com/2016/02/11/silicon-valley-start-ups-rein-in-spending-and-prepare-for-layoffs.html
 
 
 
