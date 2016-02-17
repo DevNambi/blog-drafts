@@ -374,8 +374,6 @@
 * http://kubernetesio.blogspot.com/2015/04/borg-predecessor-to-kubernetes.html
 * http://bits.blogs.nytimes.com/2015/04/07/hp-comes-to-terms-with-the-cloud/?_r=0
 * http://arstechnica.com/gadgets/2015/05/amd-admits-it-cant-be-the-cheaper-solution-will-refocus-on-performance/
-* http://www.extremetech.com/gaming/203590-amd-takes-a-beating-in-q1-abandons-seamicro-dense-server-business
-* http://arstechnica.com/gadgets/2015/05/mediatek-escalates-the-multicore-madness-with-a-10-core-smartphone-soc/
 * http://www.extremetech.com/computing/205382-ssds-can-lose-data-in-as-little-as-7-days-without-power
 * http://www.extremetech.com/extreme/205231-memristors-linked-into-neural-network-arrays
 * http://www.rightscale.com/blog/cloud-cost-analysis/google-vs-aws-pricing-google-cuts-are-first-2015
@@ -395,6 +393,7 @@
 * http://blog.zachbjornson.com/2015/12/29/cloud-storage-performance.html
 * http://danluu.com/cpu-bugs/
 * http://blog.codinghorror.com/the-scooter-computer/
+* http://arstechnica.com/science/2016/02/is-d-waves-quantum-processor-really-10%E2%81%B8-times-faster-than-a-normal-computer/
 
 
 
@@ -484,6 +483,9 @@
 * https://medium.com/@tjholowaychuk/introducing-apex-800824ffaa70
 * http://blog.waleson.com/2016/01/parsing-10tb-of-metadata-26m-domains.html
 * http://www.nextplatform.com/2016/02/01/how-long-can-aws-keep-climbing-its-steep-growth-curve/
+
+
+
 
 
 
