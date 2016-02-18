@@ -289,6 +289,7 @@
 * https://fivethirtyeight.com/features/the-rent-seeking-is-too-damn-high/
 * https://theintercept.com/2016/02/11/elizabeth-warren-catches-investment-advisors-fibbing/
 * http://www.turingfinance.com/stock-market-prices-do-not-follow-random-walks/
+* http://www.nakedcapitalism.com/2016/02/anyone-want-to-buy-deutsche-bank.html
 
 
 

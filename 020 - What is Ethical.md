@@ -320,3 +320,5 @@ http://www.seattletimes.com/entertainment/with-millennial-philanthropy-money-flo
 http://www.trueactivist.com/this-artwork-is-probably-the-most-accurate-and-scary-portrayal-of-modern-life-weve-ever-seen/
 
 http://www.equityillustrated.org/
+
+https://www.washingtonpost.com/news/morning-mix/wp/2016/02/18/s-f-tech-bro-writes-open-letter-to-mayor-i-shouldnt-have-to-see-the-pain-struggle-and-despair-of-homeless-people/
