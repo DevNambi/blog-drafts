@@ -367,6 +367,7 @@
 * http://radar.oreilly.com/2014/12/why-the-data-center-needs-an-operating-system.html
 * https://gigaom.com/2015/01/04/verizon-cloud-warns-customers-of-2-day-maintenance-closure/
 * http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/
+* http://www.lighterra.com/papers/modernmicroprocessors/ <- a beautiful writeup
 * http://blog.serverfault.com/2015/03/05/how-we-upgrade-a-live-data-center/
 * http://danluu.com/3c-conflict/
 * http://blog.scalyr.com/2014/05/searching-20-gbsec-systems-engineering-before-algorithms/?1
@@ -543,6 +544,7 @@
 * http://joelgrus.com/2015/12/30/polyglot-twitter-bot-part-3-python-27-aws-lambda/ <- brilliant
 * https://github.com/amontalenti/elements-of-python-style <- amazing
 * http://fbkarsdorp.github.io/python-course/
+* https://etscrivner.github.io/posts/2014/10/building-large-flask-apps-in-the-real-world/
 
 
 

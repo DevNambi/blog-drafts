@@ -490,6 +490,7 @@
 * https://peadarcoyle.wordpress.com/2015/12/23/three-things-i-wish-i-knew-earlier-about-machine-learning/
 * https://en.wikipedia.org/wiki/Moravec%27s_paradox
 * http://www.wired.com/2016/02/android-inventor-andy-rubin-playground-artificial-intelligence/
+* http://techblog.netflix.com/2016/02/recommending-for-world.html
 
 
 
@@ -756,6 +757,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://www.linkedin.com/pulse/cargo-cult-data-science-george-roumeliotis
 * http://techcrunch.com/2015/11/26/machine-intelligence-in-the-real-world/
 * http://www.huffingtonpost.com/vala-afshar/2015-state-of-analytics-2_b_8611382.html
+* https://ckmadvisors.com/b/160212.html
 
 
 
