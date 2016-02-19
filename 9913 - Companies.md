@@ -258,6 +258,8 @@
 * https://medium.com/@jwherrman/tech-is-eating-media-now-what-807047ad4ede
 * http://www.billboard.com/articles/business/6828092/spotify-class-action-royalties-david-lowery-cracker-150-million
 * http://www.poynter.org/2016/newspaper-bosses-paralyzed-by-change-clueless-about-paid-content-says-steve-brill/391102/ <- brilliant
+* http://flowingdata.com/2016/02/19/the-daily-mail-stole-my-visualization-twice/
+* https://warriorwriters.wordpress.com/2016/02/19/shame-on-you-aolhuffington-no-more-literary-booty-calls/
 
 
 
