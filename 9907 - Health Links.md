@@ -342,6 +342,8 @@ pandemic-20150311-story.html
 * http://hospitalrun.io/
 * http://www.popville.com/2016/02/i-knew-our-ems-system-had-problems-but-had-no-idea-it-was-this-bad/
 * http://www.scribd.com/doc/298789450/Jullette-Saussy-Resignation-Letter
+* http://blogs.wsj.com/experts/2016/02/18/why-picking-the-right-hospital-is-crucial-and-often-impossible/
+
 
 
 
@@ -403,6 +405,7 @@ pandemic-20150311-story.html
 * http://www.bbc.com/news/world-europe-31864218 <- hilarious
 * http://arstechnica.com/science/2015/03/a-common-over-the-counter-cough-suppressant-can-boost-insulin/
 * http://mobile.nytimes.com/blogs/well/2015/02/04/infections-tied-to-lower-rheumatoid-arthritis-risk/
+* http://arstechnica.com/science/2016/02/homeopathy-successfully-turns-water-into-a-placebo/
 * http://www.abc.net.au/news/2014-10-27/medication-software-likely-to-kill-patients-within-month-report/5843044
 * http://opinionator.blogs.nytimes.com/2015/01/31/dying-shouldnt-be-so-brutal/
 * http://www.washingtonpost.com/national/health-science/how-i-discovered-an-important-question-a-doctor-should-ask-a-patient/2015/03/09/ca350634-bb9c-11e4-bdfa-b8e8f594e6ee_story.html
@@ -629,6 +632,7 @@ pandemic-20150311-story.html
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
 * http://www.newyorker.com/magazine/2005/04/04/piecework
 * http://mobile.nytimes.com/2016/01/06/upshot/lost-jobs-houses-savings-even-insured-often-face-crushing-medical-debt.html 
+* http://blogs.wsj.com/experts/2016/02/18/why-picking-the-right-hospital-is-crucial-and-often-impossible/
 * http://micheleincalifornia.blogspot.com/2015/12/how-to-fix-americas-financial.html
 * http://www.nytimes.com/2016/01/10/business/doctors-unionize-to-resist-the-medical-machine.html
 * http://www.theatlantic.com/technology/archive/2015/11/the-algorithm-that-will-buy-you-health-insurance-honeyinsured/414765/?single_page=true

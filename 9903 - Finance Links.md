@@ -140,6 +140,7 @@
 * http://jubileedebt.org.uk/wp-content/uploads/2015/07/The-new-debt-trap_07.15.pdf
 * http://www.nytimes.com/2015/07/20/world/middleeast/murder-at-sea-captured-on-video-but-killers-go-free.html
 * http://wolfstreet.com/2015/07/30/canadas-highly-touted-conservative-mortgage-standards-sink-into-liar-loan-scandal/
+* http://www.nytimes.com/2016/02/22/world/asia/reporting-on-life-death-and-corruption-in-southeast-asia.html
 
 
 ## Bank & Regulatory Corruption

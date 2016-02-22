@@ -523,6 +523,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.socjobrumors.com/topic/the-slow-death-of-the-university-by-terry-eagleton-uk
 * http://www.cwu.edu/central-names-new-director-institutional-effectiveness
 * http://www.impatientoptimists.org/home/posts/2016/01/better-by-the-numbers
+* http://www.seattletimes.com/education-lab/bill-would-explore-ways-to-shorten-college-from-four-years-to-three/
 
 
 
