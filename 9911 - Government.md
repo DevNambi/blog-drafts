@@ -123,6 +123,7 @@
 
 * http://www.rawstory.com/2015/10/the-us-government-is-deporting-central-american-migrants-to-their-deaths/
 * http://www.nytimes.com/2015/10/17/opinion/the-great-sanctuary-city-slander.html
+* http://www.nytimes.com/2016/02/19/opinion/a-little-reality-on-immigration.html
 
 
 
@@ -281,6 +282,8 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://arstechnica.com/science/2016/01/the-drug-war-is-cutting-life-expectancy-in-mexico/
 * http://www.nakedcapitalism.com/2016/02/the-north-korean-connections-of-us-billionaire-naguib-sawiris-and-us-defence-company-contrack-watts.html
 * http://arstechnica.com/information-technology/2016/02/a-10-to-fly-until-2022-as-dod-test-chief-warns-against-f-35-block-buy/
+* http://www.nytimes.com/2016/02/20/us/veterans-seek-greater-emphasis-on-ptsd-in-bids-to-upgrade-discharges.html
+* http://www.buzzfeed.com/mikegiglio/america-is-now-fighting-a-proxy-war-with-itself-in-syria
 
 
 
