@@ -270,7 +270,7 @@
 <li><a href="http://www.the-scientist.com/?articles.view/articleNo/34759/title/The-Cancer-Test-Kid/" time_added="1368716704" tags="health">The Cancer-Test Kid | The Scientist Magazine®</a></li>
 <li><a href="http://arstechnica.com/science/2013/08/stem-cells-turned-into-cancer-killing-immune-cells/" time_added="1376422372" tags="health">Stem cells turned into cancer-killing immune cells | Ars Technica</a></li>
 
-#### Genetic Engineering, Genome Sciences
+#### Genetic Engineering, Genome Sciences, Personalized Medicine
 
 * http://arstechnica.com/science/2014/08/diy-diagnosis-how-an-extreme-athlete-uncovered-her-genetic-flaw/
 * http://www.extremetech.com/extreme/214647-how-does-dna-sequencing-work
@@ -290,6 +290,7 @@
 * http://www.npr.org/sections/health-shots/2015/12/28/460705645/gene-editing-tool-hailed-as-a-breakthrough-and-it-really-is-one
 * https://amplab.cs.berkeley.edu/do-computer-scientists-hold-the-key-to-treating-cancer/
 * https://github.com/tariqdaouda/pyGeno
+* https://www.technologyreview.com/s/600763/immune-engineering/
 
 
 #### Diabetes
