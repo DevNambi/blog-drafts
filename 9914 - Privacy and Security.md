@@ -69,6 +69,7 @@
 * http://newsoffice.mit.edu/2015/csail-report-government-access-data-major-security-risks-0707
 * http://www.theatlantic.com/politics/archive/2016/01/vigilant-solutions-surveillance/427047/
 * http://www.nytimes.com/2016/02/02/technology/at-uc-berkeley-a-new-digital-privacy-protest.html
+* https://motherboard.vice.com/read/carnegie-mellon-university-attacked-tor-was-subpoenaed-by-feds <- Carnegie Mellon's up to no good
 * http://www.nakedcapitalism.com/2016/01/this-is-just-evil-massive-private-license-plate-database-tracks-car-locations-over-years.html
 * http://www.wired.com/2015/12/dead-easy-phone-crypto-app-signal-comes-to-the-desktop/
 * https://modelviewculture.com/pieces/social-networking-as-peer-surveillance
