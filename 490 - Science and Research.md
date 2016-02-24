@@ -9,6 +9,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://www.americanscientist.org/issues/feature/2014/6/the-statistical-crisis-in-science/99999
 * http://www.nakedcapitalism.com/2015/11/tpps-orwellian-definition-of-science-in-its-sanitary-and-phytosanitary-sps-chapter.html
 * https://liorpachter.wordpress.com/2015/07/10/the-myths-of-bioinformatics-software/
+* http://timothyharfield.com/blog/2016/01/24/why-academic-self-publishing-is-a-bad-idea-and-why-im-doing-it-anyway/
 * http://arstechnica.com/science/2015/08/100-psychology-experiments-repeated-less-than-half-successful/
 * http://arstechnica.com/science/2016/02/the-problem-with-bpa-free-alternatives-are-just-as-troubling/
 * http://mathbabe.org/2015/11/16/debiasing-techniques-in-science/

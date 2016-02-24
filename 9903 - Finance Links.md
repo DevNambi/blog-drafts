@@ -524,6 +524,7 @@
 * http://graphics.latimes.com/retirement-nomads/
 * http://www.wired.com/2016/01/in-a-huge-breakthrough-googles-ai-beats-a-top-player-at-the-game-of-go/ <- Finance!
 * http://www.bloomberg.com/news/articles/2016-02-05/the-rich-are-already-using-robo-advisers-and-that-scares-banks
+* http://www.newyorker.com/magazine/2016/02/29/mr-money-mustache-the-frugal-guru
 
 
 
