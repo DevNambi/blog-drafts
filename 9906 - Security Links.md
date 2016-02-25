@@ -16,6 +16,7 @@
 * http://undeadly.org/cgi?action=article&sid=20160114142733
 * http://arstechnica.com/security/2015/12/common-payment-processing-protocols-found-to-be-full-of-flaws/
 * http://blog.zorinaq.com/?e=81
+* http://www.theregister.co.uk/2016/01/21/mikey_ibake/
 * http://malwarejake.blogspot.com/2016/02/a-tale-of-idiots-and-red-tape.html
 * https://vimeo.com/135347162 <- James Mickens' talk
 * http://www.extremetech.com/computing/212038-oracle-tells-its-customers-to-stop-analyzing-its-code-for-security-flaws

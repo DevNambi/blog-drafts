@@ -731,6 +731,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://bigdatapix.tumblr.com/
 * Storytelling w/ data - Precision bullsh*tting
 * http://www.kdnuggets.com/2015/08/gartner-2015-hype-cycle-big-data-is-out-machine-learning-is-in.html
+* http://timoelliott.com/blog/analytics-cartoons
 
 
 

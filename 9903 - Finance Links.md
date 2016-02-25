@@ -327,6 +327,7 @@
 * http://www.fastcoexist.com/3056129/this-house-costs-just-20000-but-its-nicer-than-yours
 * http://gizmodo.com/these-gorgeous-buildings-showcase-the-surprisingly-inno-1757398349
 * http://moneyning.com/housing/the-five-year-rule-for-buying-a-house/
+* http://www.estately.com/occupation-real-estate-affordability
 
 
 

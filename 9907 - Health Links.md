@@ -707,6 +707,7 @@ pandemic-20150311-story.html
 * http://priceonomics.com/how-much-does-a-cremation-cost-depends-who-you/
 * http://vitals.lifehacker.com/drug-pricing-is-a-mess-and-we-re-all-paying-for-it-1758338047
 * http://www.theguardian.com/society/2016/feb/13/mental-health-services-crisis-britain-revealed-leaked-report
+* http://www.wired.com/2016/02/can-wall-street-solve-mess-health-insurance/
 
 <li><a href="http://t.co/IG6Jdn4S" time_added="1357788683" tags="">lazowska: NY Times: US is an outlier in relying on the private sector to fu</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/11/another-lurking-obamacare-problem-balance-billing.html" time_added="1384907393" tags="corruption,finance,health,important,to_read">Another Lurking Obamacare Problem: Balance Billing « naked capitalism</a></li>
