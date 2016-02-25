@@ -345,6 +345,7 @@ pandemic-20150311-story.html
 * http://www.popville.com/2016/02/i-knew-our-ems-system-had-problems-but-had-no-idea-it-was-this-bad/
 * http://www.scribd.com/doc/298789450/Jullette-Saussy-Resignation-Letter
 * http://blogs.wsj.com/experts/2016/02/18/why-picking-the-right-hospital-is-crucial-and-often-impossible/
+* https://github.com/cdcepi/zika
 
 
 

@@ -50,6 +50,7 @@ Come up with the cost-effectiveness of different sports & physical exercises.
 * http://www.wired.com/2014/09/ex-googler-using-big-data-model-creation-new-foods/
 * http://www.nytimes.com/2015/03/22/opinion/sunday/why-health-care-tech-is-still-so-bad.html
 * https://www.youtube.com/watch?v=GgzDOSgwZXU
+* https://github.com/cdcepi/zika
 
 ### Health from Work
 * What's the benefit of a standing desk?
