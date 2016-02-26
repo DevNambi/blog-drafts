@@ -140,6 +140,7 @@
 * http://jubileedebt.org.uk/wp-content/uploads/2015/07/The-new-debt-trap_07.15.pdf
 * http://www.nytimes.com/2015/07/20/world/middleeast/murder-at-sea-captured-on-video-but-killers-go-free.html
 * http://wolfstreet.com/2015/07/30/canadas-highly-touted-conservative-mortgage-standards-sink-into-liar-loan-scandal/
+* http://www.nytimes.com/2016/02/22/world/asia/reporting-on-life-death-and-corruption-in-southeast-asia.html
 
 
 ## Bank & Regulatory Corruption
@@ -182,6 +183,7 @@
 * http://www.nytimes.com/2015/11/17/world/americas/tiaa-cref-us-investment-giant-accused-of-land-grabs-in-brazil.html
 * http://www.nytimes.com/2015/04/16/upshot/big-money-from-super-pacs-is-eroding-the-power-of-parties.html?abt=0002&abg=0
 * http://www.nakedcapitalism.com/2015/03/fed-impedes-gao-audits-destroying-source-documents.html
+* http://applymate.com/blog/two-weeks-forced-vacation-bankers/ <- well, that's screwy
 * http://www.nakedcapitalism.com/2015/08/another-private-equity-scam-tax-receivable-agreements.html
 * http://www.bloomberg.com/news/articles/2015-04-23/negative-interest-rates-may-spark-existential-crisis-for-cash
 * http://www.nakedcapitalism.com/2015/07/sacramento-bee-reports-on-calpers-fee-lapses.html
@@ -325,6 +327,7 @@
 * http://www.fastcoexist.com/3056129/this-house-costs-just-20000-but-its-nicer-than-yours
 * http://gizmodo.com/these-gorgeous-buildings-showcase-the-surprisingly-inno-1757398349
 * http://moneyning.com/housing/the-five-year-rule-for-buying-a-house/
+* http://www.estately.com/occupation-real-estate-affordability
 
 
 
@@ -522,6 +525,7 @@
 * http://graphics.latimes.com/retirement-nomads/
 * http://www.wired.com/2016/01/in-a-huge-breakthrough-googles-ai-beats-a-top-player-at-the-game-of-go/ <- Finance!
 * http://www.bloomberg.com/news/articles/2016-02-05/the-rich-are-already-using-robo-advisers-and-that-scares-banks
+* http://www.newyorker.com/magazine/2016/02/29/mr-money-mustache-the-frugal-guru
 
 
 

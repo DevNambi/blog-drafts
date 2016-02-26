@@ -199,6 +199,8 @@
 * http://c3js.org/
 * http://www.cloudstitch.com/d3-in-a-box
 * https://plot.ly/javascript/open-source-announcement/
+* https://medium.com/@uwdata/introducing-vega-lite-438f9215f09e
+* https://vega.github.io/vega-lite/tutorials/getting_started.html
 
 #### GGPlot2
 
@@ -492,7 +494,7 @@
 * https://en.wikipedia.org/wiki/Moravec%27s_paradox
 * http://www.wired.com/2016/02/android-inventor-andy-rubin-playground-artificial-intelligence/
 * http://techblog.netflix.com/2016/02/recommending-for-world.html
-
+* http://www.pybloggers.com/ensemble-methods-elegant-techniques-to-produce-improved-machine-learning-results/
 
 
 
@@ -652,6 +654,7 @@
 * http://karpathy.github.io/2015/05/21/rnn-effectiveness/ <- "Obsessed with char-nn after reading link and applying to federal regulations dataset. Amazing algorithm."
 * https://databricks.com/blog/2016/01/25/deep-learning-with-spark-and-tensorflow.html
 * http://www.wildml.com/deep-learning-glossary/
+* http://googleresearch.blogspot.com/2016/02/exploring-intersection-of-art-and.html
 
 
 
@@ -693,6 +696,7 @@
 * https://leanpub.com/datastyle
 * http://su3su2u1.tumblr.com/post/114728408943/if-your-results-are-highly-counterintuitive
 * https://civisanalytics.com/blog/data-science/2014/08/20/why-we-love-models/
+* http://cs109.github.io/2015/pages/syllabus.html 
 * https://github.com/jonathan-bower/DataScienceResources
 * http://www.mastersindatascience.org/blog/questions-before-choosing-data-science-program/
 * http://blog.udacity.com/2014/11/data-science-job-skills.html
@@ -728,6 +732,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://bigdatapix.tumblr.com/
 * Storytelling w/ data - Precision bullsh*tting
 * http://www.kdnuggets.com/2015/08/gartner-2015-hype-cycle-big-data-is-out-machine-learning-is-in.html
+* http://timoelliott.com/blog/analytics-cartoons
 
 
 

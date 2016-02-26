@@ -270,7 +270,7 @@
 <li><a href="http://www.the-scientist.com/?articles.view/articleNo/34759/title/The-Cancer-Test-Kid/" time_added="1368716704" tags="health">The Cancer-Test Kid | The Scientist Magazine®</a></li>
 <li><a href="http://arstechnica.com/science/2013/08/stem-cells-turned-into-cancer-killing-immune-cells/" time_added="1376422372" tags="health">Stem cells turned into cancer-killing immune cells | Ars Technica</a></li>
 
-#### Genetic Engineering, Genome Sciences
+#### Genetic Engineering, Genome Sciences, Personalized Medicine
 
 * http://arstechnica.com/science/2014/08/diy-diagnosis-how-an-extreme-athlete-uncovered-her-genetic-flaw/
 * http://www.extremetech.com/extreme/214647-how-does-dna-sequencing-work
@@ -289,6 +289,8 @@
 * http://www.theatlantic.com/science/archive/2015/12/why-human-genetics-research-is-full-of-costly-mistakes/420693/
 * http://www.npr.org/sections/health-shots/2015/12/28/460705645/gene-editing-tool-hailed-as-a-breakthrough-and-it-really-is-one
 * https://amplab.cs.berkeley.edu/do-computer-scientists-hold-the-key-to-treating-cancer/
+* https://github.com/tariqdaouda/pyGeno
+* https://www.technologyreview.com/s/600763/immune-engineering/
 
 
 #### Diabetes
@@ -342,7 +344,9 @@ pandemic-20150311-story.html
 * http://hospitalrun.io/
 * http://www.popville.com/2016/02/i-knew-our-ems-system-had-problems-but-had-no-idea-it-was-this-bad/
 * http://www.scribd.com/doc/298789450/Jullette-Saussy-Resignation-Letter
+* http://blogs.wsj.com/experts/2016/02/18/why-picking-the-right-hospital-is-crucial-and-often-impossible/
 * https://github.com/cdcepi/zika
+
 
 
 
@@ -404,6 +408,7 @@ pandemic-20150311-story.html
 * http://www.bbc.com/news/world-europe-31864218 <- hilarious
 * http://arstechnica.com/science/2015/03/a-common-over-the-counter-cough-suppressant-can-boost-insulin/
 * http://mobile.nytimes.com/blogs/well/2015/02/04/infections-tied-to-lower-rheumatoid-arthritis-risk/
+* http://arstechnica.com/science/2016/02/homeopathy-successfully-turns-water-into-a-placebo/
 * http://www.abc.net.au/news/2014-10-27/medication-software-likely-to-kill-patients-within-month-report/5843044
 * http://opinionator.blogs.nytimes.com/2015/01/31/dying-shouldnt-be-so-brutal/
 * http://www.washingtonpost.com/national/health-science/how-i-discovered-an-important-question-a-doctor-should-ask-a-patient/2015/03/09/ca350634-bb9c-11e4-bdfa-b8e8f594e6ee_story.html
@@ -630,6 +635,7 @@ pandemic-20150311-story.html
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
 * http://www.newyorker.com/magazine/2005/04/04/piecework
 * http://mobile.nytimes.com/2016/01/06/upshot/lost-jobs-houses-savings-even-insured-often-face-crushing-medical-debt.html 
+* http://blogs.wsj.com/experts/2016/02/18/why-picking-the-right-hospital-is-crucial-and-often-impossible/
 * http://micheleincalifornia.blogspot.com/2015/12/how-to-fix-americas-financial.html
 * http://www.nytimes.com/2016/01/10/business/doctors-unionize-to-resist-the-medical-machine.html
 * http://www.theatlantic.com/technology/archive/2015/11/the-algorithm-that-will-buy-you-health-insurance-honeyinsured/414765/?single_page=true
@@ -701,6 +707,7 @@ pandemic-20150311-story.html
 * http://priceonomics.com/how-much-does-a-cremation-cost-depends-who-you/
 * http://vitals.lifehacker.com/drug-pricing-is-a-mess-and-we-re-all-paying-for-it-1758338047
 * http://www.theguardian.com/society/2016/feb/13/mental-health-services-crisis-britain-revealed-leaked-report
+* http://www.wired.com/2016/02/can-wall-street-solve-mess-health-insurance/
 
 <li><a href="http://t.co/IG6Jdn4S" time_added="1357788683" tags="">lazowska: NY Times: US is an outlier in relying on the private sector to fu</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/11/another-lurking-obamacare-problem-balance-billing.html" time_added="1384907393" tags="corruption,finance,health,important,to_read">Another Lurking Obamacare Problem: Balance Billing « naked capitalism</a></li>

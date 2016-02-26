@@ -329,6 +329,7 @@
 * http://www.nytimes.com/2016/01/09/business/vw-refuses-to-give-us-states-documents-in-emissions-inquiries.html
 * http://www.economist.com/news/business/21685459-carmakers-increasingly-fret-their-industry-brink-huge-disruption
 * http://lwn.net/Articles/670488/ <- about Volkswagon cheating and detecting it.
+* http://www.nytimes.com/2016/02/24/business/takata-faked-test-data-a-year-after-airbag-recalls-report-says.html
 
 
 ## Sports
