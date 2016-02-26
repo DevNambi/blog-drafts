@@ -342,6 +342,7 @@ pandemic-20150311-story.html
 * http://hospitalrun.io/
 * http://www.popville.com/2016/02/i-knew-our-ems-system-had-problems-but-had-no-idea-it-was-this-bad/
 * http://www.scribd.com/doc/298789450/Jullette-Saussy-Resignation-Letter
+* https://github.com/cdcepi/zika
 
 
 

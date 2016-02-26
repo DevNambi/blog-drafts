@@ -407,6 +407,7 @@
 * http://xyclade.github.io/MachineLearning/
 * http://www.infoq.com/presentations/machine-learning-general-programming <- brilliant
 * http://www.dataschool.io/comparing-supervised-learning-algorithms/
+* http://blog.dato.com/how-to-evaluate-machine-learning-models-part-1-orientation
 * http://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/
 * https://medium.com/@mikedewar/recommendation-engines-aren-t-for-maximising-metrics-they-are-for-designing-experiences-b2cb3395092c
 * http://fastml.com/real-time-interactive-movie-recommendation/
