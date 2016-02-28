@@ -16,6 +16,7 @@
 * http://zachholman.com/posts/0x-engineers/
 * http://blog.karma.wiki/post/116870055382/the-curious-case-of-artem-andreenko
 * http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/
+* https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
 * http://blog.codinghorror.com/the-bad-apple-group-poison/ and http://blog.codinghorror.com/dealing-with-bad-apples/
 * https://hbr.org/2013/12/how-google-sold-its-engineers-on-management/ar/1
 * https://hbr.org/2015/04/heres-how-managers-can-be-replaced-by-software <- AWESOME. Payback is divine.

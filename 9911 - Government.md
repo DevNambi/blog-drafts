@@ -432,6 +432,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.nytimes.com/2015/10/17/us/politics/filings-reveal-hillary-clinton-leads-money-race.html
 * https://theintercept.com/2015/11/24/lobbyists-refugee-crisis/
 * http://www.bipartisanreport.com/2016/01/02/nsa-rats-out-republicans-proves-netanyahu-bribed-them-against-iran-nuclear-deal/
+* http://www.nytimes.com/2016/02/28/us/politics/donald-trump-republican-party.html
 
 
 
