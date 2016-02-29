@@ -487,6 +487,8 @@
 * https://medium.com/@tjholowaychuk/introducing-apex-800824ffaa70
 * http://blog.waleson.com/2016/01/parsing-10tb-of-metadata-26m-domains.html
 * http://www.nextplatform.com/2016/02/01/how-long-can-aws-keep-climbing-its-steep-growth-curve/
+* https://www.reddit.com/r/aws/comments/46iat0/what_third_party_tools_do_you_use_with_aws_that/
+* https://serverlesscode.com/post/deploy-scikitlearn-on-lamba/
 
 
 
@@ -607,6 +609,7 @@
 * https://facebook.github.io/react/
 * https://github.com/facebook/react/wiki/Examples
 * https://github.com/eanplatter/react-starter
+* https://github.com/gaearon/react-makes-you-sad
 
 
 
@@ -843,6 +846,7 @@ things they believe in will keep </a></li>
 * http://tumblr.snipe.net/
 * http://arstechnica.com/information-technology/2014/10/the-devil-had-possessed-his-netbook-and-other-tales-of-it-terror/
 * http://crashworks.org/if_programming_languages_were_vehicles/ <- funny because it's true
+* http://ericgreer.info/github/funny/stupidity/2016/02/28/judging-the-stupidity-of-github-projects.html
 * http://www.itworld.com/article/2995053/careers/banks-severance-deal-requires-it-workers-to-be-on-call-for-two-years.html <- good luck getting any good support out of this. 
 * http://vimeo.com/146524997 <- another James Mickens classic
 

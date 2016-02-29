@@ -254,6 +254,7 @@
 * https://www.oreilly.com/ideas/what-to-look-for-in-a-data-scientist
 * http://www.kdnuggets.com/2016/01/20-questions-to-detect-fake-data-scientists.html
 * http://www.remotedatascience.com/2016/02/skytruth-is-hiring-remote-machine.html
+* https://www.quora.com/What-are-20-questions-to-detect-fake-data-scientists
 
 @tdhopper - " Data scientists: "The hard part is data collection, cleaning, and problem formulation." D.S. giving an interview: "Tell me about math." "
 
