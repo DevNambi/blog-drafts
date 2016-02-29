@@ -581,6 +581,7 @@
 * http://rare-technologies.com/word2vec-tutorial/
 * http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994
 * http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994
+* http://stackoverflow.com/questions/27697766/understanding-min-df-and-max-df-in-scikit-countvectorizer/
 
 #### Image Processing
 
