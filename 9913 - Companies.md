@@ -378,6 +378,8 @@
 * http://techcrunch.com/2015/12/30/the-middleman-strikes-back/
 * http://www.canadianbusiness.com/the-last-days-of-target-canada/
 * https://medium.com/@taliajane/an-open-letter-to-my-ceo-fb73df021e7a
+* https://medium.com/choking-on-a-macaron/what-you-don-t-know-about-tripadvisor-15d31d745bdc
+
 
 
 

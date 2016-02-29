@@ -496,6 +496,7 @@
 * http://www.wired.com/2016/02/android-inventor-andy-rubin-playground-artificial-intelligence/
 * http://techblog.netflix.com/2016/02/recommending-for-world.html
 * http://www.pybloggers.com/ensemble-methods-elegant-techniques-to-produce-improved-machine-learning-results/
+* http://www.pybloggers.com/ensemble-methods-elegant-techniques-to-produce-improved-machine-learning-results/
 
 
 
@@ -669,6 +670,7 @@
 * http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3
 * http://rednuht.org/genetic_cars_2/
 * http://blog.evorithmics.org/2016/01/31/when-will-evolution-outperform-local-search/
+* http://chris-said.io/2016/02/28/four-pitfalls-of-hill-climbing/
 
 #### ML Tools, Hyperparameters
 
@@ -981,6 +983,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://github.com/donnemartin/data-science-ipython-notebooks
 * http://deepsense.io/deep-learning-right-whale-recognition-kaggle/
 * http://www.wired.com/2016/01/in-a-huge-breakthrough-googles-ai-beats-a-top-player-at-the-game-of-go/
+* http://tech.marksblogg.com/billion-nyc-taxi-rides-redshift.html
 
 
 

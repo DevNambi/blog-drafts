@@ -37,6 +37,7 @@
 * http://www.nytimes.com/2015/11/29/business/international/chinese-cash-floods-us-real-estate-market.html
 * http://www.nakedcapitalism.com/2015/12/michael-hudson-the-imf-changes-its-rules-to-isolate-china-and-russia.html
 * http://features.columbiaspectator.com/opinion/2015/12/14/the-chinese-elite-at-columbia/ <- Eloquent and powerful
+* http://www.nytimes.com/2016/03/01/business/international/china-cut-banks-reserve-ratio.html
 
 
 
