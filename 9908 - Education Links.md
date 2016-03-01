@@ -79,6 +79,7 @@
 * http://www.nytimes.com/2016/02/28/nyregion/new-york-teacher-gets-wise-at-a-hard-knocks-school.html
 * http://www.theatlantic.com/magazine/archive/2015/12/the-silicon-valley-suicides/413140/ 
 * http://www.nakedcapitalism.com/2016/02/online-public-schools-are-a-disaster.html
+* http://www.newyorker.com/magazine/2016/03/07/altschools-disrupted-education
 * http://www.seattletimes.com/education-lab/seattle-sets-high-bar-for-substitutes-by-requiring-teaching-license/
 * http://mobile.nytimes.com/2015/08/10/us/teacher-shortages-spur-a-nationwide-hiring-scramble-credentials-optional.html
 * http://www.chinasmack.com/2015/stories/thousands-mourn-death-of-chinese-high-school-principal.html
