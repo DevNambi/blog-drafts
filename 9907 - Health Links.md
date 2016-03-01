@@ -633,6 +633,7 @@ pandemic-20150311-story.html
 
 
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
+* http://arstechnica.com/science/2016/02/pharmas-drug-hikes-doubled-average-cost-of-prescriptions-in-last-decade/
 * http://www.newyorker.com/magazine/2005/04/04/piecework
 * http://mobile.nytimes.com/2016/01/06/upshot/lost-jobs-houses-savings-even-insured-often-face-crushing-medical-debt.html 
 * http://blogs.wsj.com/experts/2016/02/18/why-picking-the-right-hospital-is-crucial-and-often-impossible/
