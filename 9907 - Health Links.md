@@ -376,6 +376,7 @@ pandemic-20150311-story.html
 * http://www.nytimes.com/2015/07/12/health/modern-doctors-house-calls-skype-chat-and-fast-diagnosis.html
 * http://www.seattletimes.com/nation-world/some-acid-reflux-drugs-safety-questioned/
 * http://www.extremetech.com/extreme/219757-the-bionic-pancreas-harbinger-of-a-new-era-in-organ-replacement
+* http://www.newyorker.com/magazine/2016/02/29/the-stem-cell-scandal 
 * http://www.psmag.com/health-and-behavior/worst-possible-surgery-scenarios
     * http://www.surgjournal.com/article/S0039-6060(15)00315-3/abstract
 * http://www.thestranger.com/features/feature/2015/04/15/22062331/i-sat-in-on-my-sons-sex-ed-class-and-i-was-shocked-by-what-i-heard
