@@ -117,6 +117,7 @@
 * http://www.codeforamerica.org/blog/2015/11/30/a-new-approach-to-procuring-government-technology-in-california/
 * https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/
 * http://techblog.ca.gov/2016/02/department-of-technology-launches-office-of-digital-innovation-and-technology-engagement-innovation-lab/
+* https://18f.gsa.gov/2016/03/02/strategies-people-use-when-interacting-with-the-federal-government/
 
 
 ## Immigration
@@ -404,6 +405,8 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.newyorker.com/humor/borowitz-report/midterms-prediction-billionaires-retain-control-government
 * http://www.salon.com/2015/04/17/why_gwyneths_snap_challenge_bombed/
 * http://www.salon.com/2015/04/16/sean_hannity_gets_schooled_in_immigration_debate_people_wont_vote_for_a_candidate_who_will_deport_your_father/
+* http://marginalrevolution.com/marginalrevolution/2016/03/core-differences-republicans-democrats.html
+* https://stratechery.com/2016/the-voters-decide/
 * http://www.nytimes.com/2015/03/26/business/trans-pacific-partnership-seen-as-door-for-foreign-suits-against-us.html
 * http://www.commondreams.org/views/2014/11/10/peasants-still-have-their-pitchforks
 * http://www.huffingtonpost.com/eric-zuesse/jimmy-carter-is-correct-t_b_7922788.html
