@@ -23,6 +23,7 @@
 * http://betanews.com/2015/12/27/china-passes-law-requiring-tech-firms-to-hand-over-encryption-keys/
 * https://ma.ttias.be/remote-code-execution-via-http-request-in-iis-on-windows/
 * http://arstechnica.com/security/2016/02/ebay-has-no-plans-to-fix-severe-bug-that-allows-malware-distribution/
+* https://shkspr.mobi/blog/2016/03/the-absolute-horror-of-wifi-light-switches/
 * http://www.extremetech.com/computing/219027-new-pc-malware-loads-before-windows-is-virtually-impossible-to-detect
 * https://medium.com/@networksecurity/oleoutlook-bypass-almost-every-corporate-security-control-with-a-point-n-click-gui-37f4cbc107d0
 * http://sijmen.ruwhof.net/weblog/608-personal-data-of-dutch-telecom-providers-extremely-poorly-protected-how-i-could-access-12-million-records

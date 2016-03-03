@@ -117,6 +117,8 @@
 * http://www.sciencemag.org/content/347/6221.toc
 * http://www.windytan.com/2015/04/trackers-and-bank-accounts.html
 * http://bits.blogs.nytimes.com/2015/01/29/with-a-few-bits-of-data-researchers-identify-anonymous-people/?_r=1
+* https://freedom.press/blog/2016/02/author-barry-eisler-talks-about-whistleblowers-and-secrecy-association-former
+* https://boingboing.net/2016/03/02/some-ad-blockers-are-tracking.html
 * http://saintsal.com/facebook/
 * http://www.bbc.com/news/technology-32409952
 * http://www.pewinternet.org/2015/03/16/Americans-Privacy-Strategies-Post-Snowden/
