@@ -291,6 +291,7 @@
 * https://amplab.cs.berkeley.edu/do-computer-scientists-hold-the-key-to-treating-cancer/
 * https://github.com/tariqdaouda/pyGeno
 * https://www.technologyreview.com/s/600763/immune-engineering/
+* https://www.veritasgenetics.com/documents/VG-launches-999-whole-genome.pdf <- quite a milestone
 
 
 #### Diabetes

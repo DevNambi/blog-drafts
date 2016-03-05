@@ -581,6 +581,7 @@
 * http://dealbook.nytimes.com/2014/12/13/small-bank-in-kansas-is-a-financial-testing-ground/
 * http://www.realclearmarkets.com/articles/2015/01/16/amid_bitcoins_bloodbath_silence_from_silicon_valley_press_101490.html
 * http://www.nakedcapitalism.com/2015/06/the-standard-definition-of-money-is-in-error.html
+* http://mldb.ai/blog/posts/2016/01/ml-meets-economics/
 
 
 <li><a href="http://www.ecommercebytes.com/cab/abu/y201/m09/abu0047/s03" time_added="1354918107" tags="domestic,finance">Sniping Tools - Making Sure You Win the Auction</a></li>

@@ -316,6 +316,8 @@
 * http://www.usatoday.com/story/news/nation/2014/11/12/police-mistakenly-shoot-911-caller-manhunt/18901533/
 * http://www.salon.com/2014/11/10/shocking_video_shows_cop_hitting_man_for_not_letting_him_search_car/
 * http://arstechnica.com/tech-policy/2014/11/taser-selling-boatloads-of-body-cameras-to-police-forces-post-ferguson/
+* http://arstechnica.com/science/2016/03/my-brain-made-me-do-it-neuroscience-and-behavioral-genetics-in-court/
+* http://arstechnica.com/tech-policy/2016/03/new-state-bill-would-let-cops-shoot-down-drones/
 * http://seattletimes.com/html/localnews/2025011879_policeaccountabilityxml.html
 * http://www.salon.com/2014/11/13/shocking_report_exposes_how_new_orleans_police_routinely_ignored_sex_crimes/
 * http://www.washingtonpost.com/investigations/dc-police-plan-for-future-seizure-proceeds-years-in-advance-in-city-budget-documents/2014/11/15/7025edd2-6b76-11e4-b053-65cea7903f2e_story.html?hpid=z4

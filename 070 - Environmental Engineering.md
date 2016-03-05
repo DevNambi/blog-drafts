@@ -95,7 +95,8 @@ Emphasize what we don't know
 * http://www.vox.com/2015/7/13/8949701/carbon-removal
 * http://www.nytimes.com/2015/05/31/opinion/sunday/holding-your-breath-in-india.html?_r=0
 * http://arstechnica.com/science/2015/12/why-recycle-plastics-when-you-can-get-them-to-biodegrade-easily/
-* http://www.nytimes.com/2015/07/06/us/california-drought-sends-us-water-agency-back-to-drawing-board.html?_r=0
+* http://www.nytimes.com/2015/07/06/us/california-drought-sends-us-water-agency-back-to-drawing-board.html
+* https://medium.com/@atilev/why-energy-storage-sucks-in-practice-3d80d80320de
 * http://www.newyorker.com/magazine/2015/05/25/the-disappearing-river
 * http://www.independent.co.uk/environment/fracking-poses-significant-risk-to-humans-and-should-be-temporarily-banned-across-eu-says-new-report-10334080.html
 * http://www.rollingstone.com/politics/news/the-point-of-no-return-climate-change-nightmares-are-already-here-20150805?page=7
