@@ -166,6 +166,10 @@
 * http://qz.com/586941/whats-eating-silicon-valley/
 
 
+> "It's a big company, but our team is more like a startup."
+> "In the '6 months of runway' sense, or the 'handle your own devops' sense?"
+
+
 
 ## Misc
 

@@ -356,6 +356,7 @@ pandemic-20150311-story.html
 
 * http://www.nytimes.com/2015/11/22/opinion/sunday/are-good-doctors-bad-for-your-health.html
 * http://www.nytimes.com/2016/02/02/health/study-finds-growing-reason-to-be-wary-of-some-reflux-drugs.html
+* http://www.smh.com.au/nsw/confessions-of-a-sydney-surgeon-why-your-operation-may-not-work-20160302-gn95ya.html
 
 #### Endocrine Disruptors, Pesticides
 

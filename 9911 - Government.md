@@ -125,6 +125,7 @@
 * http://www.rawstory.com/2015/10/the-us-government-is-deporting-central-american-migrants-to-their-deaths/
 * http://www.nytimes.com/2015/10/17/opinion/the-great-sanctuary-city-slander.html
 * http://www.nytimes.com/2016/02/19/opinion/a-little-reality-on-immigration.html
+* https://www.washingtonpost.com/world/national-security/can-a-3-year-old-represent-herself-in-immigration-court-this-judge-thinks-so/2016/03/03/5be59a32-db25-11e5-925f-1d10062cc82d_story.html
 
 
 
