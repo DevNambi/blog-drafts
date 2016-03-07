@@ -141,6 +141,7 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 <li><a href="http://startupljackson.com/post/135800367395/how-to-get-rich-in-tech-guaranteed">How to get rich in tech, guaranteed.</a></li>
 <li><a href="https://hbr.org/2015/12/how-to-spot-a-bad-boss-during-an-interview">How to Spot a Bad Boss During an Interview</a></li>
 <li><a href="http://zachholman.com/posts/startup-interviewing-is-fucked/">Startup Interviewing is Fucked</a></li>
+<li><a href="http://www.nytimes.com/2016/03/07/technology/tech-companies-new-and-old-clamor-to-entice-cloud-computing-experts.html">Tech Companies, New and Old, Clamor to Entice Cloud Computing Experts</a></li>
 </ul>
 
 

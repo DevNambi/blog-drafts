@@ -500,13 +500,13 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2015/03/20/business/dealbook/bar-exam-the-standard-to-become-a-lawyer-comes-under-fire.html
 * http://www.washingtonpost.com/opinions/why-stem-wont-make-us-successful/2015/03/26/5f4604f2-d2a5-11e4-ab77-9646eea6a4c7_story.html?hpid=z3
 * http://news.stanford.edu/news/2015/november/robinson-humanities-lecture-110315.html
-* http://mobile.nytimes.com/2015/04/17/nyregion/nyu-labor-rules-failed-to-protect-10000-workers-in-abu-dhabi.html?_r=0
+* http://mobile.nytimes.com/2015/04/17/nyregion/nyu-labor-rules-failed-to-protect-10000-workers-in-abu-dhabi.html
 * http://www.economist.com/news/united-states/21646220-it-depends-what-you-study-not-where
 * https://chronicle.com/article/The-Slow-Death-of-the/228991/
 * http://www.nakedcapitalism.com/2015/04/control-fraud-profit-universities-et-tu-bill-clinton.html
 * http://www.gradeinflation.com/
 * http://www.artandeducation.net/school_watch/entire-usc-mfa-1st-year-class-is-dropping-out/
-* http://mobile.nytimes.com/2015/05/20/opinion/frank-bruni-platinum-pay-in-ivory-towers.html?_r=0
+* http://mobile.nytimes.com/2015/05/20/opinion/frank-bruni-platinum-pay-in-ivory-towers.html
 * https://www.insidehighered.com/news/2015/05/21/bipartisan-agreement-risk-sharing-concept-only
 * http://www.bloomberg.com/news/articles/2015-05-26/ivy-league-pay-soars-taking-cue-from-corporate-america
 * http://www.theatlantic.com/education/archive/2015/05/american-universities-are-addicted-to-chinese-students/394517/
@@ -527,6 +527,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.cwu.edu/central-names-new-director-institutional-effectiveness
 * http://www.impatientoptimists.org/home/posts/2016/01/better-by-the-numbers
 * http://www.seattletimes.com/education-lab/bill-would-explore-ways-to-shorten-college-from-four-years-to-three/
+* http://www.nytimes.com/2016/03/07/business/dealbook/court-to-hear-suit-accusing-law-school-of-inflating-job-data.html
 
 
 
