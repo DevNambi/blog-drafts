@@ -77,6 +77,7 @@ Industries
 * http://www.seattletimes.com/nation-world/ap-global-supermarkets-selling-shrimp-peeled-by-slaves/
 * http://elpasoheraldpost.com/protests-support-grow-for-fired-lexmark-workers-in-juarez/
 * http://www.newyorker.com/books/page-turner/my-last-day-as-a-surgeon
+* http://blog.longreads.com/2016/03/08/your-phone-was-made-by-slaves-a-primer-on-the-secret-economy/
 * https://www.washingtonpost.com/news/the-switch/wp/2015/10/15/amid-the-adblockalypse-advertisers-apologize-for-messing-up-the-web/
 * https://medium.com/backchannel/the-man-who-made-the-uk-say-im-sorry-for-what-we-did-to-turing-8fc468dcea6b
 * http://www.nytimes.com/2016/01/03/books/review/amy-cuddys-presence-and-shonda-rhimess-year-of-yes.html

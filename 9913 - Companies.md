@@ -103,6 +103,7 @@
 * http://words.hunzekerhesed.com/i-am-thinking-of-returning-my-apple-watch
 * https://medium.com/backchannel/how-steve-jobs-fleeced-carly-fiorina-79d1380663de
 * http://www.theguardian.com/money/2016/feb/05/error-53-apple-iphone-software-update-handset-worthless-third-party-repair
+* http://blog.longreads.com/2016/03/08/your-phone-was-made-by-slaves-a-primer-on-the-secret-economy/
 
 
 ## IBM and other IT/software companies

@@ -69,6 +69,7 @@
 * http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information
 * http://yahoolabs.tumblr.com/post/137281912191/yahoo-releases-the-largest-ever-machine-learning
 * http://data.statmt.org/ngrams/sentences_en/
+* http://blog.districtdatalabs.stfi.re/a-practical-guide-to-anonymizing-datasets-with-python-faker
 
 
 ## Data Acquisition, Sources
