@@ -16,6 +16,7 @@
 * https://www.aclunebraska.org/en/publications/growing-locked-down
 * http://www.bloombergview.com/articles/2015-11-12/stop-and-seize-turns-police-into-self-funding-gangs
 * http://www.nyclu.org/news/nypd-has-used-stingrays-more-1000-times-2008
+* http://fivethirtyeight.com/features/we-now-have-algorithms-to-predict-police-misconduct/
 * http://www.damninteresting.com/the-zero-armed-bandit/#read-more
 * http://www.buzzfeed.com/alexcampbell/the-ticket-machine#.mhQvlambkx
 * http://arstechnica.com/tech-policy/2015/12/pre-crime-arrives-in-the-uk-better-make-sure-your-face-stays-off-the-crowdsourced-watch-list/

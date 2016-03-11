@@ -263,6 +263,7 @@
 * http://mywifesfightwithbreastcancer.com/
 * http://www.newyorker.com/magazine/2015/12/14/tough-medicine
 * http://www.nytimes.com/2015/12/29/upshot/why-preventing-cancer-is-not-the-priority-in-drug-development.html
+* http://www.sciencemag.org/news/2016/03/mystery-cancers-are-cropping-children-aftermath-fukushima
 
 
 <li><a href="http://www.moneytrendsresearch.com/scientists-cure-cancer-but-no-one-takes-notice/" time_added="1348860235" tags="health">Scientists Cure Cancer, But No One Takes Notice | MTR</a></li>

@@ -39,9 +39,11 @@ We believe we are working to make our society, our world, a better place. At the
 * http://blog.datalook.io/definitive-guide-data-science-good/
 * https://www.oreilly.com/ideas/five-principles-for-applying-data-science-for-social-good
 * http://flowingdata.com/2014/12/15/when-data-gets-creepy/http://mobile.nytimes.com/2015/06/21/opinion/sunday/please-corporations-experiment-on-us.html
+* http://deliprao.com/archives/129 <- critically important
 * http://andrewgelman.com/2014/12/23/using-statistics-make-world-better-place/
 * http://www.inference.phy.cam.ac.uk/sanjoy/schmidt/archive/social-anarchism.htm
 * http://www.drivendata.org/competitions/7/
+* http://fivethirtyeight.com/features/we-now-have-algorithms-to-predict-police-misconduct/
 * http://seattletimes.com/html/localnews/2025286202_jdlcolumn22xml.html
 * http://nerd.kelseyinnis.com/blog/2014/12/19/your-job-is-political-tech-money-in-politics/
 * http://jeremykun.com/2015/07/13/what-does-it-mean-for-an-algorithm-to-be-fair/
