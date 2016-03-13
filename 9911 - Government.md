@@ -345,6 +345,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://slog.thestranger.com/slog/archives/2015/01/12/seattle-officials-not-warned-about-catastrophic-failure-concerns-for-bertha-rescue-pit
 * http://www.nytimes.com/2015/05/26/us/politics/illinois-pension-crisis.html
 * http://www.seattletimes.com/opinion/editorials/early-inmate-releases-bureaucratic-officiousness-in-the-state-doc-ags-office/
+* http://winningdemocrats.com/kentucky-senate-passes-gop-bill-allowing-discrimination-against-interracial-couples/
 
 
 
@@ -371,6 +372,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://priceonomics.com/how-us-cities-count-their-homeless/
 * https://www.washingtonpost.com/news/morning-mix/wp/2015/12/15/toxic-water-soaring-lead-levels-in-childrens-blood-create-state-of-emergency-in-flint-mich/
 * http://www.freep.com/story/opinion/contributors/2016/01/09/gallagher-detroit-economy-development/78442020/
+* http://www.seattletimes.com/seattle-news/politics/lawmakers-emails/
 
 
 

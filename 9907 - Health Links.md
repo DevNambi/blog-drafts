@@ -377,6 +377,7 @@ pandemic-20150311-story.html
 * http://andrewgelman.com/2015/08/04/pro-publicas-new-surgeon-scorecards/
 * http://www.theatlantic.com/science/archive/2016/02/clearing-retired-cells-extends-life/459723/
 * http://www.nytimes.com/2015/07/12/health/modern-doctors-house-calls-skype-chat-and-fast-diagnosis.html
+* http://www.theatlantic.com/magazine/archive/2014/10/why-i-hope-to-die-at-75/379329/
 * http://www.seattletimes.com/nation-world/some-acid-reflux-drugs-safety-questioned/
 * http://www.extremetech.com/extreme/219757-the-bionic-pancreas-harbinger-of-a-new-era-in-organ-replacement
 * http://www.newyorker.com/magazine/2016/02/29/the-stem-cell-scandal 
