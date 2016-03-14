@@ -361,6 +361,7 @@
 * http://yosefk.com/blog/how-fpgas-work-and-why-youll-buy-one.html
 * http://blog.cr.yp.to/20150314-optimizing.html
 * http://techreport.com/review/28126/semiconductors-from-idea-to-product
+* http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire
 * http://curtis.io/others-work/open-tooling-for-fpgas
 * https://www.backblaze.com/blog/petabytes-on-a-budget-how-to-build-cheap-cloud-storage-2/
 * http://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time

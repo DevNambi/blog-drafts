@@ -727,6 +727,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * https://medium.com/learning-new-stuff/a-simple-technique-to-learn-hard-stuff-ffaa7879bf7c
 * https://medium.com/@adailyventure/big-data-is-dead-all-aboard-the-ai-hype-train-ae89c8d64cc3
 * http://101.datascience.community/2015/12/21/the-most-popular-skills-and-degrees-of-todays-data-scientists/
+* http://blogs.nvidia.com/blog/2016/02/24/enrollment-in-machine-learning/
 
 
 

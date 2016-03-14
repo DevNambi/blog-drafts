@@ -145,6 +145,7 @@
 * http://www.theguardian.com/us-news/2015/apr/10/california-deputies-frank-pusok-helicopter-video
 * http://www.seattletimes.com/seattle-news/wsp-deputy-ran-stop-sign-caused-crash-that-cost-man-his-legs/
 * http://www.nytimes.com/2015/04/18/opinion/why-we-let-prison-rape-go-on.html
+* http://www.reuters.com/article/us-usa-police-idUSKCN0WF0KM
 * http://www.dailykos.com/story/2015/04/30/1381400/-A-complete-takedown-of-the-lies-spread-by-the-Baltimore-Police-Washington-Post-on-Freddie-Gray
 * http://www.theatlantic.com/technology/archive/2015/04/thank-god-for-cellphone-video-cameras/391688/
 * http://www.seattletimes.com/nation-world/lawyer-no-answer-on-why-man-who-died-in-custody-was-stopped/
