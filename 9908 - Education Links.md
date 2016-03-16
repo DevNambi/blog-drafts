@@ -451,6 +451,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.seattletimes.com/education-lab/community-colleges-ace-making-math-more-relevant/
 * https://www.insidehighered.com/news/2015/12/11/groups-band-together-improve-transfer-pathways-community-college-students
 * https://www.insidehighered.com/news/2016/01/12/community-college-grapples-implications-international-student-growth
+* http://www.seattletimes.com/education-lab/an-honors-program-in-community-college-claims-to-make-transfers-easier/
 
 
 ### Admissions

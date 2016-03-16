@@ -88,6 +88,7 @@
 * http://www.huffingtonpost.com/mark-godsey/for-the-first-time-ever-a_b_4221000.html <- prosectur is jailed for the first time *ever* for knowingly jailing an innocent man
 * http://m.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data
 * http://mobile.nytimes.com/2015/05/22/world/americas/police-killings-brazil-rio.html?_r=0
+* http://www.nbcnews.com/news/us-news/department-justice-states-should-not-jailed-over-fine-nonpayment-n537796
 * http://www.nytimes.com/2015/05/10/magazine/our-demand-is-simple-stop-killing-us.html
 * http://watchdog.org/218867/civil-forfeiture/
 * http://www.msn.com/en-us/news/us/mother-rejects-payout-refusing-to-stay-silent-in-lawsuit-against-cops-who-killed-her-son/ar-AAecbwL
