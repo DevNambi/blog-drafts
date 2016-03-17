@@ -566,6 +566,7 @@
 * http://www.nakedcapitalism.com/2016/02/is-the-saudis-market-share-strategy-backfiring.html
 * http://www.theguardian.com/world/2016/mar/07/revealed-30-year-economic-betrayal-dragging-down-generation-y-income
 * http://wolfstreet.com/2016/03/10/secret-monetary-group-bis-warns-a-catastrophe-is-coming/
+* http://wolfstreet.com/2016/03/15/chart-shows-big-crash-ahead-rounded-top-pattern/
 
 
 
