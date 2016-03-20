@@ -15,6 +15,7 @@
 * http://www.mlive.com/news/kalamazoo/index.ssf/2015/10/police_officer_charged_with_mi.html
 * https://www.aclunebraska.org/en/publications/growing-locked-down
 * http://www.bloombergview.com/articles/2015-11-12/stop-and-seize-turns-police-into-self-funding-gangs
+* http://www.al.com/news/index.ssf/2016/03/deputy_shoots_dog_after_man_lo.html
 * http://www.nyclu.org/news/nypd-has-used-stingrays-more-1000-times-2008
 * http://fivethirtyeight.com/features/we-now-have-algorithms-to-predict-police-misconduct/
 * http://www.damninteresting.com/the-zero-armed-bandit/#read-more
