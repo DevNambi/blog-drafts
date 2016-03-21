@@ -167,6 +167,7 @@ Industries
 * http://arstechnica.com/business/2015/09/songwriter-tells-us-house-he-made-5679-from-178-million-spotify-streams/
 
 
+* http://www.nytimes.com/2016/03/18/technology/apple-encryption-engineers-if-ordered-to-unlock-iphone-might-resist.html?_r=0
 
 
 
