@@ -293,6 +293,7 @@
 * https://theintercept.com/2016/02/11/elizabeth-warren-catches-investment-advisors-fibbing/
 * http://www.turingfinance.com/stock-market-prices-do-not-follow-random-walks/
 * http://www.nakedcapitalism.com/2016/02/anyone-want-to-buy-deutsche-bank.html
+* http://www.theguardian.com/money/commentisfree/2016/mar/21/fear-cashless-world-contactless?CMP=twt_gu
 
 
 

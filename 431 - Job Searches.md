@@ -59,6 +59,8 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://blog.stackoverflow.com/2015/11/how-to-be-awesome-part-2/">How to Be Awesome</a></li>
 <li><a href="https://github.com/MaximAbramchuck/awesome-interviews">A curated list of awesome lists of interview questions</a></li>
 <li><a href="http://please.hackmyresume.com/">Hack Your Resume - Auto-formatter</a></li>
+<li><a href="http://jacquesmattheij.com/my-passion-was-my-weak-spot">My Passion Was My Weak Spot</a></li>
+<li><a href="http://danluu.com/programmer-moneyball/">We only hire the trendiest</a></li>
 </ul>
 
 
