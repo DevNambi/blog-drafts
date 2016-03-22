@@ -134,6 +134,7 @@
 * https://medium.com/@nicolaerusan/conceptual-debt-is-worse-than-technical-debt-5b65a910fd46
 * http://news.mit.edu/2016/faster-automatic-bug-repair-code-errors-0129
 * https://18f.gsa.gov/2016/02/23/software-maintenance-is-an-anti-pattern/
+* http://firstround.com/review/shims-jigs-and-other-woodworking-concepts-to-conquer-technical-debt/
 
 
 
