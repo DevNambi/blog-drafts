@@ -448,6 +448,7 @@
 * http://www.newyorker.com/magazine/2016/01/04/what-money-can-buy-profiles-larissa-macfarquhar <- a rare bit of good news
 * http://www.buzzfeed.com/jessicagarrison/all-you-americans-are-fired
 * http://www.businessforscotland.co.uk/finlands-basic-income-plan-could-change-everything/
+* http://www.sltrib.com/opinion/3665416-155/buchanan-a-chilling-mathematical-model-of
 
 
 

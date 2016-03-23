@@ -469,6 +469,8 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.bostonglobe.com/metro/2016/01/19/chinese-students-hungry-attend-universities-caught-fraudulent-application-process/gpRB06mqBVAsxZ6eAbFKCJ/story.html <- is there incentive given international student tuition rates?
 * http://www.youthtruthsurvey.org/college-and-career-readiness/
 * http://www.theatlantic.com/education/archive/2016/02/whats-wrong-with-college-admissions/462063/ 
+* http://www.wsj.com/articles/heavy-recruitment-of-chinese-students-sows-discord-on-u-s-campuses-1458224413
+
 
 
 
