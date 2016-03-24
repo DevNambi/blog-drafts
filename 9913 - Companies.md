@@ -341,6 +341,7 @@
 * http://www.thedailybeast.com/articles/2015/12/06/the-sports-bubble-is-about-to-pop.html <- send to Seattle-ish
 * http://www.nytimes.com/2016/01/06/magazine/how-the-daily-fantasy-sports-industry-turns-fans-into-suckers.html
 * http://www.theatlantic.com/business/archive/2015/04/why-the-nfl-decided-to-start-paying-taxes/391742/
+* http://www.nytimes.com/2016/03/25/sports/football/nfl-concussion-research-tobacco.html
 
 ## Shipping, Logistics
 
