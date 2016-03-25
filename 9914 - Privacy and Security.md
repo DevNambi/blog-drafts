@@ -203,6 +203,7 @@
 * https://state.com/article/1ZHEx4voAiU06
 * http://www.theregister.co.uk/2015/09/21/amazon_medical_gaffe/
 * http://arstechnica.com/tech-policy/2015/10/court-says-its-again-legal-for-nsa-to-spy-on-you-because-congress-says-its-ok/
+* https://privacy.com/ <- one way to secure payment info
 
 
 
