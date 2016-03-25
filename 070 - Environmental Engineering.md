@@ -189,6 +189,7 @@ Emphasize what we don't know
 * http://www.seattletimes.com/nation-world/un-warns-world-could-have-40-percent-water-shortfall-by-2030/
 * http://www.nytimes.com/2015/04/19/us/california-releases-revised-water-consumption-rules-for-drought.html
 * http://arstechnica.com/science/2015/04/understanding-greenlands-wild-climate-swings/
+* http://mobile.nytimes.com/2016/03/23/science/global-warming-sea-level-carbon-dioxide-emissions.html
 * http://www.businessinsider.com/thailands-capital-is-sinking-into-the-earth-at-an-alarming-rate-2015-7
 * http://www.nytimes.com/2015/04/19/business/energy-environment/solar-power-battle-puts-hawaii-at-forefront-of-worldwide-changes.html?_r=0
 * http://mobile.nytimes.com/2015/04/15/business/an-environmentalist-call-to-look-past-sustainable-development.html?_r=0
