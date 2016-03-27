@@ -11,6 +11,7 @@
 * http://www.thestranger.com/news/feature/2016/02/17/23583708/thin-blue-line-meets-blinking-red-light
 * http://obsessionwithregression.blogspot.com/2016/01/racial-discrepancies-in-police-shootings.html
 * http://www.seattletimes.com/nation-world/baltimore-mayor-fires-police-commissioner/
+* http://arstechnica.com/tech-policy/2016/03/video-clears-texas-man-of-assaulting-cop-did-police-commit-perjury/
 * http://ignition.co/439 <- bad incentives can make things worse
 * http://www.mlive.com/news/kalamazoo/index.ssf/2015/10/police_officer_charged_with_mi.html
 * https://www.aclunebraska.org/en/publications/growing-locked-down

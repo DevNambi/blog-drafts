@@ -538,6 +538,7 @@ pandemic-20150311-story.html
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://www.economist.com/news/science-and-technology/21695381-too-many-medical-trials-move-their-goalposts-halfway-through-new-initiative
 * http://www.nytimes.com/2016/01/29/us/drug-shortages-forcing-hard-decisions-on-rationing-treatments.html
 * http://www.nytimes.com/2015/12/20/opinion/sunday/when-hospital-paperwork-crowds-out-hospital-care.html
 * http://www.seattletimes.com/seattle-news/health/judge-yakima-hospital-demanded-money-from-the-poor-violated-law/
