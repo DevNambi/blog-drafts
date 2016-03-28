@@ -68,6 +68,7 @@
 * http://sheriff.dynu.com/views/home
 * http://www.antipope.org/charlie/blog-static/2015/05/thoughtcrime.html
 * http://newsoffice.mit.edu/2015/csail-report-government-access-data-major-security-risks-0707
+* http://www.sandiegouniontribune.com/news/2016/mar/26/law-enforcement-investigators-seek-out-private/all/
 * http://www.theatlantic.com/politics/archive/2016/01/vigilant-solutions-surveillance/427047/
 * http://www.nytimes.com/2016/02/02/technology/at-uc-berkeley-a-new-digital-privacy-protest.html
 * https://motherboard.vice.com/read/carnegie-mellon-university-attacked-tor-was-subpoenaed-by-feds <- Carnegie Mellon's up to no good

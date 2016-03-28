@@ -104,6 +104,7 @@
 * https://medium.com/backchannel/how-steve-jobs-fleeced-carly-fiorina-79d1380663de
 * http://www.theguardian.com/money/2016/feb/05/error-53-apple-iphone-software-update-handset-worthless-third-party-repair
 * http://blog.longreads.com/2016/03/08/your-phone-was-made-by-slaves-a-primer-on-the-secret-economy/
+* http://www.antipope.org/charlie/blog-static/2016/03/follow-the-money-apple-vs-the-.html
 
 
 ## IBM and other IT/software companies
@@ -209,6 +210,7 @@
 * https://mobile.twitter.com/EricaJoy/status/622079372367781888
 * http://fusion.net/story/244545/famous-and-broke-on-youtube-instagram-social-media/
 * http://arstechnica.com/gadgets/2016/01/2016-google-tracker-everything-google-is-working-on-for-the-new-year/
+* http://www.statnews.com/2016/03/28/google-life-sciences-exodus/
 
 
 ## Uber

@@ -10,6 +10,7 @@
 * https://firstlook.org/theintercept/2015/08/03/political-staff-overruled-purists-state-department-tallied-countries-slavery-problems/
 * http://www.nytimes.com/2015/09/25/us/pope-francis-congress-speech.html
 * http://www.politico.com/story/2015/07/longer-airport-lines-likely-as-tsa-tries-to-plug-security-holes-120117.html
+* https://www.washingtonpost.com/investigations/how-clintons-email-scandal-took-root/2016/03/27/ee301168-e162-11e5-846c-10191d1fc4ec_story.html
 * https://18f.gsa.gov/2015/10/09/cloud-gov-launch/
 * http://www.nytimes.com/2015/06/15/opinion/paul-krugman-democrats-being-democrats.html
 * http://www.theatlantic.com/politics/archive/2015/04/loving-v-marriage/391730/

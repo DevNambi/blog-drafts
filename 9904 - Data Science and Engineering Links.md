@@ -531,6 +531,7 @@
 * http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14604.html
 * https://github.com/projectmesa/mesa
 * http://www.wired.com/2015/08/new-laws-explain-fast-growing-networks-break/
+* http://agentmodels.org/
 
 #### R
 
