@@ -25,6 +25,7 @@
 * http://cushionapp.com/expenses/
 * http://www.themediabriefing.com/article/peak-content-the-collapse-of-the-attention-economy <- don't trust ads to pay for things.
 * http://www.cnbc.com/2016/02/11/silicon-valley-start-ups-rein-in-spending-and-prepare-for-layoffs.html
+* http://www.vanityfair.com/news/2016/03/chamath-palihapitiya-interview-says-start-ups-are-mostly-crap
 
 
 
@@ -164,6 +165,7 @@
 * https://medium.com/@girlziplocked/paul-graham-is-still-asking-to-be-eaten-5f021c0c0650
 * http://www.economist.com/news/business/21688390-glamorous-tech-startups-can-be-brutal-places-workers-other-side-paradise
 * http://qz.com/586941/whats-eating-silicon-valley/
+* http://fortune.com/disrupted-excerpt-hubspot-startup-dan-lyons/
 
 
 > "It's a big company, but our team is more like a startup."

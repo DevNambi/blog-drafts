@@ -211,6 +211,7 @@
 * http://fusion.net/story/244545/famous-and-broke-on-youtube-instagram-social-media/
 * http://arstechnica.com/gadgets/2016/01/2016-google-tracker-everything-google-is-working-on-for-the-new-year/
 * http://www.statnews.com/2016/03/28/google-life-sciences-exodus/
+* http://www.buzzfeed.com/mathonan/searching-for-google-ceo-sundar-pichai-the-most-powerful-tec
 
 
 ## Uber

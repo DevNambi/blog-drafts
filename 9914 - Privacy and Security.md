@@ -83,6 +83,7 @@
 * https://www.behance.net/gallery/16225247/I-have-NOT-read-and-agree-to-the-terms-of-use
 * http://fivethirtyeight.com/datalab/the-way-we-use-social-security-numbers-is-absurd/
 * http://googleonlinesecurity.blogspot.com/2015/07/new-research-comparing-how-security.html
+* https://www.washingtonpost.com/news/the-switch/wp/2016/03/28/mass-surveillance-silences-minority-opinions-according-to-study/
 * http://techcrunch.com/2014/10/11/edward-snowden-new-yorker-festival/
 * https://medium.com/@violetblue/facebook-i-want-out-e1e891975531?source=tw-c4103bd4f0ad-1444704941753 
 * http://www.washingtonpost.com/blogs/the-fix/wp/2015/01/18/with-snowden-in-the-background-privacy-takes-a-back-seat-to-security/
