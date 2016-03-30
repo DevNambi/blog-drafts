@@ -471,6 +471,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.youthtruthsurvey.org/college-and-career-readiness/
 * http://www.theatlantic.com/education/archive/2016/02/whats-wrong-with-college-admissions/462063/ 
 * http://www.wsj.com/articles/heavy-recruitment-of-chinese-students-sows-discord-on-u-s-campuses-1458224413
+* http://www.theatlantic.com/education/archive/2016/03/the-commodification-of-higher-education/475947/
 
 
 
@@ -532,6 +533,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.impatientoptimists.org/home/posts/2016/01/better-by-the-numbers
 * http://www.seattletimes.com/education-lab/bill-would-explore-ways-to-shorten-college-from-four-years-to-three/
 * http://www.nytimes.com/2016/03/07/business/dealbook/court-to-hear-suit-accusing-law-school-of-inflating-job-data.html
+* http://www.theatlantic.com/education/archive/2016/03/the-commodification-of-higher-education/475947/
 
 
 

@@ -29,6 +29,7 @@ We believe we are working to make our society, our world, a better place. At the
 * http://mathbabe.org/2013/11/12/there-is-no-market-solution-for-ethics/
 * http://arstechnica.co.uk/security/2016/02/the-nsas-skynet-program-may-be-killing-thousands-of-innocent-people/ <- the literal opposite of this
 * http://blog.datalook.io/how-data-science-fuelled-the-largest-outreach-effort-in-the-history-of-nyc/
+* https://www.oreilly.com/ideas/five-principles-for-applying-data-science-for-social-good <- brilliant!
 * http://bdes.datasociety.net/wp-content/uploads/2015/12/BDES-Common-Rule-Letter.pdf
 * http://www.slate.com/articles/technology/future_tense/2016/02/how_to_bring_better_ethics_to_data_science.html
 * http://boingboing.net/2014/07/09/big-data-should-not-be-a-faith.html
