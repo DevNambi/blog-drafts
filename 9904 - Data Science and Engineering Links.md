@@ -101,6 +101,7 @@
 * http://jmcauley.ucsd.edu/data/amazon/
 * https://developers.google.com/knowledge-graph/
 * http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/
+* https://blog.scrapinghub.com/2016/03/30/web-scraping-to-create-open-data/
 
 
 

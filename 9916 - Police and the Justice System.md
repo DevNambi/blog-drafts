@@ -20,6 +20,7 @@
 * http://www.sandiegouniontribune.com/news/2016/mar/26/law-enforcement-investigators-seek-out-private/all/
 * http://www.nyclu.org/news/nypd-has-used-stingrays-more-1000-times-2008
 * http://fivethirtyeight.com/features/we-now-have-algorithms-to-predict-police-misconduct/
+* http://www.usatoday.com/story/news/nation-now/2016/03/29/man-fatally-shot-ariz-police-officer-begged-life/82393582/
 * http://www.damninteresting.com/the-zero-armed-bandit/#read-more
 * http://www.buzzfeed.com/alexcampbell/the-ticket-machine#.mhQvlambkx
 * http://arstechnica.com/tech-policy/2015/12/pre-crime-arrives-in-the-uk-better-make-sure-your-face-stays-off-the-crowdsourced-watch-list/

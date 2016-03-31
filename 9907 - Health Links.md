@@ -868,6 +868,8 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://www.newyorker.com/science/maria-konnikova/why-we-sleep
 * http://www.cdc.gov/features/dssleep/
 * http://www.ncbi.nlm.nih.gov/pubmed/26712339 <- "The brain functional connectome is robustly altered by lack of sleep"
+* http://www.vox.com/2016/3/28/11306124/chronotype-night-owl-discrimination
+
 
 
 <li><a href="http://www.bbc.co.uk/news/health-21572686" time_added="1361898585" tags="health,hn,important">BBC News - Bad sleep 'dramatically' alters body</a></li>

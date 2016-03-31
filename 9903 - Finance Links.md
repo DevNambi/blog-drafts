@@ -163,11 +163,13 @@
 * http://www.nakedcapitalism.com/2015/06/memo-to-readers-if-you-want-to-beat-big-finance-you-need-to-be-able-to-take-the-fight-to-their-terrain.html
 * https://foragerfunds.com/bristlemouth/dick-smith-is-the-greatest-private-equity-heist-of-all-time/ <- clear writeup
 * https://theintercept.com/2016/01/02/i-was-wrong-big-banks-actually-were-exactly-like-counterfeiters/
+* http://www.nakedcapitalism.com/2016/03/new-zealand-foreign-trusts-and-the-unaoil-scandal-more-chickens-coming-home-to-roost-and-theyre-big.html
 * http://www.nakedcapitalism.com/2015/06/sorkin-on-the-streets-surge-of-suicides-ignoring-the-obvious.html
 * http://www.nakedcapitalism.com/2015/03/bill-black-meet-citis-ethical-underwriter-fought-won-sherry-hunt.html
 * http://boingboing.net/2015/03/26/tpp-leak-states-give-companie.html
 * http://mobile.nytimes.com/2015/11/30/business/dealbook/behind-puerto-ricos-woes-a-broadly-powerful-development-bank.html
 * http://www.nakedcapitalism.com/2015/03/bill-black-fcic-spurned-one-chance-greatness.html
+* http://www.bloomberg.com/news/features/2016-03-31/welcome-to-iceland-where-bad-bankers-go-to-prison
 * https://getmondo.co.uk/blog/2016/01/08/how-does-the-wholesale-foreign-exchange-market-work/
 * http://www.nakedcapitalism.com/2015/10/oxford-professor-schools-calpers-contrary-to-board-presentation-private-equity-is-most-expensive-asset-class-by-far.html
 * http://www.zerohedge.com/news/2015-10-19/traders-are-panic-selling-t-bills-after-jack-lew-warns-terrible-debt-limit-accident

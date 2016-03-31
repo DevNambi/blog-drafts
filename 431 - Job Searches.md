@@ -298,7 +298,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="http://www.nytimes.com/2016/03/19/your-money/trying-to-make-a-case-for-age-discrimination.html">Claims of Age Bias Rise, but Standards of Proof Are High</a></li>
 </ul>
 
-**The 'STEM' shortage, and H1B Visas**
+**The STEM 'shortage', and H1B Visas**
 
 <ul>
 <li><a href="http://www.epi.org/publication/pm195-stem-labor-shortages-microsoft-report-distorts/" time_added="1355415704" tags="big data,finance,hn">STEM labor shortages?: Microsoft report distorts reality about computing occupations</a></li>
@@ -323,6 +323,7 @@ http://www.computerworld.com/article/2879083/southern-california-edison-it-worke
 <li><a href="http://www.nytimes.com/2015/09/30/us/temporary-visas-meant-to-import-talent-help-ship-jobs-abroad.html">Toys ‘R’ Us Brings Temporary Foreign Workers to U.S. to Move Jobs Overseas</a></li>
 <li><a href="http://arstechnica.com/tech-policy/2016/01/ex-disney-it-workers-sue-after-being-forced-to-train-their-own-h-1b-replacements/">
 Ex-Disney IT workers sue after being asked to train their own H-1B replacements</a></li>
+<li><a href="http://www.fastcompany.com/3057502/the-future-of-work/why-tech-professionals-now-share-a-fate-with-the-working-class">Why Tech Professionals Now Share A Fate With The Working Class</a></li>
 </ul>
 
 
@@ -336,6 +337,7 @@ Ex-Disney IT workers sue after being asked to train their own H-1B replacements<
 <li><a href="https://medium.com/@oscargodson/how-zenefits-just-lost-an-engineer-3f09898dbcf9">How Zenefits just lost an engineer</a></li>
 <li><a href="https://medium.com/@louisgray/layoffs-and-loyalty-in-a-liquid-valley-4b42bd5e26d7">Loyalty and Layoffs in a Liquid Valley</a></li>
 <li><a href="http://danluu.com/startup-tradeoffs/">Big Company vs. Startup Work and Compensation</a></li>
+<li><a href="http://blogs.wsj.com/economics/2016/03/30/dropouts-need-not-apply-silicon-valley-asks-mostly-for-developers-with-degrees/">Dropouts Need Not Apply: Silicon Valley Asks Mostly for Developers With Degrees</a></li>
 </ul>
 
 **Other**
