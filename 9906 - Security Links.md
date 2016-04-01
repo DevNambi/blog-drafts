@@ -56,6 +56,7 @@
 * http://arstechnica.com/security/2015/11/why-algebraic-eraser-may-be-the-most-risky-cryptosystem-youve-never-heard-of/
 * http://krebsonsecurity.com/2015/10/whats-in-a-boarding-pass-barcode-a-lot/
 * http://www.zdnet.com/article/chryslers-response-to-car-hack-was-slow-and-incredibly-stupid/
+* http://www.wired.com/2016/03/ransomware-why-hospitals-are-the-perfect-targets/
 * http://www.wired.com/2015/11/hackers-claim-million-dollar-bounty-for-ios-attack/
 * http://arstechnica.com/security/2015/06/new-remote-exploit-leaves-most-macs-vulnerable-to-permanent-backdooring/
 * http://www.bloomberg.com/news/articles/2015-04-23/silicon-valley-s-help-sought-as-pentagon-fights-cyber-attacks

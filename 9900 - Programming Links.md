@@ -701,6 +701,7 @@ Microsoft and other third-party developers have a huge problem: they don't liste
 * https://www.compose.io/articles/write-stuff-measuring-database-performance/
 * http://www.dbms2.com/2015/04/16/notes-on-indexes-and-index-like-structures/
 * https://www.periscopedata.com/blog/outlier-detection-in-sql.html
+* http://arstechnica.com/information-technology/2016/03/to-sql-or-nosql-thats-the-database-question/
 
 
 

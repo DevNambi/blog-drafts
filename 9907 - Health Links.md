@@ -599,6 +599,7 @@ pandemic-20150311-story.html
 * http://mobile.nytimes.com/2015/09/21/business/a-huge-overnight-increase-in-a-drugs-price-raises-protests.html
 * http://well.blogs.nytimes.com/2015/10/14/dietary-supplements-lead-to-20000-e-r-visits-yearly-study-finds/
 * http://arstechnica.com/science/2015/11/doctors-want-ban-on-prescription-drug-device-advertisements/
+* http://www.seattletimes.com/business/fbi-hospice-nurses-told-to-overdose-patients-to-speed-death/
 
 <li><a href="http://www.rand.org/pubs/research_briefs/RB9744.html" time_added="1395001792" tags="">Do Workplace Wellness Programs Save Employers Money? | RAND</a></li>
 <li><a href="http://www.nytimes.com/2013/09/03/opinion/how-a-cabal-keeps-generics-scarce.html" time_added="1388678022" tags="">How a Cabal Keeps Generics Scarce - NYTimes.com</a></li>

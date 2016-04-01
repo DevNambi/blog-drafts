@@ -117,6 +117,7 @@ Emphasize what we don't know
 * http://motherboard.vice.com/read/why-we-cant-stop-the-enormous-methane-leak-flooding-la
 * http://arstechnica.com/science/2015/05/how-we-cut-carbon-emissions-influences-our-health/
 * https://theintercept.com/2015/12/16/toxic-firefighting-foam-has-contaminated-u-s-drinking-water-with-pfcs/
+* http://www.nytimes.com/2016/03/31/science/global-warming-antarctica-ice-sheet-sea-level-rise.html
 * http://www.laweekly.com/news/what-went-wrong-at-porter-ranch-6405804
 * http://www.nytimes.com/interactive/2015/10/27/world/greenland-is-melting-away.html
 * http://arstechnica.com/science/2015/10/climate-scientists-are-tentative-their-opponents-are-certain-theyre-wrong/

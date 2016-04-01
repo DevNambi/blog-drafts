@@ -61,6 +61,7 @@
 * http://www.wired.com/2016/02/schools-kicked-boy-based-dna/
 * http://www.seattletimes.com/education-lab/new-discipline-data-allows-comparisons-among-districts/
 * http://www.nakedcapitalism.com/2015/05/high-school-dropout-rates-increase-with-income-inequality.html
+* http://www.wired.com/2016/03/science-education-woefully-uncreative-change/
 * http://www.seattletimes.com/seattle-news/testing-cutting-into-class-time/
 * http://news.stanford.edu/news/2015/november/robinson-humanities-lecture-110315.html
 * http://www.elearnspace.org/blog/2015/09/09/adios-ed-tech-hola-something-else/
