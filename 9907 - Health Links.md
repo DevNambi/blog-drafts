@@ -350,6 +350,7 @@ pandemic-20150311-story.html
 * http://blogs.wsj.com/experts/2016/02/18/why-picking-the-right-hospital-is-crucial-and-often-impossible/
 * https://github.com/cdcepi/zika
 * http://hcrenewal.blogspot.com/2016/03/criminal-matter-for-attorney-general-of.html
+* http://hcrenewal.blogspot.com/2016/03/bad-health-it-at-medstar-health-fbi.html
 
 
 

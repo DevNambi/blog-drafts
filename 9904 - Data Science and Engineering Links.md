@@ -354,6 +354,7 @@
 * http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego <- a great way to learn
 * http://simplystatistics.org/2014/10/17/bayes-rule-in-a-gif/
 * http://blogs.scientificamerican.com/cross-check/bayes-s-theorem-what-s-the-big-deal/
+* http://fastml.com/bayesian-machine-learning/
 
 
 

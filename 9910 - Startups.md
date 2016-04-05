@@ -26,6 +26,8 @@
 * http://www.themediabriefing.com/article/peak-content-the-collapse-of-the-attention-economy <- don't trust ads to pay for things.
 * http://www.cnbc.com/2016/02/11/silicon-valley-start-ups-rein-in-spending-and-prepare-for-layoffs.html
 * http://www.vanityfair.com/news/2016/03/chamath-palihapitiya-interview-says-start-ups-are-mostly-crap
+* http://www.vanityfair.com/news/2016/03/chamath-palihapitiya-interview-says-start-ups-are-mostly-crap
+
 
 
 

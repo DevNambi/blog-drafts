@@ -453,6 +453,7 @@
 * http://www.buzzfeed.com/jessicagarrison/all-you-americans-are-fired
 * http://www.businessforscotland.co.uk/finlands-basic-income-plan-could-change-everything/
 * http://www.sltrib.com/opinion/3665416-155/buchanan-a-chilling-mathematical-model-of
+* http://www.bloombergview.com/articles/2016-03-28/listen-to-the-victims-of-the-free-market
 
 
 
