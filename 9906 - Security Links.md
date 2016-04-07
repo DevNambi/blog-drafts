@@ -9,6 +9,7 @@
 * http://arstechnica.com/security/2016/01/fatally-weak-md5-function-torpedoes-crypto-protections-in-https-and-ipsec/
 * http://arstechnica.com/gadgets/2016/02/tim-cook-says-apple-will-fight-us-govt-over-court-ordered-iphone-backdoor/ <- Bravo
 * http://mjg59.dreamwidth.org/40505.html
+* http://www.theregister.co.uk/2016/04/07/philippine_voter_data_breach/
 * http://arstechnica.com/tech-policy/2016/01/dutch-government-encryption-good-backdoors-bad/
 * http://arstechnica.com/tech-policy/2016/03/paris-terrorist-attacks-burner-phones-not-encryption/
 * http://www.nytimes.com/2016/03/18/technology/apple-encryption-engineers-if-ordered-to-unlock-iphone-might-resist.html?_r=0
