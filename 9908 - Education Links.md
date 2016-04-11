@@ -646,6 +646,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://www.insidehighered.com/news/2016/02/09/study-increased-student-aid-not-faculty-salaries-drives-tuition
 * http://hedgeclippers.org/endangered-endowments/ <- Hedge funds: ripping off students and bankrupting higher ed.
 * http://www.thenation.com/article/universities-are-becoming-billion-dollar-hedge-funds-with-schools-attached/ <- what a mess
+* http://www.nytimes.com/2016/04/10/education/edlife/why-upperclassmen-pay-more-they-may-get-less.html
 
 
 
