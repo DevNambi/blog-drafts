@@ -15,6 +15,7 @@
 * http://www.nytimes.com/2016/03/18/technology/apple-encryption-engineers-if-ordered-to-unlock-iphone-might-resist.html?_r=0
 * http://arstechnica.com/information-technology/2015/08/lenovo-used-windows-anti-theft-feature-to-install-persistent-crapware/
 * https://securelist.com/analysis/publications/72652/beaches-carnivals-and-cybercrime-a-look-inside-the-brazilian-underground/
+* http://arstechnica.com/security/2016/04/ok-panic-newly-evolved-ransomware-is-bad-news-for-everyone/
 * http://arstechnica.com/security/2016/02/la-hospital-latest-victim-of-targeted-crypto-ransomware-attack/
 * https://mastermind.atavist.com/he-always-had-a-dark-side
 * http://krebsonsecurity.com/2015/12/2016-reality-lazy-authentication-still-the-norm/

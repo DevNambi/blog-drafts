@@ -334,6 +334,7 @@
 * http://gizmodo.com/these-gorgeous-buildings-showcase-the-surprisingly-inno-1757398349
 * http://moneyning.com/housing/the-five-year-rule-for-buying-a-house/
 * http://www.estately.com/occupation-real-estate-affordability
+* http://archinect.com/news/article/149938728/inside-aravena-s-open-source-plans-for-low-cost-yet-upgradable-housing
 
 
 
