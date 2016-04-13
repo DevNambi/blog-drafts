@@ -249,6 +249,7 @@
 * http://richardkulisz.blogspot.com/2011/06/design-principles-vs-engineering.html
 * http://www.firatatagun.com/blog/2016/01/09/analysis-of-software-architectures/
 * http://www.hanselman.com/blog/WhenDidWeStopCaringAboutMemoryManagement.aspx
+* https://www.paypal-engineering.com/2016/04/11/statistics-for-software/
 
 
 ## UI, UX, HCD
