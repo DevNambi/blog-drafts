@@ -294,6 +294,7 @@
 * https://www.technologyreview.com/s/600763/immune-engineering/
 * https://www.veritasgenetics.com/documents/VG-launches-999-whole-genome.pdf <- quite a milestone
 * http://www.sandiegouniontribune.com/news/2016/mar/26/law-enforcement-investigators-seek-out-private/all/
+* http://resilienceproject.com/ <- brilliant
 
 
 #### Diabetes

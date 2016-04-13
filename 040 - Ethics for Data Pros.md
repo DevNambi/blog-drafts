@@ -27,6 +27,7 @@ We believe we are working to make our society, our world, a better place. At the
 "Ethics: moral principles that govern a person's or group's behavior"
 
 * http://mathbabe.org/2013/11/12/there-is-no-market-solution-for-ethics/
+* http://www.governing.com/topics/health-human-services/gov-how-providence-used-proven-programs-to-help-youths.html
 * http://arstechnica.co.uk/security/2016/02/the-nsas-skynet-program-may-be-killing-thousands-of-innocent-people/ <- the literal opposite of this
 * http://blog.datalook.io/how-data-science-fuelled-the-largest-outreach-effort-in-the-history-of-nyc/
 * https://www.oreilly.com/ideas/five-principles-for-applying-data-science-for-social-good <- brilliant!

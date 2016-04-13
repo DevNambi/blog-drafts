@@ -288,6 +288,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://arstechnica.com/information-technology/2016/02/a-10-to-fly-until-2022-as-dod-test-chief-warns-against-f-35-block-buy/
 * http://www.nytimes.com/2016/02/20/us/veterans-seek-greater-emphasis-on-ptsd-in-bids-to-upgrade-discharges.html
 * http://www.buzzfeed.com/mikegiglio/america-is-now-fighting-a-proxy-war-with-itself-in-syria
+* http://www.independent.co.uk/voices/i-am-on-the-us-kill-list-this-is-what-it-feels-like-to-be-hunted-by-drones-a6980141.html
 
 
 

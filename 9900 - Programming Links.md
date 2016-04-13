@@ -249,6 +249,7 @@
 * http://richardkulisz.blogspot.com/2011/06/design-principles-vs-engineering.html
 * http://www.firatatagun.com/blog/2016/01/09/analysis-of-software-architectures/
 * http://www.hanselman.com/blog/WhenDidWeStopCaringAboutMemoryManagement.aspx
+* http://danluu.com/google-sre-book/
 
 
 ## UI, UX, HCD
