@@ -334,6 +334,7 @@
 * http://gizmodo.com/these-gorgeous-buildings-showcase-the-surprisingly-inno-1757398349
 * http://moneyning.com/housing/the-five-year-rule-for-buying-a-house/
 * http://www.estately.com/occupation-real-estate-affordability
+* http://archinect.com/news/article/149938728/inside-aravena-s-open-source-plans-for-low-cost-yet-upgradable-housing
 
 
 
@@ -454,6 +455,7 @@
 * http://www.businessforscotland.co.uk/finlands-basic-income-plan-could-change-everything/
 * http://www.sltrib.com/opinion/3665416-155/buchanan-a-chilling-mathematical-model-of
 * http://www.bloombergview.com/articles/2016-03-28/listen-to-the-victims-of-the-free-market
+* http://www.theguardian.com/books/2016/apr/07/evicted-poverty-and-profit-in-the-american-city-matthew-desmond-review
 
 
 

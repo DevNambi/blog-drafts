@@ -310,6 +310,7 @@
 * http://www.vox.com/2015/12/23/10657690/seattle-housing-crisis
 * http://lifehacker.com/learning-to-pick-locks-taught-me-how-crappy-door-locks-1750091711
 * http://the-toast.net/2015/02/24/get-rid-clutter-live-abundantly/
+* http://offbeathome.com/things-you-can-get-rid-of/
 
 
 

@@ -90,6 +90,7 @@ We believe we are working to make our society, our world, a better place. At the
 * http://www.theatlantic.com/magazine/archive/2014/12/the-shazam-effect/382237/?single_page=true
 * http://www.wired.com/2014/11/algorithms-great-can-also-ruin-lives/
 * http://www.nytimes.com/2014/12/01/business/working-the-land-and-the-data.html?_r=0
+* http://fusion.net/story/287592/internet-mapping-glitch-kansas-farm/
 * http://www.datainnovation.org/2014/12/fighting-over-fishing-with-data-visualization/
 * http://en.wikipedia.org/wiki/Robert_A._Kehoe <- the opposite of this guy
 * http://en.wikipedia.org/wiki/Precautionary_principle

@@ -19,6 +19,7 @@ This is an information problem. It's also a FUD problem.
 * http://www.groovehq.com/blog/being-a-remote-team
 * http://paddy.io/posts/recruiters/
 * http://www.nytimes.com/2015/05/31/opinion/sunday/guess-who-doesnt-fit-in-at-work.html
+* https://www.brentozar.com/archive/2016/04/interview-dbas-dont-ask-questions-show-screenshots/
 * http://andytroutman.com/articles/2013/01/24/rockstar-programmers-are-not-assholes.html
 * http://www.wired.com/2014/02/smart-jerks-old-people-hard-things-company/
 * http://www.b-list.org/weblog/2015/oct/19/destroy-all-hiring-processes/

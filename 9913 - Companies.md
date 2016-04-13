@@ -268,6 +268,8 @@
 * http://www.poynter.org/2016/newspaper-bosses-paralyzed-by-change-clueless-about-paid-content-says-steve-brill/391102/ <- brilliant
 * http://flowingdata.com/2016/02/19/the-daily-mail-stole-my-visualization-twice/
 * https://warriorwriters.wordpress.com/2016/02/19/shame-on-you-aolhuffington-no-more-literary-booty-calls/
+* http://www.stereogum.com/1870768/steve-miller-expands-on-rock-hall-criticism-everybody-is-kind-of-a-dick-this-whole-industry-fucking-sucks/wheres-the-beef/
+* http://arstechnica.com/business/2016/04/riaa-still-hates-the-dmca-even-as-streaming-revenues-soar/
 
 
 
