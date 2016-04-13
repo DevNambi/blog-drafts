@@ -95,6 +95,7 @@
 * https://signalvnoise.com/posts/2585-facebook-is-not-worth-33000000000
 * http://www.economist.com/news/business-and-finance/21685292-critics-argue-mark-zuckerbergs-generosity-cover-landgrab-facebooks-free-internet <- NO
 * http://www.bloomberg.com/features/2016-facebook-reactions-chris-cox/
+* http://www.theverge.com/2016/4/13/11387934/internet-moderator-history-youtube-facebook-reddit-censorship-free-speech
 
 
 ## Apple
@@ -214,6 +215,7 @@
 * http://arstechnica.com/gadgets/2016/01/2016-google-tracker-everything-google-is-working-on-for-the-new-year/
 * http://www.statnews.com/2016/03/28/google-life-sciences-exodus/
 * http://www.buzzfeed.com/mathonan/searching-for-google-ceo-sundar-pichai-the-most-powerful-tec
+* http://www.theverge.com/2016/4/13/11387934/internet-moderator-history-youtube-facebook-reddit-censorship-free-speech
 
 
 ## Uber
@@ -322,6 +324,7 @@
 * http://techcrunch.com/2015/10/21/twitter-ceo-dorsey-apologizes-to-developers-says-he-wants-to-reset-relations/
 * http://www.theguardian.com/commentisfree/2015/nov/06/twitter-teetering-pyramid-scheme-social-media
 * http://www.newyorker.com/tech/elements/the-end-of-twitter
+* http://www.theverge.com/2016/4/13/11387934/internet-moderator-history-youtube-facebook-reddit-censorship-free-speech
 
 
 ## Vehicle, Car Companies

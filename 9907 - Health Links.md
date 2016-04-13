@@ -353,6 +353,7 @@ pandemic-20150311-story.html
 * https://github.com/cdcepi/zika
 * http://hcrenewal.blogspot.com/2016/03/criminal-matter-for-attorney-general-of.html
 * http://hcrenewal.blogspot.com/2016/03/bad-health-it-at-medstar-health-fbi.html
+* http://www.consumerreports.org/health/doctors-hospitals/hospital-ratings/ratings/search-results.htm?state=WA
 
 
 

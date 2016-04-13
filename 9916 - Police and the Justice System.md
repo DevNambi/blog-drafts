@@ -14,6 +14,7 @@
 * http://www.seattletimes.com/nation-world/baltimore-mayor-fires-police-commissioner/
 * http://arstechnica.com/tech-policy/2016/03/video-clears-texas-man-of-assaulting-cop-did-police-commit-perjury/
 * http://ignition.co/439 <- bad incentives can make things worse
+* http://www.theatlantic.com/politics/archive/2016/04/new-images-of-waco-bikers-fleeing-violence/477807/
 * http://www.mlive.com/news/kalamazoo/index.ssf/2015/10/police_officer_charged_with_mi.html
 * https://www.washingtonpost.com/news/the-watch/wp/2016/04/01/video-shows-white-cops-performing-roadside-cavity-search-of-black-man/
 * https://www.aclunebraska.org/en/publications/growing-locked-down
