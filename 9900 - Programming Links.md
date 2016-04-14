@@ -403,6 +403,7 @@
 * http://blog.codinghorror.com/the-scooter-computer/
 * http://arstechnica.com/science/2016/02/is-d-waves-quantum-processor-really-10%E2%81%B8-times-faster-than-a-normal-computer/
 * http://www.extremetech.com/extreme/223022-the-myths-of-moores-law
+* https://status.cloud.google.com/incident/compute/16007?post-mortem
 
 
 

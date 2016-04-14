@@ -19,6 +19,7 @@
 * https://www.washingtonpost.com/news/the-watch/wp/2016/04/01/video-shows-white-cops-performing-roadside-cavity-search-of-black-man/
 * https://www.aclunebraska.org/en/publications/growing-locked-down
 * http://www.bloombergview.com/articles/2015-11-12/stop-and-seize-turns-police-into-self-funding-gangs
+* http://www.nytimes.com/2016/04/14/us/chicago-police-dept-plagued-by-systemic-racism-task-force-finds.html
 * http://www.nytimes.com/interactive/2016/04/01/us/police-bodycam-video.html
 * http://www.al.com/news/index.ssf/2016/03/deputy_shoots_dog_after_man_lo.html
 * http://www.sandiegouniontribune.com/news/2016/mar/26/law-enforcement-investigators-seek-out-private/all/

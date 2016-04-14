@@ -97,6 +97,7 @@
 * http://well.blogs.nytimes.com/2014/12/08/bpa-in-cans-and-plastic-bottles-linked-to-quick-rise-in-blood-pressure/?_r=0
 * http://www.bbc.com/news/magazine-30549150
 * http://www.theatlantic.com/health/archive/2015/01/the-new-antibiotics-might-be-essential-oils/384247/
+* https://www.washingtonpost.com/news/wonk/wp/2016/04/12/this-study-40-years-ago-could-have-reshaped-the-american-diet-but-it-was-never-fully-published/
 * http://www.nytimes.com/2015/01/20/dining/animal-welfare-at-risk-in-experiments-for-meat-industry.html
 * http://seattletimes.com/html/nationworld/2025500513_pizzaobesexml.html
 * http://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html
