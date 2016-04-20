@@ -36,6 +36,7 @@ We believe we are working to make our society, our world, a better place. At the
 * http://boingboing.net/2014/07/09/big-data-should-not-be-a-faith.html
 * http://blogs.wsj.com/digits/2016/01/07/regulator-warns-tech-companies-of-big-data-bias/
 * http://arstechnica.com/information-technology/2015/12/demystifying-artificial-intelligence-no-the-singularity-is-not-just-around-the-corner/
+* https://mathbabe.org/2014/05/20/ignore-data-focus-on-power/ <- brilliant
 * http://flowingdata.com/2016/02/19/the-daily-mail-stole-my-visualization-twice/
 * http://www.marieclaire.com/culture/a18817/netflix-algorithms-black-movies/
 * http://blog.datalook.io/definitive-guide-data-science-good/
