@@ -358,18 +358,21 @@ pandemic-20150311-story.html
 
 
 
-
-
 #### Too Much Medicine, Adverse Outcomes
 
 * http://www.nytimes.com/2015/11/22/opinion/sunday/are-good-doctors-bad-for-your-health.html
 * http://www.nytimes.com/2016/02/02/health/study-finds-growing-reason-to-be-wary-of-some-reflux-drugs.html
 * http://www.smh.com.au/nsw/confessions-of-a-sydney-surgeon-why-your-operation-may-not-work-20160302-gn95ya.html
 
+
 #### Endocrine Disruptors, Pesticides
 
 * http://www.extremetech.com/extreme/218689-what-are-endocrine-disruptors-and-how-should-you-protect-yourself-from-them
 
+
+#### Infectious Diseases
+
+* http://www.slate.com/articles/health_and_science/science/2016/01/zika_carrying_mosquitoes_are_a_global_scourge_and_must_be_stopped.html
 
 
 

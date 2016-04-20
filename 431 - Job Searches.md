@@ -235,6 +235,7 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 <li><a href="http://jvns.ca/blog/2015/12/30/do-the-math-on-your-stock-options/">Do the math on your stock options</a></li>
 <li><a href="http://elaineou.com/2016/01/06/a-machine-learning-model-for-salary-estimation/">A Machine Learning Model for Salary Estimation</a></li>
 <li><a href="https://github.com/jlevy/og-equity-compensation">The Open Guide to Equity Compensation</a></li>
+<li><a href="https://blog.step.com/2016/04/08/an-open-source-project-for-tech-salaries/">GOOGLE, FACEBOOK, AMAZON AND MICROSOFT SALARIES</a></li>
 </ul>
 
 
