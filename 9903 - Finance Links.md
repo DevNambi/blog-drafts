@@ -374,6 +374,7 @@
 * https://news.vice.com/article/unemployment-is-killing-45000-people-each-year
 * http://www.reddit.com/r/AskReddit/comments/2zwirb/what_is_the_worst_example_of_rich_people_problems/
 * http://www.reddit.com/r/AskReddit/comments/2sbi17/what_do_insanely_poor_people_buy_that_ordinary/
+* http://www.theatlantic.com/magazine/archive/2016/05/my-secret-shame/476415/
 * http://opinionator.blogs.nytimes.com/2013/11/02/poverty-in-america-is-mainstream/
 * http://en.wikipedia.org/wiki/South_Fork_Fishing_and_Hunting_Club
 * http://www.politico.com/magazine/story/2014/11/overtime-pay-obama-congress-112954.html

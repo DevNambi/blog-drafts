@@ -99,6 +99,8 @@
 
 @dhh: “Coding isn’t the poor handmaiden of design or analysis. Coding is where your fuzzy ideas awaken in the harsh dawn of reality”
 
+
+
 ### Complexity, Code Reviews, Technical Debt
 
 * http://www.theeffectiveengineer.com/blog/hidden-costs-that-engineers-ignore
@@ -135,6 +137,7 @@
 * http://news.mit.edu/2016/faster-automatic-bug-repair-code-errors-0129
 * https://18f.gsa.gov/2016/02/23/software-maintenance-is-an-anti-pattern/
 * http://firstround.com/review/shims-jigs-and-other-woodworking-concepts-to-conquer-technical-debt/
+* http://codeahoy.com/2016/04/21/when-to-rewrite-from-scratch-autopsy-of-a-failed-software/
 
 
 

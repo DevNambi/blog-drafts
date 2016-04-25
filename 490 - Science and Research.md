@@ -18,6 +18,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://mathbabe.org/2015/11/16/debiasing-techniques-in-science/
 * http://swcarpentry.github.io/slideshows/best-practices/index.html
 * http://www.fiercebiotech.com/story/who-really-controls-revolutionary-new-crispr-cas9-technology/2014-12-05
+* http://www.atlasobscura.com/articles/the-rise-of-illegal-pirate-libraries
 * http://benchling.engineering/crispr-aws-lambda/?hn
 * http://www.scientificamerican.com/article/scientists-perturbed-by-loss-of-stat-tool-to-sift-research-fudge-from-fact/
 * http://www.civilbeat.com/2015/04/mauna-kea-is-a-special-place-in-humanitys-quest-for-knowledge/
