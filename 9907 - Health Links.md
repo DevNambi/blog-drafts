@@ -8,6 +8,7 @@
 * http://arstechnica.com/science/2016/01/why-the-calorie-is-broken/
 * http://www.vox.com/2016/1/7/10726036/new-us-food-guidelines
 * http://well.blogs.nytimes.com/2015/10/27/cutting-sugar-improves-childrens-health-in-just-10-days/
+* http://www.theguardian.com/lifeandstyle/2016/apr/23/diabetes-can-you-really-eat-to-beat-it
 * http://www.npr.org/sections/health-shots/2015/12/26/460803440/if-doctors-learned-to-cook-they-might-give-better-advice
 * http://nautil.us/issue/30/identity/how-the-western-diet-has-derailed-our-evolution
 * http://www.theguardian.com/lifeandstyle/2016/jan/05/diet-detox-art-healthy-eating
