@@ -90,6 +90,7 @@
 * http://danluu.com/wat/
 * http://www.midnightdba.com/DBARant/what-i-learned-writing-commercial-software/
 * http://www.dataorienteddesign.com/dodmain/
+* http://www.exceptionnotfound.net/fundamental-laws-of-software-development/
 
 
 

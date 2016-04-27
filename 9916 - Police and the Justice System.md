@@ -17,6 +17,7 @@
 * http://www.theatlantic.com/politics/archive/2016/04/new-images-of-waco-bikers-fleeing-violence/477807/
 * http://www.abajournal.com/magazine/article/secret_snitches_california_case_uncovers_long_standing_practice_of_planting
 * http://www.mlive.com/news/kalamazoo/index.ssf/2015/10/police_officer_charged_with_mi.html
+* http://www.slate.com/articles/news_and_politics/jurisprudence/2015/04/fbi_s_flawed_forensics_expert_testimony_hair_analysis_bite_marks_fingerprints.html
 * https://www.washingtonpost.com/news/the-watch/wp/2016/04/01/video-shows-white-cops-performing-roadside-cavity-search-of-black-man/
 * https://www.aclunebraska.org/en/publications/growing-locked-down
 * http://www.bloombergview.com/articles/2015-11-12/stop-and-seize-turns-police-into-self-funding-gangs
