@@ -145,6 +145,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 #### Charter Schools
 
 * http://www.nakedcapitalism.com/2016/01/are-charter-schools-the-new-subprime-mortgages.html
+* https://nonprofitquarterly.org/2016/04/11/charitable-plutocracy-bill-gates-washington-state-and-the-nuisance-of-democracy/
 
 
 

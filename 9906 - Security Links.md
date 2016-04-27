@@ -64,6 +64,7 @@
 * http://www.wired.com/2015/11/hackers-claim-million-dollar-bounty-for-ios-attack/
 * http://arstechnica.com/security/2015/06/new-remote-exploit-leaves-most-macs-vulnerable-to-permanent-backdooring/
 * http://www.bloomberg.com/news/articles/2015-04-23/silicon-valley-s-help-sought-as-pentagon-fights-cyber-attacks
+* http://www.middleeasteye.net/news/qatar-national-bank-allegedly-hacked-data-1200-entities-leaked-online-1642830110
 * http://www.slate.com/blogs/future_tense/2015/10/15/trans_pacific_partnership_could_thwart_computer_security_research_and_tinkering.html
 * http://daringfireball.net/linked/2015/10/15/flash-uninstall
 * http://blog.cryptographyengineering.com/2015/04/truecrypt-report.html

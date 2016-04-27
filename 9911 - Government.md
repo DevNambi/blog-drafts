@@ -185,6 +185,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/ <- an insight piece
 * http://www.nytimes.com/2015/07/23/world/asia/afghan-security-forces-struggle-just-to-maintain-stalemate.html
 * http://www.popularmechanics.com/flight/drones/a18032/hero-30-uvision-israeli-drone/
+* http://motherboard.vice.com/read/the-f-35s-software-is-so-buggy-it-might-ground-the-whole-fleet
 * https://www.washingtonpost.com/news/the-watch/wp/2016/01/11/why-the-wet-tea-leaves-drug-raid-was-outrageous/
 * http://www.economist.com/news/science-and-technology/21607765-just-how-good-are-government-analysts-intelligent-intelligence
 * http://www.nytimes.com/2016/01/01/us/pentagon-curbs-use-of-psychologists-with-guantanamo-detainees.html
