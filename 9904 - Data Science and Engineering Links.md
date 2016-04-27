@@ -664,6 +664,7 @@
 * http://www.wildml.com/deep-learning-glossary/
 * http://googleresearch.blogspot.com/2016/02/exploring-intersection-of-art-and.html
 * http://www.aistartups.org/2016/03/some-starting-points-for-deep-learning.html
+* http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.67711&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification
 
 
 

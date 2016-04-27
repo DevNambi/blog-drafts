@@ -30,6 +30,7 @@ This is an information problem. It's also a FUD problem.
 * http://blog.fogcreek.com/were-bad-at-interviewing-developers-and-how-to-fix-it-interview-with-kerri-miller/
 * http://firstround.com/article/Mine-Your-Network-for-Early-Stage-Hiring-Gold
 * https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/
+* https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324
 * http://blog.triplebyte.com/three-hundred-programming-interviews-in-thirty-days
 * https://medium.com/ride-tech-blog/open-sourcing-our-interviewing-preparation-guide-102021f81626
 * Psychology - because we're looking for good judgment
