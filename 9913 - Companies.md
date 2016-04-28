@@ -106,6 +106,7 @@
 * http://www.theguardian.com/money/2016/feb/05/error-53-apple-iphone-software-update-handset-worthless-third-party-repair
 * http://blog.longreads.com/2016/03/08/your-phone-was-made-by-slaves-a-primer-on-the-secret-economy/
 * http://www.antipope.org/charlie/blog-static/2016/03/follow-the-money-apple-vs-the-.html
+* http://www.bloombergview.com/articles/2016-04-28/mark-zuckerberg-gets-to-control-facebook-a-while-longer
 
 
 ## IBM and other IT/software companies
@@ -167,6 +168,7 @@
 * http://arstechnica.com/business/2015/06/verizon-ordered-to-finish-fiber-build-that-it-promised-but-didnt-deliver/
 * http://arstechnica.com/business/2015/01/fcc-chairman-mocks-industry-claims-that-customers-dont-need-faster-internet/
 * http://arstechnica.com/business/2014/12/att-wins-right-to-intervene-in-citys-fiber-broadband-plan/
+* http://arstechnica.com/business/2016/04/fcc-proposes-new-price-regulations-for-cable-but-not-for-home-internet/
 * http://arstechnica.com/tech-policy/2015/03/man-who-sued-comcast-now-wants-over-5m-says-isp-shouldnt-have-smeared-him/
 * http://www.loomcom.com/blog/2015/02/22/its-comcastic-or-i-accidentally-bought-a-house-without-internet/
 * http://www.wired.com/2015/02/fcc-chairman-wheeler-net-neutrality/
@@ -346,6 +348,8 @@
 * http://syonyk.blogspot.com/2016/03/is-tesla-building-throwaway-cars.html
 * http://www.nytimes.com/2016/04/14/business/as-takata-costs-soar-in-airbag-recall-files-show-early-worries-on-financial-toll.html
 * http://www.theguardian.com/business/2016/apr/23/diesel-cars-pollution-limits-nox-emissions
+* http://rameznaam.com/2016/04/12/how-cheap-can-electric-vehicles-get/
+* http://www.extremetech.com/extreme/227324-why-automaker-cheating-threatens-the-self-driving-cAr
 
 
 ## Sports

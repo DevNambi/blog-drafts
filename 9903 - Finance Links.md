@@ -578,6 +578,7 @@
 * http://www.theguardian.com/world/2016/mar/07/revealed-30-year-economic-betrayal-dragging-down-generation-y-income
 * http://wolfstreet.com/2016/03/10/secret-monetary-group-bis-warns-a-catastrophe-is-coming/
 * http://wolfstreet.com/2016/03/15/chart-shows-big-crash-ahead-rounded-top-pattern/
+* http://www.bloomberg.com/news/articles/2016-04-27/be-afraid-be-very-afraid-if-you-re-investing-for-the-long-run
 
 
 

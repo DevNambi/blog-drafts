@@ -255,6 +255,7 @@
 * http://www.hanselman.com/blog/WhenDidWeStopCaringAboutMemoryManagement.aspx
 * http://danluu.com/google-sre-book/
 * https://www.paypal-engineering.com/2016/04/11/statistics-for-software/
+* http://da-data.blogspot.com/2016/04/stealing-googles-coding-practices-for.html
 
 
 ## UI, UX, HCD
@@ -442,6 +443,7 @@
 * https://yourbunnywrote.org/2015/04/19/google-cloud/
 * http://bits.blogs.nytimes.com/2015/09/09/google-follows-amazon-web-services-into-on-demand-supercomputing/
 * http://googlecloudplatform.blogspot.com/2015/05/Introducing-Preemptible-VMs-a-new-class-of-compute-available-at-70-off-standard-pricing.html
+* http://www.51zero.com/blog/google-reveals-its-cloud-computing-vision
 
 
 ### AWS (Amazon Web Services)
@@ -499,6 +501,7 @@
 * http://www.nextplatform.com/2016/02/01/how-long-can-aws-keep-climbing-its-steep-growth-curve/
 * https://www.reddit.com/r/aws/comments/46iat0/what_third_party_tools_do_you_use_with_aws_that/
 * https://serverlesscode.com/post/deploy-scikitlearn-on-lamba/
+* https://sysdig.com/blog/amazon-elb-bug/
 
 
 

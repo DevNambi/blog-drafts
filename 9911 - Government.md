@@ -291,6 +291,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.buzzfeed.com/mikegiglio/america-is-now-fighting-a-proxy-war-with-itself-in-syria
 * http://www.independent.co.uk/voices/i-am-on-the-us-kill-list-this-is-what-it-feels-like-to-be-hunted-by-drones-a6980141.html
 * http://www.thenation.com/article/the-cia-waterboarded-the-wrong-man-83-times-in-1-month/
+* https://mastermind.atavist.com/the-next-big-deal
 
 
 

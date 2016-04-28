@@ -206,6 +206,7 @@
 * http://alwaysascending.weebly.com/light---on-trending-to-your-right-weight.html
 * http://well.blogs.nytimes.com/2015/01/23/ask-well-the-best-time-of-day-to-exercise/
 * http://well.blogs.nytimes.com/2015/01/26/sweaty-answer-to-chronic-illness/
+* http://well.blogs.nytimes.com/2016/04/27/1-minute-of-all-out-exercise-may-equal-45-minutes-of-moderate-exertion/
 
 
 <li><a href="http://www.nytimes.com/2013/11/03/sunday-review/womens-flexibility-is-a-liability-in-yoga.html?hp" time_added="1383445933" tags="domestic,health">http://www.nytimes.com/2013/11/03/sunday-review/womens-flexibility-is-a-lia</a></li>
@@ -652,6 +653,7 @@ pandemic-20150311-story.html
 
 
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
+* http://www.nytimes.com/2016/04/29/us/colorado-weighs-replacing-obamas-health-policy-with-universal-coverage.html
 * http://arstechnica.com/science/2016/02/pharmas-drug-hikes-doubled-average-cost-of-prescriptions-in-last-decade/
 * http://www.newyorker.com/magazine/2005/04/04/piecework
 * http://mobile.nytimes.com/2016/01/06/upshot/lost-jobs-houses-savings-even-insured-often-face-crushing-medical-debt.html 
