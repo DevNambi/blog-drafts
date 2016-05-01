@@ -175,6 +175,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://mobile.nytimes.com/2015/06/17/us/as-stress-drives-off-drone-operators-air-force-must-cut-flights.html
 * http://www.huffingtonpost.ca/2015/04/05/former-spy-cia-employees_n_7006852.html
 * http://www.theatlantic.com/international/archive/2015/12/war-2015-china-russia-isis/422085/
+* http://fortune.com/2016/04/28/f-35-fails-testing-air-force/
 * https://medium.com/war-is-boring/test-pilot-admits-the-f-35-can-t-dogfight-cdb9d11a875
 * http://www.buzzfeed.com/azmatkhan/the-big-lie-that-helped-justify-americas-war-in-afghanistan
 * http://www.nytimes.com/2015/08/10/opinion/the-pentagons-dangerous-views-on-the-wartime-press.html?action=click&pgtype=Homepage&module=opinion-c-col-left-region&region=opinion-c-col-left-region&WT.nav=opinion-c-col-left-region&_r=0
