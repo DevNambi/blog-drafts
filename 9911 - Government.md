@@ -173,6 +173,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://www.newscientist.com/article/dn16297-intelligent-soldiers-most-likely-to-die-in-battle/
 * http://www.nakedcapitalism.com/2015/05/william-j-astore-the-american-military-uncontained-chaos-spread-casualties-inflicted-missions-unaccomplished.html
 * http://mobile.nytimes.com/2015/06/17/us/as-stress-drives-off-drone-operators-air-force-must-cut-flights.html
+* http://www.armed-services.senate.gov/imo/media/doc/Gilmore_04-26-16.pdf
 * http://www.huffingtonpost.ca/2015/04/05/former-spy-cia-employees_n_7006852.html
 * http://www.theatlantic.com/international/archive/2015/12/war-2015-china-russia-isis/422085/
 * http://fortune.com/2016/04/28/f-35-fails-testing-air-force/
