@@ -92,6 +92,7 @@ Emphasize what we don't know
 * http://news.nationalgeographic.com/news/2015/02/150212-megadrought-southwest-water-climate-environment/
 * http://www.theguardian.com/theguardian/2008/mar/01/scienceofclimatechange.climatechange
 * http://m.nautil.us/issue/33/attraction/why-our-intuition-about-sea_level-rise-is-wrong
+* http://electrek.co/2016/05/02/price-solar-power-fell-50-16-months-dubai-0299kwh/
 * http://nautil.us/issue/25/water/the-real-landscapes-of-the-great-flood-myths
 * http://www.vox.com/2015/7/13/8949701/carbon-removal
 * http://www.nytimes.com/2015/05/31/opinion/sunday/holding-your-breath-in-india.html?_r=0

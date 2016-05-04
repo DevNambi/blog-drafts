@@ -198,6 +198,7 @@
 * http://techcrunch.com/2015/10/23/coding-academies-are-nonsense/
 * https://medium.com/learning-new-stuff/a-simple-technique-to-learn-hard-stuff-ffaa7879bf7c
 * http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner
+* http://overapi.com/ <- language cheat sheets
 
 
 

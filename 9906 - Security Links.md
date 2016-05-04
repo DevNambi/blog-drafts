@@ -2,8 +2,10 @@
 
 * http://arstechnica.com/security/2016/01/first-known-hacker-caused-power-outage-signals-troubling-escalation/  <- this is **incredibly ominous**
 * http://www.bloomberg.com/news/2014-10-02/jpmorgan-says-data-breach-affected-76-million-households.html
+* http://www.extremetech.com/computing/227699-new-malware-takes-advantage-of-windows-god-mode-to-evade-detection
 * http://bits.blogs.nytimes.com/2015/10/14/hackers-prove-they-can-pwn-the-lives-of-those-not-hyperconnected/
 * http://arstechnica.com/tech-policy/2015/12/hillary-clinton-wants-manhattan-like-project-to-break-encryption/
+* https://www.washingtonpost.com/world/national-security/security-of-critical-phone-database-called-into-question/2016/04/28/11c23b10-0c8d-11e6-a6b6-2e6de3695b0e_story.html
 * https://theintercept.com/2015/06/20/wikileaks-jacob-appelbaum-google-investigation/
 * http://www.wired.com/2015/06/united-flights-grounded-mysterious-problem/
 * http://arstechnica.com/security/2016/01/fatally-weak-md5-function-torpedoes-crypto-protections-in-https-and-ipsec/

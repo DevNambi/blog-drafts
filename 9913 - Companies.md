@@ -350,6 +350,7 @@
 * http://www.theguardian.com/business/2016/apr/23/diesel-cars-pollution-limits-nox-emissions
 * http://rameznaam.com/2016/04/12/how-cheap-can-electric-vehicles-get/
 * http://www.extremetech.com/extreme/227324-why-automaker-cheating-threatens-the-self-driving-cAr
+* http://www.nytimes.com/2016/04/15/automobiles/wheels/automakers-revisit-tactics-that-hurt-them-before-recession.html
 
 
 ## Sports
