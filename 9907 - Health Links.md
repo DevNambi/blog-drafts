@@ -341,6 +341,7 @@ pandemic-20150311-story.html
 #### Epidemiology, Data, IT
 
 * http://www.extremetech.com/extreme/199602-fda-authorizes-23andme-to-market-health-related-genetic-testing
+* http://news.softpedia.com/news/medical-equipment-crashes-during-heart-procedure-because-of-antivirus-scan-503642.shtml 
 * http://www.nytimes.com/2015/02/03/upshot/how-to-measure-a-medical-treatments-potential-for-harm.html <- super important
 * https://medium.com/war-is-boring/eating-too-much-rice-almost-sank-the-japanese-navy-f985772c81a6
 * https://medium.com/backchannel/should-surgeons-keep-score-8b3f890a7d4c
@@ -549,6 +550,8 @@ pandemic-20150311-story.html
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://static.latimes.com/oxycontin-part1/ 
+* http://www.theguardian.com/society/2016/may/03/cause-of-death-united-states-medical-error
 * http://www.economist.com/news/science-and-technology/21695381-too-many-medical-trials-move-their-goalposts-halfway-through-new-initiative
 * http://www.nytimes.com/2016/01/29/us/drug-shortages-forcing-hard-decisions-on-rationing-treatments.html
 * http://wtvr.com/2016/04/29/virginia-state-medical-examiners-investigation-amid-allegations/
@@ -655,6 +658,7 @@ pandemic-20150311-story.html
 
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
 * http://www.nytimes.com/2016/04/29/us/colorado-weighs-replacing-obamas-health-policy-with-universal-coverage.html
+* http://www.alternet.org/personal-health/84000-hep-c-drug-only-1500
 * http://arstechnica.com/science/2016/02/pharmas-drug-hikes-doubled-average-cost-of-prescriptions-in-last-decade/
 * http://www.newyorker.com/magazine/2005/04/04/piecework
 * http://mobile.nytimes.com/2016/01/06/upshot/lost-jobs-houses-savings-even-insured-often-face-crushing-medical-debt.html 
