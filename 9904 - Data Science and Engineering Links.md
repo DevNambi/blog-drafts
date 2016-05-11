@@ -502,6 +502,7 @@
 * http://www.pybloggers.com/ensemble-methods-elegant-techniques-to-produce-improved-machine-learning-results/
 * http://www.pybloggers.com/ensemble-methods-elegant-techniques-to-produce-improved-machine-learning-results/
 * http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb
+* http://cleveralgorithms.com/nature-inspired/index.html <- AMAZING
 
 
 
