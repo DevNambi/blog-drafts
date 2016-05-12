@@ -16,6 +16,7 @@
 * http://www.troyhunt.com/2016/04/when-nation-is-hacked-understanding.html
 * http://blog.trendmicro.com/trendlabs-security-intelligence/55m-registered-voters-risk-philippine-commission-elections-hacked/
 * http://arstechnica.com/tech-policy/2016/03/paris-terrorist-attacks-burner-phones-not-encryption/
+* https://www.wired.com/2016/05/maksym-igor-popov-fbi/
 * http://www.nytimes.com/2016/03/18/technology/apple-encryption-engineers-if-ordered-to-unlock-iphone-might-resist.html?_r=0
 * http://arstechnica.com/information-technology/2015/08/lenovo-used-windows-anti-theft-feature-to-install-persistent-crapware/
 * https://securelist.com/analysis/publications/72652/beaches-carnivals-and-cybercrime-a-look-inside-the-brazilian-underground/
