@@ -349,4 +349,5 @@ Ex-Disney IT workers sue after being asked to train their own H-1B replacements<
 <li><a href="https://medium.com/backchannel/the-way-we-hire-is-all-wrong-3e19e2051f3e">Our Hiring Process is Broken. Can a Hackathon Fix It?</a></li>
 <li><a href="http://lindaeliasen.com/version-history/2015/9/28/on-quitting">On Quitting</a></li>
 <li><a href="http://www.latimes.com/opinion/op-ed/la-oe-0107-strauss-employment-discrimination-online-20160107-story.html">Applying for a job? Better delete your social media accounts.</a></li>
+<li><a href="http://www.nytimes.com/2016/05/15/business/dealbook/start-ups-embrace-arbitration-to-settle-workplace-disputes.html">Start-Ups Embrace Arbitration to Settle Workplace Disputes</a></li>
 </ul>

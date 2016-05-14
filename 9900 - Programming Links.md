@@ -265,6 +265,7 @@
 * https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96
 * http://blog.higher-order.com/blog/2014/12/21/maximally-powerful/
 * https://blog.jixee.me/my-top-ui-ux-prototyping-tools-for-2016/
+* http://www.nytimes.com/2016/05/15/technology/personaltech/when-websites-wont-take-no-for-an-answer.html
 
 
 
