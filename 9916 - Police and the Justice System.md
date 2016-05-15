@@ -9,6 +9,7 @@
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
 * https://fop.thecthulhu.com/ <- Fraternal Order of Police Data Dump
 * http://www.thestranger.com/news/feature/2016/02/17/23583708/thin-blue-line-meets-blinking-red-light
+* https://theintercept.com/2016/05/14/orange-county-scandal-jailhouse-informants/
 * http://crosscut.com/2016/04/fired-officers-can-become-hired-officers/
 * http://obsessionwithregression.blogspot.com/2016/01/racial-discrepancies-in-police-shootings.html
 * http://www.seattletimes.com/nation-world/baltimore-mayor-fires-police-commissioner/
