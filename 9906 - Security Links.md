@@ -6,6 +6,7 @@
 * http://bits.blogs.nytimes.com/2015/10/14/hackers-prove-they-can-pwn-the-lives-of-those-not-hyperconnected/
 * http://arstechnica.com/tech-policy/2015/12/hillary-clinton-wants-manhattan-like-project-to-break-encryption/
 * https://www.washingtonpost.com/world/national-security/security-of-critical-phone-database-called-into-question/2016/04/28/11c23b10-0c8d-11e6-a6b6-2e6de3695b0e_story.html
+* http://arstechnica.com/security/2016/05/google-dorking-when-pii-and-exploitable-bugs-are-only-a-search-away/
 * https://theintercept.com/2015/06/20/wikileaks-jacob-appelbaum-google-investigation/
 * http://www.wired.com/2015/06/united-flights-grounded-mysterious-problem/
 * http://arstechnica.com/security/2016/01/fatally-weak-md5-function-torpedoes-crypto-protections-in-https-and-ipsec/
