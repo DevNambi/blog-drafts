@@ -76,6 +76,7 @@
 * http://www.usatoday.com/story/news/nation/2015/04/16/parents-opt-out-standardized-tests/25896607/
 * http://iquantny.tumblr.com/post/114374455289/safe-hallways-successful-tests
 * http://www.seattletimes.com/education-lab/stunning-surge-in-graduation-rate-as-rainier-beach-gamble-pays-off/
+* http://www.nytimes.com/2016/05/18/upshot/why-poor-districts-receive-less-government-school-funding-than-rich-ones.html
 * http://www.theatlantic.com/education/archive/2015/11/principal-power-new-orleans-school/415911/
 * http://www.nytimes.com/2015/04/26/sunday-review/push-dont-crush-the-students.html
 * http://www.nytimes.com/2016/02/28/nyregion/new-york-teacher-gets-wise-at-a-hard-knocks-school.html

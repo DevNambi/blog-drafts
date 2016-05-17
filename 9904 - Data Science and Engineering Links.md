@@ -565,6 +565,7 @@
 * https://civisanalytics.com/blog/data-science/2016/01/06/workflows-python-using-pipeline-gridsearchcv-for-compact-code/
 * https://databricks.com/blog/2016/02/08/auto-scaling-scikit-learn-with-spark.html
 * http://sebastianraschka.com/blog/2015/why-python.html
+* http://www.dataschool.io/best-python-pandas-resources/
 
 
 
