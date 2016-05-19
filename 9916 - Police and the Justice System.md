@@ -12,6 +12,7 @@
 * https://theintercept.com/2016/05/14/orange-county-scandal-jailhouse-informants/
 * http://crosscut.com/2016/04/fired-officers-can-become-hired-officers/
 * http://obsessionwithregression.blogspot.com/2016/01/racial-discrepancies-in-police-shootings.html
+* http://www.theatlantic.com/magazine/archive/2016/06/a-reasonable-doubt/480747/?single_page=true
 * http://www.seattletimes.com/nation-world/baltimore-mayor-fires-police-commissioner/
 * http://arstechnica.com/tech-policy/2016/03/video-clears-texas-man-of-assaulting-cop-did-police-commit-perjury/
 * http://ignition.co/439 <- bad incentives can make things worse
