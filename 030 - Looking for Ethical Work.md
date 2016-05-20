@@ -70,6 +70,7 @@ Industries
 * http://www.vox.com/2015/8/10/9124145/effective-altruism-global-ai
 * http://mathbabe.org/2015/07/03/what-kind-of-happiness-should-we-strive-for/
 * http://www.fastcoexist.com/3056129/this-house-costs-just-20000-but-its-nicer-than-yours <- AMAZING, AMAZING WORK. DO MORE OF THIS. 
+* https://medium.com/@tristanharris/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3
 * https://insouciant.org/tech/back-to-sf-after-usds/
 * http://curbed.com/archives/2015/03/25/ikea-refugee-housing-production.php
 * http://www.theverge.com/2016/4/13/11387934/internet-moderator-history-youtube-facebook-reddit-censorship-free-speech
