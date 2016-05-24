@@ -72,6 +72,7 @@
 * http://www.antipope.org/charlie/blog-static/2015/05/thoughtcrime.html
 * http://newsoffice.mit.edu/2015/csail-report-government-access-data-major-security-risks-0707
 * http://www.sandiegouniontribune.com/news/2016/mar/26/law-enforcement-investigators-seek-out-private/all/
+* https://webtransparency.cs.princeton.edu/webcensus/index.html#fp-results
 * http://www.theatlantic.com/politics/archive/2016/01/vigilant-solutions-surveillance/427047/
 * http://www.nytimes.com/2016/02/02/technology/at-uc-berkeley-a-new-digital-privacy-protest.html
 * https://motherboard.vice.com/read/carnegie-mellon-university-attacked-tor-was-subpoenaed-by-feds <- Carnegie Mellon's up to no good
@@ -112,6 +113,7 @@
 * http://peter-whittaker.com/the-right-time-to-refuse/
 * http://www.theguardian.com/technology/2015/feb/13/apple-ceo-tim-cook-challenges-obama-privacy
 * https://theintercept.com/2015/11/12/edward-snowden-explains-how-to-reclaim-your-privacy/
+* http://littlesis.org/news/2016/05/18/you-are-being-followed-the-business-of-social-media-surveillance/
 * http://arstechnica.com/tech-policy/2015/11/france-passes-new-emergency-snooping-censorship-law-in-wake-of-paris-attacks/
 * http://arstechnica.com/tech-policy/2015/11/judge-stingrays-are-simply-too-powerful-without-adequate-oversight/
 * http://arstechnica.com/tech-policy/2015/10/german-parliament-passes-new-comprehensive-data-retention-law/

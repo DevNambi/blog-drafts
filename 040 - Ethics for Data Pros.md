@@ -173,6 +173,8 @@ https://www.dropbox.com/s/ho3jis36pxiid76/Screenshot%202014-07-19%2019.14.05.png
 * http://chronicle.com/article/Why-Privacy-Matters-Even-if-You-Have-Nothing-to-Hide/127461/
 * http://www.nakedcapitalism.com/2014/08/treatment-vaccine-ebola-1000-pill-hepatitis-c.html
 * http://www.forbes.com/sites/kashmirhill/2014/07/30/cloudflare-protection/
+* https://github.com/krasch/presentations/blob/master/pydata_Berlin_2016.pdf
+
 
 Affordable housing.
 	How much do people spend on a place to live?
