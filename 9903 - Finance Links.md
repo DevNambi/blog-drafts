@@ -335,6 +335,7 @@
 * http://moneyning.com/housing/the-five-year-rule-for-buying-a-house/
 * http://www.estately.com/occupation-real-estate-affordability
 * http://archinect.com/news/article/149938728/inside-aravena-s-open-source-plans-for-low-cost-yet-upgradable-housing
+* http://www.salon.com/2016/05/22/how_one_woman_beat_the_big_banks_the_amazing_true_story_about_how_wall_streets_mortgage_fraud_unraveled/
 
 
 
