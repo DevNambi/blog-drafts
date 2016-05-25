@@ -48,6 +48,7 @@
 * http://www.businessinsider.com/how-to-block-companies-tracking-you-on-facebook-2014-1
 * http://arstechnica.co.uk/tech-policy/2015/07/cameron-reaffirms-there-will-be-no-safe-spaces-from-uk-government-snooping/
 * https://www.washingtonpost.com/news/the-watch/wp/2016/03/10/surprise-nsa-data-will-soon-routinely-be-used-for-domestic-policing-that-has-nothing-to-do-with-terrorism/ <- The Stasi would be proud
+* http://techcrunch.com/2016/05/17/why-you-should-bet-big-on-privacy/
 * http://www.bbc.com/news/technology-34647704
 * http://www.technologyreview.com/news/538731/how-ads-follow-you-from-phone-to-desktop-to-tablet/
 * http://adage.com/article/datadriven-marketing/24-billion-data-business-telcos-discuss/301058/
