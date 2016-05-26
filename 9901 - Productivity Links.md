@@ -201,6 +201,7 @@ Embrace awkwardness more
 * http://www.productchart.com/smartphones/
 * http://arstechnica.com/business/2015/02/starting-today-wireless-carriers-have-to-unlock-your-phone/
 * http://spin.atomicobject.com/2015/02/15/cheap-long-term-backup-amazon-glacier-storage/
+* http://arstechnica.com/gadgets/2016/05/google-hopes-to-shame-slow-android-oems-with-update-rankings/
 * http://www.wired.com/?p=1663621&preview_id=1663621%2F
 * http://www.extremetech.com/extreme/175089-who-makes-the-most-reliable-hard-drives
 * http://techreport.com/review/28198/the-tech-report-system-guide-may-2015-edition

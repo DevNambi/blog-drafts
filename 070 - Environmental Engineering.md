@@ -125,6 +125,7 @@ Emphasize what we don't know
 * http://www.theguardian.com/environment/2016/mar/03/us-agency-says-has-beaten-elon-musk-gates-to-holy-grail-battery-storage
 * http://www.nakedcapitalism.com/2015/09/gaius-publius-will-senator-whitehouse-renew-his-call-for-rico-prosecution-of-climate-denying-companies-like-exxon.html
 * http://mobile.nytimes.com/2014/07/07/us/how-environmentalists-drew-blueprint-for-obama-emissions-rule.html
+* http://www.theatlantic.com/science/archive/2016/05/release-the-kraken/483884/?single_page=true
 * http://rsta.royalsocietypublishing.org/content/373/2053/20140379
 * http://www.bbc.com/news/magazine-34285658
 * http://www.wfaa.com/story/news/local/tarrant-county/2015/06/16/arlington-officials-report-on-fracking-fluid-blowout/28844657/

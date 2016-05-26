@@ -168,6 +168,7 @@
 * http://arstechnica.com/business/2015/06/verizon-ordered-to-finish-fiber-build-that-it-promised-but-didnt-deliver/
 * http://arstechnica.com/business/2015/01/fcc-chairman-mocks-industry-claims-that-customers-dont-need-faster-internet/
 * http://arstechnica.com/business/2014/12/att-wins-right-to-intervene-in-citys-fiber-broadband-plan/
+* http://arstechnica.com/business/2016/05/isps-and-pay-tv-lowest-rated-industries-with-comcast-worst-in-sector/
 * http://arstechnica.com/business/2016/04/fcc-proposes-new-price-regulations-for-cable-but-not-for-home-internet/
 * http://arstechnica.com/tech-policy/2015/03/man-who-sued-comcast-now-wants-over-5m-says-isp-shouldnt-have-smeared-him/
 * http://www.loomcom.com/blog/2015/02/22/its-comcastic-or-i-accidentally-bought-a-house-without-internet/
@@ -241,6 +242,7 @@
 * https://medium.com/life-learning/uber-vs-lyft-an-insiders-view-fb14ba0a3dbb
 * http://www.nytimes.com/2014/12/08/opinion/we-cant-trust-uber.html
 * http://www.washingtonpost.com/politics/uber-pressures-regulators-by-mobilizing-riders-and-hiring-vast-lobbying-network/2014/12/13/3f4395c6-7f2a-11e4-9f38-95a187e4c1f7_story.html
+* http://observer.com/2016/05/uber-driver-charged-with-attempted-murder-had-an-extensive-criminal-record/
 * http://arstechnica.com/business/2014/12/uber-imposes-4x-surge-pricing-in-wake-of-sydney-crisis-then-free-rides/
 * https://stallman.org/uber.html
 * https://twitter.com/denisemarie322/status/550572967273304065
