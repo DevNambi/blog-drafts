@@ -193,6 +193,7 @@
 
 * http://www.scientificamerican.com/article/regular-walking-can-help-ease-depression/
 * http://www.nytimes.com/2015/01/11/upshot/how-to-make-yourself-go-to-the-gym.html
+* http://www.mrmoneymustache.com/2016/05/25/recipe-for-a-badass-diy-electric-mountain-bike/
 * http://www.nerdfitness.com/blog/2015/11/05/stuck-at-the-starting-line-find-your-gateway-change/ <- good read
 * http://nautil.us/issue/22/slow/the-impossible-physiology-of-the-free-diver
 * http://www.nerdfitness.com/blog/2015/02/02/just-how-fast-can-i-get-the-body-i-want/
@@ -324,7 +325,7 @@
 * http://yourmedicalguide.info/italian-doctor-may-have-found-surprisingly-simple-cure-for-multiple-sclerosis/
 * http://nautil.us/issue/31/stress/what-alzheimers-feels-like-from-the-inside
 
-#### Antibiotics, Drug Resistance
+#### Antibiotics, Drug Resistance, Infectious Diseases
 
 * http://www.wired.com/2015/07/mers-isnt-epidemic-makes-harder-find-cure/
 pandemic-20150311-story.html
@@ -335,6 +336,7 @@ pandemic-20150311-story.html
 * http://www.nytimes.com/2014/12/04/world/asia/superbugs-kill-indias-babies-and-pose-an-overseas-threat.html
 * http://phenomena.nationalgeographic.com/2015/11/16/amr-weeks/
 * http://arstechnica.com/science/2015/11/pediatricians-say-farm-use-of-antibiotics-harms-children/
+* http://www.slate.com/articles/health_and_science/science/2016/01/zika_carrying_mosquitoes_are_a_global_scourge_and_must_be_stopped.html
 
 <li><a href="http://www.nature.com/news/antibiotic-resistance-the-last-resort-1.13426" time_added="1374949873" tags="domestic,health,important">Antibiotic resistance: The last resort : Nature News & Comment</a></li>
 
@@ -373,11 +375,6 @@ pandemic-20150311-story.html
 * http://www.extremetech.com/extreme/218689-what-are-endocrine-disruptors-and-how-should-you-protect-yourself-from-them
 
 
-#### Infectious Diseases
-
-* http://www.slate.com/articles/health_and_science/science/2016/01/zika_carrying_mosquitoes_are_a_global_scourge_and_must_be_stopped.html
-
-
 
 #### Unsorted
 
@@ -389,6 +386,7 @@ pandemic-20150311-story.html
 * https://vanwinkles.com/bedtime-for-benzodiazepines-addicted-drug-most-popular-sleeping-pills
 * http://andrewgelman.com/2015/08/04/pro-publicas-new-surgeon-scorecards/
 * http://www.theatlantic.com/science/archive/2016/02/clearing-retired-cells-extends-life/459723/
+* http://nautil.us/issue/11/Light/take-light-not-drugs
 * http://www.nytimes.com/2015/07/12/health/modern-doctors-house-calls-skype-chat-and-fast-diagnosis.html
 * http://www.theatlantic.com/magazine/archive/2014/10/why-i-hope-to-die-at-75/379329/
 * http://www.seattletimes.com/nation-world/some-acid-reflux-drugs-safety-questioned/

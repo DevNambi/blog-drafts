@@ -71,6 +71,7 @@
 * https://medium.com/@abhasvc/unicorns-vs-donkeys-your-handy-guide-to-distinguishing-who-s-who-f1b30942b2b6
 * https://www.useronboard.com/onboarding-teardowns/
 * https://lord.io/blog/2016/yayview/ <- how *not* to grow a startup.
+* https://medium.com/@stuartawillson/therohnos-who-really-gets-hurt-when-startups-blow-up-and-what-to-do-about-it-2110330d7880
 
 
 
