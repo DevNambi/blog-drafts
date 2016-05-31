@@ -90,6 +90,7 @@
 * http://www.nytimes.com/2015/07/09/nyregion/principal-to-be-fired-over-investigation-into-grade-fixing-at-a-brooklyn-school.html
 * http://bits.blogs.nytimes.com/2015/03/17/pearson-under-fire-for-monitoring-students-twitter-posts/
 * https://www.washingtonpost.com/local/education/study-says-standardized-testing-is-overwhelming-nations-public-schools/2015/10/24/8a22092c-79ae-11e5-a958-d889faf561dc_story.html
+* http://www.theatlantic.com/education/archive/2013/09/i-quit-teach-for-america/279724/
 * http://www.nytimes.com/2015/03/22/us/politics/schools-wait-to-see-what-becomes-of-no-child-left-behind-law.html
 * http://www.theatlantic.com/education/archive/2015/03/why-im-a-public-school-teacher-but-a-private-school-parent/386797/
 * http://emilytalmage.com/2015/10/22/gates-undercover/
@@ -592,6 +593,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nakedcapitalism.com/2015/10/elizabeth-warren-on-how-clinton-backed-student-loan-and-mortgage-debt-slavery-with-2005-bankruptcy-reform-vote.html
 * http://www.randalolson.com/2015/08/16/u-s-college-majors-median-yearly-earnings-vs-gender-ratio/
 * http://www.propublica.org/article/colleges-flush-with-cash-saddle-poorest-students-with-debt
+* http://www.seattletimes.com/seattle-news/education/uw-dental-faculty-slams-deans-fiscal-recovery-plan/ <- $300K to $400K in student debt?!
 * http://www.mcclatchydc.com/news/nation-world/national/article30646605.html
 * http://highereddatastories.blogspot.com/2014/11/what-is-pell-grant-worth.html
 * http://fivethirtyeight.com/datalab/loan-forgiveness-for-bad-faith-not-bad-bargain-schools/

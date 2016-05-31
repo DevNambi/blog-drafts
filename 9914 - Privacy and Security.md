@@ -57,6 +57,7 @@
 * http://arstechnica.com/security/2015/10/how-to-use-tor-messenger-the-most-secure-chat-program-around/
 * http://www.bbc.com/news/technology-35301148
 * http://www.defenseone.com/technology/2014/07/if-you-do-nsa-will-spy-you/88054/
+* http://www.nytimes.com/2016/05/30/technology/governments-turn-to-commercial-spyware-to-intimidate-dissidents.html
 * http://arstechnica.com/tech-policy/2016/05/surveillance-technology-has-advanced-far-beyond-the-laws-that-govern-it/
 * http://www.bbc.com/news/uk-34444233
 * http://www.wsj.com/articles/moxie-marlinspike-the-coder-who-encrypted-your-texts-1436486274

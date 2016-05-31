@@ -12,6 +12,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * https://backchannel.com/who-was-ramanujan-83b4d5b05665
 * http://www.nytimes.com/2016/03/22/science/randall-munroe-xkcd-science-textbook.html
 * https://liorpachter.wordpress.com/2015/07/10/the-myths-of-bioinformatics-software/
+* http://www.jasonshen.com/2016/new-napster-sci-hub-academic-publishing/
 * http://timothyharfield.com/blog/2016/01/24/why-academic-self-publishing-is-a-bad-idea-and-why-im-doing-it-anyway/
 * http://arstechnica.com/science/2015/08/100-psychology-experiments-repeated-less-than-half-successful/
 * http://www.wired.com/2016/03/science-education-woefully-uncreative-change/

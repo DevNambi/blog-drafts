@@ -349,6 +349,7 @@
 ## Poverty, Income Inequality, Class Warfare, 'American Dream'
 
 * http://www.gallup.com/opinion/chairman/181469/big-lie-unemployment.aspx
+* http://www.spiegel.de/international/tomorrow/a-1093371.html
 * https://morecrows.wordpress.com/2016/05/10/unnecessariat/
 * http://www.theguardian.com/commentisfree/2015/feb/12/debtors-prisons-illegal-america-ferguson-missouri-incarcerated
 * http://www.theatlantic.com/business/archive/2016/01/white-working-class-poverty/424341/

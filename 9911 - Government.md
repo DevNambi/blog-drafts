@@ -184,6 +184,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.washingtonpost.com/world/national-security/pentagon-loses-sight-of-500-million-in-counterterrorism-aid-given-to-yemen/2015/03/17/f4ca25ce-cbf9-11e4-8a46-b1dc9be5a8ff_story.html?hpid=z1
 * http://www.theatlantic.com/politics/archive/2015/06/these-21-republicans-voted-against-a-torture-ban/396095/
 * http://www.nytimes.com/2015/04/15/opinion/is-there-any-hope-left-for-yemen.html
+* http://www.washingtonpost.com/sf/investigative/wp/2016/05/27/fat-leonard/ <- makes you question a lot of things
 * http://www.nytimes.com/2015/04/14/world/asia/afghan-army-is-tested-by-the-taliban-as-fighting-season-begins.html
 * http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/ <- an insight piece
 * http://www.nytimes.com/2015/07/23/world/asia/afghan-security-forces-struggle-just-to-maintain-stalemate.html
