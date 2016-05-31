@@ -7,6 +7,7 @@
 
 
 * http://www.dailydot.com/politics/jeremy-hammond-terrorist-watchlist-fbi/
+* http://www.vanityfair.com/news/2015/11/airplane-maintenance-disturbing-truth
 * https://firstlook.org/theintercept/2015/08/03/political-staff-overruled-purists-state-department-tallied-countries-slavery-problems/
 * http://www.nytimes.com/2015/09/25/us/pope-francis-congress-speech.html
 * http://www.politico.com/story/2015/07/longer-airport-lines-likely-as-tsa-tries-to-plug-security-holes-120117.html
@@ -170,6 +171,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.spiegel.de/international/world/kofi-annan-on-why-drug-bans-are-ineffective-a-1078402.html
 * http://arstechnica.co.uk/security/2016/02/the-nsas-skynet-program-may-be-killing-thousands-of-innocent-people/ <- truly horrifying
 * http://www.nytimes.com/2016/01/09/world/americas/El-Chapo-captured-mexico.html
+* https://blackthen.com/we-did-it-they-hid-it-how-memorial-day-was-stripped-of-its-african-american-roots/
 * http://www.nytimes.com/2015/05/15/world/americas/colombia-halts-us-backed-spraying-of-illegal-coca-crops.html
 * https://www.newscientist.com/article/dn16297-intelligent-soldiers-most-likely-to-die-in-battle/
 * http://www.nakedcapitalism.com/2015/05/william-j-astore-the-american-military-uncontained-chaos-spread-casualties-inflicted-missions-unaccomplished.html
