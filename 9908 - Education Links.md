@@ -164,6 +164,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://www.insidehighered.com/news/2015/09/10/amid-competency-based-education-boom-meeting-help-colleges-do-it-right
 * https://www.insidehighered.com/quicktakes/2015/11/17/college-completion-rates-decline-more-rapidly
 * http://www.washingtonpost.com/sf/brand-connect/wp/enterprise/in-tennessee-tailored-data-helps-students/
+* http://www.nytimes.com/2016/06/02/upshot/why-college-students-drop-out-follow-the-dollars.html
 * http://www.nytimes.com/2015/08/31/technology/tools-for-tailored-learning-may-expose-students-personal-details.html
 * http://www.seattletimes.com/nation-world/study-more-than-a-third-of-us-college-students-transferred/
 * http://figshare.com/articles/Data_driven_Education_and_the_Quantified_Student/1495511
@@ -611,6 +612,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.finaid.org/loans/studentloandebtclock.phtml
 * http://www.nytimes.com/2015/01/25/upshot/a-quiet-revolution-in-helping-lift-the-burden-of-student-debt.html
 * https://www.americanprogress.org/issues/higher-education/report/2014/12/03/102407/state-disinvestment-in-higher-education-has-led-to-an-explosion-of-student-loan-debt/
+* http://www.theatlantic.com/business/archive/2016/06/for-profit-earnings/485141/
 * https://www.insidehighered.com/news/2014/12/12/cfpb-accuses-two-debt-relief-companies-predatory-practices
 * https://www.insidehighered.com/news/2014/12/15/federal-audit-faults-education-department-lack-plan-prevent-student-loan-defaults
 * http://www.theatlantic.com/business/archive/2014/12/mfas-an-increasingly-popular-increasingly-bad-financial-decision/383706/
