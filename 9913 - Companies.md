@@ -96,6 +96,7 @@
 * http://www.economist.com/news/business-and-finance/21685292-critics-argue-mark-zuckerbergs-generosity-cover-landgrab-facebooks-free-internet <- NO
 * http://www.bloomberg.com/features/2016-facebook-reactions-chris-cox/
 * http://www.theverge.com/2016/4/13/11387934/internet-moderator-history-youtube-facebook-reddit-censorship-free-speech
+* https://medium.com/@hunchly/bait-and-switch-the-failure-of-facebook-advertising-an-osint-investigation-37d693b2a858
 
 
 ## Apple

@@ -32,6 +32,7 @@
 * http://www.openculture.com/2015/08/the-neuroscience-of-drumming.html
 * http://www.mrmoneymustache.com/2015/08/31/electric-bike-reviews/
 * http://fivethirtyeight.com/datalab/best-age-friends-happiness-popularity-fake-research/
+* http://arstechnica.com/science/2016/06/how-world-war-ii-scientists-invented-a-data-driven-approach-to-fighting-fascism/
 * https://www.reddit.com/r/AskReddit/comments/3p0sl2/redditors_that_have_mastered_the_art_of_small/
 * http://www.theatlantic.com/health/archive/2015/10/how-friendships-change-over-time-in-adulthood/411466/
 * http://www.newyorker.com/books/page-turner/the-two-asian-americas
