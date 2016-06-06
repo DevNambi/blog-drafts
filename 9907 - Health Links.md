@@ -343,6 +343,7 @@ pandemic-20150311-story.html
 #### Epidemiology, Data, IT
 
 * http://www.extremetech.com/extreme/199602-fda-authorizes-23andme-to-market-health-related-genetic-testing
+* http://hcrenewal.blogspot.com/2016/05/uk-health-it-glitch-hundreds-of.html
 * http://news.softpedia.com/news/medical-equipment-crashes-during-heart-procedure-because-of-antivirus-scan-503642.shtml 
 * http://www.nytimes.com/2015/02/03/upshot/how-to-measure-a-medical-treatments-potential-for-harm.html <- super important
 * https://medium.com/war-is-boring/eating-too-much-rice-almost-sank-the-japanese-navy-f985772c81a6
@@ -655,6 +656,7 @@ pandemic-20150311-story.html
 
 
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
+* https://www.reddit.com/r/IAmA/comments/4lgnif/i_am_david_belk_im_a_doctor_who_has_spent_the/ <- REALLY IMPORTANT
 * http://www.nytimes.com/2016/04/29/us/colorado-weighs-replacing-obamas-health-policy-with-universal-coverage.html
 * http://www.alternet.org/personal-health/84000-hep-c-drug-only-1500
 * http://arstechnica.com/science/2016/02/pharmas-drug-hikes-doubled-average-cost-of-prescriptions-in-last-decade/

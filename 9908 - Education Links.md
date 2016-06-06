@@ -589,6 +589,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 ### Finance, Debt
 
 * http://seattletimes.com/html/nationworld/2025012950_apxcollegecosts.html
+* https://www.insidehighered.com/news/2016/05/31/study-finds-most-who-enroll-profit-colleges-experience-earning-declines
 * http://www.thenation.com/article/why-is-college-so-expensive-if-professors-are-paid-so-little/
 * http://highereddatastories.blogspot.com/2015/08/how-pell-grant-recipients-fare-at.html
 * http://www.nakedcapitalism.com/2015/10/elizabeth-warren-on-how-clinton-backed-student-loan-and-mortgage-debt-slavery-with-2005-bankruptcy-reform-vote.html
@@ -604,6 +605,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.fastcoexist.com/3045598/forget-harvard-heres-where-to-go-to-college-if-you-want-a-high-paying-job
 * http://www.thenation.com/blog/202849/campaign-refuse-student-debt-about-kick-overdrive
 * https://www.insidehighered.com/news/2015/03/30/education-department-will-release-list-colleges-found-be-risky-students-taxpayers
+* http://www.nakedcapitalism.com/2016/05/is-america-committing-slow-motion-suicide-a-look-at-the-decline-of-cuny.html
 * http://www.theatlantic.com/business/archive/2015/02/the-mental-and-physical-toll-of-student-loans/385032/
 * http://www.nytimes.com/2015/02/25/opinion/how-to-make-college-cheaper.html?_r=0
 * http://highereddatastories.blogspot.com/2015/01/colleges-or-investment-firms.html
