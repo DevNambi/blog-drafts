@@ -7,6 +7,7 @@
 
 
 * http://www.dailydot.com/politics/jeremy-hammond-terrorist-watchlist-fbi/
+* http://www.economist.com/news/international/21699906-freedom-speech-retreat-muzzle-grows-tighter
 * http://www.vanityfair.com/news/2015/11/airplane-maintenance-disturbing-truth
 * https://firstlook.org/theintercept/2015/08/03/political-staff-overruled-purists-state-department-tallied-countries-slavery-problems/
 * http://www.nytimes.com/2015/09/25/us/pope-francis-congress-speech.html
