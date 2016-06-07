@@ -503,6 +503,7 @@
 * http://www.pybloggers.com/ensemble-methods-elegant-techniques-to-produce-improved-machine-learning-results/
 * http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb
 * http://cleveralgorithms.com/nature-inspired/index.html <- AMAZING
+* https://jessesw.com/XG-Boost/
 
 
 
@@ -811,6 +812,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://segment.com/blog/the-totally-managed-analytics-pipeline/
 * http://venturebeat.com/2015/12/09/y-combinator-backed-etleap-launches-with-a-cloud-service-for-easy-data-cleaning/
 * http://prometheus.io/
+* http://www.grant-mckinnon.com/?p=56 <- setting up Jupiter on an AWS cluster
 * http://danosipov.com/?p=816
 * http://blog.kismatic.com/qa-with-malte-schwarzkopf-on-distributed-systems-orchestration-in-the-modern-data-center/
 * http://tech.adroll.com/blog/data/2013/07/10/hll-minhash.html
@@ -918,7 +920,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://blogs.aws.amazon.com/bigdata/post/Tx2HJD3Z74J2U8U/Running-an-External-Zeppelin-Instance-using-S3-Backed-Notebooks-with-Spark-on-Am
 * https://www.oreilly.com/ideas/apache-cassandra-for-analytics-a-performance-and-storage-analysis
 
-#### Tensorflow
+#### TensorFlow
 
 * https://github.com/pkmital/tensorflow_tutorials
 * https://github.com/jasimpson/tensorflow-on-aws
