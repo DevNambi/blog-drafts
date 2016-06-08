@@ -61,6 +61,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://please.hackmyresume.com/">Hack Your Resume - Auto-formatter</a></li>
 <li><a href="http://jacquesmattheij.com/my-passion-was-my-weak-spot">My Passion Was My Weak Spot</a></li>
 <li><a href="http://danluu.com/programmer-moneyball/">We only hire the trendiest</a></li>
+<li<a href="https://80000hours.org/career-guide/how-to-get-a-job/">All the best advice we could find on how to get a job</a></li>
 </ul>
 
 

@@ -92,6 +92,7 @@
 * http://www.midnightdba.com/DBARant/what-i-learned-writing-commercial-software/
 * http://www.dataorienteddesign.com/dodmain/
 * http://www.exceptionnotfound.net/fundamental-laws-of-software-development/
+* https://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers/answer/Jens-Rantil
 
 
 
