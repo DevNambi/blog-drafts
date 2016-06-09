@@ -549,6 +549,7 @@ pandemic-20150311-story.html
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://www.wvgazettemail.com/news-health/20160523/drug-firms-fueled-pill-mills-in-rural-wv
 * http://static.latimes.com/oxycontin-part1/ 
 * http://www.theguardian.com/society/2016/may/03/cause-of-death-united-states-medical-error
 * http://www.economist.com/news/science-and-technology/21695381-too-many-medical-trials-move-their-goalposts-halfway-through-new-initiative
