@@ -87,6 +87,7 @@ Industries
 * https://www.eff.org/deeplinks/2015/02/eff-files-amicus-brief-case-seeks-hold-ibm-responsible-facilitating-apartheid
 * http://www.businessinsider.com/technology-is-destroying-jobs-and-it-could-spur-a-global-crisis-2015-6
 * http://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/
+* http://www.economist.com/news/international/21699906-freedom-speech-retreat-muzzle-grows-tighter
 * http://www.ocregister.com/articles/jeon-62174-nguyen-captain.html
 * http://www.path.org/blog/2015/02/remembering-gaetano/
 * http://motherboard.vice.com/read/the-operators

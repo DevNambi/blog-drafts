@@ -233,6 +233,7 @@
 * http://www.thedailybeast.com/articles/2015/05/21/uber-disability-laws-don-t-apply-to-us.html
 * http://www.yesmagazine.org/new-economy/uber-unionized-worker-owned-co-op-denver-cabbies
 * http://www.theverge.com/2014/11/4/7150225/uber-is-recruiting-50000-veterans
+* http://www.bloomberg.com/news/articles/2016-05-31/inside-uber-s-auto-lease-machine-where-almost-anyone-can-get-a-car
 * http://www.modernluxury.com/san-francisco/story/the-smartest-bro-the-room
 * http://www.geekwire.com/2014/uber-exec-wanted-dig-dirt-expose-journalist-critical-column/
 * http://www.slate.com/blogs/moneybox/2015/02/02/uber_self_driving_cars_autonomous_taxis_aren_t_so_good_for_contractors_in.html <- so much the 'new economy' to empower people
@@ -356,6 +357,8 @@
 * http://rameznaam.com/2016/04/12/how-cheap-can-electric-vehicles-get/
 * http://www.extremetech.com/extreme/227324-why-automaker-cheating-threatens-the-self-driving-cAr
 * http://www.nytimes.com/2016/04/15/automobiles/wheels/automakers-revisit-tactics-that-hurt-them-before-recession.html
+* http://www.bloomberg.com/news/features/2016-06-02/sixty-million-car-bombs-inside-takata-s-air-bag-crisis
+
 
 
 ## Sports

@@ -781,6 +781,8 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://techcrunch.com/2015/11/26/machine-intelligence-in-the-real-world/
 * http://www.huffingtonpost.com/vala-afshar/2015-state-of-analytics-2_b_8611382.html
 * https://ckmadvisors.com/b/160212.html
+* https://medium.com/xeneta/boosting-sales-with-machine-learning-fbcf2e618be3
+	* https://github.com/Xeneta/leadQualifier
 
 
 
