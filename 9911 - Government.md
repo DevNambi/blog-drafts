@@ -353,6 +353,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.nytimes.com/2014/10/29/us/lobbyists-bearing-gifts-pursue-attorneys-general.html
 * http://blogs.seattletimes.com/opinionnw/2014/11/14/yet-another-flashing-light-at-state-department-of-social-and-health-services/
 * http://seattletimes.com/html/editorials/2025020073_edit1351postelection14xml.html
+* http://www.seattleweekly.com/news/when-an-oil-train-blows-up-in-seattle-whos-gonna-pay-for-it-2613104/
 * http://www.chicagotribune.com/news/watchdog/redlight/ct-red-light-camera-safety-met-20141219-story.html#page=1
 * http://www.thedailybeast.com/articles/2014/12/26/newest-u-s-stealth-fighter-10-years-behind-older-jets.html
 * http://arstechnica.com/tech-policy/2015/01/lawmakers-facebook-rant-threatens-media-for-unauthorized-use-of-his-name/
