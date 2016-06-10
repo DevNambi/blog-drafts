@@ -257,6 +257,7 @@
 * http://www.kdnuggets.com/2016/01/20-questions-to-detect-fake-data-scientists.html
 * http://www.remotedatascience.com/2016/02/skytruth-is-hiring-remote-machine.html
 * https://www.quora.com/What-are-20-questions-to-detect-fake-data-scientists
+* https://www.oreilly.com/ideas/2015-data-science-salary-survey
 
 @tdhopper - " Data scientists: "The hard part is data collection, cleaning, and problem formulation." D.S. giving an interview: "Tell me about math." "
 
@@ -371,7 +372,6 @@
 <li><a href="https://scottlocklin.wordpress.com/2014/07/22/neglected-machine-learning-ideas/" time_added="1407220696" tags="">https://scottlocklin.wordpress.com/2014/07/22/neglected-machine-learning-ideas/</a></li>
 <li><a href="http://www.reddit.com/r/MachineLearning/comments/1yi95m/what_i_most_wish_id_known_as_an_undergrad_go_to/" time_added="1392960192" tags="">What I most wish I'd known as an undergrad: Go to public talks! : MachineLe</a></li>
 <li><a href="http://nerds.airbnb.com/architecting-machine-learning-system-risk/" time_added="1403017632" tags="">http://nerds.airbnb.com/architecting-machine-learning-system-risk/</a></li>
-<li><a href="http://datacommunitydc.org/blog/2014/05/deep-learning-courses/" time_added="1401633895" tags="">http://datacommunitydc.org/blog/2014/05/deep-learning-courses/</a></li>
 <li><a href="http://ml.posthaven.com/machine-learning-done-wrong" time_added="1401813954" tags="">http://ml.posthaven.com/machine-learning-done-wrong</a></li>
 <li><a href="http://www.reddit.com/r/MachineLearning/comments/25lnbt/ama_yann_lecun/" time_added="1400280361" tags="">AMA: Yann LeCun : MachineLearning</a></li>
 <li><a href="http://burakkanber.com/blog/machine-learning-in-other-languages-introduction/" time_added="1391099558" tags="">http://burakkanber.com/blog/machine-learning-in-other-languages-introductio</a></li>
@@ -393,9 +393,7 @@
 <li><a href="http://jeremykun.wordpress.com/" time_added="1351729205" tags="data science,ml">http://jeremykun.wordpress.com/</a></li>
 <li><a href="http://jeremykun.wordpress.com/2012/08/04/machine-learning-introduction/" time_added="1348860832" tags="data science,ml">Machine Learning — Introduction | Math ∩ Programming</a></li>
 <li><a href="https://www.eso.org/public/archives/releases/sciencepapers/eso1241/eso1241a.pdf" time_added="1352524805" tags="data science">https://www.eso.org/public/archives/releases/sciencepapers/eso1241/eso1241a</a></li>
-<li><a href="http://calnewport.com/blog/2012/10/26/mastering-linear-algebra-in-10-days-astounding-experiments-in-ultra-learning/" time_added="1351271694" tags="data science">Study Hacks » Blog Archive » Mastering Linear Algebra in 10 Days: Astoundin</a></li>
 <li><a href="http://t.co/YcaSuomw" time_added="1355988869" tags="viz">StatFact: Compare machine learning algorithms at http://t.co/YcaSuomw</a></li>
-<li><a href="http://t.co/p9zvTWpA" time_added="1353778258" tags="data science,ml">drewconway: Deep learning snag front page of NY Times, with nice quotations</a></li>
 <li><a href="http://t.co/I4iX4Xbf" time_added="1349748126" tags="data science,ml,sql">briankmcdonald: Good read: Mike Milligan's Data Mining talk and Links: http</a></li>
 <li><a href="http://t.co/ZsnUlrZ3" time_added="1355428250" tags="ml">SQLRockstar: RT @MarkTabNet: Book: Journeys to Data Mining - Experiences fr</a></li>
 <li><a href="http://www.slate.com/articles/health_and_science/new_scientist/2012/12/kaggle_president_jeremy_howard_amateurs_beat_specialists_in_data_prediction.html" time_added="1355870412" tags="data science">Kaggle President Jeremy Howard: Amateurs beat specialists in data-predictio</a></li>
@@ -403,19 +401,16 @@
 <li><a href="http://peekaboo-vision.blogspot.de/2013/01/machine-learning-cheat-sheet-for-scikit.html" time_added="1359214997" tags="ml">Peekaboo: Machine Learning Cheat Sheet (for scikit-learn)</a></li>
 <li><a href="http://conductrics.com/data-science-resources-2" time_added="1359576947" tags="data science,ml">List of Machine Learning and Data Science Resources - Part 2 | Conductrics</a></li>
 <li><a href="http://www.kaggle.com/c/whale-detection-challenge" time_added="1360687349" tags="data science">Description - The Marinexplore and Cornell University Whale Detection Chall</a></li>
-<li><a href="http://www.kaggle.com/c/whale-detection-challenge/data" time_added="1360687183" tags="data science">Data - The Marinexplore and Cornell University Whale Detection Challenge - </a></li>
 
 * http://punkrockor.wordpress.com/2014/08/12/in-defense-of-model-simplicity/
 * https://medium.com/@xamat/10-more-lessons-learned-from-building-real-life-ml-systems-part-i-b309cafc7b5e
 * https://medium.com/@moonpolysoft/machine-learning-in-monitoring-is-bs-134e362faee2
 * http://edge.org/conversation/jaron_lanier-the-myth-of-ai
-* http://www.startup.ml/blog/hyperparam
 * https://www.quantamagazine.org/20151203-big-datas-mathematical-mysteries/
 * http://xyclade.github.io/MachineLearning/
 * http://www.infoq.com/presentations/machine-learning-general-programming <- brilliant
 * http://www.dataschool.io/comparing-supervised-learning-algorithms/
 * http://blog.dato.com/how-to-evaluate-machine-learning-models-part-1-orientation
-* http://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/
 * https://medium.com/@mikedewar/recommendation-engines-aren-t-for-maximising-metrics-they-are-for-designing-experiences-b2cb3395092c
 * http://fastml.com/real-time-interactive-movie-recommendation/
 * http://www.dailyuw.com/science/article_078a3b74-eef3-11e4-b1b5-b3a9ae4725b9.html
@@ -437,7 +432,6 @@
 * https://jakevdp.github.io/blog/2015/07/06/model-complexity-myth/
 * http://googleresearch.blogspot.com/2015/07/icml-2015-and-machine-learning-research.html
 * https://outlookzen.wordpress.com/2015/03/15/life-lessons-from-machine-learning/
-* https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
 * http://www.machinedlearnings.com/2015/07/icml-2015-review.html
 * http://research.microsoft.com/en-us/projects/r2/
 * http://probabilistic-programming.org/wiki/Home
@@ -446,15 +440,11 @@
 * http://blogs.technet.com/b/machinelearning/archive/2015/05/20/choosing-a-learning-algorithm-in-azure-ml.aspx
 * http://allenai.org/videos.html
 * http://jasonkolb.com/ill-be-back-how-the-internet-of-things-is-giving-birth-to-an-ai-renaissance/
-* http://katrinaeg.com/simulated-annealing.html
 * http://pralab.diee.unica.it/en/AdversariaLib
 * https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 * http://ppaml.galois.com/wiki/
-* http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/
-* http://timdettmers.wordpress.com/2014/09/21/how-to-build-and-use-a-multi-gpu-system-for-deep-learning/
 * http://www.newyorker.com/tech/elements/deepmind-artificial-intelligence-video-games
 * http://blog.shriphani.com/2014/11/12/the-isomap-algorithm/
-* http://karpathy.github.io/neuralnets/
 * http://machinelearningmastery.com/building-a-production-machine-learning-infrastructure/
 * https://aws.amazon.com/machine-learning/
 * http://planspace.org/20151129-see_sklearn_trees_with_d3/
@@ -462,7 +452,6 @@
 * http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 * http://datascopeanalytics.com/what-we-think/2014/09/18/hipster-classifier-icebreaker
 * http://www.mimno.org/articles/hdp/
-* http://www.i-programmer.info/news/105-artificial-intelligence/7352-the-flaw-lurking-in-every-deep-neural-net.html
 * http://www.infoq.com/news/2015/04/aws-launches-machine-learning
 * http://blogs.nvidia.com/blog/2014/11/17/microsoft-gpu-learn-faster/
 * http://spectrum.ieee.org/robotics/artificial-intelligence/the-unknown-startup-that-built-googles-first-selfdriving-ca
@@ -470,7 +459,6 @@
 * http://austingwalters.com/pca-principal-component-analysis/
 * https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43146.pdf
 * http://www.john-foreman.com/blog/the-perilous-world-of-machine-learning-for-fun-and-profit-pipeline-jungles-and-hidden-feedback-loops
-* http://betterexplained.com/articles/linear-algebra-guide/
 * http://setosa.io/ev/eigenvectors-and-eigenvalues/
 * http://techeffigytutorials.blogspot.com/2015/02/the-genetic-algorithm-explained.html
 * http://www.machinedlearnings.com/2015/02/adversarial-scenarios-and-economies-of.html
@@ -500,15 +488,15 @@
 * http://www.wired.com/2016/02/android-inventor-andy-rubin-playground-artificial-intelligence/
 * http://techblog.netflix.com/2016/02/recommending-for-world.html
 * http://www.pybloggers.com/ensemble-methods-elegant-techniques-to-produce-improved-machine-learning-results/
-* http://www.pybloggers.com/ensemble-methods-elegant-techniques-to-produce-improved-machine-learning-results/
 * http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb
 * http://cleveralgorithms.com/nature-inspired/index.html <- AMAZING
 * https://jessesw.com/XG-Boost/
 
 
 
-
 "ML tip: train a model to distinguish between your training set & unlabeled data. If it works, your training data may be incomplete!" - Jake Vanderplas
+
+
 
 
 #### Markov Chains
@@ -567,6 +555,7 @@
 * https://databricks.com/blog/2016/02/08/auto-scaling-scikit-learn-with-spark.html
 * http://sebastianraschka.com/blog/2015/why-python.html
 * http://www.dataschool.io/best-python-pandas-resources/
+* https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
 
 
 
@@ -606,22 +595,28 @@
 * http://karpathy.github.io/2012/10/22/state-of-computer-vision/
 
 
-#### Social Media
+#### Social Media, Graph Algorithms
 
 <li><a href="http://t.co/ZQOMUrte" time_added="1354389044" tags="data science">iSchoolSU: .@MSFTResearch is Hosting a Workshop on Analyzing Social Media D</a></li>
 
+* https://github.com/pmatiello/python-graph/tree/master/core/pygraph/algorithms
 
 #### Deep Learning / Neural Networks
 
+<li><a href="http://t.co/p9zvTWpA" time_added="1353778258" tags="data science,ml">drewconway: Deep learning snag front page of NY Times, with nice quotations</a></li>
+<li><a href="http://datacommunitydc.org/blog/2014/05/deep-learning-courses/" time_added="1401633895" tags="">http://datacommunitydc.org/blog/2014/05/deep-learning-courses/</a></li>
 <li><a href="http://moalquraishi.wordpress.com/2013/03/17/what-hintons-google-move-says-about-the-future-of-machine-learning/" time_added="1363562363" tags="ml">What Hinton’s Google Move Says About the Future of Machine Learning « Some </a></li>
 <li><a href="http://oreillynet.com/pub/e/2538" time_added="1363282942" tags="data science,ml">Webcast: Deep Learning - The Biggest Data Science Breakthrough of the Decad</a></li>
 
+* http://timdettmers.wordpress.com/2014/09/21/how-to-build-and-use-a-multi-gpu-system-for-deep-learning/
+* http://www.i-programmer.info/news/105-artificial-intelligence/7352-the-flaw-lurking-in-every-deep-neural-net.html
 * http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
 * http://karpathy.github.io/2015/05/21/rnn-effectiveness/ <- great
 * http://deepdish.io/2015/02/24/network-initialization/
 * http://nbviewer.ipython.org/gist/yoavg/d76121dfde2618422139
 * https://chronicle.com/article/article-content/190147/
 * http://blog.wtf.sg/
+* http://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/
 * https://timdettmers.wordpress.com/2015/03/09/deep-learning-hardware-guide/
 * http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
 * http://sebastianraschka.com/Articles/2015_singlelayer_neurons.html
@@ -670,11 +665,14 @@
 * http://googleresearch.blogspot.com/2016/02/exploring-intersection-of-art-and.html
 * http://www.aistartups.org/2016/03/some-starting-points-for-deep-learning.html
 * http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.67711&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification
-
+* http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/
+* http://karpathy.github.io/neuralnets/
 
 
 
 #### Network Optimization, Linear Algebra, NP-hard 
+
+<li><a href="http://calnewport.com/blog/2012/10/26/mastering-linear-algebra-in-10-days-astounding-experiments-in-ultra-learning/" time_added="1351271694" tags="data science">Study Hacks » Blog Archive » Mastering Linear Algebra in 10 Days: Astoundin</a></li>
 
 * http://mortada.net/drafts/the-traveling-tesla-salesman.html
 * https://developers.google.com/optimization/
@@ -683,12 +681,17 @@
 * http://rednuht.org/genetic_cars_2/
 * http://blog.evorithmics.org/2016/01/31/when-will-evolution-outperform-local-search/
 * http://chris-said.io/2016/02/28/four-pitfalls-of-hill-climbing/
+* http://betterexplained.com/articles/linear-algebra-guide/
+* http://katrinaeg.com/simulated-annealing.html
+
+
 
 #### ML Tools, Hyperparameters
 
 * https://blog.onliquid.com/machine-learning-service-benchmark/
 * blog.dato.com/a-hyperparameter-search-tool-built-for-data-science
 * http://dswalter.github.io/blog/overfitting-regularization-hyperparameters/
+* http://www.startup.ml/blog/hyperparam
 
 
 
