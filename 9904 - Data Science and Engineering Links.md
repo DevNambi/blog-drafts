@@ -556,6 +556,7 @@
 * http://sebastianraschka.com/blog/2015/why-python.html
 * http://www.dataschool.io/best-python-pandas-resources/
 * https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
+* https://ipgp.github.io/scientific_python_cheat_sheet/
 
 
 

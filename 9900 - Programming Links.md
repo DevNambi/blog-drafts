@@ -568,6 +568,7 @@
 * https://github.com/amontalenti/elements-of-python-style <- amazing
 * http://fbkarsdorp.github.io/python-course/
 * https://etscrivner.github.io/posts/2014/10/building-large-flask-apps-in-the-real-world/
+* https://ipgp.github.io/scientific_python_cheat_sheet/
 
 
 
