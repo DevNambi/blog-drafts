@@ -323,6 +323,7 @@
 * https://www.vividcortex.com/blog/why-percentiles-dont-work-the-way-you-think
 * http://daithiocrualaoich.github.io/kolmogorov_smirnov/
 * https://www.periscopedata.com/blog/outlier-detection-in-sql.html
+* http://www.dataschool.io/roc-curves-and-auc-explained/
 
 "Remember, nonlinear interactions, and non-Gaussian distributions are common. "
 

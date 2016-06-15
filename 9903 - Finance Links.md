@@ -462,6 +462,8 @@
 * http://www.bloombergview.com/articles/2016-03-28/listen-to-the-victims-of-the-free-market
 * http://www.theguardian.com/books/2016/apr/07/evicted-poverty-and-profit-in-the-american-city-matthew-desmond-review
 * http://www.theguardian.com/commentisfree/2016/apr/18/solution-everything-working-less-work-pressure
+* https://www.jacobinmag.com/2016/05/crowdfunding-kickstarter-gofundme-charity-taxes/
+
 
 
 
