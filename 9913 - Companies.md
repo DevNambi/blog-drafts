@@ -289,6 +289,7 @@
 * https://donmelton.com/2015/12/21/what-the-new-video-compression-strategy-from-netflix-means-for-apple-and-amazon/
 * http://bgr.com/2015/05/16/netflix-vs-amazon-prime-reality-shows/
 * http://www.businessinsider.com/cable-companies-cut-ads-because-of-netflix-2015-11?IR=T
+* http://www.nytimes.com/2016/06/19/magazine/can-netflix-survive-in-the-new-world-it-created.html
 
 
 

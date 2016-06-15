@@ -51,6 +51,7 @@
 * http://techcrunch.com/2016/05/17/why-you-should-bet-big-on-privacy/
 * http://www.bbc.com/news/technology-34647704
 * http://www.technologyreview.com/news/538731/how-ads-follow-you-from-phone-to-desktop-to-tablet/
+* http://blog.cryptographyengineering.com/2016/06/what-is-differential-privacy.html
 * http://adage.com/article/datadriven-marketing/24-billion-data-business-telcos-discuss/301058/
 * https://www.eff.org/privacybadger
 * http://arstechnica.com/tech-policy/2015/06/fake-mobile-phone-towers-discovered-in-london-stingrays-come-to-the-uk/
