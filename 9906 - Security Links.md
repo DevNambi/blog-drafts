@@ -10,12 +10,14 @@
 * https://danielmiessler.com/study/security-by-obscurity/
 * https://plus.google.com/+YonatanZunger/posts/ayXVWrFpQus
 * http://www.nytimes.com/2016/05/30/technology/governments-turn-to-commercial-spyware-to-intimidate-dissidents.html
+* http://www.khou.com/features/san-antonino-man-has-engine-that-gets-100-mpg/242673922
 * https://theintercept.com/2016/05/26/secret-text-in-senate-bill-would-give-fbi-warrantless-access-to-email-records/
 * http://arstechnica.com/security/2016/05/google-dorking-when-pii-and-exploitable-bugs-are-only-a-search-away/
 * https://theintercept.com/2015/06/20/wikileaks-jacob-appelbaum-google-investigation/
 * http://www.wired.com/2015/06/united-flights-grounded-mysterious-problem/
 * http://www.dailydot.com/politics/justin-shafer-fbi-raid/
 * http://arstechnica.com/security/2016/01/fatally-weak-md5-function-torpedoes-crypto-protections-in-https-and-ipsec/
+* http://boingboing.net/2016/06/15/intel-x86-processors-ship-with.html
 * http://arstechnica.com/gadgets/2016/02/tim-cook-says-apple-will-fight-us-govt-over-court-ordered-iphone-backdoor/ <- Bravo
 * http://mjg59.dreamwidth.org/40505.html
 * http://www.theregister.co.uk/2016/04/07/philippine_voter_data_breach/
