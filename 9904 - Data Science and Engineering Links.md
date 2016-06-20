@@ -933,6 +933,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://github.com/jasimpson/tensorflow-on-aws
 * http://eatcodeplay.com/installing-gpu-enabled-tensorflow-with-python-3-4-in-ec2/
 * http://googleresearch.blogspot.com/2016/04/announcing-tensorflow-08-now-with.html
+* https://www.oreilly.com/learning/hello-tensorflow
 
 
 

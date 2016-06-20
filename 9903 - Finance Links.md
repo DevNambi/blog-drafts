@@ -337,6 +337,8 @@
 * http://www.estately.com/occupation-real-estate-affordability
 * http://archinect.com/news/article/149938728/inside-aravena-s-open-source-plans-for-low-cost-yet-upgradable-housing
 * http://www.salon.com/2016/05/22/how_one_woman_beat_the_big_banks_the_amazing_true_story_about_how_wall_streets_mortgage_fraud_unraveled/
+* http://www.nakedcapitalism.com/2016/06/mortgage-document-fabrication-is-alive-and-well.html
+
 
 
 
@@ -586,6 +588,8 @@
 * http://wolfstreet.com/2016/03/10/secret-monetary-group-bis-warns-a-catastrophe-is-coming/
 * http://wolfstreet.com/2016/03/15/chart-shows-big-crash-ahead-rounded-top-pattern/
 * http://www.bloomberg.com/news/articles/2016-04-27/be-afraid-be-very-afraid-if-you-re-investing-for-the-long-run
+* http://wolfstreet.com/2016/06/12/american-middle-market-companies-growth-in-tough-economy/
+
 
 
 

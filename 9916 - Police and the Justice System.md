@@ -20,6 +20,7 @@
 * http://ignition.co/439 <- bad incentives can make things worse
 * http://www.theatlantic.com/politics/archive/2016/04/new-images-of-waco-bikers-fleeing-violence/477807/
 * http://www.abajournal.com/magazine/article/secret_snitches_california_case_uncovers_long_standing_practice_of_planting
+* http://www.alternet.org/grayzone-project/omar-mateen-committed-mass-murder-fbi-tried-lure-him-terror-plot
 * http://www.mlive.com/news/kalamazoo/index.ssf/2015/10/police_officer_charged_with_mi.html
 * http://www.slate.com/articles/news_and_politics/jurisprudence/2015/04/fbi_s_flawed_forensics_expert_testimony_hair_analysis_bite_marks_fingerprints.html
 * https://www.washingtonpost.com/news/the-watch/wp/2016/04/01/video-shows-white-cops-performing-roadside-cavity-search-of-black-man/

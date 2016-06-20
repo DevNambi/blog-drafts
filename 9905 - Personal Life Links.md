@@ -88,6 +88,8 @@
 * http://arstechnica.com/science/2016/01/poverty-may-alter-the-wiring-of-kids-brains/
 * https://www.scienceandnonduality.com/an-excerpt-from-it-didnt-start-with-you-how-inherited-family-trauma-shapes-who-we-are-and-how-to-end-the-cycle-viking-april-2016-by-mark-wolynn/
 * http://www.epi.org/child-care-costs-in-the-united-states/
+* http://www.seattletimes.com/pacific-nw-magazine/moms-lose-workplace-momentum-when-they-take-a-break-to-have-kids/
+
 
 <li><a href="http://www.economist.com/news/united-states/21608779-there-large-class-divide-how-americans-raise-their-children-rich-parents-can" time_added="1406589833" tags="">Parenting in America: Choose your parents wisely | The Economist</a><li>
 <li><a href="http://www.nytimes.com/2014/01/15/us/as-asian-americans-age-their-children-face-cultural-hurdles.html?hp&_r=0" time_added="1389749845" tags="">As Parents Age, Asian-Americans Struggle to Obey A Cultural Code - NYTimes.</a><li>
