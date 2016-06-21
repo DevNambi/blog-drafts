@@ -153,6 +153,7 @@
 * http://arstechnica.com/information-technology/2015/08/domain-hijacking-spear-phisher-foiled-by-the-last-line-of-defense-paranoia/
 * http://www.extremetech.com/computing/205000-rombertik-malware-attacks-hard-drives-wipes-mbr-if-detected
 * http://arstechnica.com/security/2015/05/fbi-researcher-admitted-to-hacking-plane-in-flight-causing-it-to-climb/
+* https://www.trustedsec.com/june-2016/introduction-gpu-password-cracking-owning-linkedin-password-dump/
 * http://www.theregister.co.uk/2015/08/27/malvertising_feature/
 * http://net-security.org/secworld.php?id=18411
 * http://arstechnica.com/security/2015/05/penn-state-severs-engineering-network-after-incredibly-serious-intrusion/
