@@ -694,6 +694,7 @@
 * blog.dato.com/a-hyperparameter-search-tool-built-for-data-science
 * http://dswalter.github.io/blog/overfitting-regularization-hyperparameters/
 * http://www.startup.ml/blog/hyperparam
+* http://sebastianruder.com/optimizing-gradient-descent/
 
 
 
