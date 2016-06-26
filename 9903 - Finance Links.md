@@ -73,6 +73,7 @@
 * http://www.theguardian.com/world/2015/oct/22/three-days-to-save-the-euro-greece
 * http://www.nytimes.com/2015/12/26/business/pawnshops-emerge-as-solid-lender-in-post-austerity-spain.html
 * http://wolfstreet.com/2016/02/03/hedge-funds-wall-street-not-happy-with-the-new-spain/
+* http://www.nakedcapitalism.com/2016/06/87726.html
 
 
 
