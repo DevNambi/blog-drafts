@@ -508,6 +508,7 @@
 * https://www.reddit.com/r/aws/comments/46iat0/what_third_party_tools_do_you_use_with_aws_that/
 * https://serverlesscode.com/post/deploy-scikitlearn-on-lamba/
 * https://sysdig.com/blog/amazon-elb-bug/
+* https://aws.amazon.com/blogs/aws/new-worldwide-delivery-of-amazon-sns-messages-via-sms/
 
 
 

@@ -215,6 +215,8 @@ Embrace awkwardness more
 * http://appleinsider.com/articles/15/10/17/apple-activates-quality-program-for-retina-macbook-coatings
 * http://www.ikea.com/us/en/catalog/products/S49084965/ <- cheaper standing desk. 
 * https://getskadi.com/ <- open-source Trello
+* http://security.stackexchange.com/questions/96713/how-does-windows-10-allow-microsoft-to-spy-on-you
+* https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/
 
 
 

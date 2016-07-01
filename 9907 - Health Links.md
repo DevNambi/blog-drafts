@@ -111,6 +111,8 @@
 * http://www.theatlantic.com/entertainment/archive/2015/11/the-myth-of-easy-cooking/417384/
 * http://nautil.us/issue/31/stress/what-your-microbiome-wants-for-dinner
 * http://www.theguardian.com/society/2016/apr/07/the-sugar-conspiracy-robert-lustig-john-yudkin
+* http://visual.ly/snake-oil
+
 
 
 
