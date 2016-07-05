@@ -550,6 +550,7 @@
 * http://www.newyorker.com/magazine/2016/02/29/mr-money-mustache-the-frugal-guru
 * http://www.nytimes.com/2016/02/21/business/yourtaxes/just-send-the-tax-bill-to-my-personal-irish-subsidiary.html
 * https://www.washingtonpost.com/news/wonk/wp/2015/09/28/this-sleazy-and-totally-illegal-savings-scheme-may-be-the-future-of-retirement/
+* https://github.com/zonination/investing/blob/master/README.md
 
 
 

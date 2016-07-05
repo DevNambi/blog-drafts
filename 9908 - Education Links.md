@@ -746,6 +746,11 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 
 
 
+## Data and Education
+
+* https://www.insidehighered.com/news/2016/06/28/researchers-outline-guidelines-ethical-use-student-data
+* http://chronicle.com/article/As-Big-Data-Comes-to-College/236934/
+
 
 
 
