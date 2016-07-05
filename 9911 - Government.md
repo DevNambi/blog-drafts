@@ -124,6 +124,7 @@
 * https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/
 * http://techblog.ca.gov/2016/02/department-of-technology-launches-office-of-digital-innovation-and-technology-engagement-innovation-lab/
 * https://18f.gsa.gov/2016/03/02/strategies-people-use-when-interacting-with-the-federal-government/
+* https://news.ycombinator.com/item?id=12028606 and http://www.govtech.com/civic/IT-Showdown-Tech-Giants-Face-Off-Against-18F.html
 
 
 ## Immigration
