@@ -324,6 +324,7 @@
 * http://daithiocrualaoich.github.io/kolmogorov_smirnov/
 * https://www.periscopedata.com/blog/outlier-detection-in-sql.html
 * http://www.dataschool.io/roc-curves-and-auc-explained/
+* http://www.jeannicholashould.com/the-theorem-every-data-scientist-should-know.html
 
 "Remember, nonlinear interactions, and non-Gaussian distributions are common. "
 
@@ -558,6 +559,7 @@
 * http://www.dataschool.io/best-python-pandas-resources/
 * https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
 * https://ipgp.github.io/scientific_python_cheat_sheet/
+* https://kozikow.wordpress.com/2016/07/01/top-pandas-functions-used-in-github-repos/
 
 
 

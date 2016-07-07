@@ -40,6 +40,7 @@
 * http://www.vox.com/2015/12/29/10634416/reading-list-books
 * https://www.researchgate.net/publication/283619534_Valuing_time_over_money_is_associated_with_greater_happiness
 * http://www.the-american-interest.com/2016/02/17/the-seven-habits-of-highly-depolarizing-people/
+* http://www.nytimes.com/2016/07/10/magazine/marie-kondo-and-the-ruthless-war-on-stuff.html
 
 
 
