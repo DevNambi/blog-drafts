@@ -90,6 +90,7 @@
 * https://www.scienceandnonduality.com/an-excerpt-from-it-didnt-start-with-you-how-inherited-family-trauma-shapes-who-we-are-and-how-to-end-the-cycle-viking-april-2016-by-mark-wolynn/
 * http://www.epi.org/child-care-costs-in-the-united-states/
 * http://www.seattletimes.com/pacific-nw-magazine/moms-lose-workplace-momentum-when-they-take-a-break-to-have-kids/
+* https://www.washingtonpost.com/news/wonk/wp/2016/07/06/many-americans-will-tell-you-having-kids-made-them-happier-theyre-probably-lying/
 
 
 <li><a href="http://www.economist.com/news/united-states/21608779-there-large-class-divide-how-americans-raise-their-children-rich-parents-can" time_added="1406589833" tags="">Parenting in America: Choose your parents wisely | The Economist</a><li>
