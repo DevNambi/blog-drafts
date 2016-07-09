@@ -493,6 +493,7 @@
 * http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb
 * http://cleveralgorithms.com/nature-inspired/index.html <- AMAZING
 * https://jessesw.com/XG-Boost/
+* https://www.quora.com/What-machine-learning-approaches-have-won-most-Kaggle-competitions/answer/Ben-Hamner
 
 
 
