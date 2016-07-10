@@ -137,6 +137,7 @@
 * http://www.nytimes.com/2016/02/28/upshot/what-its-really-like-to-risk-it-all-in-silicon-valley.html
 * https://newrepublic.com/article/124476/dispossessed-land-dreams 
 * http://minimaxir.com/2016/05/sfba-compensation/
+* http://qz.com/727855/silicon-valley-tech-workers-see-startups-and-silicon-valley-losing-their-luster/
 
 
 
