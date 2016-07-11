@@ -7,6 +7,10 @@
 * http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-map-us-police-killings <- amazingly useful, and disturbing
 
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
+* https://www.hackread.com/cell-411-smartphone-app-is-police-worst-nightmare/
+* http://theadvocate.com/news/police/16347562-93/baton-rouge-officials-and-police-critics-ask-if-all-police-shooting-investigations-should-be-outsour
+* https://www.washingtonpost.com/national/as-arrests-mount-in-baton-rouge-protesters-question-police-tactics/2016/07/10/8d695124-46f1-11e6-bdb9-701687974517_story.html
+* http://theadvocate.com/news/16367024-127/live-updates-more-alton-sterling-protests-beginning-in-baton-rouge
 * https://fop.thecthulhu.com/ <- Fraternal Order of Police Data Dump
 * http://www.thestranger.com/news/feature/2016/02/17/23583708/thin-blue-line-meets-blinking-red-light
 * http://www.news9.com/story/32168555/ohp-uses-new-device-to-seize-money-used-during-the-commission-of-a-crime <- well that's terrifyingly corrupt
