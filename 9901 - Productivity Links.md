@@ -217,6 +217,7 @@ Embrace awkwardness more
 * https://getskadi.com/ <- open-source Trello
 * http://security.stackexchange.com/questions/96713/how-does-windows-10-allow-microsoft-to-spy-on-you
 * https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/
+* http://motherboard.vice.com/read/warranty-void-if-removed-stickers-are-illegal
 
 
 

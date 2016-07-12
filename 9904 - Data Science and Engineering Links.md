@@ -493,6 +493,8 @@
 * http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb
 * http://cleveralgorithms.com/nature-inspired/index.html <- AMAZING
 * https://jessesw.com/XG-Boost/
+* https://www.quora.com/What-machine-learning-approaches-have-won-most-Kaggle-competitions/answer/Ben-Hamner
+* http://smerity.com/articles/2016/ml_not_magic.html
 
 
 
@@ -792,7 +794,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://ckmadvisors.com/b/160212.html
 * https://medium.com/xeneta/boosting-sales-with-machine-learning-fbcf2e618be3
 	* https://github.com/Xeneta/leadQualifier
-
+* http://www.nytimes.com/2016/07/10/technology/a-start-up-shies-away-from-the-gig-economy.html
 
 
 

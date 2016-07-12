@@ -75,6 +75,8 @@
 * http://wolfstreet.com/2016/02/03/hedge-funds-wall-street-not-happy-with-the-new-spain/
 * http://www.nakedcapitalism.com/2016/06/87726.html
 * http://www.zerohedge.com/news/2016-07-05/look-inside-europes-next-crisis-why-everyone-finally-panicking-about-italian-banks
+* http://www.economist.com/news/leaders/21701756-italys-teetering-banks-will-be-europes-next-crisis-italian-job
+* 
 
 
 

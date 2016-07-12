@@ -17,6 +17,7 @@
 * https://theintercept.com/2015/06/20/wikileaks-jacob-appelbaum-google-investigation/
 * http://www.wired.com/2015/06/united-flights-grounded-mysterious-problem/
 * https://twofactorauth.org/
+* http://arstechnica.com/security/2016/07/cissp-certification-how-to-hire-infosec-pros/
 * http://www.dailydot.com/politics/justin-shafer-fbi-raid/
 * http://arstechnica.com/security/2016/01/fatally-weak-md5-function-torpedoes-crypto-protections-in-https-and-ipsec/
 * http://boingboing.net/2016/06/15/intel-x86-processors-ship-with.html
