@@ -9,6 +9,7 @@
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
 * https://fop.thecthulhu.com/ <- Fraternal Order of Police Data Dump
 * http://www.thestranger.com/news/feature/2016/02/17/23583708/thin-blue-line-meets-blinking-red-light
+* https://www.propublica.org/article/common-roadside-drug-test-routinely-produces-false-positives
 * http://www.news9.com/story/32168555/ohp-uses-new-device-to-seize-money-used-during-the-commission-of-a-crime <- well that's terrifyingly corrupt
 * https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
 * https://theintercept.com/2016/05/14/orange-county-scandal-jailhouse-informants/
@@ -108,6 +109,7 @@
 * http://mobile.nytimes.com/2015/05/22/world/americas/police-killings-brazil-rio.html?_r=0
 * http://www.nbcnews.com/news/us-news/department-justice-states-should-not-jailed-over-fine-nonpayment-n537796
 * http://www.nytimes.com/2015/05/10/magazine/our-demand-is-simple-stop-killing-us.html
+* http://www.theatlantic.com/technology/archive/2016/07/monitorial-citizenship-technology/490286/
 * http://watchdog.org/218867/civil-forfeiture/
 * http://www.msn.com/en-us/news/us/mother-rejects-payout-refusing-to-stay-silent-in-lawsuit-against-cops-who-killed-her-son/ar-AAecbwL
 * http://www.thestranger.com/news/feature/2015/05/06/22172178/what-two-programmers-have-revealed-so-far-about-seattle-police-officers-who-are-still-in-uniform

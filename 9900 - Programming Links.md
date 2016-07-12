@@ -46,6 +46,7 @@
 * http://www.catonmat.net/blog/programming-competitions-work-performance/
 * https://www.fastcompany.com/28121/they-write-right-stuff <- how I want things to be like
 * http://hacksoflife.blogspot.com/2015/01/the-four-horsemen-of-performance.html
+* https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d
 * http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/
 * http://mattgemmell.com/confessions-of-an-ex-developer/
 * http://www.whoismcafee.com/three-guys-walk-into-a-microwave/
@@ -570,6 +571,7 @@
 * http://fbkarsdorp.github.io/python-course/
 * https://etscrivner.github.io/posts/2014/10/building-large-flask-apps-in-the-real-world/
 * https://ipgp.github.io/scientific_python_cheat_sheet/
+* https://github.com/awslabs/chalice
 
 
 

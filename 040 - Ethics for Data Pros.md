@@ -46,6 +46,7 @@ We believe we are working to make our society, our world, a better place. At the
 * http://deliprao.com/archives/129 <- critically important
 * http://andrewgelman.com/2014/12/23/using-statistics-make-world-better-place/
 * http://www.inference.phy.cam.ac.uk/sanjoy/schmidt/archive/social-anarchism.htm
+* https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d
 * http://www.drivendata.org/competitions/7/
 * http://fivethirtyeight.com/features/we-now-have-algorithms-to-predict-police-misconduct/
 * https://medium.com/@tristanharris/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3
