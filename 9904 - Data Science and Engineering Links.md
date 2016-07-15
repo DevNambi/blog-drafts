@@ -203,6 +203,7 @@
 * https://plot.ly/javascript/open-source-announcement/
 * https://medium.com/@uwdata/introducing-vega-lite-438f9215f09e
 * https://vega.github.io/vega-lite/tutorials/getting_started.html
+* https://github.com/ellisonbg/altair
 
 #### GGPlot2
 
@@ -562,6 +563,7 @@
 * https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
 * https://ipgp.github.io/scientific_python_cheat_sheet/
 * https://kozikow.wordpress.com/2016/07/01/top-pandas-functions-used-in-github-repos/
+* https://github.com/tomaugspurger/modern-pandas
 
 
 
