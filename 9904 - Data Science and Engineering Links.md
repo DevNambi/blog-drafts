@@ -259,6 +259,8 @@
 * http://www.remotedatascience.com/2016/02/skytruth-is-hiring-remote-machine.html
 * https://www.quora.com/What-are-20-questions-to-detect-fake-data-scientists
 * https://www.oreilly.com/ideas/2015-data-science-salary-survey
+* https://www.oreilly.com/ideas/5-secrets-for-writing-the-perfect-data-scientist-resume
+
 
 @tdhopper - " Data scientists: "The hard part is data collection, cleaning, and problem formulation." D.S. giving an interview: "Tell me about math." "
 
