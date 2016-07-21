@@ -222,6 +222,7 @@
 * http://www.buzzfeed.com/mathonan/searching-for-google-ceo-sundar-pichai-the-most-powerful-tec
 * http://www.theverge.com/2016/4/13/11387934/internet-moderator-history-youtube-facebook-reddit-censorship-free-speech
 * http://arstechnica.com/information-technology/2016/06/google-deepmind-alphago-ke-jie-match-details/
+* http://www.bloomberg.com/news/articles/2016-07-21/google-sprints-ahead-in-ai-building-blocks-leaving-rivals-wAry
 
 
 ## Uber

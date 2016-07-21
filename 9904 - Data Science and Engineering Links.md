@@ -678,6 +678,7 @@
 * http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/
 * http://karpathy.github.io/neuralnets/
 * http://ofir.io/How-to-Start-Learning-Deep-Learning/
+* https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
 
 
 
@@ -799,6 +800,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://medium.com/xeneta/boosting-sales-with-machine-learning-fbcf2e618be3
 	* https://github.com/Xeneta/leadQualifier
 * http://www.nytimes.com/2016/07/10/technology/a-start-up-shies-away-from-the-gig-economy.html
+* http://www.bloomberg.com/news/articles/2016-07-21/google-sprints-ahead-in-ai-building-blocks-leaving-rivals-wAry
 
 
 
