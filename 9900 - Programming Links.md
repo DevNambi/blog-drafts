@@ -572,6 +572,7 @@
 * https://etscrivner.github.io/posts/2014/10/building-large-flask-apps-in-the-real-world/
 * https://ipgp.github.io/scientific_python_cheat_sheet/
 * https://github.com/awslabs/chalice
+* http://docs.python-guide.org/en/latest/
 
 
 

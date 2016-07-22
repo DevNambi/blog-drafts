@@ -125,6 +125,7 @@
 * http://techblog.ca.gov/2016/02/department-of-technology-launches-office-of-digital-innovation-and-technology-engagement-innovation-lab/
 * https://18f.gsa.gov/2016/03/02/strategies-people-use-when-interacting-with-the-federal-government/
 * https://news.ycombinator.com/item?id=12028606 and http://www.govtech.com/civic/IT-Showdown-Tech-Giants-Face-Off-Against-18F.html
+* https://backchannel.com/inside-the-obama-tech-surge-as-it-hacks-the-pentagon-and-va-8b439bc33ed1
 
 
 ## Immigration
@@ -305,6 +306,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.thenation.com/article/the-cia-waterboarded-the-wrong-man-83-times-in-1-month/
 * https://mastermind.atavist.com/the-next-big-deal
 * https://warisboring.com/the-u-s-navy-s-big-mistake-building-tons-of-supercarriers-79cb42029b8
+* https://warisboring.com/in-1971-the-u-s-navy-almost-fought-the-soviets-over-bangladesh-c65489bc72c0
 
 
 

@@ -264,6 +264,7 @@
 * https://snipcart.com/blog/ad-blockers-saas-web-developers
 * http://www.bostonglobe.com/business/2015/10/25/the-internet-ads-that-would-not-die/2IiIl1niWZZZymfCy23cuN/story.html
 * http://idlewords.com/2015/11/the_advertising_bubble.htm
+* http://adcontrarian.blogspot.ca/2016/07/tons-of-data-and-not-ounce-of-sense.html
 
 ### CISA 2015
 

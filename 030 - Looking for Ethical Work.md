@@ -62,6 +62,7 @@ Industries
 <li><a href="http://t.co/hAT4j6eODd" time_added="1370046159" tags="big data,data ethics,health">A 49,000-CPU supercomputer may have figured out how to stop HIV. Badass. bi</a></li>
 
 * http://www.theatlantic.com/health/archive/2012/10/why-were-still-waiting-on-the-yelpification-of-health-care/263815/
+* https://backchannel.com/inside-the-obama-tech-surge-as-it-hacks-the-pentagon-and-va-8b439bc33ed1
 * http://www.theatlantic.com/business/archive/2015/06/what-is-the-greatest-good/395768/?single_page=true
 * http://www.businessinsider.com/super-cheap-genome-sequencing-by-2020-2014-10
 * http://www.propublica.org/article/the-whistleblowers-tale-how-an-accountant-took-on-halliburton
