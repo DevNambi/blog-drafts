@@ -140,6 +140,8 @@
 * https://popehat.com/2015/04/29/cops-we-need-rights-more-than-you-citizen/
 * http://www.thedailybeast.com/articles/2015/04/07/nj-police-allow-their-dog-to-fatally-maul-a-man.html
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2015/05/11/how-the-dea-took-a-young-mans-life-savings-without-ever-charging-him-of-a-crime/
+* http://www.theage.com.au/world/they-electrocuted-me-say-indonesias-deathrow-prisoners-nearing-execution-20160724-gqcm73.html
+* http://www.reuters.com/article/us-usa-police-gear-exclusive-idUSKCN1012KW
 * http://www.latimes.com/nation/la-na-dea-chong-20150505-story.html
 * http://countercurrentnews.com/2015/03/tony-robinson-madison-police/
 * https://www.facebook.com/video.php?v=1009126519115252 <- police kill a homeless man *after* holding him down. WARNING: GRAPHIC
