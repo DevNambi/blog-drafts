@@ -696,6 +696,7 @@
 * http://chris-said.io/2016/02/28/four-pitfalls-of-hill-climbing/
 * http://betterexplained.com/articles/linear-algebra-guide/
 * http://katrinaeg.com/simulated-annealing.html
+* https://begriffs.com/posts/2016-07-24-best-linear-algebra-books.html
 
 
 

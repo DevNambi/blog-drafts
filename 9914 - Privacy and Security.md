@@ -37,6 +37,7 @@
 * https://theintercept.com/surveillance-catalogue/
 * http://arstechnica.com/security/2015/03/anti-doxing-strategy-or-how-to-avoid-50-qurans-and-287-of-chick-fil-a/ <- incredibly important read
 * http://monica-at-mozilla.blogspot.com/2015/05/tracking-protection-for-firefox-at-web.html <- priceless
+* https://meduza.io/en/feature/2016/07/14/the-end-of-privacy
 * http://www.latimes.com/nation/la-na-supreme-court-data-privacy-20151102-story.html
 * http://seattletimes.com/html/businesstechnology/2025244750_apxtecidentitytheftthehassle.html
 * https://www.eff.org/deeplinks/2015/06/why-facebook-failed-our-censorship-test

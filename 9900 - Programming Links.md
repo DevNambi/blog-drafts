@@ -202,6 +202,7 @@
 * https://medium.com/learning-new-stuff/a-simple-technique-to-learn-hard-stuff-ffaa7879bf7c
 * http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner
 * http://overapi.com/ <- language cheat sheets
+* https://github.com/hemanth/functional-programming-jargon
 
 
 
@@ -451,6 +452,7 @@
 * http://bits.blogs.nytimes.com/2015/09/09/google-follows-amazon-web-services-into-on-demand-supercomputing/
 * http://googlecloudplatform.blogspot.com/2015/05/Introducing-Preemptible-VMs-a-new-class-of-compute-available-at-70-off-standard-pricing.html
 * http://www.51zero.com/blog/google-reveals-its-cloud-computing-vision
+* http://www.nytimes.com/2016/07/25/technology/google-races-to-catch-up-in-cloud-computing.html
 
 
 ### AWS (Amazon Web Services)
