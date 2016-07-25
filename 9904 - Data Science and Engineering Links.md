@@ -420,6 +420,7 @@
 * http://fastml.com/real-time-interactive-movie-recommendation/
 * http://www.dailyuw.com/science/article_078a3b74-eef3-11e4-b1b5-b3a9ae4725b9.html
 * http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
+* https://medium.com/@james_aka_yale/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa
 * http://alex.smola.org/talks/NIPS15.pdf
 * https://www.kaggle.com/users/195999/henning-sperr/otto-group-product-classification-challenge/finding-ensamble-weights
 * http://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/

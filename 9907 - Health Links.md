@@ -486,6 +486,7 @@ pandemic-20150311-story.html
 * http://hcrenewal.blogspot.com/2015/11/ross-koppel-challenges-feckless.html
 * http://www.nytimes.com/2015/12/08/upshot/your-new-medical-team-algorithms-and-physicians.html
 * http://www.laweekly.com/news/medical-marijuana-states-see-big-drop-in-drug-prescriptions-and-medicare-spending-7168951
+* http://arstechnica.com/science/2016/07/collective-diagnoses-are-better-only-if-doctors-are-similarly-skilled/
 
 
 

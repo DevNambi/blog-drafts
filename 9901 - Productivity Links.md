@@ -86,6 +86,7 @@
 * https://medium.com/learning-new-stuff/a-simple-technique-to-learn-hard-stuff-ffaa7879bf7c
 * http://www.theatlantic.com/business/archive/2015/05/being-a-go-getter-is-no-fun/393863/
 * http://priceonomics.com/how-young-adults-spend-their-time-2004-vs-2014/
+* https://www.washingtonpost.com/news/wonk/wp/2016/07/25/why-happiness-might-be-getting-in-the-way-of-your-artistic-brilliance/
 
 
 

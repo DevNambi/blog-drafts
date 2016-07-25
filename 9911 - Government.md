@@ -410,6 +410,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://www.bostonglobe.com/magazine/2015/12/29/years-later-did-big-dig-deliver/tSb8PIMS4QJUETsMpA7SpI/story.html
 * http://www.seattletimes.com/seattle-news/transportation/i-405-tolls-rake-in-more-than-3-times-expected-income/ <- look at costs. 3rd-party provider is taking a huge chunk of the money, for what? 
 * http://www.seattletimes.com/opinion/letters-to-the-editor/sound-transit-3-draft-plan-readers-first-reactions/
+* http://humantransit.org/2015/07/mega-explainer-the-ridership-recipe.html
 
 
 

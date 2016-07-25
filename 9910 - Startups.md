@@ -111,6 +111,7 @@
 * http://lookatmeimdanny.tumblr.com/post/101432017159/how-putting-10m-into-ubeam-illustrates-everything-that
 * https://medium.com/@toddg777/after-24-months-we-just-made-our-first-hire-272e27a95bc4
 * http://blog.sawhorsemedia.com/post/104076088572/how-were-spending-55-930-08-a-year-on-saas
+* https://backchannel.com/how-i-founded-a-2-billion-dollar-company-with-a-95-cent-book-from-radioshack-8143e0d9607d
 
 
 
