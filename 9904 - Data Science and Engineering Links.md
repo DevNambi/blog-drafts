@@ -804,6 +804,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 	* https://github.com/Xeneta/leadQualifier
 * http://www.nytimes.com/2016/07/10/technology/a-start-up-shies-away-from-the-gig-economy.html
 * http://www.bloomberg.com/news/articles/2016-07-21/google-sprints-ahead-in-ai-building-blocks-leaving-rivals-wAry
+* https://medium.com/@dbreunig/the-business-implications-of-machine-learning-11480b99184d
 
 
 

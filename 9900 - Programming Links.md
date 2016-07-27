@@ -453,6 +453,9 @@
 * http://googlecloudplatform.blogspot.com/2015/05/Introducing-Preemptible-VMs-a-new-class-of-compute-available-at-70-off-standard-pricing.html
 * http://www.51zero.com/blog/google-reveals-its-cloud-computing-vision
 * http://www.nytimes.com/2016/07/25/technology/google-races-to-catch-up-in-cloud-computing.html
+* - Morning Weight: 259
+- Take heartburn meds
+
 
 
 ### AWS (Amazon Web Services)
