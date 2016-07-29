@@ -94,6 +94,8 @@
 * http://www.dataorienteddesign.com/dodmain/
 * http://www.exceptionnotfound.net/fundamental-laws-of-software-development/
 * https://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers/answer/Jens-Rantil
+* https://theintercept.com/2016/07/29/a-famed-hacker-is-grading-thousands-of-programs-and-may-revolutionize-software-in-the-process/
+
 
 
 
@@ -880,6 +882,7 @@ things they believe in will keep </a></li>
 * http://ericgreer.info/github/funny/stupidity/2016/02/28/judging-the-stupidity-of-github-projects.html
 * http://www.itworld.com/article/2995053/careers/banks-severance-deal-requires-it-workers-to-be-on-call-for-two-years.html <- good luck getting any good support out of this. 
 * http://vimeo.com/146524997 <- another James Mickens classic
+* https://github.com/Droogans/unmaintainable-code <- pure evil
 
 
 

@@ -93,6 +93,7 @@
 * http://www.theatlantic.com/education/archive/2013/09/i-quit-teach-for-america/279724/
 * http://www.nytimes.com/2015/03/22/us/politics/schools-wait-to-see-what-becomes-of-no-child-left-behind-law.html
 * http://www.theatlantic.com/education/archive/2015/03/why-im-a-public-school-teacher-but-a-private-school-parent/386797/
+* https://medium.com/@cscalfani/why-experts-make-bad-teachers-ccaed2df029b
 * http://emilytalmage.com/2015/10/22/gates-undercover/
 * http://truestories.gawker.com/all-the-children-are-ours-essays-from-school-teachers-1679254821/1679318066/+maxread
 * https://credo.stanford.edu/

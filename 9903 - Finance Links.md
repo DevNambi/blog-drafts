@@ -133,6 +133,7 @@
 * http://www.nakedcapitalism.com/2015/08/the-challenges-of-the-greek-crisis.html
 * http://www.nakedcapitalism.com/2015/11/the-disaster-of-greek-austerity-what-next.html
 * http://www.nakedcapitalism.com/2016/02/grexit-risk-may-be-back-sooner-than-you-think.html
+* http://www.telegraph.co.uk/business/2016/07/28/imf-admits-disastrous-love-affair-with-euro-apologises-for-the-i/
 
 
 

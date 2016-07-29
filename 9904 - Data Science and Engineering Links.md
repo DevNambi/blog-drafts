@@ -568,6 +568,7 @@
 * https://ipgp.github.io/scientific_python_cheat_sheet/
 * https://kozikow.wordpress.com/2016/07/01/top-pandas-functions-used-in-github-repos/
 * https://github.com/tomaugspurger/modern-pandas
+* http://www.scipy-lectures.org/
 
 
 
@@ -758,7 +759,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * https://medium.com/@adailyventure/big-data-is-dead-all-aboard-the-ai-hype-train-ae89c8d64cc3
 * http://101.datascience.community/2015/12/21/the-most-popular-skills-and-degrees-of-todays-data-scientists/
 * http://blogs.nvidia.com/blog/2016/02/24/enrollment-in-machine-learning/
-
+* https://medium.com/@akelleh/understanding-bias-a-pre-requisite-for-trustworthy-results-ee590b75b1be
 
 
 ## Funny

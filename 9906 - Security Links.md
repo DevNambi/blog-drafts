@@ -22,6 +22,7 @@
 * http://arstechnica.com/security/2016/01/fatally-weak-md5-function-torpedoes-crypto-protections-in-https-and-ipsec/
 * http://boingboing.net/2016/06/15/intel-x86-processors-ship-with.html
 * http://arstechnica.com/gadgets/2016/02/tim-cook-says-apple-will-fight-us-govt-over-court-ordered-iphone-backdoor/ <- Bravo
+* https://theintercept.com/2016/07/29/a-famed-hacker-is-grading-thousands-of-programs-and-may-revolutionize-software-in-the-process/ <- LONG overdue
 * http://mjg59.dreamwidth.org/40505.html
 * http://www.theregister.co.uk/2016/04/07/philippine_voter_data_breach/
 * http://arstechnica.com/tech-policy/2016/01/dutch-government-encryption-good-backdoors-bad/
