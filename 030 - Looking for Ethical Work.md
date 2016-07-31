@@ -170,6 +170,7 @@ Industries
 * http://www.seattletimes.com/nation-world/ap-investigation-slavery-taints-global-supply-of-seafood-2/
 * http://www.extremetech.com/extreme/186647-handheld-device-allows-anyone-to-instantly-test-drinks-for-date-rape-drugs
 * http://arstechnica.com/business/2015/09/songwriter-tells-us-house-he-made-5679-from-178-million-spotify-streams/
+* https://www.washingtonpost.com/sports/olympics/olympic-executives-cash-in-on-a-movement-that-keeps-athletes-poor/2016/07/30/ed18c206-5346-11e6-88eb-7dda4e2f2aec_story.html
 
 
 * http://www.nytimes.com/2016/03/18/technology/apple-encryption-engineers-if-ordered-to-unlock-iphone-might-resist.html?_r=0

@@ -92,6 +92,7 @@
 * http://www.epi.org/child-care-costs-in-the-united-states/
 * http://www.seattletimes.com/pacific-nw-magazine/moms-lose-workplace-momentum-when-they-take-a-break-to-have-kids/
 * https://www.washingtonpost.com/news/wonk/wp/2016/07/06/many-americans-will-tell-you-having-kids-made-them-happier-theyre-probably-lying/
+* http://www.nerdfitness.com/blog/2016/07/25/the-shit-they-dont-tell-you-12-things-new-parents-need-to-know/
 
 
 <li><a href="http://www.economist.com/news/united-states/21608779-there-large-class-divide-how-americans-raise-their-children-rich-parents-can" time_added="1406589833" tags="">Parenting in America: Choose your parents wisely | The Economist</a><li>
