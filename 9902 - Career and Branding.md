@@ -69,6 +69,7 @@
 * http://www.gkogan.co/blog/how-i-learned-to-get-consulting-leads/
 * https://stayintech.com/info/sideproject
 * https://medium.com/@marknutter/advice-for-the-freelance-developer-68b63c69b050
+* https://ozar.me/2014/10/business/
 
 
 

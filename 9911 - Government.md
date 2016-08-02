@@ -126,6 +126,7 @@
 * https://18f.gsa.gov/2016/03/02/strategies-people-use-when-interacting-with-the-federal-government/
 * https://news.ycombinator.com/item?id=12028606 and http://www.govtech.com/civic/IT-Showdown-Tech-Giants-Face-Off-Against-18F.html
 * https://backchannel.com/inside-the-obama-tech-surge-as-it-hacks-the-pentagon-and-va-8b439bc33ed1
+* http://datasmart.ash.harvard.edu/news/article/municipal-analytics-the-startup-way-873
 
 
 ## Immigration

@@ -32,6 +32,7 @@
 * http://www.marketingweek.com/2015/07/08/consumers-are-dirtying-databases-with-false-details/?nocache=true&adfesuccess=1
 * http://www.wired.com/2015/10/cars-that-talk-to-each-other-are-much-easier-to-spy-on/
 * http://www.mondaynote.com/2015/08/03/what-the-ad-blocker-debate-reveals/
+* http://www.extremetech.com/internet/180485-the-ultimate-guide-to-staying-anonymous-and-protecting-your-privacy-online
 * http://m.thenation.com/article/208593-you-can-be-prosecuted-clearing-your-browser-history
 * https://mitpress.mit.edu/books/obfuscation
 * https://bananas.liberty.me/youre-a-criminal-in-a-mass-surveillance-world-how-to-not-get-caught/ <- critically important

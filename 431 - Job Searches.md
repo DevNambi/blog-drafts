@@ -63,6 +63,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://danluu.com/programmer-moneyball/">We only hire the trendiest</a></li>
 <li><a href="https://80000hours.org/career-guide/job-satisfaction/">We reviewed over 60 studies about what makes for a dream job. Here’s what we found.</a></li>
 <li<a href="https://80000hours.org/career-guide/how-to-get-a-job/">All the best advice we could find on how to get a job</a></li>
+<li><a href="https://dribbble.com/shots/2873870-HTML-Email-Cover-Letter">HTML Email Cover Letter</a></li>
 </ul>
 
 
@@ -239,6 +240,7 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 <li><a href="https://github.com/jlevy/og-equity-compensation">The Open Guide to Equity Compensation</a></li>
 <li><a href="https://blog.step.com/2016/04/08/an-open-source-project-for-tech-salaries/">GOOGLE, FACEBOOK, AMAZON AND MICROSOFT SALARIES</a></li>
 <li><a href="https://www.comparably.com/blog/whos-negotiating-their-salary-in-tech/">Salary Negotiations Study: Data from Tech Employees</a>
+<li><a href="https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6">Ten Rules for Negotiating a Job Offer</a></li>
 </ul>
 
 

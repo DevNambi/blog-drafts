@@ -661,6 +661,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://highereddatastories.blogspot.com/2016/06/public-institutions-and-low-income.html
 * http://www.nytimes.com/2016/07/10/upshot/america-can-fix-its-student-loan-crisis-just-ask-australia.html
 * http://www.theatlantic.com/education/archive/2016/07/the-paradox-of-new-buildings-on-campus/492398/
+* http://www.spokesman.com/stories/2016/aug/01/tuition-cuts-at-state-universities-has-been-a-surp/ <- finally some good news
 
 
 
