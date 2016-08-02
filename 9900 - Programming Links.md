@@ -51,6 +51,7 @@
 * http://mattgemmell.com/confessions-of-an-ex-developer/
 * http://www.whoismcafee.com/three-guys-walk-into-a-microwave/
 * https://www.cs.cmu.edu/~dga/papers/cuckoo-conext2014.pdf
+* http://www.consciouscapitalism.typepad.com/conscious-capitalism/2009/10/summary-of-thinking-in-systems-by-donella-meadows.html
 * http://www.azarask.in/blog/post/the-wrong-problem/
 * http://www.wired.com/2012/10/ff-elon-musk-qa/all/
 * http://www.extremetech.com/extreme/188776-how-l1-and-l2-cpu-caches-work-and-why-theyre-an-essential-part-of-modern-chips

@@ -569,6 +569,7 @@
 * https://kozikow.wordpress.com/2016/07/01/top-pandas-functions-used-in-github-repos/
 * https://github.com/tomaugspurger/modern-pandas
 * http://www.scipy-lectures.org/
+* https://github.com/guipsamora/pandas_exercises
 
 
 
