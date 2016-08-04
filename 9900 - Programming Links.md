@@ -206,6 +206,7 @@
 * http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner
 * http://overapi.com/ <- language cheat sheets
 * https://github.com/hemanth/functional-programming-jargon
+* http://codewithoutrules.com/2016/08/03/self-confidence/
 
 
 
