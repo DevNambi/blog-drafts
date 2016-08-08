@@ -192,6 +192,7 @@
 * http://arstechnica.com/business/2015/12/towns-want-verizon-investigated-for-abandoning-networks-through-neglect/
 * http://www.cutcabletoday.com/fcc-complaints-comcasts-data-caps/
 * http://www.theverge.com/2016/2/12/10981288/centurylink-to-test-data-caps
+* http://www.nytimes.com/2016/08/08/technology/how-to-give-rural-america-broadband-look-to-the-early-1900s.html <- what to do instead
 
 
 

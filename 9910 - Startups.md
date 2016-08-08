@@ -28,6 +28,7 @@
 * http://www.vanityfair.com/news/2016/03/chamath-palihapitiya-interview-says-start-ups-are-mostly-crap
 * http://www.vanityfair.com/news/2016/03/chamath-palihapitiya-interview-says-start-ups-are-mostly-crap
 * http://www.huffingtonpost.com/greg-selkoe/karmaduped-a-cautionary-t_b_9860368.html
+* https://medium.com/@tomerdean/the-meeting-that-showed-me-the-truth-about-vcs-and-how-they-don-t-make-money-ab72b52b50cd
 
 
 

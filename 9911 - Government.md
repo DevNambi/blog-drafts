@@ -81,6 +81,7 @@
 * http://govtechfund.com/2016/01/govtech-the-400-billion-market-hiding-in-plain-sight/
 * http://arstechnica.com/science/2016/02/the-audacious-rescue-plan-that-might-have-saved-space-shuttle-columbia/
 * http://nautil.us/blog/politicians-need-to-understand-this-computer-science-concept-better
+* http://www.nytimes.com/2016/08/08/technology/how-to-give-rural-america-broadband-look-to-the-early-1900s.html
 
 
 
