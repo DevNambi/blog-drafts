@@ -272,6 +272,7 @@
 * http://priceonomics.com/online-dating-and-the-death-of-the-mixed/
 * http://nautil.us/blog/alienation-is-killing-americans-and-japanese
 * http://www.wsj.com/articles/why-good-storytellers-are-happier-in-life-and-in-love-1467652052
+* https://medium.com/the-mission/looking-for-the-one-how-i-went-on-150-dates-in-4-months-bf43a095516c
 
 
 
