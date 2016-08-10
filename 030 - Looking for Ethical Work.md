@@ -108,6 +108,7 @@ Industries
 * http://www.timesofisrael.com/israel-honors-us-gi-who-told-the-nazis-we-are-all-jews/
 * https://medium.com/@nayafia/how-i-stumbled-upon-the-internet-s-biggest-blind-spot-b9aa23618c58
 * https://en.m.wikipedia.org/wiki/Maurice_Hilleman <- you may never be famous
+* https://www.bloomberg.com/features/2016-bateman-airplane-safety-device/
 
 
 

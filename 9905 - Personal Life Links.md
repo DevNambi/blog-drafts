@@ -273,6 +273,8 @@
 * http://nautil.us/blog/alienation-is-killing-americans-and-japanese
 * http://www.wsj.com/articles/why-good-storytellers-are-happier-in-life-and-in-love-1467652052
 * https://medium.com/the-mission/looking-for-the-one-how-i-went-on-150-dates-in-4-months-bf43a095516c
+* http://greatergood.berkeley.edu/article/item/why_it_doesnt_pay_to_be_a_people_pleaser
+
 
 
 
