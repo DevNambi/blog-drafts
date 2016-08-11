@@ -399,6 +399,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.freep.com/story/opinion/contributors/2016/01/09/gallagher-detroit-economy-development/78442020/
 * http://www.seattletimes.com/seattle-news/politics/lawmakers-emails/
 * http://www.nytimes.com/2016/03/31/nyregion/nursing-homes-sale-to-condo-developer-raises-questions-for-city.html
+* https://medium.com/@katevershovdowning/letter-of-resignation-from-the-palo-alto-planning-and-transportation-commission-f7b6facd94f5
 
 
 
