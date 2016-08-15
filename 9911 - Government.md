@@ -311,8 +311,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://warisboring.com/the-u-s-navy-s-big-mistake-building-tons-of-supercarriers-79cb42029b8
 * https://warisboring.com/in-1971-the-u-s-navy-almost-fought-the-soviets-over-bangladesh-c65489bc72c0
 * https://medium.com/@angushervey/the-decline-of-war-8760f9a5b5ce
-
-
+* http://www.usatoday.com/story/news/2016/08/10/dea-travel-record-airport-seizures/88474282/
 
 
 
@@ -400,6 +399,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.freep.com/story/opinion/contributors/2016/01/09/gallagher-detroit-economy-development/78442020/
 * http://www.seattletimes.com/seattle-news/politics/lawmakers-emails/
 * http://www.nytimes.com/2016/03/31/nyregion/nursing-homes-sale-to-condo-developer-raises-questions-for-city.html
+* https://medium.com/@katevershovdowning/letter-of-resignation-from-the-palo-alto-planning-and-transportation-commission-f7b6facd94f5
 
 
 

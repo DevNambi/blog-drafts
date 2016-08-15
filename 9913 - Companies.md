@@ -56,6 +56,7 @@
 * http://www.vice.com/en_uk/read/inside-amazon-at-christmas-929
 * http://www.smashcompany.com/business/amazon-has-no-idea-how-to-run-an-app-store
 * http://www.cnbc.com/2016/07/08/amazons-chinese-counterfeit-problem-is-getting-worse.html
+* https://sites.google.com/site/thefaceofamazon/home 
 
 
 

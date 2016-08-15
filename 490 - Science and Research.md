@@ -51,6 +51,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://crypto.junod.info/2013/09/09/an-aspiring-scientists-frustration-with-modern-day-academia-a-resignation/
 * http://www.cbc.ca/news/technology/academic-publishers-reap-huge-profits-as-libraries-go-broke-1.3111535
 * http://www.feynmanlectures.caltech.edu/
+* https://aeon.co/ideas/what-i-learned-as-a-hired-consultant-for-autodidact-physicists
 * https://medium.com/starts-with-a-bang/science-by-democracy-doesnt-work-ea74d160daa4
 * http://www.bloomberg.com/news/articles/2015-05-15/oil-tycoon-harold-hamm-wanted-scientists-dismissed-dean-s-e-mail-says <- this is why intellectual freedom is important
 * https://medium.com/@samim/gitxiv-collaborative-open-computer-science-e5fea734cd45

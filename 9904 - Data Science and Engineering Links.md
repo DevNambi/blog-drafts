@@ -807,6 +807,8 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://www.nytimes.com/2016/07/10/technology/a-start-up-shies-away-from-the-gig-economy.html
 * http://www.bloomberg.com/news/articles/2016-07-21/google-sprints-ahead-in-ai-building-blocks-leaving-rivals-wAry
 * https://medium.com/@dbreunig/the-business-implications-of-machine-learning-11480b99184d
+* https://blog.dominodatalab.com/joel-test-data-science/
+
 
 
 
@@ -1027,6 +1029,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://deepsense.io/deep-learning-right-whale-recognition-kaggle/
 * http://www.wired.com/2016/01/in-a-huge-breakthrough-googles-ai-beats-a-top-player-at-the-game-of-go/
 * http://tech.marksblogg.com/billion-nyc-taxi-rides-redshift.html
+* https://tech.iheart.com/mapping-the-world-of-music-using-machine-learning-part-1-9a57fa67e366
 
 
 
