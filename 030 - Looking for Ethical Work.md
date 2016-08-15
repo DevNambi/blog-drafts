@@ -75,6 +75,7 @@ Industries
 * https://insouciant.org/tech/back-to-sf-after-usds/
 * http://curbed.com/archives/2015/03/25/ikea-refugee-housing-production.php
 * http://www.theverge.com/2016/4/13/11387934/internet-moderator-history-youtube-facebook-reddit-censorship-free-speech
+* https://medium.com/@angushervey/the-decline-of-war-8760f9a5b5ce
 * http://digitheadslabnotebook.blogspot.com/2014/11/the-dream-recomb-conference-2014.html
 * http://www.washingtonpost.com/news/wonkblog/wp/2015/10/14/the-most-disruptive-technology-of-the-last-century-is-in-your-house/
 * http://www.seattletimes.com/nation-world/ap-global-supermarkets-selling-shrimp-peeled-by-slaves/

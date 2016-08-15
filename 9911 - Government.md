@@ -310,6 +310,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://mastermind.atavist.com/the-next-big-deal
 * https://warisboring.com/the-u-s-navy-s-big-mistake-building-tons-of-supercarriers-79cb42029b8
 * https://warisboring.com/in-1971-the-u-s-navy-almost-fought-the-soviets-over-bangladesh-c65489bc72c0
+* https://medium.com/@angushervey/the-decline-of-war-8760f9a5b5ce
 
 
 
