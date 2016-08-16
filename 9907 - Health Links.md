@@ -195,6 +195,7 @@
 
 
 * http://www.scientificamerican.com/article/regular-walking-can-help-ease-depression/
+* http://offbeathome.com/hate-exercising/
 * http://www.nytimes.com/2015/01/11/upshot/how-to-make-yourself-go-to-the-gym.html
 * http://www.mrmoneymustache.com/2016/05/25/recipe-for-a-badass-diy-electric-mountain-bike/
 * http://www.nerdfitness.com/blog/2015/11/05/stuck-at-the-starting-line-find-your-gateway-change/ <- good read
