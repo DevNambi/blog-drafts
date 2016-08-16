@@ -3,7 +3,7 @@
 
 ## China
 
-<li><a href="http://www.washingtonpost.com/business/economy/as-chinas-economy-slows-real-estate-bubble-looms/2012/10/02/8f4b5560-f749-11e1-8b93-c4f4ab1c8d13_story.html" time_added="1349547072" tags="important">As China’s economy slows, real estate bubble looms - The Washington Post</a></li>
+<li><a href="http://www.washingtonpost.com/business/economy/as-chinas-economy-slows-real-estate-bubble-looms/2012/10/02/8f4b5560-f749-11e1-8b93-c4f4ab1c8d13_story.html" time_added="1349547072" thttp://www.bloomberg.com/news/articles/2016-08-15/vanguard-s-gerry-o-reilly-offers-a-rare-look-inside-an-index-fundags="important">As China’s economy slows, real estate bubble looms - The Washington Post</a></li>
 <li><a href="http://www.nakedcapitalism.com/2013/03/chinas-exploding-debt.html" time_added="1363140954" tags="finance">China’s Exploding Debt « naked capitalism</a></li>
 
 * http://arstechnica.com/science/2014/10/why-chinas-economic-growth-hasnt-been-getting-cleaner/
@@ -177,6 +177,7 @@
 * http://www.nakedcapitalism.com/2015/03/bill-black-fcic-spurned-one-chance-greatness.html
 * http://www.bloomberg.com/news/features/2016-03-31/welcome-to-iceland-where-bad-bankers-go-to-prison
 * https://getmondo.co.uk/blog/2016/01/08/how-does-the-wholesale-foreign-exchange-market-work/
+* http://www.bloomberg.com/news/articles/2016-08-15/vanguard-s-gerry-o-reilly-offers-a-rare-look-inside-an-index-fund
 * http://www.nakedcapitalism.com/2015/10/oxford-professor-schools-calpers-contrary-to-board-presentation-private-equity-is-most-expensive-asset-class-by-far.html
 * http://www.zerohedge.com/news/2015-10-19/traders-are-panic-selling-t-bills-after-jack-lew-warns-terrible-debt-limit-accident
 * http://www.theguardian.com/uk-news/2015/dec/08/fall-of-jersey-how-tax-haven-goes-bust
@@ -335,6 +336,7 @@
 * http://mobile.nytimes.com/2015/02/13/upshot/how-mortgage-fraud-made-the-financial-crisis-worse.html
 * http://www.seattletimes.com/business/real-estate/the-mobile-home-trap-how-a-warren-buffett-empire-preys-on-the-poor/
 * http://www.bloombergview.com/articles/2015-04-17/new-starter-homes-hit-a-dead-stop
+* http://www.zillow.com/research/conventional-mortgage-changes-12999/
 * http://www.theguardian.com/society/2015/apr/30/experimental-victorian-scheme-could-virtually-eradicate-homelessness
 * http://www.citylab.com/housing/2015/07/mapping-the-us-by-property-value-instead-of-land-area/397841/
 * https://newrepublic.com/article/128713/fight-housing-market-gone-mad

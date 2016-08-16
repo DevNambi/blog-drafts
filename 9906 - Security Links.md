@@ -13,6 +13,8 @@
 * https://plus.google.com/+YonatanZunger/posts/ayXVWrFpQus
 * http://www.nytimes.com/2016/05/30/technology/governments-turn-to-commercial-spyware-to-intimidate-dissidents.html
 * http://www.khou.com/features/san-antonino-man-has-engine-that-gets-100-mpg/242673922
+* http://www.extremetech.com/extreme/233418-cyber-is-the-new-nuclear-changing-the-world-through-mutually-assured-disruption
+* http://arstechnica.com/information-technology/2016/08/the-world-series-of-hacking-without-humans/
 * https://theintercept.com/2016/05/26/secret-text-in-senate-bill-would-give-fbi-warrantless-access-to-email-records/
 * http://arstechnica.com/security/2016/05/google-dorking-when-pii-and-exploitable-bugs-are-only-a-search-away/
 * https://theintercept.com/2015/06/20/wikileaks-jacob-appelbaum-google-investigation/
