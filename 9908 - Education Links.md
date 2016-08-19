@@ -708,6 +708,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 
 * http://www.nature.com/news/2011/110420/full/472276a.html
 * http://www.nytimes.com/2015/08/02/education/edlife/four-steps-to-choosing-a-career-path.html
+* http://www.nytimes.com/2016/08/18/business/dealbook/2015-law-school-graduates-got-fewer-jobs-in-private-practice.html
 
 
 ## Sports

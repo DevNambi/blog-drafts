@@ -99,6 +99,7 @@
 * http://www.wbez.org/news/city-fires-investigator-who-found-cops-fault-shootings-112423
 * http://www.ocregister.com/articles/police-675722-officers-video.html
 * http://www.seattletimes.com/seattle-news/mayor-at-odds-with-civilian-panel-over-its-power-in-forming-police-policies/
+* http://www.nytimes.com/2016/08/19/us/laquan-mcdonald-chicago-police.html
 * http://www.theatlantic.com/national/archive/2015/05/the-texas-biker-shootout-is-too-much-for-waco-to-handle/393689/
 * http://arstechnica.com/tech-policy/2015/06/lapd-officer-convicted-in-videotaped-beating-of-handcuffed-suspect/
 * http://mobile.nytimes.com/2015/05/19/us/politics/obama-to-limit-military-style-equipment-for-police-forces.html?_r=0
