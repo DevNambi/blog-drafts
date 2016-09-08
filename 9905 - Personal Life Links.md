@@ -53,6 +53,7 @@
 * http://www.nytimes.com/2015/02/01/opinion/sunday/the-only-baby-book-youll-ever-need.html
 * http://www.bustle.com/articles/129270-7-signs-you-grew-up-with-a-toxic-parent-didnt-know-it
 * http://arstechnica.com/science/2015/10/marijuana-exposure-in-utero-has-lifelong-consequences/
+* http://www.scientificamerican.com/article/how-to-raise-a-genius-lessons-from-a-45-year-study-of-supersmart-children/
 * http://qz.com/273255/how-american-parenting-is-killing-the-american-marriage/
 * http://www.washingtonpost.com/news/to-your-health/wp/2015/08/11/the-most-depressing-statistic-imaginable-about-being-a-new-parent/
 * https://www.fatherly.com/kids-health-and-development/a-montessori-chart-of-age-appropriate/

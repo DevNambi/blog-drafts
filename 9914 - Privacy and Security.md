@@ -66,6 +66,8 @@
 * http://www.nytimes.com/2016/05/30/technology/governments-turn-to-commercial-spyware-to-intimidate-dissidents.html
 * http://arstechnica.com/tech-policy/2016/05/surveillance-technology-has-advanced-far-beyond-the-laws-that-govern-it/
 * https://nakedsecurity.sophos.com/2016/08/03/massive-new-study-lifts-the-lid-on-top-websites-tracking-secrets/
+* http://www.locusmag.com/Perspectives/2016/09/cory-doctorowthe-privacy-wars-are-about-to-get-a-whole-lot-worse/
+* http://www.reuters.com/investigates/special-report/usa-uncounted-surveillance/
 * http://www.bbc.com/news/uk-34444233
 * https://vox.space/blog/89/being-privacy-aware-in-2016
 * http://www.wsj.com/articles/moxie-marlinspike-the-coder-who-encrypted-your-texts-1436486274
