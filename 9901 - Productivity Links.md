@@ -221,6 +221,7 @@ Embrace awkwardness more
 * https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/
 * http://motherboard.vice.com/read/warranty-void-if-removed-stickers-are-illegal
 * https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10/
+* https://cpbotha.net/2016/08/06/moving-12-years-of-email-from-gmail-to-fastmail/
 
 
 

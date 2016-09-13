@@ -508,7 +508,7 @@
 
 
 
-#### Markov Chains
+#### Markov Chains, MCMC
 
 * http://www.analyticsvidhya.com/blog/2014/07/markov-chain-simplified/
 * http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
@@ -519,6 +519,7 @@
 * http://liljonnystyle.blogspot.com/2014/05/markov-where-are-my-umbrellas.html
 * http://twiecki.github.com/blog/2015/11/10/mcmc-sampling/
 * https://www.countbayesie.com/blog/2015/11/21/the-black-friday-puzzle-understanding-markov-chains
+* https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/ 
 
 
 
@@ -546,6 +547,8 @@
 * http://technology.stitchfix.com/blog/2015/03/17/grammar-of-data-science/
 * http://randyzwitch.com/twitter-breakoutdetection-r-package-evaluation/
 * http://priceonomics.com/hadley-wickham-the-man-who-revolutionized-r/
+* http://www.burns-stat.com/documents/tutorials/impatient-r/
+
 
 
 #### Python
@@ -761,6 +764,8 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://101.datascience.community/2015/12/21/the-most-popular-skills-and-degrees-of-todays-data-scientists/
 * http://blogs.nvidia.com/blog/2016/02/24/enrollment-in-machine-learning/
 * https://medium.com/@akelleh/understanding-bias-a-pre-requisite-for-trustworthy-results-ee590b75b1be
+* https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c
+
 
 
 ## Funny

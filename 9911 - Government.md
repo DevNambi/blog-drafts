@@ -175,6 +175,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 
 * http://www.nytimes.com/2016/01/06/world/asia/north-korea-hydrogen-bomb-test.html
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
+* http://warontherocks.com/2016/09/six-ways-to-fix-the-armys-culture/
 * http://www.nytimes.com/2015/04/26/us/politics/deep-support-in-washington-for-cias-drone-missions.html <- horrifying
 * http://www.spiegel.de/international/world/kofi-annan-on-why-drug-bans-are-ineffective-a-1078402.html
 * http://arstechnica.co.uk/security/2016/02/the-nsas-skynet-program-may-be-killing-thousands-of-innocent-people/ <- truly horrifying

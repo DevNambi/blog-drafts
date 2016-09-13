@@ -384,6 +384,7 @@
 * http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire
 * http://curtis.io/others-work/open-tooling-for-fpgas
 * https://www.backblaze.com/blog/petabytes-on-a-budget-how-to-build-cheap-cloud-storage-2/
+* http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/
 * http://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time
 * http://www.extremetech.com/mobile/204340-did-tsmcs-20nm-process-harm-qualcomms-snapdragon-810
 * http://cloudacademy.com/blog/google-cloud-vs-aws-a-comparison/

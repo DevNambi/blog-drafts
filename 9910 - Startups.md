@@ -14,6 +14,7 @@
 * http://alexstechthoughts.com/post/106513520281/fact-checking-in-the-startup-world
 * http://blog.conspire.com/post/112700131803/if-you-have-startup-stock-options-check-your
 * http://berkeleyjournal.org/2015/01/morality-and-the-idea-of-progress-in-silicon-valley/
+* http://a16z.com/2016/09/11/vc-economics/
 * http://recode.net/2015/03/12/kleiner-perkins-wrote-an-hr-policy-in-wake-of-female-partner-complaints/
 * http://fusion.net/story/102544/venture-capital-has-a-self-dealing-problem/
 * http://thehustle.co/the-linkedin-hack-that-made-me-120000
