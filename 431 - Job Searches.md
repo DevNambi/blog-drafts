@@ -243,6 +243,8 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 <li><a href="https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6">Ten Rules for Negotiating a Job Offer</a></li>
 </ul>
 
+* https://www.shrm.org/resourcesandtools/hr-topics/technology/pages/it-employers-would-pay-15-percent-more-for-top-talent.aspx
+
 
 
 #### Working Remotely

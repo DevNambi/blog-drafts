@@ -110,6 +110,7 @@
 * http://blog.longreads.com/2016/03/08/your-phone-was-made-by-slaves-a-primer-on-the-secret-economy/
 * http://www.antipope.org/charlie/blog-static/2016/03/follow-the-money-apple-vs-the-.html
 * http://www.bloombergview.com/articles/2016-04-28/mark-zuckerberg-gets-to-control-facebook-a-while-longer
+* https://mic.com/articles/154169/leaked-apple-emails-reveal-employees-complaints-about-sexist-toxic-work-environment
 
 
 ## IBM and other IT/software companies
@@ -285,6 +286,14 @@
 * https://warriorwriters.wordpress.com/2016/02/19/shame-on-you-aolhuffington-no-more-literary-booty-calls/
 * http://www.stereogum.com/1870768/steve-miller-expands-on-rock-hall-criticism-everybody-is-kind-of-a-dick-this-whole-industry-fucking-sucks/wheres-the-beef/
 * http://arstechnica.com/business/2016/04/riaa-still-hates-the-dmca-even-as-streaming-revenues-soar/
+* https://freedom-to-tinker.com/2016/09/14/all-the-news-thats-fit-to-change-insights-into-a-corpus-of-2-5-million-news-headlines/
+
+
+
+## Law
+
+* http://blog.litimetrics.com/2016/09/15/quantifying-the-value-of-better-legal-representation/
+
 
 
 

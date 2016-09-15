@@ -531,6 +531,7 @@
 * http://www.bloomberg.com/news/articles/2015-05-18/nobel-winner-s-math-shows-s-p-500-unhinged-from-reality-or-not
 * https://medium.com/@CharlynKeating/if-you-re-an-app-developer-who-isn-t-making-a-decent-living-from-the-app-stores-there-s-someone-ac5082d8de47
 * http://www.slate.com/articles/business/moneybox/2014/11/duke_economist_campbell_harvey_most_research_on_why_investments_do_well.html
+* https://medium.com/fluxx-studio-notes/six-behavioural-flaws-that-make-us-stupid-around-money-and-how-banks-could-help-36cb50aac6d0
 * https://www.mattcutts.com/blog/make-money-investing-tips/ <- super useful.
 * http://www.nerdwallet.com/
 * http://www.pbs.org/idealab/2015/01/how-crowdfunding-municipal-bonds-help-people-invest-in-communities/

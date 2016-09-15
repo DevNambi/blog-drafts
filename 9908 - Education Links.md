@@ -66,6 +66,7 @@
 * http://news.stanford.edu/news/2015/november/robinson-humanities-lecture-110315.html
 * http://www.elearnspace.org/blog/2015/09/09/adios-ed-tech-hola-something-else/
 * http://www.thegreatcourses.com/tgc/courses/Courses.aspx?ps=914
+* http://nautil.us/issue/40/learning/how-i-rewired-my-brain-to-become-fluent-in-math-rp
 * http://www.wired.com/2015/05/altschool/
 * http://www.nytimes.com/2015/04/07/nyregion/at-success-academy-charter-schools-polarizing-methods-and-superior-results.html
 * http://www.nytimes.com/2015/03/23/nyregion/cuomo-fights-rating-system-in-which-few-teachers-are-bad.html

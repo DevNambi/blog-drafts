@@ -265,6 +265,8 @@
 * http://danluu.com/google-sre-book/
 * https://www.paypal-engineering.com/2016/04/11/statistics-for-software/
 * http://da-data.blogspot.com/2016/04/stealing-googles-coding-practices-for.html
+* http://basho.com/posts/technical/microservices-please-dont/
+
 
 
 ## UI, UX, HCD
@@ -431,6 +433,7 @@
 * https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e
 * https://zwischenzugs.wordpress.com/2015/03/14/docker-in-practice-a-guide-for-engineers/
 * http://www.hokstad.com/docker/patterns
+* http://danielmartins.ninja/posts/five-months-of-kubernetes.html
 
 
 

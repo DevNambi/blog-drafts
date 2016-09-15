@@ -170,6 +170,7 @@
 * http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf
 * http://jakevdp.github.io/blog/2012/10/07/xkcd-style-plots-in-matplotlib/
 * http://blog.insightdatalabs.com/advanced-functionality-in-seaborn/
+* https://priceonomics.com/when-did-charts-become-popular/
 * https://colah.github.io/posts/2015-01-Visualizing-Representations/
 * http://anna.vc/post/112863438962/how-to-think-using-visual-analogies
 
