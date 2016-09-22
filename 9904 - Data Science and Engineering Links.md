@@ -60,6 +60,7 @@
 
 * https://medium.com/@sahuguet/p-b-d-c-1218ee894400
 * http://www.clean-sheet.org/
+* http://www.octoparse.com/blog/top-30-free-web-scraping-software/
 * http://www.openculture.com/2015/08/the-new-york-times-makes-17000-tasty-recipes-available-online.html
 * http://blogs.msdn.com/b/msr_er/archive/2015/06/26/announcing-the-microsoft-academic-graph-let-the-research-begin.aspx
 * https://open.nasa.gov/
