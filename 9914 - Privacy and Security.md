@@ -51,6 +51,7 @@
 * https://theintercept.com/2015/12/28/recently-bought-a-windows-computer-microsoft-probably-has-your-encryption-key/
 * http://www.theawl.com/2015/08/time-is-a-privacy-setting
 * http://www.businessinsider.com/how-to-block-companies-tracking-you-on-facebook-2014-1
+* http://www.theverge.com/2016/9/21/12994362/allo-privacy-message-logs-google
 * http://arstechnica.co.uk/tech-policy/2015/07/cameron-reaffirms-there-will-be-no-safe-spaces-from-uk-government-snooping/
 * https://www.washingtonpost.com/news/the-watch/wp/2016/03/10/surprise-nsa-data-will-soon-routinely-be-used-for-domestic-policing-that-has-nothing-to-do-with-terrorism/ <- The Stasi would be proud
 * http://www.usatoday.com/story/news/2016/08/10/dea-travel-record-airport-seizures/88474282/
