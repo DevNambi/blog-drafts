@@ -10,6 +10,7 @@
 * https://www.hackread.com/cell-411-smartphone-app-is-police-worst-nightmare/
 * http://theadvocate.com/news/police/16347562-93/baton-rouge-officials-and-police-critics-ask-if-all-police-shooting-investigations-should-be-outsour
 * https://www.themarshallproject.org/2016/08/11/i-m-a-judge-and-i-think-criminal-court-is-horrifying
+* https://theintercept.com/2016/09/21/here-are-eight-policies-that-can-prevent-police-killings/
 * https://www.washingtonpost.com/national/as-arrests-mount-in-baton-rouge-protesters-question-police-tactics/2016/07/10/8d695124-46f1-11e6-bdb9-701687974517_story.html
 * http://theadvocate.com/news/16367024-127/live-updates-more-alton-sterling-protests-beginning-in-baton-rouge
 * https://fop.thecthulhu.com/ <- Fraternal Order of Police Data Dump
