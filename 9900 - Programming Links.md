@@ -383,6 +383,7 @@
 * http://yosefk.com/blog/how-fpgas-work-and-why-youll-buy-one.html
 * http://blog.cr.yp.to/20150314-optimizing.html
 * http://techreport.com/review/28126/semiconductors-from-idea-to-product
+* https://www.wired.com/2016/09/microsoft-bets-future-chip-reprogram-fly/
 * http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire
 * http://curtis.io/others-work/open-tooling-for-fpgas
 * https://www.backblaze.com/blog/petabytes-on-a-budget-how-to-build-cheap-cloud-storage-2/
@@ -442,6 +443,7 @@
 <li><a href="http://t.co/cvq5A0Wa" time_added="1354585336" tags="sql">buckwoody: AZCopy - command-line file copy to Windows Azure Storage: http:/</a></li>
 
 * http://techcrunch.com/2015/04/20/microsoft-announces-azure-service-fabric-a-new-framework-for-building-scalable-cloud-services/
+* http://www.nextplatform.com/2016/09/26/rare-tour-microsofts-hyperscale-datacenters/
 * http://blogs.microsoft.com/blog/2016/01/19/how-were-putting-the-microsoft-cloud-to-work-for-the-public-good/ 
 
 

@@ -123,6 +123,7 @@ Emphasize what we don't know
 * https://www.hsph.harvard.edu/news/press-releases/toxic-chemicals-drinking-water/
 * http://www.laweekly.com/news/what-went-wrong-at-porter-ranch-6405804
 * http://www.nytimes.com/interactive/2015/10/27/world/greenland-is-melting-away.html
+* https://www.fastcoexist.com/3063935/sweden-wants-to-fight-our-disposable-culture-with-tax-breaks-for-repairing-old-stuff
 * http://arstechnica.com/science/2015/10/climate-scientists-are-tentative-their-opponents-are-certain-theyre-wrong/
 * http://www.theguardian.com/environment/2016/mar/03/us-agency-says-has-beaten-elon-musk-gates-to-holy-grail-battery-storage
 * http://www.nakedcapitalism.com/2015/09/gaius-publius-will-senator-whitehouse-renew-his-call-for-rico-prosecution-of-climate-denying-companies-like-exxon.html
