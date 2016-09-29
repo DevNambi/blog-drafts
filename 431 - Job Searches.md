@@ -148,6 +148,7 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 <li><a href="http://zachholman.com/posts/startup-interviewing-is-fucked/">Startup Interviewing is Fucked</a></li>
 <li><a href="http://www.nytimes.com/2016/03/07/technology/tech-companies-new-and-old-clamor-to-entice-cloud-computing-experts.html">Tech Companies, New and Old, Clamor to Entice Cloud Computing Experts</a></li>
 <li><a href="https://gitlab.com/doctorj/interview-questions">Questions to Ask a Potential Tech Employer</a></li>
+<li><a href="http://www.nytimes.com/2015/12/20/opinion/sunday/the-one-question-you-should-ask-about-every-new-job.html">The One Question You Should Ask About Every New Job</a>
 </ul>
 
 
