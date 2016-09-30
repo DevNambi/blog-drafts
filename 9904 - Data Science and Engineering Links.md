@@ -174,6 +174,7 @@
 * https://priceonomics.com/when-did-charts-become-popular/
 * https://colah.github.io/posts/2015-01-Visualizing-Representations/
 * http://anna.vc/post/112863438962/how-to-think-using-visual-analogies
+* https://github.com/wbkd/awesome-interactive-journalism
 
 #### D3 and related
 
