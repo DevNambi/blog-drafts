@@ -175,6 +175,7 @@
 * https://colah.github.io/posts/2015-01-Visualizing-Representations/
 * http://anna.vc/post/112863438962/how-to-think-using-visual-analogies
 * https://github.com/wbkd/awesome-interactive-journalism
+* https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/
 
 #### D3 and related
 
@@ -576,6 +577,7 @@
 * https://github.com/tomaugspurger/modern-pandas
 * http://www.scipy-lectures.org/
 * https://github.com/guipsamora/pandas_exercises
+* https://www.themarketingtechnologist.co/helping-our-new-data-scientists-start-in-python-a-guide-to-learning-by-doing/
 
 
 
