@@ -6,6 +6,7 @@
 
 * http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-map-us-police-killings <- amazingly useful, and disturbing
 
+* https://www.washingtonpost.com/news/grade-point/wp/2016/10/05/ivy-league-professor-i-would-much-rather-my-own-children-interact-with-drugs-than-with-the-police/?tid=sm_tw
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
 * http://arstechnica.com/science/2016/10/study-lots-of-crime-went-unreported-after-police-brutalized-unarmed-black-men/
 * https://www.hackread.com/cell-411-smartphone-app-is-police-worst-nightmare/

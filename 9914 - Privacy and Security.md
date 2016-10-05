@@ -45,6 +45,7 @@
 * http://www.latimes.com/nation/la-na-supreme-court-data-privacy-20151102-story.html
 * http://seattletimes.com/html/businesstechnology/2025244750_apxtecidentitytheftthehassle.html
 * https://www.eff.org/deeplinks/2015/06/why-facebook-failed-our-censorship-test
+* https://techcrunch.com/2016/10/05/not-ok-google/
 * http://www.viola-notes.com/why-resistance-to-ad-blocking-is-futile-and-whats-next-for-digital-advertising/
 * http://anonhq.com/supreme-court-fbi-can-treat-anyone-surfing-net-anonymously-criminal/
 * https://www.newscientist.com/article/2086454-revealed-google-ai-has-access-to-huge-haul-of-nhs-patient-data/
