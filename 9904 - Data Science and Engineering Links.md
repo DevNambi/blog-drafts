@@ -562,6 +562,7 @@
 
 * http://nbviewer.ipython.org/github/jakevdp/sklearn_pydata2015/blob/master/notebooks/Index.ipynb
 * http://blog.kaggle.com/2015/07/16/scikit-learn-video-8-efficiently-searching-for-optimal-tuning-parameters/
+* https://www.springboard.com/blog/data-mining-python-tutorial/
 * http://nbtest.herokuapp.com/github/fonnesbeck/Bios366/blob/master/notebooks/Section3_3-Expectation-Maximization.ipynb
 * http://nbviewer.ipython.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb
 * https://github.com/avehtari/BDA_py_demos
