@@ -354,6 +354,7 @@
 
 * https://github.com/markdregan/Bayesian-Modelling-in-Python
 * http://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/
+* https://www.countbayesie.com/blog/2016/5/1/a-guide-to-bayesian-statistics
 * http://pymc-devs.github.io/pymc3/getting_started/
 * http://crucialconsiderations.org/rationality/bayes-theorem/
 * http://www.nicebread.de/what-does-a-bayes-factor-feel-like/
