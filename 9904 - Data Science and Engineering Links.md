@@ -772,6 +772,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://blogs.nvidia.com/blog/2016/02/24/enrollment-in-machine-learning/
 * https://medium.com/@akelleh/understanding-bias-a-pre-requisite-for-trustworthy-results-ee590b75b1be
 * https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c
+* https://www.quora.com/profile/Michael-Hochster/Posts/My-Quora-Stats-Textbook
 
 
 
