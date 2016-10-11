@@ -42,7 +42,7 @@ This is an information problem. It's also a FUD problem.
 * http://www.codecademy.com/blog/142-why-building-a-data-science-team-is-deceptively-hard
 * http://rustyrazorblade.com/2014/09/21-ways-to-minimize-employee-retention/
 * http://marlagottschalk.wordpress.com/2014/10/03/losing-talent-go-ahead-tell-yourself-its-mutual/
-* http://blog.alinelerner.com/resumes-suck-heres-the-data/?hn=1
+* http://blog.alinelerner.com/resumes-suck-heres-the-data/
 * http://weblog.raganwald.com/2006/06/my-favourite-interview-question.html
 * http://carlos.bueno.org/2014/06/refactoring.html
 * http://swizec.com/blog/dear-tech-companies-this-is-not-how-you-hire-engineers/swizec/6643

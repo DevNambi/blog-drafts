@@ -59,7 +59,7 @@
 * http://firstround.com/review/this-is-how-coursera-competes-against-google-and-facebook-for-the-best-talent/
 * https://hbr.org/2012/04/the-new-science-of-building-great-teams
 * http://www.itworld.com/article/2875112/ibm-is-about-to-get-hit-with-a-massive-reorg-and-layoffs.html <- how to do it wrong
-* https://www.linkedin.com/pulse/what-like-watch-worst-firing-ever-paul-petrone?trk=tod-home-art-list-large_0 <- how to do it wrong, again
+* https://www.linkedin.com/pulse/what-like-watch-worst-firing-ever-paul-petrone <- how to do it wrong, again
 * http://techcrunch.com/2015/04/04/the-work-family-imbalance/
 * http://www.atrixnet.com/bs-generator.html <- don't be this guy
 * http://www.washingtonpost.com/blogs/wonkblog/wp/2015/04/23/how-to-seem-smart-in-meetings-without-really-trying/ <- hilarious and cynical

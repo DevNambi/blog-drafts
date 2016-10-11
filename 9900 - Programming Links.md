@@ -525,6 +525,7 @@
 * https://serverlesscode.com/post/deploy-scikitlearn-on-lamba/
 * https://sysdig.com/blog/amazon-elb-bug/
 * https://aws.amazon.com/blogs/aws/new-worldwide-delivery-of-amazon-sns-messages-via-sms/
+* https://github.com/open-guides/og-aws <- very, very useful
 
 
 

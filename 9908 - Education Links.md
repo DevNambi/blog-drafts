@@ -60,6 +60,7 @@
 * http://www.npr.org/sections/ed/2015/06/04/412093161/the-truth-behind-your-states-high-school-grad-rate
 * http://www.wired.com/2016/02/schools-kicked-boy-based-dna/
 * http://www.seattletimes.com/education-lab/new-discipline-data-allows-comparisons-among-districts/
+* - https://aeon.co/essays/can-school-today-teach-anything-more-than-how-to-pass-exams
 * http://www.nakedcapitalism.com/2015/05/high-school-dropout-rates-increase-with-income-inequality.html
 * http://www.wired.com/2016/03/science-education-woefully-uncreative-change/
 * http://www.seattletimes.com/seattle-news/testing-cutting-into-class-time/
@@ -545,6 +546,8 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.seattletimes.com/education-lab/bill-would-explore-ways-to-shorten-college-from-four-years-to-three/
 * http://www.nytimes.com/2016/03/07/business/dealbook/court-to-hear-suit-accusing-law-school-of-inflating-job-data.html
 * http://www.theatlantic.com/education/archive/2016/03/the-commodification-of-higher-education/475947/
+* http://www.theatlantic.com/education/archive/2016/10/ballooning-bureaucracies-shrinking-checkbooks/503066/
+
 
 
 
