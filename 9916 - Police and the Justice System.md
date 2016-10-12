@@ -8,6 +8,7 @@
 
 * https://www.washingtonpost.com/news/grade-point/wp/2016/10/05/ivy-league-professor-i-would-much-rather-my-own-children-interact-with-drugs-than-with-the-police/?tid=sm_tw
 * The "justice system" is often a tool of injustice. The name can be Orwellian.
+* https://theintercept.com/2016/10/12/do-not-resist-the-police-militarization-documentary-everyone-should-see/
 * http://arstechnica.com/science/2016/10/study-lots-of-crime-went-unreported-after-police-brutalized-unarmed-black-men/
 * https://www.hackread.com/cell-411-smartphone-app-is-police-worst-nightmare/
 * http://theadvocate.com/news/police/16347562-93/baton-rouge-officials-and-police-critics-ask-if-all-police-shooting-investigations-should-be-outsour
