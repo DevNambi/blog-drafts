@@ -93,6 +93,7 @@ I've found various links with resources about job searching and resumes.
 * http://jobtipsforgeeks.com/2015/05/04/srt2/
 * https://mocko.org.uk/b/2015/10/14/dont-feed-the-beast-the-great-tech-recruiter-infestation/
 * http://jobtipsforgeeks.com/2015/12/29/manifesto/
+* http://www.gwan.com/blog/20160405.html <- ugh
 
 @hmason: If everyone stopped paying recruiters the entire tech industry would probably gain years of productivity overnight.
 
