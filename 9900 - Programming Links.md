@@ -863,6 +863,7 @@ things they believe in will keep </a></li>
 * http://techcrunch.com/2015/12/07/software-eats-software/
 * https://www.quantamagazine.org/20151214-graph-isomorphism-algorithm/
 * https://www.perforce.com/blog/110928/short-history-btree
+* https://xlinux.nist.gov/dads/
 
 
 

@@ -35,6 +35,7 @@
 * http://www.extremetech.com/internet/180485-the-ultimate-guide-to-staying-anonymous-and-protecting-your-privacy-online
 * http://m.thenation.com/article/208593-you-can-be-prosecuted-clearing-your-browser-history
 * https://mitpress.mit.edu/books/obfuscation
+* https://tech.vijayp.ca/adding-a-phone-number-to-your-google-account-can-make-it-less-secure-f1cc7280ff6a
 * https://bananas.liberty.me/youre-a-criminal-in-a-mass-surveillance-world-how-to-not-get-caught/ <- critically important
 * https://medium.com/message/the-hypocrisy-of-the-internet-journalist-587d33f6279e
 * https://theintercept.com/surveillance-catalogue/
