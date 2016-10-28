@@ -28,6 +28,7 @@ We believe we are working to make our society, our world, a better place. At the
 
 * http://mathbabe.org/2013/11/12/there-is-no-market-solution-for-ethics/
 * https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+* https://techcrunch.com/2016/10/26/the-darker-side-of-machine-learning/
 * https://bayesianbiologist.com/2016/09/11/weapons-of-math-destruction-a-data-scientists-guide-to-disarmament/
 * http://www.governing.com/topics/health-human-services/gov-how-providence-used-proven-programs-to-help-youths.html
 * http://arstechnica.co.uk/security/2016/02/the-nsas-skynet-program-may-be-killing-thousands-of-innocent-people/ <- the literal opposite of this
