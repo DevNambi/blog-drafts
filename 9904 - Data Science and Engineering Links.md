@@ -695,6 +695,7 @@
 * http://ofir.io/How-to-Start-Learning-Deep-Learning/
 * https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
 * http://www.asimovinstitute.org/neural-network-zoo/
+* http://deeplearningskysthelimit.blogspot.com/2016/04/part-2-alphago-under-magnifying-glass.html
 
 
 
