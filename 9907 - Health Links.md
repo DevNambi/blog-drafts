@@ -276,6 +276,7 @@
 * http://www.sciencemag.org/news/2016/03/mystery-cancers-are-cropping-children-aftermath-fukushima
 * http://www.nytimes.com/2016/07/06/upshot/helpless-to-prevent-cancer-actually-a-lot-is-in-your-control.html
 * http://www.extremetech.com/extreme/233746-ai-beats-doctors-at-visual-diagnosis-observes-many-times-more-lung-cancer-signals
+* http://www.sciencealert.com/a-new-compound-could-help-treat-up-a-quarter-of-all-cancers
 
 
 <li><a href="http://www.moneytrendsresearch.com/scientists-cure-cancer-but-no-one-takes-notice/" time_added="1348860235" tags="health">Scientists Cure Cancer, But No One Takes Notice | MTR</a></li>

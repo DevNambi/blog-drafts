@@ -130,6 +130,7 @@ Industries
 * http://www.nytimes.com/2015/09/24/opinion/volkswagen-and-the-era-of-cheating-software.html
 * http://sethbannon.com/biotech-in-the-garage
 * http://berkeleyjournal.org/2015/01/morality-and-the-idea-of-progress-in-silicon-valley/
+* https://aeon.co/essays/america-still-has-a-heartland-it-s-just-an-artificial-one
 * http://idlewords.com/talks/what_happens_next_will_amaze_you.htm
 * http://mobile.nytimes.com/2015/05/03/magazine/want-a-steady-income-theres-an-app-for-that.html
 * http://master.matsemann.com/ <- make bicycles more efficient

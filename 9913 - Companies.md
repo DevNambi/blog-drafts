@@ -331,6 +331,7 @@
 * http://www.nakedcapitalism.com/2015/11/hysteresis-and-aircraft-maintenance-dont-go-up-in-any-large-planes.html
 * http://www.airlinereporter.com/2015/09/requiem-trijet-masterpiece-lockheed-l-1011-tristar/
 * http://www.nytimes.com/2016/01/12/science/rethinking-the-airplane-for-climates-sake.html
+* http://www.tampabay.com/projects/2016/investigations/allegiant-air/mechanical-breakdowns/
 
 
 ## Energy Companies
