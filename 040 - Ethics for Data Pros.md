@@ -32,6 +32,7 @@ We believe we are working to make our society, our world, a better place. At the
 * https://bayesianbiologist.com/2016/09/11/weapons-of-math-destruction-a-data-scientists-guide-to-disarmament/
 * http://www.governing.com/topics/health-human-services/gov-how-providence-used-proven-programs-to-help-youths.html
 * http://arstechnica.co.uk/security/2016/02/the-nsas-skynet-program-may-be-killing-thousands-of-innocent-people/ <- the literal opposite of this
+* http://onlinelibrary.wiley.com/doi/10.1111/sltb.12312/full
 * http://blog.datalook.io/how-data-science-fuelled-the-largest-outreach-effort-in-the-history-of-nyc/
 * https://www.oreilly.com/ideas/five-principles-for-applying-data-science-for-social-good <- brilliant!
 * http://bdes.datasociety.net/wp-content/uploads/2015/12/BDES-Common-Rule-Letter.pdf

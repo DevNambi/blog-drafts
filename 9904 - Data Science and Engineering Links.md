@@ -825,6 +825,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://www.bloomberg.com/news/articles/2016-07-21/google-sprints-ahead-in-ai-building-blocks-leaving-rivals-wAry
 * https://medium.com/@dbreunig/the-business-implications-of-machine-learning-11480b99184d
 * https://blog.dominodatalab.com/joel-test-data-science/
+* http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html
 
 
 
