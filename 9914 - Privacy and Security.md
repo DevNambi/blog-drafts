@@ -231,6 +231,7 @@
 * http://arstechnica.com/tech-policy/2015/10/court-says-its-again-legal-for-nsa-to-spy-on-you-because-congress-says-its-ok/
 * https://privacy.com/ <- one way to secure payment info
 * http://www.iflscience.com/technology/a-step-by-step-guide-on-how-to-remove-your-online-presence/
+* https://theintercept.com/2016/11/12/surveillance-self-defense-against-the-trump-administration/
 
 
 
