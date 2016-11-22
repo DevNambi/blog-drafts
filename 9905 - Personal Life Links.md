@@ -51,6 +51,7 @@
 ## Parenting
 
 * http://www.nytimes.com/2015/02/01/opinion/sunday/the-only-baby-book-youll-ever-need.html
+* http://www.xojane.com/issues/mixed-race-hypodescent
 * http://www.bustle.com/articles/129270-7-signs-you-grew-up-with-a-toxic-parent-didnt-know-it
 * http://arstechnica.com/science/2015/10/marijuana-exposure-in-utero-has-lifelong-consequences/
 * http://www.scientificamerican.com/article/how-to-raise-a-genius-lessons-from-a-45-year-study-of-supersmart-children/
