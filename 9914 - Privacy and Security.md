@@ -20,6 +20,7 @@
 
 
 * http://www.theatlantic.com/technology/archive/2014/09/why-privacy-policies-are-so-inscrutable/379615/
+* http://www.nytimes.com/2016/11/13/business/cellphone-number-social-security-number-10-digit-key-code-to-private-life.html
 * http://sanfrancisco.cbslocal.com/2016/05/13/hidden-microphones-exposed-as-part-of-government-surveillance-program-in-the-bay-area/
 * https://www.eff.org/deeplinks/2015/10/how-to-protect-yourself-from-nsa-attacks-1024-bit-DH
 * http://www.theatlantic.com/magazine/archive/2015/11/if-youre-not-paranoid-youre-crazy/407833/
@@ -230,6 +231,7 @@
 * http://arstechnica.com/tech-policy/2015/10/court-says-its-again-legal-for-nsa-to-spy-on-you-because-congress-says-its-ok/
 * https://privacy.com/ <- one way to secure payment info
 * http://www.iflscience.com/technology/a-step-by-step-guide-on-how-to-remove-your-online-presence/
+* https://theintercept.com/2016/11/12/surveillance-self-defense-against-the-trump-administration/
 
 
 

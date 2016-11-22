@@ -115,6 +115,7 @@ Emphasize what we don't know
 * http://www.nytimes.com/2015/12/08/business/energy-environment/despite-push-for-cleaner-cars-sheer-numbers-could-work-against-climate-benefits.html
 * http://www.podniesinski.pl/portal/fukushima/
 * http://www.californiacoastline.org/
+* https://www2.le.ac.uk/offices/press/press-releases/2015/december/global-warming-disaster-could-suffocate-life-on-planet-earth-research-shows
 * http://www.slate.com/blogs/the_slatest/2015/07/20/sea_level_study_james_hansen_issues_dire_climate_warning.html
 * http://motherboard.vice.com/read/why-we-cant-stop-the-enormous-methane-leak-flooding-la
 * http://arstechnica.com/science/2015/05/how-we-cut-carbon-emissions-influences-our-health/

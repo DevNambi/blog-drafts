@@ -11,6 +11,7 @@
 * https://blogs.dropbox.com/tech/2016/09/how-dropbox-securely-stores-your-passwords/
 * https://www.washingtonpost.com/world/national-security/security-of-critical-phone-database-called-into-question/2016/04/28/11c23b10-0c8d-11e6-a6b6-2e6de3695b0e_story.html
 * http://krebsonsecurity.com/2016/08/data-breach-at-oracles-micros-point-of-sale-division/
+* http://security.stackexchange.com/questions/142496/which-security-measures-make-sense-for-a-static-web-site 
 * https://danielmiessler.com/study/security-by-obscurity/
 * https://plus.google.com/+YonatanZunger/posts/ayXVWrFpQus
 * http://www.nytimes.com/2016/05/30/technology/governments-turn-to-commercial-spyware-to-intimidate-dissidents.html
