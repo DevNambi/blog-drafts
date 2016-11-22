@@ -44,6 +44,7 @@
 * https://www.bloomberg.com/view/articles/2016-09-15/this-loophole-ends-the-privacy-of-social-security-numbers
 * http://monica-at-mozilla.blogspot.com/2015/05/tracking-protection-for-firefox-at-web.html <- priceless
 * https://meduza.io/en/feature/2016/07/14/the-end-of-privacy
+* https://modzero.github.io/fix-windows-privacy/
 * http://www.latimes.com/nation/la-na-supreme-court-data-privacy-20151102-story.html
 * http://seattletimes.com/html/businesstechnology/2025244750_apxtecidentitytheftthehassle.html
 * https://www.eff.org/deeplinks/2015/06/why-facebook-failed-our-censorship-test

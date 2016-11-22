@@ -207,6 +207,7 @@
 * http://overapi.com/ <- language cheat sheets
 * https://github.com/hemanth/functional-programming-jargon
 * http://codewithoutrules.com/2016/08/03/self-confidence/
+* https://github.com/Developer-Y/cs-video-courses/blob/master/README.md
 
 
 
