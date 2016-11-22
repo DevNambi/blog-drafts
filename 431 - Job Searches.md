@@ -212,6 +212,7 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 <li><a href="http://www.inc.com/gene-marks/why-unlimited-paid-time-off-is-bad-for-your-employees.html?cid=sf01001">Why Unlimited Paid Time Off is Bad for Your Employees</a></li>
 <li><a href="http://www.nytimes.com/2016/01/10/opinion/sunday/you-dont-need-more-free-time.html">You Don’t Need More Free Time</a></li>
 <li><a href="http://the-daily.buzz/working-from-home/">Working From Home Comics</a></li>
+<li><a href="https://codewithoutrules.com/2016/11/10/work-life-balance-software-engineer/">Work/Life Balance Will Make You a Better Software Engineer</a></li>
 </ul>
 
 
