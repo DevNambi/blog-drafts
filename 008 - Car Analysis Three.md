@@ -45,6 +45,7 @@ http://consumerist.com/2015/05/20/gm-that-car-you-bought-were-really-the-ones-wh
 * http://money.usnews.com/money/personal-finance/articles/2015/06/09/startups-offer-new-ways-to-buy-and-sell-used-cars
 * http://www.nytimes.com/2015/06/24/business/senate-commerce-hearing-takata-airbag-nhtsa-general-motors.html
 * https://medium.com/@ade3/the-zombie-mobile-b03932ac971d
+* http://wolfstreet.com/2016/11/22/strongest-pillar-of-the-shaky-us-economy-has-cracked/
 
 * https://publish.manheim.com/en/services/consulting/used-vehicle-value-index.html <- also VERY useful for used cars
 

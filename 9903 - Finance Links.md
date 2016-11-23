@@ -351,10 +351,11 @@
 
 
 
-## Subprime Cars
+## Cars, Subprime Cars
 
 * http://www.nakedcapitalism.com/2015/02/wolf-richter-subprime-pump-dump-frenzy-heats.html
 * http://www.seattletimes.com/nation-world/average-us-vehicle-age-hits-record-11-5-years/
+* http://wolfstreet.com/2016/11/22/strongest-pillar-of-the-shaky-us-economy-has-cracked/
 
 
 
