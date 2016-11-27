@@ -477,6 +477,7 @@
 * http://www.theguardian.com/commentisfree/2016/apr/18/solution-everything-working-less-work-pressure
 * https://www.jacobinmag.com/2016/05/crowdfunding-kickstarter-gofundme-charity-taxes/
 * https://hbr.org/2016/11/what-so-many-people-dont-get-about-the-u-s-working-class
+* https://aeon.co/essays/what-if-jobs-are-not-the-solution-but-the-problem
 
 
 
