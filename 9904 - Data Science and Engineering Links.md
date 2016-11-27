@@ -839,7 +839,6 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 
 
 <li><a href="http://tepid.org/tech/01-aurora-mesos-cluster/" time_added="1390924821" tags="">"Setting up an Apache Aurora/Mesos Cluster with Vagrant" blog post by @Nutt</a></li>
-<li><a href="http://www.michaelnielsen.org/ddi/why-bloom-filters-work-the-way-they-do/" time_added="1391273974" tags="">Why Bloom filters work the way they do | DDI</a></li>
 <li><a href="http://ow.ly/swSpj" time_added="1389625033" tags="">Impala performance: Now faster on @ParquetFormat than an analytic DBMS on i</a></li>
 <li><a href="http://blog.cloudera.com/blog/2013/01/a-guide-to-python-frameworks-for-hadoop/" time_added="1357665988" tags="big data">A Guide to Python Frameworks for Hadoop | Apache Hadoop for the Enterprise </a></li>
 <li><a href="http://t.co/IfhiI9xE" time_added="1357267042" tags="big data">peteskomoroch: Latest NoSQL LinkedIn Skills Index shows Apache Accumulo has</a></li>
@@ -862,7 +861,6 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://www.grant-mckinnon.com/?p=56 <- setting up Jupiter on an AWS cluster
 * http://danosipov.com/?p=816
 * http://blog.kismatic.com/qa-with-malte-schwarzkopf-on-distributed-systems-orchestration-in-the-modern-data-center/
-* http://tech.adroll.com/blog/data/2013/07/10/hll-minhash.html
 * https://gist.github.com/debasishg/8172796
 * https://gigaom.com/2015/01/21/netflix-is-open-sourcing-tools-for-analyzing-data-in-hadoop/
 * http://blog.confluent.io/2015/01/29/making-sense-of-stream-processing/
@@ -899,18 +897,27 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://code.facebook.com/posts/1499322996995183/solving-the-mystery-of-link-imbalance-a-metastable-failure-state-at-scale/
 * http://deepdive.stanford.edu/ <- AMAZING
 * https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/ <- AMAZINGLY GOOD
-* https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/ <- critical!
 * http://blogs.aws.amazon.com/bigdata/post/Tx1Z6IF7NA8ELQ9/Building-a-Near-Real-Time-Discovery-Platform-with-AWS
 * https://aphyr.com/posts/324-call-me-maybe-aerospike <- amazing
 * http://blog.parsely.com/post/1928/cass/
 * http://newsoffice.mit.edu/2015/cutting-cost-power-big-data-0710
-* http://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/
 * http://strata.oreilly.com/2014/02/extending-graphlab-to-tables.html
 * https://influxdb.com/docs/v0.9/concepts/storage_engine.html
 * http://insightdataengineering.com/blog/new-ecosystem/
 * http://www.slideshare.net/xamat/10-more-lessons-learned-from-building-machine-learning-systems <- highly recommended by various ML folks on Twitter
 * http://techcrunch.com/2016/01/09/the-year-in-analytics/
 * https://bdupras.github.io/filter-tutorial/
+
+
+
+#### Probabalistic Data Structures
+
+<li><a href="http://www.michaelnielsen.org/ddi/why-bloom-filters-work-the-way-they-do/" time_added="1391273974" tags="">Why Bloom filters work the way they do | DDI</a></li>
+
+* http://blog.fastforwardlabs.com/post/153566952648/probabilistic-data-structure-showdown-cuckoo
+* http://tech.adroll.com/blog/data/2013/07/10/hll-minhash.html
+* http://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/
+* https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/ <- critical!
 
 
 #### MapReduce, Hadoop, Hive

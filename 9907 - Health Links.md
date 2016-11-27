@@ -53,6 +53,7 @@
 * http://blog.dilbert.com/post/109880240641/sciences-biggest-fail
 * http://time.com/3746047/diet-soda-bad-belly-fat/?xid=tcoshare
 * http://www.theatlantic.com/health/archive/2015/02/the-food-babe-enemy-of-chemicals/385301/
+* https://en.wikipedia.org/wiki/Spermidine
 * http://nautil.us/issue/23/dominoes/yes-you-can-catch-insanity
 * http://www.nakedcapitalism.com/2015/02/war-genetically-modified-food-critics.html
 * http://onlinelibrary.wiley.com/doi/10.1002/dta.1793/full
