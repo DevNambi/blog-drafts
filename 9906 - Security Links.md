@@ -199,6 +199,7 @@
 * http://www.forbes.com/sites/andygreenberg/2013/12/04/heres-the-letter-a-senator-sent-to-20-auto-makers-demanding-answers-on-car-hacking-threats/
 * https://www.schneier.com/blog/archives/2015/09/volkswagen_and_.html
 * http://arstechnica.com/security/2015/05/the-moose-is-loose-linux-based-worm-turns-routers-into-social-network-bots/
+* http://arstechnica.com/security/2016/11/notorious-iot-botnets-weaponize-new-flaw-found-in-millions-of-home-routers/
 
 
 
@@ -226,6 +227,8 @@
 * https://ma.ttias.be/remote-code-execution-via-http-request-in-iis-on-windows/
 * http://www.extremetech.com/computing/219027-new-pc-malware-loads-before-windows-is-virtually-impossible-to-detect
 * http://www.extremetech.com/computing/227699-new-malware-takes-advantage-of-windows-god-mode-to-evade-detection
+* https://cpbotha.net/2016/11/27/android-security-in-2016-is-a-mess/
+
 
 
 

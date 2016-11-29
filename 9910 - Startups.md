@@ -78,7 +78,7 @@
 
 
 
-## Renting/Access (not Sharing) Economy
+## Renting/Access Economy, Externalities
 
 <li><a href="http://www.nytimes.com/2013/01/26/business/car-sharing-services-grow-and-expand-options.html" time_added="1359220500" tags="personal tech">Car-Sharing Services Grow, and Expand Options - NYTimes.com</a></li>
 <li><a href="http://techcrunch.com/2013/02/15/flightcar/" time_added="1360948133" tags="hn">Y Combinator-Backed FlightCar Launches Its ‘Airbnb For Airport Car Rentals’</a></li>
@@ -97,6 +97,7 @@
 * http://www.theverge.com/2015/12/4/9849242/airbnb-data-new-york-affordable-housing-illegal-hotels
 * http://www.buzzfeed.com/jsvine/things-we-learned-from-airbnb-nyc-data
 * https://docs.google.com/spreadsheets/d/1dKUD7EhhfNDlstuRiwLLVPlzdI1fJrZZ_-o458bjHbM/edit
+* http://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum
 
 
 

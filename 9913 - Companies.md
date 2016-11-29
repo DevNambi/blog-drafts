@@ -30,6 +30,7 @@
 * http://www.nytimes.com/2014/10/20/opinion/paul-krugman-amazons-monopsony-is-not-ok.html
 * http://smerity.com/articles/2015/amazon_information_leakage.html
 * http://www.nakedcapitalism.com/2015/10/harvard-business-review-ranks-amazons-jeff-bezos-as-most-predatory-ceo.html
+* https://medium.com/@cwgriffin23/amazons-two-day-shipping-is-no-longer-two-day-shipping-b8051b25d00a
 * http://www.economist.com/blogs/freeexchange/2014/10/market-power?fsrc=scn/fb/wl/bl/bigbadamazon
 * http://arstechnica.com/information-technology/2015/11/sprawling-pssht-no-one-streamlines-everything-from-books-to-bots-like-amazon/
 * https://www.scribd.com/embeds/245561031/content

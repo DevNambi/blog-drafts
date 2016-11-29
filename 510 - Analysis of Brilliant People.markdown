@@ -33,6 +33,7 @@ The assumption is that they were more than just smart. They also had a process a
 * http://www.wired.com/2015/05/inside-ilm/
 * http://www.nytimes.com/2015/07/26/magazine/the-singular-mind-of-terry-tao.html
 * http://www.brainpickings.org/2015/01/29/music-brain-ted-ed/
+* http://nautil.us/blog/how-a-genius-is-different-from-a-really-smart-person
 
 Lessons learned from Genius
 
