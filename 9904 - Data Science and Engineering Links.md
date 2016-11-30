@@ -332,6 +332,7 @@
 * https://www.periscopedata.com/blog/outlier-detection-in-sql.html
 * http://www.dataschool.io/roc-curves-and-auc-explained/
 * http://www.jeannicholashould.com/the-theorem-every-data-scientist-should-know.html
+* https://blog.godatadriven.com/kendall-tau-recommendations
 
 "Remember, nonlinear interactions, and non-Gaussian distributions are common. "
 
@@ -779,6 +780,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * https://medium.com/@akelleh/understanding-bias-a-pre-requisite-for-trustworthy-results-ee590b75b1be
 * https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c
 * https://www.quora.com/profile/Michael-Hochster/Posts/My-Quora-Stats-Textbook
+* http://data36.com/predictive-analytics-101-part-1/
 
 
 
@@ -949,6 +951,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://blog.amplitude.com/2015/03/27/why-we-chose-redshift/
 * http://blog.acolyer.org/2015/02/05/impala-a-modern-open-source-sql-engine-for-hadoop/
 * https://aws.amazon.com/blogs/aws/quickly-filter-data-in-amazon-redshift-using-interleaved-sorting/
+* https://aws.amazon.com/blogs/aws/amazon-athena-interactive-sql-queries-for-data-in-amazon-s3/
 
 #### Spark / BDAS
 

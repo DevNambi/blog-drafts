@@ -230,6 +230,7 @@
 * http://www.bloomberg.com/news/articles/2015-11-30/silicon-valley-vies-for-a-piece-of-the-u-s-mortgage-market
 * https://data.triplebyte.com/who-y-combinator-companies-want-c1880a08ac88
 * https://medium.com/@CraigUXHour/the-top-10-mistakes-made-by-startups-and-how-to-fix-them-5dcf3365068e
+* http://www.vanityfair.com/news/2016/11/theranos-lawsuit-investors-fraud-allegations
 
 
 
