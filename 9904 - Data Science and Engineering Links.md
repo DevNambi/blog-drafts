@@ -583,6 +583,7 @@
 * https://github.com/guipsamora/pandas_exercises
 * https://www.themarketingtechnologist.co/helping-our-new-data-scientists-start-in-python-a-guide-to-learning-by-doing/
 * https://mystudentvoices.com/pandas-cheat-sheet-for-data-science-in-python-b7bcdd29ef9b#.naykpgw5n
+* https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf
 
 
 

@@ -218,7 +218,7 @@
 
 
 
-### Android, OS X, Windows
+### Android, OS X, Windows, Smartphones
 
 * http://www.extremetech.com/mobile/197346-google-throws-nearly-a-billion-android-users-under-the-bus-refuses-to-patch-os-vulnerability
 * http://arstechnica.com/security/2015/06/new-remote-exploit-leaves-most-macs-vulnerable-to-permanent-backdooring/
@@ -228,6 +228,7 @@
 * http://www.extremetech.com/computing/219027-new-pc-malware-loads-before-windows-is-virtually-impossible-to-detect
 * http://www.extremetech.com/computing/227699-new-malware-takes-advantage-of-windows-god-mode-to-evade-detection
 * https://cpbotha.net/2016/11/27/android-security-in-2016-is-a-mess/
+* http://www.vanityfair.com/news/2016/11/how-bill-marczak-spyware-can-control-the-iphone
 
 
 
