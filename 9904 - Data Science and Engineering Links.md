@@ -584,6 +584,7 @@
 * https://www.themarketingtechnologist.co/helping-our-new-data-scientists-start-in-python-a-guide-to-learning-by-doing/
 * https://mystudentvoices.com/pandas-cheat-sheet-for-data-science-in-python-b7bcdd29ef9b#.naykpgw5n
 * https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf
+* https://medium.com/@kacawi/jupyter-notebook-tutorial-the-definitive-guide-660c7e651ecd
 
 
 
