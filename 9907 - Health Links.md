@@ -374,6 +374,8 @@ pandemic-20150311-story.html
 * http://hcrenewal.blogspot.com/2016/03/criminal-matter-for-attorney-general-of.html
 * http://hcrenewal.blogspot.com/2016/03/bad-health-it-at-medstar-health-fbi.html
 * http://www.consumerreports.org/health/doctors-hospitals/hospital-ratings/ratings/search-results.htm?state=WA
+* https://lukeoakdenrayner.wordpress.com/2016/11/27/do-computers-already-outperform-doctors/
+
 
 
 
