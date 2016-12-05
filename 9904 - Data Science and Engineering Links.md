@@ -582,8 +582,9 @@
 * http://www.scipy-lectures.org/
 * https://github.com/guipsamora/pandas_exercises
 * https://www.themarketingtechnologist.co/helping-our-new-data-scientists-start-in-python-a-guide-to-learning-by-doing/
-* https://mystudentvoices.com/pandas-cheat-sheet-for-data-science-in-python-b7bcdd29ef9b#.naykpgw5n
+* https://mystudentvoices.com/pandas-cheat-sheet-for-data-science-in-python-b7bcdd29ef9b
 * https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf
+* https://github.com/jakevdp/PythonDataScienceHandbook/
 
 
 
@@ -701,6 +702,7 @@
 * http://deeplearningskysthelimit.blogspot.com/2016/04/part-2-alphago-under-magnifying-glass.html
 * https://amundtveit.com/2016/11/12/deep-learning-with-generative-and-generative-adverserial-networks-iclr-2017-discoveries/
 * http://openreview.net/forum?id=r1Ue8Hcxg
+* https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02
 
 
 

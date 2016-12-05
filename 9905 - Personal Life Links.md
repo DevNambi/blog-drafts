@@ -329,6 +329,7 @@
 * http://lifehacker.com/learning-to-pick-locks-taught-me-how-crappy-door-locks-1750091711
 * http://the-toast.net/2015/02/24/get-rid-clutter-live-abundantly/
 * http://offbeathome.com/things-you-can-get-rid-of/
+* https://www.bloomberg.com/news/articles/2016-12-04/vancouver-housing-tax-pushes-chinese-to-1-million-seattle-hOmes
 
 
 
