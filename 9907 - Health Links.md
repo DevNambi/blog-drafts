@@ -317,6 +317,7 @@
 
 * http://www.wired.com/2014/12/diabetes-patients-hacking-together-diy-bionic-pancreases/
 * http://www.fastcoexist.com/3052935/the-latest-breakthrough-in-understanding-diabetes-was-made-by-an-algorithm
+* https://research.googleblog.com/2016/11/deep-learning-for-detection-of-diabetic.html
 
 #### Alzheimers, MS, Strokes
 
@@ -374,8 +375,8 @@ pandemic-20150311-story.html
 * http://hcrenewal.blogspot.com/2016/03/criminal-matter-for-attorney-general-of.html
 * http://hcrenewal.blogspot.com/2016/03/bad-health-it-at-medstar-health-fbi.html
 * http://www.consumerreports.org/health/doctors-hospitals/hospital-ratings/ratings/search-results.htm?state=WA
+* https://lukeoakdenrayner.wordpress.com/2016/11/27/do-computers-already-outperform-doctors/
 * http://incoherency.co.uk/blog/stories/medtronic-mycarelink.html
-
 
 
 #### Too Much Medicine, Adverse Outcomes

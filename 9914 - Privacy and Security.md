@@ -27,6 +27,7 @@
 * http://www.theguardian.com/technology/2015/aug/12/where-did-the-principle-of-secrecy-in-correspondence-go
 * http://rhizome.org/editorial/2015/jun/9/divorce-your-metadata/
 * http://techcrunch.com/2015/06/06/the-online-privacy-lie-is-unraveling/ <- critically important
+* http://arstechnica.com/security/2016/12/a-beginners-guide-to-beefing-up-your-privacy-and-security-online/
 * https://www.wired.com/2016/07/meet-moxie-marlinspike-anarchist-bringing-encryption-us/ <- BRILLIANT
 * https://moxie.org/blog/we-should-all-have-something-to-hide/
 * http://www.wired.com/2015/07/online-anonymity-box-puts-mile-away-ip-address/
