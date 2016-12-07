@@ -703,6 +703,8 @@
 * https://amundtveit.com/2016/11/12/deep-learning-with-generative-and-generative-adverserial-networks-iclr-2017-discoveries/
 * http://openreview.net/forum?id=r1Ue8Hcxg
 * https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02
+* https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/
+* https://blog.insightdatascience.com/nips-2016-day-1-6ae1207cab82
 
 
 
