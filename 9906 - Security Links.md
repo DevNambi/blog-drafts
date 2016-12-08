@@ -229,6 +229,7 @@
 * http://www.extremetech.com/computing/227699-new-malware-takes-advantage-of-windows-god-mode-to-evade-detection
 * https://cpbotha.net/2016/11/27/android-security-in-2016-is-a-mess/
 * http://www.vanityfair.com/news/2016/11/how-bill-marczak-spyware-can-control-the-iphone
+* https://theintercept.com/2016/12/08/phone-cracking-cellebrite-software-used-to-prosecute-tortured-dissident/
 
 
 
