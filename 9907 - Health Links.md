@@ -311,6 +311,7 @@
 * http://resilienceproject.com/ <- brilliant
 * http://www.extremetech.com/extreme/230215-hemophilia-cures-are-proving-gene-therapy-really-is-all-its-cracked-up-to-be
 * http://genomicsclass.github.io/book/
+* https://aws.amazon.com/blogs/big-data/interactive-analysis-of-genomic-datasets-using-amazon-athena/
 
 
 #### Diabetes

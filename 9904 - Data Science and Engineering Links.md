@@ -1066,6 +1066,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://tech.marksblogg.com/billion-nyc-taxi-rides-redshift.html
 * https://tech.iheart.com/mapping-the-world-of-music-using-machine-learning-part-1-9a57fa67e366
 * http://www.nickkolenda.com/customer-reviews/
+* https://aws.amazon.com/blogs/big-data/interactive-analysis-of-genomic-datasets-using-amazon-athena/
 
 
 
