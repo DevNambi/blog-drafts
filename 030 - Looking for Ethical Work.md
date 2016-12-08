@@ -150,6 +150,7 @@ Industries
 * http://africasacountry.com/kenyas-first-mockumentary-takes-on-the-ngo-world/
 * http://www.wired.com/2014/02/outsourcing-humanity-apps/
 * https://www.techdirt.com/articles/20150204/07310329906/yes-major-record-labels-are-keeping-nearly-all-money-they-get-spotify-rather-than-giving-it-to-artists.shtml
+* https://medium.com/@pcbje/the-thrill-of-releasing-a-side-project-14d5e988bb58
 * http://www.bbc.co.uk/news/science-environment-24538078
 * http://www.bbc.com/news/magazine-32736366
 * http://www.nakedcapitalism.com/2014/12/joe-firestone-lawless-society.html
