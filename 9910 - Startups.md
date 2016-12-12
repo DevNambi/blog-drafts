@@ -175,6 +175,7 @@
 * http://www.economist.com/news/business/21688390-glamorous-tech-startups-can-be-brutal-places-workers-other-side-paradise
 * http://qz.com/586941/whats-eating-silicon-valley/
 * http://fortune.com/disrupted-excerpt-hubspot-startup-dan-lyons/
+* https://byrslf.co/how-leaving-a-corporate-job-to-join-a-startup-f-ked-me-up-and-sorted-my-life-out-97f68ea14c28
 
 
 > "It's a big company, but our team is more like a startup."

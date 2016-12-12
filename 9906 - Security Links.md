@@ -200,6 +200,7 @@
 * https://www.schneier.com/blog/archives/2015/09/volkswagen_and_.html
 * http://arstechnica.com/security/2015/05/the-moose-is-loose-linux-based-worm-turns-routers-into-social-network-bots/
 * http://arstechnica.com/security/2016/11/notorious-iot-botnets-weaponize-new-flaw-found-in-millions-of-home-routers/
+* http://www.finehomebuilding.com/2013/08/14/why-i-regret-making-my-house-a-smart-house
 
 
 

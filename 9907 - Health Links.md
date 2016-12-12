@@ -214,6 +214,7 @@
 * http://well.blogs.nytimes.com/2015/01/23/ask-well-the-best-time-of-day-to-exercise/
 * http://well.blogs.nytimes.com/2015/01/26/sweaty-answer-to-chronic-illness/
 * http://well.blogs.nytimes.com/2016/04/27/1-minute-of-all-out-exercise-may-equal-45-minutes-of-moderate-exertion/
+* http://nymag.com/scienceofus/2016/04/how-neuroscientists-explain-the-mind-clearing-magic-of-running.html
 
 
 <li><a href="http://www.nytimes.com/2013/11/03/sunday-review/womens-flexibility-is-a-liability-in-yoga.html?hp" time_added="1383445933" tags="domestic,health">http://www.nytimes.com/2013/11/03/sunday-review/womens-flexibility-is-a-lia</a></li>
