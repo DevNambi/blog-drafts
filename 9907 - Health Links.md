@@ -637,6 +637,7 @@ pandemic-20150311-story.html
 * http://www.seattletimes.com/business/fbi-hospice-nurses-told-to-overdose-patients-to-speed-death/
 * http://www.nytimes.com/2016/07/31/opinion/sunday/could-women-be-trusted-with-their-own-pregnancy-tests.html
 * https://boingboing.net/2016/12/11/insiders-americas-largest-c.html
+* https://www.justice.gov/usao-ma/pr/pharmaceutical-executives-charged-racketeering-scheme
 
 <li><a href="http://www.rand.org/pubs/research_briefs/RB9744.html" time_added="1395001792" tags="">Do Workplace Wellness Programs Save Employers Money? | RAND</a></li>
 <li><a href="http://www.nytimes.com/2013/09/03/opinion/how-a-cabal-keeps-generics-scarce.html" time_added="1388678022" tags="">How a Cabal Keeps Generics Scarce - NYTimes.com</a></li>

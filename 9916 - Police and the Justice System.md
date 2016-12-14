@@ -16,6 +16,7 @@
 * http://wamc.org/post/police-detective-who-threatened-kill-teens-and-plant-drug-evidence-suspended-not-fired
 * https://www.themarshallproject.org/2016/08/11/i-m-a-judge-and-i-think-criminal-court-is-horrifying
 * https://theintercept.com/2016/09/21/here-are-eight-policies-that-can-prevent-police-killings/
+* http://www.slate.com/articles/technology/future_tense/2016/12/software_problems_are_leading_to_wrongful_arrests.html
 * https://www.washingtonpost.com/national/as-arrests-mount-in-baton-rouge-protesters-question-police-tactics/2016/07/10/8d695124-46f1-11e6-bdb9-701687974517_story.html
 * https://www.washingtonpost.com/news/wonk/wp/2016/09/30/federal-judge-the-war-on-drugs-principal-casualty-has-been-the-constitution/
 * http://theadvocate.com/news/16367024-127/live-updates-more-alton-sterling-protests-beginning-in-baton-rouge

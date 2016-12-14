@@ -231,6 +231,7 @@
 * http://arstechnica.com/information-technology/2016/06/google-deepmind-alphago-ke-jie-match-details/
 * http://www.bloomberg.com/news/articles/2016-07-19/google-cuts-its-giant-electricity-bill-with-deepmind-powered-ai
 * http://www.bloomberg.com/news/articles/2016-07-21/google-sprints-ahead-in-ai-building-blocks-leaving-rivals-wAry
+* https://techcrunch.com/2016/12/12/google-has-reportedly-stopped-developing-its-own-self-driving-car/
 
 
 ## Uber
@@ -292,6 +293,7 @@
 * http://www.stereogum.com/1870768/steve-miller-expands-on-rock-hall-criticism-everybody-is-kind-of-a-dick-this-whole-industry-fucking-sucks/wheres-the-beef/
 * http://arstechnica.com/business/2016/04/riaa-still-hates-the-dmca-even-as-streaming-revenues-soar/
 * https://freedom-to-tinker.com/2016/09/14/all-the-news-thats-fit-to-change-insights-into-a-corpus-of-2-5-million-news-headlines/
+* http://www.raptitude.com/2016/12/five-things-you-notice-when-you-quit-the-news/
 
 
 

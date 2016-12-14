@@ -113,6 +113,8 @@ We believe we are working to make our society, our world, a better place. At the
 * https://theintercept.com/2015/10/23/drones-ibm-and-the-big-data-of-death/ <- the worst thing you can do
 * http://dl.acm.org/citation.cfm?id=5673 <- how not to lie with statistics
 * https://techcrunch.com/2016/12/13/ieee-puts-out-a-first-draft-guide-for-how-tech-can-achieve-ethical-ai-design/
+* http://www.slate.com/articles/technology/future_tense/2016/12/software_problems_are_leading_to_wrongful_arrests.html
+* http://neveragain.tech/
 
 
 

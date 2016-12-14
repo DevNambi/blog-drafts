@@ -16,6 +16,7 @@
 * http://techcrunch.com/2015/10/17/specialization-polymaths-and-the-pareto-principle-in-a-convergence-economy/
 * http://jessicaabel.com/2016/01/27/idea-debt/
 * https://automatedinsights.com/blog/automation-at-work-an-interview-with-hilary-mason/
+* https://www.reddit.com/r/LifeProTips/comments/5hsx5d/lpt_view_your_time_as_an_investment_and_pay/
 * http://www.educba.com/20-tips-to-increase-productivity/
 * https://www.mainstreet.com/article/apparently-cool-kids-were-high-school-band-after-all/page/2 <- look at the research for myself
 * http://www.innovationexcellence.com/blog/2015/08/25/the-dynamics-of-a-creative-team/

@@ -267,6 +267,7 @@
 * https://www.paypal-engineering.com/2016/04/11/statistics-for-software/
 * http://da-data.blogspot.com/2016/04/stealing-googles-coding-practices-for.html
 * http://basho.com/posts/technical/microservices-please-dont/
+* https://dzone.com/articles/microservices-please-dont
 
 
 
@@ -375,7 +376,6 @@
 
 * http://muratbuffalo.blogspot.com/2014/07/distributed-is-not-necessarily-more.html
 * http://engineering.pinterest.com/post/113376157699/open-sourcing-pinball
-* https://www.backblaze.com/blog/cloud-storage-hardware/
 * http://www.infoq.com/news/2015/04/vogels-patterns-cloud-adoption
 * http://www.wired.com/2015/04/kevin-mcelvaney-agbogbloshie/
 * http://danluu.com/intel-cat/
@@ -388,27 +388,23 @@
 * https://www.wired.com/2016/09/microsoft-bets-future-chip-reprogram-fly/
 * http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire
 * http://curtis.io/others-work/open-tooling-for-fpgas
-* https://www.backblaze.com/blog/petabytes-on-a-budget-how-to-build-cheap-cloud-storage-2/
 * http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/
 * http://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time
 * http://www.extremetech.com/mobile/204340-did-tsmcs-20nm-process-harm-qualcomms-snapdragon-810
 * http://cloudacademy.com/blog/google-cloud-vs-aws-a-comparison/
 * http://radar.oreilly.com/2014/12/why-the-data-center-needs-an-operating-system.html
 * https://gigaom.com/2015/01/04/verizon-cloud-warns-customers-of-2-day-maintenance-closure/
-* http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/
 * http://www.xess.com/blog/extinction-level-event/
 * http://www.lighterra.com/papers/modernmicroprocessors/ <- a beautiful writeup
 * http://blog.serverfault.com/2015/03/05/how-we-upgrade-a-live-data-center/
 * http://danluu.com/3c-conflict/
-* http://blog.scalyr.com/2014/05/searching-20-gbsec-systems-engineering-before-algorithms/?1
+* http://blog.scalyr.com/2014/05/searching-20-gbsec-systems-engineering-before-algorithms/
 * http://windowsitpro.com/cloud/hp-cloud-were-all-out
 * http://kubernetesio.blogspot.com/2015/04/borg-predecessor-to-kubernetes.html
-* http://bits.blogs.nytimes.com/2015/04/07/hp-comes-to-terms-with-the-cloud/?_r=0
+* http://bits.blogs.nytimes.com/2015/04/07/hp-comes-to-terms-with-the-cloud/
 * http://arstechnica.com/gadgets/2015/05/amd-admits-it-cant-be-the-cheaper-solution-will-refocus-on-performance/
-* http://www.extremetech.com/computing/205382-ssds-can-lose-data-in-as-little-as-7-days-without-power
 * http://www.extremetech.com/extreme/205231-memristors-linked-into-neural-network-arrays
 * http://www.rightscale.com/blog/cloud-cost-analysis/google-vs-aws-pricing-google-cuts-are-first-2015
-* https://laur.ie/blog/2015/06/ssds-a-gift-and-a-curse/
 * http://sebastiansylvan.com/2009/11/22/two-performance-walls-approaching/
 * https://www.edx.org/course/linuxfoundationx/linuxfoundationx-lfs101x-introduction-1621
 * http://etodd.io/2015/09/28/one-weird-trick-better-code/
@@ -421,7 +417,6 @@
 * http://githubengineering.com/githubs-metal-cloud/
 * http://www.infoworld.com/article/3011916/it-jobs/3-hottest-cloud-job-skills-for-2016.html
 * http://www.agner.org/optimize/blog/read.php?i=417
-* http://blog.zachbjornson.com/2015/12/29/cloud-storage-performance.html
 * http://danluu.com/cpu-bugs/
 * http://blog.codinghorror.com/the-scooter-computer/
 * http://arstechnica.com/science/2016/02/is-d-waves-quantum-processor-really-10%E2%81%B8-times-faster-than-a-normal-computer/
@@ -429,6 +424,21 @@
 * https://status.cloud.google.com/incident/compute/16007?post-mortem
 * https://thehftguy.wordpress.com/2016/06/15/gce-vs-aws-in-2016-why-you-should-never-use-amazon/
 * https://thehftguy.wordpress.com/2016/11/18/google-cloud-is-50-cheaper-than-aws/
+
+
+
+## Storage, SAN and I/O
+
+* http://www.smh.com.au/national/public-service/thousands-of-public-servants-sit-idle-as-atos-it-melts-down-20161213-gt9xfd.html
+* https://www.backblaze.com/blog/petabytes-on-a-budget-how-to-build-cheap-cloud-storage-2/
+* https://laur.ie/blog/2015/06/ssds-a-gift-and-a-curse/
+* http://blog.zachbjornson.com/2015/12/29/cloud-storage-performance.html
+* http://www.extremetech.com/computing/205382-ssds-can-lose-data-in-as-little-as-7-days-without-power
+* http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/
+* https://www.backblaze.com/blog/cloud-storage-hardware/
+
+
+
 
 
 ### Docker, Containers, Unikernels
