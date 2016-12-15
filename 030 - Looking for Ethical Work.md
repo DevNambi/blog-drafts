@@ -88,6 +88,7 @@ Industries
 * http://mobile.nytimes.com/2015/04/28/world/europe/pope-francis-steps-up-campaign-on-climate-change-to-conservatives-alarm.html?_r=0
 * https://www.eff.org/deeplinks/2015/02/eff-files-amicus-brief-case-seeks-hold-ibm-responsible-facilitating-apartheid
 * http://www.businessinsider.com/technology-is-destroying-jobs-and-it-could-spur-a-global-crisis-2015-6
+* http://arstechnica.com/security/2016/12/hack_attacks_on_black_lives_matter/
 * http://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/
 * http://www.economist.com/news/international/21699906-freedom-speech-retreat-muzzle-grows-tighter
 * http://www.ocregister.com/articles/jeon-62174-nguyen-captain.html

@@ -18,6 +18,7 @@
 * http://www.khou.com/features/san-antonino-man-has-engine-that-gets-100-mpg/242673922
 * http://www.extremetech.com/extreme/233418-cyber-is-the-new-nuclear-changing-the-world-through-mutually-assured-disruption
 * http://arstechnica.com/information-technology/2016/08/the-world-series-of-hacking-without-humans/
+* http://arstechnica.com/security/2016/12/hack_attacks_on_black_lives_matter/
 * http://arstechnica.com/security/2016/05/google-dorking-when-pii-and-exploitable-bugs-are-only-a-search-away/
 * https://theintercept.com/2015/06/20/wikileaks-jacob-appelbaum-google-investigation/
 * http://www.theregister.co.uk/2016/08/10/microsoft_secure_boot_ms16_100/
