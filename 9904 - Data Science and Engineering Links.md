@@ -705,6 +705,7 @@
 * https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02
 * https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/
 * https://blog.insightdatascience.com/nips-2016-day-1-6ae1207cab82
+* https://hackernoon.com/deep-learning-cheat-sheet-25421411e460
 
 
 

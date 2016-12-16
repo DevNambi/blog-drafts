@@ -48,6 +48,7 @@ Only use active verbs.
 * http://paulgraham.com/talk.html
 * http://qz.com/778767/to-tell-someone-theyre-wrong-first-tell-them-how-theyre-right/
 * http://blog.statuspage.io/why-public-apologies-suck
+* https://hackernoon.com/pr-101-for-engineers-7cd116cc5347
 
 
 Blog meta
