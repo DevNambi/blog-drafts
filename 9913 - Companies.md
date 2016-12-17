@@ -115,6 +115,7 @@
 * http://www.bloombergview.com/articles/2016-04-28/mark-zuckerberg-gets-to-control-facebook-a-while-longer
 * https://mic.com/articles/154169/leaked-apple-emails-reveal-employees-complaints-about-sexist-toxic-work-environment
 * https://stratechery.com/2016/apple-should-buy-netflix/
+* https://medium.com/@smsowmya/harassment-at-apple-my-perspective-ea0168e15002
 
 
 ## IBM and other IT/software companies

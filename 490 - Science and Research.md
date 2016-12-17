@@ -18,6 +18,8 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://arstechnica.com/science/2015/08/100-psychology-experiments-repeated-less-than-half-successful/
 * http://www.wired.com/2016/03/science-education-woefully-uncreative-change/
 * http://www.vox.com/2016/7/14/12016710/science-challeges-research-funding-peer-review-process
+* https://www.quantamagazine.org/20161215-proton-decay-grand-unification/
+* https://www.newscientist.com/article/2116446-first-test-of-rival-to-einsteins-gravity-kills-off-dark-matter/
 * http://arstechnica.com/science/2016/02/the-problem-with-bpa-free-alternatives-are-just-as-troubling/
 * http://mathbabe.org/2015/11/16/debiasing-techniques-in-science/
 * http://swcarpentry.github.io/slideshows/best-practices/index.html
