@@ -482,6 +482,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://arstechnica.com/science/2016/06/how-world-war-ii-scientists-invented-a-data-driven-approach-to-fighting-fascism/
 * https://www.reddit.com/r/EnoughTrumpSpam/comments/4teoxl/a_final_response_to_the_tell_me_why_trump_is_a/
 * http://fivethirtyeight.com/features/the-political-process-isnt-rigged-it-has-much-bigger-problems/
+* https://medium.com/@erikaheidewald/the-north-carolina-gops-power-grab-represents-the-end-of-democracy-d94a68ca3000
 
 
 
