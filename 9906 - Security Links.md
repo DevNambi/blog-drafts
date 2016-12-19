@@ -10,6 +10,7 @@
 * https://medium.com/the-coinbase-blog/on-phone-numbers-and-identity-423db8577e58
 * http://mjg59.dreamwidth.org/43486.html
 * https://blogs.dropbox.com/tech/2016/09/how-dropbox-securely-stores-your-passwords/
+* https://blog.torproject.org/blog/technology-hostile-states-ten-principles-user-protection
 * https://www.washingtonpost.com/world/national-security/security-of-critical-phone-database-called-into-question/2016/04/28/11c23b10-0c8d-11e6-a6b6-2e6de3695b0e_story.html
 * http://security.stackexchange.com/questions/142496/which-security-measures-make-sense-for-a-static-web-site 
 * https://danielmiessler.com/study/security-by-obscurity/
