@@ -645,6 +645,7 @@
 ## Java
 
 * http://mechanical-sympathy.blogspot.com/2013/07/java-garbage-collection-distilled.html
+* http://tech.jonathangardner.net/wiki/Why_Java_Sucks
 
 
 ## JavaScript
