@@ -264,6 +264,7 @@
 * https://www.quora.com/What-are-20-questions-to-detect-fake-data-scientists
 * https://www.oreilly.com/ideas/2015-data-science-salary-survey
 * https://www.oreilly.com/ideas/5-secrets-for-writing-the-perfect-data-scientist-resume
+* https://news.ycombinator.com/item?id=13233352
 
 
 @tdhopper - " Data scientists: "The hard part is data collection, cleaning, and problem formulation." D.S. giving an interview: "Tell me about math." "
