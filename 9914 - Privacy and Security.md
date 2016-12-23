@@ -105,6 +105,7 @@
 * http://arstechnica.com/security/2015/10/unpatched-browser-weaknesses-can-be-exploited-to-track-millions-of-web-users/
 * https://ar.al/notes/why-im-not-speaking-at-cpdp/
 * http://arstechnica.com/tech-policy/2015/12/backslash-anti-surveillance-gadgets-for-protesters/
+* https://www.wired.com/2016/12/encryption-app-signal-fights-censorship-clever-workaround/
 * https://www.behance.net/gallery/16225247/I-have-NOT-read-and-agree-to-the-terms-of-use
 * http://fivethirtyeight.com/datalab/the-way-we-use-social-security-numbers-is-absurd/
 * http://googleonlinesecurity.blogspot.com/2015/07/new-research-comparing-how-security.html

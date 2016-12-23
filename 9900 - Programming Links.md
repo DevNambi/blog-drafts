@@ -96,6 +96,7 @@
 * http://www.exceptionnotfound.net/fundamental-laws-of-software-development/
 * https://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers/answer/Jens-Rantil
 * https://theintercept.com/2016/07/29/a-famed-hacker-is-grading-thousands-of-programs-and-may-revolutionize-software-in-the-process/
+* http://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8151.pdf <- "Dramatically Reducing Software Vulnerabilities"
 
 
 
