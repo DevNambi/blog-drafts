@@ -322,6 +322,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://www.washingtonpost.com/news/wonk/wp/2016/09/30/federal-judge-the-war-on-drugs-principal-casualty-has-been-the-constitution/
 * https://www.theatlantic.com/international/archive/2015/09/united-states-china-war-thucydides-trap/406756/
 * https://www.washingtonpost.com/investigations/pentagon-buries-evidence-of-125-billion-in-bureaucratic-waste/2016/12/05/e0668c76-9af6-11e6-a0ed-ab0774c1eaa5_story.html
+* https://warisboring.com/too-many-generals-spoil-americas-democracy-79b23a327983
 
 
 
