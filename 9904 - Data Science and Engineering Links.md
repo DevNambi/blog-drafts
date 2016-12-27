@@ -789,6 +789,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c
 * https://www.quora.com/profile/Michael-Hochster/Posts/My-Quora-Stats-Textbook
 * http://data36.com/predictive-analytics-101-part-1/
+* https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README.md
 
 
 
