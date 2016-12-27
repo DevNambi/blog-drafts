@@ -165,7 +165,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.nytimes.com/2015/10/18/world/middleeast/in-east-jerusalem-palestinians-are-seething-after-years-of-neglect.html
 * http://www.theatlantic.com/international/archive/2016/01/egypt-revolution-arab-spring/426609/
 * http://www.nytimes.com/2016/12/20/opinion/australias-brave-whistleblower-nurse.html
-
+* http://www.newyorker.com/magazine/2017/01/02/a-bigger-problem-than-isis
 
 
 

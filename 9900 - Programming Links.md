@@ -425,6 +425,7 @@
 * https://status.cloud.google.com/incident/compute/16007?post-mortem
 * https://thehftguy.wordpress.com/2016/06/15/gce-vs-aws-in-2016-why-you-should-never-use-amazon/
 * https://thehftguy.wordpress.com/2016/11/18/google-cloud-is-50-cheaper-than-aws/
+* http://www.nytimes.com/2016/12/25/technology/why-the-computing-cloud-will-keep-growing-and-growing.html
 
 
 
