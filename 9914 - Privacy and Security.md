@@ -35,6 +35,7 @@
 * http://www.wired.com/2015/10/cars-that-talk-to-each-other-are-much-easier-to-spy-on/
 * http://www.mondaynote.com/2015/08/03/what-the-ad-blocker-debate-reveals/
 * http://www.extremetech.com/internet/180485-the-ultimate-guide-to-staying-anonymous-and-protecting-your-privacy-online
+* https://backchannel.com/how-gps-became-a-human-tracking-mechanism-257b5cba8f3a
 * http://m.thenation.com/article/208593-you-can-be-prosecuted-clearing-your-browser-history
 * https://mitpress.mit.edu/books/obfuscation
 * https://tech.vijayp.ca/adding-a-phone-number-to-your-google-account-can-make-it-less-secure-f1cc7280ff6a

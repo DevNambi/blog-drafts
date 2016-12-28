@@ -115,6 +115,7 @@
 * http://www.theguardian.com/society/2016/apr/07/the-sugar-conspiracy-robert-lustig-john-yudkin
 * http://visual.ly/snake-oil
 * https://aeon.co/essays/is-fasting-good-for-you-what-we-know-so-far
+* http://federalnewsradio.com/records-management-month/2016/11/usda-turns-nutritional-data-open-data/
 
 
 

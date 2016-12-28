@@ -52,6 +52,7 @@ Come up with the cost-effectiveness of different sports & physical exercises.
 * https://www.youtube.com/watch?v=GgzDOSgwZXU
 * https://github.com/cdcepi/zika
 * http://www.atlasobscura.com/articles/the-incompatible-food-triad-is-the-most-delicious-philosophical-problem-of-our-time
+* http://federalnewsradio.com/records-management-month/2016/11/usda-turns-nutritional-data-open-data/
 
 ### Health from Work
 * What's the benefit of a standing desk?
