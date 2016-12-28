@@ -728,13 +728,14 @@
 
 
 
-#### ML Tools, Hyperparameters
+#### ML Tools, Hyperparameters, Model Stacking/Averaging
 
 * https://blog.onliquid.com/machine-learning-service-benchmark/
 * blog.dato.com/a-hyperparameter-search-tool-built-for-data-science
 * http://dswalter.github.io/blog/overfitting-regularization-hyperparameters/
 * http://www.startup.ml/blog/hyperparam
 * http://sebastianruder.com/optimizing-gradient-descent/
+* http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/
 
 
 
