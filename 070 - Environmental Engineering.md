@@ -112,6 +112,7 @@ Emphasize what we don't know
 * https://www.washingtonpost.com/graphics/national/power-plants/
 * http://www.newyorker.com/magazine/2015/12/21/the-siege-of-miami <- well, they'll be underwater soon enough.
 * http://arstechnica.com/science/2015/05/three-pennsylvania-wells-likely-contaminated-by-fracking/
+* http://www.huffingtonpost.com/tom-teicholz/ebikes-i-sing-the-ride-el_b_13860700.html
 * http://arstechnica.com/cars/2015/10/95-of-european-diesels-tested-flunk-emissions-standards/
 * http://www.wired.com/2015/12/the-hyperloops-testing-its-propulsion-system-next-month/
 * http://www.nytimes.com/2015/12/08/business/energy-environment/despite-push-for-cleaner-cars-sheer-numbers-could-work-against-climate-benefits.html

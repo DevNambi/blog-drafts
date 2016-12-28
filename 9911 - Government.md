@@ -142,6 +142,7 @@
 * http://www.nytimes.com/2016/02/19/opinion/a-little-reality-on-immigration.html
 * https://www.washingtonpost.com/world/national-security/can-a-3-year-old-represent-herself-in-immigration-court-this-judge-thinks-so/2016/03/03/5be59a32-db25-11e5-925f-1d10062cc82d_story.html
 * http://www.nytimes.com/2016/12/20/opinion/australias-brave-whistleblower-nurse.html
+* http://www.nytimes.com/2016/12/28/us/homeland-security-border-bribes.html
 
 
 

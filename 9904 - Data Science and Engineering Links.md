@@ -709,6 +709,7 @@
 * https://hackernoon.com/deep-learning-cheat-sheet-25421411e460
 * https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
 * http://course.fast.ai/start.html
+* http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/deep-learning-ai-listens-to-machines-for-signs-of-trouble
 
 
 

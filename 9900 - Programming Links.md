@@ -427,6 +427,7 @@
 * https://thehftguy.wordpress.com/2016/06/15/gce-vs-aws-in-2016-why-you-should-never-use-amazon/
 * https://thehftguy.wordpress.com/2016/11/18/google-cloud-is-50-cheaper-than-aws/
 * http://www.nytimes.com/2016/12/25/technology/why-the-computing-cloud-will-keep-growing-and-growing.html
+* http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/deep-learning-ai-listens-to-machines-for-signs-of-trouble
 
 
 

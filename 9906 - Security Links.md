@@ -284,6 +284,7 @@
 * http://arstechnica.com/security/2015/02/why-even-strong-crypto-wouldnt-protect-ssns-exposed-in-anthem-breach/
 * http://krebsonsecurity.com/2015/02/anthem-breach-may-have-started-in-april-2014/
 * http://www.darkreading.com/anthem-refuses-to-let-inspector-general-conduct-full-security-audit/d/d-id/1319365?_mc=RSS_DR_EDT
+* http://arstechnica.com/security/2016/12/in-an-era-of-password-leaks-netflix-tries-extreme-vigilance-with-mixed-results/
 
 
 

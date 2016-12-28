@@ -143,6 +143,7 @@
 * https://newrepublic.com/article/124476/dispossessed-land-dreams 
 * http://minimaxir.com/2016/05/sfba-compensation/
 * http://qz.com/727855/silicon-valley-tech-workers-see-startups-and-silicon-valley-losing-their-luster/
+* https://www.theguardian.com/society/2016/dec/28/silicon-valley-homeless-east-palo-alto-california-schools
 
 
 
