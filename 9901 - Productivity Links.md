@@ -23,6 +23,7 @@
 * http://www.theatlantic.com/science/archive/2015/12/stop-being-so-self-conscious/420897/
 * http://lifehacker.com/you-dont-need-more-time-you-just-need-to-use-it-better-1758290764
 * https://knowledge.sparkcapital.com/slot-machines-retirement-homes-and-brexit-applications-of-probability-theorys-explore-and-6717896869d1
+* https://medium.com/@duncangans/what-is-willpower-f02b89c6948f
 * http://googleresearch.blogspot.com/2015/11/computer-respond-to-this-email.html
 * https://medium.com/@EskoKilpi/creative-commons-of-innovation-a548dcaf23ed#.he9ko127u
 * http://www.bbc.com/future/story/20151123-the-brains-miracle-superpowers-of-self-improvement
