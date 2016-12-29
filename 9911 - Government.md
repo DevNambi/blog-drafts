@@ -22,6 +22,7 @@
 * http://www.vox.com/2015/9/22/9374105/elizabeth-warrens-truth-in-settlements
 * http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html
 * http://www.theatlantic.com/politics/archive/2015/03/the-conservative-case-against-enforcing-immigration-laws/387004/
+* http://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns
 * http://www.salon.com/2015/06/12/this_is_the_nras_worst_nightmare_the_new_gun_safety_study_that_gun_nuts_dont_want_you_to_hear_about/
 * http://www.nakedcapitalism.com/2015/05/delusional-thinking-in-washington-the-desperate-plight-of-a-declining-superpower.html
 * http://www.vice.com/read/war-in-weed-country-v22n11
@@ -167,6 +168,8 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.theatlantic.com/international/archive/2016/01/egypt-revolution-arab-spring/426609/
 * http://www.nytimes.com/2016/12/20/opinion/australias-brave-whistleblower-nurse.html
 * http://www.newyorker.com/magazine/2017/01/02/a-bigger-problem-than-isis
+* http://www.nytimes.com/2016/12/28/us/politics/john-kerry-israel-palestine-peace.html
+* http://www.nytimes.com/2016/12/28/world/middleeast/kerry-netanyahu-obama-trump-israel.html
 
 
 
@@ -324,6 +327,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://www.theatlantic.com/international/archive/2015/09/united-states-china-war-thucydides-trap/406756/
 * https://www.washingtonpost.com/investigations/pentagon-buries-evidence-of-125-billion-in-bureaucratic-waste/2016/12/05/e0668c76-9af6-11e6-a0ed-ab0774c1eaa5_story.html
 * https://warisboring.com/too-many-generals-spoil-americas-democracy-79b23a327983
+* http://www.nytimes.com/2016/12/28/magazine/afghanistan-soldier-ptsd-the-fighter.html
 
 
 

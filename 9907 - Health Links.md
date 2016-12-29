@@ -97,7 +97,8 @@
 * http://seattletimes.com/html/nationworld/2025702384_obesitystudyxml.html
 * http://online.wsj.com/articles/how-the-brain-uses-glucose-to-fuel-self-control-1417618996
 * http://www.nytimes.com/2014/12/04/opinion/nicholas-kristof-abusing-chickens-we-eat.html
-* http://well.blogs.nytimes.com/2014/12/08/bpa-in-cans-and-plastic-bottles-linked-to-quick-rise-in-blood-pressure/?_r=0
+* http://well.blogs.nytimes.com/2014/12/08/bpa-in-cans-and-plastic-bottles-linked-to-quick-rise-in-blood-pressure/
+* http://arstechnica.com/science/2016/12/for-the-love-of-god-eat-more-nuts-and-other-2016-diet-derps/
 * http://www.bbc.com/news/magazine-30549150
 * http://www.theatlantic.com/health/archive/2015/01/the-new-antibiotics-might-be-essential-oils/384247/
 * https://www.washingtonpost.com/news/wonk/wp/2016/04/12/this-study-40-years-ago-could-have-reshaped-the-american-diet-but-it-was-never-fully-published/
@@ -401,6 +402,7 @@ pandemic-20150311-story.html
 * http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/
 * http://www.fastcoexist.com/3052282/the-latest-medical-breakthrough-in-spinal-cord-injuries-was-made-by-a-computer-program
 * http://mobile.nytimes.com/2015/11/23/health/states-lead-effort-to-let-pharmacists-prescribe-birth-control.html
+* http://www.nytimes.com/2016/12/28/nyregion/fentanyl-epidemic-long-island.html
 * http://hitconsultant.net/2015/10/13/10-ways-artificial-intelligence-could-make-me-a-better-doctor/
 * http://stm.sciencemag.org/content/7/278/278ra33.full
 * https://vanwinkles.com/bedtime-for-benzodiazepines-addicted-drug-most-popular-sleeping-pills

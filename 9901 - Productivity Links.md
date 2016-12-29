@@ -47,6 +47,7 @@
 * https://hbr.org/2015/04/time-management-training-doesnt-work
 * http://www.brainpickings.org/2014/01/22/brian-eno-visual-music-oblique-strategies/
 * http://calnewport.com/blog/2015/03/27/isaac-asimovs-advice-for-being-creative-hint-dont-brainstorm/
+* http://www.newyorker.com/science/maria-konnikova/the-secret-formula-for-resilience
 * http://nautil.us/issue/23/dominoes/fear-in-the-cockpit
 * http://time.com/3554741/bad-habits-mental-health/
 * https://www.youtube.com/playlist?list=PL2FF649D0C4407B30
