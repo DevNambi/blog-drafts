@@ -65,6 +65,7 @@ I've found various links with resources about job searching and resumes.
 <li<a href="https://80000hours.org/career-guide/how-to-get-a-job/">All the best advice we could find on how to get a job</a></li>
 <li><a href="https://dribbble.com/shots/2873870-HTML-Email-Cover-Letter">HTML Email Cover Letter</a></li>
 <li><a href="https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331">5 Key Learnings from the Post-Bootcamp Job Search</a></li>
+<li><a href="https://hbr.org/2016/12/research-how-subtle-class-cues-can-backfire-on-your-resume">Research: How Subtle Class Cues Can Backfire on Your Resume</a></li>
 </ul>
 
 
