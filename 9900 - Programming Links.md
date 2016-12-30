@@ -270,6 +270,7 @@
 * http://da-data.blogspot.com/2016/04/stealing-googles-coding-practices-for.html
 * http://basho.com/posts/technical/microservices-please-dont/
 * https://dzone.com/articles/microservices-please-dont
+* https://www.hidefsoftware.co.uk/2016/12/25/the-caching-antipattern/
 
 
 
