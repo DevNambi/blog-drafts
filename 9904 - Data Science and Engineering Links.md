@@ -587,6 +587,7 @@
 * https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf
 * https://github.com/jakevdp/PythonDataScienceHandbook/
 * https://medium.com/@kacawi/jupyter-notebook-tutorial-the-definitive-guide-660c7e651ecd
+* https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
 
 
 

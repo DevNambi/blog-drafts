@@ -593,6 +593,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * https://www.washingtonpost.com/news/grade-point/wp/2015/10/15/a-better-way-to-gauge-how-common-sexual-assault-is-on-college-campuses/
 * http://www.bellinghamherald.com/news/local/article42031710.html
 * http://m.stltoday.com/news/local/education/missteps-not-student-revolt-led-to-mizzou-chancellor-s-demise/article_f955e9cf-6fc8-5fb0-b2cc-1b798d53fccc.html
+* http://talkingpointsmemo.com/livewire/meadows-call-repeal-title-xi-coordinationn
 
 
 ### Finance, Debt
