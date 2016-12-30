@@ -479,6 +479,7 @@
 * https://hbr.org/2016/11/what-so-many-people-dont-get-about-the-u-s-working-class
 * https://aeon.co/essays/what-if-jobs-are-not-the-solution-but-the-problem
 * https://medium.com/@nntaleb/inequality-and-skin-in-the-game-d8f00bc0cb46
+* http://www.nytimes.com/2016/12/29/opinion/london-rolls-out-the-blood-red-carpet-for-kleptocrats.html
 
 
 

@@ -31,7 +31,7 @@
 * https://www.wired.com/2016/07/meet-moxie-marlinspike-anarchist-bringing-encryption-us/ <- BRILLIANT
 * https://moxie.org/blog/we-should-all-have-something-to-hide/
 * http://www.wired.com/2015/07/online-anonymity-box-puts-mile-away-ip-address/
-* http://www.marketingweek.com/2015/07/08/consumers-are-dirtying-databases-with-false-details/?nocache=true&adfesuccess=1
+* http://www.marketingweek.com/2015/07/08/consumers-are-dirtying-databases-with-false-details/
 * http://www.wired.com/2015/10/cars-that-talk-to-each-other-are-much-easier-to-spy-on/
 * http://www.mondaynote.com/2015/08/03/what-the-ad-blocker-debate-reveals/
 * http://www.extremetech.com/internet/180485-the-ultimate-guide-to-staying-anonymous-and-protecting-your-privacy-online
@@ -39,6 +39,7 @@
 * http://m.thenation.com/article/208593-you-can-be-prosecuted-clearing-your-browser-history
 * https://mitpress.mit.edu/books/obfuscation
 * https://tech.vijayp.ca/adding-a-phone-number-to-your-google-account-can-make-it-less-secure-f1cc7280ff6a
+* https://www.propublica.org/article/facebook-doesnt-tell-users-everything-it-really-knows-about-them
 * https://bananas.liberty.me/youre-a-criminal-in-a-mass-surveillance-world-how-to-not-get-caught/ <- critically important
 * https://medium.com/message/the-hypocrisy-of-the-internet-journalist-587d33f6279e
 * https://theintercept.com/surveillance-catalogue/

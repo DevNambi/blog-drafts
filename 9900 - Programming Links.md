@@ -543,6 +543,7 @@
 * https://aws.amazon.com/blogs/aws/new-worldwide-delivery-of-amazon-sns-messages-via-sms/
 * https://github.com/open-guides/og-aws <- very, very useful
 * https://blog.lodr.io/going-serverless-5x-faster-100x-cheaper-2b7db8c37405
+* https://www.scotte.org/2016/12/ZFS-root-filesystem-on-AWS
 
 
 
