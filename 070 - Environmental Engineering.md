@@ -272,6 +272,7 @@ Emphasize what we don't know
 * http://www.extremetech.com/extreme/194696-an-antarctic-adventure-the-life-of-a-south-pole-communications-technician
 * http://www.bloomberg.com/news/print/2014-12-05/musk-battery-works-fill-utilities-with-fear-and-promise.html
 * http://www.economist.com/news/technology-quarterly/21635332-jb-straubel-charged-more-electrifying-californian-carmaker-he
+* http://www.nytimes.com/2016/12/30/science/fish-climate-change-northeast.html
 
 
 

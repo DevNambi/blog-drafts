@@ -329,6 +329,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://www.washingtonpost.com/investigations/pentagon-buries-evidence-of-125-billion-in-bureaucratic-waste/2016/12/05/e0668c76-9af6-11e6-a0ed-ab0774c1eaa5_story.html
 * https://warisboring.com/too-many-generals-spoil-americas-democracy-79b23a327983
 * http://www.nytimes.com/2016/12/28/magazine/afghanistan-soldier-ptsd-the-fighter.html
+* http://www.nytimes.com/2016/12/31/opinion/sunday/nixons-vietnam-treachery.html
 
 
 
@@ -433,6 +434,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.seattletimes.com/seattle-news/transportation/i-405-tolls-rake-in-more-than-3-times-expected-income/ <- look at costs. 3rd-party provider is taking a huge chunk of the money, for what? 
 * http://www.seattletimes.com/opinion/letters-to-the-editor/sound-transit-3-draft-plan-readers-first-reactions/
 * http://humantransit.org/2015/07/mega-explainer-the-ridership-recipe.html
+* http://www.vox.com/policy-and-politics/2017/1/1/14112776/new-york-second-avenue-subway-phase-2
 
 
 

@@ -239,6 +239,7 @@
 * http://www.iflscience.com/technology/a-step-by-step-guide-on-how-to-remove-your-online-presence/
 * https://theintercept.com/2016/11/12/surveillance-self-defense-against-the-trump-administration/
 * http://howlroundmusic.org/wp/?p=23
+* http://www.independent.co.uk/life-style/gadgets-and-tech/news/investigatory-powers-act-bill-snoopers-charter-spying-law-powers-theresa-may-a7503616.html
 
 
 

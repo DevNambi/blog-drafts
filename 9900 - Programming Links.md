@@ -99,6 +99,7 @@
 * http://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8151.pdf <- "Dramatically Reducing Software Vulnerabilities"
 * http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/
 * http://hyperpolyglot.org/
+* https://jvns.ca/blog/good-questions/ <- amazing
 
 
 
@@ -210,6 +211,8 @@
 * https://github.com/hemanth/functional-programming-jargon
 * http://codewithoutrules.com/2016/08/03/self-confidence/
 * https://github.com/Developer-Y/cs-video-courses/blob/master/README.md
+* https://medium.com/@jacobgreenleaf/why-data-structures-are-irrelevant-to-software-engineering-interviews-and-what-can-be-done-about-it-bd9b7a9a0bb8
+
 
 
 
@@ -271,7 +274,7 @@
 * http://basho.com/posts/technical/microservices-please-dont/
 * https://dzone.com/articles/microservices-please-dont
 * https://www.hidefsoftware.co.uk/2016/12/25/the-caching-antipattern/
-
+* https://www.quora.com/What-tech-trends-SaaS-PaaS-Programming-IoT-etc-will-gain-more-momentum-in-2017-and-which-will-falter/answer/Oliver-Wolf-6
 
 
 ## UI, UX, HCD
