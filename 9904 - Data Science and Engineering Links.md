@@ -538,12 +538,13 @@
 * http://www.wired.com/2014/10/future-of-artificial-intelligence/
 * http://www.wired.com/2015/07/trained-googles-chatbot-mein-kampf/
 
-#### Agent Systems and Networks
+#### Agent Systems, Networks, Adversarial ML
 
 * http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14604.html
 * https://github.com/projectmesa/mesa
 * http://www.wired.com/2015/08/new-laws-explain-fast-growing-networks-break/
 * http://agentmodels.org/
+* http://www.kdnuggets.com/2017/01/machine-learning-cyber-security.html
 
 #### R
 

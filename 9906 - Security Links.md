@@ -92,6 +92,7 @@
 * http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html
 * http://www.washingtonpost.com/blogs/the-switch/wp/2015/06/04/fbi-official-companies-should-help-us-prevent-encryption-above-all-else/
 * http://arstechnica.com/information-technology/2015/08/domain-hijacking-spear-phisher-foiled-by-the-last-line-of-defense-paranoia/
+* http://www.kdnuggets.com/2017/01/machine-learning-cyber-security.html
 * http://arstechnica.com/security/2015/05/fbi-researcher-admitted-to-hacking-plane-in-flight-causing-it-to-climb/
 * http://www.theregister.co.uk/2015/08/27/malvertising_feature/
 * http://net-security.org/secworld.php?id=18411

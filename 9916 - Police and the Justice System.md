@@ -400,6 +400,9 @@
 * http://www.nytimes.com/2015/11/27/opinion/how-to-prosecute-abusive-prosecutors.html
 * https://www.themarshallproject.org/2015/12/16/an-unbelievable-story-of-rape
 * http://www.theguardian.com/us-news/2016/feb/07/leaked-police-files-contain-guarantees-disciplinary-records-will-be-kept-secret
+* http://www.nakedcapitalism.com/2016/12/the-real-baltimore-police-accountability-in-the-age-of-trump.html <- do consent decrees work?
+
+
 
 <li><a href="http://www.vanityfair.com/online/daily/2014/08/veterans-ferguson-matthew-farwell" time_added="1408368336" tags="">What Combat Veterans See in Ferguson, Missouri | Vanity Fair</a></li>
 <li><a href="http://www.newyorker.com/news/news-desk/movement-grows-ferguson" time_added="1408332563" tags="">Hot damn this @jelani9 piece on the movement in #Ferguson is a masterwork. </a></li>
