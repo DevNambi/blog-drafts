@@ -874,7 +874,8 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://opinionator.blogs.nytimes.com/2014/06/13/no-clocking-out/
 * http://arstechnica.com/science/2015/10/standing-desks-are-no-replacement-for-a-workout/
 * http://arstechnica.com/science/2015/12/tv-binging-exercise-skipping-linked-to-poor-cognitive-function/
-* http://www.nytimes.com/2016/01/03/opinion/sunday/is-the-drive-for-success-making-our-children-sick.html?_r=0
+* http://www.nytimes.com/2016/01/03/opinion/sunday/is-the-drive-for-success-making-our-children-sick.html
+* http://sciencebulletin.org/archives/1327.html
 
 
 

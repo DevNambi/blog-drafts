@@ -75,6 +75,7 @@
 * https://www.useronboard.com/onboarding-teardowns/
 * https://lord.io/blog/2016/yayview/ <- how *not* to grow a startup.
 * https://medium.com/@stuartawillson/therohnos-who-really-gets-hurt-when-startups-blow-up-and-what-to-do-about-it-2110330d7880
+* https://www.devmarketingguide.com/
 
 
 

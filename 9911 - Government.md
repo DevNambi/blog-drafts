@@ -330,6 +330,10 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://warisboring.com/too-many-generals-spoil-americas-democracy-79b23a327983
 * http://www.nytimes.com/2016/12/28/magazine/afghanistan-soldier-ptsd-the-fighter.html
 * http://www.nytimes.com/2016/12/31/opinion/sunday/nixons-vietnam-treachery.html
+* https://warisboring.com/we-love-the-pentagons-encyclopedia-of-ethical-failure-21f2a08e38e0
+* https://warisboring.com/should-america-really-fear-chinas-growing-navy-40c864a9c3fc
+* https://warisboring.com/a-war-game-was-natos-first-glimpse-into-the-nuclear-abyss-538d893f2ed3
+* https://warisboring.com/military-officials-wasted-36-million-then-tried-to-cover-their-tracks-6e95f18af752
 
 
 
@@ -498,6 +502,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://www.reddit.com/r/EnoughTrumpSpam/comments/4teoxl/a_final_response_to_the_tell_me_why_trump_is_a/
 * http://fivethirtyeight.com/features/the-political-process-isnt-rigged-it-has-much-bigger-problems/
 * https://medium.com/@erikaheidewald/the-north-carolina-gops-power-grab-represents-the-end-of-democracy-d94a68ca3000
+* https://warisboring.com/its-time-to-prepare-for-the-2020-election-hack-d5c39dedcb34
 
 
 
