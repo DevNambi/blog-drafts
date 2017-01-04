@@ -116,6 +116,7 @@
 * https://github.com/Quartz/bad-data-guide
 * https://civisanalytics.com/blog/data-science/2015/12/23/workflows-in-python-curating-features-and-thinking-scientifically-about-algorithms/
 * https://www.import.io/post/how-to-win-a-kaggle-competition/
+* http://odo.readthedocs.io/en/latest/
 
 
 

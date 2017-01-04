@@ -40,6 +40,7 @@
 * http://filipmaertens.com/2016/01/16/2016-that-time-we-saw-squirrels/
 * http://www.nytimes.com/2015/05/23/technology/overvalued-in-silicon-valley-but-not-the-word-that-must-not-be-uttered.html
 * http://qz.com/300825/how-fab-com-went-from-a-1-billion-valuation-to-a-15-million-fire-sale/?VCBS
+* https://medium.com/positiveslope/dont-get-trampled-the-puzzle-for-unicorn-employees-8f00f33c784f
 
 
 ## Pricing

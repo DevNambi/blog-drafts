@@ -116,6 +116,7 @@
 * https://mic.com/articles/154169/leaked-apple-emails-reveal-employees-complaints-about-sexist-toxic-work-environment
 * https://stratechery.com/2016/apple-should-buy-netflix/
 * https://medium.com/@smsowmya/harassment-at-apple-my-perspective-ea0168e15002
+* https://www.fastcodesign.com/3066820/dear-apple-please-focus-on-boring-problems-this-year
 
 
 ## IBM and other IT/software companies

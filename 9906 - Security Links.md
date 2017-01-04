@@ -220,6 +220,7 @@
 * http://arstechnica.com/tech-policy/2015/12/hillary-clinton-wants-manhattan-like-project-to-break-encryption/
 * http://arstechnica.com/gadgets/2016/02/tim-cook-says-apple-will-fight-us-govt-over-court-ordered-iphone-backdoor/ <- Bravo
 * http://arstechnica.com/tech-policy/2015/10/obama-administration-wont-seek-encryption-backdoor-legislation/
+* https://www.schneier.com/blog/archives/2017/01/class_breaks.html
 
 
 
