@@ -242,6 +242,7 @@
 * https://medium.com/@johnslegers/the-decline-of-stack-overflow-7cb69faa575d
 * http://aeon.co/magazine/technology/how-yuppies-hacked-the-original-hacker-ethos/
 * http://researchblogs.cs.bham.ac.uk/thelablunch/2016/01/a-short-fable-of-software-engineering-vs-regular-engineering/
+* http://blog.contino.io/blog/the-10x-software-development-gap-why-do-some-organisations-win-and-others-lose-when-it-comes-to-software
 
 
 

@@ -590,6 +590,8 @@
 * https://github.com/jakevdp/PythonDataScienceHandbook/
 * https://medium.com/@kacawi/jupyter-notebook-tutorial-the-definitive-guide-660c7e651ecd
 * https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
+* https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
+* https://medium.com/pachyderm-data/jupyter-pachyderm-part-1-exploring-and-understanding-historical-analyses-2a37e56c6578 
 
 
 
