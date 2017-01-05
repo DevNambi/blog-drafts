@@ -588,6 +588,7 @@
 * http://blog.rtwilson.com/my-top-5-new-python-modules-of-2015/
 * http://nbviewer.ipython.org/github/chrisalbon/code_py/tree/master/ <- HOLY CRAP THAT'S AMAZING
 * http://anandology.com/python-practice-book/index.html
+* https://github.com/lk-geimfari/awesomo/blob/master/languages/PYTHON.md
 * http://blog.yhathq.com/posts/11-python-libraries-you-might-not-know.html
 * http://nb.bianp.net/sort/views/
 * https://www.youtube.com/watch?v=sH4XF6pKKmk

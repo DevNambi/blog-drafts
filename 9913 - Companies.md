@@ -339,6 +339,7 @@
 * http://www.airlinereporter.com/2015/09/requiem-trijet-masterpiece-lockheed-l-1011-tristar/
 * http://www.nytimes.com/2016/01/12/science/rethinking-the-airplane-for-climates-sake.html
 * http://www.tampabay.com/projects/2016/investigations/allegiant-air/mechanical-breakdowns/
+* https://www.bloomberg.com/news/features/2017-01-05/is-emirates-airline-running-out-of-sky
 
 
 ## Energy Companies
