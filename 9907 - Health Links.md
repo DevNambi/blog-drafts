@@ -986,6 +986,13 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 
 
 
+### Illegal Drugs, Drug Abuse
+
+* http://www.nytimes.com/2017/01/06/us/opioid-crisis-epidemic.html
+
+
+
+
 # To Sort
 
 
