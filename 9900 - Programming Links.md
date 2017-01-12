@@ -433,6 +433,7 @@
 * https://thehftguy.wordpress.com/2016/11/18/google-cloud-is-50-cheaper-than-aws/
 * http://www.nytimes.com/2016/12/25/technology/why-the-computing-cloud-will-keep-growing-and-growing.html
 * http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/deep-learning-ai-listens-to-machines-for-signs-of-trouble
+* http://tomtunguz.com/implications-of-monoclouds/
 
 
 
@@ -467,6 +468,7 @@
 * http://techcrunch.com/2015/04/20/microsoft-announces-azure-service-fabric-a-new-framework-for-building-scalable-cloud-services/
 * http://www.nextplatform.com/2016/09/26/rare-tour-microsofts-hyperscale-datacenters/
 * http://blogs.microsoft.com/blog/2016/01/19/how-were-putting-the-microsoft-cloud-to-work-for-the-public-good/ 
+* https://notebooks.azure.com/
 
 
 ### Google Cloud

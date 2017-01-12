@@ -424,6 +424,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://medium.com/@katevershovdowning/letter-of-resignation-from-the-palo-alto-planning-and-transportation-commission-f7b6facd94f5
 * http://www.oregonlive.com/portland/index.ssf/2016/11/portlands_tech_boondoggle_enab.html
 * http://www.latimes.com/projects/la-me-el-monte-pensions/
+* http://www.strongtowns.org/journal/2017/1/9/the-real-reason-your-city-has-no-money
 
 
 
