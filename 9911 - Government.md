@@ -425,6 +425,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.oregonlive.com/portland/index.ssf/2016/11/portlands_tech_boondoggle_enab.html
 * http://www.latimes.com/projects/la-me-el-monte-pensions/
 * http://www.strongtowns.org/journal/2017/1/9/the-real-reason-your-city-has-no-money
+* http://www.thepublicdiscourse.com/2017/01/18093/
 
 
 
