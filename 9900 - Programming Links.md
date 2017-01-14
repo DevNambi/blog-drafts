@@ -212,6 +212,7 @@
 * http://codewithoutrules.com/2016/08/03/self-confidence/
 * https://github.com/Developer-Y/cs-video-courses/blob/master/README.md
 * https://medium.com/@jacobgreenleaf/why-data-structures-are-irrelevant-to-software-engineering-interviews-and-what-can-be-done-about-it-bd9b7a9a0bb8
+* https://speakerdeck.com/alicebartlett/git-for-humans <- great
 
 
 
