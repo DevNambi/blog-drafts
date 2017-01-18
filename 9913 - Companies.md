@@ -234,6 +234,7 @@
 * http://www.bloomberg.com/news/articles/2016-07-19/google-cuts-its-giant-electricity-bill-with-deepmind-powered-ai
 * http://www.bloomberg.com/news/articles/2016-07-21/google-sprints-ahead-in-ai-building-blocks-leaving-rivals-wAry
 * https://techcrunch.com/2016/12/12/google-has-reportedly-stopped-developing-its-own-self-driving-car/
+* http://www.cbsnews.com/news/google-alphabet-moonshot-projects-are-crashing-to-earth/
 
 
 ## Uber

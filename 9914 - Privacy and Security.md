@@ -64,6 +64,7 @@
 * http://www.usatoday.com/story/news/2016/08/10/dea-travel-record-airport-seizures/88474282/
 * http://techcrunch.com/2016/05/17/why-you-should-bet-big-on-privacy/
 * http://www.bbc.com/news/technology-34647704
+* https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3
 * http://www.technologyreview.com/news/538731/how-ads-follow-you-from-phone-to-desktop-to-tablet/
 * http://blog.cryptographyengineering.com/2016/06/what-is-differential-privacy.html
 * http://adage.com/article/datadriven-marketing/24-billion-data-business-telcos-discuss/301058/
@@ -107,6 +108,7 @@
 * http://arstechnica.com/security/2015/10/unpatched-browser-weaknesses-can-be-exploited-to-track-millions-of-web-users/
 * https://ar.al/notes/why-im-not-speaking-at-cpdp/
 * http://arstechnica.com/tech-policy/2015/12/backslash-anti-surveillance-gadgets-for-protesters/
+* http://motherboard.vice.com/read/hacker-steals-900-gb-of-cellebrite-data
 * https://www.wired.com/2016/12/encryption-app-signal-fights-censorship-clever-workaround/
 * https://www.behance.net/gallery/16225247/I-have-NOT-read-and-agree-to-the-terms-of-use
 * http://fivethirtyeight.com/datalab/the-way-we-use-social-security-numbers-is-absurd/

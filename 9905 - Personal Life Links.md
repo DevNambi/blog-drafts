@@ -213,6 +213,8 @@
 * http://www.seattletimes.com/seattle-news/520-toll-gouging-stories-get-more-preposterous/
 * http://grist.org/cities/in-seattle-the-rent-is-too-damn-high/
 * http://www.nytimes.com/2015/10/09/technology/seattle-in-midst-of-tech-boom-tries-to-keep-its-soul.html
+* http://crosscut.com/2017/01/as-african-americans-leave-seattle-black-churches-hang-on-by-a-thread/
+
 
 
 

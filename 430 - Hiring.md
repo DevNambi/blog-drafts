@@ -24,6 +24,7 @@ This is an information problem. It's also a FUD problem.
 * http://andytroutman.com/articles/2013/01/24/rockstar-programmers-are-not-assholes.html
 * http://www.wired.com/2014/02/smart-jerks-old-people-hard-things-company/
 * https://www.shrm.org/resourcesandtools/hr-topics/technology/pages/it-employers-would-pay-15-percent-more-for-top-talent.aspx
+* https://medium.com/latticehq/how-much-does-employee-turnover-really-cost-d61df5eed151
 * http://www.b-list.org/weblog/2015/oct/19/destroy-all-hiring-processes/
 * https://www.linkedin.com/today/post/article/20140527132535-50510-interviewing-engineers-is-a-team-sport
 * http://michaelochurch.wordpress.com/2014/02/06/if-you-stop-promoting-from-within-soon-you-cant/

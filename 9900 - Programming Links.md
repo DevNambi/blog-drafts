@@ -616,6 +616,7 @@
 * https://ipgp.github.io/scientific_python_cheat_sheet/
 * https://github.com/awslabs/chalice
 * http://docs.python-guide.org/en/latest/
+* https://engineering.instagram.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172
 
 
 
