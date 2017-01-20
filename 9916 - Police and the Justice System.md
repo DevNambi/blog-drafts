@@ -14,6 +14,7 @@
 * http://www.rawstory.com/2016/11/albuquerque-police-illegally-deleted-altered-videos-of-police-shootings-report/
 * http://arstechnica.com/science/2016/10/study-lots-of-crime-went-unreported-after-police-brutalized-unarmed-black-men/
 * https://www.hackread.com/cell-411-smartphone-app-is-police-worst-nightmare/
+* http://thefreethoughtproject.com/nypd-proving-exist-revenue-generation/
 * http://theadvocate.com/news/police/16347562-93/baton-rouge-officials-and-police-critics-ask-if-all-police-shooting-investigations-should-be-outsour
 * http://wamc.org/post/police-detective-who-threatened-kill-teens-and-plant-drug-evidence-suspended-not-fired
 * https://www.themarshallproject.org/2016/08/11/i-m-a-judge-and-i-think-criminal-court-is-horrifying

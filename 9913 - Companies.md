@@ -274,6 +274,9 @@
 * https://pando.com/2016/03/09/turns-out-ubers-many-scandals-are-affecting-recruitment-pretty-much-every-level/0d3827f4e2a2e8440f349584adf0b7a36c6d9d9c/
 * https://www.buzzfeed.com/carolineodonovan/internal-uber-driver-pay-numbers
 * http://jalopnik.com/uber-is-quietly-terrible-for-women-and-black-people-st-1788392405
+* http://toddwschneider.com/posts/chicago-taxi-data/ 
+* http://blog.benjamin-encz.de/post/why-i-dont-believe-in-ubers-success/
+
 
 "It turns out Uber is a replacement for owning a car" say wealthy urbanites who don't have kids, pets, disabilities or outdoor hobbies." - https://twitter.com/mims
 

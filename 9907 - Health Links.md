@@ -356,6 +356,7 @@ pandemic-20150311-story.html
 * http://www.slate.com/articles/health_and_science/science/2016/01/zika_carrying_mosquitoes_are_a_global_scourge_and_must_be_stopped.html
 * http://www.theatlantic.com/science/archive/2016/06/mushrooms-vs-superbugs/485513/
 * http://www.latimes.com/science/sciencenow/la-sci-antibiotic-resistance-20160711-snap-story.html
+* https://www.statnews.com/2017/01/12/nevada-woman-superbug-resistant/
 
 <li><a href="http://www.nature.com/news/antibiotic-resistance-the-last-resort-1.13426" time_added="1374949873" tags="domestic,health,important">Antibiotic resistance: The last resort : Nature News & Comment</a></li>
 
