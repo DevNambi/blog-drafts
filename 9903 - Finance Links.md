@@ -163,6 +163,7 @@
 
 
 * http://www.nakedcapitalism.com/2014/09/sec-coverup-private-equity-worse-tbtf-banks.html
+* https://www.bloomberg.com/news/features/2017-01-19/how-deutsche-bank-made-367-million-disappear
 * http://www.nytimes.com/2016/01/10/business/ratings-agencies-still-coming-up-short-years-after-crisis.html
 * http://www.nakedcapitalism.com/2016/01/private-equity-firms-muscling-lenders-by-choosing-and-paying-for-their-lawyers.html
 * http://www.nakedcapitalism.com/2015/06/memo-to-readers-if-you-want-to-beat-big-finance-you-need-to-be-able-to-take-the-fight-to-their-terrain.html

@@ -926,6 +926,8 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://www.slideshare.net/xamat/10-more-lessons-learned-from-building-machine-learning-systems <- highly recommended by various ML folks on Twitter
 * http://techcrunch.com/2016/01/09/the-year-in-analytics/
 * https://bdupras.github.io/filter-tutorial/
+* https://chatwithengineers.com/2016/08/29/a-survey-of-query-execution-engines-from-volcano-to-vectorized-processing/
+
 
 
 

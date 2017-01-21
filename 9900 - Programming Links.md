@@ -769,6 +769,8 @@ Microsoft and other third-party developers have a huge problem: they don't liste
 * https://www.periscopedata.com/blog/outlier-detection-in-sql.html
 * http://arstechnica.com/information-technology/2016/03/to-sql-or-nosql-thats-the-database-question/
 * http://www.sqlstyle.guide/
+* https://chatwithengineers.com/2016/08/29/a-survey-of-query-execution-engines-from-volcano-to-vectorized-processing/
+
 
 
 

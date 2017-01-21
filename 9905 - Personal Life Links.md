@@ -18,6 +18,7 @@
 * http://the-toast.net/2016/01/05/what-goes-through-your-mind-casual-racism/
 * http://www.outsideonline.com/1930461/improve-your-life-microadventures
 * http://www.businessinsider.com/harvard-dan-gilbert-money-happiness-principles-2014-10
+* http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/
 * http://www.bbc.com/future/story/20150707-is-faceism-spoiling-your-life
 * http://stilldrinking.org/35-things-that-surprised-me-before-35
 * https://www.theguardian.com/books/2010/feb/21/the-age-of-absurdity-foley

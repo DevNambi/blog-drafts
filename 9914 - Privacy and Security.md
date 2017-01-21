@@ -37,6 +37,7 @@
 * http://www.extremetech.com/internet/180485-the-ultimate-guide-to-staying-anonymous-and-protecting-your-privacy-online
 * https://backchannel.com/how-gps-became-a-human-tracking-mechanism-257b5cba8f3a
 * http://m.thenation.com/article/208593-you-can-be-prosecuted-clearing-your-browser-history
+* http://mattturck.com/2017/01/17/the-new-gold-rush-wall-street-wants-your-data/
 * https://mitpress.mit.edu/books/obfuscation
 * https://tech.vijayp.ca/adding-a-phone-number-to-your-google-account-can-make-it-less-secure-f1cc7280ff6a
 * https://www.propublica.org/article/facebook-doesnt-tell-users-everything-it-really-knows-about-them
