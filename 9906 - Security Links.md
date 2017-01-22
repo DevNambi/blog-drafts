@@ -316,6 +316,7 @@
 * http://www.wired.com/2016/03/inside-cunning-unprecedented-hack-ukraines-power-grid/
 * http://www.nytimes.com/2016/05/30/technology/governments-turn-to-commercial-spyware-to-intimidate-dissidents.html
 * https://www.wordfence.com/blog/2016/12/russia-malware-ip-hack/
+* https://vc.gg/blog/so-its-been-a-while.html
 
 
 ### Finance Attacks, Payment Systems, Credit Cards

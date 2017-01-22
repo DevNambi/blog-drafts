@@ -153,6 +153,10 @@
 
 
 
+## Oracle
+
+* http://www.mercurynews.com/2017/01/20/oracle-lays-off-450-employees/
+
 
 
 ## ISPs
@@ -404,6 +408,11 @@
 ## Shipping, Logistics
 
 * http://www.seattletimes.com/business/shipping-mania-rushing-to-deliver-millions-of-holiday-gifts/
+
+
+## SpaceX
+
+* http://arstechnica.com/science/2017/01/spacex-may-be-about-to-launch-its-final-expendable-rocket/
 
 
 ## Chemical Companies

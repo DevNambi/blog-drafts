@@ -12,7 +12,8 @@
 * https://theconversation.com/hard-evidence-how-will-social-networks-boost-earnings-when-users-ignore-their-product-34110
 * https://medium.com/@DanielleMorrill/is-my-startup-burn-rate-normal-882b2bd20f02
 * http://alexstechthoughts.com/post/106513520281/fact-checking-in-the-startup-world
-* http://blog.conspire.com/post/112700131803/if-you-have-startup-stock-options-check-your
+* http://blog.conspire.com/post/112700131803/if-you-have-startup-stock-options-check-yourhttps://www.nytimes.com/2017/01/21/us/san-francisco-children.html
+
 * http://berkeleyjournal.org/2015/01/morality-and-the-idea-of-progress-in-silicon-valley/
 * http://a16z.com/2016/09/11/vc-economics/
 * http://recode.net/2015/03/12/kleiner-perkins-wrote-an-hr-policy-in-wake-of-female-partner-complaints/
@@ -146,6 +147,8 @@
 * http://minimaxir.com/2016/05/sfba-compensation/
 * http://qz.com/727855/silicon-valley-tech-workers-see-startups-and-silicon-valley-losing-their-luster/
 * https://www.theguardian.com/society/2016/dec/28/silicon-valley-homeless-east-palo-alto-california-schools
+* https://www.nytimes.com/2017/01/21/us/san-francisco-children.html
+
 
 
 

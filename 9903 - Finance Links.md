@@ -147,6 +147,7 @@
 * http://www.nytimes.com/2015/07/20/world/middleeast/murder-at-sea-captured-on-video-but-killers-go-free.html
 * http://wolfstreet.com/2015/07/30/canadas-highly-touted-conservative-mortgage-standards-sink-into-liar-loan-scandal/
 * http://www.nytimes.com/2016/02/22/world/asia/reporting-on-life-death-and-corruption-in-southeast-asia.html
+* https://www.theguardian.com/global-development-professionals-network/2017/jan/14/aid-in-reverse-how-poor-countries-develop-rich-countries
 
 
 ## Bank & Regulatory Corruption
@@ -626,6 +627,7 @@
 * http://www.realclearmarkets.com/articles/2015/01/16/amid_bitcoins_bloodbath_silence_from_silicon_valley_press_101490.html
 * http://www.nakedcapitalism.com/2015/06/the-standard-definition-of-money-is-in-error.html
 * http://mldb.ai/blog/posts/2016/01/ml-meets-economics/
+* http://nautil.us/issue/44/luck/investing-is-more-luck-than-talent
 
 
 <li><a href="http://www.ecommercebytes.com/cab/abu/y201/m09/abu0047/s03" time_added="1354918107" tags="domestic,finance">Sniping Tools - Making Sure You Win the Auction</a></li>

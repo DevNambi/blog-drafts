@@ -509,6 +509,7 @@
 * http://smerity.com/articles/2016/ml_not_magic.html
 * http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/
 * http://efavdb.com/battleship/ <- reinforcement learning
+* http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf <- really, really useful
 
 
 
@@ -1004,6 +1005,8 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://eatcodeplay.com/installing-gpu-enabled-tensorflow-with-python-3-4-in-ec2/
 * http://googleresearch.blogspot.com/2016/04/announcing-tensorflow-08-now-with.html
 * https://www.oreilly.com/learning/hello-tensorflow
+* https://medium.com/@Zelros/4-steps-to-learn-tensorflow-when-you-already-know-scikit-learn-3cd0340456b5
+
 
 
 
