@@ -507,6 +507,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://medium.com/@erikaheidewald/the-north-carolina-gops-power-grab-represents-the-end-of-democracy-d94a68ca3000
 * https://warisboring.com/its-time-to-prepare-for-the-2020-election-hack-d5c39dedcb34
 * https://backchannel.com/aaron-swartzs-theory-on-how-to-save-the-world-b3401bf79d99
+* http://www.nakedcapitalism.com/2017/01/reich-7-hard-truths-democrats-future-bleak-without-radical-reforms.html
 
 
 

@@ -46,13 +46,10 @@
 <li><a href="http://www.nytimes.com/2013/03/18/business/global/facing-bailout-tax-cypriots-rush-to-get-their-money-out-of-banks.html" time_added="1363565145" tags="finance,important">Cypriot Bailout Sends Shivers Throughout the Euro Zone - NYTimes.com</a></li>
 
 * http://www.nytimes.com/2014/10/17/world/europe/bloc-in-europe-starts-to-balk-over-austerity-.html
-* http://www.nytimes.com/2015/03/23/opinion/paul-krugman-britains-terrible-no-good-economic-discourse.html
 * http://www.nakedcapitalism.com/2015/02/john-helmer-the-political-motivation-of-chancellor-merkels-embrace-of-yulia-tymoshenko-and-war.html
 * http://www.nytimes.com/2015/03/27/world/europe/many-in-ireland-vow-not-to-pay-a-new-water-tax.html
 * http://www.nytimes.com/2015/01/08/business/international/europe-economy-deflation.html
-* http://www.nakedcapitalism.com/2014/10/revolt-starting-in-uk-over-private-equity-fee-secrecy.html
 * http://www.nakedcapitalism.com/2014/10/ilargi-europe-redefines-stress-bank-boosterist-stress-tests.html
-* http://www.nytimes.com/2014/10/28/opinion/londons-housing-boom.html
 * http://www.nytimes.com/2014/11/27/business/international/france-has-second-thoughts-on-its-35-hour-workweek.html?_r=0
 * http://www.bbc.com/news/business-30310832
 * http://www.nytimes.com/2014/12/27/world/even-loyalty-no-guarantee-against-putin.html <- might makes right. But now it's at the hands of a check and not a gun.
@@ -76,7 +73,20 @@
 * http://www.nakedcapitalism.com/2016/06/87726.html
 * http://www.zerohedge.com/news/2016-07-05/look-inside-europes-next-crisis-why-everyone-finally-panicking-about-italian-banks
 * http://www.economist.com/news/leaders/21701756-italys-teetering-banks-will-be-europes-next-crisis-italian-job
-* 
+
+
+#### UK, Britain, Brexit
+
+* http://www.nytimes.com/2015/03/23/opinion/paul-krugman-britains-terrible-no-good-economic-discourse.html
+* http://www.nytimes.com/2014/10/28/opinion/londons-housing-boom.html
+* http://www.nakedcapitalism.com/2014/10/revolt-starting-in-uk-over-private-equity-fee-secrecy.html
+* http://www.nakedcapitalism.com/2017/01/trading-off-soft-hard-brexit.html
+
+
+
+
+
+
 
 
 
@@ -608,6 +618,7 @@
 * http://wolfstreet.com/2016/03/15/chart-shows-big-crash-ahead-rounded-top-pattern/
 * http://www.bloomberg.com/news/articles/2016-04-27/be-afraid-be-very-afraid-if-you-re-investing-for-the-long-run
 * http://wolfstreet.com/2016/06/12/american-middle-market-companies-growth-in-tough-economy/
+* http://www.nakedcapitalism.com/2017/01/three-theories-behind-global-productivity-slowdown.html
 
 
 
