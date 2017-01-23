@@ -451,6 +451,8 @@
 * http://www.canadianbusiness.com/the-last-days-of-target-canada/
 * https://medium.com/@taliajane/an-open-letter-to-my-ceo-fb73df021e7a
 * https://medium.com/choking-on-a-macaron/what-you-don-t-know-about-tripadvisor-15d31d745bdc
+* https://www.nytimes.com/2017/01/22/business/bangladesh-protest-apparel-clothing.html
+
 
 
 

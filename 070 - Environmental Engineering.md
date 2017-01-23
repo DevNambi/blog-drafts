@@ -275,6 +275,7 @@ Emphasize what we don't know
 * http://www.economist.com/news/technology-quarterly/21635332-jb-straubel-charged-more-electrifying-californian-carmaker-he
 * http://www.nytimes.com/2016/12/30/science/fish-climate-change-northeast.html
 * http://sciencebulletin.org/archives/6839.html <- "Turning CO2 to Stone"
+* https://www.nytimes.com/2017/01/21/opinion/sunday/in-beijing-and-washington-a-breath-of-foul-air.html
 
 
 
