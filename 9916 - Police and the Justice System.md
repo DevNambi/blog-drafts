@@ -336,6 +336,7 @@
 * http://www.wired.com/2014/10/virginia-police-secretively-stockpiling-private-phone-records/
 * http://www.washingtonpost.com/news/morning-mix/wp/2014/08/14/tear-gas-is-a-chemical-weapon-banned-in-war-but-ferguson-police-shoot-it-at-protesters/
 * http://www.theguardian.com/us-news/2014/dec/14/john-crawford-girlfriend-questioned-walmart-police-shot-dead?CMP=share_btn_tw
+* https://theintercept.com/2017/01/24/malnourished-prisoners-death-reveals-horrific-conditions-in-a-texas-prison/
 * http://seattletimes.com/html/localnews/2025176977_shepherdpunch1xml.html
 * http://seattletimes.com/html/nationworld/2024936090_apxfergusonnofly.html
 * http://www.salon.com/2014/10/20/swat_teams_brutal_murder_how_they_killed_an_innocent_man_on_his_childhood_driveway/

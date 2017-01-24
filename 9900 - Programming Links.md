@@ -399,6 +399,7 @@
 * http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/
 * http://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time
 * http://www.extremetech.com/mobile/204340-did-tsmcs-20nm-process-harm-qualcomms-snapdragon-810
+* https://blog.rescale.com/cloud-3-0-the-rise-of-big-compute/
 * http://cloudacademy.com/blog/google-cloud-vs-aws-a-comparison/
 * http://radar.oreilly.com/2014/12/why-the-data-center-needs-an-operating-system.html
 * https://gigaom.com/2015/01/04/verizon-cloud-warns-customers-of-2-day-maintenance-closure/
