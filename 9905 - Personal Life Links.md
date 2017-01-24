@@ -341,6 +341,7 @@
 * https://www.bloomberg.com/news/articles/2016-12-04/vancouver-housing-tax-pushes-chinese-to-1-million-seattle-hOmes
 * http://www.richmond-news.com/news/weekly-feature/ghost-city-realtor-finds-large-number-of-city-centre-condos-vacant-1.3640322
 * http://mobile.nytimes.com/2016/12/02/your-money/youre-buying-a-home-have-you-considered-climate-change.html
+* http://www.mrmoneymustache.com/2017/01/24/diy-studio-building/
 
 
 
