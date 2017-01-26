@@ -502,6 +502,7 @@ pandemic-20150311-story.html
 * http://www.nytimes.com/2015/12/08/upshot/your-new-medical-team-algorithms-and-physicians.html
 * http://www.laweekly.com/news/medical-marijuana-states-see-big-drop-in-drug-prescriptions-and-medicare-spending-7168951
 * http://arstechnica.com/science/2016/07/collective-diagnoses-are-better-only-if-doctors-are-similarly-skilled/
+* http://www.newyorker.com/magazine/2017/01/23/the-heroism-of-incremental-care/
 
 
 
