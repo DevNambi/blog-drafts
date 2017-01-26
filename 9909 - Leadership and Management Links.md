@@ -21,6 +21,7 @@
 * http://blog.codinghorror.com/the-bad-apple-group-poison/ and http://blog.codinghorror.com/dealing-with-bad-apples/
 * https://hbr.org/2013/12/how-google-sold-its-engineers-on-management/ar/1
 * https://hbr.org/2015/04/heres-how-managers-can-be-replaced-by-software <- AWESOME. Payback is divine.
+* https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work
 * http://www.entrepreneur.com/article/254410
 * https://hbr.org/2014/11/the-hard-data-on-being-a-nice-boss
 * http://www.inc.com/magazine/20090401/how-hard-could-it-be-employees-negotiate-pay-raises.html

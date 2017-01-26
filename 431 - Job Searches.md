@@ -153,6 +153,7 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 <li><a href="http://www.nytimes.com/2016/03/07/technology/tech-companies-new-and-old-clamor-to-entice-cloud-computing-experts.html">Tech Companies, New and Old, Clamor to Entice Cloud Computing Experts</a></li>
 <li><a href="https://gitlab.com/doctorj/interview-questions">Questions to Ask a Potential Tech Employer</a></li>
 <li><a href="http://www.nytimes.com/2015/12/20/opinion/sunday/the-one-question-you-should-ask-about-every-new-job.html">The One Question You Should Ask About Every New Job</a>
+<li><a href="https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work">If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work</a></li>
 </ul>
 
 

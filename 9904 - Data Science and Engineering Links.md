@@ -370,6 +370,7 @@
 * http://blogs.scientificamerican.com/cross-check/bayes-s-theorem-what-s-the-big-deal/
 * http://fastml.com/bayesian-machine-learning/
 * https://galeascience.wordpress.com/2016/04/27/markov-chain-monte-carlo-sampling/
+* https://thuijskens.github.io/2016/12/29/bayesian-optimisation/
 
 
 
@@ -510,6 +511,7 @@
 * http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/
 * http://efavdb.com/battleship/ <- reinforcement learning
 * http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf <- really, really useful
+* https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur <- also very useful
 
 
 
