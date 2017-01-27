@@ -335,8 +335,10 @@
 * http://www.dataschool.io/roc-curves-and-auc-explained/
 * http://www.jeannicholashould.com/the-theorem-every-data-scientist-should-know.html
 * https://blog.godatadriven.com/kendall-tau-recommendations
+* https://honeycomb.io/blog/2017/01/instrumentation-the-first-four-things-you-measure/
 
-"Remember, nonlinear interactions, and non-Gaussian distributions are common. "
+
+"Remember, nonlinear interactions, and non-Gaussian distributions are the default. "
 
 ### Causal Inference
 
