@@ -526,6 +526,7 @@
 * http://www.nytimes.com/2014/10/22/business/economy/insurers-retreat-from-weather-related-disasters.html
 * https://www.washingtonpost.com/news/the-switch/wp/2016/01/04/the-big-data-of-bad-driving-and-how-insurers-plan-to-track-your-every-turn/
 * http://www.nytimes.com/2016/01/08/automobiles/insurers-brace-for-the-self-driving-future-and-fewer-accidents.html?ref=automobiles
+* http://www.seattletimes.com/seattle-news/earthquake-insurance-prices-soar-in-washington-companies-hold-all-power/
 
 
 

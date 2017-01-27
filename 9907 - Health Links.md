@@ -383,6 +383,7 @@ pandemic-20150311-story.html
 * http://www.consumerreports.org/health/doctors-hospitals/hospital-ratings/ratings/search-results.htm?state=WA
 * https://lukeoakdenrayner.wordpress.com/2016/11/27/do-computers-already-outperform-doctors/
 * http://incoherency.co.uk/blog/stories/medtronic-mycarelink.html
+* https://vizhub.healthdata.org/subnational/usa
 
 
 #### Too Much Medicine, Adverse Outcomes
