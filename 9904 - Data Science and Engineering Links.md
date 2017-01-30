@@ -932,6 +932,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://techcrunch.com/2016/01/09/the-year-in-analytics/
 * https://bdupras.github.io/filter-tutorial/
 * https://chatwithengineers.com/2016/08/29/a-survey-of-query-execution-engines-from-volcano-to-vectorized-processing/
+* http://tech.marksblogg.com/billion-nyc-taxi-rides-spark-2-1-0-emr.html
 
 
 
