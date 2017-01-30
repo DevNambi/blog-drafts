@@ -317,6 +317,7 @@
 * http://www.nytimes.com/2016/05/30/technology/governments-turn-to-commercial-spyware-to-intimidate-dissidents.html
 * https://www.wordfence.com/blog/2016/12/russia-malware-ip-hack/
 * https://vc.gg/blog/so-its-been-a-while.html
+* https://www.bloomberg.com/news/features/2017-01-18/the-post-snowden-cyber-arms-hustle
 
 
 ### Finance Attacks, Payment Systems, Credit Cards

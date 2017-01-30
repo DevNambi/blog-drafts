@@ -8,6 +8,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * http://www.theguardian.com/uk-news/2015/jun/23/stop-defending-tim-hunt-brian-cox-richard-dawkins <- there's a terrible place to take this
 * http://www.americanscientist.org/issues/feature/2014/6/the-statistical-crisis-in-science/99999
 * http://www.economist.com/news/science-and-technology/21695377-professors-unprofessional-programs-have-created-new-profession-more
+* http://robert.ocallahan.org/2017/01/tripling-down-against-conference.html?m=1
 * http://www.nakedcapitalism.com/2015/11/tpps-orwellian-definition-of-science-in-its-sanitary-and-phytosanitary-sps-chapter.html
 * https://backchannel.com/who-was-ramanujan-83b4d5b05665
 * http://www.nytimes.com/2016/03/22/science/randall-munroe-xkcd-science-textbook.html

@@ -70,6 +70,8 @@
 * https://stayintech.com/info/sideproject
 * https://medium.com/@marknutter/advice-for-the-freelance-developer-68b63c69b050
 * https://ozar.me/2014/10/business/
+* https://blog.nugget.one/upstart/building-a-one-man-saas-app-offers-a-profound-sense-of-personal-achievement/
+
 
 
 

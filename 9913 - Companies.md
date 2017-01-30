@@ -156,6 +156,7 @@
 ## Oracle
 
 * http://www.mercurynews.com/2017/01/20/oracle-lays-off-450-employees/
+* https://oracle-base.com/blog/2017/01/28/oracles-cloud-licensing-change-be-warned/
 
 
 
