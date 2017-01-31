@@ -220,6 +220,8 @@ So what's our impact? I like to assume everyone contributes equally, at least to
 Total Team Contribution = SUM(Each Person's Contribution)
 
 
+https://blog.codinghorror.com/im-loyal-to-nothing-except-the-dream/
+
 #### Measuring Contribution
 
 * PageRank. 
