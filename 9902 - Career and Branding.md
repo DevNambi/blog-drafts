@@ -73,6 +73,14 @@
 * https://blog.nugget.one/upstart/building-a-one-man-saas-app-offers-a-profound-sense-of-personal-achievement/
 
 
+**One-person SAAS:**
+* https://news.ycombinator.com/item?id=11924009
+* http://askstarting.com/questions/view/9158/one_person_startup_saas
+* https://blog.nugget.one/upstart/building-a-one-man-saas-app-offers-a-profound-sense-of-personal-achievement/
+* http://discuss.joelonsoftware.com/default.asp?biz.5.839125.7
+* https://tylertringas.com/micro-saas-ebook/
+* https://www.quora.com/What-are-some-successful-one-man-SaaS-products
+
 
 
 ## Blogging / Writing

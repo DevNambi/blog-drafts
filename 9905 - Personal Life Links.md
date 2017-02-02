@@ -53,6 +53,7 @@
 ## Parenting
 
 * http://www.nytimes.com/2015/02/01/opinion/sunday/the-only-baby-book-youll-ever-need.html
+* http://www.freerangekids.com/how-children-lost-the-right-to-roam-in-just-4-generations/
 * http://www.xojane.com/issues/mixed-race-hypodescent
 * http://www.bustle.com/articles/129270-7-signs-you-grew-up-with-a-toxic-parent-didnt-know-it
 * http://arstechnica.com/science/2015/10/marijuana-exposure-in-utero-has-lifelong-consequences/
@@ -286,6 +287,7 @@
 * https://www.theatlantic.com/business/archive/2016/11/american-marriage-in-times-of-recession/506840/
 * http://www.bbc.com/news/uk-38285223 <- Mental health and relationships 'key to happiness'
 * http://nautil.us/issue/33/attraction/shell-text-me-shell-text-me-not
+* http://www.refinery29.com/2017/01/138549/women-changing-last-name <- WTF
 
 
 

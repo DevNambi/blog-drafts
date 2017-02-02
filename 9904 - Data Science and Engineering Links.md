@@ -945,6 +945,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://tech.adroll.com/blog/data/2013/07/10/hll-minhash.html
 * http://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/
 * https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/ <- critical!
+* http://blog.fastforwardlabs.com/2017/01/30/the-algorithms-behind-probabilistic-programming.html
 
 
 #### MapReduce, Hadoop, Hive
