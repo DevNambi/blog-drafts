@@ -720,6 +720,8 @@
 * https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
 * http://course.fast.ai/start.html
 * http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/deep-learning-ai-listens-to-machines-for-signs-of-trouble
+* https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab
+
 
 
 

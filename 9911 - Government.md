@@ -510,6 +510,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://warisboring.com/its-time-to-prepare-for-the-2020-election-hack-d5c39dedcb34
 * https://backchannel.com/aaron-swartzs-theory-on-how-to-save-the-world-b3401bf79d99
 * http://www.nakedcapitalism.com/2017/01/reich-7-hard-truths-democrats-future-bleak-without-radical-reforms.html
+* https://www.theatlantic.com/science/archive/2017/02/the-simple-psychological-trick-to-political-persuasion/515181/
 
 
 
