@@ -11,6 +11,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 ### Resources, Links
 
 * http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/#the-list
+* https://backchannel.com/one-womans-brilliant-fuck-you-to-wikipedia-trolls-aab4107d374b
 * https://storify.com/rodneysampson/adayinthelife
 * https://medium.com/absurdist/the-stories-of-women-in-tech-that-we-may-never-hear-7379f502fb52
 * http://pamelaclark.tumblr.com/post/87113711124/35-practical-tools-for-men-to-further-feminist

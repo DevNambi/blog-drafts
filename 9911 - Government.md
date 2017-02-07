@@ -336,6 +336,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * https://warisboring.com/a-war-game-was-natos-first-glimpse-into-the-nuclear-abyss-538d893f2ed3
 * https://warisboring.com/military-officials-wasted-36-million-then-tried-to-cover-their-tracks-6e95f18af752
 * http://www.hoover.org/research/contest-brutality
+* http://www.newyorker.com/magazine/2017/02/06/the-desperate-battle-to-destroy-isis
 
 
 

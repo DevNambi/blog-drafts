@@ -44,7 +44,7 @@
 * http://www.the-american-interest.com/2016/02/17/the-seven-habits-of-highly-depolarizing-people/
 * http://www.nytimes.com/2016/07/10/magazine/marie-kondo-and-the-ruthless-war-on-stuff.html
 * http://www.newyorker.com/science/maria-konnikova/the-secret-formula-for-resilience
-
+* https://mobile.nytimes.com/2016/01/02/your-money/think-seriously-about-spending-for-play.html
 
 
 

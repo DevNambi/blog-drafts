@@ -82,6 +82,7 @@
 * http://www.latimes.com/local/lanow/la-me-ln-federal-judge-orders-release-of-videos-20150714-story.html
 * http://www.theguardian.com/us-news/2015/oct/19/homan-square-chicago-police-disappeared-thousands
 * http://www.seattletimes.com/seattle-news/prison-sex-abuse-cases-grow-but-prosecutions-are-rare/
+* https://theintercept.com/2017/02/04/the-fbi-is-building-a-national-watchlist-that-gives-companies-real-time-updates-on-employees/
 * http://www.npr.org/2015/10/09/447202433/-great-pause-among-forensic-scientists-as-dna-proves-fallible
 * http://mathbabe.org/2015/07/08/what-are-prisons-for/
 * http://www.seattletimes.com/seattle-news/politics/police-reform-monitor-asks-harrell-to-wait-on-legislation/

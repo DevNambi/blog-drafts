@@ -47,7 +47,7 @@ http://consumerist.com/2015/05/20/gm-that-car-you-bought-were-really-the-ones-wh
 * https://medium.com/@ade3/the-zombie-mobile-b03932ac971d
 * http://wolfstreet.com/2016/11/22/strongest-pillar-of-the-shaky-us-economy-has-cracked/
 * https://www.nytimes.com/2017/01/27/your-money/used-cars-takata-recalls.html
-
+* https://www.yourmechanic.com/article/the-most-and-least-expensive-cars-to-maintain-by-maddy-martin
 
 * https://publish.manheim.com/en/services/consulting/used-vehicle-value-index.html <- also VERY useful for used cars
 
