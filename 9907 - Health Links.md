@@ -689,6 +689,7 @@ pandemic-20150311-story.html
 
 
 * http://www.wired.com/2015/02/us-healthcare-screwed-fly-britain-medication/
+* https://www.washingtonpost.com/national/health-science/with-a-high-deductible-even-a-doctor-can-shortchange-his-health/2017/02/07/3c975fd2-ed79-11e6-9973-c5efb7ccfb0d_story.html?utm_term=.dd017800ac4c
 * https://www.reddit.com/r/IAmA/comments/4lgnif/i_am_david_belk_im_a_doctor_who_has_spent_the/ <- REALLY IMPORTANT
 * http://www.nytimes.com/2016/04/29/us/colorado-weighs-replacing-obamas-health-policy-with-universal-coverage.html
 * http://www.alternet.org/personal-health/84000-hep-c-drug-only-1500

@@ -376,6 +376,7 @@
 ## Poverty, Income Inequality, Class Warfare, 'American Dream'
 
 * http://www.gallup.com/opinion/chairman/181469/big-lie-unemployment.aspx
+* https://www.eurekalert.org/pub_releases/2017-02/cums-ayc020817.php <- "America's youngest children most likely to live in poor economic conditions"
 * http://www.spiegel.de/international/tomorrow/a-1093371.html
 * https://medium.com/@MattBruenig/the-ubi-already-exists-for-the-1-d3a49fad0580
 * https://morecrows.wordpress.com/2016/05/10/unnecessariat/
