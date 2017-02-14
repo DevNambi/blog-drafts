@@ -27,6 +27,7 @@ We believe we are working to make our society, our world, a better place. At the
 "Ethics: moral principles that govern a person's or group's behavior"
 
 * http://mathbabe.org/2013/11/12/there-is-no-market-solution-for-ethics/
+* https://ischool.uw.edu/feature-stories/bill-howe-aims-make-cities-smarter-using-data-science
 * https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
 * https://medium.com/data-for-democracy/origin-story-b740f14ca6ed
 

@@ -971,7 +971,6 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 <li><a href="http://www.wired.com/wiredenterprise/2012/08/googles-dremel-makes-big-data-look-small/" time_added="1348860690" tags="big data,data science">Google's Dremel Makes Big Data Look Small | Wired Enterprise | Wired.com</a></li>
 <li><a href="https://github.com/rickysaltzer/impala-in-action" time_added="1389815401" tags="">rickysaltzer/impala-in-action · GitHub</a></li>
 <li><a href="http://www.readwriteweb.com/cloud/2012/06/googles-bigquery-gets-big-dashboards-and-expanded-multiple-queries.php" time_added="1349321901" tags="big data,data science">Google's BigQuery Gets Big Dashboards and Expanded Multiple Queries</a></li>
-<li><a href="http://www.wired.com/wiredenterprise/2012/11/google-spanner-time/all/" time_added="1353945766" tags="big data,data science">Exclusive: Inside Google Spanner, the Largest Single Database on Earth | Wi</a></li>
 <li><a href="http://highscalability.com/blog/2012/9/24/google-spanners-most-surprising-revelation-nosql-is-out-and.html" time_added="1348860823" tags="big data,sql">High Scalability - High Scalability - Google Spanner's Most Surprising Reve</a></li>
 <li><a href="http://rarestblog.com/blog/2013/02/15/redshift-postgresql-in-the-cloud/" time_added="1360968719" tags="big data,cloud">Redshift: PostgreSQL-like in the cloud (benchmark) - RarestBlog</a></li>
 
@@ -981,6 +980,18 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://blog.acolyer.org/2015/02/05/impala-a-modern-open-source-sql-engine-for-hadoop/
 * https://aws.amazon.com/blogs/aws/quickly-filter-data-in-amazon-redshift-using-interleaved-sorting/
 * https://aws.amazon.com/blogs/aws/amazon-athena-interactive-sql-queries-for-data-in-amazon-s3/
+
+**Spanner**
+
+<li><a href="http://www.wired.com/wiredenterprise/2012/11/google-spanner-time/all/" time_added="1353945766" tags="big data,data science">Exclusive: Inside Google Spanner, the Largest Single Database on Earth | Wi</a></li>
+
+* https://cloudplatform.googleblog.com/2017/02/introducing-Cloud-Spanner-a-global-database-service-for-mission-critical-applications.html
+* https://cloud.google.com/spanner/
+* https://quizlet.com/blog/quizlet-cloud-spanner
+
+
+
+
 
 #### Spark / BDAS
 
