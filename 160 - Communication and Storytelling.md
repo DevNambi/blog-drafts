@@ -39,6 +39,8 @@ Only use active verbs.
 <li><a href="http://www.inc.com/geoffrey-james/8-conversational-habits-that-kill-credibility.html" time_added="1393009527" tags="">8 Conversational Habits That Kill Credibility | Inc.com</a></li>
 
 
+* https://www.khanacademy.org/partner-content/pixar/storytelling
+
 * http://www.fastcodesign.com/3038950/evidence/the-science-of-politely-ending-a-conversation
 * http://www.theatlantic.com/education/archive/2014/12/how-scientists-are-learning-to-write/383685/?single_page=true
 * http://www.bobpusateri.com/archive/2015/02/why-you-should-submit-for-pass-summit-2015/
