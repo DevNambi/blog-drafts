@@ -71,6 +71,7 @@
 * https://medium.com/@marknutter/advice-for-the-freelance-developer-68b63c69b050
 * https://ozar.me/2014/10/business/
 * https://blog.nugget.one/upstart/building-a-one-man-saas-app-offers-a-profound-sense-of-personal-achievement/
+* https://medium.com/@joshearl/is-reverse-price-anchoring-crippling-your-income-9aa9712507de
 
 
 **One-person SAAS:**
@@ -149,6 +150,8 @@ ortant,personal tech">Kill the Password: Why a String of Characters Can't Protec
 * https://aws.amazon.com/blogs/aws/new-gzip-compression-support-for-amazon-cloudfront/
 * https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 * http://security.stackexchange.com/questions/142496/which-security-measures-make-sense-for-a-static-web-site 
+* https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/
+
 
 
 **My Most Useful Links**

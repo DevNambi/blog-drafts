@@ -150,6 +150,7 @@
 * https://michaelochurch.wordpress.com/2015/08/08/employees-at-google-yahoo-and-amazon-lose-nothing-if-they-unionize-heres-why/
 * http://arstechnica.com/information-technology/2015/12/ballmer-microsofts-cloud-revenue-numbers-are-bullshit/
 * http://m.theinquirer.net/inquirer/news/2450852/updategate-microsoft-is-reportedly-upgrading-pcs-to-windows-10-automatically
+* http://www.afr.com/brand/boss/how-satya-nadella-revived-microsoft-in-just-three-years-20161220-gtf1i7
 
 
 

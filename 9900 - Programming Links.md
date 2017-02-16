@@ -100,6 +100,7 @@
 * http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/
 * http://hyperpolyglot.org/
 * https://jvns.ca/blog/good-questions/ <- amazing
+* https://github.com/kdeldycke/awesome-falsehood
 
 
 

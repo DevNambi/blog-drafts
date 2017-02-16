@@ -426,6 +426,7 @@
 * https://www.quantamagazine.org/20151203-big-datas-mathematical-mysteries/
 * http://xyclade.github.io/MachineLearning/
 * http://www.infoq.com/presentations/machine-learning-general-programming <- brilliant
+* * http://www.machinedlearnings.com/2017/02/software-engineering-vs-machine.html <- a great primer for software engineers
 * http://www.dataschool.io/comparing-supervised-learning-algorithms/
 * http://blog.dato.com/how-to-evaluate-machine-learning-models-part-1-orientation
 * https://medium.com/@mikedewar/recommendation-engines-aren-t-for-maximising-metrics-they-are-for-designing-experiences-b2cb3395092c

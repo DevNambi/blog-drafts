@@ -408,6 +408,8 @@
 * https://www.themarshallproject.org/2015/12/16/an-unbelievable-story-of-rape
 * http://www.theguardian.com/us-news/2016/feb/07/leaked-police-files-contain-guarantees-disciplinary-records-will-be-kept-secret
 * http://www.nakedcapitalism.com/2016/12/the-real-baltimore-police-accountability-in-the-age-of-trump.html <- do consent decrees work?
+* https://theintercept.com/2017/02/13/48-questions-the-fbi-uses-to-determine-if-someone-is-a-likely-terrorist/
+* https://www.theguardian.com/us-news/2017/feb/10/standing-rock-fbi-investigation-dakota-access
 
 
 
