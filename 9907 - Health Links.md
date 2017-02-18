@@ -773,6 +773,7 @@ pandemic-20150311-story.html
 * http://www.nytimes.com/2016/12/28/health/hospitals-medicaid-obamacare-trump.html
 * https://www.nytimes.com/2017/01/22/us/politics/donald-trump-health-plan-medicaid.html
 * https://www.nytimes.com/2017/01/22/business/president-donald-trump-health-insurance-high-risk-pool.html
+* https://arstechnica.com/science/2017/02/marathon-gets-the-shkreli-treatment-from-industry-after-89k-drug-dust-up/
 
 
 
