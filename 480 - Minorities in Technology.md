@@ -19,6 +19,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * https://medium.com/startup-grind/this-is-what-diversity-in-tech-looks-like-2c6828ef83eb
 * https://medium.com/backchannel/how-one-hardware-startup-solved-silicon-valley-s-woman-problem-76e3ee581534
 * http://fortune.com/2015/03/26/the-resume-gap-women-tell-stories-men-stick-to-facts-and-get-the-advantage/
+* https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber
 * https://modelviewculture.com/pieces/tech-workers-please-stop-defending-tech-companies
 * http://blog.melchua.com/2015/04/28/on-the-diversity-readiness-of-stem-environments-its-almost-as-if-i-could-only-enter-the-makerspace-as-a-janitor/
 * http://everydayfeminism.com/2016/06/questions-for-anti-racist-orgs/
