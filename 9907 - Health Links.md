@@ -258,6 +258,7 @@
 * http://www.dailykos.com/story/2015/01/30/1361224/-Roald-Dahl-s-Heartbreaking-Take-on-Vaccines
 * http://www.vox.com/2015/1/29/7929791/measles-outbreak-2014
 * http://www.nytimes.com/2015/01/29/us/father-of-boy-with-leukemia-asks-california-school-officials-to-bar-unvaccinated-students.html
+* https://arstechnica.com/science/2017/02/tragic-fda-reports-of-sick-babies-reveal-toll-of-homeopathic-products/ <- related
 
 #### Autism
 
