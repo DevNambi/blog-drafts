@@ -13,6 +13,7 @@
 * https://blog.torproject.org/blog/technology-hostile-states-ten-principles-user-protection
 * https://www.washingtonpost.com/world/national-security/security-of-critical-phone-database-called-into-question/2016/04/28/11c23b10-0c8d-11e6-a6b6-2e6de3695b0e_story.html
 * http://security.stackexchange.com/questions/142496/which-security-measures-make-sense-for-a-static-web-site 
+* https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
 * https://www.schneier.com/blog/archives/2016/12/security_risks_12.html
 * https://danielmiessler.com/study/security-by-obscurity/
 * https://plus.google.com/+YonatanZunger/posts/ayXVWrFpQus
