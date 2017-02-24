@@ -244,6 +244,8 @@
 * https://theintercept.com/2016/11/12/surveillance-self-defense-against-the-trump-administration/
 * http://howlroundmusic.org/wp/?p=23
 * http://www.independent.co.uk/life-style/gadgets-and-tech/news/investigatory-powers-act-bill-snoopers-charter-spying-law-powers-theresa-may-a7503616.html
+* https://arstechnica.com/tech-policy/2017/02/judge-no-feds-cant-nab-all-apple-devices-and-try-everyones-fingerprints/
+* https://motherboard.vice.com/en_us/article/i-tracked-myself-with-dollar170-smartphone-spyware-that-anyone-can-buy
 
 
 

@@ -625,9 +625,10 @@
 * http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994
 * http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994
 * http://stackoverflow.com/questions/27697766/understanding-min-df-and-max-df-in-scikit-countvectorizer/
+* http://engineering.flipboard.com/2017/02/storyclustering 
+
 
 #### Image Processing
-
 
 <li><a href="http://t.co/i7v6M5eO" time_added="1356487869" tags="ml">hmason: An algorithmic exploration of finding interesting parts of an image</a></li>
 <li><a href="http://blog.yhathq.com/posts/image-processing-with-scikit-image.html" time_added="1391111958" tags="">Image Processing with scikit-image</a></li>

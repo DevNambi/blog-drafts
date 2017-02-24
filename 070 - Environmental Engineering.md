@@ -101,6 +101,7 @@ Emphasize what we don't know
 * http://arstechnica.com/science/2015/12/why-recycle-plastics-when-you-can-get-them-to-biodegrade-easily/
 * http://www.nytimes.com/2015/07/06/us/california-drought-sends-us-water-agency-back-to-drawing-board.html
 * http://arstechnica.com/science/2016/11/fukushima-cost-estimates-nearly-double-approaching-200-billion/
+* http://www.economist.com/news/leaders/21717371-thats-no-reason-governments-stop-supporting-them-wind-and-solar-power-are-disrupting
 * http://www.khou.com/features/san-antonino-man-has-engine-that-gets-100-mpg/242673922
 * https://medium.com/@atilev/why-energy-storage-sucks-in-practice-3d80d80320de
 * http://www.newyorker.com/magazine/2015/05/25/the-disappearing-river

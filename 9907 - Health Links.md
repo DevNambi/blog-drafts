@@ -342,6 +342,7 @@
 * http://www.sciencealert.com/bilingual-people-are-twice-as-likely-to-recover-from-a-stroke-study-finds
 * http://yourmedicalguide.info/italian-doctor-may-have-found-surprisingly-simple-cure-for-multiple-sclerosis/
 * http://nautil.us/issue/31/stress/what-alzheimers-feels-like-from-the-inside
+* http://www.sciencemag.org/news/2017/01/brain-pollution-evidence-builds-dirty-air-causes-alzheimer-s-dementia
 
 #### Antibiotics, Drug Resistance, Infectious Diseases
 
@@ -393,6 +394,7 @@ pandemic-20150311-story.html
 * http://www.nytimes.com/2016/02/02/health/study-finds-growing-reason-to-be-wary-of-some-reflux-drugs.html
 * http://www.smh.com.au/nsw/confessions-of-a-sydney-surgeon-why-your-operation-may-not-work-20160302-gn95ya.html
 * https://arstechnica.com/science/2017/02/doctors-lower-back-pain-is-like-a-cold-minor-annoying-and-temporary/
+* https://www.theatlantic.com/health/archive/2017/02/when-evidence-says-no-but-doctors-say-yes/517368/
 
 
 #### Endocrine Disruptors, Pesticides
@@ -964,6 +966,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://www.thedailybeast.com/articles/2014/07/21/drums-aren-t-just-for-music-they-re-therapy-too.html
 * http://www.nytimes.com/2015/11/29/opinion/sunday/contaminating-our-bodies-with-everyday-products.html
 * http://features.crosscut.com/following-flint-unanswered-questions-about-lead-poisoning-in-washington
+* http://www.sciencemag.org/news/2017/01/brain-pollution-evidence-builds-dirty-air-causes-alzheimer-s-dementia
 
 
 
