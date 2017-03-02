@@ -554,6 +554,7 @@
 * https://github.com/open-guides/og-aws <- very, very useful
 * https://blog.lodr.io/going-serverless-5x-faster-100x-cheaper-2b7db8c37405
 * https://www.scotte.org/2016/12/ZFS-root-filesystem-on-AWS
+* https://cloudncode.blog/2017/03/02/best-practices-aws-lambda-function/
 
 
 
