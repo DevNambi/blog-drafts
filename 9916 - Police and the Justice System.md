@@ -8,6 +8,8 @@
 
 * http://www.theglobeandmail.com/news/investigations/unfounded-police-dismiss-1-in-5-sexual-assault-claims-as-baseless-Globe-investigation-reveals/article33891309/
 
+
+* http://www.baltimoresun.com/news/maryland/crime/bs-md-ci-baltimore-police-indicted-20170301-story.html
 * https://www.washingtonpost.com/news/grade-point/wp/2016/10/05/ivy-league-professor-i-would-much-rather-my-own-children-interact-with-drugs-than-with-the-police/?tid=sm_tw
 * https://theintercept.com/2017/01/02/i-dont-think-were-free-in-america-an-interview-with-bryan-stevenson/
 * http://www.newyorker.com/magazine/2016/10/24/an-ex-cops-remorse
