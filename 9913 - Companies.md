@@ -285,6 +285,7 @@
 * http://blog.benjamin-encz.de/post/why-i-dont-believe-in-ubers-success/
 * https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber
 * https://medium.com/@amyvertino/my-name-is-not-amy-i-am-an-uber-survivor-c6d6541e632f
+* https://www.theguardian.com/technology/2017/mar/07/uber-work-culture-travis-kalanick-susan-fowler-controversy
 
 
 "It turns out Uber is a replacement for owning a car" say wealthy urbanites who don't have kids, pets, disabilities or outdoor hobbies." - https://twitter.com/mims
