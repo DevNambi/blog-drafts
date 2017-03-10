@@ -599,6 +599,7 @@
 * https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
 * https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
 * https://medium.com/pachyderm-data/jupyter-pachyderm-part-1-exploring-and-understanding-historical-analyses-2a37e56c6578 
+* http://blog.jupyter.org/2017/03/01/ipywidgets-6-release/
 
 
 
@@ -724,6 +725,9 @@
 * http://course.fast.ai/start.html
 * http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/deep-learning-ai-listens-to-machines-for-signs-of-trouble
 * https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab
+* https://arxiv.org/abs/1701.07274 <- Deep Reinforcement Learning: An Overview
+* http://www.kdnuggets.com/2017/02/python-deep-learning-frameworks-overview.html
+
 
 
 

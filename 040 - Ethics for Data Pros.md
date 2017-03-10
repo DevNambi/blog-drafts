@@ -31,7 +31,7 @@ We believe we are working to make our society, our world, a better place. At the
 * https://ischool.uw.edu/feature-stories/bill-howe-aims-make-cities-smarter-using-data-science
 * https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
 * https://medium.com/data-for-democracy/origin-story-b740f14ca6ed
-
+* https://scout.ai/story/the-rise-of-the-weaponized-ai-propaganda-machine
 * http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html <- a massive, important read
 * https://medium.com/@sderymail/on-the-wrong-side-of-algorithms-part-1-f266a4c3342b
 * https://techcrunch.com/2016/10/26/the-darker-side-of-machine-learning/

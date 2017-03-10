@@ -78,6 +78,7 @@
 * https://lord.io/blog/2016/yayview/ <- how *not* to grow a startup.
 * https://medium.com/@stuartawillson/therohnos-who-really-gets-hurt-when-startups-blow-up-and-what-to-do-about-it-2110330d7880
 * https://www.devmarketingguide.com/
+* https://twitter.com/imeluny/status/835915196375818241 <- "a question every product team should ask: 'how could an ex-SO potentially abuse this feature?'"
 
 
 

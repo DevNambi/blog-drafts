@@ -412,6 +412,7 @@
 * http://www.nakedcapitalism.com/2016/12/the-real-baltimore-police-accountability-in-the-age-of-trump.html <- do consent decrees work?
 * https://theintercept.com/2017/02/13/48-questions-the-fbi-uses-to-determine-if-someone-is-a-likely-terrorist/
 * https://www.theguardian.com/us-news/2017/feb/10/standing-rock-fbi-investigation-dakota-access
+* https://qz.com/923648/why-do-highly-intelligent-people-commit-crimes/
 
 
 

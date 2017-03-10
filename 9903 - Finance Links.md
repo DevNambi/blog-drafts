@@ -643,6 +643,7 @@
 * http://www.nakedcapitalism.com/2015/06/the-standard-definition-of-money-is-in-error.html
 * http://mldb.ai/blog/posts/2016/01/ml-meets-economics/
 * http://nautil.us/issue/44/luck/investing-is-more-luck-than-talent
+* https://www.farnamstreetblog.com/2017/02/charlie-munger-wisdom/
 
 
 <li><a href="http://www.ecommercebytes.com/cab/abu/y201/m09/abu0047/s03" time_added="1354918107" tags="domestic,finance">Sniping Tools - Making Sure You Win the Auction</a></li>

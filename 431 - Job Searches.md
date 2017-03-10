@@ -99,6 +99,7 @@ I've found various links with resources about job searching and resumes.
 * http://jobtipsforgeeks.com/2015/12/29/manifesto/
 * http://www.gwan.com/blog/20160405.html <- ugh
 * http://factore.ca/blog/435-marketing-automation-is-getting-out-of-hand
+* http://www.mattfriz.com/#/outbursts/recruiter-email
 
 @hmason: If everyone stopped paying recruiters the entire tech industry would probably gain years of productivity overnight.
 
@@ -274,6 +275,7 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="https://remote.co/qa-leading-remote-companies/">Q & A - The leading remote companies answer your top questions</a></li>
 <li><a href="https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/">18F’s best practices for making distributed teams work</a></li>
 <li><a href="https://zapier.com/learn/the-ultimate-guide-to-remote-working/how-manage-remote-team/">How to Run a Remote Team</a></li>
+<li><a href="https://thenextweb.com/contributors/work-home-get-stuff-done/">How to Work From Home and Get Stuff Done — An In-Depth Guide</a></li>
 </ul>
 
 
