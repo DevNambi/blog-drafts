@@ -585,7 +585,7 @@
 
 
 
-## Economic Forces
+## Economic Forces, Rise of Automation
 
 <li><a href="http://www.nakedcapitalism.com/2014/01/echo-runup-crisis-bond-investors-reaching-yield.html" time_added="1389708387" tags="">In Echo of Runup to Crisis, Bond Investors Reaching for Yield | naked capit</a></li>
 <li><a href="http://www.businessinsider.com/what-japans-lost-decade-meant-for-youth-employment-2012-10" time_added="1350779882" tags="finance,important">What Japan's Lost Decade Meant For Youth Employment - Business Insider</a></li>
@@ -623,6 +623,7 @@
 * http://www.bloomberg.com/news/articles/2016-04-27/be-afraid-be-very-afraid-if-you-re-investing-for-the-long-run
 * http://wolfstreet.com/2016/06/12/american-middle-market-companies-growth-in-tough-economy/
 * http://www.nakedcapitalism.com/2017/01/three-theories-behind-global-productivity-slowdown.html
+* http://www.nakedcapitalism.com/2017/03/here-come-the-robots-your-job-is-at-risk.html
 
 
 

@@ -71,6 +71,7 @@
 * http://yahoolabs.tumblr.com/post/137281912191/yahoo-releases-the-largest-ever-machine-learning
 * http://data.statmt.org/ngrams/sentences_en/
 * http://blog.districtdatalabs.stfi.re/a-practical-guide-to-anonymizing-datasets-with-python-faker
+* https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2
 
 
 ## Data Acquisition, Sources
@@ -266,6 +267,7 @@
 * https://www.oreilly.com/ideas/2015-data-science-salary-survey
 * https://www.oreilly.com/ideas/5-secrets-for-writing-the-perfect-data-scientist-resume
 * https://news.ycombinator.com/item?id=13233352
+* https://shapescience.xyz/blog/interview-questions-for-data-scientists/
 
 
 @tdhopper - " Data scientists: "The hard part is data collection, cleaning, and problem formulation." D.S. giving an interview: "Tell me about math." "
@@ -374,6 +376,7 @@
 * http://fastml.com/bayesian-machine-learning/
 * https://galeascience.wordpress.com/2016/04/27/markov-chain-monte-carlo-sampling/
 * https://thuijskens.github.io/2016/12/29/bayesian-optimisation/
+* http://twiecki.github.io/blog/2017/03/14/random-walk-deep-net/
 
 
 
@@ -1023,6 +1026,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://www.kdnuggets.com/2015/11/introduction-spark-python.html
 * http://blogs.aws.amazon.com/bigdata/post/Tx2HJD3Z74J2U8U/Running-an-External-Zeppelin-Instance-using-S3-Backed-Notebooks-with-Spark-on-Am
 * https://www.oreilly.com/ideas/apache-cassandra-for-analytics-a-performance-and-storage-analysis
+* http://tech.marksblogg.com/petabytes-of-website-data-spark-emr.html
 
 #### TensorFlow
 
