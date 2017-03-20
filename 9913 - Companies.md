@@ -5,6 +5,7 @@
 
 * http://welcometobusinesstown.tumblr.com/ <- this is amazing
 * http://www.nakedcapitalism.com/2015/05/the-happiness-industry-how-government-and-big-businesses-manipulate-your-moods-for-profit.html
+* https://news.ycombinator.com/item?id=13905598 <- dirty open secret of each industry
 
 
 ## Amazon

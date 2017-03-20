@@ -13,6 +13,9 @@ This is an information problem. It's also a FUD problem.
 ## Getting started (a guide for students)
 - Guide for new STEM students
 
+
+* http://www.mintzberg.org/blog/mbas-as-ceos <- MBAs make things worse
+
 * Questions to ask
 * Where to go looking
 * https://zapier.com/blog/remote-office-photos/
