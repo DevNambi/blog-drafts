@@ -149,6 +149,7 @@
 * https://18f.gsa.gov/2016/02/23/software-maintenance-is-an-anti-pattern/
 * http://firstround.com/review/shims-jigs-and-other-woodworking-concepts-to-conquer-technical-debt/
 * http://codeahoy.com/2016/04/21/when-to-rewrite-from-scratch-autopsy-of-a-failed-software/
+* https://www.darkcoding.net/software/facebooks-code-quality-problem/
 
 
 
@@ -214,6 +215,8 @@
 * https://github.com/Developer-Y/cs-video-courses/blob/master/README.md
 * https://medium.com/@jacobgreenleaf/why-data-structures-are-irrelevant-to-software-engineering-interviews-and-what-can-be-done-about-it-bd9b7a9a0bb8
 * https://speakerdeck.com/alicebartlett/git-for-humans <- great
+* https://github.com/kamranahmedse/developer-roadmap
+* http://sijinjoseph.com/programmer-competency-matrix/
 
 
 

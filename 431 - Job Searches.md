@@ -222,6 +222,8 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 <li><a href="https://codewithoutrules.com/2016/11/10/work-life-balance-software-engineer/">Work/Life Balance Will Make You a Better Software Engineer</a></li>
 </ul>
 
+* http://www.newyorker.com/culture/jia-tolentino/the-gig-economy-celebrates-working-yourself-to-death
+
 
 
 ### Compensation

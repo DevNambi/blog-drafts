@@ -104,6 +104,7 @@
 * https://medium.com/@hunchly/bait-and-switch-the-failure-of-facebook-advertising-an-osint-investigation-37d693b2a858
 * https://techcrunch.com/2016/11/10/facebook-admits-it-must-do-more-to-stop-the-spread-of-misinformation-on-its-platform/
 * https://arstechnica.com/staff/2017/02/op-ed-mark-zuckerbergs-manifesto-is-a-political-trainwreck/
+* https://www.darkcoding.net/software/facebooks-code-quality-problem/
 
 
 ## Apple
