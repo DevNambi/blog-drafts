@@ -38,6 +38,8 @@ I'll add one more truth, a psychological one:
 
 **A car doesn't have to be an expression of your personality**. It can be just a box with an engine that gets you from one place to another.
 
+http://wolfstreet.com/2017/03/26/automakers-record-incentives-to-slow-decline-in-sales/ 
+
 * http://tradeinqualityindex.com <- HOLY CRAP, THIS IS AMAZING
 * http://www.mrmoneymustache.com/2011/09/30/is-a-costco-membership-worth-the-cost/
 * http://arstechnica.com/cars/2015/05/meta-analysis-finds-self-braking-cars-reduce-collisions-by-38-percent/
