@@ -4,7 +4,7 @@
 # Unsorted
 
 
-
+* http://www.slate.com/articles/life/crime/features/2013/the_lock_pickers/locksport_the_strange_things_that_happen_at_a_lock_picking_convention.html
 * https://gist.github.com/epixoip/a83d38f412b4737e99bbef804a270c40
 * http://bits.blogs.nytimes.com/2015/10/14/hackers-prove-they-can-pwn-the-lives-of-those-not-hyperconnected/
 * https://medium.com/the-coinbase-blog/on-phone-numbers-and-identity-423db8577e58
