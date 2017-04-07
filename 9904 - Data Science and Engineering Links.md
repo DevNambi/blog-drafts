@@ -778,6 +778,8 @@
 <li><a href="http://www.josephmisiti.com/why-becoming-a-data-scientist-is-not-actually" time_added="1350412108" tags="data science">Why becoming a data scientist is NOT actually easier than you think - josep</a></li>
 <li><a href="http://www.bigdatarepublic.com/author.asp?section_id=2809&doc_id=257527&" time_added="1358794770" tags="data science,important">Free Big Data Education: A Data Science Perspective - Daniel D. Gutierrez |</a></li>
 
+
+* https://medium.com/@mrogati/how-do-i-become-a-data-scientist-f8074232608e <- AMAZING
 * http://www.boozallen.com/insights/2013/11/data-science-field-guide
 * http://blog.mikiobraun.de/2015/03/three-things-about-data-science.html
 * https://leanpub.com/datastyle
