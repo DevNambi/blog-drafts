@@ -38,7 +38,7 @@
 
 <li><a href="http://visualwebsiteoptimizer.com/split-testing-blog/seven-ab-testing-mistakes-to-stop-in-2013/" time_added="1357243322" tags="brand,data science">Seven A/B testing mistakes you need to stop making in 2013 « I love split t</a></li>
 <li><a href="http://www.hilarymason.com/blog/how-do-you-prioritize-research/" time_added="1348860821" tags="data science">» How do you prioritize research? hilarymason.com</a></li>
-<li><a href="http://stevehanov.ca/blog/index.php?id=132&utm_medium=referral&utm_source=pulsenews" time_added="1349321949" tags="data science">20 lines of code that will beat A/B testing every time - Steve Hanov's Prog</a></li>
+<li><a href="http://stevehanov.ca/blog/index.php?id=132" time_added="1349321949" tags="data science">20 lines of code that will beat A/B testing every time - Steve Hanov's Prog</a></li>
 <li><a href="http://kylerush.net/blog/optimization-at-the-obama-campaign-ab-testing/" time_added="1355329802" tags="big data,cloud,data science,hn">Optimization at the Obama campaign: a/b testing</a></li>
 <li><a href="http://strata.oreilly.com/2012/07/the-dark-side-of-data.html#more-49588" time_added="1348860826" tags="data science">The dark side of data - Strata</a></li>
 <li><a href="http://bentilly.blogspot.com/2012/10/ab-testing-scale-cheat-sheet.html" time_added="1351534808" tags="big data,data science">Random Observations: A/B testing scale cheat sheet</a></li>
@@ -72,6 +72,8 @@
 * http://data.statmt.org/ngrams/sentences_en/
 * http://blog.districtdatalabs.stfi.re/a-practical-guide-to-anonymizing-datasets-with-python-faker
 * https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2
+* http://langlotzlab.stanford.edu/imaging-datasets/
+
 
 
 ## Data Acquisition, Sources
@@ -178,6 +180,7 @@
 * http://anna.vc/post/112863438962/how-to-think-using-visual-analogies
 * https://github.com/wbkd/awesome-interactive-journalism
 * https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/
+
 
 #### D3 and related
 
@@ -339,6 +342,7 @@
 * https://blog.godatadriven.com/kendall-tau-recommendations
 * https://honeycomb.io/blog/2017/01/instrumentation-the-first-four-things-you-measure/
 * https://scottlocklin.wordpress.com/2016/12/05/predicting-with-confidence-the-best-machine-learning-idea-you-never-heard-of/
+* https://www.neuraldesigner.com/blog/methods-binary-classification
 
 
 "Remember, nonlinear interactions, and non-Gaussian distributions are the default. "
@@ -348,6 +352,7 @@
 * http://multithreaded.stitchfix.com/blog/2016/01/13/market-watch/
 * https://medium.com/the-physics-arxiv-blog/cause-and-effect-the-revolutionary-new-statistical-test-that-can-tease-them-apart-ed84a988e <- causal inference
 * http://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
+* https://dsaber.com/2017/04/02/time-keeps-on-slipping-exploiting-time-for-causal-inference-with-difference-in-differences-and-panel-methods/
 
 ### Time Series
 
@@ -519,6 +524,8 @@
 * http://efavdb.com/battleship/ <- reinforcement learning
 * http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf <- really, really useful
 * https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur <- also very useful
+* https://www.deeplearningtrack.com/single-post/2017/05/01/Value-derived-from-data-science-The-tussle-between-quality-quantity-of-models
+* http://distill.pub/2017/momentum/ <- PRICELESS
 
 
 
@@ -548,6 +555,7 @@
 * http://techcrunch.com/2014/10/26/elon-musk-compares-building-artificial-intelligence-to-summoning-the-demon/
 * http://www.wired.com/2014/10/future-of-artificial-intelligence/
 * http://www.wired.com/2015/07/trained-googles-chatbot-mein-kampf/
+* https://stratechery.com/2017/the-arrival-of-artificial-intelligence/
 
 #### Agent Systems, Networks, Adversarial ML
 
@@ -603,6 +611,11 @@
 * https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
 * https://medium.com/pachyderm-data/jupyter-pachyderm-part-1-exploring-and-understanding-historical-analyses-2a37e56c6578 
 * http://blog.jupyter.org/2017/03/01/ipywidgets-6-release/
+* https://activewizards.com/blog/top-15-libraries-for-data-science-in-python/
+* http://pytorch.org/tutorials/
+* http://hyperopt.github.io/hyperopt-sklearn/
+* https://rhiever.github.io/tpot/
+
 
 
 
@@ -647,6 +660,7 @@
 <li><a href="http://t.co/ZQOMUrte" time_added="1354389044" tags="data science">iSchoolSU: .@MSFTResearch is Hosting a Workshop on Analyzing Social Media D</a></li>
 
 * https://github.com/pmatiello/python-graph/tree/master/core/pygraph/algorithms
+
 
 #### Deep Learning / Neural Networks
 
@@ -730,6 +744,8 @@
 * https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab
 * https://arxiv.org/abs/1701.07274 <- Deep Reinforcement Learning: An Overview
 * http://www.kdnuggets.com/2017/02/python-deep-learning-frameworks-overview.html
+* https://medium.com/slavv/picking-an-optimizer-for-style-transfer-86e7b8cba84b
+* http://www.fast.ai/2017/04/06/alternatives/
 
 
 
@@ -817,6 +833,9 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * https://www.quora.com/profile/Michael-Hochster/Posts/My-Quora-Stats-Textbook
 * http://data36.com/predictive-analytics-101-part-1/
 * https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README.md
+* http://blog.paralleldots.com/data-scientist/list-must-read-books-data-science/
+* https://blog.insightdatascience.com/insight-data-science-fellows-program-expands-to-seattle-9f9e19ebe8e
+
 
 
 
@@ -947,6 +966,8 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://bdupras.github.io/filter-tutorial/
 * https://chatwithengineers.com/2016/08/29/a-survey-of-query-execution-engines-from-volcano-to-vectorized-processing/
 * http://tech.marksblogg.com/billion-nyc-taxi-rides-spark-2-1-0-emr.html
+* https://analytics.googleblog.com/2017/03/data-studio-now-globally-available.html
+* https://medium.com/@uwdata/regression-by-eye-b7587f4ca1f5
 
 
 
@@ -1030,6 +1051,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://www.oreilly.com/ideas/apache-cassandra-for-analytics-a-performance-and-storage-analysis
 * http://tech.marksblogg.com/petabytes-of-website-data-spark-emr.html
 
+
 #### TensorFlow
 
 * https://github.com/pkmital/tensorflow_tutorials
@@ -1038,7 +1060,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://googleresearch.blogspot.com/2016/04/announcing-tensorflow-08-now-with.html
 * https://www.oreilly.com/learning/hello-tensorflow
 * https://medium.com/@Zelros/4-steps-to-learn-tensorflow-when-you-already-know-scikit-learn-3cd0340456b5
-
+* http://planspace.org/20170404-how_not_to_program_the_tensorflow_graph/
 
 
 
@@ -1116,6 +1138,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://tech.iheart.com/mapping-the-world-of-music-using-machine-learning-part-1-9a57fa67e366
 * http://www.nickkolenda.com/customer-reviews/
 * https://aws.amazon.com/blogs/big-data/interactive-analysis-of-genomic-datasets-using-amazon-athena/
+* http://sourabhbajaj.com/2017/03/16/so-you-built-a-machine-learning-model/
 
 
 

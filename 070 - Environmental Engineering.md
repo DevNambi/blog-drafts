@@ -85,8 +85,12 @@ Emphasize what we don't know
 
 
 * http://forecast.io/raw/
+* http://www.npr.org/sections/thetwo-way/2017/04/20/524896256/louisianas-governor-declares-state-of-emergency-over-disappearing-coastline
+* https://www.scientificamerican.com/article/high-ground-is-becoming-hot-property-as-sea-level-rises/
 * https://johncarlosbaez.wordpress.com/2015/06/19/on-care-for-our-common-home/
+* https://www.bleepingcomputer.com/news/hardware/millions-of-smart-meters-may-over-inflate-readings-by-up-to-600-percent/
 * http://www.smh.com.au/federal-politics/political-news/details-of-transpacific-partnership-finally-released-20151105-gkrivo.html
+* http://www.rollingstone.com//politics/features/the-doomsday-glacier-w481260
 * http://www.bloomberg.com/news/articles/2015-06-23/the-way-humans-get-electricity-is-about-to-change-forever
 * http://mobile.nytimes.com/2016/12/02/your-money/youre-buying-a-home-have-you-considered-climate-change.html
 * http://www.bbc.com/news/world-asia-india-35888535

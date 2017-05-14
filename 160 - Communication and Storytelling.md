@@ -51,6 +51,8 @@ Only use active verbs.
 * http://qz.com/778767/to-tell-someone-theyre-wrong-first-tell-them-how-theyre-right/
 * http://blog.statuspage.io/why-public-apologies-suck
 * https://hackernoon.com/pr-101-for-engineers-7cd116cc5347
+* https://longreads.com/2017/04/12/the-elements-of-bureaucratic-style/
+
 
 
 Blog meta

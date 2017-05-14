@@ -64,6 +64,7 @@
 * - https://aeon.co/essays/can-school-today-teach-anything-more-than-how-to-pass-exams
 * http://www.nakedcapitalism.com/2015/05/high-school-dropout-rates-increase-with-income-inequality.html
 * http://www.wired.com/2016/03/science-education-woefully-uncreative-change/
+* https://arstechnica.com/information-technology/2017/03/cloud-changes-school-3/
 * http://www.seattletimes.com/seattle-news/testing-cutting-into-class-time/
 * http://news.stanford.edu/news/2015/november/robinson-humanities-lecture-110315.html
 * http://www.elearnspace.org/blog/2015/09/09/adios-ed-tech-hola-something-else/
@@ -149,12 +150,16 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2015/12/27/us/as-graduation-rates-rise-experts-fear-standards-have-fallen.html <- measuring the wrong thing
 * http://www.theatlantic.com/education/archive/2016/01/the-charade-of-special-education-programs/421578/
 * http://www.nytimes.com/2016/01/03/opinion/sunday/is-the-drive-for-success-making-our-children-sick.html
+* http://www.seattletimes.com/business/million-dollar-teachers-cashing-in-by-selling-their-lessons/
+
+
 
 
 #### Charter Schools
 
 * http://www.nakedcapitalism.com/2016/01/are-charter-schools-the-new-subprime-mortgages.html
 * https://nonprofitquarterly.org/2016/04/11/charitable-plutocracy-bill-gates-washington-state-and-the-nuisance-of-democracy/
+* http://www.nakedcapitalism.com/2017/04/13-questions-scare-charter-school-advocates.html
 
 
 
@@ -487,6 +492,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.wsj.com/articles/heavy-recruitment-of-chinese-students-sows-discord-on-u-s-campuses-1458224413
 * http://www.theatlantic.com/education/archive/2016/03/the-commodification-of-higher-education/475947/
 * http://highereddatastories.blogspot.com/2017/01/what-kind-of-jobs-can-i-get-if-i-major.html
+* https://www.theatlantic.com/education/archive/2017/04/how-colleges-find-their-students/522516/
 
 
 
@@ -550,6 +556,8 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.nytimes.com/2016/03/07/business/dealbook/court-to-hear-suit-accusing-law-school-of-inflating-job-data.html
 * http://www.theatlantic.com/education/archive/2016/03/the-commodification-of-higher-education/475947/
 * http://www.theatlantic.com/education/archive/2016/10/ballooning-bureaucracies-shrinking-checkbooks/503066/
+* https://svpow.com/2017/03/17/every-attempt-to-manage-academia-makes-it-worse/
+
 
 
 
@@ -674,6 +682,10 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.theatlantic.com/education/archive/2016/07/the-paradox-of-new-buildings-on-campus/492398/
 * http://www.spokesman.com/stories/2016/aug/01/tuition-cuts-at-state-universities-has-been-a-surp/ <- finally some good news
 * http://www.nytimes.com/2016/08/07/education/edlife/how-much-does-living-off-campus-cost-who-knows.html
+* http://www.npr.org/sections/ed/2017/04/04/522456671/a-new-look-at-the-lasting-consequences-of-student-debt
+* https://www.bloomberg.com/news/articles/2017-04-03/student-debt-giant-navient-to-borrowers-you-re-on-your-own
+* https://www.nytimes.com/2017/04/09/business/dealbook/states-say-navient-preyed-on-students.html
+
 
 
 

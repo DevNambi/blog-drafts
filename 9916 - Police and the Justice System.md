@@ -10,7 +10,9 @@
 
 
 * http://www.baltimoresun.com/news/maryland/crime/bs-md-ci-baltimore-police-indicted-20170301-story.html
+* https://www.theatlantic.com/politics/archive/2017/05/plea-bargaining-courts-prosecutors/524112/
 * https://www.washingtonpost.com/news/grade-point/wp/2016/10/05/ivy-league-professor-i-would-much-rather-my-own-children-interact-with-drugs-than-with-the-police/?tid=sm_tw
+* https://www.nytimes.com/2017/03/28/us/alabama-prison-violence.html
 * https://theintercept.com/2017/01/02/i-dont-think-were-free-in-america-an-interview-with-bryan-stevenson/
 * http://www.newyorker.com/magazine/2016/10/24/an-ex-cops-remorse
 * The "justice system" is often a tool of injustice. The name can be Orwellian.

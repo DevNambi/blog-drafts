@@ -10,6 +10,7 @@
 
 
 * http://www.nytimes.com/2016/01/06/world/asia/north-korea-hydrogen-bomb-test.html
+* https://warisboring.com/mosul-needs-35-000-cops-1bf2bac7c2ff
 * http://seattletimes.com/html/nationworld/2025041061_apxmilitarycorruption.html
 * http://warontherocks.com/2016/09/six-ways-to-fix-the-armys-culture/
 * http://www.nytimes.com/2015/04/26/us/politics/deep-support-in-washington-for-cias-drone-missions.html <- horrifying
@@ -26,8 +27,10 @@
 * http://www.theatlantic.com/international/archive/2015/12/war-2015-china-russia-isis/422085/
 * http://fortune.com/2016/04/28/f-35-fails-testing-air-force/
 * https://medium.com/war-is-boring/test-pilot-admits-the-f-35-can-t-dogfight-cdb9d11a875
+* http://warisboring.com/the-f-35-is-a-terrible-fighter-bomber-and-attacker-and-unfit-for-aircraft-carriers/
 * http://www.buzzfeed.com/azmatkhan/the-big-lie-that-helped-justify-americas-war-in-afghanistan
-* http://www.nytimes.com/2015/08/10/opinion/the-pentagons-dangerous-views-on-the-wartime-press.html?action=click&pgtype=Homepage&module=opinion-c-col-left-region&region=opinion-c-col-left-region&WT.nav=opinion-c-col-left-region&_r=0
+* http://www.nytimes.com/2015/08/10/opinion/the-pentagons-dangerous-views-on-the-wartime-press.html
+* https://binaryloom.com/an-ai-just-defeated-human-fighter-pilots-in-an-air-combat-simulator/
 * http://www.washingtonpost.com/world/national-security/pentagon-loses-sight-of-500-million-in-counterterrorism-aid-given-to-yemen/2015/03/17/f4ca25ce-cbf9-11e4-8a46-b1dc9be5a8ff_story.html?hpid=z1
 * http://www.theatlantic.com/politics/archive/2015/06/these-21-republicans-voted-against-a-torture-ban/396095/
 * http://www.nytimes.com/2015/04/15/opinion/is-there-any-hope-left-for-yemen.html

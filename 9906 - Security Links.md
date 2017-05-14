@@ -5,6 +5,7 @@
 
 
 * http://www.slate.com/articles/life/crime/features/2013/the_lock_pickers/locksport_the_strange_things_that_happen_at_a_lock_picking_convention.html
+* https://privacylog.blogspot.com/2017/04/what-happens-when-you-send-zero-day-to.html
 * https://gist.github.com/epixoip/a83d38f412b4737e99bbef804a270c40
 * http://bits.blogs.nytimes.com/2015/10/14/hackers-prove-they-can-pwn-the-lives-of-those-not-hyperconnected/
 * https://medium.com/the-coinbase-blog/on-phone-numbers-and-identity-423db8577e58
@@ -16,6 +17,7 @@
 * https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
 * https://www.schneier.com/blog/archives/2016/12/security_risks_12.html
 * https://danielmiessler.com/study/security-by-obscurity/
+* https://www.troyhunt.com/reckon-youve-seen-some-stupid-security-things-here-hold-my-beer/
 * https://plus.google.com/+YonatanZunger/posts/ayXVWrFpQus
 * http://www.theregister.co.uk/2016/09/23/if_your_company_has_terrible_it_security_that_could_be_a_rational_business_decision/
 * http://www.khou.com/features/san-antonino-man-has-engine-that-gets-100-mpg/242673922
@@ -206,6 +208,8 @@
 * http://arstechnica.com/security/2015/05/the-moose-is-loose-linux-based-worm-turns-routers-into-social-network-bots/
 * http://arstechnica.com/security/2016/11/notorious-iot-botnets-weaponize-new-flaw-found-in-millions-of-home-routers/
 * http://www.finehomebuilding.com/2013/08/14/why-i-regret-making-my-house-a-smart-house
+* https://gizmodo.com/this-hacker-is-my-new-hero-1794630960
+
 
 
 
@@ -237,6 +241,7 @@
 * https://cpbotha.net/2016/11/27/android-security-in-2016-is-a-mess/
 * http://www.vanityfair.com/news/2016/11/how-bill-marczak-spyware-can-control-the-iphone
 * https://theintercept.com/2016/12/08/phone-cracking-cellebrite-software-used-to-prosecute-tortured-dissident/
+* https://arstechnica.com/gadgets/2017/04/samsungs-tizen-is-riddled-with-security-flaws-amateurishly-written/
 
 
 
@@ -252,6 +257,7 @@
 * http://randywestergren.com/united-airlines-bug-bounty-an-experience-in-reporting-a-serious-vulnerability/
 * http://www.wired.com/2015/11/hackers-claim-million-dollar-bounty-for-ios-attack/
 * http://blog.erratasec.com/2015/07/infosecs-inability-to-quantify-risk.html
+* http://www.economist.com/news/science-and-technology/21720268-consequences-pile-up-things-are-starting-improve-computer-security
 
 
 ### Data Breaches, Ransomware

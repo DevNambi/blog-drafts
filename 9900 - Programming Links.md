@@ -101,6 +101,20 @@
 * http://hyperpolyglot.org/
 * https://jvns.ca/blog/good-questions/ <- amazing
 * https://github.com/kdeldycke/awesome-falsehood
+* https://blog.cloudflare.com/
+* https://googleprojectzero.blogspot.com/
+* https://blog.jooq.org/
+* https://www.civisanalytics.com/blog/
+* https://stripe.com/blog/engineering
+* http://www.fittedcloud.com/blog/
+* https://testing.googleblog.com/
+* https://research.googleblog.com/
+* https://developers.googleblog.com/
+* https://codeascraft.com/
+* https://blog.codeship.com/
+* http://multithreaded.stitchfix.com/
+* https://githubengineering.com/
+* https://www.quora.com/What-happens-over-time-if-each-year-I-fire-all-my-below-average-programmers-and-get-better-ones/answer/Ethar-Alali
 
 
 
@@ -247,7 +261,9 @@
 * https://medium.com/@johnslegers/the-decline-of-stack-overflow-7cb69faa575d
 * http://aeon.co/magazine/technology/how-yuppies-hacked-the-original-hacker-ethos/
 * http://researchblogs.cs.bham.ac.uk/thelablunch/2016/01/a-short-fable-of-software-engineering-vs-regular-engineering/
+* http://thecodist.com/article/the-biggest-difference-between-coding-today-and-when-i-started-in-the-80-s
 * http://blog.contino.io/blog/the-10x-software-development-gap-why-do-some-organisations-win-and-others-lose-when-it-comes-to-software
+* http://www.shellypalmer.com/2017/04/id-pay-500000-year-cant-work/
 
 
 
@@ -440,6 +456,7 @@
 * http://www.nytimes.com/2016/12/25/technology/why-the-computing-cloud-will-keep-growing-and-growing.html
 * http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/deep-learning-ai-listens-to-machines-for-signs-of-trouble
 * http://tomtunguz.com/implications-of-monoclouds/
+* https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/
 
 
 
@@ -464,6 +481,8 @@
 * https://zwischenzugs.wordpress.com/2015/03/14/docker-in-practice-a-guide-for-engineers/
 * http://www.hokstad.com/docker/patterns
 * http://danielmartins.ninja/posts/five-months-of-kubernetes.html
+* http://techblog.netflix.com/2017/04/the-evolution-of-container-usage-at.html
+
 
 
 
@@ -493,7 +512,8 @@
 * http://googlecloudplatform.blogspot.com/2015/05/Introducing-Preemptible-VMs-a-new-class-of-compute-available-at-70-off-standard-pricing.html
 * http://www.51zero.com/blog/google-reveals-its-cloud-computing-vision
 * http://www.nytimes.com/2016/07/25/technology/google-races-to-catch-up-in-cloud-computing.html
-- https://plus.google.com/+RipRowan/posts/eVeouesvaVX
+* https://plus.google.com/+RipRowan/posts/eVeouesvaVX
+* https://www.coursera.org/googlecloud
 
 
 
@@ -558,6 +578,10 @@
 * https://blog.lodr.io/going-serverless-5x-faster-100x-cheaper-2b7db8c37405
 * https://www.scotte.org/2016/12/ZFS-root-filesystem-on-AWS
 * https://cloudncode.blog/2017/03/02/best-practices-aws-lambda-function/
+* http://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/
+* https://aws.amazon.com/blogs/aws/file-interface-to-aws-storage-gateway/
+* https://aws.amazon.com/blogs/aws/new-aws-codestar/
+
 
 
 
@@ -582,7 +606,10 @@
 * http://playfulprogramming.blogspot.com/2015/08/cache-optimizing-priority-queue.html
 * http://adriansampson.net/blog/llvm.html
 * http://varianceexplained.org/r/polarizing-technologies/
-* https://medium.com/@jamesperry/writing-high-performance-servers-in-modern-c-7cd00926828#.gjxqshnty
+* https://medium.com/@jamesperry/writing-high-performance-servers-in-modern-c-7cd00926828
+* https://redmonk.com/sogrady/2017/03/17/language-rankings-1-17/
+* https://github.com/gurugio/lowlevelprogramming-university/blob/master/README.md
+
 
 
 
@@ -623,6 +650,9 @@
 * https://github.com/awslabs/chalice
 * http://docs.python-guide.org/en/latest/
 * https://engineering.instagram.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172
+* http://cewing.github.io/training.codefellows/assignments/day01/sublime_as_ide.html
+* http://djangostars.com/blog/asynchronous-programming-in-python-asyncio/
+
 
 
 
@@ -677,6 +707,7 @@
 * http://faculty.washington.edu/mikefree/info343/
 * https://medium.com/@housecor/angular-2-versus-react-there-will-be-blood-66595faafd51
 * https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f
+* https://github.com/stickfigure/blog/wiki/Opinionated-Comparison-of-React%2C-Angular2%2C-and-Aurelia
 
 
 **React**
@@ -776,6 +807,7 @@ Microsoft and other third-party developers have a huge problem: they don't liste
 * http://arstechnica.com/information-technology/2016/03/to-sql-or-nosql-thats-the-database-question/
 * http://www.sqlstyle.guide/
 * https://chatwithengineers.com/2016/08/29/a-survey-of-query-execution-engines-from-volcano-to-vectorized-processing/
+* http://blog.sqlizer.io/posts/sql-43/
 
 
 
@@ -901,6 +933,7 @@ things they believe in will keep </a></li>
 * https://www.quantamagazine.org/20151214-graph-isomorphism-algorithm/
 * https://www.perforce.com/blog/110928/short-history-btree
 * https://xlinux.nist.gov/dads/
+* https://cses.fi/book.html <- The Competitive Programmer's Handbook
 
 
 

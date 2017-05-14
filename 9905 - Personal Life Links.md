@@ -289,6 +289,10 @@
 * http://www.bbc.com/news/uk-38285223 <- Mental health and relationships 'key to happiness'
 * http://nautil.us/issue/33/attraction/shell-text-me-shell-text-me-not
 * http://www.refinery29.com/2017/01/138549/women-changing-last-name <- WTF
+* https://blog.photofeeler.com/okcupid-is-wrong-about-smiling-eye-contact-mens-dating-profile-photos/
+* http://thoughtcatalog.com/melissa-moeller/2016/04/why-modern-dating-makes-me-want-to-punch-myself-in-the-throat/
+* http://maketimeforthetalk.com/ <- PRICELESS
+
 
 
 

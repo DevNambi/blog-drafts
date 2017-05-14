@@ -60,6 +60,7 @@
 * http://www.cnbc.com/2016/07/08/amazons-chinese-counterfeit-problem-is-getting-worse.html
 * https://sites.google.com/site/thefaceofamazon/home
 * http://shivankaul.com/blog/2016/12/07/clean-your-desk-yet-another-amazon-interview-experience.html
+* https://www.cbinsights.com/blog/amazon-strategy-teardown/
 
 
 
@@ -105,6 +106,8 @@
 * https://techcrunch.com/2016/11/10/facebook-admits-it-must-do-more-to-stop-the-spread-of-misinformation-on-its-platform/
 * https://arstechnica.com/staff/2017/02/op-ed-mark-zuckerbergs-manifesto-is-a-political-trainwreck/
 * https://www.darkcoding.net/software/facebooks-code-quality-problem/
+* https://arstechnica.com/business/2017/05/facebook-helped-advertisers-target-teens-who-feel-worthless/
+* https://hbr.org/2017/04/a-new-more-rigorous-study-confirms-the-more-you-use-facebook-the-worse-you-feel
 
 
 ## Apple
@@ -139,6 +142,7 @@
 * http://www.nytimes.com/2016/02/02/technology/yahoo-employee-ranking-system-lawsuit.html
 * http://www.businessinsider.com/github-the-full-inside-story-2016-2
 * http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire
+* https://qz.com/924167/ibm-remote-work-pioneer-is-calling-thousands-of-employees-back-to-the-office/
 
 
 
@@ -288,12 +292,18 @@
 * https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber
 * https://medium.com/@amyvertino/my-name-is-not-amy-i-am-an-uber-survivor-c6d6541e632f
 * https://www.theguardian.com/technology/2017/mar/07/uber-work-culture-travis-kalanick-susan-fowler-controversy
+* https://backchannel.com/why-uber-wont-fire-its-ceo-bd748df7151d
+* https://www.theguardian.com/technology/2017/apr/06/uber-contract-gibberish-says-mp-investigating-gig-economy
+* https://techcrunch.com/2017/04/05/uber-finds-one-allegedly-stolen-waymo-file-on-an-employees-personal-device/
+* http://www.bostonherald.com/news/local_coverage/2017/04/more_than_8000_ride_share_drivers_flunked_mass_background_checks
+
+
 
 
 "It turns out Uber is a replacement for owning a car" say wealthy urbanites who don't have kids, pets, disabilities or outdoor hobbies." - https://twitter.com/mims
 
 
-## Media, News
+## Media, News, Disney
 
 * http://www.huffingtonpost.com/2014/12/05/new-republic-resignations_n_6275810.html
 * http://blog.aylien.com/post/113443039128/how-we-built-a-press-target-list-of-300-qualified
@@ -312,6 +322,8 @@
 * http://arstechnica.com/business/2016/04/riaa-still-hates-the-dmca-even-as-streaming-revenues-soar/
 * https://freedom-to-tinker.com/2016/09/14/all-the-news-thats-fit-to-change-insights-into-a-corpus-of-2-5-million-news-headlines/
 * http://www.raptitude.com/2016/12/five-things-you-notice-when-you-quit-the-news/
+* http://www.smithsonianmag.com/smithsonian-institution/how-story-moana-and-maui-holds-against-cultural-truths-180961258/
+
 
 
 
@@ -356,6 +368,9 @@
 * http://www.nytimes.com/2016/01/12/science/rethinking-the-airplane-for-climates-sake.html
 * http://www.tampabay.com/projects/2016/investigations/allegiant-air/mechanical-breakdowns/
 * https://www.bloomberg.com/news/features/2017-01-05/is-emirates-airline-running-out-of-sky
+* http://www.nakedcapitalism.com/2017/04/united-passenger-removal-reporting-management-fail.html
+* http://time.com/4753613/united-dragging-police-reports-dao/
+* https://www.bloomberg.com/view/articles/2017-04-13/united-broke-its-contract-with-frequent-flyers
 
 
 ## Energy Companies
@@ -378,7 +393,7 @@
 * http://www.theverge.com/2016/4/13/11387934/internet-moderator-history-youtube-facebook-reddit-censorship-free-speech
 
 
-## Vehicle, Car Companies
+## Vehicle, Car & Transportation Companies
 
 * http://arstechnica.com/cars/2015/11/vw-execs-reportedly-knew-about-fuel-economy-and-emissions-cheating-a-year-ago/
 * http://www.nytimes.com/2015/04/16/business/general-motors-wins-ruling-shielding-it-from-most-claims-over-ignition-flaw.html
@@ -404,6 +419,7 @@
 * https://www.yourmechanic.com/article/the-most-and-least-expensive-cars-to-maintain-by-maddy-martiN
 * http://www.nytimes.com/2016/07/01/business/honda-accura-takata-airbag-recall-transportation-department.html
 * http://rodneybrooks.com/unexpected-consequences-of-self-driving-cars/
+* https://www.nytimes.com/2017/04/24/nyregion/amtrak-infrastructure-crisis.html
 
 
 

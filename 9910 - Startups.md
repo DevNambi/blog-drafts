@@ -42,6 +42,8 @@
 * http://www.nytimes.com/2015/05/23/technology/overvalued-in-silicon-valley-but-not-the-word-that-must-not-be-uttered.html
 * http://qz.com/300825/how-fab-com-went-from-a-1-billion-valuation-to-a-15-million-fire-sale/?VCBS
 * https://medium.com/positiveslope/dont-get-trampled-the-puzzle-for-unicorn-employees-8f00f33c784f
+* https://medium.com/@patocano/why-i-will-not-exercise-my-gitlab-stock-options-bf6f3dda62e
+* https://techcrunch.com/2017/03/20/the-terminator-of-startups-says-hes-seeing-two-to-four-wind-downs-a-week/
 
 
 ## Pricing
@@ -54,6 +56,7 @@
 * http://www.nickkolenda.com/psychological-pricing-strategies/
 * http://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/
 * https://baremetrics.com/blog/freemium-saas-implode
+
 
 ## Customers
 

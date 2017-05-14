@@ -163,9 +163,11 @@
 * http://arstechnica.com/security/2015/03/freak-flaw-in-android-and-apple-devices-cripples-https-crypto-protection/
 * http://www.theguardian.com/technology/2015/feb/18/the-right-be-forgotten-google-search
 * http://www.extremetech.com/mobile/211985-htc-caught-storing-fingerprint-data-in-unencrypted-plain-text <- tension between user requirements (security/privacy) and businesses (profit margins)
+* https://melmagazine.com/there-is-a-fake-idgod-and-he-lives-in-china-641bdfd9745a
 * http://www.extremetech.com/electronics/199499-samsungs-smart-tvs-dont-just-spy-they-transmit-your-speech-in-unencrypted-plaintext
 * http://pando.com/2015/02/15/meet-the-serial-failures-in-charge-of-protecting-americas-online-privacy/
 * http://www.philly.com/philly/business/20150122_Jeff_Gelles__Data-privacy_advocates_welcome_Obama_s_support__with_caveats.html
+* http://www.theverge.com/2017/4/5/15188636/microsoft-windows-10-data-collection-documents-privacy-concerns
 * http://arstechnica.com/security/2014/10/whisper-cto-says-tracking-anonymous-users-not-a-big-deal-really/
 * http://www.nytimes.com/2014/10/17/opinion/the-dark-market-for-personal-data.html
 * http://techcrunch.com/2014/12/28/mining-the-hive-mind/
@@ -246,7 +248,8 @@
 * http://www.independent.co.uk/life-style/gadgets-and-tech/news/investigatory-powers-act-bill-snoopers-charter-spying-law-powers-theresa-may-a7503616.html
 * https://arstechnica.com/tech-policy/2017/02/judge-no-feds-cant-nab-all-apple-devices-and-try-everyones-fingerprints/
 * https://motherboard.vice.com/en_us/article/i-tracked-myself-with-dollar170-smartphone-spyware-that-anyone-can-buy
-
+* https://arstechnica.com/tech-policy/2017/03/senate-votes-to-let-isps-sell-your-web-browsing-history-to-advertisers/
+* https://journal.standardnotes.org/vpns-are-absolutely-a-solution-to-a-policy-problem-3b88af699bcd
 
 
 

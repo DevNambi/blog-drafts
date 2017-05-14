@@ -70,6 +70,7 @@ I've found various links with resources about job searching and resumes.
 <li><a href="https://medium.com/@sitapati/the-impact-github-is-having-on-your-software-career-right-now-6ce536ec0b50">The Impact Github is Having on Your Software Career, Right Now…</a></li>
 </ul>
 
+* https://jacquesmattheij.com/just-say-no
 
 
 
@@ -87,6 +88,9 @@ I've found various links with resources about job searching and resumes.
 <li><a href="http://www.bloombergview.com/articles/2015-05-04/goldman-s-self-defeating-case-against-serge-aleynikov">Don't Work For Wall Street</a></li>
 <li><a href="http://ozar.me/2015/10/career-directions-self-assessment-quiz/">Career Directions Self-Assessment Quiz</a></li>
 </ul>
+
+* https://80000hours.org/career-guide/how-to-be-successful/
+
 
 
 
@@ -159,6 +163,11 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 <li><a href="https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work">If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work</a></li>
 </ul>
 
+* https://aphyr.com/posts/341-hexing-the-technical-interview
+* https://www.nytimes.com/2017/05/13/business/noncompete-clauses.html
+* https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/
+
+
 
 ### Company Culture
 
@@ -223,6 +232,7 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 </ul>
 
 * http://www.newyorker.com/culture/jia-tolentino/the-gig-economy-celebrates-working-yourself-to-death
+* https://qz.com/950973/remote-work-for-programmers-the-ultimate-office-perk-is-avoiding-the-office-entirely/
 
 
 
@@ -256,6 +266,7 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 </ul>
 
 * https://www.shrm.org/resourcesandtools/hr-topics/technology/pages/it-employers-would-pay-15-percent-more-for-top-talent.aspx
+* https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers
 
 
 
@@ -348,6 +359,8 @@ Ex-Disney IT workers sue after being asked to train their own H-1B replacements<
 <li><a href="http://www.fastcompany.com/3057502/the-future-of-work/why-tech-professionals-now-share-a-fate-with-the-working-class">Why Tech Professionals Now Share A Fate With The Working Class</a></li>
 </ul>
 
+* https://www.bloomberg.com/news/articles/2017-04-04/u-s-visa-revamp-poised-to-benefit-big-u-s-tech-punish-outsourcers
+
 
 **Silicon Valley**
 
@@ -371,3 +384,6 @@ Ex-Disney IT workers sue after being asked to train their own H-1B replacements<
 <li><a href="http://www.latimes.com/opinion/op-ed/la-oe-0107-strauss-employment-discrimination-online-20160107-story.html">Applying for a job? Better delete your social media accounts.</a></li>
 <li><a href="http://www.nytimes.com/2016/05/15/business/dealbook/start-ups-embrace-arbitration-to-settle-workplace-disputes.html">Start-Ups Embrace Arbitration to Settle Workplace Disputes</a></li>
 </ul>
+
+* https://www.nytimes.com/2017/04/14/technology/new-zealand-tech-industry.html
+* https://www.nytimes.com/2017/04/09/technology/canada-artificial-intelligence.html

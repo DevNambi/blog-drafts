@@ -5,6 +5,8 @@
 ### Food
 
 * http://www.nytimes.com/interactive/2015/05/19/dining/summer-dinner-ideas.html <- AMAZING
+* http://www.saveur.com/chinatown-produce-prices
+* https://www.nytimes.com/2017/04/30/well/family/lunch-shaming-children-parents-school-bills.html
 * http://www.nytimes.com/2016/09/13/well/eat/how-the-sugar-industry-shifted-blame-to-fat.html
 * http://arstechnica.com/science/2016/01/why-the-calorie-is-broken/
 * http://www.vox.com/2016/1/7/10726036/new-us-food-guidelines
@@ -317,6 +319,7 @@
 * http://www.extremetech.com/extreme/230215-hemophilia-cures-are-proving-gene-therapy-really-is-all-its-cracked-up-to-be
 * http://genomicsclass.github.io/book/
 * https://aws.amazon.com/blogs/big-data/interactive-analysis-of-genomic-datasets-using-amazon-athena/
+* http://cancer.nautil.us/article/167/how-big-data-can-help-fight-cancer
 
 
 #### Diabetes
@@ -434,6 +437,7 @@ pandemic-20150311-story.html
 * http://www.scientificamerican.com/article/common-parasite-could-manipulate-our-behavior/
 * http://www.bloomberg.com/features/2015-hospital-hack/
 * http://www.bbc.com/news/health-31713147
+* https://arstechnica.com/science/2017/04/drugs-already-in-medicine-cabinets-may-fight-dementia-early-data-suggests/
 * http://www.thedailybeast.com/articles/2015/02/26/why-you-trust-the-internet-more-than-your-doctor.html
 * http://www.bloomberg.com/news/features/2015-02-12/does-a-real-anti-aging-pill-already-exist-
 * https://gravityandlevity.wordpress.com/2009/07/08/your-body-wasnt-built-to-last-a-lesson-from-human-mortality-rates/
@@ -508,6 +512,7 @@ pandemic-20150311-story.html
 * http://www.laweekly.com/news/medical-marijuana-states-see-big-drop-in-drug-prescriptions-and-medicare-spending-7168951
 * http://arstechnica.com/science/2016/07/collective-diagnoses-are-better-only-if-doctors-are-similarly-skilled/
 * http://www.newyorker.com/magazine/2017/01/23/the-heroism-of-incremental-care/
+* https://arstechnica.com/science/2017/03/the-life-saving-treatment-thats-being-thrown-in-the-trash/
 
 
 
@@ -581,6 +586,7 @@ pandemic-20150311-story.html
 
 
 * http://www.nakedcapitalism.com/2014/10/will-ebola-vanquish-the-mbas-who-run-our-hospitals.html
+* http://www.nakedcapitalism.com/2017/04/health-care-corporate-ceos-fret-physician-burnout-hurts-profits.html
 * http://www.wvgazettemail.com/news-health/20160523/drug-firms-fueled-pill-mills-in-rural-wv
 * http://static.latimes.com/oxycontin-part1/ 
 * http://www.theguardian.com/society/2016/may/03/cause-of-death-united-states-medical-error
@@ -890,6 +896,9 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://arstechnica.com/science/2015/12/tv-binging-exercise-skipping-linked-to-poor-cognitive-function/
 * http://www.nytimes.com/2016/01/03/opinion/sunday/is-the-drive-for-success-making-our-children-sick.html
 * http://sciencebulletin.org/archives/1327.html
+* http://www.artofmanliness.com/2014/08/05/undo-the-damage-of-sitting/
+* https://qz.com/932813/employee-burnout-is-becoming-a-huge-problem-in-the-american-workforce/
+
 
 
 
@@ -996,6 +1005,7 @@ Then I asked to speak to a supervisor so they put me on hold for 15 minutes and 
 * http://seattletimes.com/html/nationworld/2025023705_apxhealthoverhaulcontraceptives.html
 * http://www.huffingtonpost.com/2014/12/22/erdogan-birth-control-treason_n_6366446.html
 * http://www.vox.com/2015/4/15/8420311/sex-ed-abstinence-only
+* https://arstechnica.com/science/2017/05/trump-admin-rolls-back-obama-era-nutrition-standards-for-school-lunches/
 
 
 

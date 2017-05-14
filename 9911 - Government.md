@@ -112,6 +112,10 @@
 <li><a href="http://www.nytimes.com/2013/01/05/world/americas/after-years-in-solitary-an-austere-life-as-uruguays-president.html?hp&_r=0" time_added="1357404415" tags="">After Years in Solitary, an Austere Life as Uruguay’s President - NYTimes.c</a></li>
 <li><a href="http://www.theatlantic.com/international/archive/2014/05/is-north-korea-right-about-us-human-rights-abuses/361589/" time_added="1399274309" tags="">Is North Korea Right About U.S. Human-Rights Abuses? - Matt Ford - The Atla</a></li>
 
+### Tech Policy
+
+* https://arstechnica.com/tech-policy/2017/05/gops-internet-freedom-act-permanently-guts-net-neutrality-authority/
+
 
 ### 18F, Efficient Government
 
@@ -137,7 +141,7 @@
 * https://www.bloomberg.com/news/features/2016-12-16/mapping-the-growth-of-disability-claims-in-america
 
 
-## Immigration
+## Immigration, ICE
 
 * http://www.rawstory.com/2015/10/the-us-government-is-deporting-central-american-migrants-to-their-deaths/
 * http://www.nytimes.com/2015/10/17/opinion/the-great-sanctuary-city-slander.html
@@ -145,6 +149,9 @@
 * https://www.washingtonpost.com/world/national-security/can-a-3-year-old-represent-herself-in-immigration-court-this-judge-thinks-so/2016/03/03/5be59a32-db25-11e5-925f-1d10062cc82d_story.html
 * http://www.nytimes.com/2016/12/20/opinion/australias-brave-whistleblower-nurse.html
 * http://www.nytimes.com/2016/12/28/us/homeland-security-border-bribes.html
+* http://www.thedailybeast.com/articles/2017/03/31/american-citizen-trapped-in-ice-jail.html
+* http://www.seattletimes.com/seattle-news/hunger-strike-at-tacoma-immigration-detention-center-growing-activist-says/
+* http://warisboring.com/the-21st-centurys-refugee-crisis-is-just-getting-started/
 
 
 
@@ -210,6 +217,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.nytimes.com/2015/05/26/us/politics/illinois-pension-crisis.html
 * http://www.seattletimes.com/opinion/editorials/early-inmate-releases-bureaucratic-officiousness-in-the-state-doc-ags-office/
 * http://winningdemocrats.com/kentucky-senate-passes-gop-bill-allowing-discrimination-against-interracial-couples/
+* http://crosscut.com/2017/04/foster-care-on-the-cheap-washingtons-recipe-for-failure/
 
 
 

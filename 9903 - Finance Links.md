@@ -82,6 +82,7 @@
 * http://www.nakedcapitalism.com/2014/10/revolt-starting-in-uk-over-private-equity-fee-secrecy.html
 * http://www.nakedcapitalism.com/2017/01/trading-off-soft-hard-brexit.html
 * http://www.bbc.com/news/uk-politics-38720320
+* https://www.nytimes.com/2017/03/28/world/europe/scotland-britain-brexit-european-union.html
 
 
 
@@ -179,6 +180,7 @@
 * http://www.nytimes.com/2016/01/10/business/ratings-agencies-still-coming-up-short-years-after-crisis.html
 * http://www.nakedcapitalism.com/2016/01/private-equity-firms-muscling-lenders-by-choosing-and-paying-for-their-lawyers.html
 * http://www.nakedcapitalism.com/2015/06/memo-to-readers-if-you-want-to-beat-big-finance-you-need-to-be-able-to-take-the-fight-to-their-terrain.html
+* http://www.bbc.com/news/business-39548313
 * https://foragerfunds.com/bristlemouth/dick-smith-is-the-greatest-private-equity-heist-of-all-time/ <- clear writeup
 * https://theintercept.com/2016/01/02/i-was-wrong-big-banks-actually-were-exactly-like-counterfeiters/
 * http://www.nakedcapitalism.com/2016/03/new-zealand-foreign-trusts-and-the-unaoil-scandal-more-chickens-coming-home-to-roost-and-theyre-big.html
@@ -321,6 +323,7 @@
 * http://mobile.nytimes.com/2016/06/26/business/dealbook/when-you-dial-911-and-wall-street-answers.html
 * https://www.theguardian.com/world/2011/apr/03/us-bank-mexico-drug-gangs
 * http://www.spiegel.de/international/business/the-story-of-the-self-destruction-of-deutsche-bank-a-1118157-2.html
+* https://www.nytimes.com/2017/03/28/business/dealbook/blackrock-actively-managed-funds-computer-models.html
 
 
 
@@ -361,6 +364,8 @@
 * http://archinect.com/news/article/149938728/inside-aravena-s-open-source-plans-for-low-cost-yet-upgradable-housing
 * http://www.salon.com/2016/05/22/how_one_woman_beat_the_big_banks_the_amazing_true_story_about_how_wall_streets_mortgage_fraud_unraveled/
 * http://www.nakedcapitalism.com/2016/06/mortgage-document-fabrication-is-alive-and-well.html
+* https://www.bloomberg.com/news/articles/2017-03-30/america-needs-small-apartment-buildings-nobody-builds-them
+* https://www.bloomberg.com/view/articles/2017-03-23/rents-in-megacities-can-t-go-up-forever
 
 
 
@@ -370,6 +375,7 @@
 * http://www.nakedcapitalism.com/2015/02/wolf-richter-subprime-pump-dump-frenzy-heats.html
 * http://www.seattletimes.com/nation-world/average-us-vehicle-age-hits-record-11-5-years/
 * http://wolfstreet.com/2016/11/22/strongest-pillar-of-the-shaky-us-economy-has-cracked/
+* https://www.nytimes.com/2017/04/20/automobiles/wheels/new-cars-technology.html
 
 
 
@@ -496,6 +502,8 @@
 * https://medium.com/@nntaleb/inequality-and-skin-in-the-game-d8f00bc0cb46
 * http://www.nytimes.com/2016/12/29/opinion/london-rolls-out-the-blood-red-carpet-for-kleptocrats.html
 * https://qz.com/837237/people-are-getting-sick-of-working-in-the-sharing-economy/
+* http://www.nakedcapitalism.com/2017/05/organizing-gig-economy-lessons-latin-america.html
+* http://www.economist.com/news/essays/21649050-badly-educated-men-rich-countries-have-not-adapted-well-trade-technology-or-feminism
 
 
 
@@ -581,7 +589,7 @@
 * http://www.nytimes.com/2016/02/21/business/yourtaxes/just-send-the-tax-bill-to-my-personal-irish-subsidiary.html
 * https://www.washingtonpost.com/news/wonk/wp/2015/09/28/this-sleazy-and-totally-illegal-savings-scheme-may-be-the-future-of-retirement/
 * https://github.com/zonination/investing/blob/master/README.md
-
+* https://www.bloomberg.com/news/articles/2017-04-09/lopsided-stocks-and-the-math-explaining-active-manager-futility
 
 
 
@@ -624,6 +632,7 @@
 * http://wolfstreet.com/2016/06/12/american-middle-market-companies-growth-in-tough-economy/
 * http://www.nakedcapitalism.com/2017/01/three-theories-behind-global-productivity-slowdown.html
 * http://www.nakedcapitalism.com/2017/03/here-come-the-robots-your-job-is-at-risk.html
+* https://www.bloomberg.com/news/articles/2017-03-30/u-s-college-grads-see-slim-to-nothing-wage-gains-since-recession
 
 
 
