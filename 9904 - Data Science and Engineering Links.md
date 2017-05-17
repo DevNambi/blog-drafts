@@ -434,7 +434,7 @@
 * https://www.quantamagazine.org/20151203-big-datas-mathematical-mysteries/
 * http://xyclade.github.io/MachineLearning/
 * http://www.infoq.com/presentations/machine-learning-general-programming <- brilliant
-* * http://www.machinedlearnings.com/2017/02/software-engineering-vs-machine.html <- a great primer for software engineers
+* http://www.machinedlearnings.com/2017/02/software-engineering-vs-machine.html <- a great primer for software engineers
 * http://www.dataschool.io/comparing-supervised-learning-algorithms/
 * http://blog.dato.com/how-to-evaluate-machine-learning-models-part-1-orientation
 * https://medium.com/@mikedewar/recommendation-engines-aren-t-for-maximising-metrics-they-are-for-designing-experiences-b2cb3395092c
@@ -505,7 +505,6 @@
 * http://bertolami.com/index.php?engine=blog&content=posts&detail=randomized-decision-forests
 * https://www.quora.com/When-would-one-use-Random-Forests-over-Gradient-Boosted-Machines-GBMs/answer/Xavier-Amatriain
 * http://www.randalolson.com/2015/11/15/introducing-tpot-the-data-science-assistant/
-* http://www.inference.vc/how-to-train-your-generative-models-why-generative-adversarial-networks-work-so-well-2/
 * http://educationoutrage.blogspot.com/2015/11/the-fraudulent-claims-made-by-ibm-about.html
 * http://willmcginnis.com/2015/11/29/beyond-one-hot-an-exploration-of-categorical-variables/
 * http://news.mit.edu/2015/automating-big-data-analysis-1016
@@ -558,13 +557,17 @@
 * http://www.wired.com/2015/07/trained-googles-chatbot-mein-kampf/
 * https://stratechery.com/2017/the-arrival-of-artificial-intelligence/
 
-#### Agent Systems, Networks, Adversarial ML
+#### Agent Systems, Networks, Adversarial ML, GANs
 
 * http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14604.html
 * https://github.com/projectmesa/mesa
 * http://www.wired.com/2015/08/new-laws-explain-fast-growing-networks-break/
 * http://agentmodels.org/
 * http://www.kdnuggets.com/2017/01/machine-learning-cyber-security.html
+* https://junyanz.github.io/CycleGAN/
+* https://amundtveit.com/2016/11/12/deep-learning-with-generative-and-generative-adverserial-networks-iclr-2017-discoveries/
+* http://www.inference.vc/how-to-train-your-generative-models-why-generative-adversarial-networks-work-so-well-2/
+
 
 #### R
 
@@ -733,7 +736,6 @@
 * https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
 * http://www.asimovinstitute.org/neural-network-zoo/
 * http://deeplearningskysthelimit.blogspot.com/2016/04/part-2-alphago-under-magnifying-glass.html
-* https://amundtveit.com/2016/11/12/deep-learning-with-generative-and-generative-adverserial-networks-iclr-2017-discoveries/
 * http://openreview.net/forum?id=r1Ue8Hcxg
 * https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02
 * https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/
