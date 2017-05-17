@@ -526,6 +526,7 @@
 * https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur <- also very useful
 * https://www.deeplearningtrack.com/single-post/2017/05/01/Value-derived-from-data-science-The-tussle-between-quality-quantity-of-models
 * http://distill.pub/2017/momentum/ <- PRICELESS
+* https://elitedatascience.com/machine-learning-algorithms <- a really good introduction
 
 
 

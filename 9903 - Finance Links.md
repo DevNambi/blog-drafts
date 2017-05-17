@@ -633,6 +633,7 @@
 * http://www.nakedcapitalism.com/2017/01/three-theories-behind-global-productivity-slowdown.html
 * http://www.nakedcapitalism.com/2017/03/here-come-the-robots-your-job-is-at-risk.html
 * https://www.bloomberg.com/news/articles/2017-03-30/u-s-college-grads-see-slim-to-nothing-wage-gains-since-recession
+* http://www.nakedcapitalism.com/2017/05/hayek-neoclassicals-meet-information-theory-fail.html
 
 
 
