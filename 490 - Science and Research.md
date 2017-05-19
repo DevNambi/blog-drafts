@@ -4,6 +4,7 @@
 Science seems to do 2 things. First, is create opportunities and tools (industry). The second, though, is to show the risk, limits and flaws in ourselves, society and the world around us. The former is great. The latter is hard for people to accept.
 
 * http://blogs.lse.ac.uk/impactofsocialsciences/2014/12/28/shorter-better-faster-free/
+* http://www.nature.com/news/biology-needs-more-staff-scientists-1.21991
 * https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes
 * https://www.sigarch.org/the-unreasonable-ineffectiveness-of-machine-learning-in-computer-systems-research/
 * http://www.statnews.com/2015/12/30/should-scientific-papers-be-anonymous/
