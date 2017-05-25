@@ -557,7 +557,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.theatlantic.com/education/archive/2016/03/the-commodification-of-higher-education/475947/
 * http://www.theatlantic.com/education/archive/2016/10/ballooning-bureaucracies-shrinking-checkbooks/503066/
 * https://svpow.com/2017/03/17/every-attempt-to-manage-academia-makes-it-worse/
-
+* https://mathbabe.org/2017/05/22/eugene-stern-how-value-added-models-are-like-turds/ <- critically important
 
 
 

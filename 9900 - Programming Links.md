@@ -581,6 +581,7 @@
 * http://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/
 * https://aws.amazon.com/blogs/aws/file-interface-to-aws-storage-gateway/
 * https://aws.amazon.com/blogs/aws/new-aws-codestar/
+* https://blog.keen.io/using-aws-lambda-for-custom-functions-on-keen-io-event-streams-82087274cac
 
 
 
