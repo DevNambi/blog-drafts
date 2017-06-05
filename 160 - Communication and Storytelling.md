@@ -40,6 +40,7 @@ Only use active verbs.
 
 
 * https://www.khanacademy.org/partner-content/pixar/storytelling
+* https://hynek.me/articles/speaking/
 
 * http://www.fastcodesign.com/3038950/evidence/the-science-of-politely-ending-a-conversation
 * http://www.theatlantic.com/education/archive/2014/12/how-scientists-are-learning-to-write/383685/?single_page=true

@@ -749,6 +749,7 @@
 * http://www.kdnuggets.com/2017/02/python-deep-learning-frameworks-overview.html
 * https://medium.com/slavv/picking-an-optimizer-for-style-transfer-86e7b8cba84b
 * http://www.fast.ai/2017/04/06/alternatives/
+* https://medium.com/@karpathy/alphago-in-context-c47718cb95a5
 
 
 

@@ -653,6 +653,7 @@
 * https://engineering.instagram.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172
 * http://cewing.github.io/training.codefellows/assignments/day01/sublime_as_ide.html
 * http://djangostars.com/blog/asynchronous-programming-in-python-asyncio/
+* https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
 
 
