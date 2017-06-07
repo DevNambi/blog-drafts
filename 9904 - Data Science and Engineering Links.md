@@ -567,6 +567,7 @@
 * https://junyanz.github.io/CycleGAN/
 * https://amundtveit.com/2016/11/12/deep-learning-with-generative-and-generative-adverserial-networks-iclr-2017-discoveries/
 * http://www.inference.vc/how-to-train-your-generative-models-why-generative-adversarial-networks-work-so-well-2/
+* https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners
 
 
 #### R
@@ -750,6 +751,7 @@
 * https://medium.com/slavv/picking-an-optimizer-for-style-transfer-86e7b8cba84b
 * http://www.fast.ai/2017/04/06/alternatives/
 * https://medium.com/@karpathy/alphago-in-context-c47718cb95a5
+* http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html
 
 
 
