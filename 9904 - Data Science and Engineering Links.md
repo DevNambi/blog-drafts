@@ -271,6 +271,7 @@
 * https://www.oreilly.com/ideas/5-secrets-for-writing-the-perfect-data-scientist-resume
 * https://news.ycombinator.com/item?id=13233352
 * https://shapescience.xyz/blog/interview-questions-for-data-scientists/
+* https://blog.statsbot.co/data-scientist-resume-projects-806a74388ae6
 
 
 @tdhopper - " Data scientists: "The hard part is data collection, cleaning, and problem formulation." D.S. giving an interview: "Tell me about math." "
