@@ -250,6 +250,7 @@
 
 <li><a href="http://www.forbes.com/sites/gilpress/2012/12/01/big-data-news-of-the-week-beautiful-300000-minds/" time_added="1355414578" tags="big data,data science,finance,hn,important">Big Data News of the Week: Beautiful $300,000 Minds - Forbes</a></li>
 <li><a href="http://www.hilarymason.com/blog/interview-questions-for-data-scientists/" time_added="1357239077" tags="data science">» Interview Questions for Data Scientists hilarymason.com</a></li>
+
 * http://www.brianckeegan.com/2014/10/on-starting-a-new-job/
 * https://gigaom.com/2014/12/04/want-to-make-data-scientist-money-learn-data-science-tools/
 * https://medium.com/@D33B/interview-questions-for-data-scientist-positions-5ad3c5d5b8bd
@@ -655,6 +656,7 @@
 
 <li><a href="http://t.co/i7v6M5eO" time_added="1356487869" tags="ml">hmason: An algorithmic exploration of finding interesting parts of an image</a></li>
 <li><a href="http://blog.yhathq.com/posts/image-processing-with-scikit-image.html" time_added="1391111958" tags="">Image Processing with scikit-image</a></li>
+
 * http://totems.co/blog/comparison-image-hashing-libraries/
 * http://cs.stanford.edu/people/karpathy/deepimagesent/
 * http://blog.yhathq.com/posts/image-processing-with-scikit-image.html
