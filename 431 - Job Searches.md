@@ -90,6 +90,7 @@ I've found various links with resources about job searching and resumes.
 </ul>
 
 * https://80000hours.org/career-guide/how-to-be-successful/
+* http://blog.brandonwang.ca/2017/06/how-to-get-70-job-interviews-in-17-days.html
 
 
 

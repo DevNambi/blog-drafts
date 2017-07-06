@@ -36,6 +36,7 @@ We believe we are working to make our society, our world, a better place. At the
 * https://medium.com/@sderymail/on-the-wrong-side-of-algorithms-part-1-f266a4c3342b
 * https://techcrunch.com/2016/10/26/the-darker-side-of-machine-learning/
 * https://bayesianbiologist.com/2016/09/11/weapons-of-math-destruction-a-data-scientists-guide-to-disarmament/
+* https://seaglass.cs.washington.edu/
 * http://www.governing.com/topics/health-human-services/gov-how-providence-used-proven-programs-to-help-youths.html
 * http://arstechnica.co.uk/security/2016/02/the-nsas-skynet-program-may-be-killing-thousands-of-innocent-people/ <- the literal opposite of this
 * http://onlinelibrary.wiley.com/doi/10.1111/sltb.12312/full

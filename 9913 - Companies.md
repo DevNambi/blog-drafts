@@ -420,6 +420,7 @@
 * http://www.nytimes.com/2016/07/01/business/honda-accura-takata-airbag-recall-transportation-department.html
 * http://rodneybrooks.com/unexpected-consequences-of-self-driving-cars/
 * https://www.nytimes.com/2017/04/24/nyregion/amtrak-infrastructure-crisis.html
+* http://www.autoblog.com/2017/06/01/most-46-million-recalled-takata-inflators-in-us-not-fixed/
 
 
 

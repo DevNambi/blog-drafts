@@ -85,6 +85,10 @@ Emphasize what we don't know
 
 
 * http://forecast.io/raw/
+* http://www.drawdown.org/solutions-summary-by-rank
+* https://phys.org/news/2017-07-ancient-concrete-romans.html
+* https://theconversation.com/urban-nature-what-kinds-of-plants-and-wildlife-flourish-in-cities-71680
+* https://www.popchartlab.com/products/birds-of-north-america
 * http://www.npr.org/sections/thetwo-way/2017/04/20/524896256/louisianas-governor-declares-state-of-emergency-over-disappearing-coastline
 * https://www.scientificamerican.com/article/high-ground-is-becoming-hot-property-as-sea-level-rises/
 * https://johncarlosbaez.wordpress.com/2015/06/19/on-care-for-our-common-home/

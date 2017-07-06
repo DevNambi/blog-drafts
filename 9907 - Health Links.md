@@ -5,6 +5,8 @@
 ### Food
 
 * http://www.nytimes.com/interactive/2015/05/19/dining/summer-dinner-ideas.html <- AMAZING
+* http://jamanetwork.com/journals/jama/fullarticle/2636710 <- "Can a Diet That Mimics Fasting Turn Back the Clock?"
+* http://www.npr.org/sections/thesalt/2015/04/11/398325030/eating-to-break-100-longevity-diet-tips-from-the-blue-zones
 * http://www.saveur.com/chinatown-produce-prices
 * https://www.nytimes.com/2017/04/30/well/family/lunch-shaming-children-parents-school-bills.html
 * http://www.nytimes.com/2016/09/13/well/eat/how-the-sugar-industry-shifted-blame-to-fat.html
@@ -389,6 +391,8 @@ pandemic-20150311-story.html
 * https://lukeoakdenrayner.wordpress.com/2016/11/27/do-computers-already-outperform-doctors/
 * http://incoherency.co.uk/blog/stories/medtronic-mycarelink.html
 * https://vizhub.healthdata.org/subnational/usa
+* https://arstechnica.com/security/2017/06/task-force-tells-congress-health-it-security-is-in-critical-condition/
+
 
 
 #### Too Much Medicine, Adverse Outcomes
@@ -398,6 +402,10 @@ pandemic-20150311-story.html
 * http://www.smh.com.au/nsw/confessions-of-a-sydney-surgeon-why-your-operation-may-not-work-20160302-gn95ya.html
 * https://arstechnica.com/science/2017/02/doctors-lower-back-pain-is-like-a-cold-minor-annoying-and-temporary/
 * https://www.theatlantic.com/health/archive/2017/02/when-evidence-says-no-but-doctors-say-yes/517368/
+* http://www.nakedcapitalism.com/2017/05/healthcare-inefficiency-low-quality-drugs-diffuse-quickly-us.html
+* http://www.seattletimes.com/nation-world/popular-stomach-acid-blockers-linked-to-higher-death-rates/
+
+
 
 
 #### Endocrine Disruptors, Pesticides
@@ -410,6 +418,7 @@ pandemic-20150311-story.html
 
 * http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/
 * http://www.fastcoexist.com/3052282/the-latest-medical-breakthrough-in-spinal-cord-injuries-was-made-by-a-computer-program
+* https://qz.com/1010259/the-100-billion-per-year-back-pain-industry-is-mostly-a-hoax/
 * http://mobile.nytimes.com/2015/11/23/health/states-lead-effort-to-let-pharmacists-prescribe-birth-control.html
 * http://www.nytimes.com/2016/12/28/nyregion/fentanyl-epidemic-long-island.html
 * http://hitconsultant.net/2015/10/13/10-ways-artificial-intelligence-could-make-me-a-better-doctor/

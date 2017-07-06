@@ -50,6 +50,7 @@ http://wolfstreet.com/2017/03/26/automakers-record-incentives-to-slow-decline-in
 * http://wolfstreet.com/2016/11/22/strongest-pillar-of-the-shaky-us-economy-has-cracked/
 * https://www.nytimes.com/2017/01/27/your-money/used-cars-takata-recalls.html
 * https://www.yourmechanic.com/article/the-most-and-least-expensive-cars-to-maintain-by-maddy-martin
+* https://www.nytimes.com/2017/04/20/automobiles/wheels/new-cars-technology.html <- FOR CAR BLOG POST
 
 * https://publish.manheim.com/en/services/consulting/used-vehicle-value-index.html <- also VERY useful for used cars
 

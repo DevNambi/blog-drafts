@@ -296,6 +296,7 @@
 * http://www.bostonglobe.com/business/2015/10/25/the-internet-ads-that-would-not-die/2IiIl1niWZZZymfCy23cuN/story.html
 * http://idlewords.com/2015/11/the_advertising_bubble.htm
 * http://adcontrarian.blogspot.ca/2016/07/tons-of-data-and-not-ounce-of-sense.html
+* https://arstechnica.com/gadgets/2017/05/how-to-build-your-own-vpn-if-youre-rightfully-wary-of-commercial-options/5/
 
 ### CISA 2015
 

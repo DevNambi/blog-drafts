@@ -326,6 +326,7 @@
 * https://www.wordfence.com/blog/2016/12/russia-malware-ip-hack/
 * https://vc.gg/blog/so-its-been-a-while.html
 * https://www.bloomberg.com/news/features/2017-01-18/the-post-snowden-cyber-arms-hustle
+* https://www.nytimes.com/2017/06/28/technology/ransomware-nsa-hacking-tools.html
 
 
 ### Finance Attacks, Payment Systems, Credit Cards

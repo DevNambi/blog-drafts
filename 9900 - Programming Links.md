@@ -39,6 +39,7 @@
 * http://highscalability.com/blog/2015/10/5/your-load-generator-is-probably-lying-to-you-take-the-red-pi.html
 * http://blog.fogus.me/2014/12/29/the-best-things-and-stuff-of-2014/
 * https://medium.com/@billjordan1/the-quiet-crisis-unfolding-in-software-development-cffbdafbf450
+* https://boingboing.net/2017/07/03/the-rules-of-brainstorming-ac.html
 * http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html
 * http://danluu.com/butler-lampson-1999/
 * http://mcfunley.com/choose-boring-technology
@@ -458,6 +459,7 @@
 * http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/deep-learning-ai-listens-to-machines-for-signs-of-trouble
 * http://tomtunguz.com/implications-of-monoclouds/
 * https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/
+* https://medium.com/ahrefs/skylake-bug-a-detective-story-ab1ad2beddcd
 
 
 
@@ -655,6 +657,7 @@
 * http://cewing.github.io/training.codefellows/assignments/day01/sublime_as_ide.html
 * http://djangostars.com/blog/asynchronous-programming-in-python-asyncio/
 * https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+* https://www.git-pull.com/code_explorer/django-vs-flask.html
 
 
 

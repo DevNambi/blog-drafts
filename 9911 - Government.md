@@ -135,6 +135,10 @@
 * https://news.ycombinator.com/item?id=12028606 and http://www.govtech.com/civic/IT-Showdown-Tech-Giants-Face-Off-Against-18F.html
 * https://backchannel.com/inside-the-obama-tech-surge-as-it-hacks-the-pentagon-and-va-8b439bc33ed1
 * http://datasmart.ash.harvard.edu/news/article/municipal-analytics-the-startup-way-873
+* https://medium.com/@noahkunin/why-im-leaving-18f-48970131d547
+
+
+
 
 ### Benefits, Entitlements
 
@@ -251,6 +255,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.latimes.com/projects/la-me-el-monte-pensions/
 * http://www.strongtowns.org/journal/2017/1/9/the-real-reason-your-city-has-no-money
 * http://www.thepublicdiscourse.com/2017/01/18093/
+* https://www.strongtowns.org/journal/2017/6/4/this-is-why-infrastructure-is-so-expensive
 
 
 

@@ -73,6 +73,8 @@
 * https://blog.nugget.one/upstart/building-a-one-man-saas-app-offers-a-profound-sense-of-personal-achievement/
 * https://medium.com/@joshearl/is-reverse-price-anchoring-crippling-your-income-9aa9712507de
 * https://ozar.me/2017/05/epic-life-quest-level-9-achieved-lets-talk-about-passive-income/
+* https://www.indiehackers.com/businesses/scotts-cheap-flights
+* https://developers.google.com/appmaker/
 
 
 **One-person SAAS:**

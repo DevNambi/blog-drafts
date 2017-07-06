@@ -10,6 +10,7 @@
 
 
 * http://www.baltimoresun.com/news/maryland/crime/bs-md-ci-baltimore-police-indicted-20170301-story.html
+* https://www.propublica.org/article/vivitrol-opiate-crisis-and-criminal-justice
 * https://www.theatlantic.com/politics/archive/2017/05/plea-bargaining-courts-prosecutors/524112/
 * https://www.washingtonpost.com/news/grade-point/wp/2016/10/05/ivy-league-professor-i-would-much-rather-my-own-children-interact-with-drugs-than-with-the-police/?tid=sm_tw
 * https://www.nytimes.com/2017/03/28/us/alabama-prison-violence.html

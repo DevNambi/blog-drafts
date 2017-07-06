@@ -51,6 +51,8 @@
 * http://engineering.pinterest.com/post/109318939139/demystifying-seo-with-experiments
 * http://googleresearch.blogspot.com/2015/03/large-scale-machine-learning-for-drug.html
 * https://blog.twitter.com/2016/implications-of-use-of-multiple-controls-in-an-ab-test
+* https://ironholds.org/blog/when-science-goes-bad-consent-data-and-doubling-down-on-the-internet/
+
 
 
 
@@ -345,6 +347,7 @@
 * https://honeycomb.io/blog/2017/01/instrumentation-the-first-four-things-you-measure/
 * https://scottlocklin.wordpress.com/2016/12/05/predicting-with-confidence-the-best-machine-learning-idea-you-never-heard-of/
 * https://www.neuraldesigner.com/blog/methods-binary-classification
+* https://elitedatascience.com/imbalanced-classes
 
 
 "Remember, nonlinear interactions, and non-Gaussian distributions are the default. "
@@ -386,7 +389,9 @@
 * http://twiecki.github.io/blog/2017/03/14/random-walk-deep-net/
 
 
+### Data Mining, Association Rules, Basket Analysis
 
+* http://pbpython.com/market-basket-analysis.html
 
 
 
@@ -465,6 +470,7 @@
 * http://research.microsoft.com/en-us/projects/r2/
 * http://probabilistic-programming.org/wiki/Home
 * http://new.livestream.com/accounts/7874891/events/3565981 <- ML conf videos
+* http://blog.echen.me/2017/05/30/exploring-lstms/
 * http://hunch.net/?p=224
 * http://blogs.technet.com/b/machinelearning/archive/2015/05/20/choosing-a-learning-algorithm-in-azure-ml.aspx
 * http://allenai.org/videos.html
@@ -528,6 +534,7 @@
 * https://www.deeplearningtrack.com/single-post/2017/05/01/Value-derived-from-data-science-The-tussle-between-quality-quantity-of-models
 * http://distill.pub/2017/momentum/ <- PRICELESS
 * https://elitedatascience.com/machine-learning-algorithms <- a really good introduction
+* https://www.displayr.com/gradient-boosting-the-coolest-kid-on-the-machine-learning-block/
 
 
 
@@ -570,6 +577,7 @@
 * https://amundtveit.com/2016/11/12/deep-learning-with-generative-and-generative-adverserial-networks-iclr-2017-discoveries/
 * http://www.inference.vc/how-to-train-your-generative-models-why-generative-adversarial-networks-work-so-well-2/
 * https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners
+* https://lareviewofbooks.org/article/a-brutal-intelligence-ai-chess-and-the-human-mind/
 
 
 #### R
@@ -650,6 +658,7 @@
 * http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994
 * http://stackoverflow.com/questions/27697766/understanding-min-df-and-max-df-in-scikit-countvectorizer/
 * http://engineering.flipboard.com/2017/02/storyclustering 
+* http://nbviewer.jupyter.org/github/JasonKessler/Scattertext-PyData/tree/master/
 
 
 #### Image Processing
@@ -755,6 +764,8 @@
 * http://www.fast.ai/2017/04/06/alternatives/
 * https://medium.com/@karpathy/alphago-in-context-c47718cb95a5
 * http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html
+* https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
+
 
 
 
@@ -844,6 +855,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README.md
 * http://blog.paralleldots.com/data-scientist/list-must-read-books-data-science/
 * https://blog.insightdatascience.com/insight-data-science-fellows-program-expands-to-seattle-9f9e19ebe8e
+* https://www.linkedin.com/pulse/8-habits-effective-data-scientists-vin-vashishta
 
 
 
@@ -856,6 +868,8 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * Storytelling w/ data - Precision bullsh*tting
 * http://www.kdnuggets.com/2015/08/gartner-2015-hype-cycle-big-data-is-out-machine-learning-is-in.html
 * http://timoelliott.com/blog/analytics-cartoons
+* https://dev.to/rly
+
 
 
 
@@ -899,7 +913,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 
 
 
-## Data Stacks, Engineering
+## Data Stacks, Data Engineering
 
 ### Do a blog post on the data flow paper
 
@@ -977,6 +991,8 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://tech.marksblogg.com/billion-nyc-taxi-rides-spark-2-1-0-emr.html
 * https://analytics.googleblog.com/2017/03/data-studio-now-globally-available.html
 * https://medium.com/@uwdata/regression-by-eye-b7587f4ca1f5
+* https://blog.insightdatascience.com/the-data-engineering-ecosystem-in-2017-2c2a3429350e
+
 
 
 

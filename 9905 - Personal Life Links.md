@@ -292,6 +292,9 @@
 * https://blog.photofeeler.com/okcupid-is-wrong-about-smiling-eye-contact-mens-dating-profile-photos/
 * http://thoughtcatalog.com/melissa-moeller/2016/04/why-modern-dating-makes-me-want-to-punch-myself-in-the-throat/
 * http://maketimeforthetalk.com/ <- PRICELESS
+* https://theblog.okcupid.com/undressed-whats-the-deal-with-the-age-gap-in-relationships-3143a2ca5178
+* https://www.psychalive.org/understanding-ambivalent-anxious-attachment/
+
 
 
 
