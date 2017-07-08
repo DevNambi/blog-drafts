@@ -75,6 +75,7 @@
 * https://ozar.me/2017/05/epic-life-quest-level-9-achieved-lets-talk-about-passive-income/
 * https://www.indiehackers.com/businesses/scotts-cheap-flights
 * https://developers.google.com/appmaker/
+* https://www.reddit.com/r/Entrepreneur/comments/6lmotf/i_make_10000_per_month_with_the_amazon_affiliate/
 
 
 **One-person SAAS:**
