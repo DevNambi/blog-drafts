@@ -815,6 +815,7 @@ Microsoft and other third-party developers have a huge problem: they don't liste
 * https://chatwithengineers.com/2016/08/29/a-survey-of-query-execution-engines-from-volcano-to-vectorized-processing/
 * http://blog.sqlizer.io/posts/sql-43/
 * https://aws.amazon.com/blogs/ai/tuning-your-dbms-automatically-with-machine-learning/ <- the future
+* https://syslog.ravelin.com/you-probably-shouldnt-use-dynamodb-89143c1287ca
 
 
 
