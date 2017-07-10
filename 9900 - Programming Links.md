@@ -233,6 +233,7 @@
 * https://github.com/kamranahmedse/developer-roadmap
 * http://sijinjoseph.com/programmer-competency-matrix/
 * https://qz.com/999495/the-tech-world-is-rallying-around-a-young-developer-who-made-a-huge-embarrassing-mistake/
+* http://calnewport.com/blog/2011/12/23/flow-is-the-opiate-of-the-medicore-advice-on-getting-better-from-an-accomplished-piano-player/
 
 
 

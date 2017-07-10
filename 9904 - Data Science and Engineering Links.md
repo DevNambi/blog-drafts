@@ -856,6 +856,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://blog.paralleldots.com/data-scientist/list-must-read-books-data-science/
 * https://blog.insightdatascience.com/insight-data-science-fellows-program-expands-to-seattle-9f9e19ebe8e
 * https://www.linkedin.com/pulse/8-habits-effective-data-scientists-vin-vashishta
+* http://calnewport.com/blog/2011/12/23/flow-is-the-opiate-of-the-medicore-advice-on-getting-better-from-an-accomplished-piano-player/
 
 
 

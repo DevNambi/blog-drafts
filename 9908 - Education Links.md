@@ -56,6 +56,7 @@
 
 
 * http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html
+* http://calnewport.com/blog/2011/12/23/flow-is-the-opiate-of-the-medicore-advice-on-getting-better-from-an-accomplished-piano-player/
 * http://boingboing.net/2016/01/15/12-year-old-girl-suspended-bec.html
 * http://www.npr.org/sections/ed/2015/06/04/412093161/the-truth-behind-your-states-high-school-grad-rate
 * http://www.wired.com/2016/02/schools-kicked-boy-based-dna/
