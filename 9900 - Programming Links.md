@@ -943,6 +943,7 @@ things they believe in will keep </a></li>
 * https://www.perforce.com/blog/110928/short-history-btree
 * https://xlinux.nist.gov/dads/
 * https://cses.fi/book.html <- The Competitive Programmer's Handbook
+* http://concatenative.org/wiki/view/Exotic%20Data%20Structures
 
 
 
