@@ -695,6 +695,7 @@
 * https://chronicle.com/article/article-content/190147/
 * http://blog.wtf.sg/
 * http://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/
+* http://karpathy.github.io/neuralnets/ 
 * https://timdettmers.wordpress.com/2015/03/09/deep-learning-hardware-guide/
 * http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
 * http://sebastianraschka.com/Articles/2015_singlelayer_neurons.html
@@ -765,6 +766,7 @@
 * https://medium.com/@karpathy/alphago-in-context-c47718cb95a5
 * http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html
 * https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
+* https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba <- a great walkthrough
 
 
 
