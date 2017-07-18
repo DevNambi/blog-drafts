@@ -182,6 +182,7 @@
 * http://anna.vc/post/112863438962/how-to-think-using-visual-analogies
 * https://github.com/wbkd/awesome-interactive-journalism
 * https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/
+* https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.html
 
 
 #### D3 and related

@@ -296,6 +296,7 @@
 * https://www.theguardian.com/technology/2017/apr/06/uber-contract-gibberish-says-mp-investigating-gig-economy
 * https://techcrunch.com/2017/04/05/uber-finds-one-allegedly-stolen-waymo-file-on-an-employees-personal-device/
 * http://www.bostonherald.com/news/local_coverage/2017/04/more_than_8000_ride_share_drivers_flunked_mass_background_checks
+* https://www.buzzfeed.com/carolineodonovan/how-ubers-hard-charging-corporate-culture-left-employees
 
 
 

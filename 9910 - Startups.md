@@ -187,6 +187,7 @@
 * http://qz.com/586941/whats-eating-silicon-valley/
 * http://fortune.com/disrupted-excerpt-hubspot-startup-dan-lyons/
 * https://byrslf.co/how-leaving-a-corporate-job-to-join-a-startup-f-ked-me-up-and-sorted-my-life-out-97f68ea14c28
+* https://www.buzzfeed.com/carolineodonovan/how-ubers-hard-charging-corporate-culture-left-employees
 
 
 > "It's a big company, but our team is more like a startup."
