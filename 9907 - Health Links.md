@@ -408,6 +408,10 @@ pandemic-20150311-story.html
 
 
 
+#### Opioids, Addiction
+
+* https://www.theguardian.com/society/2017/jul/19/opioid-addiction-reddit-fentanyl-appalachia
+
 
 #### Endocrine Disruptors, Pesticides
 
