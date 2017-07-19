@@ -768,6 +768,8 @@
 * http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html
 * https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
 * https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba <- a great walkthrough
+* https://medium.com/intuitionmachine/the-strange-loop-in-deep-learning-38aa7caf6d7d
+
 
 
 
