@@ -461,6 +461,7 @@
 * http://tomtunguz.com/implications-of-monoclouds/
 * https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/
 * https://medium.com/ahrefs/skylake-bug-a-detective-story-ab1ad2beddcd
+* https://stackoverflow.blog/2017/07/21/trends-cloud-computing-uses-aws-uses-azure/
 
 
 

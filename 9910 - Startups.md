@@ -106,6 +106,7 @@
 * http://www.buzzfeed.com/jsvine/things-we-learned-from-airbnb-nyc-data
 * https://docs.google.com/spreadsheets/d/1dKUD7EhhfNDlstuRiwLLVPlzdI1fJrZZ_-o458bjHbM/edit
 * http://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum
+* https://priceonomics.com/how-much-are-people-making-from-the-sharing/
 
 
 
