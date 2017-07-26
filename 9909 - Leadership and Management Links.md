@@ -16,6 +16,7 @@
 * https://pando.com/2015/07/03/holacracy-dunces/e5d42015bc13e7597bcb8936efb287511aab5cfd/
 * http://zachholman.com/posts/0x-engineers/
 * http://blog.karma.wiki/post/116870055382/the-curious-case-of-artem-andreenko
+* https://www.inc.com/michael-schneider/google-thought-they-knew-how-to-create-the-perfect.html
 * http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/
 * https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
 * http://blog.codinghorror.com/the-bad-apple-group-poison/ and http://blog.codinghorror.com/dealing-with-bad-apples/

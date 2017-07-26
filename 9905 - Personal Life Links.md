@@ -45,6 +45,8 @@
 * http://www.nytimes.com/2016/07/10/magazine/marie-kondo-and-the-ruthless-war-on-stuff.html
 * http://www.newyorker.com/science/maria-konnikova/the-secret-formula-for-resilience
 * https://mobile.nytimes.com/2016/01/02/your-money/think-seriously-about-spending-for-play.html
+* https://www.washingtonpost.com/news/speaking-of-science/wp/2017/07/24/one-surprising-way-money-can-buy-happiness-according-to-scientists/
+* http://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/
 
 
 
