@@ -579,6 +579,7 @@
 * http://www.inference.vc/how-to-train-your-generative-models-why-generative-adversarial-networks-work-so-well-2/
 * https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners
 * https://lareviewofbooks.org/article/a-brutal-intelligence-ai-chess-and-the-human-mind/
+* https://deepmind.com/blog/agents-imagine-and-plan/
 
 
 #### R
