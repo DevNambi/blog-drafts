@@ -535,6 +535,7 @@
 * http://distill.pub/2017/momentum/ <- PRICELESS
 * https://elitedatascience.com/machine-learning-algorithms <- a really good introduction
 * https://www.displayr.com/gradient-boosting-the-coolest-kid-on-the-machine-learning-block/
+* https://arxiv.org/abs/1609.04747 <- "An overview of gradient descent optimization algorithms"
 
 
 
@@ -765,6 +766,7 @@
 * https://medium.com/@karpathy/alphago-in-context-c47718cb95a5
 * http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html
 * https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
+* http://minimaxir.com/2017/07/cpu-or-gpu/
 
 
 
