@@ -4,6 +4,7 @@
 # Unsorted
 
 
+* https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/ 
 * http://www.slate.com/articles/life/crime/features/2013/the_lock_pickers/locksport_the_strange_things_that_happen_at_a_lock_picking_convention.html
 * https://privacylog.blogspot.com/2017/04/what-happens-when-you-send-zero-day-to.html
 * https://gist.github.com/epixoip/a83d38f412b4737e99bbef804a270c40

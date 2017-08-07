@@ -233,6 +233,8 @@
 * https://github.com/kamranahmedse/developer-roadmap
 * http://sijinjoseph.com/programmer-competency-matrix/
 * https://qz.com/999495/the-tech-world-is-rallying-around-a-young-developer-who-made-a-huge-embarrassing-mistake/
+* http://calnewport.com/blog/2011/12/23/flow-is-the-opiate-of-the-medicore-advice-on-getting-better-from-an-accomplished-piano-player/
+* http://hackeducation.com/2017/07/22/bootcamp-bust 
 
 
 
@@ -460,6 +462,7 @@
 * http://tomtunguz.com/implications-of-monoclouds/
 * https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/
 * https://medium.com/ahrefs/skylake-bug-a-detective-story-ab1ad2beddcd
+* https://stackoverflow.blog/2017/07/21/trends-cloud-computing-uses-aws-uses-azure/
 
 
 
@@ -485,6 +488,7 @@
 * http://www.hokstad.com/docker/patterns
 * http://danielmartins.ninja/posts/five-months-of-kubernetes.html
 * http://techblog.netflix.com/2017/04/the-evolution-of-container-usage-at.html
+* https://jeremyeder.com/2017/07/25/docker-operations-slowing-down-on-aws-this-time-its-not-dns/
 
 
 
@@ -613,6 +617,7 @@
 * https://medium.com/@jamesperry/writing-high-performance-servers-in-modern-c-7cd00926828
 * https://redmonk.com/sogrady/2017/03/17/language-rankings-1-17/
 * https://github.com/gurugio/lowlevelprogramming-university/blob/master/README.md
+* http://spectrum.ieee.org/computing/software/the-2017-top-programming-languages
 
 
 
@@ -942,6 +947,7 @@ things they believe in will keep </a></li>
 * https://www.perforce.com/blog/110928/short-history-btree
 * https://xlinux.nist.gov/dads/
 * https://cses.fi/book.html <- The Competitive Programmer's Handbook
+* http://concatenative.org/wiki/view/Exotic%20Data%20Structures
 
 
 

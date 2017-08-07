@@ -56,6 +56,7 @@
 
 
 * http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html
+* http://calnewport.com/blog/2011/12/23/flow-is-the-opiate-of-the-medicore-advice-on-getting-better-from-an-accomplished-piano-player/
 * http://boingboing.net/2016/01/15/12-year-old-girl-suspended-bec.html
 * http://www.npr.org/sections/ed/2015/06/04/412093161/the-truth-behind-your-states-high-school-grad-rate
 * http://www.wired.com/2016/02/schools-kicked-boy-based-dna/
@@ -115,6 +116,7 @@
 * http://www.iflscience.com/technology/why-has-technology-not-revolutionized-education
 * http://flowingdata.com/2014/11/18/planets-as-fruit-to-show-scale/
 * http://www.washingtonpost.com/local/education/majority-of-us-public-school-students-are-in-poverty/2015/01/15/df7171d0-9ce9-11e4-a7ee-526210d665b4_story.html
+* https://qz.com/1019928/i-went-from-sedentary-academic-to-100-mile-marathon-runner-thanks-to-the-science-of-self-control/
 * http://www.salon.com/2014/07/06/comedy_vs_anti_science_10_amazing_videos_that_show_how_humor_can_make_a_difference/
 * http://www.salon.com/2014/10/02/the_great_charter_school_rip_off_finally_the_truth_catches_up_to_education_reform_phonies/
 * http://jd-mathbio.blogspot.com/2015/02/finding-cheaters-using-multiple-choice.html

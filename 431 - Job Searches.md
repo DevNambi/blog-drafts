@@ -167,6 +167,7 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 * https://aphyr.com/posts/341-hexing-the-technical-interview
 * https://www.nytimes.com/2017/05/13/business/noncompete-clauses.html
 * https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/
+* https://aeon.co/essays/how-work-changed-to-make-us-all-passionate-quitters 
 
 
 
@@ -193,6 +194,9 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 </ul>
 
 @hintikka: KP (Kleiner Perkins) trial also confirms: if you have options and you clash w/ the structure of your workplace, leave. Structure will not change.
+
+* https://m.signalvnoise.com/the-company-isnt-a-family-d24f26c3f3fe
+
 
 
 

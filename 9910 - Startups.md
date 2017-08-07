@@ -106,6 +106,7 @@
 * http://www.buzzfeed.com/jsvine/things-we-learned-from-airbnb-nyc-data
 * https://docs.google.com/spreadsheets/d/1dKUD7EhhfNDlstuRiwLLVPlzdI1fJrZZ_-o458bjHbM/edit
 * http://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum
+* https://priceonomics.com/how-much-are-people-making-from-the-sharing/
 
 
 
@@ -187,6 +188,7 @@
 * http://qz.com/586941/whats-eating-silicon-valley/
 * http://fortune.com/disrupted-excerpt-hubspot-startup-dan-lyons/
 * https://byrslf.co/how-leaving-a-corporate-job-to-join-a-startup-f-ked-me-up-and-sorted-my-life-out-97f68ea14c28
+* https://www.buzzfeed.com/carolineodonovan/how-ubers-hard-charging-corporate-culture-left-employees
 
 
 > "It's a big company, but our team is more like a startup."

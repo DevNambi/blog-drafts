@@ -108,7 +108,7 @@
 * https://developers.google.com/knowledge-graph/
 * http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/
 * https://blog.scrapinghub.com/2016/03/30/web-scraping-to-create-open-data/
-
+* https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/ 
 
 
 
@@ -182,6 +182,7 @@
 * http://anna.vc/post/112863438962/how-to-think-using-visual-analogies
 * https://github.com/wbkd/awesome-interactive-journalism
 * https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/
+* https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.html
 
 
 #### D3 and related
@@ -579,6 +580,7 @@
 * http://www.inference.vc/how-to-train-your-generative-models-why-generative-adversarial-networks-work-so-well-2/
 * https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners
 * https://lareviewofbooks.org/article/a-brutal-intelligence-ai-chess-and-the-human-mind/
+* https://deepmind.com/blog/agents-imagine-and-plan/
 
 
 #### R
@@ -696,6 +698,7 @@
 * https://chronicle.com/article/article-content/190147/
 * http://blog.wtf.sg/
 * http://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton/
+* http://karpathy.github.io/neuralnets/ 
 * https://timdettmers.wordpress.com/2015/03/09/deep-learning-hardware-guide/
 * http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
 * http://sebastianraschka.com/Articles/2015_singlelayer_neurons.html
@@ -766,8 +769,9 @@
 * https://medium.com/@karpathy/alphago-in-context-c47718cb95a5
 * http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html
 * https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
+* https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba <- a great walkthrough
+* https://medium.com/intuitionmachine/the-strange-loop-in-deep-learning-38aa7caf6d7d
 * http://minimaxir.com/2017/07/cpu-or-gpu/
-
 
 
 
@@ -858,6 +862,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://blog.paralleldots.com/data-scientist/list-must-read-books-data-science/
 * https://blog.insightdatascience.com/insight-data-science-fellows-program-expands-to-seattle-9f9e19ebe8e
 * https://www.linkedin.com/pulse/8-habits-effective-data-scientists-vin-vashishta
+* http://calnewport.com/blog/2011/12/23/flow-is-the-opiate-of-the-medicore-advice-on-getting-better-from-an-accomplished-piano-player/
 
 
 

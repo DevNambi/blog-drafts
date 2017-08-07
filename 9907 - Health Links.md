@@ -221,7 +221,11 @@
 * http://well.blogs.nytimes.com/2015/01/26/sweaty-answer-to-chronic-illness/
 * http://well.blogs.nytimes.com/2016/04/27/1-minute-of-all-out-exercise-may-equal-45-minutes-of-moderate-exertion/
 * http://nymag.com/scienceofus/2016/04/how-neuroscientists-explain-the-mind-clearing-magic-of-running.html
+<<<<<<< HEAD
 * http://time.com/4824531/strength-training-women-exercise/
+=======
+* https://qz.com/1019928/i-went-from-sedentary-academic-to-100-mile-marathon-runner-thanks-to-the-science-of-self-control/
+>>>>>>> origin/master
 
 
 <li><a href="http://www.nytimes.com/2013/11/03/sunday-review/womens-flexibility-is-a-liability-in-yoga.html?hp" time_added="1383445933" tags="domestic,health">http://www.nytimes.com/2013/11/03/sunday-review/womens-flexibility-is-a-lia</a></li>
@@ -408,6 +412,10 @@ pandemic-20150311-story.html
 * http://www.seattletimes.com/nation-world/popular-stomach-acid-blockers-linked-to-higher-death-rates/
 
 
+
+#### Opioids, Addiction
+
+* https://www.theguardian.com/society/2017/jul/19/opioid-addiction-reddit-fentanyl-appalachia
 
 
 #### Endocrine Disruptors, Pesticides
@@ -794,6 +802,7 @@ pandemic-20150311-story.html
 * https://www.nytimes.com/2017/01/22/us/politics/donald-trump-health-plan-medicaid.html
 * https://www.nytimes.com/2017/01/22/business/president-donald-trump-health-insurance-high-risk-pool.html
 * https://arstechnica.com/science/2017/02/marathon-gets-the-shkreli-treatment-from-industry-after-89k-drug-dust-up/
+* https://www.propublica.org/article/the-myth-of-drug-expiration-dates
 
 
 
