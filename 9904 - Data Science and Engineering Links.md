@@ -537,7 +537,7 @@
 * https://elitedatascience.com/machine-learning-algorithms <- a really good introduction
 * https://www.displayr.com/gradient-boosting-the-coolest-kid-on-the-machine-learning-block/
 * https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007 <- PRICELESS
-
+* https://arxiv.org/abs/1609.04747 <- "An overview of gradient descent optimization algorithms"
 
 
 "ML tip: train a model to distinguish between your training set & unlabeled data. If it works, your training data may be incomplete!" - Jake Vanderplas
@@ -771,8 +771,7 @@
 * https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
 * https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba <- a great walkthrough
 * https://medium.com/intuitionmachine/the-strange-loop-in-deep-learning-38aa7caf6d7d
-
-
+* http://minimaxir.com/2017/07/cpu-or-gpu/
 
 
 

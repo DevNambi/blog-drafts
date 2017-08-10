@@ -422,6 +422,8 @@
 * http://rodneybrooks.com/unexpected-consequences-of-self-driving-cars/
 * https://www.nytimes.com/2017/04/24/nyregion/amtrak-infrastructure-crisis.html
 * http://www.autoblog.com/2017/06/01/most-46-million-recalled-takata-inflators-in-us-not-fixed/
+* https://arstechnica.com/cars/2017/07/audi-manager-charged-in-diesel-scandal-vw-execs-may-have-hid-cheating-risk/
+* https://arstechnica.com/cars/2017/05/volkswagen-bosch-fiat-diesel-emissions-cheats-cracked-open-in-new-research/
 
 
 

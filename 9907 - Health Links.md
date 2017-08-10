@@ -215,13 +215,14 @@
 * http://mobile.nytimes.com/blogs/well/2015/04/15/the-right-dose-of-exercise-for-a-longer-life/
 * http://www.nytimes.com/2014/10/22/opinion/only-two-rules-for-a-good-diet.html
 * http://www.nytimes.com/2014/10/26/opinion/sunday/the-problem-with-positive-thinking.html
-* http://well.blogs.nytimes.com/2014/12/17/how-exercise-changes-our-dna/?_r=0
+* http://well.blogs.nytimes.com/2014/12/17/how-exercise-changes-our-dna/
 * http://alwaysascending.weebly.com/light---on-trending-to-your-right-weight.html
 * http://well.blogs.nytimes.com/2015/01/23/ask-well-the-best-time-of-day-to-exercise/
 * http://well.blogs.nytimes.com/2015/01/26/sweaty-answer-to-chronic-illness/
 * http://well.blogs.nytimes.com/2016/04/27/1-minute-of-all-out-exercise-may-equal-45-minutes-of-moderate-exertion/
 * http://nymag.com/scienceofus/2016/04/how-neuroscientists-explain-the-mind-clearing-magic-of-running.html
 * https://qz.com/1019928/i-went-from-sedentary-academic-to-100-mile-marathon-runner-thanks-to-the-science-of-self-control/
+* http://time.com/4824531/strength-training-women-exercise/
 
 
 <li><a href="http://www.nytimes.com/2013/11/03/sunday-review/womens-flexibility-is-a-liability-in-yoga.html?hp" time_added="1383445933" tags="domestic,health">http://www.nytimes.com/2013/11/03/sunday-review/womens-flexibility-is-a-lia</a></li>
@@ -365,6 +366,7 @@ pandemic-20150311-story.html
 * http://www.theatlantic.com/science/archive/2016/06/mushrooms-vs-superbugs/485513/
 * http://www.latimes.com/science/sciencenow/la-sci-antibiotic-resistance-20160711-snap-story.html
 * https://www.statnews.com/2017/01/12/nevada-woman-superbug-resistant/
+* https://arstechnica.com/science/2017/07/incurable-gonorrhea-is-lurking-and-we-may-not-see-it-coming-who-warns/
 
 <li><a href="http://www.nature.com/news/antibiotic-resistance-the-last-resort-1.13426" time_added="1374949873" tags="domestic,health,important">Antibiotic resistance: The last resort : Nature News & Comment</a></li>
 

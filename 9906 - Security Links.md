@@ -145,6 +145,7 @@
 * http://arstechnica.com/security/2015/02/more-than-1-million-wordpress-websites-imperiled-by-critical-plugin-bug/
 * http://www.wired.com/2015/01/security-predictions-2015/
 * https://googleonlinesecurity.blogspot.com/2015/10/sustaining-digital-certificate-security.html
+* https://motherboard.vice.com/en_us/article/gybppx/iphone-bugs-are-too-valuable-to-report-to-apple
 
 
 <li><a href="http://lifehacker.com/5932501/strong-passwords-arent-enough-how-to-to-ensure-the-apple-and-amazon-exploit-never-happens-to-you" time_added="1348860569" tags="personal tech">Strong Passwords Aren't Enough: How to to Ensure the Apple and Amazon Explo</a></li>
