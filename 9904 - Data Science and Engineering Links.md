@@ -536,6 +536,7 @@
 * http://distill.pub/2017/momentum/ <- PRICELESS
 * https://elitedatascience.com/machine-learning-algorithms <- a really good introduction
 * https://www.displayr.com/gradient-boosting-the-coolest-kid-on-the-machine-learning-block/
+* https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007 <- PRICELESS
 
 
 
