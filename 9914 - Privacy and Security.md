@@ -251,6 +251,7 @@
 * https://arstechnica.com/tech-policy/2017/03/senate-votes-to-let-isps-sell-your-web-browsing-history-to-advertisers/
 * https://journal.standardnotes.org/vpns-are-absolutely-a-solution-to-a-policy-problem-3b88af699bcd
 * https://techcrunch.com/2017/04/09/how-i-made-my-own-vpn-server-in-15-minutes/
+* https://vpnreport.org/
 
 
 

@@ -153,6 +153,7 @@
 * http://qz.com/727855/silicon-valley-tech-workers-see-startups-and-silicon-valley-losing-their-luster/
 * https://www.theguardian.com/society/2016/dec/28/silicon-valley-homeless-east-palo-alto-california-schools
 * https://www.nytimes.com/2017/01/21/us/san-francisco-children.html
+* http://www.hiringlab.org/2017/07/25/next-silicon-valley/
 
 
 

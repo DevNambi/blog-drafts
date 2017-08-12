@@ -5,6 +5,7 @@
 ### Food
 
 * http://www.nytimes.com/interactive/2015/05/19/dining/summer-dinner-ideas.html <- AMAZING
+* https://www.reddit.com/r/cookbooks/top/?sort=top&t=year
 * http://jamanetwork.com/journals/jama/fullarticle/2636710 <- "Can a Diet That Mimics Fasting Turn Back the Clock?"
 * http://www.npr.org/sections/thesalt/2015/04/11/398325030/eating-to-break-100-longevity-diet-tips-from-the-blue-zones
 * http://www.saveur.com/chinatown-produce-prices
@@ -395,6 +396,8 @@ pandemic-20150311-story.html
 * http://incoherency.co.uk/blog/stories/medtronic-mycarelink.html
 * https://vizhub.healthdata.org/subnational/usa
 * https://arstechnica.com/security/2017/06/task-force-tells-congress-health-it-security-is-in-critical-condition/
+* https://www.kaggle.com/cdc/500-cities
+
 
 
 
@@ -413,6 +416,8 @@ pandemic-20150311-story.html
 #### Opioids, Addiction
 
 * https://www.theguardian.com/society/2017/jul/19/opioid-addiction-reddit-fentanyl-appalachia
+* http://jamanetwork.com/journals/jamapsychiatry/fullarticle/2647079 - "Prevalence of 12-Month Alcohol Use, High-Risk Drinking, and DSM-IV Alcohol Use Disorder in the United States, 2001-2002 to 2012-2013"
+* https://mic.com/articles/120403/14-years-after-decriminalizing-drugs-one-chart-shows-why-portugal-s-experiment-has-worked
 
 
 #### Endocrine Disruptors, Pesticides

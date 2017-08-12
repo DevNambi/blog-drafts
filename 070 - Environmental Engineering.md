@@ -105,7 +105,8 @@ Emphasize what we don't know
 * http://electrek.co/2016/05/02/price-solar-power-fell-50-16-months-dubai-0299kwh/
 * http://nautil.us/issue/25/water/the-real-landscapes-of-the-great-flood-myths
 * http://www.vox.com/2015/7/13/8949701/carbon-removal
-* http://www.nytimes.com/2015/05/31/opinion/sunday/holding-your-breath-in-india.html?_r=0
+* http://www.nytimes.com/2015/05/31/opinion/sunday/holding-your-breath-in-india.html
+* https://longreads.com/2017/07/13/the-louisiana-environmental-apocalypse-road-trip/
 * http://arstechnica.com/science/2015/12/why-recycle-plastics-when-you-can-get-them-to-biodegrade-easily/
 * http://www.nytimes.com/2015/07/06/us/california-drought-sends-us-water-agency-back-to-drawing-board.html
 * http://arstechnica.com/science/2016/11/fukushima-cost-estimates-nearly-double-approaching-200-billion/

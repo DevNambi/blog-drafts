@@ -61,6 +61,7 @@
 * https://sites.google.com/site/thefaceofamazon/home
 * http://shivankaul.com/blog/2016/12/07/clean-your-desk-yet-another-amazon-interview-experience.html
 * https://www.cbinsights.com/blog/amazon-strategy-teardown/
+* http://wolfstreet.com/2017/08/10/amazon-online-grocery-boom-not-so-fast/
 
 
 
@@ -248,6 +249,12 @@
 * http://www.bloomberg.com/news/articles/2016-07-21/google-sprints-ahead-in-ai-building-blocks-leaving-rivals-wAry
 * https://techcrunch.com/2016/12/12/google-has-reportedly-stopped-developing-its-own-self-driving-car/
 * http://www.cbsnews.com/news/google-alphabet-moonshot-projects-are-crashing-to-earth/
+* https://arstechnica.com/tech-policy/2017/08/google-cancels-all-hands-diversity-meeting-over-safety-concerns/
+* https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788
+* https://www.blog.google/topics/diversity/note-employees-ceo-sundar-pichai/
+
+
+
 
 
 ## Uber
@@ -449,6 +456,12 @@
 * http://www.nytimes.com/2016/01/10/magazine/the-lawyer-who-became-duponts-worst-nightmare.html
 
 
+## AirBnB
+
+* http://www.dw.com/en/airbnb-dominated-by-professional-landlords/a-39972379
+
+
+
 ## Misc
 
 * http://www.reuters.com/article/2014/11/16/us-usa-chemicals-death-idUSKCN0J001B20141116
@@ -481,6 +494,7 @@
 * https://medium.com/@taliajane/an-open-letter-to-my-ceo-fb73df021e7a
 * https://medium.com/choking-on-a-macaron/what-you-don-t-know-about-tripadvisor-15d31d745bdc
 * https://www.nytimes.com/2017/01/22/business/bangladesh-protest-apparel-clothing.html
+* https://www.baumhedlundlaw.com/toxic-tort-law/monsanto-roundup-lawsuit/monsanto-secret-documents/
 
 
 

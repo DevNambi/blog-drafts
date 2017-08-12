@@ -29,6 +29,7 @@
 * http://www.inc.com/magazine/20090401/how-hard-could-it-be-employees-negotiate-pay-raises.html
 * http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/
 * http://onlinelibrary.wiley.com/doi/10.1111/joms.12177/full <- "Why the Assholes are Winning: Money Trumps All"
+* https://insimpleterms.blog/2017/08/07/the-tech-leads-new-project-checklist/
 * https://medium.com/runkeeper-everyone-every-run/why-we-hire-great-developers-not-great-mobile-developers-98acf14112d5
 * http://www.npr.org/sections/alltechconsidered/2015/07/08/416515537/amid-new-overtime-rules-more-employers-might-set-email-curfew
 * http://www.dailykos.com/story/2014/07/08/1312523/-These-Two-Studies-Turn-Wall-Street-s-Economic-Argument-On-Its-Head

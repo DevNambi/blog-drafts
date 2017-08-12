@@ -84,6 +84,7 @@
 * http://nautil.us/blog/politicians-need-to-understand-this-computer-science-concept-better
 * http://www.nytimes.com/2016/08/08/technology/how-to-give-rural-america-broadband-look-to-the-early-1900s.html
 * http://madelineashby.com/?p=2058
+* https://www.buzzfeed.com/peteraldhous/hidden-spy-planes
 
 
 
@@ -111,6 +112,7 @@
 <li><a href="http://www.slate.com/blogs/future_tense/2014/07/15/documents_show_gchq_manipulating_online_information_like_web_polls_and_traffic.html" time_added="1405689549" tags="">Documents show GCHQ manipulating online information like Web polls and traf</a></li>
 <li><a href="http://www.nytimes.com/2013/01/05/world/americas/after-years-in-solitary-an-austere-life-as-uruguays-president.html?hp&_r=0" time_added="1357404415" tags="">After Years in Solitary, an Austere Life as Uruguay’s President - NYTimes.c</a></li>
 <li><a href="http://www.theatlantic.com/international/archive/2014/05/is-north-korea-right-about-us-human-rights-abuses/361589/" time_added="1399274309" tags="">Is North Korea Right About U.S. Human-Rights Abuses? - Matt Ford - The Atla</a></li>
+
 
 ### Tech Policy
 
@@ -222,6 +224,7 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 * http://www.seattletimes.com/opinion/editorials/early-inmate-releases-bureaucratic-officiousness-in-the-state-doc-ags-office/
 * http://winningdemocrats.com/kentucky-senate-passes-gop-bill-allowing-discrimination-against-interracial-couples/
 * http://crosscut.com/2017/04/foster-care-on-the-cheap-washingtons-recipe-for-failure/
+* http://www.thedrive.com/the-war-zone/13154/this-mysterious-military-spy-plane-has-been-flying-circles-over-seattle-for-days
 
 
 
@@ -342,3 +345,35 @@ http://www.theguardian.com/world/2015/jun/10/how-isis-crippled-al-qaida
 
 
 If the United States is an aristocracy/oligarchy, then its citizens do not owe their country any loyalty. A government that does not represent its citizens (not a democracy) cannot expect the loyalty of its citizens. 
+
+
+## Trump Administration
+
+* https://medium.com/@Amy_Siskind/week-38-experts-in-authoritarianism-advise-to-keep-a-list-of-things-subtly-changing-around-you-so-4730486b719a
+* https://warisboring.com/the-post-cold-war-consensus-collapses/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

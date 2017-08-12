@@ -52,6 +52,7 @@
 * http://googleresearch.blogspot.com/2015/03/large-scale-machine-learning-for-drug.html
 * https://blog.twitter.com/2016/implications-of-use-of-multiple-controls-in-an-ab-test
 * https://ironholds.org/blog/when-science-goes-bad-consent-data-and-doubling-down-on-the-internet/
+* http://blog.fastforwardlabs.com/2017/08/02/business-interpretability.html
 
 
 
@@ -75,6 +76,8 @@
 * http://blog.districtdatalabs.stfi.re/a-practical-guide-to-anonymizing-datasets-with-python-faker
 * https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2
 * http://langlotzlab.stanford.edu/imaging-datasets/
+* https://www.kaggle.com/cdc/500-cities
+
 
 
 
@@ -452,7 +455,6 @@
 * https://medium.com/@james_aka_yale/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa
 * http://alex.smola.org/talks/NIPS15.pdf
 * https://www.kaggle.com/users/195999/henning-sperr/otto-group-product-classification-challenge/finding-ensamble-weights
-* http://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/
 * https://kartikkukreja.wordpress.com/2015/07/04/adversarial-search/
 * http://mlwave.com/kaggle-ensembling-guide/
 * http://blog.dato.com/choosing-a-recommender-model
@@ -497,7 +499,6 @@
 * http://www.john-foreman.com/blog/the-perilous-world-of-machine-learning-for-fun-and-profit-pipeline-jungles-and-hidden-feedback-loops
 * http://setosa.io/ev/eigenvectors-and-eigenvalues/
 * http://techeffigytutorials.blogspot.com/2015/02/the-genetic-algorithm-explained.html
-* http://www.machinedlearnings.com/2015/02/adversarial-scenarios-and-economies-of.html
 * http://radar.oreilly.com/2015/05/the-tensor-renaissance-in-data-science.html
 * http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html <- beautifully illustrated
 * http://www.mbmlbook.com/toc.html
@@ -509,7 +510,6 @@
 * http://techcrunch.com/2015/08/02/machine-learning-and-human-bias-an-uneasy-pair/
 * https://lab.getbase.com/is-regression-trustworthy-or-how-to-use-metrics-to-trust-the-prediction-of-regression/
 * http://fastml.com/evaluating-recommender-systems/
-* http://arxiv.org/abs/1509.01240 <- stochastic gradient descent is pretty great
 * http://nerds.airbnb.com/confidence-splitting-criterions/
 * http://bertolami.com/index.php?engine=blog&content=posts&detail=randomized-decision-forests
 * https://www.quora.com/When-would-one-use-Random-Forests-over-Gradient-Boosted-Machines-GBMs/answer/Xavier-Amatriain
@@ -535,12 +535,27 @@
 * https://www.deeplearningtrack.com/single-post/2017/05/01/Value-derived-from-data-science-The-tussle-between-quality-quantity-of-models
 * http://distill.pub/2017/momentum/ <- PRICELESS
 * https://elitedatascience.com/machine-learning-algorithms <- a really good introduction
-* https://www.displayr.com/gradient-boosting-the-coolest-kid-on-the-machine-learning-block/
 * https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007 <- PRICELESS
-* https://arxiv.org/abs/1609.04747 <- "An overview of gradient descent optimization algorithms"
+* https://medium.com/towards-data-science/wheres-my-depth-first-search-machine-learning-6dd83436adab
+
 
 
 "ML tip: train a model to distinguish between your training set & unlabeled data. If it works, your training data may be incomplete!" - Jake Vanderplas
+
+
+
+
+#### Gradient Descent
+
+* https://arxiv.org/abs/1609.04747 <- "An overview of gradient descent optimization algorithms"
+* https://www.displayr.com/gradient-boosting-the-coolest-kid-on-the-machine-learning-block/
+* http://arxiv.org/abs/1509.01240 <- stochastic gradient descent is pretty great
+* http://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/
+
+
+#### Dimensionality Reduction
+
+* https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe
 
 
 
@@ -581,6 +596,7 @@
 * https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners
 * https://lareviewofbooks.org/article/a-brutal-intelligence-ai-chess-and-the-human-mind/
 * https://deepmind.com/blog/agents-imagine-and-plan/
+* http://www.machinedlearnings.com/2015/02/adversarial-scenarios-and-economies-of.html
 
 
 #### R
@@ -772,6 +788,9 @@
 * https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba <- a great walkthrough
 * https://medium.com/intuitionmachine/the-strange-loop-in-deep-learning-38aa7caf6d7d
 * http://minimaxir.com/2017/07/cpu-or-gpu/
+* http://course.fast.ai/start.html <- use this to learn deep learning
+* https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4
+
 
 
 
@@ -863,6 +882,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * https://blog.insightdatascience.com/insight-data-science-fellows-program-expands-to-seattle-9f9e19ebe8e
 * https://www.linkedin.com/pulse/8-habits-effective-data-scientists-vin-vashishta
 * http://calnewport.com/blog/2011/12/23/flow-is-the-opiate-of-the-medicore-advice-on-getting-better-from-an-accomplished-piano-player/
+* http://blog.ycombinator.com/jeff-deans-lecture-for-yc-ai/
 
 
 
@@ -876,6 +896,8 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://www.kdnuggets.com/2015/08/gartner-2015-hype-cycle-big-data-is-out-machine-learning-is-in.html
 * http://timoelliott.com/blog/analytics-cartoons
 * https://dev.to/rly
+* https://bigdatapix.tumblr.com/
+* http://livefreeordichotomize.com/2016/12/15/hill-for-the-data-scientist-an-xkcd-story/
 
 
 
@@ -915,6 +937,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://medium.com/@dbreunig/the-business-implications-of-machine-learning-11480b99184d
 * https://blog.dominodatalab.com/joel-test-data-science/
 * http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html
+* http://blog.richardweiss.org/2017/07/25/data-science-in-organizations.html
 
 
 
@@ -999,6 +1022,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://analytics.googleblog.com/2017/03/data-studio-now-globally-available.html
 * https://medium.com/@uwdata/regression-by-eye-b7587f4ca1f5
 * https://blog.insightdatascience.com/the-data-engineering-ecosystem-in-2017-2c2a3429350e
+* http://muratbuffalo.blogspot.com/2017/07/a-comparison-of-distributed-machine.html
 
 
 
@@ -1093,6 +1117,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://www.oreilly.com/learning/hello-tensorflow
 * https://medium.com/@Zelros/4-steps-to-learn-tensorflow-when-you-already-know-scikit-learn-3cd0340456b5
 * http://planspace.org/20170404-how_not_to_program_the_tensorflow_graph/
+* https://sourcedexter.com/amazing-tensorflow-github-projects/
 
 
 

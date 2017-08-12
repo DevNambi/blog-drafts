@@ -71,6 +71,7 @@ I've found various links with resources about job searching and resumes.
 </ul>
 
 * https://jacquesmattheij.com/just-say-no
+* https://80000hours.org/articles/skills-most-employable/
 
 
 
@@ -295,6 +296,9 @@ Remote Team (& How We Do It)</a></li>
 <li><a href="https://zapier.com/learn/the-ultimate-guide-to-remote-working/how-manage-remote-team/">How to Run a Remote Team</a></li>
 <li><a href="https://thenextweb.com/contributors/work-home-get-stuff-done/">How to Work From Home and Get Stuff Done — An In-Depth Guide</a></li>
 </ul>
+
+* https://zapier.com/engineering/remote-dev-tools/
+
 
 
 

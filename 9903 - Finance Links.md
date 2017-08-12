@@ -73,6 +73,7 @@
 * http://www.nakedcapitalism.com/2016/06/87726.html
 * http://www.zerohedge.com/news/2016-07-05/look-inside-europes-next-crisis-why-everyone-finally-panicking-about-italian-banks
 * http://www.economist.com/news/leaders/21701756-italys-teetering-banks-will-be-europes-next-crisis-italian-job
+* https://qz.com/262595/why-germans-pay-cash-for-almost-everything/
 
 
 #### UK, Britain, Brexit
@@ -324,6 +325,7 @@
 * https://www.theguardian.com/world/2011/apr/03/us-bank-mexico-drug-gangs
 * http://www.spiegel.de/international/business/the-story-of-the-self-destruction-of-deutsche-bank-a-1118157-2.html
 * https://www.nytimes.com/2017/03/28/business/dealbook/blackrock-actively-managed-funds-computer-models.html
+* http://www.rollingstone.com/politics/news/taibbi-is-libor-crucial-financial-benchmark-a-lie-w497305
 
 
 
@@ -366,6 +368,7 @@
 * http://www.nakedcapitalism.com/2016/06/mortgage-document-fabrication-is-alive-and-well.html
 * https://www.bloomberg.com/news/articles/2017-03-30/america-needs-small-apartment-buildings-nobody-builds-them
 * https://www.bloomberg.com/view/articles/2017-03-23/rents-in-megacities-can-t-go-up-forever
+* https://www.bloomberg.com/news/articles/2017-08-08/baby-boomers-who-won-t-sell-are-dominating-the-housing-market
 
 
 
@@ -504,6 +507,7 @@
 * https://qz.com/837237/people-are-getting-sick-of-working-in-the-sharing-economy/
 * http://www.nakedcapitalism.com/2017/05/organizing-gig-economy-lessons-latin-america.html
 * http://www.economist.com/news/essays/21649050-badly-educated-men-rich-countries-have-not-adapted-well-trade-technology-or-feminism
+* http://theweek.com/articles/717294/wealth-inequality-even-worse-than-income-inequality
 
 
 
@@ -655,6 +659,7 @@
 * http://mldb.ai/blog/posts/2016/01/ml-meets-economics/
 * http://nautil.us/issue/44/luck/investing-is-more-luck-than-talent
 * https://www.farnamstreetblog.com/2017/02/charlie-munger-wisdom/
+* http://zacharydavid.com/2017/08/fitting-to-noise-or-nothing-at-all-machine-learning-in-markets/
 
 
 <li><a href="http://www.ecommercebytes.com/cab/abu/y201/m09/abu0047/s03" time_added="1354918107" tags="domestic,finance">Sniping Tools - Making Sure You Win the Auction</a></li>

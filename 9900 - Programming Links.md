@@ -475,6 +475,7 @@
 * http://www.extremetech.com/computing/205382-ssds-can-lose-data-in-as-little-as-7-days-without-power
 * http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/
 * https://www.backblaze.com/blog/cloud-storage-hardware/
+* https://medium.com/thought-frameworks/ram-is-the-new-disk-b94df9bbd7b
 
 
 
@@ -521,6 +522,7 @@
 * http://www.nytimes.com/2016/07/25/technology/google-races-to-catch-up-in-cloud-computing.html
 * https://plus.google.com/+RipRowan/posts/eVeouesvaVX
 * https://www.coursera.org/googlecloud
+* https://serverless.com/framework/docs/providers/google/
 
 
 
@@ -546,12 +548,9 @@
 
 * https://aws.amazon.com/blogs/aws/ec2-run-command-update-now-available-for-linux-instances/
 * https://github.com/awslabs/aws-shell
-* https://aws.amazon.com/blogs/aws/aws-lambda-update-python-vpc-increased-function-duration-scheduling-and-more/
-* http://joelgrus.com/2015/12/29/polyglot-twitter-bot-part-2-nodejs-aws-lambda/
 * http://www.businessinsider.com/netflix-intuit-juniper-go-all-in-on-amazon-cloud-2016-1
 * https://cloudonaut.io/5-aws-mistakes-you-should-avoid/
 * http://www.cringely.com/2015/04/27/aws-shows-cloud-is-not-a-high-margin-business/
-* http://techcrunch.com/2015/11/24/aws-lamda-makes-serverless-applications-a-reality/
 * https://aws.amazon.com/blogs/aws/focusing-on-spot-instances-lets-talk-about-best-practices/
 * http://swrveengineering.wordpress.com/2014/10/14/how-we-increased-our-ec2-event-throughput-by-50-for-free/
 * https://gigaom.com/2014/11/12/amazon-details-how-it-does-networking-in-its-data-centers/
@@ -573,26 +572,31 @@
 * http://blog.scalyr.com/2015/09/irreversible-failures-lessons-from-the-dynamodb-outage/
 * http://techblog.netflix.com/2015/09/chaos-engineering-upgraded.html
 * http://www.devfactor.net/2014/12/30/2375-amazon-mistake/
-* https://aws.amazon.com/blogs/aws/new-slack-integration-blueprints-for-aws-lambda/
 * https://medium.com/@tjholowaychuk/introducing-apex-800824ffaa70
 * http://blog.waleson.com/2016/01/parsing-10tb-of-metadata-26m-domains.html
 * http://www.nextplatform.com/2016/02/01/how-long-can-aws-keep-climbing-its-steep-growth-curve/
 * https://www.reddit.com/r/aws/comments/46iat0/what_third_party_tools_do_you_use_with_aws_that/
-* https://serverlesscode.com/post/deploy-scikitlearn-on-lamba/
 * https://sysdig.com/blog/amazon-elb-bug/
 * https://aws.amazon.com/blogs/aws/new-worldwide-delivery-of-amazon-sns-messages-via-sms/
 * https://github.com/open-guides/og-aws <- very, very useful
-* https://blog.lodr.io/going-serverless-5x-faster-100x-cheaper-2b7db8c37405
 * https://www.scotte.org/2016/12/ZFS-root-filesystem-on-AWS
-* https://cloudncode.blog/2017/03/02/best-practices-aws-lambda-function/
 * http://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/
 * https://aws.amazon.com/blogs/aws/file-interface-to-aws-storage-gateway/
 * https://aws.amazon.com/blogs/aws/new-aws-codestar/
+* https://github.com/DenizParlak/Zeus
+
+
+#### AWS Lambda
+
 * https://blog.keen.io/using-aws-lambda-for-custom-functions-on-keen-io-event-streams-82087274cac
-
-
-
-
+* https://cloudncode.blog/2017/03/02/best-practices-aws-lambda-function/
+* https://serverlesscode.com/post/deploy-scikitlearn-on-lamba/
+* http://techcrunch.com/2015/11/24/aws-lamda-makes-serverless-applications-a-reality/
+* https://blog.lodr.io/going-serverless-5x-faster-100x-cheaper-2b7db8c37405
+* https://aws.amazon.com/blogs/aws/aws-lambda-update-python-vpc-increased-function-duration-scheduling-and-more/
+* http://joelgrus.com/2015/12/29/polyglot-twitter-bot-part-2-nodejs-aws-lambda/
+* https://aws.amazon.com/blogs/aws/new-slack-integration-blueprints-for-aws-lambda/
+* https://martinfowler.com/articles/serverless.html
 
 
 
@@ -978,6 +982,7 @@ things they believe in will keep </a></li>
 * http://www.itworld.com/article/2995053/careers/banks-severance-deal-requires-it-workers-to-be-on-call-for-two-years.html <- good luck getting any good support out of this. 
 * http://vimeo.com/146524997 <- another James Mickens classic
 * https://github.com/Droogans/unmaintainable-code <- pure evil
+* https://www.robscanlon.com/encom-boardroom/
 
 
 
