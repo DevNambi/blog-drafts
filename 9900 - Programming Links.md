@@ -116,6 +116,7 @@
 * http://multithreaded.stitchfix.com/
 * https://githubengineering.com/
 * https://www.quora.com/What-happens-over-time-if-each-year-I-fire-all-my-below-average-programmers-and-get-better-ones/answer/Ethar-Alali
+* https://github.com/mr-mig/every-programmer-should-know/blob/master/README.md
 
 
 

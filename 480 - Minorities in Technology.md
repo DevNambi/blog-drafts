@@ -13,6 +13,7 @@ http://www.npr.org/blogs/alltechconsidered/2014/08/12/339638726/many-women-leave
 * http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/#the-list
 * https://medium.com/tech-diversity-files/the-real-reason-women-quit-tech-and-how-to-address-it-6dfb606929fd
 * https://www.polygon.com/features/2017/6/27/15880582/anita-sarkeesian-garbage-human-vidcon-interview
+* https://medium.com/academica-feminista/the-google-memo-on-the-loserdom-of-mras-and-the-alt-right-taking-bigotry-seriously-6d26f6857fa3
 * https://backchannel.com/one-womans-brilliant-fuck-you-to-wikipedia-trolls-aab4107d374b
 * https://storify.com/rodneysampson/adayinthelife
 * https://medium.com/absurdist/the-stories-of-women-in-tech-that-we-may-never-hear-7379f502fb52
