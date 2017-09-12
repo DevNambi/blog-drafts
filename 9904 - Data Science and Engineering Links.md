@@ -790,6 +790,7 @@
 * http://minimaxir.com/2017/07/cpu-or-gpu/
 * http://course.fast.ai/start.html <- use this to learn deep learning
 * https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4
+* https://rstudio.github.io/keras/
 
 
 
