@@ -18,6 +18,7 @@
 * http://the-toast.net/2016/01/05/what-goes-through-your-mind-casual-racism/
 * http://www.outsideonline.com/1930461/improve-your-life-microadventures
 * http://www.businessinsider.com/harvard-dan-gilbert-money-happiness-principles-2014-10
+* http://www.harpersbazaar.com/culture/politics/a12438210/women-arent-obligated-to-date-men/
 * http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/
 * http://www.bbc.com/future/story/20150707-is-faceism-spoiling-your-life
 * http://stilldrinking.org/35-things-that-surprised-me-before-35
@@ -106,6 +107,7 @@
 * http://www.newyorker.com/science/maria-konnikova/the-secret-formula-for-resilience
 * http://www.ozy.com/acumen/why-do-so-many-germans-regret-having-kids/74415
 * https://arstechnica.com/science/2017/02/kangaroo-care-why-keeping-baby-close-is-better-for-everyone/
+* https://www.theatlantic.com/magazine/archive/2013/07/how-long-can-you-wait-to-have-a-baby/309374/ <- PRICELESS
 
 
 <li><a href="http://www.economist.com/news/united-states/21608779-there-large-class-divide-how-americans-raise-their-children-rich-parents-can" time_added="1406589833" tags="">Parenting in America: Choose your parents wisely | The Economist</a><li>

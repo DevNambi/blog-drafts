@@ -122,6 +122,7 @@ We believe we are working to make our society, our world, a better place. At the
 * https://techcrunch.com/2016/12/13/ieee-puts-out-a-first-draft-guide-for-how-tech-can-achieve-ethical-ai-design/
 * http://www.slate.com/articles/technology/future_tense/2016/12/software_problems_are_leading_to_wrongful_arrests.html
 * http://neveragain.tech/
+* https://medium.com/data-from-the-trenches/predicting-crime-in-portland-oregon-184453cccd5b
 
 
 

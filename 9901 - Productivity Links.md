@@ -7,6 +7,7 @@
 * http://www.newyorker.com/tech/elements/walking-helps-us-think
 * http://www.acuriousmix.com/2014/09/03/designing-a-personal-knowledgebase/
 * http://danluu.com/dunning-kruger/
+* https://qotoqot.com/blog/improving-focus/ <- pretty great
 * http://blog.donnywals.com/consistency-and-discipline-over-motivation/
 * http://www.theatlantic.com/business/archive/2015/06/the-office-sounds-that-make-us-more-productive/394541/
 * http://sivers.org/no2
