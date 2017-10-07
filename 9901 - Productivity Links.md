@@ -94,6 +94,11 @@
 * https://www.washingtonpost.com/news/wonk/wp/2016/07/25/why-happiness-might-be-getting-in-the-way-of-your-artistic-brilliance/
 
 
+**Smartphones**
+
+* https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia
+* https://flipboard.com/@flipboard/-how-smartphones-hijack-our-minds/f-c425e8bd01%2Fwsj.com
+
 
 
 

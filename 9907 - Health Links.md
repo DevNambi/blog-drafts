@@ -290,6 +290,7 @@
 * http://www.extremetech.com/extreme/233746-ai-beats-doctors-at-visual-diagnosis-observes-many-times-more-lung-cancer-signals
 * http://www.sciencealert.com/a-new-compound-could-help-treat-up-a-quarter-of-all-cancers
 * http://www.nytimes.com/2016/12/23/health/cancer-trials-immunotherapy.html
+* https://www.theguardian.com/business/2017/oct/05/over-half-of-new-cancer-drugs-show-no-benefits-for-survival-or-wellbeing
 
 
 <li><a href="http://www.moneytrendsresearch.com/scientists-cure-cancer-but-no-one-takes-notice/" time_added="1348860235" tags="health">Scientists Cure Cancer, But No One Takes Notice | MTR</a></li>
