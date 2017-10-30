@@ -710,6 +710,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.npr.org/sections/money/2015/07/15/422590257/medicine-law-business-which-grad-students-borrow-the-most
 * http://blogs.lse.ac.uk/impactofsocialsciences/2013/12/11/how-academia-resembles-a-drug-gang/
 * http://crosscut.com/2015/11/uw-union-push-pits-empowerment-vs-excellence/
+* https://www.theguardian.com/us-news/2017/sep/28/adjunct-professors-homeless-sex-work-academia-poverty
 
 
 ### Administration

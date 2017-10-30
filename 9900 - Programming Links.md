@@ -465,6 +465,7 @@
 * https://medium.com/ahrefs/skylake-bug-a-detective-story-ab1ad2beddcd
 * https://stackoverflow.blog/2017/07/21/trends-cloud-computing-uses-aws-uses-azure/
 * https://www.cockroachlabs.com/blog/gs-response/
+* https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/
 
 
 
@@ -586,6 +587,11 @@
 * https://aws.amazon.com/blogs/aws/file-interface-to-aws-storage-gateway/
 * https://aws.amazon.com/blogs/aws/new-aws-codestar/
 * https://github.com/DenizParlak/Zeus
+* https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/
+* https://engineering.coinbase.com/you-need-more-than-one-aws-account-aws-bastions-and-assume-role-23946c6dfde3
+* https://peteris.rocks/blog/persisting-state-between-aws-ec2-spot-instances/ 
+* https://coursetro.com/posts/other/95/MailChimp-vs.-Amazon-SES---How-I-Reduced-My-Monthly-Bill-by-92%
+
 
 
 #### AWS Lambda
@@ -599,7 +605,8 @@
 * http://joelgrus.com/2015/12/29/polyglot-twitter-bot-part-2-nodejs-aws-lambda/
 * https://aws.amazon.com/blogs/aws/new-slack-integration-blueprints-for-aws-lambda/
 * https://martinfowler.com/articles/serverless.html
-
+* https://skillsmatter.com/skillscasts/10813-faas-and-furious-0-to-serverless-in-60-seconds-anywhere
+* http://docs.aws.amazon.com/lambda/latest/dg/best-practices.html
 
 
 
@@ -669,6 +676,8 @@
 * http://djangostars.com/blog/asynchronous-programming-in-python-asyncio/
 * https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 * https://www.git-pull.com/code_explorer/django-vs-flask.html
+* https://data36.com/python-2-vs-python-3/
+* https://colab.research.google.com/
 
 
 
@@ -827,6 +836,7 @@ Microsoft and other third-party developers have a huge problem: they don't liste
 * http://blog.sqlizer.io/posts/sql-43/
 * https://aws.amazon.com/blogs/ai/tuning-your-dbms-automatically-with-machine-learning/ <- the future
 * https://syslog.ravelin.com/you-probably-shouldnt-use-dynamodb-89143c1287ca
+* https://madusudanan.com/blog/understanding-postgres-caching-in-depth/
 
 
 

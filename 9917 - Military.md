@@ -166,6 +166,7 @@
 * http://www.newyorker.com/magazine/2017/02/06/the-desperate-battle-to-destroy-isis
 * https://warisboring.com/combat-veterans-turned-journalists-lead-the-charge-to-expose-military-sexual-harassment-b78511caf727
 * https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/
+* http://www.theamericanconservative.com/articles/nearly-half-the-pentagon-budget-goes-to-contractors
 
 
 

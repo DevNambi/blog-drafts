@@ -112,6 +112,8 @@
 * http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/
 * https://blog.scrapinghub.com/2016/03/30/web-scraping-to-create-open-data/
 * https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/ 
+* https://medium.com/@GalarnykMichael/using-scrapy-to-build-your-own-dataset-64ea2d7d4673 
+* https://arstechnica.com/tech-policy/2017/08/court-rejects-linkedin-claim-that-unauthorized-scraping-is-hacking/
 
 
 
@@ -125,6 +127,7 @@
 * https://civisanalytics.com/blog/data-science/2015/12/23/workflows-in-python-curating-features-and-thinking-scientifically-about-algorithms/
 * https://www.import.io/post/how-to-win-a-kaggle-competition/
 * http://odo.readthedocs.io/en/latest/
+* http://www.redbook.io/ <- READ THE DATA INTEGRATION PAPER
 
 
 
@@ -186,6 +189,7 @@
 * https://github.com/wbkd/awesome-interactive-journalism
 * https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/
 * https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.html
+* https://python-graph-gallery.com/
 
 
 #### D3 and related
@@ -391,11 +395,15 @@
 * https://galeascience.wordpress.com/2016/04/27/markov-chain-monte-carlo-sampling/
 * https://thuijskens.github.io/2016/12/29/bayesian-optimisation/
 * http://twiecki.github.io/blog/2017/03/14/random-walk-deep-net/
+* https://blog.statsbot.co/bayesian-learning-for-statistical-classification-f2362d620428
 
 
-### Data Mining, Association Rules, Basket Analysis
+### Unsupervised Learning, Data Mining, Association Rules, Basket Analysis
 
 * http://pbpython.com/market-basket-analysis.html
+* https://hackernoon.com/unsupervised-machine-learning-for-fun-profit-with-basket-clusters-17a1161e7aa1
+
+
 
 
 
@@ -537,6 +545,10 @@
 * https://elitedatascience.com/machine-learning-algorithms <- a really good introduction
 * https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007 <- PRICELESS
 * https://medium.com/towards-data-science/wheres-my-depth-first-search-machine-learning-6dd83436adab
+* https://eng.uber.com/michelangelo/
+* https://www.technologyreview.com/s/609038/chinas-ai-awakening/
+* https://techcrunch.com/2017/08/13/why-ai-is-now-at-the-heart-of-our-innovation-economy/
+
 
 
 
@@ -583,6 +595,7 @@
 * http://www.wired.com/2015/07/trained-googles-chatbot-mein-kampf/
 * https://stratechery.com/2017/the-arrival-of-artificial-intelligence/
 
+
 #### Agent Systems, Networks, Adversarial ML, GANs
 
 * http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14604.html
@@ -597,6 +610,9 @@
 * https://lareviewofbooks.org/article/a-brutal-intelligence-ai-chess-and-the-human-mind/
 * https://deepmind.com/blog/agents-imagine-and-plan/
 * http://www.machinedlearnings.com/2015/02/adversarial-scenarios-and-economies-of.html
+* https://www.kaggle.com/arjunjoshua/predicting-fraud-in-financial-payment-services
+* https://arstechnica.com/science/2017/10/new-neural-network-teaches-itself-go-spanks-the-pros/
+
 
 
 #### R
@@ -792,6 +808,9 @@
 * https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4
 * https://rstudio.github.io/keras/
 * https://aws.amazon.com/blogs/ai/get-started-with-deep-learning-using-the-aws-deep-learning-ami/
+* https://www.wired.com/story/new-theory-deep-learning 
+* https://medium.com/towards-data-science/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153
+* http://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity/ <- amazing. Theoretical futures for deep learning
 
 
 
@@ -886,6 +905,8 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://calnewport.com/blog/2011/12/23/flow-is-the-opiate-of-the-medicore-advice-on-getting-better-from-an-accomplished-piano-player/
 * http://blog.ycombinator.com/jeff-deans-lecture-for-yc-ai/
 * https://blog.algorithmia.com/becoming-a-10x-data-scientist/ 
+* http://www.thedsinterview.com/
+* https://blog.insightdatascience.com/what-would-be-useful-for-aspiring-data-scientists-to-know-4ce0baf65d97
 
 
 
@@ -895,7 +916,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://www.bigdata-madesimple.com/dilberts-20-funniest-cartoons-on-big-data/
 * http://www.cafepress.com/+statistics+mugs
 * http://bigdatapix.tumblr.com/
-* Storytelling w/ data - Precision bullsh*tting
+* Storytelling w/ data - Precision bullshitting
 * http://www.kdnuggets.com/2015/08/gartner-2015-hype-cycle-big-data-is-out-machine-learning-is-in.html
 * http://timoelliott.com/blog/analytics-cartoons
 * https://dev.to/rly
@@ -941,6 +962,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://blog.dominodatalab.com/joel-test-data-science/
 * http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html
 * http://blog.richardweiss.org/2017/07/25/data-science-in-organizations.html
+* https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe
 
 
 
@@ -1026,6 +1048,8 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://medium.com/@uwdata/regression-by-eye-b7587f4ca1f5
 * https://blog.insightdatascience.com/the-data-engineering-ecosystem-in-2017-2c2a3429350e
 * http://muratbuffalo.blogspot.com/2017/07/a-comparison-of-distributed-machine.html
+* https://machinelearnings.co/serving-pytorch-models-on-aws-lambda-with-caffe2-onnx-7b096806cfac
+* https://www.google.com/analytics/data-studio/
 
 
 
@@ -1071,6 +1095,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://blog.acolyer.org/2015/02/05/impala-a-modern-open-source-sql-engine-for-hadoop/
 * https://aws.amazon.com/blogs/aws/quickly-filter-data-in-amazon-redshift-using-interleaved-sorting/
 * https://aws.amazon.com/blogs/aws/amazon-athena-interactive-sql-queries-for-data-in-amazon-s3/
+* https://medium.com/@thetinot/bigquery-required-reading-list-71945444477b
 
 **Spanner**
 
@@ -1121,6 +1146,9 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://medium.com/@Zelros/4-steps-to-learn-tensorflow-when-you-already-know-scikit-learn-3cd0340456b5
 * http://planspace.org/20170404-how_not_to_program_the_tensorflow_graph/
 * https://sourcedexter.com/amazing-tensorflow-github-projects/
+* https://github.com/vahidk/EffectiveTensorflow
+* https://devdocs.io/tensorflow~guide/
+* https://mubaris.com/2017-10-21/tensorflow-101
 
 
 

@@ -416,6 +416,11 @@
 * https://theintercept.com/2017/02/13/48-questions-the-fbi-uses-to-determine-if-someone-is-a-likely-terrorist/
 * https://www.theguardian.com/us-news/2017/feb/10/standing-rock-fbi-investigation-dakota-access
 * https://qz.com/923648/why-do-highly-intelligent-people-commit-crimes/
+* http://warisboring.com/even-the-army-s-crowd-control-rulebook-says-ferguson-police-tactics-are-dumb/
+* http://warisboring.com/counterinsurgency-policing-and-the-militarization-of-americas-cities/
+* https://www.nytimes.com/2017/10/20/upshot/a-big-test-of-police-body-cameras-defies-expectations.html
+* https://theintercept.com/2017/10/10/recordings-capture-brutal-fbi-tactics-to-recruit-potential-informant/
+
 
 
 

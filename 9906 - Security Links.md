@@ -146,6 +146,20 @@
 * http://www.wired.com/2015/01/security-predictions-2015/
 * https://googleonlinesecurity.blogspot.com/2015/10/sustaining-digital-certificate-security.html
 * https://motherboard.vice.com/en_us/article/gybppx/iphone-bugs-are-too-valuable-to-report-to-apple
+* https://arstechnica.com/information-technology/2017/09/an-alarming-number-of-macs-remain-vulnerable-to-stealthy-firmware-hacks/
+* https://arstechnica.com/tech-policy/2017/10/trumps-doj-tries-to-rebrand-weakened-encryption-as-responsible-encryption/
+* http://blog.wesleyac.com/posts/elliptic-curves
+* http://techreport.com/news/32693/wpa2-security-hole-kracks-wi-fi-networks-wide-open
+* https://arstechnica.com/information-technology/2017/10/crypto-failure-cripples-millions-of-high-security-keys-750k-estonian-ids/
+* https://www.troyhunt.com/disqus-demonstrates-how-to-do-data-breach-disclosure-right/
+* http://www.cbc.ca/news/technology/cse-canada-cyber-spy-malware-assemblyline-open-source-1.4361728
+* http://www.androidpolice.com/2017/10/10/google-nerfing-home-minis-mine-spied-everything-said-247/
+* http://www.theregister.co.uk/2017/09/26/malware_hospital_simulation/ 
+* https://www.troyhunt.com/questions-about-the-massive-south-african-master-deeds-data-breach-answered/
+
+
+
+
 
 
 <li><a href="http://lifehacker.com/5932501/strong-passwords-arent-enough-how-to-to-ensure-the-apple-and-amazon-exploit-never-happens-to-you" time_added="1348860569" tags="personal tech">Strong Passwords Aren't Enough: How to to Ensure the Apple and Amazon Explo</a></li>

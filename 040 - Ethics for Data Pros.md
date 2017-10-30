@@ -123,6 +123,11 @@ We believe we are working to make our society, our world, a better place. At the
 * http://www.slate.com/articles/technology/future_tense/2016/12/software_problems_are_leading_to_wrongful_arrests.html
 * http://neveragain.tech/
 * https://medium.com/data-from-the-trenches/predicting-crime-in-portland-oregon-184453cccd5b
+* https://www.technologyreview.com/s/609048/the-seven-deadly-sins-of-ai-predictions/
+* http://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics
+* https://medium.com/microsoft-design/how-to-recognize-exclusion-in-ai-ec2d6d89f850
+
+
 
 
 
