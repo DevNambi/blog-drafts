@@ -356,6 +356,7 @@
 * https://scottlocklin.wordpress.com/2016/12/05/predicting-with-confidence-the-best-machine-learning-idea-you-never-heard-of/
 * https://www.neuraldesigner.com/blog/methods-binary-classification
 * https://elitedatascience.com/imbalanced-classes
+* http://www.dataschool.io/roc-curves-and-auc-explained/
 
 
 "Remember, nonlinear interactions, and non-Gaussian distributions are the default. "
@@ -402,6 +403,7 @@
 
 * http://pbpython.com/market-basket-analysis.html
 * https://hackernoon.com/unsupervised-machine-learning-for-fun-profit-with-basket-clusters-17a1161e7aa1
+* http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 
 
 
@@ -459,11 +461,9 @@
 * https://medium.com/@mikedewar/recommendation-engines-aren-t-for-maximising-metrics-they-are-for-designing-experiences-b2cb3395092c
 * http://fastml.com/real-time-interactive-movie-recommendation/
 * http://www.dailyuw.com/science/article_078a3b74-eef3-11e4-b1b5-b3a9ae4725b9.html
-* http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 * https://medium.com/@james_aka_yale/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa
 * http://alex.smola.org/talks/NIPS15.pdf
 * https://www.kaggle.com/users/195999/henning-sperr/otto-group-product-classification-challenge/finding-ensamble-weights
-* https://kartikkukreja.wordpress.com/2015/07/04/adversarial-search/
 * http://mlwave.com/kaggle-ensembling-guide/
 * http://blog.dato.com/choosing-a-recommender-model
 * http://research.microsoft.com/pubs/192769/tricks-2012.pdf
@@ -486,14 +486,12 @@
 * http://blogs.technet.com/b/machinelearning/archive/2015/05/20/choosing-a-learning-algorithm-in-azure-ml.aspx
 * http://allenai.org/videos.html
 * http://jasonkolb.com/ill-be-back-how-the-internet-of-things-is-giving-birth-to-an-ai-renaissance/
-* http://pralab.diee.unica.it/en/AdversariaLib
 * https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 * http://ppaml.galois.com/wiki/
 * http://www.newyorker.com/tech/elements/deepmind-artificial-intelligence-video-games
 * http://blog.shriphani.com/2014/11/12/the-isomap-algorithm/
 * http://machinelearningmastery.com/building-a-production-machine-learning-infrastructure/
 * https://aws.amazon.com/machine-learning/
-* http://planspace.org/20151129-see_sklearn_trees_with_d3/
 * https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/
 * http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 * http://datascopeanalytics.com/what-we-think/2014/09/18/hipster-classifier-icebreaker
@@ -501,12 +499,10 @@
 * http://www.infoq.com/news/2015/04/aws-launches-machine-learning
 * http://blogs.nvidia.com/blog/2014/11/17/microsoft-gpu-learn-faster/
 * http://spectrum.ieee.org/robotics/artificial-intelligence/the-unknown-startup-that-built-googles-first-selfdriving-ca
-* http://www.dataschool.io/roc-curves-and-auc-explained/
 * http://austingwalters.com/pca-principal-component-analysis/
 * https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43146.pdf
 * http://www.john-foreman.com/blog/the-perilous-world-of-machine-learning-for-fun-and-profit-pipeline-jungles-and-hidden-feedback-loops
 * http://setosa.io/ev/eigenvectors-and-eigenvalues/
-* http://techeffigytutorials.blogspot.com/2015/02/the-genetic-algorithm-explained.html
 * http://radar.oreilly.com/2015/05/the-tensor-renaissance-in-data-science.html
 * http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html <- beautifully illustrated
 * http://www.mbmlbook.com/toc.html
@@ -519,9 +515,6 @@
 * https://lab.getbase.com/is-regression-trustworthy-or-how-to-use-metrics-to-trust-the-prediction-of-regression/
 * http://fastml.com/evaluating-recommender-systems/
 * http://nerds.airbnb.com/confidence-splitting-criterions/
-* http://bertolami.com/index.php?engine=blog&content=posts&detail=randomized-decision-forests
-* https://www.quora.com/When-would-one-use-Random-Forests-over-Gradient-Boosted-Machines-GBMs/answer/Xavier-Amatriain
-* http://www.randalolson.com/2015/11/15/introducing-tpot-the-data-science-assistant/
 * http://educationoutrage.blogspot.com/2015/11/the-fraudulent-claims-made-by-ibm-about.html
 * http://willmcginnis.com/2015/11/29/beyond-one-hot-an-exploration-of-categorical-variables/
 * http://news.mit.edu/2015/automating-big-data-analysis-1016
@@ -533,7 +526,6 @@
 * http://www.pybloggers.com/ensemble-methods-elegant-techniques-to-produce-improved-machine-learning-results/
 * http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb
 * http://cleveralgorithms.com/nature-inspired/index.html <- AMAZING
-* https://jessesw.com/XG-Boost/
 * https://www.quora.com/What-machine-learning-approaches-have-won-most-Kaggle-competitions/answer/Ben-Hamner
 * http://smerity.com/articles/2016/ml_not_magic.html
 * http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/
@@ -555,6 +547,13 @@
 "ML tip: train a model to distinguish between your training set & unlabeled data. If it works, your training data may be incomplete!" - Jake Vanderplas
 
 
+#### Trees
+
+* https://jessesw.com/XG-Boost/
+* http://planspace.org/20151129-see_sklearn_trees_with_d3/
+* https://www.quora.com/When-would-one-use-Random-Forests-over-Gradient-Boosted-Machines-GBMs/answer/Xavier-Amatriain
+* http://bertolami.com/index.php?engine=blog&content=posts&detail=randomized-decision-forests
+
 
 
 #### Gradient Descent
@@ -568,6 +567,12 @@
 #### Dimensionality Reduction
 
 * https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe
+
+
+#### AutoML
+
+* https://rhiever.github.io/tpot/
+* http://www.randalolson.com/2015/11/15/introducing-tpot-the-data-science-assistant/
 
 
 
@@ -596,7 +601,7 @@
 * https://stratechery.com/2017/the-arrival-of-artificial-intelligence/
 
 
-#### Agent Systems, Networks, Adversarial ML, GANs
+#### Agent Systems, Networks, Adversarial ML, GANs, NP-Hard
 
 * http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14604.html
 * https://github.com/projectmesa/mesa
@@ -612,6 +617,9 @@
 * http://www.machinedlearnings.com/2015/02/adversarial-scenarios-and-economies-of.html
 * https://www.kaggle.com/arjunjoshua/predicting-fraud-in-financial-payment-services
 * https://arstechnica.com/science/2017/10/new-neural-network-teaches-itself-go-spanks-the-pros/
+* https://kartikkukreja.wordpress.com/2015/07/04/adversarial-search/
+* http://pralab.diee.unica.it/en/AdversariaLib
+* http://techeffigytutorials.blogspot.com/2015/02/the-genetic-algorithm-explained.html
 
 
 
@@ -645,26 +653,30 @@
 * https://civisanalytics.com/blog/data-science/2016/01/06/workflows-python-using-pipeline-gridsearchcv-for-compact-code/
 * https://databricks.com/blog/2016/02/08/auto-scaling-scikit-learn-with-spark.html
 * http://sebastianraschka.com/blog/2015/why-python.html
-* http://www.dataschool.io/best-python-pandas-resources/
 * https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
 * https://ipgp.github.io/scientific_python_cheat_sheet/
-* https://kozikow.wordpress.com/2016/07/01/top-pandas-functions-used-in-github-repos/
-* https://github.com/tomaugspurger/modern-pandas
 * http://www.scipy-lectures.org/
-* https://github.com/guipsamora/pandas_exercises
 * https://www.themarketingtechnologist.co/helping-our-new-data-scientists-start-in-python-a-guide-to-learning-by-doing/
-* https://mystudentvoices.com/pandas-cheat-sheet-for-data-science-in-python-b7bcdd29ef9b
-* https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf
 * https://github.com/jakevdp/PythonDataScienceHandbook/
 * https://medium.com/@kacawi/jupyter-notebook-tutorial-the-definitive-guide-660c7e651ecd
-* https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
 * https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
 * https://medium.com/pachyderm-data/jupyter-pachyderm-part-1-exploring-and-understanding-historical-analyses-2a37e56c6578 
 * http://blog.jupyter.org/2017/03/01/ipywidgets-6-release/
 * https://activewizards.com/blog/top-15-libraries-for-data-science-in-python/
 * http://pytorch.org/tutorials/
 * http://hyperopt.github.io/hyperopt-sklearn/
-* https://rhiever.github.io/tpot/
+
+**Pandas**
+
+* https://mycheatsheets.com/pandas
+* http://www.dataschool.io/best-python-pandas-resources/
+* https://kozikow.wordpress.com/2016/07/01/top-pandas-functions-used-in-github-repos/
+* https://github.com/tomaugspurger/modern-pandas
+* https://mystudentvoices.com/pandas-cheat-sheet-for-data-science-in-python-b7bcdd29ef9b
+* https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf
+* https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
+* https://github.com/guipsamora/pandas_exercises
+
 
 
 
@@ -1006,14 +1018,12 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://insightdataengineering.com/blog/pipeline_map.html
 * http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/
 * http://opensourceconnections.com/blog/2015/02/04/its-log-its-log-its-big-its-hyper-its-good/
-* http://ben.kirw.in/2014/11/28/kafka-patterns/
 * http://db-engines.com/en/ranking
 * http://citusdata.com/blog/90-sql-scaling-and-whats-unique-about-postgres
 * http://blog.rescale.com/the-real-cost-of-high-performance-computing/
 * http://byterot.blogspot.com/2015/01/future-of-programming-rise-of-the-scientific-developer-bigdata-datascience-machine-learning-and-fall-of-the-craftsman.html
 * http://harry.me/blog/2014/12/27/neat-algorithms-paxos/
 * http://techblog.netflix.com/2014/10/using-presto-in-our-big-data-platform.html
-* http://googleresearch.blogspot.com/2015/11/tensorflow-googles-latest-machine_9.html
 * https://github.com/Randommood/Strangeloop2015
 * http://patshaughnessy.net/2014/10/13/following-a-select-statement-through-postgres-internals
 * http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html
@@ -1082,12 +1092,12 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://grigory.us/blog/rdbms-mapreduce/
 
 
-#### Impala, Redshift, Distributed SQL, Dremel, BigQuery, Spanner
+#### Impala, Redshift, Distributed SQL, Dremel, BigQuery
 
 <li><a href="http://www.wired.com/wiredenterprise/2012/08/googles-dremel-makes-big-data-look-small/" time_added="1348860690" tags="big data,data science">Google's Dremel Makes Big Data Look Small | Wired Enterprise | Wired.com</a></li>
 <li><a href="https://github.com/rickysaltzer/impala-in-action" time_added="1389815401" tags="">rickysaltzer/impala-in-action · GitHub</a></li>
 <li><a href="http://www.readwriteweb.com/cloud/2012/06/googles-bigquery-gets-big-dashboards-and-expanded-multiple-queries.php" time_added="1349321901" tags="big data,data science">Google's BigQuery Gets Big Dashboards and Expanded Multiple Queries</a></li>
-<li><a href="http://highscalability.com/blog/2012/9/24/google-spanners-most-surprising-revelation-nosql-is-out-and.html" time_added="1348860823" tags="big data,sql">High Scalability - High Scalability - Google Spanner's Most Surprising Reve</a></li>
+
 <li><a href="http://rarestblog.com/blog/2013/02/15/redshift-postgresql-in-the-cloud/" time_added="1360968719" tags="big data,cloud">Redshift: PostgreSQL-like in the cloud (benchmark) - RarestBlog</a></li>
 
 * http://www.slideshare.net/cloudera/the-impala-cookbook-42530186
@@ -1098,15 +1108,21 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://aws.amazon.com/blogs/aws/amazon-athena-interactive-sql-queries-for-data-in-amazon-s3/
 * https://medium.com/@thetinot/bigquery-required-reading-list-71945444477b
 
-**Spanner**
+
+#### Spanner
 
 <li><a href="http://www.wired.com/wiredenterprise/2012/11/google-spanner-time/all/" time_added="1353945766" tags="big data,data science">Exclusive: Inside Google Spanner, the Largest Single Database on Earth | Wi</a></li>
+<li><a href="http://highscalability.com/blog/2012/9/24/google-spanners-most-surprising-revelation-nosql-is-out-and.html" time_added="1348860823" tags="big data,sql">High Scalability - High Scalability - Google Spanner's Most Surprising Reve</a></li>
 
 * https://cloudplatform.googleblog.com/2017/02/introducing-Cloud-Spanner-a-global-database-service-for-mission-critical-applications.html
 * https://cloud.google.com/spanner/
 * https://quizlet.com/blog/quizlet-cloud-spanner
 
 
+
+#### Kafka
+
+* http://ben.kirw.in/2014/11/28/kafka-patterns/
 
 
 
@@ -1150,6 +1166,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://github.com/vahidk/EffectiveTensorflow
 * https://devdocs.io/tensorflow~guide/
 * https://mubaris.com/2017-10-21/tensorflow-101
+* http://googleresearch.blogspot.com/2015/11/tensorflow-googles-latest-machine_9.html
 
 
 
