@@ -1050,6 +1050,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://muratbuffalo.blogspot.com/2017/07/a-comparison-of-distributed-machine.html
 * https://machinelearnings.co/serving-pytorch-models-on-aws-lambda-with-caffe2-onnx-7b096806cfac
 * https://www.google.com/analytics/data-studio/
+* http://dbmsmusings.blogspot.com/2017/10/apache-arrow-vs-parquet-and-orc-do-we.html
 
 
 

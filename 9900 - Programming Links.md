@@ -631,6 +631,7 @@
 * https://redmonk.com/sogrady/2017/03/17/language-rankings-1-17/
 * https://github.com/gurugio/lowlevelprogramming-university/blob/master/README.md
 * http://spectrum.ieee.org/computing/software/the-2017-top-programming-languages
+* https://stackoverflow.blog/2017/10/31/disliked-programming-languages/
 
 
 

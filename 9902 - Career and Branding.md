@@ -86,6 +86,7 @@
 * http://discuss.joelonsoftware.com/default.asp?biz.5.839125.7
 * https://tylertringas.com/micro-saas-ebook/
 * https://www.quora.com/What-are-some-successful-one-man-SaaS-products
+* https://www.indiehackers.com/businesses/wakatime
 
 
 
