@@ -287,6 +287,9 @@ Emphasize what we don't know
 * http://sciencebulletin.org/archives/6839.html <- "Turning CO2 to Stone"
 * https://www.nytimes.com/2017/01/21/opinion/sunday/in-beijing-and-washington-a-breath-of-foul-air.html
 * http://sciencebulletin.org/archives/10940.html <- "Electronic energy meters’ false readings almost six times higher than actual energy consumption"
+* http://www.mercurynews.com/2017/10/19/cost-of-repairing-oroville-dams-spillway-nearly-doubles-in-price-to-500-million/
+* https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2017/08/14/daily-202-evidence-of-climate-change-abounds-amid-extreme-weather-in-the-pacific-northwest/59910b8e30fb0462b8e1a9c4/
+
 
 
 

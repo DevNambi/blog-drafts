@@ -156,6 +156,8 @@
 * http://www.androidpolice.com/2017/10/10/google-nerfing-home-minis-mine-spied-everything-said-247/
 * http://www.theregister.co.uk/2017/09/26/malware_hospital_simulation/ 
 * https://www.troyhunt.com/questions-about-the-massive-south-african-master-deeds-data-breach-answered/
+* http://georgemauer.net/2017/10/07/csv-injection.html
+* https://arstechnica.com/information-technology/2017/09/devs-unknowingly-use-malicious-modules-put-into-official-python-repository/
 
 
 

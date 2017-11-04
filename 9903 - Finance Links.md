@@ -84,6 +84,7 @@
 * http://www.nakedcapitalism.com/2017/01/trading-off-soft-hard-brexit.html
 * http://www.bbc.com/news/uk-politics-38720320
 * https://www.nytimes.com/2017/03/28/world/europe/scotland-britain-brexit-european-union.html
+* https://www.neweurope.eu/article/british-government-plans-hard-border-republic-ireland/
 
 
 
@@ -594,6 +595,7 @@
 * https://www.washingtonpost.com/news/wonk/wp/2015/09/28/this-sleazy-and-totally-illegal-savings-scheme-may-be-the-future-of-retirement/
 * https://github.com/zonination/investing/blob/master/README.md
 * https://www.bloomberg.com/news/articles/2017-04-09/lopsided-stocks-and-the-math-explaining-active-manager-futility
+* https://thezvi.wordpress.com/2017/09/23/out-to-get-you/
 
 
 

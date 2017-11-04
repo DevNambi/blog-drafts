@@ -138,7 +138,9 @@
 * https://backchannel.com/inside-the-obama-tech-surge-as-it-hacks-the-pentagon-and-va-8b439bc33ed1
 * http://datasmart.ash.harvard.edu/news/article/municipal-analytics-the-startup-way-873
 * https://medium.com/@noahkunin/why-im-leaving-18f-48970131d547
-
+* https://longreads.com/2017/09/20/my-journey-to-the-heart-of-the-foia-request/
+* https://www.reddit.com/r/personalfinance/comments/70v10g/seriously_use_a_credit_card_and_earn_free_rewards/ <- look at this for credit card ideas
+* https://www.reddit.com/r/EatCheapAndHealthy/top/?sort=top&t=all
 
 
 

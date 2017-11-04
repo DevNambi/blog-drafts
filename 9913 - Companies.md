@@ -109,6 +109,7 @@
 * https://www.darkcoding.net/software/facebooks-code-quality-problem/
 * https://arstechnica.com/business/2017/05/facebook-helped-advertisers-target-teens-who-feel-worthless/
 * https://hbr.org/2017/04/a-new-more-rigorous-study-confirms-the-more-you-use-facebook-the-worse-you-feel
+* https://www.cnbc.com/2017/09/06/facebook-inflates-ad-reach-claims-pivotal-research-analyst.html
 
 
 ## Apple
@@ -304,6 +305,7 @@
 * https://techcrunch.com/2017/04/05/uber-finds-one-allegedly-stolen-waymo-file-on-an-employees-personal-device/
 * http://www.bostonherald.com/news/local_coverage/2017/04/more_than_8000_ride_share_drivers_flunked_mass_background_checks
 * https://www.buzzfeed.com/carolineodonovan/how-ubers-hard-charging-corporate-culture-left-employees
+* https://stratechery.com/2017/the-uber-dilemma/
 
 
 
@@ -379,6 +381,7 @@
 * http://www.nakedcapitalism.com/2017/04/united-passenger-removal-reporting-management-fail.html
 * http://time.com/4753613/united-dragging-police-reports-dao/
 * https://www.bloomberg.com/view/articles/2017-04-13/united-broke-its-contract-with-frequent-flyers
+* http://www.spiegel.de/international/business/airbus-corruption-scandal-threatens-ceo-tom-enders-a-1171533-2.html
 
 
 ## Energy Companies
@@ -399,6 +402,8 @@
 * http://www.theguardian.com/commentisfree/2015/nov/06/twitter-teetering-pyramid-scheme-social-media
 * http://www.newyorker.com/tech/elements/the-end-of-twitter
 * http://www.theverge.com/2016/4/13/11387934/internet-moderator-history-youtube-facebook-reddit-censorship-free-speech
+* https://www.bloomberg.com/news/articles/2017-10-13/twitter-is-crawling-with-bots-and-lacks-incentive-to-expel-them
+* http://dougbelshaw.com/blog/2017/09/06/deleting-my-tweets/
 
 
 ## Vehicle, Car & Transportation Companies

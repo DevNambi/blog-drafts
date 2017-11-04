@@ -299,6 +299,8 @@
 * http://idlewords.com/2015/11/the_advertising_bubble.htm
 * http://adcontrarian.blogspot.ca/2016/07/tons-of-data-and-not-ounce-of-sense.html
 * https://arstechnica.com/gadgets/2017/05/how-to-build-your-own-vpn-if-youre-rightfully-wary-of-commercial-options/5/
+* https://www.wired.com/story/track-location-with-mobile-ads-1000-dollars-study
+
 
 ### CISA 2015
 

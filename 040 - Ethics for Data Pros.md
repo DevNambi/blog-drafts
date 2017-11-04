@@ -126,6 +126,7 @@ We believe we are working to make our society, our world, a better place. At the
 * https://www.technologyreview.com/s/609048/the-seven-deadly-sins-of-ai-predictions/
 * http://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics
 * https://medium.com/microsoft-design/how-to-recognize-exclusion-in-ai-ec2d6d89f850
+* https://metrolabnetwork.org/data-science-and-human-services-lab/
 
 
 

@@ -300,7 +300,9 @@
 * http://maketimeforthetalk.com/ <- PRICELESS
 * https://theblog.okcupid.com/undressed-whats-the-deal-with-the-age-gap-in-relationships-3143a2ca5178
 * https://www.psychalive.org/understanding-ambivalent-anxious-attachment/
-
+* https://medium.com/@remakingmanhood/when-men-keep-demanding-sex-from-their-partners-over-and-over-2215fae6d7b0
+* https://www.theatlantic.com/magazine/archive/2017/10/why-happy-people-cheat/537882/ 
+* https://www.technologyreview.com/s/609091/first-evidence-that-online-dating-is-changing-the-nature-of-society/ <- I love it
 
 
 
@@ -358,6 +360,7 @@
 * http://www.richmond-news.com/news/weekly-feature/ghost-city-realtor-finds-large-number-of-city-centre-condos-vacant-1.3640322
 * http://mobile.nytimes.com/2016/12/02/your-money/youre-buying-a-home-have-you-considered-climate-change.html
 * http://www.mrmoneymustache.com/2017/01/24/diy-studio-building/
+* https://www.reddit.com/r/AskReddit/comments/76b7nr/homeowners_of_reddit_when_you_purchased_your/ <- "what item did you not think about that ended being very useful to you?"
 
 
 

@@ -458,8 +458,6 @@
 * http://www.machinedlearnings.com/2017/02/software-engineering-vs-machine.html <- a great primer for software engineers
 * http://www.dataschool.io/comparing-supervised-learning-algorithms/
 * http://blog.dato.com/how-to-evaluate-machine-learning-models-part-1-orientation
-* https://medium.com/@mikedewar/recommendation-engines-aren-t-for-maximising-metrics-they-are-for-designing-experiences-b2cb3395092c
-* http://fastml.com/real-time-interactive-movie-recommendation/
 * http://www.dailyuw.com/science/article_078a3b74-eef3-11e4-b1b5-b3a9ae4725b9.html
 * https://medium.com/@james_aka_yale/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa
 * http://alex.smola.org/talks/NIPS15.pdf
@@ -479,7 +477,6 @@
 * https://outlookzen.wordpress.com/2015/03/15/life-lessons-from-machine-learning/
 * http://www.machinedlearnings.com/2015/07/icml-2015-review.html
 * http://research.microsoft.com/en-us/projects/r2/
-* http://probabilistic-programming.org/wiki/Home
 * http://new.livestream.com/accounts/7874891/events/3565981 <- ML conf videos
 * http://blog.echen.me/2017/05/30/exploring-lstms/
 * http://hunch.net/?p=224
@@ -488,7 +485,6 @@
 * http://jasonkolb.com/ill-be-back-how-the-internet-of-things-is-giving-birth-to-an-ai-renaissance/
 * https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 * http://ppaml.galois.com/wiki/
-* http://www.newyorker.com/tech/elements/deepmind-artificial-intelligence-video-games
 * http://blog.shriphani.com/2014/11/12/the-isomap-algorithm/
 * http://machinelearningmastery.com/building-a-production-machine-learning-infrastructure/
 * https://aws.amazon.com/machine-learning/
@@ -499,11 +495,9 @@
 * http://www.infoq.com/news/2015/04/aws-launches-machine-learning
 * http://blogs.nvidia.com/blog/2014/11/17/microsoft-gpu-learn-faster/
 * http://spectrum.ieee.org/robotics/artificial-intelligence/the-unknown-startup-that-built-googles-first-selfdriving-ca
-* http://austingwalters.com/pca-principal-component-analysis/
 * https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43146.pdf
 * http://www.john-foreman.com/blog/the-perilous-world-of-machine-learning-for-fun-and-profit-pipeline-jungles-and-hidden-feedback-loops
 * http://setosa.io/ev/eigenvectors-and-eigenvalues/
-* http://radar.oreilly.com/2015/05/the-tensor-renaissance-in-data-science.html
 * http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html <- beautifully illustrated
 * http://www.mbmlbook.com/toc.html
 * http://recode.net/2015/06/30/machine-learning-is-hard-google-photos-has-egregious-facial-recognition-error/
@@ -529,7 +523,6 @@
 * https://www.quora.com/What-machine-learning-approaches-have-won-most-Kaggle-competitions/answer/Ben-Hamner
 * http://smerity.com/articles/2016/ml_not_magic.html
 * http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/
-* http://efavdb.com/battleship/ <- reinforcement learning
 * http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf <- really, really useful
 * https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur <- also very useful
 * https://www.deeplearningtrack.com/single-post/2017/05/01/Value-derived-from-data-science-The-tussle-between-quality-quantity-of-models
@@ -567,14 +560,13 @@
 #### Dimensionality Reduction
 
 * https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe
+* http://austingwalters.com/pca-principal-component-analysis/
 
 
 #### AutoML
 
 * https://rhiever.github.io/tpot/
 * http://www.randalolson.com/2015/11/15/introducing-tpot-the-data-science-assistant/
-
-
 
 
 #### Markov Chains, MCMC
@@ -601,6 +593,12 @@
 * https://stratechery.com/2017/the-arrival-of-artificial-intelligence/
 
 
+#### Recommendation Systems
+
+* https://medium.com/@mikedewar/recommendation-engines-aren-t-for-maximising-metrics-they-are-for-designing-experiences-b2cb3395092c
+* http://fastml.com/real-time-interactive-movie-recommendation/
+
+
 #### Agent Systems, Networks, Adversarial ML, GANs, NP-Hard
 
 * http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14604.html
@@ -620,6 +618,15 @@
 * https://kartikkukreja.wordpress.com/2015/07/04/adversarial-search/
 * http://pralab.diee.unica.it/en/AdversariaLib
 * http://techeffigytutorials.blogspot.com/2015/02/the-genetic-algorithm-explained.html
+* https://deepmind.com/blog/alphago-zero-learning-scratch/
+* http://www.newyorker.com/tech/elements/deepmind-artificial-intelligence-video-games
+
+
+#### Reinforcement Learning
+
+* https://deepmind.com/blog/alphago-zero-learning-scratch/
+* http://efavdb.com/battleship/ <- reinforcement learning
+
 
 
 
@@ -1061,6 +1068,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://machinelearnings.co/serving-pytorch-models-on-aws-lambda-with-caffe2-onnx-7b096806cfac
 * https://www.google.com/analytics/data-studio/
 * http://dbmsmusings.blogspot.com/2017/10/apache-arrow-vs-parquet-and-orc-do-we.html
+* https://blog.shodan.io/the-hdfs-juggernaut/
 
 
 
@@ -1075,6 +1083,8 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/
 * https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/ <- critical!
 * http://blog.fastforwardlabs.com/2017/01/30/the-algorithms-behind-probabilistic-programming.html
+* http://blog.fastforwardlabs.com/2017/10/02/pp-bibliography.html <- a great place to start
+* http://probabilistic-programming.org/wiki/Home
 
 
 #### MapReduce, Hadoop, Hive
@@ -1117,7 +1127,6 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://cloudplatform.googleblog.com/2017/02/introducing-Cloud-Spanner-a-global-database-service-for-mission-critical-applications.html
 * https://cloud.google.com/spanner/
 * https://quizlet.com/blog/quizlet-cloud-spanner
-
 
 
 #### Kafka
@@ -1168,6 +1177,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://mubaris.com/2017-10-21/tensorflow-101
 * http://googleresearch.blogspot.com/2015/11/tensorflow-googles-latest-machine_9.html
 * https://developers.googleblog.com/2017/10/eager-execution-imperative-define-by.html
+* http://radar.oreilly.com/2015/05/the-tensor-renaissance-in-data-science.html
 
 
 

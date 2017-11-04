@@ -167,6 +167,15 @@
 * https://warisboring.com/combat-veterans-turned-journalists-lead-the-charge-to-expose-military-sexual-harassment-b78511caf727
 * https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/
 * http://www.theamericanconservative.com/articles/nearly-half-the-pentagon-budget-goes-to-contractors
+* http://warisboring.com/the-finnish-military-shows-how-to-treat-soldiers-the-right-way/
+* https://warisboring.com/there-are-several-military-options-to-attack-north-korea-all-of-them-bad/
+* http://warisboring.com/tell-me-how-this-ends/
+* http://warisboring.com/why-the-u-s-navy-loves-big-aircraft-carriers/
+* http://warisboring.com/108-u-s-f-35s-wont-be-combat-capable/
+* https://warisboring.com/thousands-of-nazis-marched-in-new-york-in-1939/
+* http://www.duffelblog.com/2017/08/command-and-general-staff-college-grads-continue-perfect-record-of-losing-wars/
+
+
 
 
 
