@@ -1167,6 +1167,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://devdocs.io/tensorflow~guide/
 * https://mubaris.com/2017-10-21/tensorflow-101
 * http://googleresearch.blogspot.com/2015/11/tensorflow-googles-latest-machine_9.html
+* https://developers.googleblog.com/2017/10/eager-execution-imperative-define-by.html
 
 
 
