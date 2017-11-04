@@ -210,7 +210,7 @@
 * http://arstechnica.com/unite/2015/10/the-future-is-the-internet-of-things-deal-with-it/3/
 * http://arstechnica.com/security/2016/01/first-known-hacker-caused-power-outage-signals-troubling-escalation/  <- this is **incredibly ominous**
 * https://shkspr.mobi/blog/2016/03/the-absolute-horror-of-wifi-light-switches/
-* https://productforums.google.com/forum/m/#!msg/calendar/UhfpcwO0X0c/paA4iQNen9IJ <- Internet of Sh*t
+* https://productforums.google.com/forum/m/#!msg/calendar/UhfpcwO0X0c/paA4iQNen9IJ <- Internet of Shiit
 * http://www.seattletimes.com/nation-world/ap-investigation-us-power-grid-vulnerable-to-foreign-hacks-2/
 * http://www.zdnet.com/article/chryslers-response-to-car-hack-was-slow-and-incredibly-stupid/
 * http://www.abc10.com/story/news/2015/09/09/cyber-attacks-doe-energy/71929786/
@@ -226,7 +226,7 @@
 * http://arstechnica.com/security/2016/11/notorious-iot-botnets-weaponize-new-flaw-found-in-millions-of-home-routers/
 * http://www.finehomebuilding.com/2013/08/14/why-i-regret-making-my-house-a-smart-house
 * https://gizmodo.com/this-hacker-is-my-new-hero-1794630960
-
+* https://arstechnica.com/information-technology/2017/11/rethinking-our-approach-toward-personal-threat-models-in-an-iot-world/
 
 
 
