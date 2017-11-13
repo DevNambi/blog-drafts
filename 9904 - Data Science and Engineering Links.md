@@ -128,6 +128,7 @@
 * https://www.import.io/post/how-to-win-a-kaggle-competition/
 * http://odo.readthedocs.io/en/latest/
 * http://www.redbook.io/ <- READ THE DATA INTEGRATION PAPER
+* https://research.googleblog.com/2017/11/feature-visualization.html
 
 
 
@@ -831,6 +832,10 @@
 * https://medium.com/towards-data-science/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153
 * http://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity/ <- amazing. Theoretical futures for deep learning
 
+#### Capsule Networks
+
+* https://www.wired.com/story/googles-ai-wizard-unveils-a-new-twist-on-neural-networks/
+
 
 
 
@@ -1178,6 +1183,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://googleresearch.blogspot.com/2015/11/tensorflow-googles-latest-machine_9.html
 * https://developers.googleblog.com/2017/10/eager-execution-imperative-define-by.html
 * http://radar.oreilly.com/2015/05/the-tensor-renaissance-in-data-science.html
+* https://developers.googleblog.com/2017/11/announcing-tensorflow-r14.html
 
 
 
