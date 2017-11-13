@@ -789,16 +789,13 @@
 * http://rinuboney.github.io/2015/10/18/theoretical-motivations-deep-learning.html
 * http://karpathy.github.io/2015/10/25/selfie/
 * https://github.com/andrewt3000/DL4NLP/blob/master/README.md#deep-learning-for-nlp-resources
-* http://googleresearch.blogspot.com/2015/11/tensorflow-googles-latest-machine_9.html
 * http//iamtrask.github.io/2015/11/15/anyone-can-code-lstm/ <- a great intro to neural nets and LSTM
 * http://arxiv.org/abs/1511.06435 <- "Comparative Study of Caffe, Neon, Theano, and Torch for Deep Learning"
 * https://github.com/BradNeuberg/cloudless
 * http://karpathy.github.io/2015/05/21/rnn-effectiveness/ <- "Obsessed with char-nn after reading link and applying to federal regulations dataset. Amazing algorithm."
-* https://databricks.com/blog/2016/01/25/deep-learning-with-spark-and-tensorflow.html
 * http://www.wildml.com/deep-learning-glossary/
 * http://googleresearch.blogspot.com/2016/02/exploring-intersection-of-art-and.html
 * http://www.aistartups.org/2016/03/some-starting-points-for-deep-learning.html
-* http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.67711&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification
 * http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/
 * http://karpathy.github.io/neuralnets/
 * http://ofir.io/How-to-Start-Learning-Deep-Learning/
@@ -825,7 +822,6 @@
 * https://medium.com/intuitionmachine/the-strange-loop-in-deep-learning-38aa7caf6d7d
 * http://minimaxir.com/2017/07/cpu-or-gpu/
 * http://course.fast.ai/start.html <- use this to learn deep learning
-* https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4
 * https://rstudio.github.io/keras/
 * https://aws.amazon.com/blogs/ai/get-started-with-deep-learning-using-the-aws-deep-learning-ami/
 * https://www.wired.com/story/new-theory-deep-learning 
@@ -1167,7 +1163,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://tech.marksblogg.com/petabytes-of-website-data-spark-emr.html
 
 
-#### TensorFlow
+#### TensorFlow, Tensor Algebra
 
 * https://github.com/pkmital/tensorflow_tutorials
 * https://github.com/jasimpson/tensorflow-on-aws
@@ -1184,6 +1180,10 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://developers.googleblog.com/2017/10/eager-execution-imperative-define-by.html
 * http://radar.oreilly.com/2015/05/the-tensor-renaissance-in-data-science.html
 * https://developers.googleblog.com/2017/11/announcing-tensorflow-r14.html
+* http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.67711&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification
+* https://databricks.com/blog/2016/01/25/deep-learning-with-spark-and-tensorflow.html
+* https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4
+* http://news.mit.edu/2017/faster-big-data-analysis-tensor-algebra-1031 <- not strictly TensorFlow, but very related
 
 
 
