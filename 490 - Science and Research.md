@@ -105,6 +105,7 @@ Science seems to do 2 things. First, is create opportunities and tools (industry
 * https://blogs.scientificamerican.com/observations/betty-shannon-unsung-mathematical-genius/
 * https://www.nytimes.com/2017/10/13/world/asia/china-science-fraud-scandals.html
 * https://arstechnica.com/science/2017/10/50-year-old-research-issue-still-biting-biologists/
+* https://www.authorea.com/users/8850/articles/125400-65-out-of-the-100-most-cited-papers-are-paywalled
 
 
 

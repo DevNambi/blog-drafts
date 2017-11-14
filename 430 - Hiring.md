@@ -50,6 +50,7 @@ This is an information problem. It's also a FUD problem.
 * http://weblog.raganwald.com/2006/06/my-favourite-interview-question.html
 * http://carlos.bueno.org/2014/06/refactoring.html
 * http://swizec.com/blog/dear-tech-companies-this-is-not-how-you-hire-engineers/swizec/6643
+* http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html
 
 ### Ways to troll recruiters
 

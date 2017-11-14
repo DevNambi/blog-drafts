@@ -632,6 +632,7 @@
 * https://github.com/gurugio/lowlevelprogramming-university/blob/master/README.md
 * http://spectrum.ieee.org/computing/software/the-2017-top-programming-languages
 * https://stackoverflow.blog/2017/10/31/disliked-programming-languages/
+* https://stackoverflow.blog/2017/11/13/cliffs-insanity-dramatic-shifts-technologies-stack-overflow/
 
 
 

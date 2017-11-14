@@ -158,6 +158,7 @@
 * https://www.troyhunt.com/questions-about-the-massive-south-african-master-deeds-data-breach-answered/
 * http://georgemauer.net/2017/10/07/csv-injection.html
 * https://arstechnica.com/information-technology/2017/09/devs-unknowingly-use-malicious-modules-put-into-official-python-repository/
+* https://blog.cloudflare.com/thwarting-the-tactics-of-the-equifax-attackers/
 
 
 
