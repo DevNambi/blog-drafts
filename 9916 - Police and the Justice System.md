@@ -8,6 +8,8 @@
 
 * http://www.theglobeandmail.com/news/investigations/unfounded-police-dismiss-1-in-5-sexual-assault-claims-as-baseless-Globe-investigation-reveals/article33891309/
 
+* https://www.bwcscorecard.org/ <- score cards on police body camera policies
+
 
 * http://www.baltimoresun.com/news/maryland/crime/bs-md-ci-baltimore-police-indicted-20170301-story.html
 * https://www.propublica.org/article/vivitrol-opiate-crisis-and-criminal-justice

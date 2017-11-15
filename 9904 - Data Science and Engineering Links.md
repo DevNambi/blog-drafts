@@ -831,7 +831,7 @@
 #### Capsule Networks
 
 * https://www.wired.com/story/googles-ai-wizard-unveils-a-new-twist-on-neural-networks/
-
+* https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b
 
 
 
