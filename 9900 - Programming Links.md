@@ -786,6 +786,7 @@ Microsoft and other third-party developers have a huge problem: they don't liste
 * https://www.edx.org/course/linuxfoundationx/linuxfoundationx-lfs101x-introduction-1621
 * http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html
 * http://tldr-pages.github.io/
+* http://alexpetralia.com/posts/2017/6/26/learning-linux-bash-to-get-things-done
 
 
 

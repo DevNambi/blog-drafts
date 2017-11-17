@@ -398,6 +398,8 @@
 * https://thuijskens.github.io/2016/12/29/bayesian-optimisation/
 * http://twiecki.github.io/blog/2017/03/14/random-walk-deep-net/
 * https://blog.statsbot.co/bayesian-learning-for-statistical-classification-f2362d620428
+* http://julesjacobs.github.io/2015/08/17/bayesian-scoring-of-ratings.html <- very useful when looking at product scores and such
+
 
 
 ### Unsupervised Learning, Data Mining, Association Rules, Basket Analysis
@@ -479,7 +481,6 @@
 * http://www.machinedlearnings.com/2015/07/icml-2015-review.html
 * http://research.microsoft.com/en-us/projects/r2/
 * http://new.livestream.com/accounts/7874891/events/3565981 <- ML conf videos
-* http://blog.echen.me/2017/05/30/exploring-lstms/
 * http://hunch.net/?p=224
 * http://blogs.technet.com/b/machinelearning/archive/2015/05/20/choosing-a-learning-algorithm-in-azure-ml.aspx
 * http://allenai.org/videos.html
@@ -764,7 +765,6 @@
 * http://thinkingmachines.mit.edu/blog/unreasonable-reputation-neural-networks
 * http://yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html
 * http://www.wired.com/2014/12/new-startup-sets-bring-google-style-ai-masses/
-* http://www.neutronest.moe/2015-11-15-LSTM-survey.html
 * http://news.cornell.edu/stories/2015/03/images-fool-computer-vision-raise-security-concerns
 * http://techtv.mit.edu/collections/bcs/videos/30698-what-s-wrong-with-convolutional-nets
 * http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/
@@ -789,7 +789,6 @@
 * http://rinuboney.github.io/2015/10/18/theoretical-motivations-deep-learning.html
 * http://karpathy.github.io/2015/10/25/selfie/
 * https://github.com/andrewt3000/DL4NLP/blob/master/README.md#deep-learning-for-nlp-resources
-* http//iamtrask.github.io/2015/11/15/anyone-can-code-lstm/ <- a great intro to neural nets and LSTM
 * http://arxiv.org/abs/1511.06435 <- "Comparative Study of Caffe, Neon, Theano, and Torch for Deep Learning"
 * https://github.com/BradNeuberg/cloudless
 * http://karpathy.github.io/2015/05/21/rnn-effectiveness/ <- "Obsessed with char-nn after reading link and applying to federal regulations dataset. Amazing algorithm."
@@ -827,6 +826,15 @@
 * https://www.wired.com/story/new-theory-deep-learning 
 * https://medium.com/towards-data-science/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153
 * http://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity/ <- amazing. Theoretical futures for deep learning
+
+
+#### LSTM
+
+* https://medium.com/mlreview/understanding-lstm-and-its-diagrams-37e2f46f1714
+* http://blog.echen.me/2017/05/30/exploring-lstms/
+* http://www.neutronest.moe/2015-11-15-LSTM-survey.html
+* http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/ <- a great intro to neural nets and LSTM
+
 
 #### Capsule Networks
 
@@ -927,6 +935,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * https://blog.algorithmia.com/becoming-a-10x-data-scientist/ 
 * http://www.thedsinterview.com/
 * https://blog.insightdatascience.com/what-would-be-useful-for-aspiring-data-scientists-to-know-4ce0baf65d97
+* http://alexpetralia.com/posts/2017/6/26/learning-linux-bash-to-get-things-done
 
 
 

@@ -417,13 +417,14 @@ pandemic-20150311-story.html
 
 
 
-#### Opioids, Addiction
+#### Opioids, Addiction, Anxiety Meds
 
 * https://www.theguardian.com/society/2017/jul/19/opioid-addiction-reddit-fentanyl-appalachia
 * http://jamanetwork.com/journals/jamapsychiatry/fullarticle/2647079 - "Prevalence of 12-Month Alcohol Use, High-Risk Drinking, and DSM-IV Alcohol Use Disorder in the United States, 2001-2002 to 2012-2013"
 * https://mic.com/articles/120403/14-years-after-decriminalizing-drugs-one-chart-shows-why-portugal-s-experiment-has-worked
 * https://fivethirtyeight.com/features/what-science-says-to-do-if-your-loved-one-has-an-opioid-addiction/
 * http://www.nationalgeographic.com/magazine/2017/09/the-addicted-brain/ 
+* https://tonic.vice.com/en_us/article/nzn8dq/i-tried-to-get-off-ativan
 
 
 #### Endocrine Disruptors, Pesticides
