@@ -826,6 +826,7 @@
 * https://www.wired.com/story/new-theory-deep-learning 
 * https://medium.com/towards-data-science/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153
 * http://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity/ <- amazing. Theoretical futures for deep learning
+* https://sushant-choudhary.github.io/blog/2017/11/25/a-friendly-introduction-to-backrop-in-python.html
 
 
 #### LSTM

@@ -687,6 +687,7 @@ http://www.apa.org/news/press/releases/2015/03/math-science-homework.aspx
 * http://www.npr.org/sections/ed/2017/04/04/522456671/a-new-look-at-the-lasting-consequences-of-student-debt
 * https://www.bloomberg.com/news/articles/2017-04-03/student-debt-giant-navient-to-borrowers-you-re-on-your-own
 * https://www.nytimes.com/2017/04/09/business/dealbook/states-say-navient-preyed-on-students.html
+* https://www.nytimes.com/2017/11/14/business/dealbook/student-loan-collection-flaws.html <- important
 
 
 
