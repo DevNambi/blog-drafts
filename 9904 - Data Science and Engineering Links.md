@@ -77,6 +77,7 @@
 * https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2
 * http://langlotzlab.stanford.edu/imaging-datasets/
 * https://www.kaggle.com/cdc/500-cities
+* http://fastml.com/goodbooks-10k-a-new-dataset-for-book-recommendations/
 
 
 
