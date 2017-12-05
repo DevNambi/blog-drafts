@@ -391,3 +391,4 @@
 * http://www.bizjournals.com/seattle/blog/2015/11/bad-timingas-thousands-of-new-apartments-open.html
 * http://www.citylab.com/work/2015/12/where-us-brainpower-tends-to-cluster/420102/
 * http://www.geekwire.com/2015/find-out-which-natural-disaster-is-most-likely-to-hit-you-with-this-handy-map/
+* https://explorepartsunknown.com/seattle/the-perfect-day-in-seattle/

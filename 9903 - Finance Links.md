@@ -509,6 +509,7 @@
 * http://www.nakedcapitalism.com/2017/05/organizing-gig-economy-lessons-latin-america.html
 * http://www.economist.com/news/essays/21649050-badly-educated-men-rich-countries-have-not-adapted-well-trade-technology-or-feminism
 * http://theweek.com/articles/717294/wealth-inequality-even-worse-than-income-inequality
+* https://www.icij.org/investigations/paradise-papers/ <- the rich don't give a sh_t about anyone
 
 
 

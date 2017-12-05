@@ -500,6 +500,7 @@
 * https://medium.com/choking-on-a-macaron/what-you-don-t-know-about-tripadvisor-15d31d745bdc
 * https://www.nytimes.com/2017/01/22/business/bangladesh-protest-apparel-clothing.html
 * https://www.baumhedlundlaw.com/toxic-tort-law/monsanto-roundup-lawsuit/monsanto-secret-documents/
+* https://www.nytimes.com/2017/11/25/business/etsy-josh-silverman.html <- a.k.a. "Capitalism ruins Etsy"
 
 
 

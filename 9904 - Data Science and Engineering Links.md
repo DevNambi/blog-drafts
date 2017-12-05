@@ -77,6 +77,7 @@
 * https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2
 * http://langlotzlab.stanford.edu/imaging-datasets/
 * https://www.kaggle.com/cdc/500-cities
+* http://fastml.com/goodbooks-10k-a-new-dataset-for-book-recommendations/
 
 
 
@@ -830,6 +831,7 @@
 * https://www.wired.com/story/new-theory-deep-learning 
 * https://medium.com/towards-data-science/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153
 * http://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity/ <- amazing. Theoretical futures for deep learning
+* https://sushant-choudhary.github.io/blog/2017/11/25/a-friendly-introduction-to-backrop-in-python.html
 * https://research.googleblog.com/2017/12/deepvariant-highly-accurate-genomes.html
 * https://distill.pub/2017/aia/ - "Using Artiﬁcial Intelligence to Augment Human Intelligence"
 
