@@ -358,6 +358,7 @@
 * https://www.neuraldesigner.com/blog/methods-binary-classification
 * https://elitedatascience.com/imbalanced-classes
 * http://www.dataschool.io/roc-curves-and-auc-explained/
+* https://medium.com/greyatom/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b <- a brilliant place to start
 
 
 "Remember, nonlinear interactions, and non-Gaussian distributions are the default. "
@@ -628,6 +629,7 @@
 
 * https://deepmind.com/blog/alphago-zero-learning-scratch/
 * http://efavdb.com/battleship/ <- reinforcement learning
+* https://pythonmachinelearning.pro/an-overview-of-reinforcement-learning-teaching-machines-to-play-games/
 
 
 
@@ -674,6 +676,7 @@
 * https://activewizards.com/blog/top-15-libraries-for-data-science-in-python/
 * http://pytorch.org/tutorials/
 * http://hyperopt.github.io/hyperopt-sklearn/
+* https://github.com/norvig/pytudes <- some interesting learning resources
 
 **Pandas**
 
@@ -715,6 +718,7 @@
 * http://stackoverflow.com/questions/27697766/understanding-min-df-and-max-df-in-scikit-countvectorizer/
 * http://engineering.flipboard.com/2017/02/storyclustering 
 * http://nbviewer.jupyter.org/github/JasonKessler/Scattertext-PyData/tree/master/
+* https://github.com/gregversteeg/corex_topic
 
 
 #### Image Processing
@@ -826,6 +830,8 @@
 * https://www.wired.com/story/new-theory-deep-learning 
 * https://medium.com/towards-data-science/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153
 * http://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity/ <- amazing. Theoretical futures for deep learning
+* https://research.googleblog.com/2017/12/deepvariant-highly-accurate-genomes.html
+* https://distill.pub/2017/aia/ - "Using Artiﬁcial Intelligence to Augment Human Intelligence"
 
 
 #### LSTM
@@ -840,7 +846,7 @@
 
 * https://www.wired.com/story/googles-ai-wizard-unveils-a-new-twist-on-neural-networks/
 * https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b
-
+* https://www.youtube.com/watch?v=2Kawrd5szHE
 
 
 
@@ -1079,6 +1085,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://www.google.com/analytics/data-studio/
 * http://dbmsmusings.blogspot.com/2017/10/apache-arrow-vs-parquet-and-orc-do-we.html
 * https://blog.shodan.io/the-hdfs-juggernaut/
+* https://blog.capitalplanning.nyc/apache-airflow-for-the-confused-b588935669df
 
 
 

@@ -262,6 +262,7 @@
 * http://www.vanityfair.com/news/2016/11/how-bill-marczak-spyware-can-control-the-iphone
 * https://theintercept.com/2016/12/08/phone-cracking-cellebrite-software-used-to-prosecute-tortured-dissident/
 * https://arstechnica.com/gadgets/2017/04/samsungs-tizen-is-riddled-with-security-flaws-amateurishly-written/
+* https://blog.elcomsoft.com/2017/11/ios-11-horror-story-the-rise-and-fall-of-ios-security/
 
 
 

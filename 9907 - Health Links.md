@@ -266,6 +266,7 @@
 * http://www.vox.com/2015/1/29/7929791/measles-outbreak-2014
 * http://www.nytimes.com/2015/01/29/us/father-of-boy-with-leukemia-asks-california-school-officials-to-bar-unvaccinated-students.html
 * https://arstechnica.com/science/2017/02/tragic-fda-reports-of-sick-babies-reveal-toll-of-homeopathic-products/ <- related
+* https://arstechnica.com/science/2017/12/morals-behind-anti-vaccination-vigilance-against-tyrannical-impure-shots/ <- intriguing. social psychology 
 
 #### Autism
 
@@ -329,6 +330,7 @@
 * https://aws.amazon.com/blogs/big-data/interactive-analysis-of-genomic-datasets-using-amazon-athena/
 * http://cancer.nautil.us/article/167/how-big-data-can-help-fight-cancer
 * https://www.statnews.com/2017/06/20/human-genome-not-fully-sequenced/
+* https://research.googleblog.com/2017/12/deepvariant-highly-accurate-genomes.html
 
 
 #### Diabetes
