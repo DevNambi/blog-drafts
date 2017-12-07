@@ -118,6 +118,7 @@
 * https://www.quora.com/What-happens-over-time-if-each-year-I-fire-all-my-below-average-programmers-and-get-better-ones/answer/Ethar-Alali
 * https://github.com/mr-mig/every-programmer-should-know/blob/master/README.md
 * https://threadreaderapp.com/thread/936615043126370306 <- Things Many People Find Too Obvious To Have Told You Already
+* https://www.divio.com/en/blog/documentation/
 
 
 
@@ -238,6 +239,7 @@
 * http://calnewport.com/blog/2011/12/23/flow-is-the-opiate-of-the-medicore-advice-on-getting-better-from-an-accomplished-piano-player/
 * http://hackeducation.com/2017/07/22/bootcamp-bust 
 * https://github.com/norvig/pytudes <- a great set of Python challenges
+* https://www.divio.com/en/blog/documentation/
 
 
 
@@ -271,6 +273,7 @@
 * http://thecodist.com/article/the-biggest-difference-between-coding-today-and-when-i-started-in-the-80-s
 * http://blog.contino.io/blog/the-10x-software-development-gap-why-do-some-organisations-win-and-others-lose-when-it-comes-to-software
 * http://www.shellypalmer.com/2017/04/id-pay-500000-year-cant-work/
+* https://www.divio.com/en/blog/documentation/
 
 
 
@@ -319,7 +322,7 @@
 
 
 
-## Programming Teams,  Large Projects, Project Management
+## Programming Teams, Large Projects, Project Management
 
 
 <li><a href="https://community.uservoice.com/blog/trello-google-docs-product-management/" time_added="1390416673" tags="">How we use Trello & Google Docs to make UserVoice better every day | UserCe</a></li>

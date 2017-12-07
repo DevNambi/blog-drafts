@@ -631,6 +631,7 @@
 * https://deepmind.com/blog/alphago-zero-learning-scratch/
 * http://efavdb.com/battleship/ <- reinforcement learning
 * https://pythonmachinelearning.pro/an-overview-of-reinforcement-learning-teaching-machines-to-play-games/
+* https://www.chess.com/news/view/google-s-alphazero-destroys-stockfish-in-100-game-match
 
 
 
