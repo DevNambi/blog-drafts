@@ -339,6 +339,7 @@
 * http://www.wired.com/2014/12/diabetes-patients-hacking-together-diy-bionic-pancreases/
 * http://www.fastcoexist.com/3052935/the-latest-breakthrough-in-understanding-diabetes-was-made-by-an-algorithm
 * https://research.googleblog.com/2016/11/deep-learning-for-detection-of-diabetic.html
+* https://www.theguardian.com/society/2017/dec/05/radical-diet-can-reverse-type-2-diabetes-new-study-shows
 
 #### Alzheimers, MS, Strokes
 
