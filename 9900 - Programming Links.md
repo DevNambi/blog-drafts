@@ -388,6 +388,7 @@
 * http://www.furtherfield.org/features/articles/why-arent-we-reading-turing
 * http://lwn.net/SubscriberLink/641779/474137b50693725a/
 * https://channel9.msdn.com/Events/Build/2014/3-642 <- Leslie Lamport, one of the greats
+* [What Makes a Great Software Engineer?](https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf)
 
 
 
@@ -846,6 +847,7 @@ Microsoft and other third-party developers have a huge problem: they don't liste
 * https://aws.amazon.com/blogs/ai/tuning-your-dbms-automatically-with-machine-learning/ <- the future
 * https://syslog.ravelin.com/you-probably-shouldnt-use-dynamodb-89143c1287ca
 * https://madusudanan.com/blog/understanding-postgres-caching-in-depth/
+* https://pgexercises.com/
 
 
 
