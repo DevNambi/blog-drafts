@@ -624,6 +624,7 @@
 * http://techeffigytutorials.blogspot.com/2015/02/the-genetic-algorithm-explained.html
 * https://deepmind.com/blog/alphago-zero-learning-scratch/
 * http://www.newyorker.com/tech/elements/deepmind-artificial-intelligence-video-games
+* http://research.googleblog.com/2017/12/tfgan-lightweight-library-for.html
 
 
 #### Reinforcement Learning
