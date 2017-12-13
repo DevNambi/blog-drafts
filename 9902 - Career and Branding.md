@@ -77,6 +77,7 @@
 * https://developers.google.com/appmaker/
 * https://www.reddit.com/r/Entrepreneur/comments/6lmotf/i_make_10000_per_month_with_the_amazon_affiliate/
 * https://www.indiehackers.com/@Louis_Grenier/2cc8c6c79c
+* [How the right kind of trust made me $60,000](https://mightyintrovert.com/trust/)
 
 
 **One-person SAAS:**
