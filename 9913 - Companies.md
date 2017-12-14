@@ -466,6 +466,10 @@
 * http://www.dw.com/en/airbnb-dominated-by-professional-landlords/a-39972379
 
 
+## Patreon
+
+* https://blog.patreon.com/not-rolling-out-fees-change/
+
 
 ## Misc
 
