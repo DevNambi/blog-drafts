@@ -946,6 +946,7 @@ Peter Norvig Quote: "More data beats clever algorithms, but better data beats mo
 * http://www.thedsinterview.com/
 * https://blog.insightdatascience.com/what-would-be-useful-for-aspiring-data-scientists-to-know-4ce0baf65d97
 * http://alexpetralia.com/posts/2017/6/26/learning-linux-bash-to-get-things-done
+* https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g22aaaf9c33_0_95 <- a good place to start
 
 
 
