@@ -691,6 +691,7 @@
 * https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf
 * https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
 * https://github.com/guipsamora/pandas_exercises
+* https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-part-4-c4216f84d388
 
 
 

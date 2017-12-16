@@ -306,6 +306,7 @@
 * http://www.bostonherald.com/news/local_coverage/2017/04/more_than_8000_ride_share_drivers_flunked_mass_background_checks
 * https://www.buzzfeed.com/carolineodonovan/how-ubers-hard-charging-corporate-culture-left-employees
 * https://stratechery.com/2017/the-uber-dilemma/
+* https://arstechnica.com/tech-policy/2017/12/new-letter-top-uber-officials-engaged-in-illegal-wiretapping-shady-spycraft/
 
 
 
