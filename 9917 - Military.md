@@ -174,7 +174,7 @@
 * http://warisboring.com/108-u-s-f-35s-wont-be-combat-capable/
 * https://warisboring.com/thousands-of-nazis-marched-in-new-york-in-1939/
 * http://www.duffelblog.com/2017/08/command-and-general-staff-college-grads-continue-perfect-record-of-losing-wars/
-
+* http://www.newsweek.com/torture-used-us-military-guantanamo-bay-despite-being-banned-un-says-747373 <- another un-American activity perpetuated by its government.
 
 
 
