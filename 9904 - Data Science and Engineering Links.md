@@ -837,6 +837,7 @@
 * https://sushant-choudhary.github.io/blog/2017/11/25/a-friendly-introduction-to-backrop-in-python.html
 * https://research.googleblog.com/2017/12/deepvariant-highly-accurate-genomes.html
 * https://distill.pub/2017/aia/ - "Using Artiﬁcial Intelligence to Augment Human Intelligence"
+* http://minimaxir.com/2017/11/benchmark-gpus/ <- price/performance 
 
 
 #### LSTM
