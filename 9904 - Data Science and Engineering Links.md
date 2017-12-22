@@ -818,7 +818,7 @@
 * http://course.fast.ai/start.html
 * http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/deep-learning-ai-listens-to-machines-for-signs-of-trouble
 * https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab
-* https://arxiv.org/abs/1701.07274 <- Deep Reinforcement Learning: An Overview
+* [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
 * http://www.kdnuggets.com/2017/02/python-deep-learning-frameworks-overview.html
 * https://medium.com/slavv/picking-an-optimizer-for-style-transfer-86e7b8cba84b
 * http://www.fast.ai/2017/04/06/alternatives/
@@ -833,11 +833,12 @@
 * https://aws.amazon.com/blogs/ai/get-started-with-deep-learning-using-the-aws-deep-learning-ami/
 * https://www.wired.com/story/new-theory-deep-learning 
 * https://medium.com/towards-data-science/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153
-* http://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity/ <- amazing. Theoretical futures for deep learning
+* [Amazing. Theoretical futures for deep learning](http://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity/)
 * https://sushant-choudhary.github.io/blog/2017/11/25/a-friendly-introduction-to-backrop-in-python.html
 * https://research.googleblog.com/2017/12/deepvariant-highly-accurate-genomes.html
-* https://distill.pub/2017/aia/ - "Using Artiﬁcial Intelligence to Augment Human Intelligence"
+* [Using Artiﬁcial Intelligence to Augment Human Intelligence](https://distill.pub/2017/aia/)
 * http://minimaxir.com/2017/11/benchmark-gpus/ <- price/performance 
+* [Deep Learning Achievements Over the Past Year](https://blog.statsbot.co/deep-learning-achievements-4c563e034257)
 
 
 #### LSTM

@@ -53,7 +53,7 @@ Only use active verbs.
 * http://blog.statuspage.io/why-public-apologies-suck
 * https://hackernoon.com/pr-101-for-engineers-7cd116cc5347
 * https://longreads.com/2017/04/12/the-elements-of-bureaucratic-style/
-
+* http://andrewchen.co/professional-blogging/
 
 
 Blog meta

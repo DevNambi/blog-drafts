@@ -36,6 +36,7 @@
 * http://www.marketsforgood.org/smarter-nonprofit-networking2/
 * https://tractionloops.com/web-property-systems/
 * http://www.growandconvert.com/conversion-rate-optimization/email-list-facebook-ads/
+* http://www.fast.ai/2017/12/18/personal-brand/
 
 
 
