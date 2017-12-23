@@ -428,7 +428,6 @@
 <li><a href="http://burakkanber.com/blog/machine-learning-in-other-languages-introduction/" time_added="1391099558" tags="">http://burakkanber.com/blog/machine-learning-in-other-languages-introductio</a></li>
 <li><a href="http://www.machinedlearnings.com/2014/02/stranger-in-strange-land.html" time_added="1393049267" tags="">"Stranger in a Strange Land" - @PaulMineiro on possible lessons #machine le</a></li>
 <li><a href="https://github.com/BVLC/caffe/commit/76c73d5549c54620e1a9a8654c5dc31d090ac28e" time_added="1390924939" tags="">Terrific! Caffe, Berkeley's super fast #convnet library, just got BSD licen</a></li>
-<li><a href="http://soc.att.com/LTyEcz" time_added="1390405049" tags="">Matrix Factorization Techniques For Recommender Systems | soc.att.com/LTyEc</a></li>
 <li><a href="http://t.co/ZyvxDEk7" time_added="1357632396" tags="ml">peteskomoroch: NYU Large Scale Machine Learning Class http://t.co/ZyvxDEk7 </a></li>
 <li><a href="http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms" time_added="1354852345" tags="ml">List of machine learning algorithms - Wikipedia, the free encyclopedia</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Weka_(machine_learning)" time_added="1354852343" tags="ml">Weka (machine learning) - Wikipedia, the free encyclopedia</a></li>
@@ -468,7 +467,6 @@
 * http://alex.smola.org/talks/NIPS15.pdf
 * https://www.kaggle.com/users/195999/henning-sperr/otto-group-product-classification-challenge/finding-ensamble-weights
 * http://mlwave.com/kaggle-ensembling-guide/
-* http://blog.dato.com/choosing-a-recommender-model
 * http://research.microsoft.com/pubs/192769/tricks-2012.pdf
 * http://arxiv.org/pdf/1503.01331v1.pdf
 * http://cs.jhu.edu/~jason/tutorials/ml-simplex.html
@@ -511,7 +509,6 @@
 * http://nautil.us/issue/27/dark-matter/artificial-intelligence-is-already-weirdly-inhuman
 * http://techcrunch.com/2015/08/02/machine-learning-and-human-bias-an-uneasy-pair/
 * https://lab.getbase.com/is-regression-trustworthy-or-how-to-use-metrics-to-trust-the-prediction-of-regression/
-* http://fastml.com/evaluating-recommender-systems/
 * http://nerds.airbnb.com/confidence-splitting-criterions/
 * http://educationoutrage.blogspot.com/2015/11/the-fraudulent-claims-made-by-ibm-about.html
 * http://willmcginnis.com/2015/11/29/beyond-one-hot-an-exploration-of-categorical-variables/
@@ -520,7 +517,6 @@
 * https://peadarcoyle.wordpress.com/2015/12/23/three-things-i-wish-i-knew-earlier-about-machine-learning/
 * https://en.wikipedia.org/wiki/Moravec%27s_paradox
 * http://www.wired.com/2016/02/android-inventor-andy-rubin-playground-artificial-intelligence/
-* http://techblog.netflix.com/2016/02/recommending-for-world.html
 * http://www.pybloggers.com/ensemble-methods-elegant-techniques-to-produce-improved-machine-learning-results/
 * http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb
 * http://cleveralgorithms.com/nature-inspired/index.html <- AMAZING
@@ -600,8 +596,18 @@
 
 #### Recommendation Systems
 
+<li><a href="http://soc.att.com/LTyEcz" time_added="1390405049" tags="">Matrix Factorization Techniques For Recommender Systems | soc.att.com/LTyEc</a></li>
+
+
 * https://medium.com/@mikedewar/recommendation-engines-aren-t-for-maximising-metrics-they-are-for-designing-experiences-b2cb3395092c
 * http://fastml.com/real-time-interactive-movie-recommendation/
+* http://fastml.com/evaluating-recommender-systems/
+* http://techblog.netflix.com/2016/02/recommending-for-world.html
+* http://blog.dato.com/choosing-a-recommender-model
+* http://www.slideshare.net/MrChrisJohnson/scala-data-pipelines-for-music-recommendations
+* http://www.datacommunitydc.org/blog/2013/05/recommendation-engines-why-you-shouldnt-build-one
+
+
 
 
 #### Agent Systems, Networks, Adversarial ML, GANs, NP-Hard
@@ -644,6 +650,7 @@
 <li><a href="http://t.co/xTsyCQ92" time_added="1361257089" tags="">Free SignalR book: campusmvp.net/signalr-ebook/ #mvp13 #mvpbuzz</a></li>
 <li><a href="http://t.co/y9De8Gt1" time_added="1358258443" tags="">eddelbuettel: A first and simple Boost example with Rcpp at the Rcpp Galler</a></li>
 <li><a href="http://www.r-bloggers.com/visualizing-principal-components/" time_added="1356371205" tags="">Visualizing Principal Components | (R news & tutorials)</a></li>
+
 * http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html
 * http://technology.stitchfix.com/blog/2015/03/17/grammar-of-data-science/
 * http://randyzwitch.com/twitter-breakoutdetection-r-package-evaluation/
@@ -655,32 +662,46 @@
 #### Python
 
 <li><a href="http://t.co/47hDG41K" time_added="1354643001" tags="ml">slendrmeans: ML for Hackers up to chapter 9, Pythonized: http://t.co/47hDG4</a></li>
-<li><a href="http://t.co/4ycMleOs" time_added="1353007778" tags="data science,ml">mikedewar: SciKit Random Forest - Brian Eoff on Vimeo http://t.co/4ycMleOs</a></li>
 
-* http://nbviewer.ipython.org/github/jakevdp/sklearn_pydata2015/blob/master/notebooks/Index.ipynb
-* http://blog.kaggle.com/2015/07/16/scikit-learn-video-8-efficiently-searching-for-optimal-tuning-parameters/
 * https://www.springboard.com/blog/data-mining-python-tutorial/
 * http://nbtest.herokuapp.com/github/fonnesbeck/Bios366/blob/master/notebooks/Section3_3-Expectation-Maximization.ipynb
-* http://nbviewer.ipython.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb
 * https://github.com/avehtari/BDA_py_demos
-* http://nicolas.kruchten.com/content/2015/09/jupyter_pivottablejs/
 * http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/
 * https://civisanalytics.com/blog/data-science/2016/01/06/workflows-python-using-pipeline-gridsearchcv-for-compact-code/
 * https://databricks.com/blog/2016/02/08/auto-scaling-scikit-learn-with-spark.html
 * http://sebastianraschka.com/blog/2015/why-python.html
 * https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
 * https://ipgp.github.io/scientific_python_cheat_sheet/
-* http://www.scipy-lectures.org/
 * https://www.themarketingtechnologist.co/helping-our-new-data-scientists-start-in-python-a-guide-to-learning-by-doing/
 * https://github.com/jakevdp/PythonDataScienceHandbook/
-* https://medium.com/@kacawi/jupyter-notebook-tutorial-the-definitive-guide-660c7e651ecd
-* https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
-* https://medium.com/pachyderm-data/jupyter-pachyderm-part-1-exploring-and-understanding-historical-analyses-2a37e56c6578 
-* http://blog.jupyter.org/2017/03/01/ipywidgets-6-release/
 * https://activewizards.com/blog/top-15-libraries-for-data-science-in-python/
 * http://pytorch.org/tutorials/
 * http://hyperopt.github.io/hyperopt-sklearn/
 * https://github.com/norvig/pytudes <- some interesting learning resources
+
+
+**Jupyter Notebook**
+
+* http://blog.jupyter.org/2017/03/01/ipywidgets-6-release/
+* https://medium.com/pachyderm-data/jupyter-pachyderm-part-1-exploring-and-understanding-historical-analyses-2a37e56c6578 
+* https://medium.com/@kacawi/jupyter-notebook-tutorial-the-definitive-guide-660c7e651ecd
+* https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
+* http://nicolas.kruchten.com/content/2015/09/jupyter_pivottablejs/
+
+
+**Scipy and Numpy**
+
+* [Advanced Numpy Techniques](http://nbviewer.jupyter.org/github/vlad17/np-learn/blob/master/presentation.ipynb?flush_cache=true)
+* http://www.scipy-lectures.org/
+
+
+**Scikit-Learn**
+
+* http://nbviewer.ipython.org/github/jakevdp/sklearn_pydata2015/blob/master/notebooks/Index.ipynb
+* http://nbviewer.ipython.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb
+* http://blog.kaggle.com/2015/07/16/scikit-learn-video-8-efficiently-searching-for-optimal-tuning-parameters/
+* [mikedewar: SciKit Random Forest - Brian Eoff on Vimeo](http://t.co/4ycMleOs)
+
 
 **Pandas**
 
@@ -1246,7 +1267,6 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://instagram-engineering.tumblr.com/post/122961624217/trending-at-instagram
 * https://www.oreilly.com/ideas/the-current-state-of-machine-intelligence-2-0
 * http://blog.yhathq.com/posts/decision-making-under-uncertainty.html
-* http://www.datacommunitydc.org/blog/2013/05/recommendation-engines-why-you-shouldnt-build-one
 * https://medium.com/3-to-read/hacking-journalism-data-science-in-the-newsroom-15d7d1b73218
 * https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3
 * http://technocalifornia.blogspot.com/2014/12/ten-lessons-learned-from-building-real.html
@@ -1264,7 +1284,6 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * http://www.slate.com/articles/health_and_science/new_scientist/2012/12/kaggle_president_jeremy_howard_amateurs_beat_specialists_in_data_prediction.html
 * http://scatter.wordpress.com/2015/01/03/beckieball-and-the-study-of-not-quite-elite-selected-groups/
 * http://blog.dato.com//bringing-deep-learning-to-the-grocery-store
-* http://www.slideshare.net/MrChrisJohnson/scala-data-pipelines-for-music-recommendations
 * https://gigaom.com/2015/01/24/why-data-science-matters-and-how-technology-makes-it-possible/
 * http://blog.dominodatalab.com/reflections-on-buy-vs-build/?hn=1
 * http://firstround.com/review/everything-we-wish-wed-known-about-building-data-products/
