@@ -585,6 +585,7 @@
 * http://twiecki.github.com/blog/2015/11/10/mcmc-sampling/
 * https://www.countbayesie.com/blog/2015/11/21/the-black-friday-puzzle-understanding-markov-chains
 * https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/ 
+* [A Zero-Math Introduction to Markov Chain Monte Carlo Methods](https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50)
 
 
 
@@ -839,6 +840,7 @@
 * [Using Artiﬁcial Intelligence to Augment Human Intelligence](https://distill.pub/2017/aia/)
 * http://minimaxir.com/2017/11/benchmark-gpus/ <- price/performance 
 * [Deep Learning Achievements Over the Past Year](https://blog.statsbot.co/deep-learning-achievements-4c563e034257)
+* [The Man Who Tried to Redeem the World with Logic](http://nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic)
 
 
 #### LSTM

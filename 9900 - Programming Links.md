@@ -472,6 +472,7 @@
 * https://stackoverflow.blog/2017/07/21/trends-cloud-computing-uses-aws-uses-azure/
 * https://www.cockroachlabs.com/blog/gs-response/
 * https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/
+* http://obe.tv/about-us/obe-blog/item/50-avx-512-what-s-useful-for-us
 
 
 
@@ -848,6 +849,7 @@ Microsoft and other third-party developers have a huge problem: they don't liste
 * https://syslog.ravelin.com/you-probably-shouldnt-use-dynamodb-89143c1287ca
 * https://madusudanan.com/blog/understanding-postgres-caching-in-depth/
 * https://pgexercises.com/
+* [Distributed count distinct vs. HyperLogLog in Postgres](https://www.citusdata.com/blog/2017/12/22/distributed-count-vs-hyperloglog/)
 
 
 
