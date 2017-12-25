@@ -363,7 +363,7 @@
 * http://www.yegor256.com/2015/10/27/outsourcing-doesnt-work.html
 * http://www.seattletimes.com/seattle-news/education/plan-for-new-uw-payroll-system-behind-schedule-more-costly-than-expected/ <- waterfall approach
 * https://18f.gsa.gov/2015/12/29/is-your-project-using-agilefall/ <- this is why.
-
+* [The sunk cost fallacy: Devs describe how it almost destroyed them](https://www.gamasutra.com/view/news/310063/The_sunk_cost_fallacy_Devs_describe_how_it_almost_destroyed_them.php)
 
 
 
