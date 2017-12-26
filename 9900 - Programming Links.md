@@ -599,6 +599,7 @@
 * https://engineering.coinbase.com/you-need-more-than-one-aws-account-aws-bastions-and-assume-role-23946c6dfde3
 * https://peteris.rocks/blog/persisting-state-between-aws-ec2-spot-instances/ 
 * https://coursetro.com/posts/other/95/MailChimp-vs.-Amazon-SES---How-I-Reduced-My-Monthly-Bill-by-92%
+* https://aws.amazon.com/blogs/aws/aws-training-certification-update-free-digital-training-certified-cloud-practitioner-exam/
 
 
 

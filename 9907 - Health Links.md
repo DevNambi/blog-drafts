@@ -816,6 +816,7 @@ pandemic-20150311-story.html
 * https://www.nytimes.com/2017/01/22/business/president-donald-trump-health-insurance-high-risk-pool.html
 * https://arstechnica.com/science/2017/02/marathon-gets-the-shkreli-treatment-from-industry-after-89k-drug-dust-up/
 * https://www.propublica.org/article/the-myth-of-drug-expiration-dates
+* [How Opaque Healthcare Pricing Mechanisms Rip Off Consumers](https://wolfstreet.com/2017/12/25/location-based-healthcare-pricing-rips-off-consumers/)
 
 
 
