@@ -862,6 +862,7 @@
 * http://minimaxir.com/2017/11/benchmark-gpus/ <- price/performance 
 * [Deep Learning Achievements Over the Past Year](https://blog.statsbot.co/deep-learning-achievements-4c563e034257)
 * [The Man Who Tried to Redeem the World with Logic](http://nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic)
+* [My Favorite Deep Learning Papers of 2017](http://cachestocaches.com/2017/12/favorite-deep-learning-2017/)
 
 
 #### LSTM

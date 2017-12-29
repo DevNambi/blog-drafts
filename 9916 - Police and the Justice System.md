@@ -11,6 +11,7 @@
 * https://www.bwcscorecard.org/ <- score cards on police body camera policies
 
 
+* [Is “Big Data” racist? Why policing by data isn’t necessarily objective](https://arstechnica.com/tech-policy/2017/12/is-big-data-racist-why-policing-by-data-isnt-necessarily-objective/)
 * http://www.baltimoresun.com/news/maryland/crime/bs-md-ci-baltimore-police-indicted-20170301-story.html
 * https://www.propublica.org/article/vivitrol-opiate-crisis-and-criminal-justice
 * https://www.theatlantic.com/politics/archive/2017/05/plea-bargaining-courts-prosecutors/524112/

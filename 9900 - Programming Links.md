@@ -364,6 +364,7 @@
 * http://www.seattletimes.com/seattle-news/education/plan-for-new-uw-payroll-system-behind-schedule-more-costly-than-expected/ <- waterfall approach
 * https://18f.gsa.gov/2015/12/29/is-your-project-using-agilefall/ <- this is why.
 * [The sunk cost fallacy: Devs describe how it almost destroyed them](https://www.gamasutra.com/view/news/310063/The_sunk_cost_fallacy_Devs_describe_how_it_almost_destroyed_them.php)
+* [Things I have learnt as the software engineering lead of a multinational](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/)
 
 
 
@@ -389,7 +390,7 @@
 * http://lwn.net/SubscriberLink/641779/474137b50693725a/
 * https://channel9.msdn.com/Events/Build/2014/3-642 <- Leslie Lamport, one of the greats
 * [What Makes a Great Software Engineer?](https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf)
-
+* [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 
 
 

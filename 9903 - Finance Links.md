@@ -510,6 +510,8 @@
 * http://www.economist.com/news/essays/21649050-badly-educated-men-rich-countries-have-not-adapted-well-trade-technology-or-feminism
 * http://theweek.com/articles/717294/wealth-inequality-even-worse-than-income-inequality
 * https://www.icij.org/investigations/paradise-papers/ <- the rich don't give a sh_t about anyone
+* [Who Are the Top 1 Percent in America? The Answer from New Research Might Surprise You](https://promarket.org/top-1-percent-america-answer-new-research-might-surprise/)
+* [Unstacking the deck](http://www.seattlereviewofbooks.com/reviews/unstacking-the-deck/)
 
 
 
