@@ -225,6 +225,7 @@
 * http://nymag.com/scienceofus/2016/04/how-neuroscientists-explain-the-mind-clearing-magic-of-running.html
 * https://qz.com/1019928/i-went-from-sedentary-academic-to-100-mile-marathon-runner-thanks-to-the-science-of-self-control/
 * http://time.com/4824531/strength-training-women-exercise/
+* [First 100 miles on my E-Bike: what I learned](https://yilunzh.com/2017/12/30/first-100-miles-on-my-e-bike-what-i-learned/)
 
 
 <li><a href="http://www.nytimes.com/2013/11/03/sunday-review/womens-flexibility-is-a-liability-in-yoga.html?hp" time_added="1383445933" tags="domestic,health">http://www.nytimes.com/2013/11/03/sunday-review/womens-flexibility-is-a-lia</a></li>

@@ -168,6 +168,7 @@
 * http://firstround.com/review/shims-jigs-and-other-woodworking-concepts-to-conquer-technical-debt/
 * http://codeahoy.com/2016/04/21/when-to-rewrite-from-scratch-autopsy-of-a-failed-software/
 * https://www.darkcoding.net/software/facebooks-code-quality-problem/
+* [Pro Git](https://git-scm.com/book/en/v2)
 
 
 

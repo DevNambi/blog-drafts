@@ -303,6 +303,7 @@
 * https://medium.com/@remakingmanhood/when-men-keep-demanding-sex-from-their-partners-over-and-over-2215fae6d7b0
 * https://www.theatlantic.com/magazine/archive/2017/10/why-happy-people-cheat/537882/ 
 * https://www.technologyreview.com/s/609091/first-evidence-that-online-dating-is-changing-the-nature-of-society/ <- I love it
+* [Reid’s Safer Sex Elevator Speech](http://reidaboutsex.com/safersexelevatorspeech/)
 
 
 
