@@ -640,7 +640,7 @@
 * http://efavdb.com/battleship/ <- reinforcement learning
 * https://pythonmachinelearning.pro/an-overview-of-reinforcement-learning-teaching-machines-to-play-games/
 * https://www.chess.com/news/view/google-s-alphazero-destroys-stockfish-in-100-game-match
-
+* https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
 
 
 
