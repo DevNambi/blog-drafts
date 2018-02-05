@@ -50,6 +50,8 @@
 * http://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/
 * http://blog.archive.org/2017/08/11/hypercard-on-the-archive-celebrating-30-years-of-hypercard/
 * https://www.demilked.com/double-standards-illustrations/
+* https://www.nytimes.com/2018/01/30/smarter-living/six-stages-of-setbacks-help-growth.html
+
 
 
 
@@ -108,6 +110,7 @@
 * http://www.ozy.com/acumen/why-do-so-many-germans-regret-having-kids/74415
 * https://arstechnica.com/science/2017/02/kangaroo-care-why-keeping-baby-close-is-better-for-everyone/
 * https://www.theatlantic.com/magazine/archive/2013/07/how-long-can-you-wait-to-have-a-baby/309374/ <- PRICELESS
+* http://theconversation.com/with-teen-mental-health-deteriorating-over-five-years-theres-a-likely-culprit-86996
 
 
 <li><a href="http://www.economist.com/news/united-states/21608779-there-large-class-divide-how-americans-raise-their-children-rich-parents-can" time_added="1406589833" tags="">Parenting in America: Choose your parents wisely | The Economist</a><li>

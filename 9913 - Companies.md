@@ -437,6 +437,7 @@
 * http://www.autoblog.com/2017/06/01/most-46-million-recalled-takata-inflators-in-us-not-fixed/
 * https://arstechnica.com/cars/2017/07/audi-manager-charged-in-diesel-scandal-vw-execs-may-have-hid-cheating-risk/
 * https://arstechnica.com/cars/2017/05/volkswagen-bosch-fiat-diesel-emissions-cheats-cracked-open-in-new-research/
+* https://jalopnik.com/how-goodyear-hid-evidence-of-the-worst-tire-made-in-his-1822200424
 
 
 

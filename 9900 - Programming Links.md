@@ -478,7 +478,15 @@
 
 
 
-## Storage, SAN and I/O
+
+
+
+### Serverless
+
+* https://serverlesscode.com/post/python-on-serverless-intro/
+
+
+### Storage, SAN and I/O
 
 * http://www.smh.com.au/national/public-service/thousands-of-public-servants-sit-idle-as-atos-it-melts-down-20161213-gt9xfd.html
 * https://www.backblaze.com/blog/petabytes-on-a-budget-how-to-build-cheap-cloud-storage-2/
