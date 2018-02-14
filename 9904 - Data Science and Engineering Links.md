@@ -78,6 +78,7 @@
 * http://langlotzlab.stanford.edu/imaging-datasets/
 * https://www.kaggle.com/cdc/500-cities
 * http://fastml.com/goodbooks-10k-a-new-dataset-for-book-recommendations/
+* [FiveThirtyEight data sets](https://data.fivethirtyeight.com/)
 
 
 
@@ -642,6 +643,7 @@
 * https://www.chess.com/news/view/google-s-alphazero-destroys-stockfish-in-100-game-match
 * https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
 * https://github.com/tensorflow/minigo
+* [Making Sense of the Bias / Variance Trade-off in (Deep) Reinforcement Learning](https://medium.com/mlreview/making-sense-of-the-bias-variance-trade-off-in-deep-reinforcement-learning-79cf1e83d565)
 
 
 #### R
