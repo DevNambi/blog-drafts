@@ -818,6 +818,7 @@ pandemic-20150311-story.html
 * https://arstechnica.com/science/2017/02/marathon-gets-the-shkreli-treatment-from-industry-after-89k-drug-dust-up/
 * https://www.propublica.org/article/the-myth-of-drug-expiration-dates
 * [How Opaque Healthcare Pricing Mechanisms Rip Off Consumers](https://wolfstreet.com/2017/12/25/location-based-healthcare-pricing-rips-off-consumers/)
+* [An Aetna “Fake Accounts” Level Scandal? Medical Director Admits He Never Reviewed Medical Records Before Denying Care](https://www.nakedcapitalism.com/2018/02/an-aetna-fake-accounts-level-scandal-medical-director-admits-he-never-reviewed-medical-records-before-denying-care.html)
 
 
 

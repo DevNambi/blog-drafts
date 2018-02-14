@@ -253,6 +253,7 @@
 * https://arstechnica.com/tech-policy/2017/08/google-cancels-all-hands-diversity-meeting-over-safety-concerns/
 * https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788
 * https://www.blog.google/topics/diversity/note-employees-ceo-sundar-pichai/
+* https://techcrunch.com/2018/02/13/amp-for-email-is-a-terrible-idea/
 
 
 

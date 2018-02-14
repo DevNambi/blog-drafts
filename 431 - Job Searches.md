@@ -273,6 +273,7 @@ Remember that [people judge you based on first impressions](http://thrivewire.co
 
 * https://www.shrm.org/resourcesandtools/hr-topics/technology/pages/it-employers-would-pay-15-percent-more-for-top-talent.aspx
 * https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers
+* [Tech salaries in Austin, Texas are effectively $66,000 higher than in NYC thanks to the cost of living](https://qz.com/1195354/tech-salaries-in-austin-texas-are-effectively-66000-higher-than-in-nyc-thanks-to-the-cost-of-living/)
 
 
 
