@@ -880,6 +880,7 @@
 * https://www.wired.com/story/googles-ai-wizard-unveils-a-new-twist-on-neural-networks/
 * https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b
 * https://www.youtube.com/watch?v=2Kawrd5szHE
+* https://github.com/higgsfield/Capsule-Network-Tutorial 
 
 
 
@@ -1234,6 +1235,7 @@ Promising #bigdata decency heuristic from @timoreilly : can worker see the data 
 * https://databricks.com/blog/2016/01/25/deep-learning-with-spark-and-tensorflow.html
 * https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4
 * http://news.mit.edu/2017/faster-big-data-analysis-tensor-algebra-1031 <- not strictly TensorFlow, but very related
+* https://cobaltai.in/a-guide-to-tensorflow-part-1/ 
 
 
 

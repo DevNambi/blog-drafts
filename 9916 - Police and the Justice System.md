@@ -78,6 +78,7 @@
 * https://www.washingtonpost.com/news/wonk/wp/2015/11/10/report-in-lean-times-police-start-taking-a-lot-more-stuff-from-people/
 * http://www.thedenverchannel.com/news/u-s-world/cell-phone-video-chandler-officer-illegally-enters-womans-home-arrests-her-while-she-is-naked <- had his body camera off
 * http://mic.com/articles/130449/police-officer-found-not-guilty-after-tasing-unresponsive-native-american-man-28-times
+* [Tennessee sheriff taped saying 'I love this shit' after ordering suspect's killing](https://www.theguardian.com/us-news/2018/feb/06/tennessee-sheriff-caught-on-tape-killing-suspect-lawsuit)
 * http://arstechnica.com/the-multiverse/2015/12/bad-reviews-for-taser-documentary-on-amazon-itunes-seem-to-come-from-taser-employees/
 * http://www.washingtonpost.com/sf/investigative/2015/12/10/new-style-of-police-training-aims-to-produce-guardians-not-warriors/
 * http://www.theguardian.com/us-news/2015/jul/15/jonathan-sanders-mississppi-chokehold
