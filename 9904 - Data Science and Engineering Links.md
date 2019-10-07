@@ -193,6 +193,7 @@
 * https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/
 * https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.html
 * https://python-graph-gallery.com/
+* http://vallandingham.me/altair_intro.html
 
 
 #### D3 and related
@@ -865,6 +866,14 @@
 * [Deep Learning Achievements Over the Past Year](https://blog.statsbot.co/deep-learning-achievements-4c563e034257)
 * [The Man Who Tried to Redeem the World with Logic](http://nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic)
 * [My Favorite Deep Learning Papers of 2017](http://cachestocaches.com/2017/12/favorite-deep-learning-2017/)
+* https://blog.insightdatascience.com/nips-2017-day-1-highlights-6aa124c5a2c7
+* https://blog.insightdatascience.com/nips-2017-day-2-highlights-3470aedb048d
+* https://blog.insightdatascience.com/nips-2017-day-3-highlights-27864f551678
+* http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
+* https://distill.pub/2018/building-blocks/
+* https://research.google.com/bigpicture/
+
+
 
 
 #### LSTM

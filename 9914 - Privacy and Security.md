@@ -252,6 +252,7 @@
 * https://journal.standardnotes.org/vpns-are-absolutely-a-solution-to-a-policy-problem-3b88af699bcd
 * https://techcrunch.com/2017/04/09/how-i-made-my-own-vpn-server-in-15-minutes/
 * https://vpnreport.org/
+* https://motherboard.vice.com/amp/en_us/article/a34b7b/phantom-secure-sinaloa-drug-cartel-encrypted-blackberry
 
 
 

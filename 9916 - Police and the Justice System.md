@@ -424,6 +424,14 @@
 * http://warisboring.com/counterinsurgency-policing-and-the-militarization-of-americas-cities/
 * https://www.nytimes.com/2017/10/20/upshot/a-big-test-of-police-body-cameras-defies-expectations.html
 * https://theintercept.com/2017/10/10/recordings-capture-brutal-fbi-tactics-to-recruit-potential-informant/
+* https://www.nytimes.com/2018/03/18/nyregion/testilying-police-perjury-new-york.html
+* https://www.wired.com/story/hansa-dutch-police-sting-operation/
+
+
+
+
+
+
 
 
 

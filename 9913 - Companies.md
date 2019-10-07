@@ -110,6 +110,8 @@
 * https://arstechnica.com/business/2017/05/facebook-helped-advertisers-target-teens-who-feel-worthless/
 * https://hbr.org/2017/04/a-new-more-rigorous-study-confirms-the-more-you-use-facebook-the-worse-you-feel
 * https://www.cnbc.com/2017/09/06/facebook-inflates-ad-reach-claims-pivotal-research-analyst.html
+* https://freedom-to-tinker.com/2018/04/18/no-boundaries-for-facebook-data-third-party-trackers-abuse-facebook-login/
+
 
 
 ## Apple

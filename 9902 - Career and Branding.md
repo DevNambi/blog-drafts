@@ -116,6 +116,7 @@
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
 * http://www.littlekendra.com/2015/12/22/how-to-write-a-presentation-abstract-for-a-tech-conference/
 * https://www.hanselman.com/blog/URLsAreUI.aspx
+* https://medium.com/the-polymath-mba/buffett-keyword-technique-141372fd7767
 
 
 
@@ -160,6 +161,8 @@ ortant,personal tech">Kill the Password: Why a String of Characters Can't Protec
 * https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 * http://security.stackexchange.com/questions/142496/which-security-measures-make-sense-for-a-static-web-site 
 * https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/
+* https://danluu.com/octopress-speedup/
+* https://hackernoon.com/optimizing-a-static-site-d5ab6899f249
 
 
 

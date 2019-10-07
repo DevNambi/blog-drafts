@@ -241,6 +241,7 @@
 * http://hackeducation.com/2017/07/22/bootcamp-bust 
 * https://github.com/norvig/pytudes <- a great set of Python challenges
 * https://www.divio.com/en/blog/documentation/
+* https://developers.google.com/edu/python/
 
 
 
@@ -475,6 +476,7 @@
 * https://www.cockroachlabs.com/blog/gs-response/
 * https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/
 * http://obe.tv/about-us/obe-blog/item/50-avx-512-what-s-useful-for-us
+* https://www.theregister.co.uk/2018/01/02/intel_cpu_design_flaw/ <- CRAP CRAP CRAP CRAP
 
 
 
@@ -544,6 +546,8 @@
 * https://plus.google.com/+RipRowan/posts/eVeouesvaVX
 * https://www.coursera.org/googlecloud
 * https://serverless.com/framework/docs/providers/google/
+* https://cloudplatform.googleblog.com/2018/04/Cloud-SQL-for-PostgreSQL-now-generally-available-and-ready-for-your-production-workloads.html
+* https://cloudplatform.googleblog.com/2018/01/introducing-preemptible-gpus-50-off.html <- woohoo!
 
 
 
@@ -626,6 +630,7 @@
 * https://martinfowler.com/articles/serverless.html
 * https://skillsmatter.com/skillscasts/10813-faas-and-furious-0-to-serverless-in-60-seconds-anywhere
 * http://docs.aws.amazon.com/lambda/latest/dg/best-practices.html
+* https://benchling.engineering/powering-crispr-with-aws-lambda-f22c151a1ffc
 
 
 
@@ -807,6 +812,8 @@ Microsoft and other third-party developers have a huge problem: they don't liste
 * http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html
 * http://tldr-pages.github.io/
 * http://alexpetralia.com/posts/2017/6/26/learning-linux-bash-to-get-things-done
+* http://www.makelinux.net/kernel_map/
+
 
 
 
@@ -862,6 +869,7 @@ Microsoft and other third-party developers have a huge problem: they don't liste
 * https://madusudanan.com/blog/understanding-postgres-caching-in-depth/
 * https://pgexercises.com/
 * [Distributed count distinct vs. HyperLogLog in Postgres](https://www.citusdata.com/blog/2017/12/22/distributed-count-vs-hyperloglog/)
+* http://woz.posthaven.com/what-orms-have-taught-me-just-learn-sql
 
 
 
