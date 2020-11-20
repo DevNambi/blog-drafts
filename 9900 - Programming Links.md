@@ -498,6 +498,7 @@
 * http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/
 * https://www.backblaze.com/blog/cloud-storage-hardware/
 * https://medium.com/thought-frameworks/ram-is-the-new-disk-b94df9bbd7b
+* [Files are fraught with peril](https://danluu.com/deconstruct-files/)
 
 
 
