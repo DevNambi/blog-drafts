@@ -499,3 +499,6 @@ As we were getting ready to leave, we heard that many of these folks might be re
 I'll wrap this up by reminding everyone that all lives matter. We are all human beings. And we are Americans, and as such we are afforded protections under the law, the guilty and innocent alike. If one person is denied due process, we all suffer. If one persons rights and freedoms are trampled on, it's not only a reflection on all of us, but it puts our own liberty at risk. The moment we view some individuals as more important than others, we cheapen ourselves. At the very essence of our democracy is the right to question and stand up to authority. During these trying times, we should all keep that in mind.
 
 I'll leave you with a beautiful picture that was taken today of one of the women who was released without charges. Her husband had been waiting outside CBIF trying to find something...ANYTHING out about when she might be charged or released. This was taken moments after she walked out the door.....
+
+
+
