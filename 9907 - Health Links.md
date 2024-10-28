@@ -1,6 +1,8 @@
 # Health
 
+### COVID
 
+* https://www.ualberta.ca/en/folio/2024/10/research-reveals-new-clues-to-the-mysteries-of-long-covid.html
 
 ### Food
 
